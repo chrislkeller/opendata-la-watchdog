@@ -39,15 +39,13 @@ class Watchdog(object):
         self.set_options()
 
         download = self.file_list[0]
-
         test = []
         test.append(download)
         logger.debug(test)
-
         [self.download(f) for f in test]
 
         #[self.download(f) for f in self.file_list]
-        #self.update_github()
+        self.update_github()
 
     def set_options(self):
         """
@@ -74,10 +72,8 @@ class Watchdog(object):
         soup = BeautifulSoup(open("/Volumes/one_tb_hd/_programming/2kpcc/opendata-la-watchdog/index.html"))
 
         row_list = soup.find("table", {'class': lambda L: 'gridList' in L.split()}).findAll("tr")
-        logger.debug(row_list)
         self.file_list = []
         for row in row_list[1:]:
-            logger.debug(row)
             cell = row.find("td", { "class": "nameDesc" })
             data = cell.find("a", {"class": "name"})
             name = data.string
@@ -116,24 +112,27 @@ class Watchdog(object):
         template_data = open(template_path, 'r').read()
         template = Template(template_data)
         dict_list = []
-        for obj in self.file_list:
-            csv_name = "%s.csv" % obj['name']
-            csv_path = os.path.join(self.csv_dir, csv_name)
-            csv_reader = csv.reader(open(csv_path, 'r'))
-            json_name = "%s.json" % obj['name']
-            dict_list.append({
-                'name': obj['name'],
-                'row_count': len(list(csv_reader)),
-                'last_updated': str(self.now),
-                'csv_name': csv_name,
-                'json_name': json_name,
-                'url': obj['url'],
-            })
-        diff = envoy.run("git diff --stat").std_out
-        out_data = template.render(file_list=dict_list, diff=diff)
-        out_file = open(os.path.join(self.this_dir, 'README.md'), 'w')
-        out_file.write(out_data)
-        out_file.close()
+        for obj in self.file_list[0]:
+
+            logger.debug(obj)
+
+            #csv_name = "%s.csv" % obj['name']
+            #csv_path = os.path.join(self.csv_dir, csv_name)
+            #csv_reader = csv.reader(open(csv_path, 'r'))
+            #json_name = "%s.json" % obj['name']
+            #dict_list.append({
+                #'name': obj['name'],
+                #'row_count': len(list(csv_reader)),
+                #'last_updated': str(self.now),
+                #'csv_name': csv_name,
+                #'json_name': json_name,
+                #'url': obj['url'],
+            #})
+        #diff = envoy.run("git diff --stat").std_out
+        #out_data = template.render(file_list=dict_list, diff=diff)
+        #out_file = open(os.path.join(self.this_dir, 'README.md'), 'w')
+        #out_file.write(out_data)
+        #out_file.close()
 
     def update_github(self):
         """
