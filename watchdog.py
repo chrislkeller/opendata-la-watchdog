@@ -115,10 +115,10 @@ class Watchdog(object):
 
 
         test_file_list = [{'url': u'https://data.lacity.org/A-Well-Run-City/2014-Registered-Foreclosure-Properties/fdwe-pgcu', 'name': u'2014 Registered Foreclosure Properties', 'id': u'fdwe-pgcu'}]
-
         for obj in test_file_list:
-
         #for obj in self.file_list:
+
+
             csv_name = "%s.csv" % obj['name']
             csv_path = os.path.join(self.csv_dir, csv_name)
             csv_reader = csv.reader(open(csv_path, 'r'))
