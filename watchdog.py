@@ -21,14 +21,12 @@ class Watchdog(object):
     """
     format_list = ['csv', 'json']
 
-    #url_template = 'https://controllerdata.lacity.org/api/views/%(id)s/rows.%(format)s?accessType=DOWNLOAD'
     url_template = 'https://data.lacity.org/api/views/%(id)s/rows.%(format)s?accessType=DOWNLOAD'
 
     headers = {
         'User-agent': 'KPCC - Southern California Public Radio (ckeller@scpr.org)'
     }
 
-    #catalog_url = 'https://controllerdata.lacity.org/browse?limitTo=datasets&sortBy=alpha&view_type=table&limit=1000'
     catalog_url = 'https://data.lacity.org/browse?limitTo=datasets&sortBy=alpha&view_type=table&limit=1000'
 
     def handle(self, *args, **kwargs):
@@ -38,13 +36,13 @@ class Watchdog(object):
         print "Running the checkbook la watchdog"
         self.set_options()
 
-        download = self.file_list[0]
-        test = []
-        test.append(download)
-        logger.debug(test)
-        [self.download(f) for f in test]
+        #download = self.file_list[0]
+        #test = []
+        #test.append(download)
+        #logger.debug(test)
+        #[self.download(f) for f in test]
 
-        #[self.download(f) for f in self.file_list]
+        [self.download(f) for f in self.file_list]
         self.update_github()
 
     def set_options(self):
@@ -67,9 +65,10 @@ class Watchdog(object):
         """
         Scrape all of the "datasets" published by the controller.
         """
-        #r = requests.get(self.catalog_url, headers=self.headers)
-        #soup = BeautifulSoup(r.text)
-        soup = BeautifulSoup(open("/Volumes/one_tb_hd/_programming/2kpcc/opendata-la-watchdog/index.html"))
+        r = requests.get(self.catalog_url, headers=self.headers)
+        soup = BeautifulSoup(r.text)
+
+        #soup = BeautifulSoup(open("/Volumes/one_tb_hd/_programming/2kpcc/opendata-la-watchdog/index.html"))
 
         row_list = soup.find("table", {'class': lambda L: 'gridList' in L.split()}).findAll("tr")
         self.file_list = []
@@ -114,11 +113,10 @@ class Watchdog(object):
         dict_list = []
 
 
-        test_file_list = [{'url': u'https://data.lacity.org/A-Well-Run-City/2014-Registered-Foreclosure-Properties/fdwe-pgcu', 'name': u'2014 Registered Foreclosure Properties', 'id': u'fdwe-pgcu'}]
-        for obj in test_file_list:
-        #for obj in self.file_list:
+        #test_file_list = [{'url': u'https://data.lacity.org/A-Well-Run-City/2014-Registered-Foreclosure-Properties/fdwe-pgcu', 'name': u'2014 Registered Foreclosure Properties', 'id': u'fdwe-pgcu'}]
+        #for obj in test_file_list:
 
-
+        for obj in self.file_list:
             csv_name = "%s.csv" % obj['name']
             csv_path = os.path.join(self.csv_dir, csv_name)
             csv_reader = csv.reader(open(csv_path, 'r'))
