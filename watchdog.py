@@ -1,5 +1,6 @@
 import os
 import csv
+import re
 import envoy
 import requests
 from jinja2 import Template
@@ -20,14 +21,12 @@ class Watchdog(object):
     Tricks for downloading and archiving Checkbook LA data.
     """
     format_list = ['csv', 'json']
-
     url_template = 'https://data.lacity.org/api/views/%(id)s/rows.%(format)s?accessType=DOWNLOAD'
-
     headers = {
         'User-agent': 'KPCC - Southern California Public Radio (ckeller@scpr.org)'
     }
-
     catalog_url = 'https://data.lacity.org/browse?limitTo=datasets&sortBy=alpha&view_type=table&limit=1000'
+    raw_html = '/Volumes/one_tb_hd/_programming/2kpcc/data-projects/_opendata-la-watchdog/index.html'
 
     def handle(self, *args, **kwargs):
         """
@@ -35,13 +34,6 @@ class Watchdog(object):
         """
         print "Running the checkbook la watchdog"
         self.set_options()
-
-        #download = self.file_list[0]
-        #test = []
-        #test.append(download)
-        #logger.debug(test)
-        #[self.download(f) for f in test]
-
         [self.download(f) for f in self.file_list]
         self.update_github()
 
@@ -65,22 +57,28 @@ class Watchdog(object):
         """
         Scrape all of the "datasets" published by the controller.
         """
-        r = requests.get(self.catalog_url, headers=self.headers)
-        soup = BeautifulSoup(r.text)
 
-        #soup = BeautifulSoup(open("/Volumes/one_tb_hd/_programming/2kpcc/opendata-la-watchdog/index.html"))
 
+        #r = requests.get(self.catalog_url, headers=self.headers)
+        #soup = BeautifulSoup(r.text)
+
+
+        soup = BeautifulSoup(open(self.raw_html))
         row_list = soup.find("table", {'class': lambda L: 'gridList' in L.split()}).findAll("tr")
         self.file_list = []
         for row in row_list[1:]:
-            cell = row.find("td", { "class": "nameDesc" })
+            cell = row.find("td", {"class": "nameDesc"})
             data = cell.find("a", {"class": "name"})
-            name = data.string
+            name = data.string.replace("&#x27;", "")
+            name = re.sub(r'\W+', ' ', name)
+            description = cell.find("div", {"class": "description"}).text.encode('utf-8')
             url = data['href']
+            id = url.split("/")[-1]
             self.file_list.append({
                 'name': name,
+                'description': description,
                 'url': url,
-                'id': url.split("/")[-1],
+                'id': id,
             })
 
     def download(self, obj):
@@ -94,13 +92,14 @@ class Watchdog(object):
             )
             file_name = '%s.%s' % (obj['name'], format_)
             print "- Downloading %s in %s format" % (obj['name'], format_)
-            r = requests.get(url, headers=self.headers, stream=True)
-            file_path = os.path.join(getattr(self, '%s_dir' % format_), file_name)
-            with open(file_path, 'wb') as f:
-                for chunk in r.iter_content(chunk_size=1024):
-                    if chunk: # filter out keep-alive new chunks
-                        f.write(chunk)
-                        f.flush()
+
+            #r = requests.get(url, headers=self.headers, stream=True)
+            #file_path = os.path.join(getattr(self, '%s_dir' % format_), file_name)
+            #with open(file_path, 'wb') as f:
+                #for chunk in r.iter_content(chunk_size=1024):
+                    #if chunk: # filter out keep-alive new chunks
+                        #f.write(chunk)
+                        #f.flush()
 
     def update_log(self):
         """
@@ -111,24 +110,24 @@ class Watchdog(object):
         template_data = open(template_path, 'r').read()
         template = Template(template_data)
         dict_list = []
-
-
-        #test_file_list = [{'url': u'https://data.lacity.org/A-Well-Run-City/2014-Registered-Foreclosure-Properties/fdwe-pgcu', 'name': u'2014 Registered Foreclosure Properties', 'id': u'fdwe-pgcu'}]
-        #for obj in test_file_list:
-
         for obj in self.file_list:
             csv_name = "%s.csv" % obj['name']
             csv_path = os.path.join(self.csv_dir, csv_name)
-            csv_reader = csv.reader(open(csv_path, 'r'))
-            json_name = "%s.json" % obj['name']
-            dict_list.append({
-                'name': obj['name'],
-                'row_count': len(list(csv_reader)),
-                'last_updated': str(self.now),
-                'csv_name': csv_name,
-                'json_name': json_name,
-                'url': obj['url'],
-            })
+            try:
+                csv_reader = csv.reader(open(csv_path, 'r'))
+                json_name = "%s.json" % obj['name']
+                dict_list.append({
+                    'name': obj['name'],
+                    'description': obj['description'],
+                    'row_count': len(list(csv_reader)),
+                    'last_updated': str(self.now),
+                    'csv_name': csv_name,
+                    'json_name': json_name,
+                    'url': obj['url'],
+                })
+            except Exception, exception:
+                logger.error(exception)
+                break
         diff = envoy.run("git diff --stat").std_out
         out_data = template.render(file_list=dict_list, diff=diff)
         out_file = open(os.path.join(self.this_dir, 'README.md'), 'w')
@@ -148,7 +147,6 @@ class Watchdog(object):
             'commit.txt'
         ))
         envoy.run("git push origin master")
-
 
 if __name__ == '__main__':
     wd = Watchdog()
