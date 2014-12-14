@@ -20,6 +20,8 @@ class Watchdog(object):
     """
     Tricks for downloading and archiving Checkbook LA data.
     """
+
+    status = "TEST"
     format_list = ['csv', 'json']
     url_template = 'https://data.lacity.org/api/views/%(id)s/rows.%(format)s?accessType=DOWNLOAD'
     headers = {
@@ -57,13 +59,11 @@ class Watchdog(object):
         """
         Scrape all of the "datasets" published by the controller.
         """
-
-
-        #r = requests.get(self.catalog_url, headers=self.headers)
-        #soup = BeautifulSoup(r.text)
-
-
-        soup = BeautifulSoup(open(self.raw_html))
+        if self.status == "LIVE":
+            r = requests.get(self.catalog_url, headers=self.headers)
+            soup = BeautifulSoup(r.text)
+        else:
+            soup = BeautifulSoup(open(self.raw_html))
         row_list = soup.find("table", {'class': lambda L: 'gridList' in L.split()}).findAll("tr")
         self.file_list = []
         for row in row_list[1:]:
@@ -113,21 +113,21 @@ class Watchdog(object):
         for obj in self.file_list:
             csv_name = "%s.csv" % obj['name']
             csv_path = os.path.join(self.csv_dir, csv_name)
-            try:
-                csv_reader = csv.reader(open(csv_path, 'r'))
-                json_name = "%s.json" % obj['name']
-                dict_list.append({
-                    'name': obj['name'],
-                    'description': obj['description'],
-                    'row_count': len(list(csv_reader)),
-                    'last_updated': str(self.now),
-                    'csv_name': csv_name,
-                    'json_name': json_name,
-                    'url': obj['url'],
-                })
-            except Exception, exception:
-                logger.error(exception)
-                break
+            #try:
+                #csv_reader = csv.reader(open(csv_path, 'r'))
+                #json_name = "%s.json" % obj['name']
+                #dict_list.append({
+                    #'name': obj['name'],
+                    #'description': obj['description'],
+                    #'row_count': len(list(csv_reader)),
+                    #'last_updated': str(self.now),
+                    #'csv_name': csv_name,
+                    #'json_name': json_name,
+                    #'url': obj['url'],
+                #})
+            #except Exception, exception:
+                #logger.error(exception)
+                #break
         diff = envoy.run("git diff --stat").std_out
         out_data = template.render(file_list=dict_list, diff=diff)
         out_file = open(os.path.join(self.this_dir, 'README.md'), 'w')
