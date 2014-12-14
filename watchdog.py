@@ -20,7 +20,6 @@ class Watchdog(object):
     """
     Tricks for downloading and archiving Checkbook LA data.
     """
-
     status = "TEST"
     format_list = ['csv', 'json']
     url_template = 'https://data.lacity.org/api/views/%(id)s/rows.%(format)s?accessType=DOWNLOAD'
@@ -92,14 +91,13 @@ class Watchdog(object):
             )
             file_name = '%s.%s' % (obj['name'], format_)
             print "- Downloading %s in %s format" % (obj['name'], format_)
-
-            #r = requests.get(url, headers=self.headers, stream=True)
-            #file_path = os.path.join(getattr(self, '%s_dir' % format_), file_name)
-            #with open(file_path, 'wb') as f:
-                #for chunk in r.iter_content(chunk_size=1024):
-                    #if chunk: # filter out keep-alive new chunks
-                        #f.write(chunk)
-                        #f.flush()
+            r = requests.get(url, headers=self.headers, stream=True)
+            file_path = os.path.join(getattr(self, '%s_dir' % format_), file_name)
+            with open(file_path, 'wb') as f:
+                for chunk in r.iter_content(chunk_size=1024):
+                    if chunk: # filter out keep-alive new chunks
+                        f.write(chunk)
+                        f.flush()
 
     def update_log(self):
         """
