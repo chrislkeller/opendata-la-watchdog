@@ -27,7 +27,7 @@ class Watchdog(object):
         'User-agent': 'KPCC - Southern California Public Radio (ckeller@scpr.org)'
     }
     catalog_url = 'https://data.lacity.org/browse?limitTo=datasets&sortBy=alpha&view_type=table&limit=1000'
-    raw_html = '/Volumes/one_tb_hd/_programming/2kpcc/data-projects/_opendata-la-watchdog/index.html'
+    raw_html = '/Users/ckeller/Desktop/opendata-la-watchdog/index.html'
 
     def handle(self, *args, **kwargs):
         """
