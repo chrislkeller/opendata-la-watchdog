@@ -7,7 +7,7 @@ What it tracks
 
 |Data set|Row count|Last download|   |   |
 |:--------|--------:|:-----------|:--|:--|
-{% for obj in file_list %}|[{{ obj.name }}]({{ obj.url }})|{{ obj.row_count }}|{{ obj.last_updated }}|[CSV](csv/{{ obj.csv_name }})|[JSON](json/{{ obj.json_name }})|
+{% for obj in file_list %}|[{{ obj.name }}]({{ obj.url }})|{{ obj.row_count }}|{{ obj.last_updated }}|{% if obj.repo_status %}[CSV](csv/{{ obj.csv_name }})|[JSON](json/{{ obj.json_name }}){% else %}n/a|n/a{% endif %}|
 {% endfor %}
 
 What changed in last download
