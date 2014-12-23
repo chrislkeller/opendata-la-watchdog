@@ -1,0 +1,230 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "746u-cr6b",
+      "name" : "What's Happening LA Calender - Subject Matter Categories - Reference",
+      "attribution" : "individual",
+      "averageRating" : 0,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1399048865,
+      "description" : "Categories for Subject Matter",
+      "displayType" : "table",
+      "downloadCount" : 12,
+      "indexUpdatedAt" : 1414613700,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8029493,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1400524137,
+      "publicationGroup" : 1567325,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1400524129,
+      "rowsUpdatedBy" : "g9i9-z6y7",
+      "tableId" : 1587409,
+      "totalTimesRated" : 0,
+      "viewCount" : 70,
+      "viewLastModified" : 1400865492,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 149110417,
+        "name" : "Subject Matter",
+        "dataTypeName" : "text",
+        "fieldName" : "subject_matter",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19519355,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "Art / Literature",
+          "null" : 27,
+          "largest" : "Technology",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Science"
+          }, {
+            "count" : 19,
+            "item" : "Technology"
+          }, {
+            "count" : 18,
+            "item" : "Art / Literature"
+          }, {
+            "count" : 17,
+            "item" : "Recreation"
+          }, {
+            "count" : 16,
+            "item" : "History / Geography"
+          }, {
+            "count" : 15,
+            "item" : "Government"
+          }, {
+            "count" : 14,
+            "item" : "Other"
+          }, {
+            "count" : 13,
+            "item" : "Housing and Community Development"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Information Technology"
+          }
+        }
+      },
+      "owner" : {
+        "id" : "yb4r-dcys",
+        "displayName" : "ITA OpenData",
+        "profileImageUrlLarge" : "/images/profile/9462/4839/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9462/4839/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9462/4839/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "ITA OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+        "orderBys" : [ {
+          "ascending" : true,
+          "expression" : {
+            "columnId" : 149110417,
+            "type" : "column"
+          }
+        } ]
+      },
+      "rights" : [ "read" ],
+      "sortBys" : [ {
+        "id" : 0,
+        "viewColumnId" : 149110417,
+        "flags" : [ "asc" ]
+      } ],
+      "tableAuthor" : {
+        "id" : "ujkb-kbnj",
+        "displayName" : "Joyce Edson",
+        "profileImageUrlLarge" : "/images/profile/9325/1160/avatar_for_fb_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9325/1160/avatar_for_fb_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9325/1160/avatar_for_fb_tiny.jpg",
+        "roleName" : "administrator",
+        "screenName" : "Joyce Edson",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "tags" : [ "event subject", "what's happening", "event" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 4, "EA309D72-3267-4BA4-8CB9-9205210A70B4", 4, 1399048868, "862831", 1399048868, "862831", "{\n}", "Art / Literature" ]
+, [ 7, "3A4795A5-D2DE-470A-A78B-6F5C2DBAC26B", 7, 1399048868, "862831", 1399048868, "862831", "{\n}", "Government" ]
+, [ 6, "168850C5-4446-404E-9199-A7EF9F086227", 6, 1399048868, "862831", 1399048868, "862831", "{\n}", "History / Geography" ]
+, [ 9, "B7778582-3E6A-441B-8C5B-C9E6F3737815", 9, 1399048868, "862831", 1399591714, "862831", null, "Housing and Community Development" ]
+, [ 8, "A954E0A5-9EC5-4C0B-89DA-24817AAE2B3E", 8, 1399048868, "862831", 1399048868, "862831", "{\n}", "Other" ]
+, [ 5, "D8E3576D-6642-4AC1-A806-EE9FAEADAE88", 5, 1399048868, "862831", 1399048868, "862831", "{\n}", "Recreation" ]
+, [ 2, "21E32C49-0FF7-43BB-94F2-E724269CC542", 2, 1399048868, "862831", 1399048868, "862831", "{\n}", "Science" ]
+, [ 3, "7758FFAB-C3D9-4CA4-9EA0-7879DA162F3F", 3, 1399048868, "862831", 1399048868, "862831", "{\n}", "Technology" ]
+, [ 11, "748DDD32-B4AB-4ABA-A953-908D1F96E2FB", 11, 1399048868, "862831", 1399048868, "862831", "{\n}", null ]
+, [ 12, "4DA0199A-1BBB-40E1-B960-90534C5634F0", 12, 1399048868, "862831", 1399048868, "862831", "{\n}", null ]
+, [ 13, "98D956A6-D622-415C-A699-2FCEBAD93273", 13, 1399048868, "862831", 1399048868, "862831", "{\n}", null ]
+, [ 14, "F495D797-3B1C-4032-BEA4-9BBAD159B3EF", 14, 1399048868, "862831", 1399048868, "862831", "{\n}", null ]
+, [ 15, "E635EA3F-0EB8-4104-95E0-F960878A02ED", 15, 1399048868, "862831", 1399048868, "862831", "{\n}", null ]
+, [ 16, "391D69D0-75F7-4E3C-AF98-76A33F01238B", 16, 1399048868, "862831", 1399048868, "862831", "{\n}", null ]
+, [ 17, "1A712CDC-2007-4F3F-9489-483C0ACE8296", 17, 1399048868, "862831", 1399048868, "862831", "{\n}", null ]
+, [ 18, "D1EF2559-4C58-417B-A7A2-EF0B0C82439D", 18, 1399048868, "862831", 1399048868, "862831", "{\n}", null ]
+, [ 19, "BE5180F0-9F52-4C8D-9FFA-F7F65715077E", 19, 1399048868, "862831", 1399048868, "862831", "{\n}", null ]
+, [ 20, "E964436A-9CF6-429F-875A-E2B7DAEE7155", 20, 1399048868, "862831", 1399048868, "862831", "{\n}", null ]
+, [ 21, "90D8F67D-22F6-4732-9A45-02070C16FB68", 21, 1399048868, "862831", 1399048868, "862831", "{\n}", null ]
+, [ 22, "9CFA2084-8864-426A-A5F5-78DDC4ED43E1", 22, 1399048868, "862831", 1399048868, "862831", "{\n}", null ]
+, [ 23, "E007B76C-F64C-43D5-960A-B4A54662591D", 23, 1399048868, "862831", 1399048868, "862831", "{\n}", null ]
+, [ 10, "24C436B9-FB52-4356-BD79-14A6E92456F4", 10, 1399048868, "862831", 1399048868, "862831", "{\n}", null ]
+, [ 25, "AB8D8471-661F-4760-9D6A-DFED4242E94E", 25, 1399048868, "862831", 1399048868, "862831", "{\n}", null ]
+, [ 26, "8647121D-FA71-40CD-B8C0-A3E984635ED7", 26, 1399048868, "862831", 1399048868, "862831", "{\n}", null ]
+, [ 27, "A1B44354-69A5-4A1B-9F22-1838CD8BC347", 27, 1399048868, "862831", 1399048868, "862831", "{\n}", null ]
+, [ 28, "581DA4C7-7B8D-4AA6-83CD-71F2319047AB", 28, 1399048868, "862831", 1399048868, "862831", "{\n}", null ]
+, [ 29, "C01E3EDA-EAC5-4C29-A9E1-353994D58248", 29, 1399048868, "862831", 1399048868, "862831", "{\n}", null ]
+, [ 30, "56F3F456-0125-4120-A2EA-7420949BFB20", 30, 1399048868, "862831", 1399048868, "862831", "{\n}", null ]
+, [ 31, "7FFA1597-744B-48FA-ABF8-C720304CBFB0", 31, 1399048868, "862831", 1399048868, "862831", "{\n}", null ]
+, [ 32, "249DED3C-812E-4DD9-8ABB-3A8FE8E7176F", 32, 1399048868, "862831", 1399048868, "862831", "{\n}", null ]
+, [ 33, "838EFCC5-1348-4C4B-9FAF-60E5C7B5AB20", 33, 1399048868, "862831", 1399048868, "862831", "{\n}", null ]
+, [ 34, "ACFB2807-C2FD-4DEB-98DF-C1C4D44E62ED", 34, 1399048868, "862831", 1399048868, "862831", "{\n}", null ]
+, [ 35, "D3DFF0DD-61CC-4D1D-96BC-6BFD0F0FBD23", 35, 1399048868, "862831", 1399048868, "862831", "{\n}", null ]
+, [ 36, "DF2274D3-77E4-45C7-8513-CA6CB0023E20", 36, 1399048868, "862831", 1399048868, "862831", "{\n}", null ]
+, [ 24, "AB4615A9-DB60-4FA7-8A94-DD736310E78A", 24, 1399048868, "862831", 1399048868, "862831", "{\n}", null ]
+ ]
+}

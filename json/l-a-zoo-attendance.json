@@ -1,0 +1,220 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "3gwn-arjr",
+      "name" : "L.A. Zoo Attendance",
+      "averageRating" : 0,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1401468802,
+      "description" : "L.A. Zoo attendance for the last 5 years.",
+      "displayType" : "table",
+      "downloadCount" : 14,
+      "indexUpdatedAt" : 1414613952,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8108604,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401482915,
+      "publicationGroup" : 1600270,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1401482725,
+      "rowsUpdatedBy" : "uypn-9feh",
+      "tableId" : 1600490,
+      "totalTimesRated" : 0,
+      "viewCount" : 92,
+      "viewLastModified" : 1401482915,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150659176,
+        "name" : "Fiscal Year",
+        "dataTypeName" : "text",
+        "fieldName" : "fiscal_year",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20017819,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "2008-09",
+          "null" : 0,
+          "largest" : "2012-13",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2012-13"
+          }, {
+            "count" : 19,
+            "item" : "2011-12"
+          }, {
+            "count" : 18,
+            "item" : "2010-11"
+          }, {
+            "count" : 17,
+            "item" : "2009-10"
+          }, {
+            "count" : 16,
+            "item" : "2008-09"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150659218,
+        "name" : "Attendance",
+        "dataTypeName" : "number",
+        "fieldName" : "attendance",
+        "position" : 2,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20017820,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "1459080",
+          "sum" : "7725198",
+          "null" : 0,
+          "average" : "1545039.6",
+          "largest" : "1660450",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1506274"
+          }, {
+            "count" : 19,
+            "item" : "1660450"
+          }, {
+            "count" : 18,
+            "item" : "1543232"
+          }, {
+            "count" : 17,
+            "item" : "1459080"
+          }, {
+            "count" : 16,
+            "item" : "1556162"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Other"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "uypn-9feh",
+        "displayName" : "LA Zoo OpenData",
+        "profileImageUrlLarge" : "/images/profile/6521/9016/OpenData_Zoologo_220x220_large.gif",
+        "profileImageUrlMedium" : "/images/profile/6521/9016/OpenData_Zoologo_220x220_thumb.gif",
+        "profileImageUrlSmall" : "/images/profile/6521/9016/OpenData_Zoologo_220x220_tiny.gif",
+        "roleName" : "editor",
+        "screenName" : "LA Zoo OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "uypn-9feh",
+        "displayName" : "LA Zoo OpenData",
+        "profileImageUrlLarge" : "/images/profile/6521/9016/OpenData_Zoologo_220x220_large.gif",
+        "profileImageUrlMedium" : "/images/profile/6521/9016/OpenData_Zoologo_220x220_thumb.gif",
+        "profileImageUrlSmall" : "/images/profile/6521/9016/OpenData_Zoologo_220x220_tiny.gif",
+        "roleName" : "editor",
+        "screenName" : "LA Zoo OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "zoo", "attendance", "recreation", "attraction", "park", "animals", "visitor", "school", "camp", "membership", "ticket" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "4936580F-0829-4C96-B389-598BB53D3862", 1, 1401468952, "883859", 1401468965, "883859", null, "2012-13", "1506274" ]
+, [ 2, "D74A48AD-64DA-4C9B-8A9F-0695D19919F6", 2, 1401469047, "883859", 1401469077, "883859", null, "2011-12", "1660450" ]
+, [ 3, "B6643375-0C48-45C1-9949-2585A62AFB57", 3, 1401469054, "883859", 1401469089, "883859", null, "2010-11", "1543232" ]
+, [ 4, "C6B3EE93-8332-4ADE-A0D1-92F053DE15E9", 4, 1401469060, "883859", 1401469094, "883859", null, "2009-10", "1459080" ]
+, [ 5, "EA611366-347D-46F5-9BC0-10834CE063FD", 5, 1401469071, "883859", 1401469097, "883859", null, "2008-09", "1556162" ]
+ ]
+}

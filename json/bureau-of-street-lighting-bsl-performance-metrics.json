@@ -1,0 +1,841 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "5y5q-d9ew",
+      "name" : "Bureau Of Street Lighting (BSL) - Performance Metrics",
+      "attribution" : "Bureau of Street Lighting",
+      "averageRating" : 0,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1406827390,
+      "description" : "This dataset contains metrics that measure the operational performance of the Bureau of Street Lighting. These metrics are used on a regular basis by the department and the Mayor to evaluate progress and inform decision making. Performance management forms the foundation of a data-driven culture of innovation and excellence in the City of Los Angeles.",
+      "displayType" : "table",
+      "downloadCount" : 9,
+      "indexUpdatedAt" : 1416017674,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 9384967,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1416017664,
+      "publicationGroup" : 1667356,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1416017656,
+      "rowsUpdatedBy" : "tyhz-nfmm",
+      "tableId" : 1884415,
+      "totalTimesRated" : 0,
+      "viewCount" : 85,
+      "viewLastModified" : 1416017664,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 175662196,
+        "name" : "Date Value",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date_value",
+        "position" : 2,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 21114637,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 75,
+          "smallest" : "2010-06-30T00:00:00",
+          "null" : 0,
+          "largest" : "2018-06-25T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2015-09-29T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2015-10-29T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2015-11-28T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2015-12-29T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2016-01-28T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2016-02-27T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2016-03-29T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2016-04-28T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2016-05-28T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2016-06-27T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2016-07-28T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2016-08-27T00:00:00"
+          }, {
+            "count" : 8,
+            "item" : "2016-09-26T00:00:00"
+          }, {
+            "count" : 7,
+            "item" : "2016-10-27T00:00:00"
+          }, {
+            "count" : 6,
+            "item" : "2016-11-26T00:00:00"
+          }, {
+            "count" : 5,
+            "item" : "2016-12-26T00:00:00"
+          }, {
+            "count" : 4,
+            "item" : "2017-01-26T00:00:00"
+          }, {
+            "count" : 3,
+            "item" : "2017-02-25T00:00:00"
+          }, {
+            "count" : 2,
+            "item" : "2017-03-27T00:00:00"
+          }, {
+            "count" : 1,
+            "item" : "2017-04-27T00:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 175662197,
+        "name" : "Month-Year",
+        "dataTypeName" : "text",
+        "fieldName" : "month_year",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21114638,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 75,
+          "smallest" : "Apr-13",
+          "null" : 0,
+          "largest" : "Sep-16",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Sep-15"
+          }, {
+            "count" : 19,
+            "item" : "Oct-15"
+          }, {
+            "count" : 18,
+            "item" : "Nov-15"
+          }, {
+            "count" : 17,
+            "item" : "Dec-15"
+          }, {
+            "count" : 16,
+            "item" : "Jul-15"
+          }, {
+            "count" : 15,
+            "item" : "Aug-15"
+          }, {
+            "count" : 14,
+            "item" : "Jan-16"
+          }, {
+            "count" : 13,
+            "item" : "Feb-16"
+          }, {
+            "count" : 12,
+            "item" : "Mar-16"
+          }, {
+            "count" : 11,
+            "item" : "Apr-16"
+          }, {
+            "count" : 10,
+            "item" : "May-16"
+          }, {
+            "count" : 9,
+            "item" : "Jun-16"
+          }, {
+            "count" : 8,
+            "item" : "Jul-16"
+          }, {
+            "count" : 7,
+            "item" : "Aug-16"
+          }, {
+            "count" : 6,
+            "item" : "Sep-16"
+          }, {
+            "count" : 5,
+            "item" : "Oct-16"
+          }, {
+            "count" : 4,
+            "item" : "Nov-16"
+          }, {
+            "count" : 3,
+            "item" : "Dec-16"
+          }, {
+            "count" : 2,
+            "item" : "Jan-17"
+          }, {
+            "count" : 1,
+            "item" : "Feb-17"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 175662198,
+        "name" : "Quarter-FY",
+        "dataTypeName" : "text",
+        "fieldName" : "quarter_fy",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21114639,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 15,
+          "smallest" : "Q1 FY13",
+          "null" : 60,
+          "largest" : "Q4 FY15",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Q4 FY10"
+          }, {
+            "count" : 19,
+            "item" : "Q4 FY11"
+          }, {
+            "count" : 18,
+            "item" : "Q4 FY12"
+          }, {
+            "count" : 17,
+            "item" : "Q1 FY13"
+          }, {
+            "count" : 16,
+            "item" : "Q2 FY13"
+          }, {
+            "count" : 15,
+            "item" : "Q3 FY13"
+          }, {
+            "count" : 14,
+            "item" : "Q4 FY13"
+          }, {
+            "count" : 13,
+            "item" : "Q1 FY14"
+          }, {
+            "count" : 12,
+            "item" : "Q2 FY14"
+          }, {
+            "count" : 11,
+            "item" : "Q3 FY14"
+          }, {
+            "count" : 10,
+            "item" : "Q4 FY14"
+          }, {
+            "count" : 9,
+            "item" : "Q1 FY15"
+          }, {
+            "count" : 8,
+            "item" : "Q2 FY15"
+          }, {
+            "count" : 7,
+            "item" : "Q3 FY15"
+          }, {
+            "count" : 6,
+            "item" : "Q4 FY15"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 175662199,
+        "name" : "Annual-FY",
+        "dataTypeName" : "text",
+        "fieldName" : "annual_fy",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21114640,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "FY 2010",
+          "null" : 69,
+          "largest" : "FY 2015",
+          "top" : [ {
+            "count" : 20,
+            "item" : "FY 2010"
+          }, {
+            "count" : 19,
+            "item" : "FY 2011"
+          }, {
+            "count" : 18,
+            "item" : "FY 2012"
+          }, {
+            "count" : 17,
+            "item" : "FY 2013"
+          }, {
+            "count" : 16,
+            "item" : "FY 2014"
+          }, {
+            "count" : 15,
+            "item" : "FY 2015"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 175662200,
+        "name" : "Cumulative # of street lights converted to LED (Annual FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "cumulative_of_street_lights_converted_to_led_annual_fy",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21114641,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "50000",
+          "sum" : "439291",
+          "null" : 71,
+          "average" : "109822.75",
+          "largest" : "154291",
+          "top" : [ {
+            "count" : 20,
+            "item" : "50000"
+          }, {
+            "count" : 19,
+            "item" : "95000"
+          }, {
+            "count" : 18,
+            "item" : "140000"
+          }, {
+            "count" : 17,
+            "item" : "154291"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 175662201,
+        "name" : "PROJECTED: Cumulative # of street lights converted to LED (Annual FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "projected_cumulative_of_street_lights_converted_to_led_annual_fy",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21114642,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "154000",
+          "sum" : "315500",
+          "null" : 73,
+          "average" : "157750",
+          "largest" : "161500",
+          "top" : [ {
+            "count" : 20,
+            "item" : "154000"
+          }, {
+            "count" : 19,
+            "item" : "161500"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 175662202,
+        "name" : "Cumulative # of street lights converted to LED  (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "cumulative_of_street_lights_converted_to_led_monthly",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21114643,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 15,
+          "smallest" : "359",
+          "sum" : "103205",
+          "null" : 60,
+          "average" : "6880.333333333333",
+          "largest" : "14291",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1485"
+          }, {
+            "count" : 19,
+            "item" : "2540"
+          }, {
+            "count" : 18,
+            "item" : "4125"
+          }, {
+            "count" : 17,
+            "item" : "5214"
+          }, {
+            "count" : 16,
+            "item" : "7449"
+          }, {
+            "count" : 15,
+            "item" : "9396"
+          }, {
+            "count" : 14,
+            "item" : "9731"
+          }, {
+            "count" : 13,
+            "item" : "9754"
+          }, {
+            "count" : 12,
+            "item" : "13481"
+          }, {
+            "count" : 11,
+            "item" : "13886"
+          }, {
+            "count" : 10,
+            "item" : "14291"
+          }, {
+            "count" : 9,
+            "item" : "359"
+          }, {
+            "count" : 8,
+            "item" : "600"
+          }, {
+            "count" : 7,
+            "item" : "1140"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 175662203,
+        "name" : "PROJECTED: Cumulative # of street lights converted to LED (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "projected_cumulative_of_street_lights_converted_to_led_monthly",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21114644,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 12,
+          "smallest" : "1167",
+          "sum" : "91000",
+          "null" : 63,
+          "average" : "7583.333333333333",
+          "largest" : "14000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1167"
+          }, {
+            "count" : 19,
+            "item" : "2333"
+          }, {
+            "count" : 18,
+            "item" : "3500"
+          }, {
+            "count" : 17,
+            "item" : "4667"
+          }, {
+            "count" : 16,
+            "item" : "5833"
+          }, {
+            "count" : 15,
+            "item" : "7000"
+          }, {
+            "count" : 14,
+            "item" : "8167"
+          }, {
+            "count" : 13,
+            "item" : "9333"
+          }, {
+            "count" : 12,
+            "item" : "10500"
+          }, {
+            "count" : 11,
+            "item" : "11667"
+          }, {
+            "count" : 10,
+            "item" : "12833"
+          }, {
+            "count" : 9,
+            "item" : "14000"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 175662204,
+        "name" : "% of streetlights operating (Annual FY)",
+        "dataTypeName" : "percent",
+        "fieldName" : "of_streetlights_operating_annual_fy",
+        "position" : 10,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21114645,
+        "width" : 568,
+        "cachedContents" : {
+          "non_null" : 3,
+          "smallest" : "99.0",
+          "sum" : "297.3",
+          "null" : 72,
+          "average" : "99.1",
+          "largest" : "99.2",
+          "top" : [ {
+            "count" : 20,
+            "item" : "99.1"
+          }, {
+            "count" : 19,
+            "item" : "99.0"
+          }, {
+            "count" : 18,
+            "item" : "99.2"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 175662205,
+        "name" : "PROJECTED: % of streetlights operating (Annual FY)",
+        "dataTypeName" : "percent",
+        "fieldName" : "projected_of_streetlights_operating_annual_fy",
+        "position" : 11,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21114646,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "99.0",
+          "sum" : "198.2",
+          "null" : 73,
+          "average" : "99.1",
+          "largest" : "99.2",
+          "top" : [ {
+            "count" : 20,
+            "item" : "99.0"
+          }, {
+            "count" : 19,
+            "item" : "99.2"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 175662206,
+        "name" : "Average % of streetlights operating Citywide (Monthly)",
+        "dataTypeName" : "percent",
+        "fieldName" : "average_of_streetlights_operating_citywide_monthly",
+        "position" : 12,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21114647,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "98.91",
+          "sum" : "1588.38",
+          "null" : 59,
+          "average" : "99.27375",
+          "largest" : "99.59",
+          "top" : [ {
+            "count" : 20,
+            "item" : "99.13"
+          }, {
+            "count" : 19,
+            "item" : "99.19"
+          }, {
+            "count" : 18,
+            "item" : "99.24"
+          }, {
+            "count" : 17,
+            "item" : "98.91"
+          }, {
+            "count" : 16,
+            "item" : "99.29"
+          }, {
+            "count" : 15,
+            "item" : "99.39"
+          }, {
+            "count" : 14,
+            "item" : "99.41"
+          }, {
+            "count" : 13,
+            "item" : "99.56"
+          }, {
+            "count" : 12,
+            "item" : "99.28"
+          }, {
+            "count" : 11,
+            "item" : "99.59"
+          }, {
+            "count" : 10,
+            "item" : "99.27"
+          }, {
+            "count" : 9,
+            "item" : "99.37"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 175662207,
+        "name" : "PROJECTED: Average % of streetlights operating Citywide (Monthly)",
+        "dataTypeName" : "percent",
+        "fieldName" : "projected_average_of_streetlights_operating_citywide_monthly",
+        "position" : 13,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21114648,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "98",
+          "sum" : "1580.2",
+          "null" : 59,
+          "average" : "98.7625",
+          "largest" : "99.2",
+          "top" : [ {
+            "count" : 20,
+            "item" : "99.0"
+          }, {
+            "count" : 19,
+            "item" : "98"
+          }, {
+            "count" : 18,
+            "item" : "99.2"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 175662208,
+        "name" : "Street Lighting Maintenance Assessment Fund revenue in millions (Annual FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "street_lighting_maintenance_assessment_fund_revenue_in_millions_annual_fy",
+        "position" : 14,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21114649,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 3,
+          "smallest" : "44.5",
+          "sum" : "134.8",
+          "null" : 72,
+          "average" : "44.93333333333333",
+          "largest" : "45.8",
+          "top" : [ {
+            "count" : 20,
+            "item" : "44.5"
+          }, {
+            "count" : 19,
+            "item" : "45.8"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 175662209,
+        "name" : "PROJECTED: Street Lighting Maintenance Assessment Fund revenue in millions (Annual FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "projected_street_lighting_maintenance_assessment_fund_revenue_in_millions_annual_fy",
+        "position" : 15,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21114650,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "44.0",
+          "sum" : "88.2",
+          "null" : 73,
+          "average" : "44.1",
+          "largest" : "44.2",
+          "top" : [ {
+            "count" : 20,
+            "item" : "44.2"
+          }, {
+            "count" : 19,
+            "item" : "44.0"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0"
+      },
+      "owner" : {
+        "id" : "kmuv-58sk",
+        "displayName" : "Public Works: Street Lighting OpenData",
+        "profileImageUrlLarge" : "/images/profile/9117/4682/bsllogo2res350_large.gif",
+        "profileImageUrlMedium" : "/images/profile/9117/4682/bsllogo2res350_thumb.gif",
+        "profileImageUrlSmall" : "/images/profile/9117/4682/bsllogo2res350_tiny.gif",
+        "roleName" : "editor",
+        "screenName" : "Public Works: Street Lighting OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "kmuv-58sk",
+        "displayName" : "Public Works: Street Lighting OpenData",
+        "profileImageUrlLarge" : "/images/profile/9117/4682/bsllogo2res350_large.gif",
+        "profileImageUrlMedium" : "/images/profile/9117/4682/bsllogo2res350_thumb.gif",
+        "profileImageUrlSmall" : "/images/profile/9117/4682/bsllogo2res350_tiny.gif",
+        "roleName" : "editor",
+        "screenName" : "Public Works: Street Lighting OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "bureau of street lighting", "bsl", "performance", "metrics" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "7FC63AC7-1EF2-4435-8324-366E399C6151", 1, 1406827393, "865572", 1407181224, "865572", "{\"invalidCells\":{}}", "2010-06-30T00:00:00", "Jun-10", "Q4 FY10", "FY 2010", null, null, null, null, null, null, null, null, null, null ]
+, [ 2, "F5FF5BC1-27A6-47ED-B451-2AA0D93DEAD1", 2, 1406827393, "865572", 1407181227, "865572", "{\"invalidCells\":{}}", "2011-06-30T00:00:00", "Jun-11", "Q4 FY11", "FY 2011", "50000", null, null, null, null, null, null, null, null, null ]
+, [ 3, "54F6EF4D-BC53-498A-9024-0DC954F286D9", 3, 1406827393, "865572", 1406827393, "865572", "{\n}", "2012-06-30T00:00:00", "Jun-12", "Q4 FY12", "FY 2012", "95000", null, null, null, "99.1", null, null, null, "44.5", null ]
+, [ 4, "357A8628-3439-4101-95FB-351C3A1B2AD2", 4, 1406827393, "865572", 1406827393, "865572", "{\n}", "2012-07-31T00:00:00", "Jul-12", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 5, "1C8E29F6-152D-49C1-843A-288CDBAF6E13", 5, 1406827393, "865572", 1406827393, "865572", "{\n}", "2012-08-31T00:00:00", "Aug-12", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 6, "590E153F-6C50-4436-AC6F-18D7C812CA22", 6, 1406827393, "865572", 1406827393, "865572", "{\n}", "2012-09-30T00:00:00", "Sep-12", "Q1 FY13", null, null, null, null, null, null, null, null, null, null, null ]
+, [ 7, "319C0A6B-5F7D-46C7-9EF7-21D3CDB0424A", 7, 1406827393, "865572", 1406827393, "865572", "{\n}", "2012-10-31T00:00:00", "Oct-12", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 8, "EAAD2548-1F2D-44AE-9427-50A8CB7EF9A7", 8, 1406827393, "865572", 1406827393, "865572", "{\n}", "2012-11-30T00:00:00", "Nov-12", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 9, "103C2DEB-AA02-4281-A4FB-2F6598840519", 9, 1406827393, "865572", 1406827393, "865572", "{\n}", "2012-12-31T00:00:00", "Dec-12", "Q2 FY13", null, null, null, null, null, null, null, null, null, null, null ]
+, [ 10, "7D71F53A-F067-45B9-B8C6-0A8D3C323906", 10, 1406827393, "865572", 1406827393, "865572", "{\n}", "2013-01-31T00:00:00", "Jan-13", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 11, "09806895-EC9E-4B6E-B97B-71B5A325D8D7", 11, 1406827393, "865572", 1406827393, "865572", "{\n}", "2013-02-28T00:00:00", "Feb-13", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 12, "FC085E64-4981-4994-9246-324601B84542", 12, 1406827393, "865572", 1406827393, "865572", "{\n}", "2013-03-31T00:00:00", "Mar-13", "Q3 FY13", null, null, null, null, null, null, null, null, null, null, null ]
+, [ 13, "5C9F109C-F3E7-4D68-B972-DB2CB55F987F", 13, 1406827393, "865572", 1406827393, "865572", "{\n}", "2013-04-30T00:00:00", "Apr-13", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 14, "45978833-8A4E-4FF5-9C11-D90E695784A0", 14, 1406827393, "865572", 1406827393, "865572", "{\n}", "2013-05-31T00:00:00", "May-13", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 15, "D2974F3E-02AB-438C-8312-5D418BF84E1D", 15, 1406827393, "865572", 1406827393, "865572", "{\n}", "2013-06-30T00:00:00", "Jun-13", "Q4 FY13", "FY 2013", "140000", null, null, null, "99.0", null, null, null, "45.8", null ]
+, [ 16, "89984667-E436-4AE5-8D3E-C4463B6E8C02", 16, 1406827393, "865572", 1406827393, "865572", "{\n}", "2013-07-31T00:00:00", "Jul-13", null, null, null, null, "1485", "1167", null, null, "99.13", null, null, null ]
+, [ 17, "0C18E660-91FF-4D82-B4FD-E8C1C70E2450", 17, 1406827393, "865572", 1406827393, "865572", "{\n}", "2013-08-31T00:00:00", "Aug-13", null, null, null, null, "2540", "2333", null, null, "99.19", "99.0", null, null ]
+, [ 18, "D8C77CD9-9A05-4BD2-8C74-749C8BE6FFBF", 18, 1406827393, "865572", 1406827393, "865572", "{\n}", "2013-09-30T00:00:00", "Sep-13", "Q1 FY14", null, null, null, "4125", "3500", null, null, "99.24", "99.0", null, null ]
+, [ 19, "BA8F4CDB-2AA0-4E4C-9B5F-246DFF8C71D7", 19, 1406827393, "865572", 1406827393, "865572", "{\n}", "2013-10-31T00:00:00", "Oct-13", null, null, null, null, "5214", "4667", null, null, "98.91", "99.0", null, null ]
+, [ 20, "1A218884-F0E4-4881-BECC-FEBD878ECDDA", 20, 1406827393, "865572", 1406827393, "865572", "{\n}", "2013-11-30T00:00:00", "Nov-13", null, null, null, null, "7449", "5833", null, null, "99.19", "99.0", null, null ]
+, [ 21, "8FD83626-8398-447D-81EC-53DBA3A5F878", 21, 1406827393, "865572", 1406827393, "865572", "{\n}", "2013-12-31T00:00:00", "Dec-13", "Q2 FY14", null, null, null, "9396", "7000", null, null, "99.29", "99.0", null, null ]
+, [ 22, "FA5EEAA3-1CB8-45DF-AB01-5497499B5548", 22, 1406827393, "865572", 1406827393, "865572", "{\n}", "2014-01-31T00:00:00", "Jan-14", null, null, null, null, "9731", "8167", null, null, "99.19", "99.0", null, null ]
+, [ 23, "DA7B823E-0AFB-4748-827D-39B559D6B218", 23, 1406827393, "865572", 1406827393, "865572", "{\n}", "2014-02-28T00:00:00", "Feb-14", null, null, null, null, "9754", "9333", null, null, "99.24", "99.0", null, null ]
+, [ 24, "171582FB-0E28-4A25-A3AB-A5C41C711856", 24, 1406827393, "865572", 1406827393, "865572", "{\n}", "2014-03-31T00:00:00", "Mar-14", "Q3 FY14", null, null, null, "9754", "10500", null, null, "99.13", "99.0", null, null ]
+, [ 25, "28866A54-07F7-483C-9A3F-BF914A759116", 25, 1406827393, "865572", 1406827393, "865572", "{\n}", "2014-04-30T00:00:00", "Apr-14", null, null, null, null, "13481", "11667", null, null, "99.39", "99.0", null, null ]
+, [ 26, "DC4F6AE7-B5AD-43DA-BC35-DE72E35A1565", 26, 1406827393, "865572", 1406827393, "865572", "{\n}", "2014-05-31T00:00:00", "May-14", null, null, null, null, "13886", "12833", null, null, "99.41", "99.0", null, null ]
+, [ 27, "21BBA2E2-9FB4-4D01-A229-13AE0E3FF2EE", 27, 1406827393, "865572", 1406827393, "865572", "{\n}", "2014-06-30T00:00:00", "Jun-14", "Q4 FY14", "FY 2014", "154291", "154000", "14291", "14000", "99.2", "99.0", "99.56", "99.0", "44.5", "44.2" ]
+, [ 28, "628EE59A-31D5-4CFE-AD5F-C9FF39DD02AD", 28, 1406827393, "865572", 1411585721, "882515", null, "2014-07-31T00:00:00", "Jul-14", null, null, null, null, "359", null, null, null, "99.28", "98", null, null ]
+, [ 29, "556330DB-EEF2-48E2-B96B-F32214402E9C", 29, 1406827393, "865572", 1416017650, "865572", null, "2014-08-31T00:00:00", "Aug-14", null, null, null, null, "600", null, null, null, "99.59", "98", null, null ]
+, [ 30, "30BB1FB9-77E7-40B4-ADB4-CDCB9BDD3355", 30, 1406827393, "865572", 1416017652, "865572", null, "2014-09-30T00:00:00", "Sep-14", "Q1 FY15", null, null, null, "1140", null, null, null, "99.27", "98", null, null ]
+, [ 31, "31A3822E-3523-4224-B545-B7FF76C36508", 31, 1406827393, "865572", 1416017656, "865572", null, "2014-10-31T00:00:00", "Oct-14", null, null, null, null, null, null, null, null, "99.37", "98", null, null ]
+, [ 32, "F5A0389E-C756-49BE-9394-6B8521B02D92", 32, 1406827393, "865572", 1406827393, "865572", "{\n}", "2014-11-30T00:00:00", "Nov-14", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 33, "A1FF9DE9-46CD-443F-B8C9-AA3A246986CF", 33, 1406827393, "865572", 1406827393, "865572", "{\n}", "2014-12-31T00:00:00", "Dec-14", "Q2 FY15", null, null, null, null, null, null, null, null, null, null, null ]
+, [ 34, "D311D712-4429-4562-AD4D-C8EE8D2EA46B", 34, 1406827393, "865572", 1406827393, "865572", "{\n}", "2015-01-31T00:00:00", "Jan-15", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 35, "780D1736-7A8E-4083-A5B0-B049C92410E3", 35, 1406827393, "865572", 1406827393, "865572", "{\n}", "2015-02-28T00:00:00", "Feb-15", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 36, "E77FD9FF-8FA0-436A-B00F-E43E32EF8280", 36, 1406827393, "865572", 1406827393, "865572", "{\n}", "2015-03-31T00:00:00", "Mar-15", "Q3 FY15", null, null, null, null, null, null, null, null, null, null, null ]
+, [ 37, "ACF27DC7-7151-4FE8-B361-29059D5DD612", 37, 1406827393, "865572", 1406827393, "865572", "{\n}", "2015-04-30T00:00:00", "Apr-15", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 38, "F5E8BD58-387E-4B5B-AFCB-796506019948", 38, 1406827393, "865572", 1406827393, "865572", "{\n}", "2015-05-31T00:00:00", "May-15", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 39, "E69A1776-DAB1-477D-933F-3CF4AF300A26", 39, 1406827393, "865572", 1407962208, "881225", null, "2015-06-30T00:00:00", "Jun-15", "Q4 FY15", "FY 2015", null, "161500", null, null, null, "99.2", null, "99.2", null, "44.0" ]
+, [ 40, "D756EA54-9771-42AC-970D-E9D49F901428", 40, 1406827393, "865572", 1406827393, "865572", "{\n}", "2015-07-30T00:00:00", "Jul-15", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 41, "AE05D848-6EAA-4EF0-AED9-2C24ADEA53BD", 41, 1406827393, "865572", 1406827393, "865572", "{\n}", "2015-08-29T00:00:00", "Aug-15", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 42, "235B46DA-372E-4BEA-A028-E11CA90C4A89", 42, 1406827393, "865572", 1406827393, "865572", "{\n}", "2015-09-29T00:00:00", "Sep-15", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 43, "CA9BDD62-5F5A-4D31-9D9B-F5767A73589D", 43, 1406827393, "865572", 1406827393, "865572", "{\n}", "2015-10-29T00:00:00", "Oct-15", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 44, "CEAF7213-607B-4FEF-B98B-A3218328BFC9", 44, 1406827393, "865572", 1406827393, "865572", "{\n}", "2015-11-28T00:00:00", "Nov-15", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 45, "194A7436-DC71-4351-8D5F-572F95064049", 45, 1406827393, "865572", 1406827393, "865572", "{\n}", "2015-12-29T00:00:00", "Dec-15", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 46, "9C983AF6-4BB2-4242-B4A8-9A8DD8C54D99", 46, 1406827393, "865572", 1406827393, "865572", "{\n}", "2016-01-28T00:00:00", "Jul-15", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 47, "553BADC4-4F39-4A44-AF0D-14D6530E622A", 47, 1406827393, "865572", 1406827393, "865572", "{\n}", "2016-02-27T00:00:00", "Aug-15", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 48, "8CFCB385-F39E-40C9-BB6D-021D08143ED9", 48, 1406827393, "865572", 1406827393, "865572", "{\n}", "2016-03-29T00:00:00", "Sep-15", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 49, "75690E65-707A-47CA-A10F-8760F7D3A352", 49, 1406827393, "865572", 1406827393, "865572", "{\n}", "2016-04-28T00:00:00", "Oct-15", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 50, "446F7ED1-68E6-462F-8C03-4AC8B4FB3780", 50, 1406827393, "865572", 1406827393, "865572", "{\n}", "2016-05-28T00:00:00", "Nov-15", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 51, "313335DC-673F-4EB5-9BB1-128C2E5F642E", 51, 1406827393, "865572", 1406827393, "865572", "{\n}", "2016-06-27T00:00:00", "Dec-15", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 52, "C9AD71AC-D935-4B2F-88BA-59BE4FFD596D", 52, 1406827393, "865572", 1406827393, "865572", "{\n}", "2016-07-28T00:00:00", "Jan-16", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 53, "5B0771C3-204B-4F64-AC99-CC010623D80F", 53, 1406827393, "865572", 1406827393, "865572", "{\n}", "2016-08-27T00:00:00", "Feb-16", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 54, "92D2B9B6-19AC-438E-A618-D4CA5E419118", 54, 1406827393, "865572", 1406827393, "865572", "{\n}", "2016-09-26T00:00:00", "Mar-16", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 55, "D9DE7D02-E0A6-421E-A7F4-35F722766F1F", 55, 1406827393, "865572", 1406827393, "865572", "{\n}", "2016-10-27T00:00:00", "Apr-16", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 56, "660E594F-6CDA-401A-AF74-B5130FC7FD09", 56, 1406827393, "865572", 1406827393, "865572", "{\n}", "2016-11-26T00:00:00", "May-16", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 57, "64F2F947-3408-4E0A-9B76-40763F0DE121", 57, 1406827393, "865572", 1406827393, "865572", "{\n}", "2016-12-26T00:00:00", "Jun-16", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 58, "81C07747-19B3-4BD0-B896-7E86A660482A", 58, 1406827393, "865572", 1406827393, "865572", "{\n}", "2017-01-26T00:00:00", "Jul-16", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 59, "CEB9B308-7330-4D6C-A76A-6DF0B0EB0000", 59, 1406827393, "865572", 1406827393, "865572", "{\n}", "2017-02-25T00:00:00", "Aug-16", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 60, "35EA728A-A989-46D6-9241-B2D035BF94C2", 60, 1406827393, "865572", 1406827393, "865572", "{\n}", "2017-03-27T00:00:00", "Sep-16", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 61, "B84BA94A-3E7E-4974-900C-2786B997854E", 61, 1406827393, "865572", 1406827393, "865572", "{\n}", "2017-04-27T00:00:00", "Oct-16", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 62, "305F08CC-F3C3-4175-82E0-B65E00A7FC5B", 62, 1406827393, "865572", 1406827393, "865572", "{\n}", "2017-05-27T00:00:00", "Nov-16", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 63, "7BF0B392-276A-4444-9D38-C97FF4EC0C0F", 63, 1406827393, "865572", 1406827393, "865572", "{\n}", "2017-06-26T00:00:00", "Dec-16", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 64, "6D12E398-77AD-4DFF-8CB0-F6CB1BF7BE0B", 64, 1406827393, "865572", 1406827393, "865572", "{\n}", "2017-07-27T00:00:00", "Jul-16", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 65, "341D3740-07C4-4ADC-8DE9-B8A14BF2755A", 65, 1406827393, "865572", 1406827393, "865572", "{\n}", "2017-08-26T00:00:00", "Aug-16", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 66, "23DB1930-0D0D-4075-8B3E-20C419F39B92", 66, 1406827393, "865572", 1406827393, "865572", "{\n}", "2017-09-25T00:00:00", "Sep-16", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 67, "DD3B4095-67FE-4DB1-AA6F-AA2BB2679F3B", 67, 1406827393, "865572", 1406827393, "865572", "{\n}", "2017-10-26T00:00:00", "Oct-16", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 68, "7663D151-EA7A-437E-8620-5E130264C9F5", 68, 1406827393, "865572", 1406827393, "865572", "{\n}", "2017-11-25T00:00:00", "Nov-16", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 69, "A8D8388E-B176-48C7-9D27-0E5D418DE8F5", 69, 1406827393, "865572", 1406827393, "865572", "{\n}", "2017-12-25T00:00:00", "Dec-16", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 70, "B2D3ECC4-4C70-47A8-AA6E-63BA2C659B28", 70, 1406827393, "865572", 1406827393, "865572", "{\n}", "2018-01-25T00:00:00", "Jan-17", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 71, "C9DE0F16-62D4-414F-AF7D-AD0AC52CC109", 71, 1406827393, "865572", 1406827393, "865572", "{\n}", "2018-02-24T00:00:00", "Feb-17", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 72, "CEB1EE58-D35D-4D37-9F4A-056B490CA2C7", 72, 1406827393, "865572", 1406827393, "865572", "{\n}", "2018-03-26T00:00:00", "Mar-17", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 73, "FCFD6AC2-FBF3-44AF-A740-B09F6773ED56", 73, 1406827393, "865572", 1406827393, "865572", "{\n}", "2018-04-25T00:00:00", "Apr-17", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 74, "E1384BBA-D708-4423-BEBE-0171AF6F213F", 74, 1406827393, "865572", 1406827393, "865572", "{\n}", "2018-05-26T00:00:00", "May-17", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 75, "97DAD5EB-67A5-4E09-9DEB-9A0978EB8017", 75, 1406827393, "865572", 1406827393, "865572", "{\n}", "2018-06-25T00:00:00", "Jun-17", null, null, null, null, null, null, null, null, null, null, null, null ]
+ ]
+}

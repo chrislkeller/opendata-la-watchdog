@@ -1,0 +1,253 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "rjdk-rz7f",
+      "name" : "DOT- Traffic Signal Trouble Call Responses Within One Hour",
+      "averageRating" : 0,
+      "createdAt" : 1401487515,
+      "displayType" : "table",
+      "downloadCount" : 2,
+      "indexUpdatedAt" : 1414613951,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8108917,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401487684,
+      "publicationGroup" : 1600610,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1401487522,
+      "rowsUpdatedBy" : "tyhz-nfmm",
+      "tableId" : 1600610,
+      "totalTimesRated" : 0,
+      "viewCount" : 46,
+      "viewLastModified" : 1402606844,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150663079,
+        "name" : "Date Name",
+        "dataTypeName" : "text",
+        "fieldName" : "date_name",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20022106,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "Apr-14",
+          "null" : 0,
+          "largest" : "May-14",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Jan-14"
+          }, {
+            "count" : 19,
+            "item" : "Feb-14"
+          }, {
+            "count" : 18,
+            "item" : "Mar-14"
+          }, {
+            "count" : 17,
+            "item" : "Apr-14"
+          }, {
+            "count" : 16,
+            "item" : "May-14"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150663080,
+        "name" : "Date Value",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date_value",
+        "position" : 3,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 20022107,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "2014-01-01T00:00:00",
+          "null" : 0,
+          "largest" : "2014-05-01T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2014-01-01T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2014-02-01T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2014-03-01T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2014-04-01T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2014-05-01T00:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150663081,
+        "name" : "% of calls responded to within one hour",
+        "dataTypeName" : "percent",
+        "fieldName" : "percentage_of_calls",
+        "position" : 4,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 20022108,
+        "width" : 568,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "38",
+          "sum" : "217",
+          "null" : 0,
+          "average" : "43.4",
+          "largest" : "52",
+          "top" : [ {
+            "count" : 20,
+            "item" : "44"
+          }, {
+            "count" : 19,
+            "item" : "41"
+          }, {
+            "count" : 18,
+            "item" : "42"
+          }, {
+            "count" : 17,
+            "item" : "38"
+          }, {
+            "count" : 16,
+            "item" : "52"
+          } ]
+        },
+        "format" : {
+          "view" : "percent_bar_and_text",
+          "align" : "right",
+          "noCommas" : "false"
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "8b8n-vh2w",
+        "displayName" : "LA DOT OpenData",
+        "profileImageUrlLarge" : "/images/profile/0814/0098/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0814/0098/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0814/0098/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LA DOT OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "8b8n-vh2w",
+        "displayName" : "LA DOT OpenData",
+        "profileImageUrlLarge" : "/images/profile/0814/0098/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0814/0098/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0814/0098/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LA DOT OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "traffic signal", "ladot" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "6233A70B-614F-410B-81D8-C634CDE41C24", 1, 1401487518, "865572", 1401487518, "865572", "{\n}", "Jan-14", "2014-01-01T00:00:00", "44" ]
+, [ 2, "D643ED71-2378-467B-B2B7-CA25C8CAFDBC", 2, 1401487518, "865572", 1401487518, "865572", "{\n}", "Feb-14", "2014-02-01T00:00:00", "41" ]
+, [ 3, "44A3400D-7118-44D4-BB5E-D9B09B970E14", 3, 1401487518, "865572", 1401487518, "865572", "{\n}", "Mar-14", "2014-03-01T00:00:00", "42" ]
+, [ 4, "F132FEBB-81ED-4137-B2CD-BB57EE2D896A", 4, 1401487518, "865572", 1401487518, "865572", "{\n}", "Apr-14", "2014-04-01T00:00:00", "38" ]
+, [ 5, "B37112D5-CE86-4654-BEFE-00A3536E75BB", 5, 1401487518, "865572", 1401487518, "865572", "{\n}", "May-14", "2014-05-01T00:00:00", "52" ]
+ ]
+}

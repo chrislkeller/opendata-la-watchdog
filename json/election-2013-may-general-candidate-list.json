@@ -1,0 +1,314 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "x9tj-p4jm",
+      "name" : "Election 2013 May General Candidate List",
+      "averageRating" : 0,
+      "category" : "A Well Run City",
+      "createdAt" : 1401461117,
+      "description" : "Candidate Names, Races and Measures",
+      "displayType" : "table",
+      "downloadCount" : 1,
+      "indexUpdatedAt" : 1414614504,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8106242,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401480325,
+      "publicationGroup" : 1600077,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1401461122,
+      "rowsUpdatedBy" : "ika6-27vg",
+      "tableId" : 1600077,
+      "totalTimesRated" : 0,
+      "viewCount" : 34,
+      "viewLastModified" : 1401488712,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150590842,
+        "name" : "﻿Race",
+        "dataTypeName" : "text",
+        "fieldName" : "race",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20014891,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 30,
+          "smallest" : "CITY ATTORNEY",
+          "null" : 0,
+          "largest" : "PROPOSITION D - MEDICAL MARIJUANA REGULATION AND TAXATION",
+          "top" : [ {
+            "count" : 20,
+            "item" : "MAYOR"
+          }, {
+            "count" : 19,
+            "item" : "CITY ATTORNEY"
+          }, {
+            "count" : 18,
+            "item" : "CONTROLLER"
+          }, {
+            "count" : 17,
+            "item" : "MEMBER OF THE COUNCIL, DISTRICT NO. 1"
+          }, {
+            "count" : 16,
+            "item" : "MEMBER OF THE COUNCIL, DISTRICT NO. 6"
+          }, {
+            "count" : 15,
+            "item" : "MEMBER OF THE COUNCIL, DISTRICT NO. 9"
+          }, {
+            "count" : 14,
+            "item" : "MEMBER OF THE COUNCIL, DISTRICT NO. 13"
+          }, {
+            "count" : 13,
+            "item" : "MEMBER OF THE BOARD OF ED, DIST NO. 6"
+          }, {
+            "count" : 12,
+            "item" : "MEMBER OF THE BOARD OF TRUSTEES, SEAT NO. 6"
+          }, {
+            "count" : 11,
+            "item" : "PROPOSITION C - RESOLUTION TO SUPPORT CONSTITUTIONAL AMENDMENT REGARDING LIMITS ON POLITICAL CAMPAIGN"
+          }, {
+            "count" : 10,
+            "item" : "PROPOSITION D - MEDICAL MARIJUANA REGULATION AND TAXATION"
+          }, {
+            "count" : 9,
+            "item" : "INITIATIVE ORDINANCE E - MEDICAL MARIJUANA REGULATION"
+          }, {
+            "count" : 8,
+            "item" : "INITIATIVE ORDINANCE F - MEDICAL MARIJUANA REGULATION AND TAXATION"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150590843,
+        "name" : "Candidate",
+        "dataTypeName" : "text",
+        "fieldName" : "candidate",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20014892,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 30,
+          "smallest" : "ANA CUBAS",
+          "null" : 0,
+          "largest" : "YES",
+          "top" : [ {
+            "count" : 20,
+            "item" : "ERIC GARCETTI"
+          }, {
+            "count" : 19,
+            "item" : "WENDY J. GREUEL"
+          }, {
+            "count" : 18,
+            "item" : "CARMEN \"NUCH\" TRUTANICH"
+          }, {
+            "count" : 17,
+            "item" : "MIKE FEUER"
+          }, {
+            "count" : 16,
+            "item" : "RON GALPERIN"
+          }, {
+            "count" : 15,
+            "item" : "DENNIS P. ZINE"
+          }, {
+            "count" : 14,
+            "item" : "JOSE A. GARDEA"
+          }, {
+            "count" : 13,
+            "item" : "GILBERT CEDILLO"
+          }, {
+            "count" : 12,
+            "item" : "WALTER ALEXANDER ESCOBAR"
+          }, {
+            "count" : 11,
+            "item" : "NURY MARTINEZ"
+          }, {
+            "count" : 10,
+            "item" : "CINDY MONTANEZ"
+          }, {
+            "count" : 9,
+            "item" : "RICHARD VALDEZ"
+          }, {
+            "count" : 8,
+            "item" : "DEREK WALEKO"
+          }, {
+            "count" : 7,
+            "item" : "J. ROY GARCIA"
+          }, {
+            "count" : 6,
+            "item" : "CURREN D PRICE, JR"
+          }, {
+            "count" : 5,
+            "item" : "ANA CUBAS"
+          }, {
+            "count" : 4,
+            "item" : "MITCH O'FARRELL"
+          }, {
+            "count" : 3,
+            "item" : "JOHN J. CHOI"
+          }, {
+            "count" : 2,
+            "item" : "MONICA RATLIFF"
+          }, {
+            "count" : 1,
+            "item" : "ANTONIO SANCHEZ"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "City Clerk"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "ika6-27vg",
+        "displayName" : "City Clerk OpenData",
+        "profileImageUrlLarge" : "/images/profile/8695/3285/City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/8695/3285/City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/8695/3285/City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "City Clerk OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "ika6-27vg",
+        "displayName" : "City Clerk OpenData",
+        "profileImageUrlLarge" : "/images/profile/8695/3285/City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/8695/3285/City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/8695/3285/City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "City Clerk OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "2859F3A5-EA58-489C-A007-DC04C74A5932", 1, 1401461119, "883711", 1401461119, "883711", "{\n}", "MAYOR", "ERIC GARCETTI" ]
+, [ 2, "32710E0C-6388-45CA-8D9B-F79E667744FC", 2, 1401461119, "883711", 1401461119, "883711", "{\n}", "MAYOR", "WENDY J. GREUEL" ]
+, [ 3, "6680ACE2-45EB-445E-AFDD-D5808939AD7A", 3, 1401461119, "883711", 1401461119, "883711", "{\n}", "CITY ATTORNEY", "CARMEN \"NUCH\" TRUTANICH" ]
+, [ 4, "72D0576E-9DDF-4C05-86D1-BC66BDCDADE0", 4, 1401461119, "883711", 1401461119, "883711", "{\n}", "CITY ATTORNEY", "MIKE FEUER" ]
+, [ 5, "801EA63A-8B96-40CC-BBE8-007442BDE4B5", 5, 1401461119, "883711", 1401461119, "883711", "{\n}", "CONTROLLER", "RON GALPERIN" ]
+, [ 6, "153A4367-8553-4C8B-9E71-1E6A3604EC09", 6, 1401461119, "883711", 1401461119, "883711", "{\n}", "CONTROLLER", "DENNIS P. ZINE" ]
+, [ 7, "2EDE9F4C-AE55-4E35-AEF1-35D821E77F77", 7, 1401461119, "883711", 1401461119, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 1", "JOSE A. GARDEA" ]
+, [ 8, "E53D19A8-9868-418D-95EA-89897417785F", 8, 1401461119, "883711", 1401461119, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 1", "GILBERT CEDILLO" ]
+, [ 9, "C45743C5-45E2-4554-A3E7-E4A5B92664E0", 9, 1401461119, "883711", 1401461119, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 6", "WALTER ALEXANDER ESCOBAR" ]
+, [ 10, "0DACFCBB-3748-447A-82F4-CADF0BABE48F", 10, 1401461119, "883711", 1401461119, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 6", "NURY MARTINEZ" ]
+, [ 11, "04C6D217-19CF-40F2-B91E-A36B6460DCD4", 11, 1401461119, "883711", 1401461119, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 6", "CINDY MONTANEZ" ]
+, [ 12, "900C5B33-980F-4DBC-8681-7B123FB40BEC", 12, 1401461119, "883711", 1401461119, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 6", "RICHARD VALDEZ" ]
+, [ 13, "975C2478-1B60-44F4-B977-876C14BC1E79", 13, 1401461119, "883711", 1401461119, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 6", "DEREK WALEKO" ]
+, [ 14, "B82B454E-23E5-40DB-9660-AEA44F6AB18A", 14, 1401461119, "883711", 1401461119, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 6", "J. ROY GARCIA" ]
+, [ 15, "13332869-1C82-429C-8040-01D19CFAE08A", 15, 1401461119, "883711", 1401461119, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 9", "CURREN D PRICE, JR" ]
+, [ 16, "8000F182-3EC4-4D3C-BC44-9D110429068B", 16, 1401461119, "883711", 1401461119, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 9", "ANA CUBAS" ]
+, [ 17, "B8693A1A-8D4E-40E8-83CF-00D00D4AAC57", 17, 1401461119, "883711", 1401461119, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 13", "MITCH O'FARRELL" ]
+, [ 18, "947C657B-40E3-4BFE-AFEE-398EFB20FE7A", 18, 1401461119, "883711", 1401461119, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 13", "JOHN J. CHOI" ]
+, [ 19, "5116D6F1-58A5-4C57-8323-85398EDEC364", 19, 1401461119, "883711", 1401461119, "883711", "{\n}", "MEMBER OF THE BOARD OF ED, DIST NO. 6", "MONICA RATLIFF" ]
+, [ 20, "6B22495B-DC6E-49B7-AF1D-B4702AF280D3", 20, 1401461119, "883711", 1401461119, "883711", "{\n}", "MEMBER OF THE BOARD OF ED, DIST NO. 6", "ANTONIO SANCHEZ" ]
+, [ 21, "4A3B502E-2BF7-4CAB-9524-9706D17E21C0", 21, 1401461119, "883711", 1401461119, "883711", "{\n}", "MEMBER OF THE BOARD OF TRUSTEES, SEAT NO. 6", "NANCY PEARLMAN" ]
+, [ 22, "E3726AF5-18A5-4C4B-BDAB-1FC2BE0B9BF1", 22, 1401461119, "883711", 1401461119, "883711", "{\n}", "MEMBER OF THE BOARD OF TRUSTEES, SEAT NO. 6", "DAVID VELA" ]
+, [ 23, "B278F0C3-9E42-4E8C-8A4E-61328F4F9C75", 23, 1401461119, "883711", 1401461119, "883711", "{\n}", "PROPOSITION C - RESOLUTION TO SUPPORT CONSTITUTIONAL AMENDMENT REGARDING LIMITS ON POLITICAL CAMPAIGN", "YES" ]
+, [ 24, "7EC5C728-8194-4193-8535-A53089003991", 24, 1401461119, "883711", 1401461119, "883711", "{\n}", "PROPOSITION C - RESOLUTION TO SUPPORT CONSTITUTIONAL AMENDMENT REGARDING LIMITS ON POLITICAL CAMPAIGN", "NO" ]
+, [ 25, "A61552FF-47D2-4924-9F31-EB1BF6ADE003", 25, 1401461119, "883711", 1401461119, "883711", "{\n}", "PROPOSITION D - MEDICAL MARIJUANA REGULATION AND TAXATION", "YES" ]
+, [ 26, "3CC643B0-2904-4A92-A724-8CCC2F69DE38", 26, 1401461119, "883711", 1401461119, "883711", "{\n}", "PROPOSITION D - MEDICAL MARIJUANA REGULATION AND TAXATION", "NO" ]
+, [ 27, "83F06FE2-BB8C-4556-A49B-CAFD7B212A2D", 27, 1401461119, "883711", 1401461119, "883711", "{\n}", "INITIATIVE ORDINANCE E - MEDICAL MARIJUANA REGULATION", "YES" ]
+, [ 28, "7655D286-85CB-4362-A51F-42DE51966559", 28, 1401461119, "883711", 1401461119, "883711", "{\n}", "INITIATIVE ORDINANCE E - MEDICAL MARIJUANA REGULATION", "NO" ]
+, [ 29, "02A46776-C8BD-4A40-98A0-C93836EC1E74", 29, 1401461119, "883711", 1401461119, "883711", "{\n}", "INITIATIVE ORDINANCE F - MEDICAL MARIJUANA REGULATION AND TAXATION", "YES" ]
+, [ 30, "06340940-87AB-4731-9B70-1696E6A5C024", 30, 1401461119, "883711", 1401461119, "883711", "{\n}", "INITIATIVE ORDINANCE F - MEDICAL MARIJUANA REGULATION AND TAXATION", "NO" ]
+ ]
+}

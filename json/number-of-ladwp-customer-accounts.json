@@ -1,0 +1,482 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "4z5w-yabs",
+      "name" : "Number of LADWP Customer Accounts",
+      "attribution" : "LADWP",
+      "averageRating" : 0,
+      "category" : "A Prosperous City",
+      "createdAt" : 1400881881,
+      "description" : "Total number of Customer Accounts at LADWP from year to year.",
+      "displayType" : "table",
+      "downloadCount" : 12,
+      "indexUpdatedAt" : 1414613948,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8059979,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1400881992,
+      "publicationGroup" : 1593098,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1400881887,
+      "rowsUpdatedBy" : "7q7s-tyf3",
+      "tableId" : 1593098,
+      "totalTimesRated" : 0,
+      "viewCount" : 56,
+      "viewLastModified" : 1400881992,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 149726162,
+        "name" : "Year",
+        "dataTypeName" : "number",
+        "fieldName" : "year",
+        "position" : 2,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19909206,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 21,
+          "smallest" : "1992",
+          "sum" : "42042",
+          "null" : 0,
+          "average" : "2002",
+          "largest" : "2012",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1992"
+          }, {
+            "count" : 19,
+            "item" : "1993"
+          }, {
+            "count" : 18,
+            "item" : "1994"
+          }, {
+            "count" : 17,
+            "item" : "1995"
+          }, {
+            "count" : 16,
+            "item" : "1996"
+          }, {
+            "count" : 15,
+            "item" : "1997"
+          }, {
+            "count" : 14,
+            "item" : "1998"
+          }, {
+            "count" : 13,
+            "item" : "1999"
+          }, {
+            "count" : 12,
+            "item" : "2000"
+          }, {
+            "count" : 11,
+            "item" : "2001"
+          }, {
+            "count" : 10,
+            "item" : "2002"
+          }, {
+            "count" : 9,
+            "item" : "2003"
+          }, {
+            "count" : 8,
+            "item" : "2004"
+          }, {
+            "count" : 7,
+            "item" : "2005"
+          }, {
+            "count" : 6,
+            "item" : "2006"
+          }, {
+            "count" : 5,
+            "item" : "2007"
+          }, {
+            "count" : 4,
+            "item" : "2008"
+          }, {
+            "count" : 3,
+            "item" : "2009"
+          }, {
+            "count" : 2,
+            "item" : "2010"
+          }, {
+            "count" : 1,
+            "item" : "2011"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149726163,
+        "name" : "Residential",
+        "dataTypeName" : "number",
+        "fieldName" : "residential",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19909207,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 21,
+          "smallest" : "1147666",
+          "sum" : "25414402",
+          "null" : 0,
+          "average" : "1210209.619047619",
+          "largest" : "1273300",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1165743"
+          }, {
+            "count" : 19,
+            "item" : "1162104"
+          }, {
+            "count" : 18,
+            "item" : "1147666"
+          }, {
+            "count" : 17,
+            "item" : "1149850"
+          }, {
+            "count" : 16,
+            "item" : "1155349"
+          }, {
+            "count" : 15,
+            "item" : "1165787"
+          }, {
+            "count" : 14,
+            "item" : "1175951"
+          }, {
+            "count" : 13,
+            "item" : "1191701"
+          }, {
+            "count" : 12,
+            "item" : "1204270"
+          }, {
+            "count" : 11,
+            "item" : "1211225"
+          }, {
+            "count" : 10,
+            "item" : "1218210"
+          }, {
+            "count" : 9,
+            "item" : "1223440"
+          }, {
+            "count" : 8,
+            "item" : "1230769"
+          }, {
+            "count" : 7,
+            "item" : "1235921"
+          }, {
+            "count" : 6,
+            "item" : "1241560"
+          }, {
+            "count" : 5,
+            "item" : "1246346"
+          }, {
+            "count" : 4,
+            "item" : "1250470"
+          }, {
+            "count" : 3,
+            "item" : "1248489"
+          }, {
+            "count" : 2,
+            "item" : "1252720"
+          }, {
+            "count" : 1,
+            "item" : "1263531"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149726164,
+        "name" : "Commercial",
+        "dataTypeName" : "number",
+        "fieldName" : "commercial",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19909208,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 21,
+          "smallest" : "113882",
+          "sum" : "2486145",
+          "null" : 0,
+          "average" : "118387.8571428571",
+          "largest" : "122243",
+          "top" : [ {
+            "count" : 20,
+            "item" : "116242"
+          }, {
+            "count" : 19,
+            "item" : "114929"
+          }, {
+            "count" : 18,
+            "item" : "114095"
+          }, {
+            "count" : 17,
+            "item" : "113882"
+          }, {
+            "count" : 16,
+            "item" : "115087"
+          }, {
+            "count" : 15,
+            "item" : "115662"
+          }, {
+            "count" : 14,
+            "item" : "116422"
+          }, {
+            "count" : 13,
+            "item" : "117442"
+          }, {
+            "count" : 12,
+            "item" : "119991"
+          }, {
+            "count" : 11,
+            "item" : "119098"
+          }, {
+            "count" : 10,
+            "item" : "119806"
+          }, {
+            "count" : 9,
+            "item" : "119805"
+          }, {
+            "count" : 8,
+            "item" : "121082"
+          }, {
+            "count" : 7,
+            "item" : "121796"
+          }, {
+            "count" : 6,
+            "item" : "122243"
+          }, {
+            "count" : 5,
+            "item" : "121051"
+          }, {
+            "count" : 4,
+            "item" : "119656"
+          }, {
+            "count" : 3,
+            "item" : "118909"
+          }, {
+            "count" : 2,
+            "item" : "118850"
+          }, {
+            "count" : 1,
+            "item" : "119818"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149726165,
+        "name" : "Industrial",
+        "dataTypeName" : "number",
+        "fieldName" : "industrial",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19909209,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 21,
+          "smallest" : "12147",
+          "sum" : "311852",
+          "null" : 0,
+          "average" : "14850.09523809524",
+          "largest" : "17833",
+          "top" : [ {
+            "count" : 20,
+            "item" : "17833"
+          }, {
+            "count" : 19,
+            "item" : "17220"
+          }, {
+            "count" : 18,
+            "item" : "16760"
+          }, {
+            "count" : 17,
+            "item" : "16328"
+          }, {
+            "count" : 16,
+            "item" : "16192"
+          }, {
+            "count" : 15,
+            "item" : "16057"
+          }, {
+            "count" : 14,
+            "item" : "15966"
+          }, {
+            "count" : 13,
+            "item" : "15829"
+          }, {
+            "count" : 12,
+            "item" : "15773"
+          }, {
+            "count" : 11,
+            "item" : "15536"
+          }, {
+            "count" : 10,
+            "item" : "15229"
+          }, {
+            "count" : 9,
+            "item" : "14943"
+          }, {
+            "count" : 8,
+            "item" : "14294"
+          }, {
+            "count" : 7,
+            "item" : "13984"
+          }, {
+            "count" : 6,
+            "item" : "13800"
+          }, {
+            "count" : 5,
+            "item" : "13492"
+          }, {
+            "count" : 4,
+            "item" : "13091"
+          }, {
+            "count" : 3,
+            "item" : "12661"
+          }, {
+            "count" : 2,
+            "item" : "12449"
+          }, {
+            "count" : 1,
+            "item" : "12268"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "LADWP"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "7q7s-tyf3",
+        "displayName" : "Steve Baule",
+        "roleName" : "editor",
+        "screenName" : "Steve Baule",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "7q7s-tyf3",
+        "displayName" : "Steve Baule",
+        "roleName" : "editor",
+        "screenName" : "Steve Baule",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "customer accounts" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "BD7D2C49-C3A5-49E5-BB07-AF6D670D1AF0", 1, 1400881884, "877550", 1400881884, "877550", "{\n}", "1992", "1165743", "116242", "17833" ]
+, [ 2, "AEF5B5B2-9DD7-4BD8-BAD4-87FCFA68E1A8", 2, 1400881884, "877550", 1400881884, "877550", "{\n}", "1993", "1162104", "114929", "17220" ]
+, [ 3, "2BED06FE-0C67-4DA0-B4DC-EA2BA74933CC", 3, 1400881884, "877550", 1400881884, "877550", "{\n}", "1994", "1147666", "114095", "16760" ]
+, [ 4, "202A6997-B815-4500-927D-324F5FDB376A", 4, 1400881884, "877550", 1400881884, "877550", "{\n}", "1995", "1149850", "113882", "16328" ]
+, [ 5, "1C236A37-21CD-45DC-9699-8889D917D803", 5, 1400881884, "877550", 1400881884, "877550", "{\n}", "1996", "1155349", "115087", "16192" ]
+, [ 6, "741F5231-97B3-4591-8AB2-30DF606AE8DB", 6, 1400881884, "877550", 1400881884, "877550", "{\n}", "1997", "1165787", "115662", "16057" ]
+, [ 7, "F99CD9BA-B76E-46B3-AF15-A537103C8E5A", 7, 1400881884, "877550", 1400881884, "877550", "{\n}", "1998", "1175951", "116422", "15966" ]
+, [ 8, "48DC8B08-7D92-4A24-BD03-3CA15802BFC6", 8, 1400881884, "877550", 1400881884, "877550", "{\n}", "1999", "1191701", "117442", "15829" ]
+, [ 9, "9C465E21-A3A0-4985-B80B-ABD0E67E9B8A", 9, 1400881884, "877550", 1400881884, "877550", "{\n}", "2000", "1204270", "119991", "15773" ]
+, [ 10, "38630C38-7FDF-4D4C-BFE9-B9958BAEC26E", 10, 1400881884, "877550", 1400881884, "877550", "{\n}", "2001", "1211225", "119098", "15536" ]
+, [ 11, "186AF813-C022-4EEA-9B16-D6BAE2E84B43", 11, 1400881884, "877550", 1400881884, "877550", "{\n}", "2002", "1218210", "119806", "15229" ]
+, [ 12, "E7EE51BA-0276-43B1-8896-FABCE70BC898", 12, 1400881884, "877550", 1400881884, "877550", "{\n}", "2003", "1223440", "119805", "14943" ]
+, [ 13, "EE58BF62-86AD-43C2-9283-8F5DC040006F", 13, 1400881884, "877550", 1400881884, "877550", "{\n}", "2004", "1230769", "121082", "14294" ]
+, [ 14, "C2053D6F-E218-4E70-BD59-DB46F0F3DCF9", 14, 1400881884, "877550", 1400881884, "877550", "{\n}", "2005", "1235921", "121796", "13984" ]
+, [ 15, "576DDAC8-FD31-4C03-9D8C-2AC21795797D", 15, 1400881884, "877550", 1400881884, "877550", "{\n}", "2006", "1241560", "122243", "13800" ]
+, [ 16, "56B6274A-3A5A-45C8-912A-4653DBAB1F47", 16, 1400881884, "877550", 1400881884, "877550", "{\n}", "2007", "1246346", "121051", "13492" ]
+, [ 17, "ABFE854A-996B-446E-B747-36B28BFFA435", 17, 1400881884, "877550", 1400881884, "877550", "{\n}", "2008", "1250470", "119656", "13091" ]
+, [ 18, "733B6861-E2E5-4C4C-BD83-94C940308530", 18, 1400881884, "877550", 1400881884, "877550", "{\n}", "2009", "1248489", "118909", "12661" ]
+, [ 19, "DC71928F-87B1-48F0-810A-6925045F9F91", 19, 1400881884, "877550", 1400881884, "877550", "{\n}", "2010", "1252720", "118850", "12449" ]
+, [ 20, "BDA09F36-6E7C-43E4-9147-07F64AA06697", 20, 1400881884, "877550", 1400881884, "877550", "{\n}", "2011", "1263531", "119818", "12268" ]
+, [ 21, "0678047A-4BC4-4FAF-9F28-AF90A80C5BE3", 21, 1400881884, "877550", 1400881884, "877550", "{\n}", "2012", "1273300", "120279", "12147" ]
+ ]
+}

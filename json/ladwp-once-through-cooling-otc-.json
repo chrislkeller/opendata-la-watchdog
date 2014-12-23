@@ -1,0 +1,281 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "hsmw-wwd6",
+      "name" : "LADWP Once Through Cooling (OTC)",
+      "attribution" : "LADWP",
+      "averageRating" : 0,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1400885737,
+      "description" : "Once-Through Cooling is the process of drawing ocean water and pumping it through a generating station's cooling system, then discharging it back into the ocean. LADWP is eliminating the use of ocean water for cooling in its 3 coastal power plants. MGD stands for Million Gallons per Day.",
+      "displayType" : "table",
+      "downloadCount" : 9,
+      "indexUpdatedAt" : 1414613785,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8060185,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1400886017,
+      "publicationGroup" : 1593177,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1400885983,
+      "rowsUpdatedBy" : "7q7s-tyf3",
+      "tableId" : 1593177,
+      "totalTimesRated" : 0,
+      "viewCount" : 18,
+      "viewLastModified" : 1401233711,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 149728474,
+        "name" : "Year",
+        "dataTypeName" : "text",
+        "fieldName" : "year",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19909835,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 24,
+          "smallest" : "1990",
+          "null" : 0,
+          "largest" : "2013",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1990"
+          }, {
+            "count" : 19,
+            "item" : "1991"
+          }, {
+            "count" : 18,
+            "item" : "1992"
+          }, {
+            "count" : 17,
+            "item" : "1993"
+          }, {
+            "count" : 16,
+            "item" : "1994"
+          }, {
+            "count" : 15,
+            "item" : "1995"
+          }, {
+            "count" : 14,
+            "item" : "1996"
+          }, {
+            "count" : 13,
+            "item" : "1997"
+          }, {
+            "count" : 12,
+            "item" : "1998"
+          }, {
+            "count" : 11,
+            "item" : "1999"
+          }, {
+            "count" : 10,
+            "item" : "2000"
+          }, {
+            "count" : 9,
+            "item" : "2001"
+          }, {
+            "count" : 8,
+            "item" : "2002"
+          }, {
+            "count" : 7,
+            "item" : "2003"
+          }, {
+            "count" : 6,
+            "item" : "2004"
+          }, {
+            "count" : 5,
+            "item" : "2005"
+          }, {
+            "count" : 4,
+            "item" : "2006"
+          }, {
+            "count" : 3,
+            "item" : "2007"
+          }, {
+            "count" : 2,
+            "item" : "2008"
+          }, {
+            "count" : 1,
+            "item" : "2009"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "false"
+        }
+      }, {
+        "id" : 149728414,
+        "name" : "OTC (MGD)",
+        "dataTypeName" : "number",
+        "fieldName" : "otc_mgd",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19909836,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 24,
+          "smallest" : "1110",
+          "sum" : "39368",
+          "null" : 0,
+          "average" : "1640.333333333333",
+          "largest" : "1904",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1904"
+          }, {
+            "count" : 19,
+            "item" : "1617"
+          }, {
+            "count" : 18,
+            "item" : "1571"
+          }, {
+            "count" : 17,
+            "item" : "1110"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "LADWP"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "hb8e-gdsp",
+        "displayName" : "LA DWP OpenData",
+        "profileImageUrlLarge" : "/images/profile/5225/6660/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5225/6660/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5225/6660/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LA DWP OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "7q7s-tyf3",
+        "displayName" : "Steve Baule",
+        "roleName" : "editor",
+        "screenName" : "Steve Baule",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "otc", "once through cooling", "coastal power plants" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "2909B715-1668-4869-9273-4211BFFEE22F", 1, 1400885739, "877550", 1400885739, "877550", "{\n}", "1990", "1904" ]
+, [ 2, "46F71225-591D-4A2D-B497-F3C9B9944F30", 2, 1400885739, "877550", 1400885739, "877550", "{\n}", "1991", "1904" ]
+, [ 3, "545CCD38-3EE9-4F33-9011-4EC607C33545", 3, 1400885739, "877550", 1400885739, "877550", "{\n}", "1992", "1904" ]
+, [ 4, "E66DBEC8-12ED-47DE-A5A4-E0A7B9F5F792", 4, 1400885739, "877550", 1400885739, "877550", "{\n}", "1993", "1904" ]
+, [ 5, "9C3E8C18-086A-4FC4-A306-95E855EAC653", 5, 1400885739, "877550", 1400885739, "877550", "{\n}", "1994", "1904" ]
+, [ 6, "1F95A820-3AC9-44B5-AED5-DF15269E9F0A", 6, 1400885739, "877550", 1400885739, "877550", "{\n}", "1995", "1617" ]
+, [ 7, "54D60168-2D20-4CE9-AAB8-7F78796AA5C7", 7, 1400885739, "877550", 1400885739, "877550", "{\n}", "1996", "1617" ]
+, [ 8, "2E97E398-C8B6-4D02-9A15-4037910759DA", 8, 1400885739, "877550", 1400885739, "877550", "{\n}", "1997", "1617" ]
+, [ 9, "CCB29D9D-A800-409A-848A-70B61649321A", 9, 1400885739, "877550", 1400885739, "877550", "{\n}", "1998", "1617" ]
+, [ 10, "6A4A69DC-0E5C-438B-9C3D-4AC831F5C0A0", 10, 1400885739, "877550", 1400885739, "877550", "{\n}", "1999", "1617" ]
+, [ 11, "621A0554-B02B-49C3-A6AF-B5F442E7073F", 11, 1400885739, "877550", 1400885739, "877550", "{\n}", "2000", "1617" ]
+, [ 12, "C39BD5AF-E829-4E41-8E53-67356EDA6939", 12, 1400885739, "877550", 1400885739, "877550", "{\n}", "2001", "1617" ]
+, [ 13, "6A8A53DC-492A-4474-92EB-C39D611345EE", 13, 1400885739, "877550", 1400885739, "877550", "{\n}", "2002", "1617" ]
+, [ 14, "D336CE75-4061-458C-84C9-8DCEBD75C2C1", 14, 1400885739, "877550", 1400885739, "877550", "{\n}", "2003", "1617" ]
+, [ 15, "ADC09F09-36C9-419B-9A50-8CE83FBE7F73", 15, 1400885739, "877550", 1400885739, "877550", "{\n}", "2004", "1617" ]
+, [ 16, "EF013696-C8F2-4341-95FE-338964FD20C7", 16, 1400885739, "877550", 1400885739, "877550", "{\n}", "2005", "1571" ]
+, [ 17, "EF66C88A-7130-4BD2-937D-A5DBE3CAE765", 17, 1400885739, "877550", 1400885739, "877550", "{\n}", "2006", "1571" ]
+, [ 18, "578C13D5-5259-4ECE-8D61-FA875DB8DD62", 18, 1400885739, "877550", 1400885739, "877550", "{\n}", "2007", "1571" ]
+, [ 19, "0F8B2B51-B924-4BAF-88BC-9BBC4D9C8637", 19, 1400885739, "877550", 1400885739, "877550", "{\n}", "2008", "1571" ]
+, [ 20, "E9AC440B-7416-4797-81B8-EBF6D2BAD149", 20, 1400885739, "877550", 1400885739, "877550", "{\n}", "2009", "1571" ]
+, [ 21, "662BC224-B476-401E-9922-33800F7A6CB0", 21, 1400885739, "877550", 1400885739, "877550", "{\n}", "2010", "1571" ]
+, [ 22, "1B045D9D-3AD3-4EED-877B-753166F3A469", 22, 1400885739, "877550", 1400885739, "877550", "{\n}", "2011", "1571" ]
+, [ 23, "F11EEBBE-A099-4DB2-AD52-915D3559AEBB", 23, 1400885739, "877550", 1400885739, "877550", "{\n}", "2012", "1571" ]
+, [ 24, "F6245969-9E1D-4790-92C9-05CFAB0DE36E", 24, 1400885739, "877550", 1400885739, "877550", "{\n}", "2013", "1110" ]
+ ]
+}

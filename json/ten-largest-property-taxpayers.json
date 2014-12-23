@@ -1,0 +1,456 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "xmfa-dabp",
+      "name" : "Ten Largest Property Taxpayers",
+      "attribution" : "Office of the Controller, City of Los Angeles",
+      "attributionLink" : "http://controller.lacity.org/stellent/groups/ElectedOfficials/@CTR_Contributor/documents/Contributor_Web_Content/LACITYP_027750.pdf#page=388",
+      "averageRating" : 0,
+      "category" : "Audits and Reports",
+      "createdAt" : 1390281137,
+      "description" : "CAFR Page 345.\r\n\r\nLargest City of Los Angeles Taxpayers. Secured Assessed Valuation Current and Nine Years Ago",
+      "displayType" : "table",
+      "downloadCount" : 20,
+      "indexUpdatedAt" : 1414613132,
+      "licenseId" : "PUBLIC_DOMAIN",
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 7195224,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1391551030,
+      "publicationGroup" : 1447954,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1390281251,
+      "rowsUpdatedBy" : "7c7a-resi",
+      "tableId" : 1447954,
+      "totalTimesRated" : 0,
+      "viewCount" : 293,
+      "viewLastModified" : 1412750956,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 129892353,
+        "name" : "Year",
+        "dataTypeName" : "number",
+        "fieldName" : "year",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17694949,
+        "width" : 94,
+        "cachedContents" : {
+          "non_null" : 20,
+          "smallest" : "2004",
+          "sum" : "40170",
+          "null" : 0,
+          "average" : "2008.5",
+          "largest" : "2013",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2013"
+          }, {
+            "count" : 19,
+            "item" : "2004"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "true",
+          "align" : "right"
+        }
+      }, {
+        "id" : 129892354,
+        "name" : "Taxpayer",
+        "dataTypeName" : "text",
+        "fieldName" : "taxpayer",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17694950,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 20,
+          "smallest" : "2121 Avenue of the Stars LLC",
+          "null" : 0,
+          "largest" : "Valero Energy Corporation",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Douglas Emmett LLC"
+          }, {
+            "count" : 19,
+            "item" : "Anheuser Busch Inc."
+          }, {
+            "count" : 18,
+            "item" : "Valero Energy Corporation"
+          }, {
+            "count" : 17,
+            "item" : "ConocoPhillips Co."
+          }, {
+            "count" : 16,
+            "item" : "Tesoro Corporation"
+          }, {
+            "count" : 15,
+            "item" : "One Hundred Towers, LLC"
+          }, {
+            "count" : 14,
+            "item" : "Donald T. Sterling"
+          }, {
+            "count" : 13,
+            "item" : "APM Terminals Pacific Ltd."
+          }, {
+            "count" : 12,
+            "item" : "L.A. Live Properties LLC"
+          }, {
+            "count" : 11,
+            "item" : "Paramount Pictures Corp."
+          }, {
+            "count" : 10,
+            "item" : "Tosco Corporation"
+          }, {
+            "count" : 9,
+            "item" : "Ultramar Inc."
+          }, {
+            "count" : 8,
+            "item" : "Equilon Enterprises LLC"
+          }, {
+            "count" : 7,
+            "item" : "Maguire Partners 355 S. Grand LLC"
+          }, {
+            "count" : 6,
+            "item" : "2121 Avenue of the Stars LLC"
+          }, {
+            "count" : 5,
+            "item" : "Duesenberg Investment Company"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 129892369,
+        "name" : "Secured Assessed Valuation",
+        "dataTypeName" : "money",
+        "fieldName" : "secured_assessed_valuation",
+        "position" : 3,
+        "renderTypeName" : "money",
+        "tableColumnId" : 17694951,
+        "width" : 144,
+        "cachedContents" : {
+          "non_null" : 20,
+          "smallest" : "323930616",
+          "sum" : "13848016077",
+          "null" : 0,
+          "average" : "692400803.85",
+          "largest" : "2324435947",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2324435947"
+          }, {
+            "count" : 19,
+            "item" : "864021914"
+          }, {
+            "count" : 18,
+            "item" : "832970864"
+          }, {
+            "count" : 17,
+            "item" : "690754174"
+          }, {
+            "count" : 16,
+            "item" : "660862118"
+          }, {
+            "count" : 15,
+            "item" : "594497578"
+          }, {
+            "count" : 14,
+            "item" : "559682048"
+          }, {
+            "count" : 13,
+            "item" : "539679428"
+          }, {
+            "count" : 12,
+            "item" : "533894761"
+          }, {
+            "count" : 11,
+            "item" : "513058461"
+          }, {
+            "count" : 10,
+            "item" : "798205186"
+          }, {
+            "count" : 9,
+            "item" : "786783561"
+          }, {
+            "count" : 8,
+            "item" : "647798597"
+          }, {
+            "count" : 7,
+            "item" : "446436322"
+          }, {
+            "count" : 6,
+            "item" : "352695600"
+          }, {
+            "count" : 5,
+            "item" : "323930616"
+          }, {
+            "count" : 4,
+            "item" : "796607999"
+          }, {
+            "count" : 3,
+            "item" : "722041340"
+          }, {
+            "count" : 2,
+            "item" : "511890334"
+          }, {
+            "count" : 1,
+            "item" : "347769229"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 129892370,
+        "name" : "Rank",
+        "dataTypeName" : "number",
+        "fieldName" : "rank",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17694952,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 20,
+          "smallest" : "1",
+          "sum" : "110",
+          "null" : 0,
+          "average" : "5.5",
+          "largest" : "10",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          }, {
+            "count" : 19,
+            "item" : "2"
+          }, {
+            "count" : 18,
+            "item" : "3"
+          }, {
+            "count" : 17,
+            "item" : "4"
+          }, {
+            "count" : 16,
+            "item" : "5"
+          }, {
+            "count" : 15,
+            "item" : "6"
+          }, {
+            "count" : 14,
+            "item" : "7"
+          }, {
+            "count" : 13,
+            "item" : "8"
+          }, {
+            "count" : 12,
+            "item" : "9"
+          }, {
+            "count" : 11,
+            "item" : "10"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 129893630,
+        "name" : "Percentage of Total City Taxable Assessed Value",
+        "dataTypeName" : "percent",
+        "fieldName" : "percentage_of_total_city_taxable_assessed_value",
+        "position" : 5,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 17694953,
+        "width" : 152,
+        "cachedContents" : {
+          "non_null" : 20,
+          "smallest" : "0.13",
+          "sum" : "4.35",
+          "null" : 0,
+          "average" : "0.2175",
+          "largest" : "0.58",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0.58"
+          }, {
+            "count" : 19,
+            "item" : "0.22"
+          }, {
+            "count" : 18,
+            "item" : "0.21"
+          }, {
+            "count" : 17,
+            "item" : "0.17"
+          }, {
+            "count" : 16,
+            "item" : "0.15"
+          }, {
+            "count" : 15,
+            "item" : "0.14"
+          }, {
+            "count" : 14,
+            "item" : "0.13"
+          }, {
+            "count" : 13,
+            "item" : "0.32"
+          }, {
+            "count" : 12,
+            "item" : "0.26"
+          }, {
+            "count" : 11,
+            "item" : "0.18"
+          }, {
+            "count" : 10,
+            "item" : "0.29"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "false"
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Public Domain"
+      },
+      "metadata" : {
+        "custom_fields" : {
+          "Department" : {
+            "Division" : "GAAP",
+            "Department" : "Controller",
+            "System" : "CAFR"
+          },
+          "Update Information" : {
+            "Update Cycle" : "Annual"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "7c7a-resi",
+        "displayName" : "Controller's Office",
+        "roleName" : "administrator",
+        "screenName" : "Controller's Office",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "7c7a-resi",
+        "displayName" : "Controller's Office",
+        "roleName" : "administrator",
+        "screenName" : "Controller's Office",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "tags" : [ "ten largest taxpayers", "city of los angeles", "controller", "ron galperin", "revenue", "taxes" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "9263EEFE-A2CC-47D8-8DEC-813D727B2EF0", 1, 1390281139, "862121", 1390281139, "862121", "{\n}", "2013", "Douglas Emmett LLC", "2324435947", "1", "0.58" ]
+, [ 2, "A10A227A-88C0-4CA3-BFBE-F769E1CC62DA", 2, 1390281139, "862121", 1390281139, "862121", "{\n}", "2013", "Anheuser Busch Inc.", "864021914", "2", "0.22" ]
+, [ 3, "65ABD586-7048-40E0-ACCB-1A8EDF6ACE04", 3, 1390281139, "862121", 1390281139, "862121", "{\n}", "2013", "Valero Energy Corporation", "832970864", "3", "0.21" ]
+, [ 4, "83D34F2D-3A22-4964-9004-4E27850E472C", 4, 1390281139, "862121", 1390281139, "862121", "{\n}", "2013", "ConocoPhillips Co.", "690754174", "4", "0.17" ]
+, [ 5, "588A464B-21C5-4195-945B-EFCCD371B974", 5, 1390281139, "862121", 1390281139, "862121", "{\n}", "2013", "Tesoro Corporation", "660862118", "5", "0.17" ]
+, [ 6, "F0345DAE-E616-49A8-882C-473F25EFAA8E", 6, 1390281139, "862121", 1390281139, "862121", "{\n}", "2013", "One Hundred Towers, LLC", "594497578", "6", "0.15" ]
+, [ 7, "70BC8A16-3CEF-40A2-AD37-FF2E1332B065", 7, 1390281139, "862121", 1390281139, "862121", "{\n}", "2013", "Donald T. Sterling", "559682048", "7", "0.14" ]
+, [ 8, "C220FAA2-3178-4AA4-80B9-2106A09DDA59", 8, 1390281139, "862121", 1390281139, "862121", "{\n}", "2013", "APM Terminals Pacific Ltd.", "539679428", "8", "0.14" ]
+, [ 9, "3F031E01-202B-4D41-AB6A-E21CA35635D6", 9, 1390281139, "862121", 1390281139, "862121", "{\n}", "2013", "L.A. Live Properties LLC", "533894761", "9", "0.13" ]
+, [ 10, "E5C26709-E943-46F0-ADF1-344248848889", 10, 1390281139, "862121", 1390281139, "862121", "{\n}", "2013", "Paramount Pictures Corp.", "513058461", "10", "0.13" ]
+, [ 11, "93DFDF73-A5DF-4A1E-9331-028A8F499E35", 11, 1390281139, "862121", 1390281139, "862121", "{\n}", "2004", "Tosco Corporation", "798205186", "1", "0.32" ]
+, [ 12, "01B38D4B-6D7D-4B0C-91DA-ACB29E372C69", 12, 1390281139, "862121", 1390281139, "862121", "{\n}", "2004", "Ultramar Inc.", "786783561", "3", "0.32" ]
+, [ 13, "6281A0C7-5B2D-4151-8EB4-835D6A780A32", 13, 1390281139, "862121", 1390281139, "862121", "{\n}", "2004", "Equilon Enterprises LLC", "647798597", "5", "0.26" ]
+, [ 14, "0959E87F-3748-40BA-B359-2A0E1962F966", 14, 1390281139, "862121", 1390281139, "862121", "{\n}", "2004", "Maguire Partners 355 S. Grand LLC", "446436322", "7", "0.18" ]
+, [ 15, "ACF5EDE1-6AA0-4D48-BDB5-921C835F7696", 15, 1390281139, "862121", 1390281139, "862121", "{\n}", "2004", "2121 Avenue of the Stars LLC", "352695600", "8", "0.14" ]
+, [ 16, "79814657-EE16-426F-BC89-270338D58B23", 16, 1390281139, "862121", 1390281139, "862121", "{\n}", "2004", "Duesenberg Investment Company", "323930616", "10", "0.13" ]
+, [ 17, "30EC7AA9-00FD-459A-892C-A2CF0AD2A529", 17, 1390281139, "862121", 1390281139, "862121", "{\n}", "2004", "Douglas Emmett LLC", "796607999", "2", "0.32" ]
+, [ 18, "C6ED059C-6C3A-4627-A01A-2CB2CA0EF5D5", 18, 1390281139, "862121", 1390281139, "862121", "{\n}", "2004", "Anheuser Busch Inc.", "722041340", "4", "0.29" ]
+, [ 19, "242D88F3-30A3-4BD8-B072-9FD27E9B1176", 19, 1390281139, "862121", 1390281139, "862121", "{\n}", "2004", "One Hundred Towers, LLC", "511890334", "6", "0.21" ]
+, [ 20, "D15166D7-673C-4664-90F4-413A8A5E167C", 20, 1390281139, "862121", 1390281139, "862121", "{\n}", "2004", "Paramount Pictures Corp.", "347769229", "9", "0.14" ]
+ ]
+}

@@ -1,0 +1,314 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "pzs3-fue3",
+      "name" : "LADWP Water Mainline Replacement",
+      "attribution" : "LADWP",
+      "averageRating" : 0,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1399936922,
+      "description" : "Water Pipe Mainline Replacement in feet by month.",
+      "displayType" : "table",
+      "downloadCount" : 2,
+      "indexUpdatedAt" : 1414613942,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8100511,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401416703,
+      "publicationGroup" : 1579054,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1401416624,
+      "rowsUpdatedBy" : "tyhz-nfmm",
+      "tableId" : 1599435,
+      "totalTimesRated" : 0,
+      "viewCount" : 62,
+      "viewLastModified" : 1401416703,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150471214,
+        "name" : "Month",
+        "dataTypeName" : "text",
+        "fieldName" : "month",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19693710,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 12,
+          "smallest" : "April-13",
+          "null" : 0,
+          "largest" : "September-13",
+          "top" : [ {
+            "count" : 20,
+            "item" : "March-13"
+          }, {
+            "count" : 19,
+            "item" : "April-13"
+          }, {
+            "count" : 18,
+            "item" : "May-13"
+          }, {
+            "count" : 17,
+            "item" : "June-13"
+          }, {
+            "count" : 16,
+            "item" : "July-13"
+          }, {
+            "count" : 15,
+            "item" : "August-13"
+          }, {
+            "count" : 14,
+            "item" : "September-13"
+          }, {
+            "count" : 13,
+            "item" : "October-13"
+          }, {
+            "count" : 12,
+            "item" : "November-13"
+          }, {
+            "count" : 11,
+            "item" : "December-13"
+          }, {
+            "count" : 10,
+            "item" : "January-14"
+          }, {
+            "count" : 9,
+            "item" : "February-14"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150471216,
+        "name" : "Date (Month)",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date_month",
+        "position" : 2,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 20003849,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 12,
+          "smallest" : "2013-03-31T00:00:00",
+          "null" : 0,
+          "largest" : "2014-02-28T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2013-03-31T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2013-04-30T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2013-05-31T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2013-06-30T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2013-07-31T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2013-08-31T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2013-09-30T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2013-10-31T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2013-11-30T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2013-12-31T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2014-01-31T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2014-02-28T00:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150471215,
+        "name" : "Mainline (ft) replaced",
+        "dataTypeName" : "number",
+        "fieldName" : "mainline_ft_replaced",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19693711,
+        "width" : 364,
+        "cachedContents" : {
+          "non_null" : 12,
+          "smallest" : "6059",
+          "sum" : "109663",
+          "null" : 0,
+          "average" : "9138.583333333333",
+          "largest" : "12629",
+          "top" : [ {
+            "count" : 20,
+            "item" : "8615"
+          }, {
+            "count" : 19,
+            "item" : "12629"
+          }, {
+            "count" : 18,
+            "item" : "9527"
+          }, {
+            "count" : 17,
+            "item" : "7770"
+          }, {
+            "count" : 16,
+            "item" : "11399"
+          }, {
+            "count" : 15,
+            "item" : "8168"
+          }, {
+            "count" : 14,
+            "item" : "10837"
+          }, {
+            "count" : 13,
+            "item" : "9590"
+          }, {
+            "count" : 12,
+            "item" : "6059"
+          }, {
+            "count" : 11,
+            "item" : "6210"
+          }, {
+            "count" : 10,
+            "item" : "10244"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "LADWP"
+          }
+        },
+        "rdfSubject" : "0"
+      },
+      "owner" : {
+        "id" : "hb8e-gdsp",
+        "displayName" : "LA DWP OpenData",
+        "profileImageUrlLarge" : "/images/profile/5225/6660/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5225/6660/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5225/6660/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LA DWP OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "hb8e-gdsp",
+        "displayName" : "LA DWP OpenData",
+        "profileImageUrlLarge" : "/images/profile/5225/6660/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5225/6660/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5225/6660/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LA DWP OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "AAB36A4F-6514-41F0-8BBC-576C1A6461D9", 1, 1399936925, "877550", 1401416520, "865572", null, "March-13", "2013-03-31T00:00:00", "8615" ]
+, [ 2, "05688C28-022A-4948-9FAB-D6817ACB6E05", 2, 1399936925, "877550", 1401416539, "865572", null, "April-13", "2013-04-30T00:00:00", "12629" ]
+, [ 3, "7EAE246F-1EE8-4FB1-A928-1B84A3BE4EEE", 3, 1399936925, "877550", 1401416547, "865572", null, "May-13", "2013-05-31T00:00:00", "9527" ]
+, [ 4, "151BF73A-3D89-424D-8804-65A1E98C44C1", 4, 1399936925, "877550", 1401416557, "865572", null, "June-13", "2013-06-30T00:00:00", "7770" ]
+, [ 5, "9DB55CDE-3E00-483F-BFED-86CAC3371414", 5, 1399936925, "877550", 1401416566, "865572", null, "July-13", "2013-07-31T00:00:00", "11399" ]
+, [ 6, "FFE5712B-0EC2-460F-9B56-E49E8D732D28", 6, 1399936925, "877550", 1401416573, "865572", null, "August-13", "2013-08-31T00:00:00", "8168" ]
+, [ 7, "89EA0248-CF79-43EF-8D8F-132D90F941CB", 7, 1399936925, "877550", 1401416583, "865572", null, "September-13", "2013-09-30T00:00:00", "10837" ]
+, [ 8, "F91A772D-5525-484D-B1C1-5A1EE66CFD98", 8, 1399936925, "877550", 1401416588, "865572", null, "October-13", "2013-10-31T00:00:00", "9590" ]
+, [ 9, "AC92B391-0301-4585-9C5A-213A6A3CF20C", 9, 1399936925, "877550", 1401416594, "865572", null, "November-13", "2013-11-30T00:00:00", "6059" ]
+, [ 10, "E9C381B4-95FE-44F5-84B6-821F449937DF", 10, 1399936925, "877550", 1401416600, "865572", null, "December-13", "2013-12-31T00:00:00", "6210" ]
+, [ 11, "665C7A79-6511-48EB-8F0B-238E350B16D1", 11, 1399936925, "877550", 1401416618, "865572", null, "January-14", "2014-01-31T00:00:00", "8615" ]
+, [ 12, "E396D008-BCA7-4C2F-B5D5-FBB91C14F4B3", 12, 1399936925, "877550", 1401416624, "865572", null, "February-14", "2014-02-28T00:00:00", "10244" ]
+ ]
+}

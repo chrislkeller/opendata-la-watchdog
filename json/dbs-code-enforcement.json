@@ -1,0 +1,529 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "2dfa-j5cz",
+      "name" : "DBS- Code Enforcement",
+      "averageRating" : 0,
+      "createdAt" : 1401488227,
+      "displayType" : "table",
+      "downloadCount" : 2,
+      "indexUpdatedAt" : 1414615343,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8108952,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401488293,
+      "publicationGroup" : 1600627,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1401488234,
+      "rowsUpdatedBy" : "tyhz-nfmm",
+      "tableId" : 1600627,
+      "totalTimesRated" : 0,
+      "viewCount" : 52,
+      "viewLastModified" : 1402609754,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150663434,
+        "name" : "Date",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date",
+        "position" : 2,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 20022279,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 19,
+          "smallest" : "2009-09-30T00:00:00",
+          "null" : 0,
+          "largest" : "2014-03-30T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2009-09-30T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2009-12-31T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2010-03-30T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2010-06-30T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2010-09-30T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2010-12-31T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2011-03-30T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2011-06-30T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2011-09-30T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2011-12-31T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2012-03-30T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2012-06-30T00:00:00"
+          }, {
+            "count" : 8,
+            "item" : "2012-09-30T00:00:00"
+          }, {
+            "count" : 7,
+            "item" : "2012-12-31T00:00:00"
+          }, {
+            "count" : 6,
+            "item" : "2013-03-30T00:00:00"
+          }, {
+            "count" : 5,
+            "item" : "2013-06-30T00:00:00"
+          }, {
+            "count" : 4,
+            "item" : "2013-09-30T00:00:00"
+          }, {
+            "count" : 3,
+            "item" : "2013-12-31T00:00:00"
+          }, {
+            "count" : 2,
+            "item" : "2014-03-30T00:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150663435,
+        "name" : "Date Name",
+        "dataTypeName" : "text",
+        "fieldName" : "date_name",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20022280,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 19,
+          "smallest" : "Q1 FY 2010",
+          "null" : 0,
+          "largest" : "Q4 FY 2013",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Q1 FY 2010"
+          }, {
+            "count" : 19,
+            "item" : "Q2 FY 2010"
+          }, {
+            "count" : 18,
+            "item" : "Q3 FY 2010"
+          }, {
+            "count" : 17,
+            "item" : "Q4 FY 2010"
+          }, {
+            "count" : 16,
+            "item" : "Q1 FY 2011"
+          }, {
+            "count" : 15,
+            "item" : "Q2 FY 2011"
+          }, {
+            "count" : 14,
+            "item" : "Q3 FY 2011"
+          }, {
+            "count" : 13,
+            "item" : "Q4 FY 2011"
+          }, {
+            "count" : 12,
+            "item" : "Q1 FY 2012"
+          }, {
+            "count" : 11,
+            "item" : "Q2 FY 2012"
+          }, {
+            "count" : 10,
+            "item" : "Q3 FY 2012"
+          }, {
+            "count" : 9,
+            "item" : "Q4 FY 2012"
+          }, {
+            "count" : 8,
+            "item" : "Q1 FY 2013"
+          }, {
+            "count" : 7,
+            "item" : "Q2 FY 2013"
+          }, {
+            "count" : 6,
+            "item" : "Q3 FY 2013"
+          }, {
+            "count" : 5,
+            "item" : "Q4 FY 2013"
+          }, {
+            "count" : 4,
+            "item" : "Q1 FY 2014"
+          }, {
+            "count" : 3,
+            "item" : "Q2 FY 2014"
+          }, {
+            "count" : 2,
+            "item" : "Q3 FY 2014"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150663436,
+        "name" : "Full Date Name",
+        "dataTypeName" : "text",
+        "fieldName" : "full_date_name",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20022281,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 19,
+          "smallest" : "Quarter 1 Fiscal Year 2009-10",
+          "null" : 0,
+          "largest" : "Quarter 4 Fiscal Year 2012-13",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Quarter 1 Fiscal Year 2009-10"
+          }, {
+            "count" : 19,
+            "item" : "Quarter 2 Fiscal Year 2009-10"
+          }, {
+            "count" : 18,
+            "item" : "Quarter 3 Fiscal Year 2009-10"
+          }, {
+            "count" : 17,
+            "item" : "Quarter 4 Fiscal Year 2009-10"
+          }, {
+            "count" : 16,
+            "item" : "Quarter 1 Fiscal Year 2010-11"
+          }, {
+            "count" : 15,
+            "item" : "Quarter 2 Fiscal Year 2010-11"
+          }, {
+            "count" : 14,
+            "item" : "Quarter 3 Fiscal Year 2010-11"
+          }, {
+            "count" : 13,
+            "item" : "Quarter 4 Fiscal Year 2010-11"
+          }, {
+            "count" : 12,
+            "item" : "Quarter 1 Fiscal Year 2011-12"
+          }, {
+            "count" : 11,
+            "item" : "Quarter 2 Fiscal Year 2011-12"
+          }, {
+            "count" : 10,
+            "item" : "Quarter 3 Fiscal Year 2011-12"
+          }, {
+            "count" : 9,
+            "item" : "Quarter 4 Fiscal Year 2011-12"
+          }, {
+            "count" : 8,
+            "item" : "Quarter 1 Fiscal Year 2012-13"
+          }, {
+            "count" : 7,
+            "item" : "Quarter 2 Fiscal Year 2012-13"
+          }, {
+            "count" : 6,
+            "item" : "Quarter 3 Fiscal Year 2012-13"
+          }, {
+            "count" : 5,
+            "item" : "Quarter 4 Fiscal Year 2012-13"
+          }, {
+            "count" : 4,
+            "item" : "Quarter 1 Fiscal Year 2013-14"
+          }, {
+            "count" : 3,
+            "item" : "Quarter 2 Fiscal Year 2013-14"
+          }, {
+            "count" : 2,
+            "item" : "Quarter 3 Fiscal Year 2013-14"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150663437,
+        "name" : "Code Enforcement Complaints Filed",
+        "dataTypeName" : "number",
+        "fieldName" : "code_enforcement_complaints_filed",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20022282,
+        "width" : 496,
+        "cachedContents" : {
+          "non_null" : 19,
+          "smallest" : "3760",
+          "sum" : "97871",
+          "null" : 0,
+          "average" : "5151.105263157895",
+          "largest" : "7073",
+          "top" : [ {
+            "count" : 20,
+            "item" : "7073"
+          }, {
+            "count" : 19,
+            "item" : "4679"
+          }, {
+            "count" : 18,
+            "item" : "5186"
+          }, {
+            "count" : 17,
+            "item" : "6194"
+          }, {
+            "count" : 16,
+            "item" : "6006"
+          }, {
+            "count" : 15,
+            "item" : "3760"
+          }, {
+            "count" : 14,
+            "item" : "4637"
+          }, {
+            "count" : 13,
+            "item" : "6211"
+          }, {
+            "count" : 12,
+            "item" : "5815"
+          }, {
+            "count" : 11,
+            "item" : "3943"
+          }, {
+            "count" : 10,
+            "item" : "4418"
+          }, {
+            "count" : 9,
+            "item" : "5401"
+          }, {
+            "count" : 8,
+            "item" : "5763"
+          }, {
+            "count" : 7,
+            "item" : "4226"
+          }, {
+            "count" : 6,
+            "item" : "4198"
+          }, {
+            "count" : 5,
+            "item" : "5624"
+          }, {
+            "count" : 4,
+            "item" : "5635"
+          }, {
+            "count" : 3,
+            "item" : "4186"
+          }, {
+            "count" : 2,
+            "item" : "4916"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150663438,
+        "name" : "% Responded to in 10 days",
+        "dataTypeName" : "percent",
+        "fieldName" : "responded_to_in_10_days",
+        "position" : 6,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 20022283,
+        "width" : 400,
+        "cachedContents" : {
+          "non_null" : 19,
+          "smallest" : "45",
+          "sum" : "1052",
+          "null" : 0,
+          "average" : "55.36842105263158",
+          "largest" : "75",
+          "top" : [ {
+            "count" : 20,
+            "item" : "70"
+          }, {
+            "count" : 19,
+            "item" : "75"
+          }, {
+            "count" : 18,
+            "item" : "58"
+          }, {
+            "count" : 17,
+            "item" : "50"
+          }, {
+            "count" : 16,
+            "item" : "55"
+          }, {
+            "count" : 15,
+            "item" : "51"
+          }, {
+            "count" : 14,
+            "item" : "56"
+          }, {
+            "count" : 13,
+            "item" : "59"
+          }, {
+            "count" : 12,
+            "item" : "61"
+          }, {
+            "count" : 11,
+            "item" : "54"
+          }, {
+            "count" : 10,
+            "item" : "45"
+          }, {
+            "count" : 9,
+            "item" : "46"
+          }, {
+            "count" : 8,
+            "item" : "48"
+          }, {
+            "count" : 7,
+            "item" : "57"
+          }, {
+            "count" : 6,
+            "item" : "53"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "tdwf-cih6",
+        "displayName" : "Building and Safety OpenData",
+        "profileImageUrlLarge" : "/images/profile/9651/4450/City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9651/4450/City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9651/4450/City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Building and Safety OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "tdwf-cih6",
+        "displayName" : "Building and Safety OpenData",
+        "profileImageUrlLarge" : "/images/profile/9651/4450/City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9651/4450/City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9651/4450/City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Building and Safety OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "BEA6A09C-6D8C-4E97-BB88-13003E3210EC", 1, 1401488230, "865572", 1401488230, "865572", "{\n}", "2009-09-30T00:00:00", "Q1 FY 2010", "Quarter 1 Fiscal Year 2009-10", "7073", "70" ]
+, [ 2, "07823026-C0B9-4DB5-BBA7-42681088BA1A", 2, 1401488230, "865572", 1401488230, "865572", "{\n}", "2009-12-31T00:00:00", "Q2 FY 2010", "Quarter 2 Fiscal Year 2009-10", "4679", "75" ]
+, [ 3, "11AD355A-9806-45A4-8DDD-3EA408F0B46F", 3, 1401488230, "865572", 1401488230, "865572", "{\n}", "2010-03-30T00:00:00", "Q3 FY 2010", "Quarter 3 Fiscal Year 2009-10", "5186", "58" ]
+, [ 4, "7E601483-33CE-4E92-B67E-D8DEACE0638B", 4, 1401488230, "865572", 1401488230, "865572", "{\n}", "2010-06-30T00:00:00", "Q4 FY 2010", "Quarter 4 Fiscal Year 2009-10", "6194", "50" ]
+, [ 5, "AD12F3AD-5A3D-4BD5-B448-9D63723D3B60", 5, 1401488230, "865572", 1401488230, "865572", "{\n}", "2010-09-30T00:00:00", "Q1 FY 2011", "Quarter 1 Fiscal Year 2010-11", "6006", "55" ]
+, [ 6, "8EAEFA05-49F6-478F-9E62-FD0FF80F9A7A", 6, 1401488230, "865572", 1401488230, "865572", "{\n}", "2010-12-31T00:00:00", "Q2 FY 2011", "Quarter 2 Fiscal Year 2010-11", "3760", "51" ]
+, [ 7, "D399C1CE-1002-46FF-98F8-324DE26BD207", 7, 1401488230, "865572", 1401488230, "865572", "{\n}", "2011-03-30T00:00:00", "Q3 FY 2011", "Quarter 3 Fiscal Year 2010-11", "4637", "56" ]
+, [ 8, "86B918F5-15D4-4E26-97A2-2DC3CD58B849", 8, 1401488230, "865572", 1401488230, "865572", "{\n}", "2011-06-30T00:00:00", "Q4 FY 2011", "Quarter 4 Fiscal Year 2010-11", "6211", "59" ]
+, [ 9, "1DD7629B-7965-4380-8848-B28B6F340257", 9, 1401488230, "865572", 1401488230, "865572", "{\n}", "2011-09-30T00:00:00", "Q1 FY 2012", "Quarter 1 Fiscal Year 2011-12", "5815", "61" ]
+, [ 10, "60665E1B-1D64-4859-AC50-E06EF8D6E8D3", 10, 1401488230, "865572", 1401488230, "865572", "{\n}", "2011-12-31T00:00:00", "Q2 FY 2012", "Quarter 2 Fiscal Year 2011-12", "3943", "55" ]
+, [ 11, "A83C7E19-B23E-48B4-AA95-F7448A47112A", 11, 1401488230, "865572", 1401488230, "865572", "{\n}", "2012-03-30T00:00:00", "Q3 FY 2012", "Quarter 3 Fiscal Year 2011-12", "4418", "54" ]
+, [ 12, "F1D0CD9C-95F6-4B97-A232-0E0CC44290C4", 12, 1401488230, "865572", 1401488230, "865572", "{\n}", "2012-06-30T00:00:00", "Q4 FY 2012", "Quarter 4 Fiscal Year 2011-12", "5401", "45" ]
+, [ 13, "5AA4BBBB-4DF0-487C-ADE8-A018EB2DC78C", 13, 1401488230, "865572", 1401488230, "865572", "{\n}", "2012-09-30T00:00:00", "Q1 FY 2013", "Quarter 1 Fiscal Year 2012-13", "5763", "46" ]
+, [ 14, "B638E0D2-7369-4038-8A21-0BF70CEAAA99", 14, 1401488230, "865572", 1401488230, "865572", "{\n}", "2012-12-31T00:00:00", "Q2 FY 2013", "Quarter 2 Fiscal Year 2012-13", "4226", "48" ]
+, [ 15, "95A38BFB-FE4E-46B9-A352-C79378592203", 15, 1401488230, "865572", 1401488230, "865572", "{\n}", "2013-03-30T00:00:00", "Q3 FY 2013", "Quarter 3 Fiscal Year 2012-13", "4198", "57" ]
+, [ 16, "D3B8D663-B324-4B1A-BBCA-9E3E5E83FBC8", 16, 1401488230, "865572", 1401488230, "865572", "{\n}", "2013-06-30T00:00:00", "Q4 FY 2013", "Quarter 4 Fiscal Year 2012-13", "5624", "54" ]
+, [ 17, "CD9A3263-468D-4108-9AD8-D0A143D18885", 17, 1401488230, "865572", 1401488230, "865572", "{\n}", "2013-09-30T00:00:00", "Q1 FY 2014", "Quarter 1 Fiscal Year 2013-14", "5635", "53" ]
+, [ 18, "03FCBD77-6D9F-4F13-8328-CDA94C9833C0", 18, 1401488230, "865572", 1401488230, "865572", "{\n}", "2013-12-31T00:00:00", "Q2 FY 2014", "Quarter 2 Fiscal Year 2013-14", "4186", "50" ]
+, [ 19, "28BE1C7F-ED12-4177-A290-C7B61ED57CB9", 19, 1401488230, "865572", 1401488230, "865572", "{\n}", "2014-03-30T00:00:00", "Q3 FY 2014", "Quarter 3 Fiscal Year 2013-14", "4916", "55" ]
+ ]
+}

@@ -1,0 +1,404 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "gbg9-vs7n",
+      "name" : "Youth Source Centers Location And Contact Info",
+      "attribution" : "EWDD",
+      "averageRating" : 0,
+      "createdAt" : 1401464041,
+      "description" : "Identifies EWDD YouthSource Centers along with related agency, location, and contact information.",
+      "displayType" : "table",
+      "downloadCount" : 3,
+      "indexUpdatedAt" : 1414612789,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8107361,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401464179,
+      "publicationGroup" : 1600176,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1401464055,
+      "rowsUpdatedBy" : "utpt-bj92",
+      "tableId" : 1600176,
+      "totalTimesRated" : 0,
+      "viewCount" : 28,
+      "viewLastModified" : 1401464179,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150635242,
+        "name" : "Agency Name",
+        "dataTypeName" : "text",
+        "fieldName" : "agency_name",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20016423,
+        "width" : 305,
+        "cachedContents" : {
+          "non_null" : 12,
+          "smallest" : "AYE / Catholic Charities (South)",
+          "null" : 0,
+          "largest" : "Youth Policy Institute (North Valley) ",
+          "top" : [ {
+            "count" : 20,
+            "item" : "AYE/Catholic Charities Wilshire Office (Central)"
+          }, {
+            "count" : 19,
+            "item" : "AYE / Catholic Charities (South)"
+          }, {
+            "count" : 18,
+            "item" : "YOM Technology Center (Boyle Heights)"
+          }, {
+            "count" : 17,
+            "item" : "Youth Opportunity Movement (Watts)"
+          }, {
+            "count" : 16,
+            "item" : "El Proyecto Del Barrio (North Valley)"
+          }, {
+            "count" : 15,
+            "item" : "El Proyecto Del Barrio (South Valley)"
+          }, {
+            "count" : 14,
+            "item" : "Brotherhood Crusade (South)"
+          }, {
+            "count" : 13,
+            "item" : "Los Angeles Harbor College (Harbor)"
+          }, {
+            "count" : 12,
+            "item" : "Para Los Ninos (East)"
+          }, {
+            "count" : 11,
+            "item" : "UCLA (Central)"
+          }, {
+            "count" : 10,
+            "item" : "Watts Labor Community Action Center (South)"
+          }, {
+            "count" : 9,
+            "item" : "Youth Policy Institute (North Valley) "
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150635243,
+        "name" : "Street Address",
+        "dataTypeName" : "text",
+        "fieldName" : "street_address",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20016424,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 12,
+          "smallest" : "1111 Figueroa Pl.",
+          "null" : 0,
+          "largest" : "958 E 108th St.",
+          "top" : [ {
+            "count" : 20,
+            "item" : "3250 Wilshire Blvd., Ste. 1010"
+          }, {
+            "count" : 19,
+            "item" : "3965 S Vermont Ave."
+          }, {
+            "count" : 18,
+            "item" : "1600 E 4th St."
+          }, {
+            "count" : 17,
+            "item" : "1501 E 103rd St."
+          }, {
+            "count" : 16,
+            "item" : "9030 Laurel Canyon Blvd."
+          }, {
+            "count" : 15,
+            "item" : "20800 Sherman Way"
+          }, {
+            "count" : 14,
+            "item" : "5414 S Crenshaw Bl."
+          }, {
+            "count" : 13,
+            "item" : "1111 Figueroa Pl."
+          }, {
+            "count" : 12,
+            "item" : "838 E 6th St."
+          }, {
+            "count" : 11,
+            "item" : "501 South Bixel Ave."
+          }, {
+            "count" : 10,
+            "item" : "958 E 108th St."
+          }, {
+            "count" : 9,
+            "item" : "11844 Glenoaks Bl."
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150635244,
+        "name" : "City",
+        "dataTypeName" : "text",
+        "fieldName" : "city",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20016425,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 12,
+          "smallest" : "Los Angeles",
+          "null" : 0,
+          "largest" : "Wilmington",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Los Angeles"
+          }, {
+            "count" : 19,
+            "item" : "Sun Valley"
+          }, {
+            "count" : 18,
+            "item" : "Wilmington"
+          }, {
+            "count" : 17,
+            "item" : "San Fernando"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150635245,
+        "name" : "Zip",
+        "dataTypeName" : "text",
+        "fieldName" : "zip",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20016426,
+        "width" : 136,
+        "cachedContents" : {
+          "non_null" : 12,
+          "smallest" : "90002",
+          "null" : 0,
+          "largest" : "91352",
+          "top" : [ {
+            "count" : 20,
+            "item" : "90010"
+          }, {
+            "count" : 19,
+            "item" : "90037"
+          }, {
+            "count" : 18,
+            "item" : "90033"
+          }, {
+            "count" : 17,
+            "item" : "90002"
+          }, {
+            "count" : 16,
+            "item" : "91352"
+          }, {
+            "count" : 15,
+            "item" : "91306"
+          }, {
+            "count" : 14,
+            "item" : "90043"
+          }, {
+            "count" : 13,
+            "item" : "90744"
+          }, {
+            "count" : 12,
+            "item" : "90021"
+          }, {
+            "count" : 11,
+            "item" : "90017"
+          }, {
+            "count" : 10,
+            "item" : "90059"
+          }, {
+            "count" : 9,
+            "item" : "91340"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150635246,
+        "name" : "YSC Phone",
+        "dataTypeName" : "text",
+        "fieldName" : "ysc_phone",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20016427,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 12,
+          "smallest" : "(213) 202-5327",
+          "null" : 0,
+          "largest" : "(818) 771-0184",
+          "top" : [ {
+            "count" : 20,
+            "item" : "(213) 736-5456"
+          }, {
+            "count" : 19,
+            "item" : "(323) 730-7900"
+          }, {
+            "count" : 18,
+            "item" : "(323) 526-0145"
+          }, {
+            "count" : 17,
+            "item" : "(323) 971-7640"
+          }, {
+            "count" : 16,
+            "item" : "(818) 771-0184"
+          }, {
+            "count" : 15,
+            "item" : "(818) 710-5239"
+          }, {
+            "count" : 14,
+            "item" : "(323) 545-1130"
+          }, {
+            "count" : 13,
+            "item" : "(310) 233-4097 "
+          }, {
+            "count" : 12,
+            "item" : "(213) 623-8446"
+          }, {
+            "count" : 11,
+            "item" : "(213) 202-5327"
+          }, {
+            "count" : 10,
+            "item" : "(323) 563-5634"
+          }, {
+            "count" : 9,
+            "item" : "(818) 361-7108 "
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Economic and Workforce Development"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "utpt-bj92",
+        "displayName" : "Economic and Workforce Dev OpenData",
+        "profileImageUrlLarge" : "/images/profile/0818/3245/City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0818/3245/City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0818/3245/City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Economic and Workforce Dev OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "utpt-bj92",
+        "displayName" : "Economic and Workforce Dev OpenData",
+        "profileImageUrlLarge" : "/images/profile/0818/3245/City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0818/3245/City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0818/3245/City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Economic and Workforce Dev OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "ewdd", "youthsource", "agency", "contact" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "30D21732-D438-40B5-8BAC-D652F684433F", 1, 1401464044, "883727", 1401464055, "883727", "{\n}", "AYE/Catholic Charities Wilshire Office (Central)", "3250 Wilshire Blvd., Ste. 1010", "Los Angeles", "90010", "(213) 736-5456" ]
+, [ 2, "E7DD46AC-71B5-4138-BC43-5811247F159E", 2, 1401464044, "883727", 1401464055, "883727", "{\n}", "AYE / Catholic Charities (South)", "3965 S Vermont Ave.", "Los Angeles", "90037", "(323) 730-7900" ]
+, [ 3, "F34AECBF-2564-43FF-9FAC-D9897562C8E8", 3, 1401464044, "883727", 1401464055, "883727", "{\n}", "YOM Technology Center (Boyle Heights)", "1600 E 4th St.", "Los Angeles", "90033", "(323) 526-0145" ]
+, [ 4, "380BD7B0-80B3-4DE7-B1F4-B47B0280B91B", 4, 1401464044, "883727", 1401464055, "883727", "{\n}", "Youth Opportunity Movement (Watts)", "1501 E 103rd St.", "Los Angeles", "90002", "(323) 971-7640" ]
+, [ 5, "E81DA3B0-9DCB-4D7B-935C-5FEBC39438E8", 5, 1401464044, "883727", 1401464055, "883727", "{\n}", "El Proyecto Del Barrio (North Valley)", "9030 Laurel Canyon Blvd.", "Sun Valley", "91352", "(818) 771-0184" ]
+, [ 6, "6B7630E0-347D-4CC2-906B-9D2289957662", 6, 1401464044, "883727", 1401464055, "883727", "{\n}", "El Proyecto Del Barrio (South Valley)", "20800 Sherman Way", "Los Angeles", "91306", "(818) 710-5239" ]
+, [ 7, "10011888-CB70-4605-B4C2-318E985F8319", 7, 1401464044, "883727", 1401464055, "883727", "{\n}", "Brotherhood Crusade (South)", "5414 S Crenshaw Bl.", "Los Angeles", "90043", "(323) 545-1130" ]
+, [ 8, "EE2F0FC8-B726-4C06-9ABE-AF014785733D", 8, 1401464044, "883727", 1401464055, "883727", "{\n}", "Los Angeles Harbor College (Harbor)", "1111 Figueroa Pl.", "Wilmington", "90744", "(310) 233-4097 " ]
+, [ 9, "00116136-B665-4496-AC87-1066DB7F1112", 9, 1401464044, "883727", 1401464055, "883727", "{\n}", "Para Los Ninos (East)", "838 E 6th St.", "Los Angeles", "90021", "(213) 623-8446" ]
+, [ 10, "98A8626F-8D4E-4993-B343-B84BA2FED280", 10, 1401464044, "883727", 1401464055, "883727", "{\n}", "UCLA (Central)", "501 South Bixel Ave.", "Los Angeles", "90017", "(213) 202-5327" ]
+, [ 11, "54F47B5A-E34D-46B5-815E-677B83D2E9AE", 11, 1401464044, "883727", 1401464055, "883727", "{\n}", "Watts Labor Community Action Center (South)", "958 E 108th St.", "Los Angeles", "90059", "(323) 563-5634" ]
+, [ 12, "311030A5-3BE2-4E8C-AB48-7CACB666937A", 12, 1401464044, "883727", 1401464055, "883727", "{\n}", "Youth Policy Institute (North Valley) ", "11844 Glenoaks Bl.", "San Fernando", "91340", "(818) 361-7108 " ]
+ ]
+}

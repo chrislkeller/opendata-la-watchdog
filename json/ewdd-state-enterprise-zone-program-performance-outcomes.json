@@ -1,0 +1,322 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "wja6-7dvj",
+      "name" : "EWDD - State Enterprise Zone Program Performance Outcomes",
+      "attribution" : "May Smith",
+      "averageRating" : 0,
+      "createdAt" : 1401397425,
+      "description" : "The SEZ program provides tax credits to businesses that create jobs in distressed communities.  The SEZ program promotes good jobs for Angelenos by incentivizing job creation through the provision of tax credits to businesses that hire Angelenos in designated zones.  Goals are established through a contract with the California Department of Housing and Community Development.  The program ended on December 31, 2013 and replaced by the new state incentive program.",
+      "displayType" : "table",
+      "downloadCount" : 4,
+      "indexUpdatedAt" : 1414616254,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8099658,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401397580,
+      "publicationGroup" : 1599127,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1401397433,
+      "rowsUpdatedBy" : "utpt-bj92",
+      "tableId" : 1599127,
+      "totalTimesRated" : 0,
+      "viewCount" : 19,
+      "viewLastModified" : 1401479601,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150458558,
+        "name" : "Metric Nbr",
+        "dataTypeName" : "number",
+        "fieldName" : "metric_nbr",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20000331,
+        "width" : 75,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "1.1",
+          "sum" : "2.3",
+          "null" : 0,
+          "average" : "1.15",
+          "largest" : "1.2",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1.1"
+          }, {
+            "count" : 19,
+            "item" : "1.2"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150458559,
+        "name" : "Metric",
+        "dataTypeName" : "text",
+        "fieldName" : "metric",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20000332,
+        "width" : 295,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "State Enterprise Zone Vouchers Processed",
+          "null" : 0,
+          "largest" : "State Enterprise Zone Vouchers Processed ($ Value)",
+          "top" : [ {
+            "count" : 20,
+            "item" : "State Enterprise Zone Vouchers Processed"
+          }, {
+            "count" : 19,
+            "item" : "State Enterprise Zone Vouchers Processed ($ Value)"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150458560,
+        "name" : "Annual Goal",
+        "dataTypeName" : "money",
+        "fieldName" : "annual_goal",
+        "position" : 3,
+        "renderTypeName" : "money",
+        "tableColumnId" : 20000333,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "25000",
+          "sum" : "650000",
+          "null" : 0,
+          "average" : "325000",
+          "largest" : "625000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "25000"
+          }, {
+            "count" : 19,
+            "item" : "625000"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150458561,
+        "name" : "4 Quarter Cumulative Goal: Apr 1 - Mar 31 ",
+        "dataTypeName" : "money",
+        "fieldName" : "_4_quarter_cumulative_goal_apr_1_mar_31",
+        "position" : 4,
+        "renderTypeName" : "money",
+        "tableColumnId" : 20000334,
+        "width" : 247,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "25000",
+          "sum" : "650000",
+          "null" : 0,
+          "average" : "325000",
+          "largest" : "625000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "25000"
+          }, {
+            "count" : 19,
+            "item" : "625000"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150458562,
+        "name" : "4 Quarter Cumulative Actual:Apr 1 - Mar 31",
+        "dataTypeName" : "money",
+        "fieldName" : "_4_quarter_cumulative_actual_apr_1_mar_31",
+        "position" : 5,
+        "renderTypeName" : "money",
+        "tableColumnId" : 20000335,
+        "width" : 226,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "52524",
+          "sum" : "1365624",
+          "null" : 0,
+          "average" : "682812",
+          "largest" : "1313100",
+          "top" : [ {
+            "count" : 20,
+            "item" : "52524"
+          }, {
+            "count" : 19,
+            "item" : "1313100"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150458563,
+        "name" : "Percentage of 4 Quarter Goal",
+        "dataTypeName" : "percent",
+        "fieldName" : "percentage_of_4_quarter_goal",
+        "position" : 6,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 20000336,
+        "width" : 202,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "210",
+          "sum" : "420",
+          "null" : 0,
+          "average" : "210",
+          "largest" : "210",
+          "top" : [ {
+            "count" : 20,
+            "item" : "210"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150458564,
+        "name" : "% of Annual Goal Completed",
+        "dataTypeName" : "percent",
+        "fieldName" : "of_annual_goal_completed",
+        "position" : 7,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 20000337,
+        "width" : 240,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "210",
+          "sum" : "420",
+          "null" : 0,
+          "average" : "210",
+          "largest" : "210",
+          "top" : [ {
+            "count" : 20,
+            "item" : "210"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Economic and Workforce Development"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "utpt-bj92",
+        "displayName" : "Economic and Workforce Dev OpenData",
+        "profileImageUrlLarge" : "/images/profile/0818/3245/City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0818/3245/City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0818/3245/City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Economic and Workforce Dev OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "utpt-bj92",
+        "displayName" : "Economic and Workforce Dev OpenData",
+        "profileImageUrlLarge" : "/images/profile/0818/3245/City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0818/3245/City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0818/3245/City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Economic and Workforce Dev OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "ewdd", "enterprise zone", "program performance", "outcomes" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "9141DB04-3B5E-4EBA-A5B2-108260395BEE", 1, 1401397428, "883727", 1401397428, "883727", "{\n}", "1.1", "State Enterprise Zone Vouchers Processed", "25000", "25000", "52524", "210", "210" ]
+, [ 2, "12B188C4-6B6B-4A46-871A-AA0EFA3A6674", 2, 1401397428, "883727", 1401397428, "883727", "{\n}", "1.2", "State Enterprise Zone Vouchers Processed ($ Value)", "625000", "625000", "1313100", "210", "210" ]
+ ]
+}

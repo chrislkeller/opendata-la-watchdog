@@ -1,0 +1,327 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "2yrw-q8tw",
+      "name" : "LADWP Solar Incentive Program",
+      "attribution" : "LADWP",
+      "averageRating" : 0,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1400025686,
+      "description" : "Installed Capacity from Solar Incentive Program in Quarter Years (Kilowatts)",
+      "displayType" : "table",
+      "downloadCount" : 6,
+      "indexUpdatedAt" : 1414612786,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8029968,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1400531954,
+      "publicationGroup" : 1580280,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1400531950,
+      "rowsUpdatedBy" : "g9i9-z6y7",
+      "tableId" : 1587582,
+      "totalTimesRated" : 0,
+      "viewCount" : 229,
+      "viewLastModified" : 1401233296,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 149117075,
+        "name" : "Quarter-Year",
+        "dataTypeName" : "text",
+        "fieldName" : "quarter_year",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19711915,
+        "width" : 244,
+        "cachedContents" : {
+          "non_null" : 31,
+          "smallest" : "Pre-2007",
+          "null" : 0,
+          "largest" : "Q4-2013",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Q1-2014"
+          }, {
+            "count" : 19,
+            "item" : "Q4-2013"
+          }, {
+            "count" : 18,
+            "item" : "Q3-2013"
+          }, {
+            "count" : 17,
+            "item" : "Q2-2013"
+          }, {
+            "count" : 16,
+            "item" : "Q1-2013"
+          }, {
+            "count" : 15,
+            "item" : "Q4-2012"
+          }, {
+            "count" : 14,
+            "item" : "Q3-2012"
+          }, {
+            "count" : 13,
+            "item" : "Q2-2012"
+          }, {
+            "count" : 12,
+            "item" : "Q1-2012"
+          }, {
+            "count" : 11,
+            "item" : "Q4-2011"
+          }, {
+            "count" : 10,
+            "item" : "Q3-2011"
+          }, {
+            "count" : 9,
+            "item" : "Q2-2011"
+          }, {
+            "count" : 8,
+            "item" : "Q1-2011"
+          }, {
+            "count" : 7,
+            "item" : "Q4-2010"
+          }, {
+            "count" : 6,
+            "item" : "Q3-2010"
+          }, {
+            "count" : 5,
+            "item" : "Q2-2010"
+          }, {
+            "count" : 4,
+            "item" : "Q1-2010"
+          }, {
+            "count" : 3,
+            "item" : "Q4-2009"
+          }, {
+            "count" : 2,
+            "item" : "Q3-2009"
+          }, {
+            "count" : 1,
+            "item" : "Q2-2009"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149117076,
+        "name" : "Installed Capacity from Solar Incentive Program in Quarter (kW)",
+        "dataTypeName" : "number",
+        "fieldName" : "installed_capacity_from_solar_incentive_program_in_quarter_kw",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19711916,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 31,
+          "smallest" : "323.57299999999998",
+          "sum" : "101458.13519599999844",
+          "null" : 0,
+          "average" : "3272.843070838710",
+          "largest" : "11041.451999999999",
+          "top" : [ {
+            "count" : 20,
+            "item" : "3508.7339999999999"
+          }, {
+            "count" : 19,
+            "item" : "11041.451999999999"
+          }, {
+            "count" : 18,
+            "item" : "7303.0590000000002"
+          }, {
+            "count" : 17,
+            "item" : "7381.424"
+          }, {
+            "count" : 16,
+            "item" : "7331.8180000000002"
+          }, {
+            "count" : 15,
+            "item" : "3627.9596000000001"
+          }, {
+            "count" : 14,
+            "item" : "6164.2169999999996"
+          }, {
+            "count" : 13,
+            "item" : "3581.683"
+          }, {
+            "count" : 12,
+            "item" : "8257.9802600000003"
+          }, {
+            "count" : 11,
+            "item" : "3146.1047899999999"
+          }, {
+            "count" : 10,
+            "item" : "3932.8265259999998"
+          }, {
+            "count" : 9,
+            "item" : "3751.0837200000001"
+          }, {
+            "count" : 8,
+            "item" : "3364.8989999999999"
+          }, {
+            "count" : 7,
+            "item" : "3940.3443000000002"
+          }, {
+            "count" : 6,
+            "item" : "2461.1889999999999"
+          }, {
+            "count" : 5,
+            "item" : "1809.912"
+          }, {
+            "count" : 4,
+            "item" : "765.62400000000002"
+          }, {
+            "count" : 3,
+            "item" : "1233.1949999999999"
+          }, {
+            "count" : 2,
+            "item" : "841.51"
+          }, {
+            "count" : 1,
+            "item" : "879.149"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "LADWP"
+          }
+        }
+      },
+      "owner" : {
+        "id" : "hb8e-gdsp",
+        "displayName" : "LA DWP OpenData",
+        "profileImageUrlLarge" : "/images/profile/5225/6660/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5225/6660/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5225/6660/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LA DWP OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "7q7s-tyf3",
+        "displayName" : "Steve Baule",
+        "roleName" : "editor",
+        "screenName" : "Steve Baule",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "local solar", "sip" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "910E6CEA-55AC-4B95-872D-C6E8C2C08841", 1, 1400025696, "877550", 1400025696, "877550", "{\n}", "Q1-2014", "3508.7339999999999" ]
+, [ 2, "24949E6E-E4BD-41D5-9A7F-F42EEA7C3323", 2, 1400025696, "877550", 1400025696, "877550", "{\n}", "Q4-2013", "11041.451999999999" ]
+, [ 3, "545A8B9B-873C-4980-BCC1-D2C715C2042B", 3, 1400025696, "877550", 1400025696, "877550", "{\n}", "Q3-2013", "7303.0590000000002" ]
+, [ 4, "6E35F1C8-3F51-41B9-AC08-839AA07C71C5", 4, 1400025696, "877550", 1400025696, "877550", "{\n}", "Q2-2013", "7381.424" ]
+, [ 5, "658301C4-4BB3-4084-BE4D-E6951EA1216B", 5, 1400025696, "877550", 1400025696, "877550", "{\n}", "Q1-2013", "7331.8180000000002" ]
+, [ 6, "E9365BCF-9224-46F1-A4F3-3537A651BB4B", 6, 1400025696, "877550", 1400025696, "877550", "{\n}", "Q4-2012", "3627.9596000000001" ]
+, [ 7, "B93B77E3-9300-469F-BA46-0134F80DDD39", 7, 1400025696, "877550", 1400025696, "877550", "{\n}", "Q3-2012", "6164.2169999999996" ]
+, [ 8, "8974FAC7-F165-45D6-8BE6-4F19F5AFEFC3", 8, 1400025696, "877550", 1400025696, "877550", "{\n}", "Q2-2012", "3581.683" ]
+, [ 9, "F64485C0-1E30-444B-9650-C787287EBED2", 9, 1400025696, "877550", 1400025696, "877550", "{\n}", "Q1-2012", "8257.9802600000003" ]
+, [ 10, "D9C58E8A-B8C9-4D48-8484-A2889F6903E5", 10, 1400025696, "877550", 1400025696, "877550", "{\n}", "Q4-2011", "3146.1047899999999" ]
+, [ 11, "0D414FF5-168F-4B90-997F-AF1E5006DB11", 11, 1400025696, "877550", 1400025696, "877550", "{\n}", "Q3-2011", "3932.8265259999998" ]
+, [ 12, "4A91C737-C423-45CE-8F3B-B0D883418791", 12, 1400025696, "877550", 1400025696, "877550", "{\n}", "Q2-2011", "3751.0837200000001" ]
+, [ 13, "8EA3611F-9D0E-4F9E-81A5-B82738F6AB84", 13, 1400025696, "877550", 1400025696, "877550", "{\n}", "Q1-2011", "3364.8989999999999" ]
+, [ 14, "D5529109-5716-4E24-BF1E-78A60F0D3DDE", 14, 1400025696, "877550", 1400025696, "877550", "{\n}", "Q4-2010", "3940.3443000000002" ]
+, [ 15, "36507417-1492-4E69-B4C2-CC2351366994", 15, 1400025696, "877550", 1400025696, "877550", "{\n}", "Q3-2010", "2461.1889999999999" ]
+, [ 16, "132B2136-9BB7-471F-B439-EE0092DE05F1", 16, 1400025696, "877550", 1400025696, "877550", "{\n}", "Q2-2010", "1809.912" ]
+, [ 17, "9ADD48BB-38EE-4752-B1B0-DD184C39368F", 17, 1400025696, "877550", 1400025696, "877550", "{\n}", "Q1-2010", "765.62400000000002" ]
+, [ 18, "9154777D-606B-4BB7-B816-598DA2F13D75", 18, 1400025696, "877550", 1400025696, "877550", "{\n}", "Q1-2010", "765.62400000000002" ]
+, [ 19, "11727524-6219-4189-B435-85B4E5D70B7A", 19, 1400025696, "877550", 1400025696, "877550", "{\n}", "Q4-2009", "1233.1949999999999" ]
+, [ 20, "6CAEF7E7-169D-4064-9F3E-60FBFB1FDDDE", 20, 1400025696, "877550", 1400025696, "877550", "{\n}", "Q3-2009", "841.51" ]
+, [ 21, "699D1295-2338-4327-B645-7B2ABAA74513", 21, 1400025696, "877550", 1400025696, "877550", "{\n}", "Q2-2009", "879.149" ]
+, [ 22, "60DB6BA3-FB6C-4A94-90DD-B99D32319A69", 22, 1400025696, "877550", 1400025696, "877550", "{\n}", "Q1-2009", "1984.5160000000001" ]
+, [ 23, "E02AE5A8-1D0F-4941-991E-22A814C321CF", 23, 1400025696, "877550", 1400025696, "877550", "{\n}", "Q4-2008", "1314.413" ]
+, [ 24, "3CC46B28-7488-43BF-9CF9-C6248A02F003", 24, 1400025696, "877550", 1400025696, "877550", "{\n}", "Q3-2008", "520.47400000000005" ]
+, [ 25, "F87DC56A-FE48-4D70-9D9C-0AB12DC4B392", 25, 1400025696, "877550", 1400025696, "877550", "{\n}", "Q2-2008", "610.55700000000002" ]
+, [ 26, "75B135D6-1C52-4576-AD8B-A08C8CB8718F", 26, 1400025696, "877550", 1400025696, "877550", "{\n}", "Q1-2008", "621.52099999999996" ]
+, [ 27, "E4B35760-B927-4693-985D-0D4BFE372CE0", 27, 1400025696, "877550", 1400025696, "877550", "{\n}", "Q4-2007", "415.209" ]
+, [ 28, "A7FCC500-FD4F-4D9D-A070-05600449DBF2", 28, 1400025696, "877550", 1400025696, "877550", "{\n}", "Q3-2007", "430.78300000000002" ]
+, [ 29, "6B454CA1-1919-41CA-8032-9566FA55424E", 29, 1400025696, "877550", 1400025696, "877550", "{\n}", "Q2-2007", "351.96499999999997" ]
+, [ 30, "CBE328CD-A7E6-4A67-B646-0712B767F106", 30, 1400025696, "877550", 1400025696, "877550", "{\n}", "Q1-2007", "323.57299999999998" ]
+, [ 31, "03251F2F-AB52-4A9F-AC45-19CC615BD27C", 31, 1400025696, "877550", 1400025696, "877550", "{\n}", "Pre-2007", "9795.3359999999993" ]
+ ]
+}

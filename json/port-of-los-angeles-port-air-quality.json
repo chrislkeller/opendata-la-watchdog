@@ -1,0 +1,258 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "b3i5-86hy",
+      "name" : "Port of Los Angeles - Port Air Quality",
+      "attribution" : "Port of Los Angeles",
+      "averageRating" : 0,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1397075194,
+      "description" : "Air quality by Elemental Carbon (EC) measure.",
+      "displayType" : "table",
+      "downloadCount" : 1,
+      "iconUrl" : "fileId:eTSdpgyxo5pVASMDk7gHw7XcK3FA4l3cj5FbZyvkw_U",
+      "indexUpdatedAt" : 1414614319,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8029985,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1400532001,
+      "publicationGroup" : 1540707,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowIdentifierColumnId" : 149117950,
+      "rowsUpdatedAt" : 1400531998,
+      "rowsUpdatedBy" : "g9i9-z6y7",
+      "tableId" : 1587585,
+      "totalTimesRated" : 0,
+      "viewCount" : 56,
+      "viewLastModified" : 1401292879,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 149117950,
+        "name" : "Year",
+        "dataTypeName" : "number",
+        "fieldName" : "year",
+        "position" : 2,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19099195,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "2006",
+          "sum" : "16076",
+          "null" : 0,
+          "average" : "2009.5",
+          "largest" : "2013",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2006"
+          }, {
+            "count" : 19,
+            "item" : "2007"
+          }, {
+            "count" : 18,
+            "item" : "2008"
+          }, {
+            "count" : 17,
+            "item" : "2009"
+          }, {
+            "count" : 16,
+            "item" : "2010"
+          }, {
+            "count" : 15,
+            "item" : "2011"
+          }, {
+            "count" : 14,
+            "item" : "2012"
+          }, {
+            "count" : 13,
+            "item" : "2013"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "true"
+        }
+      }, {
+        "id" : 149117951,
+        "name" : "EC",
+        "dataTypeName" : "number",
+        "fieldName" : "ec",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19099196,
+        "width" : 124,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "0.56",
+          "sum" : "8.29",
+          "null" : 0,
+          "average" : "1.03625",
+          "largest" : "1.7",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1.7"
+          }, {
+            "count" : 19,
+            "item" : "1.61"
+          }, {
+            "count" : 18,
+            "item" : "1.21"
+          }, {
+            "count" : 17,
+            "item" : "0.96"
+          }, {
+            "count" : 16,
+            "item" : "0.81"
+          }, {
+            "count" : 15,
+            "item" : "0.76"
+          }, {
+            "count" : 14,
+            "item" : "0.56"
+          }, {
+            "count" : 13,
+            "item" : "0.68"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Harbor"
+          }
+        },
+        "rdfSubject" : "0",
+        "rowIdentifier" : "149117950",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "2ib6-ssvz",
+        "displayName" : "Port of Los Angeles",
+        "profileImageUrlLarge" : "/images/profile/9654/0122/POLALogo2_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9654/0122/POLALogo2_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9654/0122/POLALogo2_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Port of Los Angeles",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+        "orderBys" : [ {
+          "ascending" : true,
+          "expression" : {
+            "columnId" : 149117951,
+            "type" : "column"
+          }
+        } ]
+      },
+      "rights" : [ "read" ],
+      "sortBys" : [ {
+        "id" : 0,
+        "viewColumnId" : 149117951,
+        "flags" : [ "asc" ]
+      } ],
+      "tableAuthor" : {
+        "id" : "2ib6-ssvz",
+        "displayName" : "Port of Los Angeles",
+        "profileImageUrlLarge" : "/images/profile/9654/0122/POLALogo2_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9654/0122/POLALogo2_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9654/0122/POLALogo2_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Port of Los Angeles",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "air quality" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 7, "4E920106-523F-41FA-9EE3-41F88BE6E53B", 7, 1397075197, "870164", 1397075197, "870164", "{\n}", "2012", "0.56" ]
+, [ 8, "A4B9072F-1E31-4069-B08C-FDADF2CFE343", 8, 1397075197, "870164", 1397075197, "870164", "{\n}", "2013", "0.68" ]
+, [ 6, "1547E9E2-3AF1-4AE7-9383-BEAD4F157013", 6, 1397075197, "870164", 1397075197, "870164", "{\n}", "2011", "0.76" ]
+, [ 5, "A31FFB17-B80D-4CB6-AB59-A8CC0F4E688A", 5, 1397075197, "870164", 1397075197, "870164", "{\n}", "2010", "0.81" ]
+, [ 4, "BCFA7CE3-EF82-477B-8E83-701A1C169214", 4, 1397075197, "870164", 1397075197, "870164", "{\n}", "2009", "0.96" ]
+, [ 3, "2796B3FE-DAFE-45E8-9A89-E100A30D7747", 3, 1397075197, "870164", 1397075197, "870164", "{\n}", "2008", "1.21" ]
+, [ 2, "FE00AF86-22BC-4DAD-A97A-B3AC279901A8", 2, 1397075197, "870164", 1397075197, "870164", "{\n}", "2007", "1.61" ]
+, [ 1, "2FCB703D-F1C3-4EB0-B57E-8D825DB88FB8", 1, 1397075197, "870164", 1397075197, "870164", "{\n}", "2006", "1.7" ]
+ ]
+}

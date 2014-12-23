@@ -1,0 +1,239 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "vyhg-nvzw",
+      "name" : "LIBRARY Quarterly EMedia Circulation",
+      "averageRating" : 0,
+      "createdAt" : 1401489214,
+      "displayType" : "table",
+      "downloadCount" : 1,
+      "indexUpdatedAt" : 1414612919,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8108995,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401489395,
+      "publicationGroup" : 1600647,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1401489224,
+      "rowsUpdatedBy" : "tyhz-nfmm",
+      "tableId" : 1600647,
+      "totalTimesRated" : 0,
+      "viewCount" : 18,
+      "viewLastModified" : 1402606873,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150663858,
+        "name" : "Date name",
+        "dataTypeName" : "text",
+        "fieldName" : "date_name",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20022438,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "Q1-2013",
+          "null" : 0,
+          "largest" : "Q4-2013",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Q1-2013"
+          }, {
+            "count" : 19,
+            "item" : "Q2-2013"
+          }, {
+            "count" : 18,
+            "item" : "Q3-2013"
+          }, {
+            "count" : 17,
+            "item" : "Q4-2013"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150663859,
+        "name" : "Date",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date",
+        "position" : 3,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 20022439,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "2013-03-31T00:00:00",
+          "null" : 0,
+          "largest" : "2013-12-31T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2013-03-31T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2013-06-30T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2013-09-30T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2013-12-31T00:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150663860,
+        "name" : "Library e-media circulation",
+        "dataTypeName" : "number",
+        "fieldName" : "library_e_media_circulation",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20022440,
+        "width" : 424,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "195899",
+          "sum" : "895933",
+          "null" : 0,
+          "average" : "223983.25",
+          "largest" : "267599",
+          "top" : [ {
+            "count" : 20,
+            "item" : "195899"
+          }, {
+            "count" : 19,
+            "item" : "205211"
+          }, {
+            "count" : 18,
+            "item" : "227224"
+          }, {
+            "count" : 17,
+            "item" : "267599"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "ysts-hp3n",
+        "displayName" : "Library OpenData",
+        "profileImageUrlLarge" : "/images/profile/4416/9936/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/4416/9936/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/4416/9936/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Library OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "ysts-hp3n",
+        "displayName" : "Library OpenData",
+        "profileImageUrlLarge" : "/images/profile/4416/9936/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/4416/9936/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/4416/9936/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Library OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "7D3051BA-D17F-47D1-84CA-4075FACE91D0", 1, 1401489219, "865572", 1401489219, "865572", "{\n}", "Q1-2013", "2013-03-31T00:00:00", "195899" ]
+, [ 2, "123813B1-D734-45AB-B768-3F07999B1520", 2, 1401489219, "865572", 1401489219, "865572", "{\n}", "Q2-2013", "2013-06-30T00:00:00", "205211" ]
+, [ 3, "A9401FFE-D8C3-4C08-9C7D-87B39F8A78E7", 3, 1401489219, "865572", 1401489219, "865572", "{\n}", "Q3-2013", "2013-09-30T00:00:00", "227224" ]
+, [ 4, "05D475DA-5E3A-4BF5-B88F-02E77D9E3A38", 4, 1401489219, "865572", 1401489219, "865572", "{\n}", "Q4-2013", "2013-12-31T00:00:00", "267599" ]
+ ]
+}

@@ -1,0 +1,268 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "95j2-9tdv",
+      "name" : "DWP - Renewables Percentage  Annual",
+      "averageRating" : 0,
+      "createdAt" : 1401488153,
+      "description" : "To reduce Los Angeles' contribution to global warming pollution and to comply with state mandates, DWP is increasing the percentage of its energy that comes from clean renewable power. State mandates require that 33% of power comes from renewables by 2020. For more information, visit www.ladwp.com/ladwp/faces/ladwp/aboutus/a-power/a-p-renewableenergy",
+      "displayType" : "table",
+      "downloadCount" : 4,
+      "indexUpdatedAt" : 1414614866,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8108936,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401488205,
+      "publicationGroup" : 1600623,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1401488159,
+      "rowsUpdatedBy" : "ddg3-br68",
+      "tableId" : 1600623,
+      "totalTimesRated" : 0,
+      "viewCount" : 28,
+      "viewLastModified" : 1402589469,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150663257,
+        "name" : "Date Name",
+        "dataTypeName" : "text",
+        "fieldName" : "date_name",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20022242,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : "2007",
+          "null" : 0,
+          "largest" : "2013",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2007"
+          }, {
+            "count" : 19,
+            "item" : "2008"
+          }, {
+            "count" : 18,
+            "item" : "2009"
+          }, {
+            "count" : 17,
+            "item" : "2010"
+          }, {
+            "count" : 16,
+            "item" : "2011"
+          }, {
+            "count" : 15,
+            "item" : "2012"
+          }, {
+            "count" : 14,
+            "item" : "2013"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150663258,
+        "name" : "Date Value",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date_value",
+        "position" : 3,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 20022243,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : "2007-12-31T00:00:00",
+          "null" : 0,
+          "largest" : "2013-12-31T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2007-12-31T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2008-12-31T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2009-12-31T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2010-12-31T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2011-12-31T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2012-12-31T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2013-12-31T00:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150663259,
+        "name" : "Percentage of Energy Porftolio from Renewable Sources",
+        "dataTypeName" : "percent",
+        "fieldName" : "percentage_of_energy_porftolio_from_renewable_sources",
+        "position" : 4,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 20022244,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : "6",
+          "sum" : "110",
+          "null" : 0,
+          "average" : "15.71428571428571",
+          "largest" : "23",
+          "top" : [ {
+            "count" : 20,
+            "item" : "6"
+          }, {
+            "count" : 19,
+            "item" : "8"
+          }, {
+            "count" : 18,
+            "item" : "14"
+          }, {
+            "count" : 17,
+            "item" : "20"
+          }, {
+            "count" : 16,
+            "item" : "19"
+          }, {
+            "count" : 15,
+            "item" : "23"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "hb8e-gdsp",
+        "displayName" : "LA DWP OpenData",
+        "profileImageUrlLarge" : "/images/profile/5225/6660/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5225/6660/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5225/6660/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LA DWP OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "hb8e-gdsp",
+        "displayName" : "LA DWP OpenData",
+        "profileImageUrlLarge" : "/images/profile/5225/6660/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5225/6660/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5225/6660/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LA DWP OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "renewables", "energy", "dwp", "sustainable", "livable" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "B567AFE8-00A6-4856-AAA0-03C38BCCB7B7", 1, 1401488155, "882858", 1401488155, "882858", "{\n}", "2007", "2007-12-31T00:00:00", "6" ]
+, [ 2, "B796B836-3D66-4363-83A7-9F2EB6C7CF98", 2, 1401488155, "882858", 1401488155, "882858", "{\n}", "2008", "2008-12-31T00:00:00", "8" ]
+, [ 3, "9A8EA0A7-8150-4769-BAF6-0B4C986E4E9E", 3, 1401488155, "882858", 1401488155, "882858", "{\n}", "2009", "2009-12-31T00:00:00", "14" ]
+, [ 4, "C3B1D095-6418-431F-8E51-BC7BF150701F", 4, 1401488156, "882858", 1401488156, "882858", "{\n}", "2010", "2010-12-31T00:00:00", "20" ]
+, [ 5, "3CC49A4A-3103-4F7D-BAAC-66FB5463C20B", 5, 1401488156, "882858", 1401488156, "882858", "{\n}", "2011", "2011-12-31T00:00:00", "19" ]
+, [ 6, "9DA0054C-DC5D-442A-ABB8-F53A6D1FC3E9", 6, 1401488156, "882858", 1401488156, "882858", "{\n}", "2012", "2012-12-31T00:00:00", "20" ]
+, [ 7, "BACFC5FA-FBF0-4F86-8662-BCA1ADA18381", 7, 1401488156, "882858", 1401488156, "882858", "{\n}", "2013", "2013-12-31T00:00:00", "23" ]
+ ]
+}

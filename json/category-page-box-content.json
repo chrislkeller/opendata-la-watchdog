@@ -1,0 +1,424 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "kxz5-hjdi",
+      "name" : "Category Page Box Content",
+      "averageRating" : 0,
+      "createdAt" : 1396540918,
+      "displayType" : "table",
+      "downloadCount" : 2,
+      "indexUpdatedAt" : 1401502525,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8109534,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401502521,
+      "publicationGroup" : 1533488,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1401502499,
+      "rowsUpdatedBy" : "nk38-m7ev",
+      "tableId" : 1600786,
+      "totalTimesRated" : 0,
+      "viewCount" : 87,
+      "viewLastModified" : 1401502521,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150670209,
+        "name" : "Category",
+        "dataTypeName" : "text",
+        "fieldName" : "category",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18983972,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 20,
+          "smallest" : "A Livable and Sustainable City",
+          "null" : 0,
+          "largest" : "A Well Run City",
+          "top" : [ {
+            "count" : 20,
+            "item" : "A Livable and Sustainable City"
+          }, {
+            "count" : 19,
+            "item" : "A Safe City"
+          }, {
+            "count" : 18,
+            "item" : "A Prosperous City"
+          }, {
+            "count" : 17,
+            "item" : "A Well Run City"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150670210,
+        "name" : "Sort",
+        "dataTypeName" : "number",
+        "fieldName" : "sort",
+        "position" : 2,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18984010,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 20,
+          "smallest" : "1",
+          "sum" : "60",
+          "null" : 0,
+          "average" : "3",
+          "largest" : "5",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          }, {
+            "count" : 19,
+            "item" : "2"
+          }, {
+            "count" : 18,
+            "item" : "3"
+          }, {
+            "count" : 17,
+            "item" : "4"
+          }, {
+            "count" : 16,
+            "item" : "5"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150670211,
+        "name" : "Large size",
+        "dataTypeName" : "checkbox",
+        "fieldName" : "large_size",
+        "position" : 3,
+        "renderTypeName" : "checkbox",
+        "tableColumnId" : 18984046,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 20,
+          "smallest" : false,
+          "null" : 0,
+          "largest" : true,
+          "top" : [ {
+            "count" : 20,
+            "item" : true
+          }, {
+            "count" : 19,
+            "item" : false
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150670212,
+        "name" : "Image",
+        "dataTypeName" : "photo",
+        "fieldName" : "image",
+        "position" : 4,
+        "renderTypeName" : "photo",
+        "tableColumnId" : 18984047,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 20,
+          "null" : 0
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150670213,
+        "name" : "Text",
+        "dataTypeName" : "html",
+        "fieldName" : "text",
+        "position" : 5,
+        "renderTypeName" : "html",
+        "tableColumnId" : 18984048,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 20,
+          "smallest" : "311 App Adoption \n\n\n\n\n\nIncreased use of the MyLA311 app allows for more efficient management and delivery of city services",
+          "null" : 0,
+          "largest" : "Water Use by Zip Code",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Annual LADWP CO2 emmissions\n\n\n \n\n\nCO2 is a greenhouse gas generated by certain forms of power generation. It is also one of the primary contributors to climate change. Our city owned utility tracks emissions in an effort to curb CO2 pollution while meeting Los Angeles' energy demands.\n\n\n "
+          }, {
+            "count" : 19,
+            "item" : "Air Quality Measurements"
+          }, {
+            "count" : 18,
+            "item" : "Solar Incentive Program"
+          }, {
+            "count" : 17,
+            "item" : "Mobility Metrics"
+          }, {
+            "count" : 16,
+            "item" : "Water Use by Zip Code"
+          }, {
+            "count" : 15,
+            "item" : "Reducing Crime\n\n\n \n\n\nAssorted metrics for tracking crime reduction efforts including incidents of Part I Crime and Gang Related Crime"
+          }, {
+            "count" : 14,
+            "item" : "Port of LA Tsunami Evacuation Routes"
+          }, {
+            "count" : 13,
+            "item" : "Crime & Collision Map"
+          }, {
+            "count" : 12,
+            "item" : "Building Inspections"
+          }, {
+            "count" : 11,
+            "item" : "LAFD Call Processing Time"
+          }, {
+            "count" : 10,
+            "item" : "LA County Employment\n\n\n \n\n\nOverall employment is an important measure of our region's economic health."
+          }, {
+            "count" : 9,
+            "item" : "Tourism"
+          }, {
+            "count" : 8,
+            "item" : "Cruise Passenger Data"
+          }, {
+            "count" : 7,
+            "item" : "TEU Count"
+          }, {
+            "count" : 6,
+            "item" : "Building Permit Valuation"
+          }, {
+            "count" : 5,
+            "item" : "311 App Adoption \n\n\n\n\n\nIncreased use of the MyLA311 app allows for more efficient management and delivery of city services"
+          }, {
+            "count" : 4,
+            "item" : "LADWP Call Wait Time"
+          }, {
+            "count" : 3,
+            "item" : "Neighborhood Council Office Map"
+          }, {
+            "count" : 2,
+            "item" : "Regional Utility Rate Comparison"
+          }, {
+            "count" : 1,
+            "item" : "Library Usage"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150670214,
+        "name" : "Link",
+        "dataTypeName" : "text",
+        "fieldName" : "link",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19821085,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 20,
+          "smallest" : "https://data.lacity.org/A-Livable-and-Sustainable-City/LADWP-CO2-Generation/e5ni-eqan",
+          "null" : 0,
+          "largest" : "https://performance.lacity.org/stat/goals/8ya7-fqzd/tpjh-8a6z/fsx8-eifx",
+          "top" : [ {
+            "count" : 20,
+            "item" : "https://data.lacity.org/A-Livable-and-Sustainable-City/LADWP-CO2-Generation/e5ni-eqan"
+          }, {
+            "count" : 19,
+            "item" : "https://lacity-stat.demo.socrata.com/stat/goals/8ya7-fqzd/952i-kzmc/2kk4-e5tf"
+          }, {
+            "count" : 18,
+            "item" : "https://data.lacity.org/A-Livable-and-Sustainable-City/LADWP-Solar-Incentive-Program/2yrw-q8tw"
+          }, {
+            "count" : 17,
+            "item" : "https://lacity-stat.demo.socrata.com/stat/goals/8ya7-fqzd/952i-kzmc/sya9-ye72"
+          }, {
+            "count" : 16,
+            "item" : "https://data.lacity.org/A-Livable-and-Sustainable-City/Water-Use-Average-By-Zipcode/pzbs-vimf"
+          }, {
+            "count" : 15,
+            "item" : "https://lacity-stat.demo.socrata.com/stat/goals/8ya7-fqzd/6hq5-v2wg/4zjw-te48"
+          }, {
+            "count" : 14,
+            "item" : "https://data.lacity.org/A-Safe-City/Port-of-Los-Angeles-Tsunami-Evacuation-Routes-Sign/xsnc-uga6"
+          }, {
+            "count" : 13,
+            "item" : "https://data.lacity.org/A-Safe-City/Crime-and-Collision-Data-2013-Map-View/ms69-dazs"
+          }, {
+            "count" : 12,
+            "item" : "https://data.lacity.org/A-Safe-City/LADBS-Inspections/9w5z-rg2h"
+          }, {
+            "count" : 11,
+            "item" : "https://lacity-stat.demo.socrata.com/stat/goals/8ya7-fqzd/6hq5-v2wg/e7cj-qgk8"
+          }, {
+            "count" : 10,
+            "item" : "https://performance.lacity.org/en/stat/goals/8ya7-fqzd/tpjh-8a6z/55ym-huhy"
+          }, {
+            "count" : 9,
+            "item" : "https://lacity-stat.demo.socrata.com/stat/goals/8ya7-fqzd/tpjh-8a6z/fqbc-v84z"
+          }, {
+            "count" : 8,
+            "item" : "https://data.lacity.org/A-Prosperous-City/Port-of-Los-Angeles-Cruise-Passenger/mt7e-uv9h"
+          }, {
+            "count" : 7,
+            "item" : "https://data.lacity.org/A-Prosperous-City/Port-of-Los-Angeles-Historical-TEU-Statistics-Grap/6mir-wugk"
+          }, {
+            "count" : 6,
+            "item" : "https://performance.lacity.org/stat/goals/8ya7-fqzd/tpjh-8a6z/fsx8-eifx"
+          }, {
+            "count" : 5,
+            "item" : "https://lacity-stat.demo.socrata.com/stat/goals/8ya7-fqzd/ytki-m3j7/2e4v-jciu"
+          }, {
+            "count" : 4,
+            "item" : "https://data.lacity.org/A-Well-Run-City/LADWP-Call-Wait-Time-Graph/nw5j-i3nr"
+          }, {
+            "count" : 3,
+            "item" : "https://data.lacity.org/A-Well-Run-City/Neighborhood-Council-Office-Location-Map/nnrh-gpbn"
+          }, {
+            "count" : 2,
+            "item" : "https://lacity-stat.demo.socrata.com/stat/goals/8ya7-fqzd/ytki-m3j7/vuyq-7fe2"
+          }, {
+            "count" : 1,
+            "item" : "https://data.lacity.org/A-Well-Run-City/Library-Monthly-Stats/m4ev-cuzz"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "vcvp-yass",
+        "displayName" : "Dylan",
+        "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+        "screenName" : "Dylan",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+        "flags" : [ "admin" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "vcvp-yass",
+        "displayName" : "Dylan",
+        "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+        "screenName" : "Dylan",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+        "flags" : [ "admin" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "14A34823-938F-45A7-9D5C-23A8552C34C1", 1, 1400526944, "710611", 1401206721, "710611", null, "A Livable and Sustainable City", "1", true, "PSq-PyoDebiDmwRD4Ri_v7_vpFLjf202ucqut_hdG4U", "<p><span style=\"color:#000000;font-size:1.6em;\">Annual LADWP CO2 emmissions</span></p>\n<p>&nbsp;</p>\n<p><span style=\"color:#000000;\">CO2 is a greenhouse gas generated by certain forms of power generation. It is also one of the primary contributors to climate change. Our city owned utility tracks emissions in an effort to curb CO2 pollution while meeting Los Angeles' energy demands.</span></p>\n<p>&nbsp;</p>", "https://data.lacity.org/A-Livable-and-Sustainable-City/LADWP-CO2-Generation/e5ni-eqan" ]
+, [ 2, "93446F2B-B75C-4A04-9514-C19752576989", 2, 1400526944, "710611", 1401206724, "710611", null, "A Livable and Sustainable City", "2", null, "rInnkOTDzHne7t9TaRq0_xmB7FdyuAJ3x6Gbc355GH0", "<p><span>Air Quality Measurements</span></p>", "https://lacity-stat.demo.socrata.com/stat/goals/8ya7-fqzd/952i-kzmc/2kk4-e5tf" ]
+, [ 3, "AB887775-8376-4D3B-8DE4-9168600A6C2B", 3, 1400526944, "710611", 1401206726, "710611", null, "A Livable and Sustainable City", "3", null, "tZ_7OKwN4J8SxpW_uJYPP7sOK41CSwx_7ENgZW73Kpo", "<p><span>Solar Incentive Program</span></p>", "https://data.lacity.org/A-Livable-and-Sustainable-City/LADWP-Solar-Incentive-Program/2yrw-q8tw" ]
+, [ 4, "0B08ABFA-C0AE-4FB7-BF16-C636204CA508", 4, 1400526944, "710611", 1401206727, "710611", null, "A Livable and Sustainable City", "4", null, "ta5GBuM9jJhiwW7hXx6tm1zK-4utf-F3HvGZWPkL1jo", "<p><span>Mobility Metrics</span></p>", "https://lacity-stat.demo.socrata.com/stat/goals/8ya7-fqzd/952i-kzmc/sya9-ye72" ]
+, [ 5, "16AA017F-826E-47FD-9D61-DC0F47C91F9B", 5, 1400526944, "710611", 1401487764, "865627", null, "A Livable and Sustainable City", "5", null, "2Sre_cthotLAy2mvZ8JyFsQAnVKd0bfJizAN38znt7Q", "<p>Water Use by Zip Code</p>", "https://data.lacity.org/A-Livable-and-Sustainable-City/Water-Use-Average-By-Zipcode/pzbs-vimf" ]
+, [ 6, "A076F44C-3D73-400E-A06F-0AFC8D96AE23", 6, 1400526944, "710611", 1401438475, "865627", null, "A Safe City", "1", true, "9AOeEE2BJdTE-vADBlWGhniIwP6R2hWPJi9viQDp-Ds", "<p><span style=\"font-size:1.6em;\">Reducing Crime</span></p>\n<p>&nbsp;</p>\n<p>Assorted metrics for tracking crime reduction efforts including incidents of Part I Crime and Gang Related Crime</p>", "https://lacity-stat.demo.socrata.com/stat/goals/8ya7-fqzd/6hq5-v2wg/4zjw-te48" ]
+, [ 7, "59ACEA8A-B809-4A45-9C3B-D8DE5D79DCE8", 7, 1400526944, "710611", 1401437042, "865627", null, "A Safe City", "2", null, "PQ_E1jHR6iSUAqheMYg3B-o2MdLMx98cBGrK42rGEa0", "<p>Port of LA Tsunami Evacuation Routes</p>", "https://data.lacity.org/A-Safe-City/Port-of-Los-Angeles-Tsunami-Evacuation-Routes-Sign/xsnc-uga6" ]
+, [ 8, "8E8E9E48-11D2-481D-A9EE-B92EDD29A8B9", 8, 1400526944, "710611", 1401437265, "865627", null, "A Safe City", "3", null, "U8_sk27Noc8r6NLG8eJy1IdbfNufL52zKBrjrw6aRVo", "<p><span>Crime &amp; Collision Map</span></p>", "https://data.lacity.org/A-Safe-City/Crime-and-Collision-Data-2013-Map-View/ms69-dazs" ]
+, [ 9, "65970312-9C0D-489F-AEFA-14D6B9B3D7E3", 9, 1400526944, "710611", 1401437765, "865627", null, "A Safe City", "4", null, "vYiTSrJ-hEJ2pYhRZU6CKSBatROzvRbM6Dk9zlunN5c", "<p><span>Building Inspections</span></p>", "https://data.lacity.org/A-Safe-City/LADBS-Inspections/9w5z-rg2h" ]
+, [ 10, "12720490-3114-48BB-95D4-F938BA94A7C0", 10, 1400526944, "710611", 1401438235, "865627", null, "A Safe City", "5", null, "fhT-DA63XVisjNpALo9GSMaek84uSJf9Q_CtfAeJy0g", "<p><span>LAFD Call Processing Time</span></p>", "https://lacity-stat.demo.socrata.com/stat/goals/8ya7-fqzd/6hq5-v2wg/e7cj-qgk8" ]
+, [ 11, "01ADAAEE-EDC2-449D-BDD7-F765AEE04E07", 11, 1400526944, "710611", 1401488651, "865627", null, "A Prosperous City", "1", true, "Vjk7vAld3V4cvKmTzBAXNtQq01kauhsJmianzUiPdtY", "<p><span style=\"font-size:2.2em;\">LA County Employment</span></p>\n<p>&nbsp;</p>\n<p>Overall employment is an important measure of our region's economic health.</p>", "https://performance.lacity.org/en/stat/goals/8ya7-fqzd/tpjh-8a6z/55ym-huhy" ]
+, [ 12, "3975C586-A86B-4473-8272-3CA0B1221F85", 12, 1400526944, "710611", 1400526944, "710611", null, "A Prosperous City", "2", null, "g5O6PFwZpmRAD7_3J7gaWVCMT0oJj5dTS0na7OVtofk", "<p>Tourism</p>", "https://lacity-stat.demo.socrata.com/stat/goals/8ya7-fqzd/tpjh-8a6z/fqbc-v84z" ]
+, [ 13, "853A331B-80AC-4B34-B34E-F7FB55C96F57", 13, 1400526944, "710611", 1400526944, "710611", null, "A Prosperous City", "3", null, "abAoXG6w1oPw00RVojqDh1rbjkt_1wVMP9AhcOTSLmM", "<p><span>Cruise Passenger Data</span></p>", "https://data.lacity.org/A-Prosperous-City/Port-of-Los-Angeles-Cruise-Passenger/mt7e-uv9h" ]
+, [ 14, "94867CA9-3630-48A0-97EF-64001CC99CCA", 14, 1400526944, "710611", 1401489722, "865627", null, "A Prosperous City", "4", null, "oXuKXQ39JxWZCTk3t71jqoUFljFExzho1-fL8J1WOJE", "<p><span>TEU Count</span></p>", "https://data.lacity.org/A-Prosperous-City/Port-of-Los-Angeles-Historical-TEU-Statistics-Grap/6mir-wugk" ]
+, [ 15, "37D01571-D9C5-4925-BEDD-A464AA6509E4", 15, 1400526944, "710611", 1401488847, "865627", null, "A Prosperous City", "5", null, "oXn2BAMt7ljWP9CK5vAdXEhhB2cHiJznqotOKR8pyBc", "<p><span>Building Permit Valuation</span></p>", "https://performance.lacity.org/stat/goals/8ya7-fqzd/tpjh-8a6z/fsx8-eifx" ]
+, [ 16, "40A96766-F8D1-4B67-ABC3-FD1DC803483A", 16, 1401411432, "865627", 1401502499, "865627", null, "A Well Run City", "1", true, "SXhnYQunvvtVcPlEWmU6ViX2K4Ui14q3yKthdf1kxBg", "<p><span style=\"font-size:2.2em;\">311 App Adoption&nbsp;</span></p>\n<p><span style=\"font-size:2.2em;\"></span></p>\n<p>Increased use of the MyLA311 app allows for more efficient management and delivery of city services</p>", "https://lacity-stat.demo.socrata.com/stat/goals/8ya7-fqzd/ytki-m3j7/2e4v-jciu" ]
+, [ 17, "FFFBD9A3-EFA2-461F-8A50-295505CFED85", 17, 1401438832, "865627", 1401439104, "865627", null, "A Well Run City", "2", null, "plJwI2YonTIRHENdQMA6GTgmfcl8FQBvrjtlv55BPAo", "<p>LADWP Call Wait Time</p>", "https://data.lacity.org/A-Well-Run-City/LADWP-Call-Wait-Time-Graph/nw5j-i3nr" ]
+, [ 18, "33C0CE03-67D6-4BC8-8338-8C81EDFB17FC", 18, 1401439110, "865627", 1401439329, "865627", null, "A Well Run City", "3", null, "u7W6BfB9V8BwdiqSFwCUd0h0i081AHAlGySNm8YexZ8", "<p>Neighborhood Council Office Map</p>", "https://data.lacity.org/A-Well-Run-City/Neighborhood-Council-Office-Location-Map/nnrh-gpbn" ]
+, [ 19, "80E76929-A5D6-49A0-BAE2-07699C527C08", 19, 1401439344, "865627", 1401439722, "865627", null, "A Well Run City", "4", null, "9-4GluuJ46mGoqpoaf2Kt3FIA0CFzweUOEkyBCfOMKc", "<p>Regional Utility Rate Comparison</p>", "https://lacity-stat.demo.socrata.com/stat/goals/8ya7-fqzd/ytki-m3j7/vuyq-7fe2" ]
+, [ 20, "3D2A8EFC-E36B-4905-AA95-0EECD05433A5", 20, 1401439737, "865627", 1401440397, "865627", null, "A Well Run City", "5", null, "RC1z-pQJXXbtYXAXJ9eAtYne_vR5nsWi76J52SKa8a0", "<p>Library Usage</p>", "https://data.lacity.org/A-Well-Run-City/Library-Monthly-Stats/m4ev-cuzz" ]
+ ]
+}

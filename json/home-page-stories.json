@@ -1,0 +1,368 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "uuhh-hvvk",
+      "name" : "Home Page Stories",
+      "averageRating" : 0,
+      "category" : "Internal",
+      "createdAt" : 1380047669,
+      "displayType" : "table",
+      "downloadCount" : 516,
+      "indexUpdatedAt" : 1414615803,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8188020,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1402442029,
+      "publicationGroup" : 1181417,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1402442024,
+      "rowsUpdatedBy" : "yikh-b4h5",
+      "tableId" : 1612595,
+      "totalTimesRated" : 0,
+      "viewCount" : 286,
+      "viewLastModified" : 1402442029,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 152285263,
+        "name" : "Title",
+        "dataTypeName" : "text",
+        "fieldName" : "title",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 14514321,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : "Controller's Message",
+          "null" : 0,
+          "largest" : "Women @ Work",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Payroll - Now with Overtime, Bonuses, Healthcare Costs and More"
+          }, {
+            "count" : 19,
+            "item" : "Controller's Message"
+          }, {
+            "count" : 18,
+            "item" : "Questions?"
+          }, {
+            "count" : 17,
+            "item" : "We're on Github"
+          }, {
+            "count" : 16,
+            "item" : "DataLA"
+          }, {
+            "count" : 15,
+            "item" : "LA City Controller's Tech Bullpen"
+          }, {
+            "count" : 14,
+            "item" : "Women @ Work"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 152285264,
+        "name" : "Image",
+        "dataTypeName" : "photo",
+        "fieldName" : "image",
+        "position" : 2,
+        "renderTypeName" : "photo",
+        "tableColumnId" : 14820921,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 4,
+          "null" : 3
+        },
+        "format" : {
+          "size" : "medium"
+        }
+      }, {
+        "id" : 152285265,
+        "name" : "Description",
+        "dataTypeName" : "text",
+        "fieldName" : "description",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 14514322,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : "Click here to view an infographic on the status of women in LA City government.",
+          "null" : 0,
+          "largest" : "We are living in the era of Big Data. With billions of gigabytes of data created every day, we have a historic opportunity to make our government faster, more efficient, and transparent. But just having data is not enough – we need Smart Data.  And for the City of Los Angeles, Smart Data starts here: at ControlPanel LA.",
+          "top" : [ {
+            "count" : 20,
+            "item" : "   This is the most comprehensive picture to date of the City's total payroll costs. <br> <br> Many new payroll details are now readily available - including overtime costs across City Departments, average healthcare costs, various types of bonuses and lump sum payments that make up a City employee’s pay - for both full and part-time personnel."
+          }, {
+            "count" : 19,
+            "item" : "We are living in the era of Big Data. With billions of gigabytes of data created every day, we have a historic opportunity to make our government faster, more efficient, and transparent. But just having data is not enough – we need Smart Data.  And for the City of Los Angeles, Smart Data starts here: at ControlPanel LA."
+          }, {
+            "count" : 18,
+            "item" : "Need help navigating Control PanelLA? Click here for helpful tips and resources."
+          }, {
+            "count" : 17,
+            "item" : "Click here to visit the LA City Controller's Github account."
+          }, {
+            "count" : 16,
+            "item" : "Visit data.lacity.org to view datasets from across the City of Los Angeles. "
+          }, {
+            "count" : 15,
+            "item" : "Join the Controller's Tech Bullpen - a forum for civic & tech leaders to connect & innovate with local government."
+          }, {
+            "count" : 14,
+            "item" : "Click here to view an infographic on the status of women in LA City government."
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 152285266,
+        "name" : "Data-type",
+        "dataTypeName" : "text",
+        "fieldName" : "data_type",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 14514324,
+        "width" : 165,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : "Chart",
+          "null" : 0,
+          "largest" : "Link",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Chart"
+          }, {
+            "count" : 19,
+            "item" : "Link"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 152285267,
+        "name" : "link",
+        "dataTypeName" : "text",
+        "fieldName" : "link",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 14514325,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "/videos",
+          "null" : 1,
+          "largest" : "https://magic.piktochart.com/output/1565347-gender-la-copy-copy2",
+          "top" : [ {
+            "count" : 20,
+            "item" : "https://controllerdata.lacity.org/Finance/Employee-Compensation-Breakdown/ydyi-7myj"
+          }, {
+            "count" : 19,
+            "item" : "/videos"
+          }, {
+            "count" : 18,
+            "item" : "https://github.com/LAcitycontroller"
+          }, {
+            "count" : 17,
+            "item" : "https://data.lacity.org"
+          }, {
+            "count" : 16,
+            "item" : "https://docs.google.com/a/lacity.org/forms/d/18DNsOKPs2qjfeYih8bHfUuqsApUDO2UVyP5McjgBBTM/viewform"
+          }, {
+            "count" : 15,
+            "item" : "https://magic.piktochart.com/output/1565347-gender-la-copy-copy2"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 152285268,
+        "name" : "Sort",
+        "dataTypeName" : "number",
+        "fieldName" : "sort",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20072097,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : "1",
+          "sum" : "33",
+          "null" : 0,
+          "average" : "4.714285714285714",
+          "largest" : "8",
+          "top" : [ {
+            "count" : 20,
+            "item" : "5"
+          }, {
+            "count" : 19,
+            "item" : "1"
+          }, {
+            "count" : 18,
+            "item" : "7"
+          }, {
+            "count" : 17,
+            "item" : "6"
+          }, {
+            "count" : 16,
+            "item" : "4"
+          }, {
+            "count" : 15,
+            "item" : "2"
+          }, {
+            "count" : 14,
+            "item" : "8"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Department" : {
+            "Controller" : "",
+            "Other" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "jsonQuery" : {
+          "order" : [ {
+            "ascending" : true,
+            "columnFieldName" : "sort"
+          } ]
+        },
+        "rdfSubject" : "0"
+      },
+      "owner" : {
+        "id" : "vcvp-yass",
+        "displayName" : "Dylan",
+        "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+        "roleName" : "administrator",
+        "screenName" : "Dylan",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+        "flags" : [ "admin" ]
+      },
+      "query" : {
+        "orderBys" : [ {
+          "ascending" : true,
+          "expression" : {
+            "columnId" : 152285268,
+            "type" : "column"
+          }
+        } ]
+      },
+      "rights" : [ "read" ],
+      "sortBys" : [ {
+        "id" : 0,
+        "viewColumnId" : 152285268,
+        "flags" : [ "asc" ]
+      } ],
+      "tableAuthor" : {
+        "id" : "vcvp-yass",
+        "displayName" : "Dylan",
+        "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+        "roleName" : "administrator",
+        "screenName" : "Dylan",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+        "flags" : [ "admin" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 11, "BE2DE526-3643-47D2-996A-D8C9FF9AAD42", 11, 1382384684, "849710", 1401755088, "849710", null, "Controller's Message", "VrmPtrkmbnMeyusKCYdE_FNdjXKwqavAnZtpYB8gkAs", "We are living in the era of Big Data. With billions of gigabytes of data created every day, we have a historic opportunity to make our government faster, more efficient, and transparent. But just having data is not enough – we need Smart Data.  And for the City of Los Angeles, Smart Data starts here: at ControlPanel LA.", "Link", null, "1" ]
+, [ 19, "4C9E3988-F711-4E91-8C67-D81B2B477C8C", 19, 1401749820, "849710", 1401750097, "849710", null, "LA City Controller's Tech Bullpen", "vWblKawGezzdgXTvAuRTyhyLieAvtb5OVTPGfwdS46c", "Join the Controller's Tech Bullpen - a forum for civic & tech leaders to connect & innovate with local government.", "Link", "https://docs.google.com/a/lacity.org/forms/d/18DNsOKPs2qjfeYih8bHfUuqsApUDO2UVyP5McjgBBTM/viewform", "2" ]
+, [ 18, "5DCEC803-D2A6-4458-BB36-372DCBAAF3D4", 18, 1401499059, "849710", 1401750101, "849710", null, "DataLA", "xe7UqiX1OlVStYR86s4Z_-XNNIP8Mq6faZwYG9CKAQA", "Visit data.lacity.org to view datasets from across the City of Los Angeles. ", "Link", "https://data.lacity.org", "4" ]
+, [ 9, "03E5465C-9298-40B9-9AA1-DC1ECE7976C4", 9, 1382334940, "849710", 1401750103, "849710", null, "Payroll - Now with Overtime, Bonuses, Healthcare Costs and More", null, "   This is the most comprehensive picture to date of the City's total payroll costs. <br> <br> Many new payroll details are now readily available - including overtime costs across City Departments, average healthcare costs, various types of bonuses and lump sum payments that make up a City employee’s pay - for both full and part-time personnel.", "Chart", "https://controllerdata.lacity.org/Finance/Employee-Compensation-Breakdown/ydyi-7myj", "5" ]
+, [ 17, "74E89B21-8BCD-4D75-BF29-14B11DAF1683", 17, 1401222299, "849710", 1401750104, "849710", null, "We're on Github", null, "Click here to visit the LA City Controller's Github account.", "Link", "https://github.com/LAcitycontroller", "6" ]
+, [ 15, "09A41DD5-50EA-4B6D-8835-0B0C6448F195", 15, 1396632703, "849676", 1401750106, "849710", null, "Questions?", null, "Need help navigating Control PanelLA? Click here for helpful tips and resources.", "Link", "/videos", "7" ]
+, [ 20, "978F74B3-A5D4-4B96-A0E7-77A22BAFFCE1", 20, 1401752404, "849710", 1401752618, "849710", null, "Women @ Work", "Bl-3SaUQ5FK69gW5EnS_8NcAeNo2QQ7Vn7-0VWQ18fA", "Click here to view an infographic on the status of women in LA City government.", "Link", "https://magic.piktochart.com/output/1565347-gender-la-copy-copy2", "8" ]
+ ]
+}

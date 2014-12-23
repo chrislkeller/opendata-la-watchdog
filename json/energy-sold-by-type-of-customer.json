@@ -1,0 +1,646 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "irca-ezpb",
+      "name" : "Energy Sold by Type of Customer",
+      "attribution" : "Office of the Controller, City of Los Angeles",
+      "attributionLink" : "http://controller.lacity.org/stellent/groups/ElectedOfficials/@CTR_Contributor/documents/Contributor_Web_Content/LACITYP_027750.pdf#page=390",
+      "averageRating" : 0,
+      "category" : "Audits and Reports",
+      "createdAt" : 1390284493,
+      "description" : "CAFR Page 347.\r\n\r\nDepartment of Water and Power. Power Enterprise Fund\r\nLast Ten Fiscal Years",
+      "displayType" : "table",
+      "downloadCount" : 66,
+      "indexUpdatedAt" : 1414616122,
+      "licenseId" : "PUBLIC_DOMAIN",
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 7195528,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1391550811,
+      "publicationGroup" : 1447987,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1390284503,
+      "rowsUpdatedBy" : "7c7a-resi",
+      "tableId" : 1447987,
+      "totalTimesRated" : 0,
+      "viewCount" : 82,
+      "viewLastModified" : 1412744741,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 129896659,
+        "name" : "Fiscal Year",
+        "dataTypeName" : "number",
+        "fieldName" : "fiscal_year",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17695305,
+        "width" : 66,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "2004.0",
+          "sum" : "20085.0",
+          "null" : 0,
+          "average" : "2008.5",
+          "largest" : "2013.0",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2004.0"
+          }, {
+            "count" : 19,
+            "item" : "2005.0"
+          }, {
+            "count" : 18,
+            "item" : "2006.0"
+          }, {
+            "count" : 17,
+            "item" : "2007.0"
+          }, {
+            "count" : 16,
+            "item" : "2008.0"
+          }, {
+            "count" : 15,
+            "item" : "2009.0"
+          }, {
+            "count" : 14,
+            "item" : "2010.0"
+          }, {
+            "count" : 13,
+            "item" : "2011.0"
+          }, {
+            "count" : 12,
+            "item" : "2012.0"
+          }, {
+            "count" : 11,
+            "item" : "2013.0"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "true"
+        }
+      }, {
+        "id" : 129896660,
+        "name" : "Sales of Energy-Residential",
+        "dataTypeName" : "money",
+        "fieldName" : "sales_of_energy_residential",
+        "position" : 2,
+        "renderTypeName" : "money",
+        "tableColumnId" : 17695306,
+        "width" : 118,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "7063",
+          "sum" : "74075",
+          "null" : 0,
+          "average" : "7407.5",
+          "largest" : "7664",
+          "top" : [ {
+            "count" : 20,
+            "item" : "7266"
+          }, {
+            "count" : 19,
+            "item" : "7063"
+          }, {
+            "count" : 18,
+            "item" : "7252"
+          }, {
+            "count" : 17,
+            "item" : "7641"
+          }, {
+            "count" : 16,
+            "item" : "7664"
+          }, {
+            "count" : 15,
+            "item" : "7434"
+          }, {
+            "count" : 14,
+            "item" : "7230"
+          }, {
+            "count" : 13,
+            "item" : "7316"
+          }, {
+            "count" : 12,
+            "item" : "7568"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 129896661,
+        "name" : "Sales of Energy-Commercial and Industrial",
+        "dataTypeName" : "money",
+        "fieldName" : "sales_of_energy_commercial_and_industrial",
+        "position" : 3,
+        "renderTypeName" : "money",
+        "tableColumnId" : 17695307,
+        "width" : 121,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "15456",
+          "sum" : "158907",
+          "null" : 0,
+          "average" : "15890.7",
+          "largest" : "16482",
+          "top" : [ {
+            "count" : 20,
+            "item" : "15895"
+          }, {
+            "count" : 19,
+            "item" : "15705"
+          }, {
+            "count" : 18,
+            "item" : "16085"
+          }, {
+            "count" : 17,
+            "item" : "16291"
+          }, {
+            "count" : 16,
+            "item" : "16482"
+          }, {
+            "count" : 15,
+            "item" : "16250"
+          }, {
+            "count" : 14,
+            "item" : "15485"
+          }, {
+            "count" : 13,
+            "item" : "15541"
+          }, {
+            "count" : 12,
+            "item" : "15456"
+          }, {
+            "count" : 11,
+            "item" : "15717"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 129896662,
+        "name" : "Sales of Energy-All Other",
+        "dataTypeName" : "money",
+        "fieldName" : "sales_of_energy_all_other",
+        "position" : 4,
+        "renderTypeName" : "money",
+        "tableColumnId" : 17695308,
+        "width" : 108,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "473",
+          "sum" : "22881",
+          "null" : 0,
+          "average" : "2288.1",
+          "largest" : "3396",
+          "top" : [ {
+            "count" : 20,
+            "item" : "473"
+          }, {
+            "count" : 19,
+            "item" : "2675"
+          }, {
+            "count" : 18,
+            "item" : "2726"
+          }, {
+            "count" : 17,
+            "item" : "2556"
+          }, {
+            "count" : 16,
+            "item" : "2206"
+          }, {
+            "count" : 15,
+            "item" : "1982"
+          }, {
+            "count" : 14,
+            "item" : "3396"
+          }, {
+            "count" : 13,
+            "item" : "2060"
+          }, {
+            "count" : 12,
+            "item" : "1843"
+          }, {
+            "count" : 11,
+            "item" : "2964"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 129896663,
+        "name" : "Sales of Energy-Total",
+        "dataTypeName" : "money",
+        "fieldName" : "sales_of_energy_total",
+        "position" : 5,
+        "renderTypeName" : "money",
+        "tableColumnId" : 17695309,
+        "width" : 83,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "23634",
+          "sum" : "255863",
+          "null" : 0,
+          "average" : "25586.3",
+          "largest" : "26488",
+          "top" : [ {
+            "count" : 20,
+            "item" : "23634"
+          }, {
+            "count" : 19,
+            "item" : "25443"
+          }, {
+            "count" : 18,
+            "item" : "26063"
+          }, {
+            "count" : 17,
+            "item" : "26488"
+          }, {
+            "count" : 16,
+            "item" : "26352"
+          }, {
+            "count" : 15,
+            "item" : "25873"
+          }, {
+            "count" : 14,
+            "item" : "26315"
+          }, {
+            "count" : 13,
+            "item" : "24831"
+          }, {
+            "count" : 12,
+            "item" : "24615"
+          }, {
+            "count" : 11,
+            "item" : "26249"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 129896664,
+        "name" : "Direct Rate per Kilowatt Hour-Residential",
+        "dataTypeName" : "number",
+        "fieldName" : "direct_rate_per_kilowatt_hour_residential",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17695310,
+        "width" : 86,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "0.10",
+          "sum" : "1.17",
+          "null" : 0,
+          "average" : "0.117",
+          "largest" : "0.14",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0.10"
+          }, {
+            "count" : 19,
+            "item" : "0.11"
+          }, {
+            "count" : 18,
+            "item" : "0.12"
+          }, {
+            "count" : 17,
+            "item" : "0.14"
+          }, {
+            "count" : 16,
+            "item" : "0.13"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 129896665,
+        "name" : "Direct Rate per Kilowatt Hour-Commercial and Industrial",
+        "dataTypeName" : "number",
+        "fieldName" : "direct_rate_per_kilowatt_hour_commercial_and_industrial",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17695311,
+        "width" : 88,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "0.09",
+          "sum" : "1.10",
+          "null" : 0,
+          "average" : "0.11",
+          "largest" : "0.13",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0.09"
+          }, {
+            "count" : 19,
+            "item" : "0.10"
+          }, {
+            "count" : 18,
+            "item" : "0.11"
+          }, {
+            "count" : 17,
+            "item" : "0.13"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 129896666,
+        "name" : "Average Number of Customers-Residential in Thousands",
+        "dataTypeName" : "number",
+        "fieldName" : "average_number_of_customers_residential_in_thousands",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17695312,
+        "width" : 139,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "1230",
+          "sum" : "12534",
+          "null" : 0,
+          "average" : "1253.4",
+          "largest" : "1280",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1230"
+          }, {
+            "count" : 19,
+            "item" : "1237"
+          }, {
+            "count" : 18,
+            "item" : "1242"
+          }, {
+            "count" : 17,
+            "item" : "1247"
+          }, {
+            "count" : 16,
+            "item" : "1252"
+          }, {
+            "count" : 15,
+            "item" : "1257"
+          }, {
+            "count" : 14,
+            "item" : "1263"
+          }, {
+            "count" : 13,
+            "item" : "1274"
+          }, {
+            "count" : 12,
+            "item" : "1280"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 129896667,
+        "name" : "Average Number of Customers-Commercial and Industrial in Thousands",
+        "dataTypeName" : "number",
+        "fieldName" : "average_number_of_customers_commercial_and_industrial_in_thousands",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17695313,
+        "width" : 95,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "192",
+          "sum" : "1958",
+          "null" : 0,
+          "average" : "195.8",
+          "largest" : "200",
+          "top" : [ {
+            "count" : 20,
+            "item" : "196"
+          }, {
+            "count" : 19,
+            "item" : "197"
+          }, {
+            "count" : 18,
+            "item" : "200"
+          }, {
+            "count" : 17,
+            "item" : "199"
+          }, {
+            "count" : 16,
+            "item" : "192"
+          }, {
+            "count" : 15,
+            "item" : "193"
+          }, {
+            "count" : 14,
+            "item" : "195"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 129896668,
+        "name" : "Average Number- All Other Customers in Thousands",
+        "dataTypeName" : "number",
+        "fieldName" : "average_number_all_other_customers_in_thousands",
+        "position" : 10,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17695314,
+        "width" : 109,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "2",
+          "sum" : "22",
+          "null" : 0,
+          "average" : "2.2",
+          "largest" : "3",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2"
+          }, {
+            "count" : 19,
+            "item" : "3"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 129896669,
+        "name" : "Average Number-Total Customers in Thousands",
+        "dataTypeName" : "number",
+        "fieldName" : "average_number_total_customers_in_thousands",
+        "position" : 11,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17695315,
+        "width" : 99,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "1428",
+          "sum" : "14514",
+          "null" : 0,
+          "average" : "1451.4",
+          "largest" : "1479",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1428"
+          }, {
+            "count" : 19,
+            "item" : "1437"
+          }, {
+            "count" : 18,
+            "item" : "1445"
+          }, {
+            "count" : 17,
+            "item" : "1448"
+          }, {
+            "count" : 16,
+            "item" : "1446"
+          }, {
+            "count" : 15,
+            "item" : "1452"
+          }, {
+            "count" : 14,
+            "item" : "1447"
+          }, {
+            "count" : 13,
+            "item" : "1461"
+          }, {
+            "count" : 12,
+            "item" : "1471"
+          }, {
+            "count" : 11,
+            "item" : "1479"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Public Domain"
+      },
+      "metadata" : {
+        "custom_fields" : {
+          "Department" : {
+            "Division" : "GAAP",
+            "Department" : "Controller",
+            "System" : "CAFR"
+          },
+          "Update Information" : {
+            "Update Cycle" : "Annual"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "7c7a-resi",
+        "displayName" : "Controller's Office",
+        "roleName" : "administrator",
+        "screenName" : "Controller's Office",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "7c7a-resi",
+        "displayName" : "Controller's Office",
+        "roleName" : "administrator",
+        "screenName" : "Controller's Office",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "tags" : [ "revenue", "city of los angeles", "city of los angeles controller", "city of la", "city of la controller", "ron galperin", "comprehensive annual financial report", "cafr", "net position", "asset type", "asset type group", "activity type", "cafr statistical section" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "BBCD70B3-6629-4F13-A041-DCDB9DF136E7", 1, 1390284499, "862121", 1390284499, "862121", "{\n}", "2004.0", "7266", "15895", "473", "23634", "0.10", "0.09", "1230", "196", "2", "1428" ]
+, [ 2, "8F17A4B8-B066-4FF1-9B41-812571B2DDC4", 2, 1390284499, "862121", 1390284499, "862121", "{\n}", "2005.0", "7063", "15705", "2675", "25443", "0.10", "0.09", "1237", "197", "3", "1437" ]
+, [ 3, "D113F110-3341-402B-B96B-1B97D8DAEF45", 3, 1390284499, "862121", 1390284499, "862121", "{\n}", "2006.0", "7252", "16085", "2726", "26063", "0.10", "0.09", "1242", "200", "3", "1445" ]
+, [ 4, "2AE9F4EF-C3A9-44AB-85C4-302F86C4BCE7", 4, 1390284499, "862121", 1390284499, "862121", "{\n}", "2007.0", "7641", "16291", "2556", "26488", "0.11", "0.10", "1247", "199", "2", "1448" ]
+, [ 5, "3B9526B9-A6A4-42AA-BE56-D937B14AF306", 5, 1390284499, "862121", 1390284499, "862121", "{\n}", "2008.0", "7664", "16482", "2206", "26352", "0.11", "0.10", "1252", "192", "2", "1446" ]
+, [ 6, "7378BB13-1B17-482A-9761-88B1283B436D", 6, 1390284499, "862121", 1390284499, "862121", "{\n}", "2009.0", "7641", "16250", "1982", "25873", "0.12", "0.11", "1257", "193", "2", "1452" ]
+, [ 7, "03A6B754-94F0-4E61-BF8D-6ACCA8D2B854", 7, 1390284499, "862121", 1390284499, "862121", "{\n}", "2010.0", "7434", "15485", "3396", "26315", "0.14", "0.13", "1252", "193", "2", "1447" ]
+, [ 8, "3908E0A8-5646-4D7C-A3B2-3A05F1C411CB", 8, 1390284499, "862121", 1390284499, "862121", "{\n}", "2011.0", "7230", "15541", "2060", "24831", "0.13", "0.13", "1263", "196", "2", "1461" ]
+, [ 9, "F0C65E95-8FD3-44CD-A5D9-074F43D04BAB", 9, 1390284499, "862121", 1390284499, "862121", "{\n}", "2012.0", "7316", "15456", "1843", "24615", "0.13", "0.13", "1274", "195", "2", "1471" ]
+, [ 10, "A03E6909-1792-4209-9EAB-497C70163741", 10, 1390284499, "862121", 1390284499, "862121", "{\n}", "2013.0", "7568", "15717", "2964", "26249", "0.13", "0.13", "1280", "197", "2", "1479" ]
+ ]
+}

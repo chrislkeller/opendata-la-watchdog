@@ -1,0 +1,431 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "qqur-fdui",
+      "name" : "EWDD - Business Source Center Program Performance Objectives",
+      "attribution" : "May Smith",
+      "averageRating" : 0,
+      "category" : "A Prosperous City",
+      "createdAt" : 1401397964,
+      "description" : "The BSC Program, funded through the CDBG, provides entrepreneurial training, technical assistance and access to capital for micro-enterprise and start-up businesses.  The program promotes job creation for Angelenos by providing entrepreneurs and small businesses the support they need to start and/or expand their businesses.  Goals are established through HUD guidelines and local measures.",
+      "displayType" : "table",
+      "downloadCount" : 2,
+      "indexUpdatedAt" : 1414612788,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8099676,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401398185,
+      "publicationGroup" : 1599138,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1401397972,
+      "rowsUpdatedBy" : "utpt-bj92",
+      "tableId" : 1599138,
+      "totalTimesRated" : 0,
+      "viewCount" : 34,
+      "viewLastModified" : 1401402354,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150458698,
+        "name" : "Metric Nbr",
+        "dataTypeName" : "number",
+        "fieldName" : "metric_nbr",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20000400,
+        "width" : 58,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : "1.1",
+          "sum" : "9.8",
+          "null" : 0,
+          "average" : "1.4",
+          "largest" : "1.7",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1.1"
+          }, {
+            "count" : 19,
+            "item" : "1.2"
+          }, {
+            "count" : 18,
+            "item" : "1.3"
+          }, {
+            "count" : 17,
+            "item" : "1.4"
+          }, {
+            "count" : 16,
+            "item" : "1.5"
+          }, {
+            "count" : 15,
+            "item" : "1.6"
+          }, {
+            "count" : 14,
+            "item" : "1.7"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150458699,
+        "name" : "Metric",
+        "dataTypeName" : "text",
+        "fieldName" : "metric",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20000401,
+        "width" : 370,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : "Number of  Businesses Launched",
+          "null" : 0,
+          "largest" : "Total Capital Outlay",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Total Capital Outlay"
+          }, {
+            "count" : 19,
+            "item" : "Number of Entrepreneurs Receiving Technical Assistance / Training"
+          }, {
+            "count" : 18,
+            "item" : "Number of  Businesses Launched"
+          }, {
+            "count" : 17,
+            "item" : "Number of Loans Approved (Pre-startups)"
+          }, {
+            "count" : 16,
+            "item" : "Number of Loans Approved (Startups/Existing Business)"
+          }, {
+            "count" : 15,
+            "item" : "Number of FTE Jobs Created"
+          }, {
+            "count" : 14,
+            "item" : "Number of FTE Jobs Retained"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150458700,
+        "name" : "Annual Goal",
+        "dataTypeName" : "number",
+        "fieldName" : "annual_goal",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20000402,
+        "width" : 95,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "40",
+          "sum" : "2352",
+          "null" : 1,
+          "average" : "392",
+          "largest" : "880",
+          "top" : [ {
+            "count" : 20,
+            "item" : "800"
+          }, {
+            "count" : 19,
+            "item" : "144"
+          }, {
+            "count" : 18,
+            "item" : "40"
+          }, {
+            "count" : 17,
+            "item" : "152"
+          }, {
+            "count" : 16,
+            "item" : "880"
+          }, {
+            "count" : 15,
+            "item" : "336"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150458701,
+        "name" : "3 Quarter Cumulative Goal: Apr 1 - Dec 31 ",
+        "dataTypeName" : "number",
+        "fieldName" : "_3_quarter_cumulative_goal_apr_1_dec_31",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20000403,
+        "width" : 304,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "30",
+          "sum" : "1764",
+          "null" : 1,
+          "average" : "294",
+          "largest" : "660",
+          "top" : [ {
+            "count" : 20,
+            "item" : "600"
+          }, {
+            "count" : 19,
+            "item" : "108"
+          }, {
+            "count" : 18,
+            "item" : "30"
+          }, {
+            "count" : 17,
+            "item" : "114"
+          }, {
+            "count" : 16,
+            "item" : "660"
+          }, {
+            "count" : 15,
+            "item" : "252"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150458702,
+        "name" : "3 Quarter Cumulative Actual:Apr 1 - Dec 31",
+        "dataTypeName" : "number",
+        "fieldName" : "_3_quarter_cumulative_actual_apr_1_dec_31",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20000404,
+        "width" : 251,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "17",
+          "sum" : "2253",
+          "null" : 1,
+          "average" : "375.5",
+          "largest" : "1057",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1057"
+          }, {
+            "count" : 19,
+            "item" : "96"
+          }, {
+            "count" : 18,
+            "item" : "17"
+          }, {
+            "count" : 17,
+            "item" : "108"
+          }, {
+            "count" : 16,
+            "item" : "779"
+          }, {
+            "count" : 15,
+            "item" : "196"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150458703,
+        "name" : "Percentage of 3 Quarter Goal",
+        "dataTypeName" : "percent",
+        "fieldName" : "percentage_of_3_quarter_goal",
+        "position" : 6,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 20000405,
+        "width" : 243,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : "57",
+          "sum" : "766",
+          "null" : 0,
+          "average" : "109.4285714285714",
+          "largest" : "176",
+          "top" : [ {
+            "count" : 20,
+            "item" : "153"
+          }, {
+            "count" : 19,
+            "item" : "176"
+          }, {
+            "count" : 18,
+            "item" : "89"
+          }, {
+            "count" : 17,
+            "item" : "57"
+          }, {
+            "count" : 16,
+            "item" : "95"
+          }, {
+            "count" : 15,
+            "item" : "118"
+          }, {
+            "count" : 14,
+            "item" : "78"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150458704,
+        "name" : "% of Annual Goal Completed",
+        "dataTypeName" : "percent",
+        "fieldName" : "of_annual_goal_completed",
+        "position" : 7,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 20000406,
+        "width" : 249,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : "43",
+          "sum" : "575",
+          "null" : 0,
+          "average" : "82.14285714285714",
+          "largest" : "132",
+          "top" : [ {
+            "count" : 20,
+            "item" : "115"
+          }, {
+            "count" : 19,
+            "item" : "132"
+          }, {
+            "count" : 18,
+            "item" : "67"
+          }, {
+            "count" : 17,
+            "item" : "43"
+          }, {
+            "count" : 16,
+            "item" : "71"
+          }, {
+            "count" : 15,
+            "item" : "89"
+          }, {
+            "count" : 14,
+            "item" : "58"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Economic and Workforce Development"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "page" : true,
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "utpt-bj92",
+        "displayName" : "Economic and Workforce Dev OpenData",
+        "profileImageUrlLarge" : "/images/profile/0818/3245/City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0818/3245/City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0818/3245/City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Economic and Workforce Dev OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "utpt-bj92",
+        "displayName" : "Economic and Workforce Dev OpenData",
+        "profileImageUrlLarge" : "/images/profile/0818/3245/City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0818/3245/City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0818/3245/City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Economic and Workforce Dev OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "ewdd", "businesssource", "business source", "program performance", "outcomes" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "94EC68C0-BD8A-4A95-8B05-A50D90857FFC", 1, 1401397967, "883727", 1401397967, "883727", "{\n  \"invalidCells\" : {\n    \"20000403\" : \"$14,400,000\",\n    \"20000402\" : \"$19,200,000\",\n    \"20000404\" : \"$22,094,000\"\n  }\n}", "1.1", "Total Capital Outlay", null, null, null, "153", "115" ]
+, [ 2, "FEF61B9A-F4BC-40BE-9EEC-1EBBBC89751F", 2, 1401397967, "883727", 1401397967, "883727", "{\n}", "1.2", "Number of Entrepreneurs Receiving Technical Assistance / Training", "800", "600", "1057", "176", "132" ]
+, [ 3, "4F6D11E7-E8DD-4097-BFD3-D9E576DB2CD2", 3, 1401397967, "883727", 1401397967, "883727", "{\n}", "1.3", "Number of  Businesses Launched", "144", "108", "96", "89", "67" ]
+, [ 4, "684ADD86-384D-4071-B5E2-D405D79AB956", 4, 1401397967, "883727", 1401397967, "883727", "{\n}", "1.4", "Number of Loans Approved (Pre-startups)", "40", "30", "17", "57", "43" ]
+, [ 5, "D46AAA99-4FCE-422A-825A-56692BAD9FEB", 5, 1401397967, "883727", 1401397967, "883727", "{\n}", "1.5", "Number of Loans Approved (Startups/Existing Business)", "152", "114", "108", "95", "71" ]
+, [ 6, "4D5A3771-3825-4650-A99E-5BADACD289D1", 6, 1401397967, "883727", 1401397967, "883727", "{\n}", "1.6", "Number of FTE Jobs Created", "880", "660", "779", "118", "89" ]
+, [ 7, "54F7EA16-CBC0-4BE3-AEFE-503E16B764B3", 7, 1401397967, "883727", 1401397967, "883727", "{\n}", "1.7", "Number of FTE Jobs Retained", "336", "252", "196", "78", "58" ]
+ ]
+}

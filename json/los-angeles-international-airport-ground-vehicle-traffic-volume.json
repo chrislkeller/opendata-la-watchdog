@@ -1,0 +1,427 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "9uit-a3wp",
+      "name" : "Los Angeles International Airport - Ground Vehicle Traffic Volume",
+      "averageRating" : 0,
+      "category" : "A Prosperous City",
+      "createdAt" : 1401378207,
+      "description" : "Ground Vehicle Statistic that entered and exited LAX's Central Terminal Area",
+      "displayType" : "table",
+      "downloadCount" : 5,
+      "indexUpdatedAt" : 1416067827,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8097731,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401383729,
+      "publicationGroup" : 1598721,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1416067823,
+      "rowsUpdatedBy" : "gudt-ccne",
+      "state" : "normal",
+      "tableId" : 1598721,
+      "totalTimesRated" : 0,
+      "viewCount" : 96,
+      "viewLastModified" : 1405949803,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150431665,
+        "name" : "ReportingMonth",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "reportingmonth",
+        "position" : 2,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 19995242,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 76,
+          "smallest" : "2013-05-01T00:00:00",
+          "null" : 0,
+          "largest" : "2014-10-01T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2014-06-01T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2014-05-01T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2014-04-01T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2014-03-01T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2014-02-01T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2014-01-01T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2013-12-01T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2013-11-01T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2013-10-01T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2013-09-01T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2013-08-01T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2013-07-01T00:00:00"
+          }, {
+            "count" : 8,
+            "item" : "2013-06-01T00:00:00"
+          }, {
+            "count" : 7,
+            "item" : "2013-05-01T00:00:00"
+          }, {
+            "count" : 6,
+            "item" : "2014-07-01T00:00:00"
+          }, {
+            "count" : 5,
+            "item" : "2014-08-01T00:00:00"
+          }, {
+            "count" : 4,
+            "item" : "2014-09-01T00:00:00"
+          }, {
+            "count" : 3,
+            "item" : "2014-10-01T00:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150431666,
+        "name" : "EntryExit",
+        "dataTypeName" : "text",
+        "fieldName" : "entryexit",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19995243,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 76,
+          "smallest" : "Entry",
+          "null" : 0,
+          "largest" : "Exit",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Entry"
+          }, {
+            "count" : 19,
+            "item" : "Exit"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150431667,
+        "name" : "UpperLower",
+        "dataTypeName" : "text",
+        "fieldName" : "upperlower",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19995244,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 76,
+          "smallest" : "Lower Level",
+          "null" : 0,
+          "largest" : "Upper Level",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Lower Level"
+          }, {
+            "count" : 19,
+            "item" : "Upper Level"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150431668,
+        "name" : "TOTAL VEHICLES",
+        "dataTypeName" : "number",
+        "fieldName" : "total_vehicles",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19995245,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 76,
+          "smallest" : "520894",
+          "sum" : "88763829",
+          "null" : 0,
+          "average" : "1167945.118421053",
+          "largest" : "1900933",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1181556"
+          }, {
+            "count" : 19,
+            "item" : "1027606"
+          }, {
+            "count" : 18,
+            "item" : "667872"
+          }, {
+            "count" : 17,
+            "item" : "1691869"
+          }, {
+            "count" : 16,
+            "item" : "1808899"
+          }, {
+            "count" : 15,
+            "item" : "720653"
+          }, {
+            "count" : 14,
+            "item" : "1122657"
+          }, {
+            "count" : 13,
+            "item" : "1266198"
+          }, {
+            "count" : 12,
+            "item" : "1797155"
+          }, {
+            "count" : 11,
+            "item" : "720737"
+          }, {
+            "count" : 10,
+            "item" : "1128363"
+          }, {
+            "count" : 9,
+            "item" : "1083029"
+          }, {
+            "count" : 8,
+            "item" : "719880"
+          }, {
+            "count" : 7,
+            "item" : "1688181"
+          }, {
+            "count" : 6,
+            "item" : "1250703"
+          }, {
+            "count" : 5,
+            "item" : "1187877"
+          }, {
+            "count" : 4,
+            "item" : "1053332"
+          }, {
+            "count" : 3,
+            "item" : "1628153"
+          }, {
+            "count" : 2,
+            "item" : "693932"
+          }, {
+            "count" : 1,
+            "item" : "1200360"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "LAWA"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "gudt-ccne",
+        "displayName" : "LAWA OpenData",
+        "profileImageUrlLarge" : "/images/profile/7847/6929/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/7847/6929/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/7847/6929/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LAWA OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "gudt-ccne",
+        "displayName" : "LAWA OpenData",
+        "profileImageUrlLarge" : "/images/profile/7847/6929/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/7847/6929/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/7847/6929/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LAWA OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "lax", "vehicle", "traffic", "loop", "entry", "exit" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 74, "341CD7ED-A2CF-4A46-8CEA-5F469C041899", 74, 1408119669, "883844", 1408119669, "883844", null, "2014-06-01T00:00:00", "Entry", "Lower Level", "1141079" ]
+, [ 75, "32E94B03-122F-46E6-9C3B-661D60D09707", 75, 1408119669, "883844", 1408119669, "883844", null, "2014-06-01T00:00:00", "Exit", "Upper Level", "760392" ]
+, [ 76, "150114EE-260F-4E9B-968E-3DE7E08A5749", 76, 1408119669, "883844", 1408119669, "883844", null, "2014-06-01T00:00:00", "Exit", "Lower Level", "1812975" ]
+, [ 77, "EBBF9128-4147-4BB2-9D21-A6AC781D710F", 77, 1408119669, "883844", 1408119669, "883844", null, "2014-06-01T00:00:00", "Entry", "Upper Level", "1319587" ]
+, [ 78, "D18F7686-7D4B-4BBC-A511-3DB9217529B2", 78, 1408119669, "883844", 1408119669, "883844", null, "2014-05-01T00:00:00", "Exit", "Upper Level", "731023" ]
+, [ 79, "8A0196FF-ACED-49BE-ABC8-1E34FF00D154", 79, 1408119669, "883844", 1408119669, "883844", null, "2014-05-01T00:00:00", "Entry", "Lower Level", "1106597" ]
+, [ 80, "7FB5C415-B113-4AAE-8809-1859DB3272F0", 80, 1408119669, "883844", 1408119669, "883844", null, "2014-05-01T00:00:00", "Exit", "Lower Level", "1817430" ]
+, [ 81, "8A975BD1-7357-42BE-B990-C3AE83C186FD", 81, 1408119669, "883844", 1408119669, "883844", null, "2014-05-01T00:00:00", "Entry", "Upper Level", "1270282" ]
+, [ 82, "978F3362-BAB3-4DD4-BE2B-CF6FE1FF9AF0", 82, 1408119669, "883844", 1408119669, "883844", null, "2014-04-01T00:00:00", "Entry", "Upper Level", "1181556" ]
+, [ 83, "AF835C80-A5A6-4087-B4C5-8A234D13E08C", 83, 1408119669, "883844", 1408119669, "883844", null, "2014-04-01T00:00:00", "Entry", "Lower Level", "1027606" ]
+, [ 84, "66B5BF98-794C-4459-8B96-B82A4828B60E", 84, 1408119669, "883844", 1408119669, "883844", null, "2014-04-01T00:00:00", "Exit", "Upper Level", "667872" ]
+, [ 85, "DF97B790-C969-4198-A074-AB793E6DC20D", 85, 1408119669, "883844", 1408119669, "883844", null, "2014-04-01T00:00:00", "Entry", "Upper Level", "1181556" ]
+, [ 86, "C4A450E4-C683-4B9D-9878-DBCC9868954C", 86, 1408119669, "883844", 1408119669, "883844", null, "2014-04-01T00:00:00", "Exit", "Lower Level", "1691869" ]
+, [ 87, "9D7B8E2D-A26E-4C71-8636-06CF57211A16", 87, 1408119669, "883844", 1408119669, "883844", null, "2014-04-01T00:00:00", "Entry", "Lower Level", "1027606" ]
+, [ 88, "A9F73F06-570C-40B6-A988-5F67D62CF186", 88, 1408119669, "883844", 1408119669, "883844", null, "2014-04-01T00:00:00", "Exit", "Upper Level", "667872" ]
+, [ 89, "96149C0F-545F-4507-A9D3-15A0F59FD5AC", 89, 1408119669, "883844", 1408119669, "883844", null, "2014-04-01T00:00:00", "Exit", "Lower Level", "1691869" ]
+, [ 90, "98AFC59C-C7FF-4823-8E94-3DBF16C622DB", 90, 1408119669, "883844", 1408119669, "883844", null, "2014-03-01T00:00:00", "Entry", "Lower Level", "1041884" ]
+, [ 91, "00FEDF17-C8A5-4B47-AACA-77DDC6FF728B", 91, 1408119669, "883844", 1408119669, "883844", null, "2014-03-01T00:00:00", "Exit", "Upper Level", "690502" ]
+, [ 92, "A804C087-BCB7-4089-8D25-567F2EB4A2ED", 92, 1408119669, "883844", 1408119669, "883844", null, "2014-03-01T00:00:00", "Entry", "Upper Level", "1215785" ]
+, [ 93, "4220468C-905D-4800-B9D9-A90A27FF424F", 93, 1408119669, "883844", 1408119669, "883844", null, "2014-03-01T00:00:00", "Exit", "Lower Level", "1658205" ]
+, [ 94, "4D1C6989-02D5-4D15-88A3-59E6A58F215D", 94, 1408119669, "883844", 1408119669, "883844", null, "2014-02-01T00:00:00", "Exit", "Lower Level", "1370335" ]
+, [ 95, "5808EC87-21AF-4A57-959A-C81572E6BA17", 95, 1408119669, "883844", 1408119669, "883844", null, "2014-02-01T00:00:00", "Entry", "Lower Level", "868384" ]
+, [ 96, "6F235023-D1BC-4677-AB4B-69C06FEB5D23", 96, 1408119669, "883844", 1408119669, "883844", null, "2014-02-01T00:00:00", "Exit", "Upper Level", "561346" ]
+, [ 97, "1509276A-0CF6-4DFC-9F25-35F589BC5C44", 97, 1408119669, "883844", 1408119669, "883844", null, "2014-02-01T00:00:00", "Entry", "Upper Level", "1001806" ]
+, [ 98, "993C534E-D027-4002-AA7E-E28C370C347C", 98, 1408119669, "883844", 1408119669, "883844", null, "2014-01-01T00:00:00", "Exit", "Lower Level", "1775030" ]
+, [ 99, "05F8C06E-7F8C-4AA2-A0A3-B6666C782DE2", 99, 1408119669, "883844", 1408119669, "883844", null, "2014-01-01T00:00:00", "Entry", "Upper Level", "1172826" ]
+, [ 100, "6EAD656D-7458-40DD-84B6-11987B7E4BD9", 100, 1408119669, "883844", 1408119669, "883844", null, "2014-01-01T00:00:00", "Exit", "Upper Level", "648743" ]
+, [ 101, "51C00D8F-84DE-43EE-8493-6F5126E790D0", 101, 1408119669, "883844", 1408119669, "883844", null, "2014-01-01T00:00:00", "Entry", "Lower Level", "1036484" ]
+, [ 102, "1BDBFC1E-34C9-43F4-BFE3-937A5714532B", 102, 1408119669, "883844", 1408119669, "883844", null, "2013-12-01T00:00:00", "Exit", "Lower Level", "1891765" ]
+, [ 103, "A296FD6F-916F-4144-A9C2-11A6F59635E2", 103, 1408119669, "883844", 1408119669, "883844", null, "2013-12-01T00:00:00", "Entry", "Lower Level", "1129366" ]
+, [ 104, "50983C75-FC2E-4002-9DD5-A27E48B72A62", 104, 1408119669, "883844", 1408119669, "883844", null, "2013-12-01T00:00:00", "Exit", "Upper Level", "738131" ]
+, [ 105, "68073879-8498-451F-8405-95CA3622B39E", 105, 1408119669, "883844", 1408119669, "883844", null, "2013-12-01T00:00:00", "Entry", "Upper Level", "1280085" ]
+, [ 106, "8738A1B7-FDB3-452F-B729-73DB4C18346B", 106, 1408119669, "883844", 1408119669, "883844", null, "2013-11-01T00:00:00", "Entry", "Upper Level", "1112325" ]
+, [ 107, "D48EF18E-691E-4809-9A8B-D8C668E7F64C", 107, 1408119669, "883844", 1408119669, "883844", null, "2013-11-01T00:00:00", "Entry", "Lower Level", "962471" ]
+, [ 108, "1803F709-F4B2-492C-9093-B9C6EE7053D7", 108, 1408119669, "883844", 1408119669, "883844", null, "2013-11-01T00:00:00", "Exit", "Lower Level", "1617819" ]
+, [ 109, "0D62CB9C-6784-4CBE-B28C-A72A088AEEE6", 109, 1408119669, "883844", 1408119669, "883844", null, "2013-11-01T00:00:00", "Exit", "Upper Level", "630767" ]
+, [ 110, "2DAAEE48-869C-420E-9CEA-BA969DFAF100", 110, 1408119669, "883844", 1408119669, "883844", null, "2013-10-01T00:00:00", "Entry", "Upper Level", "1170641" ]
+, [ 111, "91BBA67C-F6FD-4641-A71E-8D5883CB6145", 111, 1408119669, "883844", 1408119669, "883844", null, "2013-10-01T00:00:00", "Exit", "Upper Level", "664889" ]
+, [ 112, "0BD501CB-D420-47A0-B47C-F3FCBCD01D54", 112, 1408119669, "883844", 1408119669, "883844", null, "2013-10-01T00:00:00", "Exit", "Lower Level", "1712169" ]
+, [ 113, "34864CB0-CE78-4F8D-92B6-6374BDC61DE8", 113, 1408119669, "883844", 1408119669, "883844", null, "2013-10-01T00:00:00", "Entry", "Lower Level", "1013725" ]
+, [ 114, "5A2F2A3E-99EC-4DB1-9456-7D3920E34492", 114, 1408119669, "883844", 1408119669, "883844", null, "2013-09-01T00:00:00", "Exit", "Lower Level", "1638504" ]
+, [ 115, "A73EE9EE-D80A-48BD-A4E1-F637F559B26B", 115, 1408119669, "883844", 1408119669, "883844", null, "2013-09-01T00:00:00", "Entry", "Lower Level", "977444" ]
+, [ 116, "33A26AA0-458C-4B10-8DC6-B060F482DAB3", 116, 1408119669, "883844", 1408119669, "883844", null, "2013-09-01T00:00:00", "Exit", "Upper Level", "640625" ]
+, [ 117, "2D99609C-06C4-4010-9433-0B4FE0D0CAB0", 117, 1408119669, "883844", 1408119669, "883844", null, "2013-09-01T00:00:00", "Entry", "Upper Level", "1129512" ]
+, [ 118, "69918377-C5B9-48A6-AE1F-CDAE358FA435", 118, 1408119669, "883844", 1408119669, "883844", null, "2013-08-01T00:00:00", "Entry", "Upper Level", "1275065" ]
+, [ 119, "72FA6E84-90F7-4824-A9D2-522530A2296C", 119, 1408119669, "883844", 1408119669, "883844", null, "2013-08-01T00:00:00", "Exit", "Lower Level", "1808899" ]
+, [ 120, "4CD07B32-C69A-404B-B8E7-D54122BFF3CD", 120, 1408119669, "883844", 1408119669, "883844", null, "2013-08-01T00:00:00", "Exit", "Upper Level", "720653" ]
+, [ 121, "8D3C1C66-681F-45BD-B901-E49F8761256B", 121, 1408119669, "883844", 1408119669, "883844", null, "2013-08-01T00:00:00", "Entry", "Lower Level", "1122657" ]
+, [ 122, "F31BF821-7E7D-42DE-9273-037AE6627B08", 122, 1408119669, "883844", 1408119669, "883844", null, "2013-07-01T00:00:00", "Entry", "Upper Level", "1266198" ]
+, [ 123, "1F3ED6D9-AEF2-4A00-A406-AD8F62F79436", 123, 1408119669, "883844", 1408119669, "883844", null, "2013-07-01T00:00:00", "Exit", "Lower Level", "1797155" ]
+, [ 124, "BF5BF5A4-9497-482F-ACC4-1B129460BCA3", 124, 1408119669, "883844", 1408119669, "883844", null, "2013-07-01T00:00:00", "Exit", "Upper Level", "720737" ]
+, [ 125, "97AE52E0-DE5A-42E0-9E59-DB6755BC3EF3", 125, 1408119669, "883844", 1408119669, "883844", null, "2013-07-01T00:00:00", "Entry", "Lower Level", "1128363" ]
+, [ 126, "1EB92825-4B33-40F0-88C4-3A427EE9A175", 126, 1408119669, "883844", 1408119669, "883844", null, "2013-06-01T00:00:00", "Entry", "Lower Level", "1083029" ]
+, [ 127, "E6EE84E6-852B-4B9B-B75A-65CB72476733", 127, 1408119669, "883844", 1408119669, "883844", null, "2013-06-01T00:00:00", "Exit", "Upper Level", "719880" ]
+, [ 128, "F71D910F-10B9-42CC-9A20-7EE8ACFB44AD", 128, 1408119669, "883844", 1408119669, "883844", null, "2013-06-01T00:00:00", "Exit", "Lower Level", "1688181" ]
+, [ 129, "F756A334-D517-4D0E-87CA-E9AAB0D1A3AA", 129, 1408119669, "883844", 1408119669, "883844", null, "2013-06-01T00:00:00", "Entry", "Upper Level", "1250703" ]
+, [ 130, "B5A29521-B63A-49B4-B888-6A1468574590", 130, 1408119669, "883844", 1408119669, "883844", null, "2013-05-01T00:00:00", "Entry", "Upper Level", "1187877" ]
+, [ 131, "BB9102B4-A967-45DD-8231-240962661073", 131, 1408119669, "883844", 1408119669, "883844", null, "2013-05-01T00:00:00", "Entry", "Lower Level", "1053332" ]
+, [ 132, "859DA697-A163-4520-81A0-2AAEB93B952A", 132, 1408119669, "883844", 1408119669, "883844", null, "2013-05-01T00:00:00", "Exit", "Lower Level", "1628153" ]
+, [ 133, "3FF09BC2-A77C-47B2-9266-F36403AE4889", 133, 1408119669, "883844", 1408119669, "883844", null, "2013-05-01T00:00:00", "Exit", "Upper Level", "693932" ]
+, [ 134, "35AD5C18-8518-44D8-8A87-0F41B6F18F34", 134, 1408120554, "883844", 1408120554, "883844", null, "2014-07-01T00:00:00", "Entry", "Lower Level", "1200360" ]
+, [ 135, "7E02FC97-C29D-42D8-87A8-A5238414E2C6", 135, 1408120554, "883844", 1408120554, "883844", null, "2014-07-01T00:00:00", "Entry", "Upper Level", "1350394" ]
+, [ 136, "303AAC73-6AD0-47D8-B2AB-BD5CFC7472CE", 136, 1408120554, "883844", 1408120554, "883844", null, "2014-07-01T00:00:00", "Exit", "Lower Level", "1900933" ]
+, [ 137, "78A07FD6-2EF1-4EEC-8DC3-A6595B5273FE", 137, 1408120554, "883844", 1408120554, "883844", null, "2014-07-01T00:00:00", "Exit", "Upper Level", "777303" ]
+, [ 138, "A52FDA61-1C74-4374-9C50-DA82EF9FC03F", 138, 1410536268, "883844", 1410536268, "883844", null, "2014-08-01T00:00:00", "Entry", "Lower Level", "1181215" ]
+, [ 139, "A6BAF8A9-8430-4D53-ACE0-4E032F8ABA12", 139, 1410536268, "883844", 1410536268, "883844", null, "2014-08-01T00:00:00", "Entry", "Upper Level", "1356003" ]
+, [ 140, "6EBCDE7E-9573-45FB-9250-AE4DC40792EB", 140, 1410536268, "883844", 1410536268, "883844", null, "2014-08-01T00:00:00", "Exit", "Lower Level", "1888506" ]
+, [ 141, "3CB53969-B932-4339-8BD8-5E752BA7226E", 141, 1410536268, "883844", 1410536268, "883844", null, "2014-08-01T00:00:00", "Exit", "Upper Level", "777872" ]
+, [ 142, "66D7B0DD-EFFB-45D4-9A4D-DCBD5E65BDC9", 142, 1413385820, "883844", 1413385820, "883844", null, "2014-09-01T00:00:00", "Entry", "Lower Level", "1031687" ]
+, [ 143, "C349A4B3-9926-4CC5-91E6-DB2F88D8FC4C", 143, 1413385820, "883844", 1413385820, "883844", null, "2014-09-01T00:00:00", "Entry", "Upper Level", "1194487" ]
+, [ 144, "2E0FA920-1931-4D11-A0DF-0AE01DE2E1DF", 144, 1413385820, "883844", 1413385820, "883844", null, "2014-09-01T00:00:00", "Exit", "Lower Level", "1280754" ]
+, [ 145, "A14F815E-D84C-437D-B3D1-2F53E1805EF8", 145, 1413385820, "883844", 1413385820, "883844", null, "2014-09-01T00:00:00", "Exit", "Upper Level", "520894" ]
+, [ 146, "786E09B1-7428-4AC6-BCB7-C7C29C8C6BD8", 146, 1416067823, "883844", 1416067823, "883844", null, "2014-10-01T00:00:00", "Entry", "Lower Level", "1082532" ]
+, [ 147, "EA8177E4-ABFC-4344-A796-F8B3FB65CFFF", 147, 1416067823, "883844", 1416067823, "883844", null, "2014-10-01T00:00:00", "Entry", "Upper Level", "1219739" ]
+, [ 148, "75EC52CB-D1E9-45C4-89D0-C95635EF3575", 148, 1416067823, "883844", 1416067823, "883844", null, "2014-10-01T00:00:00", "Exit", "Lower Level", "1698399" ]
+, [ 149, "A31F69AD-4A04-40F6-A2B7-7A303AA02FB5", 149, 1416067823, "883844", 1416067823, "883844", null, "2014-10-01T00:00:00", "Exit", "Upper Level", "709198" ]
+ ]
+}

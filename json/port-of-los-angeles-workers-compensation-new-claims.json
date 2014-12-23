@@ -1,0 +1,660 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "s2gq-nz3r",
+      "name" : "Port of Los Angeles - Workers' Compensation New Claims",
+      "averageRating" : 0,
+      "createdAt" : 1400865317,
+      "description" : "New Claims Per Month",
+      "displayType" : "table",
+      "downloadCount" : 4,
+      "indexUpdatedAt" : 1414616261,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8082613,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401229609,
+      "publicationGroup" : 1592768,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1401229386,
+      "rowsUpdatedBy" : "avmh-r2ks",
+      "tableId" : 1596556,
+      "totalTimesRated" : 0,
+      "viewCount" : 58,
+      "viewLastModified" : 1403717328,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150139755,
+        "name" : "HARBOR DEPARTMENT",
+        "dataTypeName" : "text",
+        "fieldName" : "harbor_department",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19904898,
+        "width" : 158,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "FY10-11",
+          "null" : 0,
+          "largest" : "FY13-14",
+          "top" : [ {
+            "count" : 20,
+            "item" : "FY13-14"
+          }, {
+            "count" : 19,
+            "item" : "FY12-13"
+          }, {
+            "count" : 18,
+            "item" : "FY11-12"
+          }, {
+            "count" : 17,
+            "item" : "FY10-11"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150139756,
+        "name" : "JUL",
+        "dataTypeName" : "number",
+        "fieldName" : "jul",
+        "position" : 2,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19904899,
+        "width" : 50,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "6",
+          "sum" : "37",
+          "null" : 0,
+          "average" : "9.25",
+          "largest" : "12",
+          "top" : [ {
+            "count" : 20,
+            "item" : "12"
+          }, {
+            "count" : 19,
+            "item" : "10"
+          }, {
+            "count" : 18,
+            "item" : "6"
+          }, {
+            "count" : 17,
+            "item" : "9"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150139757,
+        "name" : "AUG",
+        "dataTypeName" : "number",
+        "fieldName" : "aug",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19904900,
+        "width" : 50,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "8",
+          "sum" : "39",
+          "null" : 0,
+          "average" : "9.75",
+          "largest" : "12",
+          "top" : [ {
+            "count" : 20,
+            "item" : "10"
+          }, {
+            "count" : 19,
+            "item" : "8"
+          }, {
+            "count" : 18,
+            "item" : "9"
+          }, {
+            "count" : 17,
+            "item" : "12"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150139758,
+        "name" : "SEPT",
+        "dataTypeName" : "number",
+        "fieldName" : "sept",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19904901,
+        "width" : 50,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "3",
+          "sum" : "31",
+          "null" : 0,
+          "average" : "7.75",
+          "largest" : "12",
+          "top" : [ {
+            "count" : 20,
+            "item" : "3"
+          }, {
+            "count" : 19,
+            "item" : "12"
+          }, {
+            "count" : 18,
+            "item" : "11"
+          }, {
+            "count" : 17,
+            "item" : "5"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150139759,
+        "name" : "OCT",
+        "dataTypeName" : "number",
+        "fieldName" : "oct",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19904902,
+        "width" : 50,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "7",
+          "sum" : "38",
+          "null" : 0,
+          "average" : "9.5",
+          "largest" : "13",
+          "top" : [ {
+            "count" : 20,
+            "item" : "13"
+          }, {
+            "count" : 19,
+            "item" : "7"
+          }, {
+            "count" : 18,
+            "item" : "9"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150139760,
+        "name" : "NOV",
+        "dataTypeName" : "number",
+        "fieldName" : "nov",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19904903,
+        "width" : 50,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "4",
+          "sum" : "26",
+          "null" : 0,
+          "average" : "6.5",
+          "largest" : "8",
+          "top" : [ {
+            "count" : 20,
+            "item" : "7"
+          }, {
+            "count" : 19,
+            "item" : "8"
+          }, {
+            "count" : 18,
+            "item" : "4"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150139761,
+        "name" : "DEC",
+        "dataTypeName" : "number",
+        "fieldName" : "dec",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19904904,
+        "width" : 50,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "5",
+          "sum" : "26",
+          "null" : 0,
+          "average" : "6.5",
+          "largest" : "9",
+          "top" : [ {
+            "count" : 20,
+            "item" : "7"
+          }, {
+            "count" : 19,
+            "item" : "9"
+          }, {
+            "count" : 18,
+            "item" : "5"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150139762,
+        "name" : "JAN",
+        "dataTypeName" : "number",
+        "fieldName" : "jan",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19904905,
+        "width" : 50,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "5",
+          "sum" : "34",
+          "null" : 0,
+          "average" : "8.5",
+          "largest" : "13",
+          "top" : [ {
+            "count" : 20,
+            "item" : "6"
+          }, {
+            "count" : 19,
+            "item" : "13"
+          }, {
+            "count" : 18,
+            "item" : "10"
+          }, {
+            "count" : 17,
+            "item" : "5"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150139763,
+        "name" : "FEB",
+        "dataTypeName" : "number",
+        "fieldName" : "feb",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19904906,
+        "width" : 50,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "4",
+          "sum" : "30",
+          "null" : 0,
+          "average" : "7.5",
+          "largest" : "13",
+          "top" : [ {
+            "count" : 20,
+            "item" : "5"
+          }, {
+            "count" : 19,
+            "item" : "8"
+          }, {
+            "count" : 18,
+            "item" : "13"
+          }, {
+            "count" : 17,
+            "item" : "4"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150139764,
+        "name" : "MAR",
+        "dataTypeName" : "number",
+        "fieldName" : "mar",
+        "position" : 10,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19904907,
+        "width" : 50,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "6",
+          "sum" : "34",
+          "null" : 0,
+          "average" : "8.5",
+          "largest" : "10",
+          "top" : [ {
+            "count" : 20,
+            "item" : "9"
+          }, {
+            "count" : 19,
+            "item" : "10"
+          }, {
+            "count" : 18,
+            "item" : "6"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150139765,
+        "name" : "APR",
+        "dataTypeName" : "number",
+        "fieldName" : "apr",
+        "position" : 11,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19904908,
+        "width" : 50,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "7",
+          "sum" : "38",
+          "null" : 0,
+          "average" : "9.5",
+          "largest" : "12",
+          "top" : [ {
+            "count" : 20,
+            "item" : "11"
+          }, {
+            "count" : 19,
+            "item" : "7"
+          }, {
+            "count" : 18,
+            "item" : "8"
+          }, {
+            "count" : 17,
+            "item" : "12"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150139766,
+        "name" : "MAY",
+        "dataTypeName" : "number",
+        "fieldName" : "may",
+        "position" : 12,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19904909,
+        "width" : 50,
+        "cachedContents" : {
+          "non_null" : 3,
+          "smallest" : "6",
+          "sum" : "24",
+          "null" : 1,
+          "average" : "8",
+          "largest" : "12",
+          "top" : [ {
+            "count" : 20,
+            "item" : "6"
+          }, {
+            "count" : 19,
+            "item" : "12"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150139767,
+        "name" : "JUN",
+        "dataTypeName" : "number",
+        "fieldName" : "jun",
+        "position" : 13,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19904910,
+        "width" : 50,
+        "cachedContents" : {
+          "non_null" : 3,
+          "smallest" : "5",
+          "sum" : "22",
+          "null" : 1,
+          "average" : "7.333333333333333",
+          "largest" : "10",
+          "top" : [ {
+            "count" : 20,
+            "item" : "5"
+          }, {
+            "count" : 19,
+            "item" : "7"
+          }, {
+            "count" : 18,
+            "item" : "10"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150139768,
+        "name" : "TOTAL",
+        "dataTypeName" : "number",
+        "fieldName" : "total",
+        "position" : 14,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19904911,
+        "width" : 50,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "83",
+          "sum" : "379",
+          "null" : 0,
+          "average" : "94.75",
+          "largest" : "103",
+          "top" : [ {
+            "count" : 20,
+            "item" : "83"
+          }, {
+            "count" : 19,
+            "item" : "103"
+          }, {
+            "count" : 18,
+            "item" : "94"
+          }, {
+            "count" : 17,
+            "item" : "99"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150139769,
+        "name" : "ADJUSTMENT",
+        "dataTypeName" : "number",
+        "fieldName" : "adjustment",
+        "position" : 15,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19904912,
+        "width" : 89,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "0",
+          "sum" : "10",
+          "null" : 0,
+          "average" : "2.5",
+          "largest" : "7",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0"
+          }, {
+            "count" : 19,
+            "item" : "2"
+          }, {
+            "count" : 18,
+            "item" : "7"
+          }, {
+            "count" : 17,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150139770,
+        "name" : "NET TOTAL",
+        "dataTypeName" : "number",
+        "fieldName" : "net_total",
+        "position" : 16,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19904913,
+        "width" : 85,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "83",
+          "sum" : "369",
+          "null" : 0,
+          "average" : "92.25",
+          "largest" : "101",
+          "top" : [ {
+            "count" : 20,
+            "item" : "83"
+          }, {
+            "count" : 19,
+            "item" : "101"
+          }, {
+            "count" : 18,
+            "item" : "87"
+          }, {
+            "count" : 17,
+            "item" : "98"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Harbor"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "jsonQuery" : {
+          "order" : [ {
+            "ascending" : true,
+            "columnFieldName" : "harbor_department"
+          } ]
+        },
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "2ib6-ssvz",
+        "displayName" : "Port of Los Angeles",
+        "profileImageUrlLarge" : "/images/profile/9654/0122/POLALogo2_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9654/0122/POLALogo2_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9654/0122/POLALogo2_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Port of Los Angeles",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+        "orderBys" : [ {
+          "ascending" : true,
+          "expression" : {
+            "columnId" : 150139755,
+            "type" : "column"
+          }
+        } ]
+      },
+      "rights" : [ "read" ],
+      "sortBys" : [ {
+        "id" : 0,
+        "viewColumnId" : 150139755,
+        "flags" : [ "asc" ]
+      } ],
+      "tableAuthor" : {
+        "id" : "2ib6-ssvz",
+        "displayName" : "Port of Los Angeles",
+        "profileImageUrlLarge" : "/images/profile/9654/0122/POLALogo2_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9654/0122/POLALogo2_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9654/0122/POLALogo2_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Port of Los Angeles",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "port" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 4, "963B9F2F-DE48-49B5-B256-C63B5257DF99", 4, 1400865320, "883431", 1400865320, "883431", "{\n}", "FY10-11", "9", "12", "5", "9", "7", "5", "5", "4", "9", "12", "12", "10", "99", "1", "98" ]
+, [ 3, "A34A9370-A62E-4983-9C10-D3DD028EC6DF", 3, 1400865320, "883431", 1400865320, "883431", "{\n}", "FY11-12", "6", "9", "11", "9", "4", "5", "10", "13", "6", "8", "6", "7", "94", "7", "87" ]
+, [ 2, "1EAD5A0F-0DE0-42B3-97A8-9744B9F99DC1", 2, 1400865320, "883431", 1400865320, "883431", "{\n}", "FY12-13", "10", "8", "12", "7", "8", "9", "13", "8", "10", "7", "6", "5", "103", "2", "101" ]
+, [ 1, "2C21A5B0-4E78-4478-B45D-5D71428C2D51", 1, 1400865320, "883431", 1400865320, "883431", "{\n}", "FY13-14", "12", "10", "3", "13", "7", "7", "6", "5", "9", "11", null, null, "83", "0", "83" ]
+ ]
+}

@@ -1,0 +1,492 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "qf8m-dzta",
+      "name" : "Multipurpose Senior Center Locations",
+      "attribution" : "Department of Aging",
+      "averageRating" : 0,
+      "category" : "A Prosperous City",
+      "createdAt" : 1401472778,
+      "description" : "Location of Multipurpose Senior Centers in the City of Los Angeles",
+      "displayType" : "table",
+      "downloadCount" : 11,
+      "indexUpdatedAt" : 1414614293,
+      "licenseId" : "PUBLIC_DOMAIN",
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8108088,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401479571,
+      "publicationGroup" : 1600320,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1401479567,
+      "rowsUpdatedBy" : "hhg6-ygkh",
+      "tableId" : 1600431,
+      "totalTimesRated" : 0,
+      "viewCount" : 67,
+      "viewLastModified" : 1401479571,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150646458,
+        "name" : "Index",
+        "dataTypeName" : "number",
+        "fieldName" : "index",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20018609,
+        "width" : 84,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "1",
+          "sum" : "136",
+          "null" : 0,
+          "average" : "8.5",
+          "largest" : "16",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          }, {
+            "count" : 19,
+            "item" : "2"
+          }, {
+            "count" : 18,
+            "item" : "3"
+          }, {
+            "count" : 17,
+            "item" : "4"
+          }, {
+            "count" : 16,
+            "item" : "5"
+          }, {
+            "count" : 15,
+            "item" : "6"
+          }, {
+            "count" : 14,
+            "item" : "7"
+          }, {
+            "count" : 13,
+            "item" : "8"
+          }, {
+            "count" : 12,
+            "item" : "9"
+          }, {
+            "count" : 11,
+            "item" : "10"
+          }, {
+            "count" : 10,
+            "item" : "11"
+          }, {
+            "count" : 9,
+            "item" : "12"
+          }, {
+            "count" : 8,
+            "item" : "13"
+          }, {
+            "count" : 7,
+            "item" : "14"
+          }, {
+            "count" : 6,
+            "item" : "15"
+          }, {
+            "count" : 5,
+            "item" : "16"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150646459,
+        "name" : "Senior Center Name",
+        "dataTypeName" : "text",
+        "fieldName" : "senior_center_name",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20018610,
+        "width" : 316,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "Alicia Broadus-Duncan Multipurpose Senior Ctr",
+          "null" : 0,
+          "largest" : "Wilmington Jaycees Foundation Inc.",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Int'l Institute of LA Multipurpose Senior Ctr"
+          }, {
+            "count" : 19,
+            "item" : "Felicia Mahood Multipurpose Senior Ctr"
+          }, {
+            "count" : 18,
+            "item" : "Freda Mohr Multipurpose Senior Ctr"
+          }, {
+            "count" : 17,
+            "item" : "ONEgeneration Senior Enrichment Ctr"
+          }, {
+            "count" : 16,
+            "item" : "PCS Multipurpose Senior Ctr"
+          }, {
+            "count" : 15,
+            "item" : "West Adams Multipurpose Senior Ctr"
+          }, {
+            "count" : 14,
+            "item" : "Alicia Broadus-Duncan Multipurpose Senior Ctr"
+          }, {
+            "count" : 13,
+            "item" : "Bernardi Multipurpose Senior Ctr"
+          }, {
+            "count" : 12,
+            "item" : "Southeast Valley Multipurpose Senior Ctr"
+          }, {
+            "count" : 11,
+            "item" : "Robert M. Wilkinson Multipurpose Senior Ctr"
+          }, {
+            "count" : 10,
+            "item" : "James Wood Memorial Community Center (SRO)"
+          }, {
+            "count" : 9,
+            "item" : "Hollywood Multipurpose Senior Center"
+          }, {
+            "count" : 8,
+            "item" : "St. Barnabas Multipurpose Senior Ctr"
+          }, {
+            "count" : 7,
+            "item" : "Bradley Multipurpose Senior Ctr"
+          }, {
+            "count" : 6,
+            "item" : "Theresa Lindsay Multipurpose Senior Ctr"
+          }, {
+            "count" : 5,
+            "item" : "Wilmington Jaycees Foundation Inc."
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150646460,
+        "name" : "Senior Center Address",
+        "dataTypeName" : "text",
+        "fieldName" : "senior_center_address",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20018611,
+        "width" : 352,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "10957 S. Central Ave., Los Angeles, CA 90059",
+          "null" : 0,
+          "largest" : "8956 Vanalden Ave., Northridge, CA 91324",
+          "top" : [ {
+            "count" : 20,
+            "item" : "435 S. Boyle Ave, Los Angeles, CA 90033"
+          }, {
+            "count" : 19,
+            "item" : "11338 Santa Monica Blvd., Los Angeles, CA 90025"
+          }, {
+            "count" : 18,
+            "item" : "330 N. Fairfax Ave, Los Angeles, CA 90036"
+          }, {
+            "count" : 17,
+            "item" : "18255 Victory Blvd., Reseda, CA 91335"
+          }, {
+            "count" : 16,
+            "item" : "5133 S. Crenshaw Blvd., Los Angeles, CA 90043"
+          }, {
+            "count" : 15,
+            "item" : "2528 West Blvd., Los Angeles, CA 90016"
+          }, {
+            "count" : 14,
+            "item" : "11300 Glenoaks Blvd., Pacoima, CA 91331"
+          }, {
+            "count" : 13,
+            "item" : "6514 Sylmar Ave., Van Nuys, CA 91401"
+          }, {
+            "count" : 12,
+            "item" : "5056 Van Nuys Blvd., Sherman Oaks, CA 91403"
+          }, {
+            "count" : 11,
+            "item" : "8956 Vanalden Ave., Northridge, CA 91324"
+          }, {
+            "count" : 10,
+            "item" : "400 E. 5th St., Los Angeles, CA 90013"
+          }, {
+            "count" : 9,
+            "item" : "1745 N. Gramercy Pl., Hollywood, CA 90028"
+          }, {
+            "count" : 8,
+            "item" : "675 S. Carondelet St., Los Angeles, CA 90057"
+          }, {
+            "count" : 7,
+            "item" : "10957 S. Central Ave., Los Angeles, CA 90059"
+          }, {
+            "count" : 6,
+            "item" : "429 E. 42nd Pl., Los Angeles, CA 90011"
+          }, {
+            "count" : 5,
+            "item" : "1371 N. Eubank Ave., Wilmington, CA 90744"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150646461,
+        "name" : "Location 1",
+        "dataTypeName" : "location",
+        "fieldName" : "location_1",
+        "position" : 4,
+        "renderTypeName" : "location",
+        "tableColumnId" : 20018612,
+        "width" : 571,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : {
+            "longitude" : "-118.449701",
+            "latitude" : "34.046094",
+            "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+          },
+          "null" : 0,
+          "largest" : {
+            "longitude" : "-118.256681",
+            "latitude" : "33.791579"
+          },
+          "top" : [ {
+            "count" : 20,
+            "item" : {
+              "longitude" : "-118.220138",
+              "latitude" : "34.042181"
+            }
+          }, {
+            "count" : 19,
+            "item" : {
+              "longitude" : "-118.449701",
+              "latitude" : "34.046094",
+              "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 18,
+            "item" : {
+              "longitude" : "-118.361133",
+              "latitude" : "34.077292",
+              "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 17,
+            "item" : {
+              "longitude" : "-118.530763",
+              "latitude" : "34.186907"
+            }
+          }, {
+            "count" : 16,
+            "item" : {
+              "longitude" : "-118.330923",
+              "latitude" : "33.9959"
+            }
+          }, {
+            "count" : 15,
+            "item" : {
+              "longitude" : "-118.34082",
+              "latitude" : "34.033503"
+            }
+          }, {
+            "count" : 14,
+            "item" : {
+              "longitude" : "-118.413066",
+              "latitude" : "34.276467"
+            }
+          }, {
+            "count" : 13,
+            "item" : {
+              "longitude" : "-118.446317",
+              "latitude" : "34.189285"
+            }
+          }, {
+            "count" : 12,
+            "item" : {
+              "longitude" : "-118.448375",
+              "latitude" : "34.163415"
+            }
+          }, {
+            "count" : 11,
+            "item" : {
+              "longitude" : "-118.548721",
+              "latitude" : "34.233544"
+            }
+          }, {
+            "count" : 10,
+            "item" : {
+              "longitude" : "-118.245",
+              "latitude" : "34.04458"
+            }
+          }, {
+            "count" : 9,
+            "item" : {
+              "longitude" : "-118.312685",
+              "latitude" : "34.103369"
+            }
+          }, {
+            "count" : 8,
+            "item" : {
+              "longitude" : "-118.254584",
+              "latitude" : "34.05953"
+            }
+          }, {
+            "count" : 7,
+            "item" : {
+              "longitude" : "-118.254584",
+              "latitude" : "33.935889"
+            }
+          }, {
+            "count" : 6,
+            "item" : {
+              "longitude" : "-118.265776",
+              "latitude" : "34.007056"
+            }
+          }, {
+            "count" : 5,
+            "item" : {
+              "longitude" : "-118.256681",
+              "latitude" : "33.791579"
+            }
+          } ]
+        },
+        "format" : {
+        },
+        "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Public Domain"
+      },
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Other"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0"
+      },
+      "owner" : {
+        "id" : "hhg6-ygkh",
+        "displayName" : "Aging OpenData",
+        "profileImageUrlLarge" : "/images/profile/8472/1449/City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/8472/1449/City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/8472/1449/City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Aging OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "hhg6-ygkh",
+        "displayName" : "Aging OpenData",
+        "profileImageUrlLarge" : "/images/profile/8472/1449/City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/8472/1449/City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/8472/1449/City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Aging OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "senior citizen", "service", "meals", "transportation", "assistance", "mpc", "multipurpose center" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "2ABC8758-2ACA-488F-9C9F-CF406942DF59", 1, 1401472781, "883737", 1401472781, "883737", "{\n}", "1", "Int'l Institute of LA Multipurpose Senior Ctr", "435 S. Boyle Ave, Los Angeles, CA 90033", [ null, "34.042180999999999", "-118.220138", null, false ] ]
+, [ 2, "DBA65B1E-5BEF-4352-9367-988DAF329E4C", 2, 1401472781, "883737", 1401479529, "883705", "{}", "2", "Felicia Mahood Multipurpose Senior Ctr", "11338 Santa Monica Blvd., Los Angeles, CA 90025", [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "34.046094", "-118.449701", null, false ] ]
+, [ 3, "A4762569-6A28-41C2-93F3-DD0B47CAC7F6", 3, 1401472781, "883737", 1401479509, "883705", "{}", "3", "Freda Mohr Multipurpose Senior Ctr", "330 N. Fairfax Ave, Los Angeles, CA 90036", [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "34.077292", "-118.361133", null, false ] ]
+, [ 4, "9FC734E4-7CFF-4B9A-A90E-39D7CCF00AED", 4, 1401472781, "883737", 1401472781, "883737", "{\n}", "4", "ONEgeneration Senior Enrichment Ctr", "18255 Victory Blvd., Reseda, CA 91335", [ null, "34.186906999999998", "-118.530763", null, false ] ]
+, [ 5, "96F0F210-9772-43F0-8412-D5CA63C868C7", 5, 1401472781, "883737", 1401479467, "883705", "{}", "5", "PCS Multipurpose Senior Ctr", "5133 S. Crenshaw Blvd., Los Angeles, CA 90043", [ null, "33.9959", "-118.330923", null, false ] ]
+, [ 6, "BE258DD7-C9DA-4233-8E7F-0DC0D4246762", 6, 1401472781, "883737", 1401472781, "883737", "{\n}", "6", "West Adams Multipurpose Senior Ctr", "2528 West Blvd., Los Angeles, CA 90016", [ null, "34.033503000000003", "-118.340820", null, false ] ]
+, [ 7, "EAA3E77F-5A38-41A6-AB23-95595676F5AE", 7, 1401472781, "883737", 1401472781, "883737", "{\n}", "7", "Alicia Broadus-Duncan Multipurpose Senior Ctr", "11300 Glenoaks Blvd., Pacoima, CA 91331", [ null, "34.276466999999997", "-118.413066", null, false ] ]
+, [ 8, "CDBA4239-A6BD-464D-8CA4-88520C296CC1", 8, 1401472781, "883737", 1401479496, "883705", "{}", "8", "Bernardi Multipurpose Senior Ctr", "6514 Sylmar Ave., Van Nuys, CA 91401", [ null, "34.189285", "-118.446317", null, false ] ]
+, [ 9, "EBC044AC-CA21-44A8-B45D-C5CB975BE5AC", 9, 1401472781, "883737", 1401472781, "883737", "{\n}", "9", "Southeast Valley Multipurpose Senior Ctr", "5056 Van Nuys Blvd., Sherman Oaks, CA 91403", [ null, "34.163415000000001", "-118.448375", null, false ] ]
+, [ 10, "0A3C63FE-0624-4080-BCFB-63BC865E016B", 10, 1401472781, "883737", 1401479549, "883705", "{}", "10", "Robert M. Wilkinson Multipurpose Senior Ctr", "8956 Vanalden Ave., Northridge, CA 91324", [ null, "34.233544", "-118.548721", null, false ] ]
+, [ 11, "95D7DA1E-AF31-4C76-B89E-AC9CD49E34EC", 11, 1401472781, "883737", 1401472781, "883737", "{\n}", "11", "James Wood Memorial Community Center (SRO)", "400 E. 5th St., Los Angeles, CA 90013", [ null, "34.044580000000003", "-118.245000", null, false ] ]
+, [ 12, "11E1AD7A-08B4-4A95-B862-8A4870EEA6EA", 12, 1401472781, "883737", 1401472781, "883737", "{\n}", "12", "Hollywood Multipurpose Senior Center", "1745 N. Gramercy Pl., Hollywood, CA 90028", [ null, "34.103369000000001", "-118.312685", null, false ] ]
+, [ 13, "8778DC1E-96CF-4ACA-9C83-383C8F6DFFC9", 13, 1401472781, "883737", 1401479567, "883705", "{}", "13", "St. Barnabas Multipurpose Senior Ctr", "675 S. Carondelet St., Los Angeles, CA 90057", [ null, "34.05953", "-118.254584", null, false ] ]
+, [ 14, "5FF36E56-6CEA-45D2-BD57-12A14F424D45", 14, 1401472781, "883737", 1401472781, "883737", "{\n}", "14", "Bradley Multipurpose Senior Ctr", "10957 S. Central Ave., Los Angeles, CA 90059", [ null, "33.935889000000003", "-118.254584", null, false ] ]
+, [ 15, "350FDB7F-4B02-4595-9CEE-D20C289C62BF", 15, 1401472781, "883737", 1401472781, "883737", "{\n}", "15", "Theresa Lindsay Multipurpose Senior Ctr", "429 E. 42nd Pl., Los Angeles, CA 90011", [ null, "34.007055999999999", "-118.265776", null, false ] ]
+, [ 16, "344236C0-DD2A-47B0-AA08-2EF2CE9E3C9B", 16, 1401472781, "883737", 1401472781, "883737", "{\n}", "16", "Wilmington Jaycees Foundation Inc.", "1371 N. Eubank Ave., Wilmington, CA 90744", [ null, "33.791578999999999", "-118.256681", null, false ] ]
+ ]
+}

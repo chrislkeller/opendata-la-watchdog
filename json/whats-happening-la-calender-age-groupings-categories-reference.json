@@ -1,0 +1,220 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "jx82-7rs5",
+      "name" : "What's Happening LA Calender - Age Groupings Categories - Reference",
+      "averageRating" : 0,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1399050530,
+      "description" : "age grouping catagories",
+      "displayType" : "table",
+      "downloadCount" : 7,
+      "indexUpdatedAt" : 1414614304,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 7903566,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1399050751,
+      "publicationGroup" : 1567361,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1399050589,
+      "rowsUpdatedBy" : "ujkb-kbnj",
+      "tableId" : 1567361,
+      "totalTimesRated" : 0,
+      "viewCount" : 56,
+      "viewLastModified" : 1401306626,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 146324341,
+        "name" : "Age Grouping",
+        "dataTypeName" : "text",
+        "fieldName" : "age_grouping",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19519781,
+        "width" : 244,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "Adult",
+          "null" : 29,
+          "largest" : "Young Adult",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Adult"
+          }, {
+            "count" : 19,
+            "item" : "Child"
+          }, {
+            "count" : 18,
+            "item" : "Teenager"
+          }, {
+            "count" : 17,
+            "item" : "Young Adult"
+          }, {
+            "count" : 16,
+            "item" : "Senior"
+          }, {
+            "count" : 15,
+            "item" : "All"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Information Technology"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "yb4r-dcys",
+        "displayName" : "ITA OpenData",
+        "profileImageUrlLarge" : "/images/profile/9462/4839/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9462/4839/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9462/4839/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "ITA OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "ujkb-kbnj",
+        "displayName" : "Joyce Edson",
+        "profileImageUrlLarge" : "/images/profile/9325/1160/avatar_for_fb_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9325/1160/avatar_for_fb_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9325/1160/avatar_for_fb_tiny.jpg",
+        "roleName" : "administrator",
+        "screenName" : "Joyce Edson",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 2, "030D4291-E4E7-4766-ACE8-8CD9B18E1DFA", 2, 1399050533, "862831", 1399050533, "862831", "{\n}", "Adult" ]
+, [ 3, "3E513997-64FF-46E2-B7FE-4127012518BB", 3, 1399050533, "862831", 1399050533, "862831", "{\n}", "Child" ]
+, [ 4, "77C376CD-A92B-4219-8F6C-02A2E4603A79", 4, 1399050533, "862831", 1399050533, "862831", "{\n}", "Teenager" ]
+, [ 5, "02EDA223-4913-4E6D-942B-2F0E32CE16D3", 5, 1399050533, "862831", 1399050533, "862831", "{\n}", "Young Adult" ]
+, [ 6, "BC7255E8-DE36-41C4-BB73-63A6426E4C4C", 6, 1399050533, "862831", 1399050533, "862831", "{\n}", "Senior" ]
+, [ 7, "77F64901-C6A2-4300-B93D-1D5490BBF268", 7, 1399050533, "862831", 1399050533, "862831", "{\n}", "All" ]
+, [ 8, "6BA78C77-74D3-4487-9FBD-6AC08E5EDA1F", 8, 1399050533, "862831", 1399050533, "862831", "{\n}", null ]
+, [ 9, "E5B99068-8A94-4AA2-A061-B126A113A600", 9, 1399050533, "862831", 1399050533, "862831", "{\n}", null ]
+, [ 10, "E7E3B19F-8E1E-4DDC-B6FA-7BFAFCE929BB", 10, 1399050533, "862831", 1399050533, "862831", "{\n}", null ]
+, [ 11, "2F508953-BACD-487F-ACFE-5A2F463B74A7", 11, 1399050533, "862831", 1399050533, "862831", "{\n}", null ]
+, [ 12, "EF226C23-CBDA-4BF2-BBB3-B8ED3EA4D3C5", 12, 1399050533, "862831", 1399050533, "862831", "{\n}", null ]
+, [ 13, "652B0EC3-AF56-4D5C-915F-926E4F03DA3C", 13, 1399050533, "862831", 1399050533, "862831", "{\n}", null ]
+, [ 14, "2B9358C4-FA3B-4CF9-BDE3-BC13431D3F2B", 14, 1399050533, "862831", 1399050533, "862831", "{\n}", null ]
+, [ 15, "C4784243-BF92-4D47-98D0-93DDA9D5C5F2", 15, 1399050533, "862831", 1399050533, "862831", "{\n}", null ]
+, [ 16, "0B51B481-3D1D-4216-882C-C5F6C682D97F", 16, 1399050533, "862831", 1399050533, "862831", "{\n}", null ]
+, [ 17, "AF0D9941-4554-4497-96A3-E405EB024D97", 17, 1399050533, "862831", 1399050533, "862831", "{\n}", null ]
+, [ 18, "B230202E-4E4A-4531-B9AB-9543A1998C95", 18, 1399050533, "862831", 1399050533, "862831", "{\n}", null ]
+, [ 19, "BFABC028-9DF4-4DD1-A2E8-C258FAE37D2C", 19, 1399050533, "862831", 1399050533, "862831", "{\n}", null ]
+, [ 20, "E541869A-DE04-43BF-BBA9-440C7A0D05D1", 20, 1399050533, "862831", 1399050533, "862831", "{\n}", null ]
+, [ 21, "320A43EF-FA95-488D-BD08-580225804B99", 21, 1399050533, "862831", 1399050533, "862831", "{\n}", null ]
+, [ 22, "5EA6EA5C-0561-4540-AE33-F6CC862DF0B7", 22, 1399050533, "862831", 1399050533, "862831", "{\n}", null ]
+, [ 23, "93347383-9764-4ACB-B05B-C249FC29923B", 23, 1399050533, "862831", 1399050533, "862831", "{\n}", null ]
+, [ 24, "EF08FC38-C981-4EA4-BEF8-A68FA73FFF93", 24, 1399050533, "862831", 1399050533, "862831", "{\n}", null ]
+, [ 25, "7473E73A-F65A-46CC-890D-DF7DC4E92BF3", 25, 1399050533, "862831", 1399050533, "862831", "{\n}", null ]
+, [ 26, "3EBA4E9E-11F9-40AD-97D2-45C4582AD641", 26, 1399050533, "862831", 1399050533, "862831", "{\n}", null ]
+, [ 27, "54CAC3EE-4C3F-4F6A-B9EA-15D6D916F078", 27, 1399050533, "862831", 1399050533, "862831", "{\n}", null ]
+, [ 28, "E5115FA9-68C4-4F38-8690-D487C3AC9E21", 28, 1399050533, "862831", 1399050533, "862831", "{\n}", null ]
+, [ 29, "68ABDFB5-0C25-4BDF-8AB4-369BE2958815", 29, 1399050533, "862831", 1399050533, "862831", "{\n}", null ]
+, [ 30, "B1C5EF9C-B45F-4273-9F36-DAD64C45C9C4", 30, 1399050533, "862831", 1399050533, "862831", "{\n}", null ]
+, [ 31, "AE22A978-81C9-4F7D-92D4-1F788F67E167", 31, 1399050533, "862831", 1399050533, "862831", "{\n}", null ]
+, [ 32, "00E3792A-FD8B-4264-B3EB-E443E64A0B59", 32, 1399050533, "862831", 1399050533, "862831", "{\n}", null ]
+, [ 33, "1C0557A8-5108-4BDB-AC8A-1C63176000AD", 33, 1399050533, "862831", 1399050533, "862831", "{\n}", null ]
+, [ 34, "7615997D-E97B-4FB9-8242-20809F6A9D39", 34, 1399050533, "862831", 1399050533, "862831", "{\n}", null ]
+, [ 35, "52FE0BC4-E3F2-4640-94BA-76CEA51AD582", 35, 1399050533, "862831", 1399050533, "862831", "{\n}", null ]
+, [ 36, "89A6912F-1335-4FFA-A972-74D275E4CD20", 36, 1399050533, "862831", 1399050533, "862831", "{\n}", null ]
+ ]
+}

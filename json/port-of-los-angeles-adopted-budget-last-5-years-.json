@@ -1,0 +1,487 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "7hg6-c9kc",
+      "name" : "Port of Los Angeles - Adopted Budget (Last 5 years)",
+      "attribution" : "Port of Los Angeles",
+      "averageRating" : 0,
+      "category" : "A Well Run City",
+      "createdAt" : 1398104169,
+      "description" : "Port of Los Angeles - Adopted Budget (Last 5 years)",
+      "displayType" : "table",
+      "downloadCount" : 4,
+      "indexUpdatedAt" : 1414613588,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8030109,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1400533649,
+      "publicationGroup" : 1553155,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1400533643,
+      "rowsUpdatedBy" : "g9i9-z6y7",
+      "tableId" : 1587626,
+      "totalTimesRated" : 0,
+      "viewCount" : 29,
+      "viewLastModified" : 1400533649,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 149120224,
+        "name" : "Fiscal Year",
+        "dataTypeName" : "text",
+        "fieldName" : "fiscal_year",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19297886,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 209,
+          "smallest" : "FY10",
+          "null" : 0,
+          "largest" : "FY14",
+          "top" : [ {
+            "count" : 20,
+            "item" : "FY10"
+          }, {
+            "count" : 19,
+            "item" : "FY11"
+          }, {
+            "count" : 18,
+            "item" : "FY12"
+          }, {
+            "count" : 17,
+            "item" : "FY13"
+          }, {
+            "count" : 16,
+            "item" : "FY14"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149120225,
+        "name" : "Account Name",
+        "dataTypeName" : "text",
+        "fieldName" : "account_name",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19297887,
+        "width" : 244,
+        "cachedContents" : {
+          "non_null" : 209,
+          "smallest" : "510 - Salaries - Regular",
+          "null" : 0,
+          "largest" : "Unappropriated Balance/Carried Forward",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Debt Repayments"
+          }, {
+            "count" : 19,
+            "item" : "Restricted Cash"
+          }, {
+            "count" : 18,
+            "item" : "Unappropriated Balance/Carried Forward"
+          }, {
+            "count" : 17,
+            "item" : "Future Commitments"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149120226,
+        "name" : " Appropriation Amount ",
+        "dataTypeName" : "money",
+        "fieldName" : "appropriation_amount",
+        "position" : 4,
+        "renderTypeName" : "money",
+        "tableColumnId" : 19297888,
+        "width" : 364,
+        "cachedContents" : {
+          "non_null" : 209,
+          "smallest" : "-70000000",
+          "sum" : "5044229215",
+          "null" : 0,
+          "average" : "24135068.01435407",
+          "largest" : "399913430",
+          "top" : [ {
+            "count" : 20,
+            "item" : "26235000"
+          }, {
+            "count" : 19,
+            "item" : "98085765"
+          }, {
+            "count" : 18,
+            "item" : "236173540"
+          }, {
+            "count" : 17,
+            "item" : "32015000"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149120227,
+        "name" : "Expense Categories",
+        "dataTypeName" : "text",
+        "fieldName" : "expense_categories",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19297889,
+        "width" : 316,
+        "cachedContents" : {
+          "non_null" : 209,
+          "smallest" : "Benefits",
+          "null" : 0,
+          "largest" : "Unappropriated Balance",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Salaries"
+          }, {
+            "count" : 19,
+            "item" : "Benefits"
+          }, {
+            "count" : 18,
+            "item" : "Expenditure"
+          }, {
+            "count" : 17,
+            "item" : "Other"
+          }, {
+            "count" : 16,
+            "item" : "Debt Service"
+          }, {
+            "count" : 15,
+            "item" : "Equipment"
+          }, {
+            "count" : 14,
+            "item" : "Reserve"
+          }, {
+            "count" : 13,
+            "item" : "Unappropriated Balance"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Harbor"
+          }
+        }
+      },
+      "owner" : {
+        "id" : "2ib6-ssvz",
+        "displayName" : "Port of Los Angeles",
+        "profileImageUrlLarge" : "/images/profile/9654/0122/POLALogo2_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9654/0122/POLALogo2_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9654/0122/POLALogo2_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Port of Los Angeles",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "2ib6-ssvz",
+        "displayName" : "Port of Los Angeles",
+        "profileImageUrlLarge" : "/images/profile/9654/0122/POLALogo2_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9654/0122/POLALogo2_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9654/0122/POLALogo2_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Port of Los Angeles",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "budget" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "D952D565-0F42-474E-AEC4-1BFCBC4024B2", 1, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "510 - Salaries - Regular", "60782097", "Salaries" ]
+, [ 2, "F9CA3E80-C6CB-4402-9CB3-5A7291D71C5B", 2, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "511 - Salaries - Overtime", "5015147", "Salaries" ]
+, [ 3, "1F1E0435-DD9D-4AE6-9E3C-40C4DD545A08", 3, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "516 - Employee Benefits", "32911815", "Benefits" ]
+, [ 4, "481950EC-4CAC-45C2-8AB6-E7F03BB21C52", 4, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "517 - Paid Employee Benefits", "1843854", "Benefits" ]
+, [ 5, "0F437958-EC7A-48A6-BCA1-9D671F505D16", 5, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "520 - Advertising & Public Relations", "3375458", "Expenditure" ]
+, [ 6, "B4DE31DA-05C4-4AB3-83BE-3B926CA5E4FA", 6, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "521 - Domestic Trade Rep.", "63000", "Expenditure" ]
+, [ 7, "E5F59CA1-3D90-4BE1-915E-1E48007626FE", 7, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "522 - Foreign Trade Rep.", "687163", "Expenditure" ]
+, [ 8, "CCBC4F7D-FA2E-4AA4-A92A-A5964D2F0DB3", 8, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "530 - Domestic Travel", "462833", "Expenditure" ]
+, [ 9, "7C88FDEF-741D-4180-BD3D-F9DED0A8C615", 9, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "531 - Foreign Travel", "362500", "Expenditure" ]
+, [ 10, "B67C33F3-E7EA-420A-A5DA-0284FB93C2E0", 10, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "532 - Local Travel", "101200", "Expenditure" ]
+, [ 11, "0269061F-4189-4A01-BA4E-31792EA85E5B", 11, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "533 - Credit Card Charges", "900", "Expenditure" ]
+, [ 12, "53D64775-EACF-440A-9E27-627BA1F08FA7", 12, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "540 - Maintenance Services", "7019201", "Expenditure" ]
+, [ 13, "464D2B26-390B-4354-B7B8-81A4908B1FFE", 13, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "541 - Office Equipment Maintenance Services", "2516983", "Expenditure" ]
+, [ 14, "66DF642C-0647-44A3-AC3F-3F5238C9CFE1", 14, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "542 - Misc. Professional Services", "22840960", "Expenditure" ]
+, [ 15, "9EF0E3FA-11C7-4D44-96C8-65B84712F505", 15, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "543 - Data Processing Services", "2405653", "Expenditure" ]
+, [ 16, "15B62601-32AD-484D-B71B-7661C805CCE0", 16, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "544 - Financial Services", "5556118", "Expenditure" ]
+, [ 17, "AAB07E9A-A043-4C6C-86E0-071AD24D4F72", 17, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "545 - Capital Construction Svc.", "-368066", "Expenditure" ]
+, [ 18, "CA3C360D-15E4-4C9B-9D87-B2CFCE013BFD", 18, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "550 - Maintenance & Other Supplies", "3382430", "Expenditure" ]
+, [ 19, "6BFEB3E1-47B9-4AEC-A77F-639A792CEFC5", 19, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "551 - Admin. & Oper. Supplies", "3644830", "Expenditure" ]
+, [ 20, "CEDEEA2A-D34E-4597-8FA0-016C41EEB27B", 20, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "570 - City Services", "32392180", "Expenditure" ]
+, [ 21, "C23150D7-60EF-4001-83BD-23F56A6BAF66", 21, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "580 - Allocations", "-7165819", "Expenditure" ]
+, [ 22, "452DEDA9-09C2-4B11-A70B-82B89E6C7434", 22, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "590 - Equipment Rental - Maintenance", "425300", "Expenditure" ]
+, [ 23, "26D67F49-8EE4-45B7-9A15-E88570AF88AD", 23, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "591 - Equipment Rental - Non-Maintenance", "135000", "Expenditure" ]
+, [ 24, "E4CE20C9-A17E-4BAE-8164-D6608ACED57A", 24, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "592 - Memberships & Subscriptions", "685678", "Expenditure" ]
+, [ 25, "00B89423-EBB5-4FB9-BC7A-1CC6433DE5AC", 25, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "593 - Insurance", "3627000", "Expenditure" ]
+, [ 26, "3B196F7A-D352-4BEC-841F-9404B1FF53CE", 26, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "594 - Telephone", "1889515", "Expenditure" ]
+, [ 27, "30A46E72-B2CA-4FE4-8031-8887DC157D34", 27, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "595 - Utilities", "4545633", "Expenditure" ]
+, [ 28, "314C7BD7-BCC9-496C-8639-B9DC1160C068", 28, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "596 - Claims & Settlements", "10706700", "Expenditure" ]
+, [ 29, "EC036967-4EAE-4EF9-8C0F-8B182E8F9F05", 29, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "597 - Taxes, Assessments, & Fees", "707091", "Expenditure" ]
+, [ 30, "82F809A6-00DF-4619-9ED9-F720865887FB", 30, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "599 - Other Operating Expense", "59855991", "Expenditure" ]
+, [ 31, "30E78B19-0A11-4D62-B7F0-2062CEE8C1AA", 31, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "820 - Interest Expense - Notes", "107956", "Other" ]
+, [ 32, "31423069-BC24-4EF2-9141-C5102B93872E", 32, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "830 - Interest Expense - Bonds", "35878644", "Debt Service" ]
+, [ 33, "03B3B932-6003-4844-A037-7D12B938A310", 33, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "890 - Other Non-Operating Expense", "5675717", "Other" ]
+, [ 34, "36C6034F-2A8B-49A1-83C3-60CE46C9CE99", 34, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "Capitalized & Allocated Expenditures", "7845748", "Other" ]
+, [ 35, "CAAAA3CB-720F-464F-9B3C-19B9AD523615", 35, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "Debt Service from CIP", "13379719", "Debt Service" ]
+, [ 36, "D8125D1B-D5E6-4BDC-86C5-6F0047F56F8B", 36, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "Land and Property Acquisition", "2465000", "Other" ]
+, [ 37, "92AA0F4D-B9F4-4A6F-B38D-8D9D59CDDBB0", 37, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "Equipment Purchases", "12664369", "Equipment" ]
+, [ 38, "F0D0153D-D4D1-4DD7-A584-4B653003EF45", 38, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "Construction and Capital Improvements", "340497479", "Other" ]
+, [ 39, "E0888789-E739-4E96-ABBA-65FF15F1FF32", 39, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "Restricted Cash", "177186897", "Reserve" ]
+, [ 40, "99BB7BE3-DF59-48A4-BB57-FC6A839C0EE4", 40, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "Unappropriated Balance/Carried Forward", "214035007", "Unappropriated Balance" ]
+, [ 41, "54606FCC-2343-4882-8431-01D1C1EE5540", 41, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "Balance Sheet Transactions I", "25075000", "Debt Service" ]
+, [ 42, "38EBB4CF-C86D-4AB9-A311-5253244F8C01", 42, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "Balance Sheet Transactions II", "2535795", "Other" ]
+, [ 43, "1F80CB69-2DC2-49C9-A353-8F4C680A711B", 43, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY10", "Future Commitments", "35056346", "Other" ]
+, [ 44, "E2BF8D2E-9FBA-4D7A-914A-817A62F98E81", 44, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "510 - Salaries - Regular", "61252003", "Salaries" ]
+, [ 45, "1E610490-169B-4C03-959A-FC64AC7645A9", 45, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "511 - Salaries - Overtime", "5038406", "Salaries" ]
+, [ 46, "859C70FC-2071-4C2E-A640-FF154BEA28E1", 46, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "516 - Employee Benefits", "40101113", "Benefits" ]
+, [ 47, "01DDD532-451D-492A-A22B-4138B680D17A", 47, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "517 - Paid Employee Benefits", "1818748", "Benefits" ]
+, [ 48, "F6870408-A547-471E-B884-28380C27A728", 48, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "520 - Advertising & Public Relations", "3253559", "Expenditure" ]
+, [ 49, "AA1A068F-B5FC-4A95-AD2E-6880986544A3", 49, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "521 - Domestic Trade Rep.", "75000", "Expenditure" ]
+, [ 50, "37226D24-66A4-4B64-BC89-83A41E5873B0", 50, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "522 - Foreign Trade Rep.", "584000", "Expenditure" ]
+, [ 51, "D9A849DD-9851-4BDB-A54C-95BFC2CBCB35", 51, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "530 - Domestic Travel", "389442", "Expenditure" ]
+, [ 52, "D244A935-C6ED-41EA-A36F-FFC95CCC8737", 52, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "531 - Foreign Travel", "392000", "Expenditure" ]
+, [ 53, "3CD1826E-44C1-4800-8DD7-6477FC50A6A8", 53, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "532 - Local Travel", "104821", "Expenditure" ]
+, [ 54, "054FB77E-58CE-442F-AD89-17CEB297B66A", 54, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "533 - Credit Card Charges", "200", "Expenditure" ]
+, [ 55, "764F4428-9B7C-475B-915C-DF27743E8A84", 55, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "540 - Maintenance Services", "8418945", "Expenditure" ]
+, [ 56, "4B98F55A-120D-4009-B1DB-9E676F914B35", 56, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "541 - Office Equipment Maintenance Services", "2646524", "Expenditure" ]
+, [ 57, "FCF801D9-2FD9-4D56-AB94-F6FA7F4AC936", 57, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "542 - Misc. Professional Services", "21356251", "Expenditure" ]
+, [ 58, "FE2FCDA3-4B95-4732-91EF-C58426070DD5", 58, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "543 - Data Processing Services", "1738388", "Expenditure" ]
+, [ 59, "0E6D4C48-1F37-452B-B10A-F02FBE6EE41A", 59, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "544 - Financial Services", "3117063", "Expenditure" ]
+, [ 60, "BFEE57CC-615F-44EE-9E4A-4F558A10AA51", 60, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "550 - Maintenance & Other Supplies", "4076599", "Expenditure" ]
+, [ 61, "FEC98A4E-0D81-45F2-AA84-AC0C56C5BCAE", 61, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "551 - Admin. & Oper. Supplies", "3334005", "Expenditure" ]
+, [ 62, "93A97E77-0420-4714-9C5C-D969C6513450", 62, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "570 - City Services", "38928031", "Expenditure" ]
+, [ 63, "58C47386-E6F8-4155-BFB1-1C5D2DB9C077", 63, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "580 - Allocations", "-7000000", "Expenditure" ]
+, [ 64, "26B94B60-6A8B-4BA3-B7D0-1AEB75F8313C", 64, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "590 - Equipment Rental - Maintenance", "535357", "Expenditure" ]
+, [ 65, "9C770A92-C764-4184-93F9-2B36491FD59F", 65, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "591 - Equipment Rental - Non-Maintenance", "185000", "Expenditure" ]
+, [ 66, "320EF954-7A38-4CA5-85A4-72F1BBC0E60F", 66, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "592 - Memberships & Subscriptions", "613188", "Expenditure" ]
+, [ 67, "EA769219-97F2-4F26-815B-02FF95295D9E", 67, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "593 - Insurance", "3672000", "Expenditure" ]
+, [ 68, "1BF25F4D-F451-4F30-B2CD-C071A1D3B522", 68, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "594 - Telephone", "1975136", "Expenditure" ]
+, [ 69, "A5B404BD-595B-4332-BAD7-3A07099E0F86", 69, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "595 - Utilities", "4909315", "Expenditure" ]
+, [ 70, "2A1B0761-F423-4820-BEBF-F8B62045BED8", 70, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "596 - Claims & Settlements", "6500000", "Expenditure" ]
+, [ 71, "D173372B-7483-4FBC-9575-32432B973804", 71, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "597 - Taxes, Assessments, & Fees", "710813", "Expenditure" ]
+, [ 72, "628F8E72-8CEB-4216-AAD1-ADC77CE15C47", 72, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "599 - Other Operating Expense", "12550660", "Expenditure" ]
+, [ 73, "52253375-CAC4-4D98-AE64-3EE14866395A", 73, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "820 - Interest Expense - Notes", "86153", "Other" ]
+, [ 74, "1EEAE1F3-1AC6-45AA-91B4-33F6BA8106CE", 74, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "830 - Interest Expense - Bonds", "34211823", "Debt Service" ]
+, [ 75, "474F3B3E-35CB-4484-808B-4AE57D5E5E05", 75, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "890 - Other Non-Operating Expense", "3064263", "Other" ]
+, [ 76, "6D4E98EC-0CE5-4BF9-A477-DDA207672E77", 76, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "Capitalized & Allocated Expenditures", "8810546", "Other" ]
+, [ 77, "064B7F7E-5E8C-4DCF-AA9E-4E1E01561FFE", 77, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "Debt Service from CIP", "9390374", "Debt Service" ]
+, [ 78, "1CB5FF71-C02F-47F8-8F78-E2A0CA2A73EB", 78, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "Equipment Purchases", "12451778", "Equipment" ]
+, [ 79, "4F385B82-008E-40F4-922A-4254AE24F070", 79, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "Construction and Capital Improvements", "235622829", "Other" ]
+, [ 80, "0FB61D32-E887-43C0-B4E9-1C2B8AC9C4D0", 80, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "New Debt issuance", "-20000000", "Other" ]
+, [ 81, "8D3993DB-2EAE-4E96-BA4F-FA467314E50B", 81, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "Restricted Cash", "131342607", "Reserve" ]
+, [ 82, "A35F8C85-132B-4440-BEFB-9CA7CBDB8211", 82, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "Unappropriated Balance/Carried Forward", "213390133", "Unappropriated Balance" ]
+, [ 83, "A880739B-6385-4901-82F7-5EDE3E0C79F4", 83, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "Balance Sheet Transactions I", "29686256", "Debt Service" ]
+, [ 84, "C8FCF6A1-3E40-4376-9820-A9F226FE1B8E", 84, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "Balance Sheet Transactions II", "-3319084", "Other" ]
+, [ 85, "42A5411C-236C-4533-A7A6-FA810BFAF8AB", 85, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY11", "Future Commitments", "33571539", "Other" ]
+, [ 86, "BAFFEBDD-01D6-46B7-848A-DE748CFC99AC", 86, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "510 - Salaries - Regular", "61583071", "Salaries" ]
+, [ 87, "6526A202-8367-4D03-9763-9995A187CA42", 87, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "511 - Salaries - Overtime", "4955596", "Salaries" ]
+, [ 88, "B7615C67-0343-4A98-B359-86F476D672E9", 88, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "516 - Employee Benefits", "42501524", "Benefits" ]
+, [ 89, "106AD3B3-8310-49FB-BE93-DF032A3F387B", 89, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "517 - Paid Employee Benefits", "1590710", "Benefits" ]
+, [ 90, "6A4E0E7F-FBFD-4352-B66E-08DE186B2705", 90, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "520 - Advertising & Public Relations", "3410663", "Expenditure" ]
+, [ 91, "34F321A6-4545-41E8-ADE5-A90BA9E1C2BF", 91, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "521 - Domestic Trade Rep.", "85000", "Expenditure" ]
+, [ 92, "C0142505-87D0-4FD9-A994-D0BE5EA76B24", 92, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "522 - Foreign Trade Rep.", "459000", "Expenditure" ]
+, [ 93, "BC6CBE3E-2AE4-4EDA-A65A-0E4996896155", 93, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "530 - Domestic Travel", "356753", "Expenditure" ]
+, [ 94, "5F167993-4AA0-49CD-AA89-ED1F6DD28AB8", 94, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "531 - Foreign Travel", "422500", "Expenditure" ]
+, [ 95, "9EA2DBBD-A2B7-474B-BD95-08C4BEEBD642", 95, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "532 - Local Travel", "93122", "Expenditure" ]
+, [ 96, "A789EC48-F15F-4E3B-B036-27E9C181B5B6", 96, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "533 - Credit Card Charges", "200", "Expenditure" ]
+, [ 97, "1AF467B5-70B8-4FA8-B820-CE92D5E09D41", 97, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "540 - Maintenance Services", "7346077", "Expenditure" ]
+, [ 98, "598793C3-7447-4326-A8B1-2D95868B3171", 98, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "541 - Office Equipment Maintenance Services", "2851504", "Expenditure" ]
+, [ 99, "59E24177-E417-47BC-A795-62549D49C82F", 99, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "542 - Misc. Professional Services", "21584749", "Expenditure" ]
+, [ 100, "DC55CC87-E7BD-4025-85CD-D01D83C66608", 100, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "543 - Data Processing Services", "2558515", "Expenditure" ]
+, [ 101, "6EC6A89B-4386-4B2B-9483-84100177AFAA", 101, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "544 - Financial Services", "2257091", "Expenditure" ]
+, [ 102, "C8A4DC71-55AD-4D8D-8BCA-74E74304F1E2", 102, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "550 - Maintenance & Other Supplies", "4309116", "Expenditure" ]
+, [ 103, "2C2C4A03-4DF2-4E0A-89DB-F72CB803B7CC", 103, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "551 - Admin. & Oper. Supplies", "3002369", "Expenditure" ]
+, [ 104, "F16737CC-6201-4DDD-B287-0DAB6E4DB6FA", 104, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "570 - City Services", "40324948", "Expenditure" ]
+, [ 105, "30F2ED10-C622-4989-A085-80A1AB7B5E0A", 105, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "580 - Allocations", "-6210000", "Expenditure" ]
+, [ 106, "C1880D85-2B77-4443-A730-64ECBE898E6A", 106, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "590 - Equipment Rental - Maintenance", "410472", "Expenditure" ]
+, [ 107, "51D7431B-19F0-4C28-9EE9-CA442218CBA0", 107, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "591 - Equipment Rental - Non-Maintenance", "114000", "Expenditure" ]
+, [ 108, "022192B6-3BDC-4996-8246-359E00F49A63", 108, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "592 - Memberships & Subscriptions", "580124", "Expenditure" ]
+, [ 109, "026206BE-D9F8-4C34-9CCE-163CEE634723", 109, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "593 - Insurance", "3660500", "Expenditure" ]
+, [ 110, "F45490D8-616A-4BC6-841F-6336F3E04779", 110, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "594 - Telephone", "1823286", "Expenditure" ]
+, [ 111, "3B9B628E-F48F-4C05-A9FC-68605ACA3FBA", 111, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "595 - Utilities", "5895000", "Expenditure" ]
+, [ 112, "3E4ECCFC-9E4A-4A3B-B9B9-7948609EEAE8", 112, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "596 - Claims & Settlements", "9416000", "Expenditure" ]
+, [ 113, "2DA69298-DA8F-466B-963C-CE931E92C45D", 113, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "597 - Taxes, Assessments, & Fees", "855345", "Expenditure" ]
+, [ 114, "B1A5FE13-7418-4EAD-B49E-F74D4A370CB9", 114, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "599 - Other Operating Expense", "9381050", "Expenditure" ]
+, [ 115, "53951877-1205-447E-B864-7E927FF45540", 115, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "820 - Interest Expense - Notes", "63369", "Other" ]
+, [ 116, "0F726D8F-3134-4934-8820-67512C7AEAAB", 116, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "830 - Interest Expense - Bonds", "3111893", "Debt Service" ]
+, [ 117, "0A46EFBD-3A60-4995-9142-4F040947705F", 117, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "831 - Interest Expense - Commercial Paper", "330260", "Debt Service" ]
+, [ 118, "51D6591C-ED85-48DC-9ECB-27A9C67FD076", 118, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "890 - Other Non-Operating Expense", "29452306", "Other" ]
+, [ 119, "391E01E8-FB41-49B8-9423-E923DF6A1A9A", 119, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "Capitalized & Allocated Expenditures", "8883887", "Other" ]
+, [ 120, "42E06A4C-D777-4336-A69C-C81692C35938", 120, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "Debt Service from CIP", "39169048", "Debt Service" ]
+, [ 121, "9AD28212-512E-49C6-BE96-726574EB86AA", 121, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "Equipment Purchases", "13263560", "Equipment" ]
+, [ 122, "82ABAE8B-2353-4938-A09E-445A222BDE14", 122, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "Construction and Capital Improvements", "229720433", "Other" ]
+, [ 123, "215D5770-6BE5-404A-9BC8-12D84CE772E4", 123, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "Restricted Cash", "119678931", "Reserve" ]
+, [ 124, "4ECCB1EC-5F6F-48BE-A62D-9D62F59F8EFE", 124, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "Unappropriated Balance/Carried Forward", "243296386", "Unappropriated Balance" ]
+, [ 125, "5581868A-5D9A-4572-A1BA-2CBB374033B4", 125, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "Balance Sheet Transactions I", "30958137", "Debt Service" ]
+, [ 126, "8273D8F1-2743-4FEC-85C2-9AC64277A2A3", 126, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "Balance Sheet Transactions II", "-1473255", "Other" ]
+, [ 127, "F415C5B0-F2B8-4A9F-920F-12553BC664F0", 127, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY12", "Future Commitments", "34512163", "Other" ]
+, [ 128, "F7DDDD09-6A7E-45E8-ACDF-BEE98C3361CB", 128, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "510 - Salaries - Regular", "62070779", "Salaries" ]
+, [ 129, "C682D433-DA50-4164-9741-177EB0203DBB", 129, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "511 - Salaries - Overtime", "4649601", "Salaries" ]
+, [ 130, "ECB1B95B-5C9A-43BC-8081-E2295BB9759B", 130, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "516 - Employee Benefits", "39540547", "Benefits" ]
+, [ 131, "9BE3EAAC-80D6-4808-BC96-6361384593F8", 131, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "517 - Paid Employee Benefits", "1959694", "Benefits" ]
+, [ 132, "D64FE8C6-3068-4A1C-ACC2-AB2AB14E8039", 132, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "520 - Advertising & Public Relations", "3070245", "Expenditure" ]
+, [ 133, "FD8E08BA-AAC9-45FF-BB50-2EB5B2309483", 133, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "521 - Domestic Trade Rep.", "85000", "Expenditure" ]
+, [ 134, "2E4EDBB6-BE7D-45D8-A644-1D22AF7032DB", 134, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "522 - Foreign Trade Rep.", "459000", "Expenditure" ]
+, [ 135, "1C3B3D57-46CE-4ED1-A6DE-C4E15E1917F5", 135, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "530 - Domestic Travel", "388969", "Expenditure" ]
+, [ 136, "5E0B2302-DFE4-472E-BB40-0A495061DCF2", 136, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "531 - Foreign Travel", "447750", "Expenditure" ]
+, [ 137, "B08292F8-2780-46F7-9BB7-EF371484F7B1", 137, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "532 - Local Travel", "88500", "Expenditure" ]
+, [ 138, "CBAA2A7C-204D-46AA-B987-86508E9E0F8E", 138, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "533 - Credit Card Charges", "200", "Expenditure" ]
+, [ 139, "AA3ADB1C-79BB-4002-9317-9555F8A6867B", 139, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "540 - Maintenance Services", "6872296", "Expenditure" ]
+, [ 140, "C37756AA-A5AE-4CF0-A982-0627A017DAEE", 140, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "541 - Office Equipment Maintenance Services", "3486673", "Expenditure" ]
+, [ 141, "23EBD3E5-214D-4D22-8403-4F143307777D", 141, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "542 - Misc. Professional Services", "20638722", "Expenditure" ]
+, [ 142, "A98626A9-074E-4930-9ACC-BD92F41DCA6A", 142, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "543 - Data Processing Services", "2639000", "Expenditure" ]
+, [ 143, "0636B9F0-6B6B-4E70-A2DC-9093653FD83B", 143, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "544 - Financial Services", "1579820", "Expenditure" ]
+, [ 144, "2585FDFE-2921-48EB-81A7-E034916FCE89", 144, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "550 - Maintenance & Other Supplies", "4410213", "Expenditure" ]
+, [ 145, "94A8B5D5-EB76-4038-8C43-4D6241C857CD", 145, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "551 - Admin. & Oper. Supplies", "3224857", "Expenditure" ]
+, [ 146, "CF604AD4-2571-48FB-85B9-71E9A0177126", 146, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "570 - City Services", "36149991", "Expenditure" ]
+, [ 147, "65620BD3-C9F7-4918-B7CE-E015B50C3558", 147, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "580 - Allocations", "-9000000", "Expenditure" ]
+, [ 148, "CAFE347B-ECBC-4381-BF44-9949B9874BA4", 148, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "590 - Equipment Rental - Maintenance", "478865", "Expenditure" ]
+, [ 149, "1139E7FA-ADCF-431F-9FF8-85161C17538E", 149, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "591 - Equipment Rental - Non-Maintenance", "44000", "Expenditure" ]
+, [ 150, "02D0D1A8-2427-4601-9E89-43E58ADEA20E", 150, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "592 - Memberships & Subscriptions", "622794", "Expenditure" ]
+, [ 151, "D928164E-1587-45AD-9A8E-5A7B5D3E4460", 151, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "593 - Insurance", "3683000", "Expenditure" ]
+, [ 152, "8FE5E578-AE83-4E7B-8521-9F3FE6FB3642", 152, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "594 - Telephone", "1808838", "Expenditure" ]
+, [ 153, "29E19DA2-8C29-4B87-A75F-C7E838DD55F2", 153, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "595 - Utilities", "6186000", "Expenditure" ]
+, [ 154, "37A8B534-D48A-4634-BE9C-4AB456D992C2", 154, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "596 - Claims & Settlements", "8300000", "Expenditure" ]
+, [ 155, "77812B7D-7911-4EF0-B9C0-37159C60A112", 155, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "597 - Taxes, Assessments, & Fees", "579653", "Expenditure" ]
+, [ 156, "A0DABA3B-6B14-4EFA-886D-1C62222717B0", 156, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "599 - Other Operating Expense", "8587050", "Expenditure" ]
+, [ 157, "254AA0AF-CED4-4FD9-B4E5-237E3F60C6E6", 157, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "820 - Interest Expense - Notes", "39560", "Other" ]
+, [ 158, "3B88B868-E610-4129-87B2-87CA713EDA01", 158, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "830 - Interest Expense - Bonds", "2169877", "Debt Service" ]
+, [ 159, "AE66DD25-6B5E-43B5-A65C-24B47AD070D0", 159, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "831 - Interest Expense - Commercial Paper", "1200000", "Debt Service" ]
+, [ 160, "7037E73C-6E0C-4C1F-8800-35209EBEA812", 160, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "890 - Other Non-Operating Expense", "25195678", "Other" ]
+, [ 161, "FA5C30A4-C75F-4DF8-9561-855997916C2D", 161, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "Capitalized & Allocated Expenditures", "10466626", "Other" ]
+, [ 162, "C471743B-DBA4-4269-A26F-20C1E0FA0620", 162, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "Debt Service from CIP", "35891568", "Debt Service" ]
+, [ 163, "F2643CB0-7CC4-4B69-8AE4-335DDD14C14D", 163, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "Equipment Purchases", "8611532", "Equipment" ]
+, [ 164, "BD38A371-56FF-4E8F-B229-9FA00C75F305", 164, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "Construction and Capital Improvements", "285705381", "Other" ]
+, [ 165, "F14F6EF8-64E0-4AA2-8272-B1473AA84803", 165, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "New Debt Issuance", "-70000000", "Other" ]
+, [ 166, "ED7A8569-2EF3-42F6-A8A9-7684FD5B6BAB", 166, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "Restricted Cash", "148196259", "Reserve" ]
+, [ 167, "D4DB9270-A01A-4380-8CF2-ED7E38995BB2", 167, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "Unappropriated Balance/Carried Forward", "260334281", "Unappropriated Balance" ]
+, [ 168, "DB2E4BB4-7DB6-4897-86FE-14DCE9829F65", 168, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "Balance Sheet Transactions I", "49916004", "Debt Service" ]
+, [ 169, "77053C71-1B37-4093-88DD-D472B2853F2B", 169, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "Balance Sheet Transactions II", "-48663222", "Other" ]
+, [ 170, "B06CB69F-65EE-4283-8D6F-55C500F543A9", 170, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY13", "Future Commitments", "32016231", "Other" ]
+, [ 171, "5E74C3EB-689D-45D2-B9D1-C1D38B7BC51D", 171, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "510 - Salaries - Regular", "62874280", "Salaries" ]
+, [ 172, "954631C3-1D3A-4D55-B951-016AF507466E", 172, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "511 - Salaries - Overtime", "4519335", "Salaries" ]
+, [ 173, "0D620F3A-341C-4432-9A4E-630B61D5E395", 173, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "516 - Employee Benefits", "42733426", "Benefits" ]
+, [ 174, "9E9E8400-52DD-4E4F-A556-CF264E416920", 174, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "517 - Paid Employee Benefits", "1985878", "Benefits" ]
+, [ 175, "20FD8EEF-945E-4100-A97D-A468E38121F8", 175, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "520 - Advertising & Public Relations", "3290315", "Expenditure" ]
+, [ 176, "A7EAB0E6-6B18-4204-A8A7-05EFE0783412", 176, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "521 - Domestic Trade Rep.", "85000", "Expenditure" ]
+, [ 177, "6906A27B-20ED-47C6-BFE1-C200A1378082", 177, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "522 - Foreign Trade Rep.", "459000", "Expenditure" ]
+, [ 178, "4E716CAB-A6BD-46F4-ADA2-C3D17AE2C52E", 178, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "530 - Domestic Travel", "432727", "Expenditure" ]
+, [ 179, "EA920F06-5443-4DFD-844D-53DC43222671", 179, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "531 - Foreign Travel", "444650", "Expenditure" ]
+, [ 180, "5FEEC90B-8A6C-4785-9A27-930AF6C61C7A", 180, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "532 - Local Travel", "85775", "Expenditure" ]
+, [ 181, "DC08C938-D21E-4317-88F1-D7BD2E746222", 181, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "540 - Maintenance Services", "6459322", "Expenditure" ]
+, [ 182, "BDD6ED9B-B11F-4071-916A-0B576E918956", 182, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "541 - Office Equipment Maintenance Services", "2969806", "Expenditure" ]
+, [ 183, "22CD629E-21F5-4705-AC62-E7C33EE85628", 183, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "542 - Misc. Professional Services", "21350946", "Expenditure" ]
+, [ 184, "67D7F786-BC37-4EE7-8CBA-CF9D3103762B", 184, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "543 - Data Processing Services", "2348250", "Expenditure" ]
+, [ 185, "45C09556-0DEF-4C34-87C0-8DCE77F287A8", 185, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "544 - Financial Services", "1926191", "Expenditure" ]
+, [ 186, "F228BF63-B15A-4895-8E4C-81BED894FEB6", 186, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "550 - Maintenance & Other Supplies", "4701554", "Expenditure" ]
+, [ 187, "936DFAC8-9E0E-4FEE-AD64-25BB246B5DEE", 187, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "551 - Admin. & Oper. Supplies", "2688763", "Expenditure" ]
+, [ 188, "B9032848-939C-4D27-B5E4-0A74CA31ABB5", 188, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "570 - City Services", "36245805", "Expenditure" ]
+, [ 189, "55AAACAE-9E5C-4BFB-A084-286F4278AE03", 189, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "580 - Allocations", "-12235019", "Expenditure" ]
+, [ 190, "C4E41D09-F2D9-47DF-95A1-C0403AFB0AB5", 190, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "590 - Equipment Rental - Maintenance", "493250", "Expenditure" ]
+, [ 191, "9A8D2B85-FA04-4F41-882B-127DC4BC0675", 191, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "591 - Equipment Rental - Non-Maintenance", "104740", "Expenditure" ]
+, [ 192, "584D8A24-515F-411C-8048-16E4DF1C89FD", 192, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "592 - Memberships & Subscriptions", "677094", "Expenditure" ]
+, [ 193, "19EB666C-F148-4FC0-93B0-D04A4C13B6AD", 193, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "593 - Insurance", "3680000", "Expenditure" ]
+, [ 194, "5288981F-E865-4DB2-9871-FE9CD5001ABD", 194, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "594 - Telephone", "1818070", "Expenditure" ]
+, [ 195, "F65579CF-9A0C-4780-8D8C-C343A9D7B73C", 195, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "595 - Utilities", "8121000", "Expenditure" ]
+, [ 196, "E076CFE6-733F-457C-AD5A-C8CAED0F772C", 196, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "596 - Claims & Settlements", "2350000", "Expenditure" ]
+, [ 197, "92B9ED56-9547-47D7-A1D5-343214FB168B", 197, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "597 - Taxes, assessments, & Fees", "684769", "Expenditure" ]
+, [ 198, "B0530F63-6162-4155-A75B-FF807FF7404B", 198, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "599 - Other Operating Expense", "7790550", "Expenditure" ]
+, [ 199, "9114ECD2-1FA5-4B5B-9872-A5553354512F", 199, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "830 - Interest Expense - Bonds", "9221109", "Debt Service" ]
+, [ 200, "D2C57207-EB87-4A7C-9354-F8CDEA2F2F2F", 200, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "831 - Interest Expense - Commercial Paper", "550000", "Debt Service" ]
+, [ 201, "381C1EF9-8847-450B-955E-29070AA0FA80", 201, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "890 - Other Non-Operating Expense", "7830221", "Other" ]
+, [ 202, "B423E5D3-472C-49A8-BB96-8BF08C51262E", 202, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "Capitalized & Allocated Expenditures", "13646645", "Other" ]
+, [ 203, "69017162-7053-4C56-AE8A-0532984588AD", 203, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "Debt Service from CIP", "28540683", "Debt Service" ]
+, [ 204, "414058C9-D0C5-45F7-9095-A3EFFBE2CEC2", 204, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "Equipment Purchases", "9817304", "Equipment" ]
+, [ 205, "67545B00-50AA-46B8-AE7A-F96626D46024", 205, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "Construction and Capital Improvements", "399913430", "Other" ]
+, [ 206, "AE48FDCF-9AF5-4AF9-9BFF-4008D05F0118", 206, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "Debt Repayments", "26235000", "Debt Service" ]
+, [ 207, "1A0A7D5F-D047-4ED6-9603-DEAD44FF532B", 207, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "Restricted Cash", "98085765", "Reserve" ]
+, [ 208, "C24FD631-B162-4521-872D-8585C39F279C", 208, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "Unappropriated Balance/Carried Forward", "236173540", "Unappropriated Balance" ]
+, [ 209, "0CD13C05-6ACB-4E81-8185-37918DF99000", 209, 1398104172, "870164", 1398104172, "870164", "{\n}", "FY14", "Future Commitments", "32015000", "Other" ]
+ ]
+}

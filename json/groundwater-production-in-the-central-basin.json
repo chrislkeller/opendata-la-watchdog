@@ -1,0 +1,386 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "uf5d-xdu4",
+      "name" : "Groundwater Production in the Central Basin",
+      "attribution" : "LADWP",
+      "averageRating" : 0,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1399932413,
+      "description" : "LADWP's Production of local Groundwater.",
+      "displayType" : "table",
+      "downloadCount" : 7,
+      "indexUpdatedAt" : 1414615572,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8029940,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1400531663,
+      "publicationGroup" : 1578996,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1400531660,
+      "rowsUpdatedBy" : "g9i9-z6y7",
+      "tableId" : 1587563,
+      "totalTimesRated" : 0,
+      "viewCount" : 41,
+      "viewLastModified" : 1401233084,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 149116845,
+        "name" : "Month",
+        "dataTypeName" : "text",
+        "fieldName" : "month",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19693056,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 33,
+          "smallest" : "April-12",
+          "null" : 0,
+          "largest" : "September-13",
+          "top" : [ {
+            "count" : 20,
+            "item" : "March-14"
+          }, {
+            "count" : 19,
+            "item" : "February-14"
+          }, {
+            "count" : 18,
+            "item" : "January-14"
+          }, {
+            "count" : 17,
+            "item" : "December-13"
+          }, {
+            "count" : 16,
+            "item" : "November-13"
+          }, {
+            "count" : 15,
+            "item" : "October-13"
+          }, {
+            "count" : 14,
+            "item" : "September-13"
+          }, {
+            "count" : 13,
+            "item" : "August-13"
+          }, {
+            "count" : 12,
+            "item" : "July-13"
+          }, {
+            "count" : 11,
+            "item" : "June-13"
+          }, {
+            "count" : 10,
+            "item" : "May-13"
+          }, {
+            "count" : 9,
+            "item" : "April-13"
+          }, {
+            "count" : 8,
+            "item" : "March-13"
+          }, {
+            "count" : 7,
+            "item" : "February-13"
+          }, {
+            "count" : 6,
+            "item" : "January-13"
+          }, {
+            "count" : 5,
+            "item" : "December-12"
+          }, {
+            "count" : 4,
+            "item" : "November-12"
+          }, {
+            "count" : 3,
+            "item" : "October-12"
+          }, {
+            "count" : 2,
+            "item" : "September-12"
+          }, {
+            "count" : 1,
+            "item" : "August-12"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149116846,
+        "name" : "Goal (Acre-feet)",
+        "dataTypeName" : "number",
+        "fieldName" : "goal_acre_feet",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19693057,
+        "width" : 292,
+        "cachedContents" : {
+          "non_null" : 33,
+          "smallest" : "0",
+          "sum" : "28016",
+          "null" : 0,
+          "average" : "848.9696969696970",
+          "largest" : "964",
+          "top" : [ {
+            "count" : 20,
+            "item" : "955"
+          }, {
+            "count" : 19,
+            "item" : "946"
+          }, {
+            "count" : 18,
+            "item" : "964"
+          }, {
+            "count" : 17,
+            "item" : "0"
+          }, {
+            "count" : 16,
+            "item" : "833"
+          }, {
+            "count" : 15,
+            "item" : "861"
+          }, {
+            "count" : 14,
+            "item" : "778"
+          }, {
+            "count" : 13,
+            "item" : "831"
+          }, {
+            "count" : 12,
+            "item" : "863"
+          }, {
+            "count" : 11,
+            "item" : "806"
+          }, {
+            "count" : 10,
+            "item" : "857"
+          }, {
+            "count" : 9,
+            "item" : "886"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149116847,
+        "name" : "Actual (Acre-feet)",
+        "dataTypeName" : "number",
+        "fieldName" : "actual_acre_feet",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19693058,
+        "width" : 316,
+        "cachedContents" : {
+          "non_null" : 33,
+          "smallest" : "0",
+          "sum" : "22874",
+          "null" : 0,
+          "average" : "693.1515151515152",
+          "largest" : "1027",
+          "top" : [ {
+            "count" : 20,
+            "item" : "710"
+          }, {
+            "count" : 19,
+            "item" : "538"
+          }, {
+            "count" : 18,
+            "item" : "769"
+          }, {
+            "count" : 17,
+            "item" : "876"
+          }, {
+            "count" : 16,
+            "item" : "847"
+          }, {
+            "count" : 15,
+            "item" : "900"
+          }, {
+            "count" : 14,
+            "item" : "887"
+          }, {
+            "count" : 13,
+            "item" : "844"
+          }, {
+            "count" : 12,
+            "item" : "718"
+          }, {
+            "count" : 11,
+            "item" : "732"
+          }, {
+            "count" : 10,
+            "item" : "724"
+          }, {
+            "count" : 9,
+            "item" : "720"
+          }, {
+            "count" : 8,
+            "item" : "736"
+          }, {
+            "count" : 7,
+            "item" : "360"
+          }, {
+            "count" : 6,
+            "item" : "290"
+          }, {
+            "count" : 5,
+            "item" : "287"
+          }, {
+            "count" : 4,
+            "item" : "210"
+          }, {
+            "count" : 3,
+            "item" : "0"
+          }, {
+            "count" : 2,
+            "item" : "296"
+          }, {
+            "count" : 1,
+            "item" : "928"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "LADWP"
+          }
+        },
+        "rdfSubject" : "0"
+      },
+      "owner" : {
+        "id" : "hb8e-gdsp",
+        "displayName" : "LA DWP OpenData",
+        "profileImageUrlLarge" : "/images/profile/5225/6660/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5225/6660/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5225/6660/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LA DWP OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "7q7s-tyf3",
+        "displayName" : "Steve Baule",
+        "roleName" : "editor",
+        "screenName" : "Steve Baule",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "groundwater", "local" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "C0C1159F-C222-4A83-9F47-232DB7B3D065", 1, 1399932415, "877550", 1399932415, "877550", "{\n}", "March-14", "955", "710" ]
+, [ 2, "74EFCDA2-269E-433A-A78F-F709DA5B2B12", 2, 1399932415, "877550", 1399932415, "877550", "{\n}", "February-14", "955", "538" ]
+, [ 3, "0328652D-275A-4C1B-B30F-9FBD0CC4DB02", 3, 1399932415, "877550", 1399932415, "877550", "{\n}", "January-14", "955", "769" ]
+, [ 4, "5D839BE6-B452-4C23-8D2F-723DCA70DFA1", 4, 1399932415, "877550", 1399932415, "877550", "{\n}", "December-13", "955", "876" ]
+, [ 5, "CF385387-32D5-4133-9BE3-F1E9B3F995BE", 5, 1399932415, "877550", 1399932415, "877550", "{\n}", "November-13", "955", "847" ]
+, [ 6, "083CED2E-40D2-4DD5-AB02-F497927B45A0", 6, 1399932415, "877550", 1399932415, "877550", "{\n}", "October-13", "946", "900" ]
+, [ 7, "E3287BDB-9EF5-4957-BDB0-0C56FF821AED", 7, 1399932415, "877550", 1399932415, "877550", "{\n}", "September-13", "964", "887" ]
+, [ 8, "74B5E42C-8A13-4A09-A614-D84947DFC9CD", 8, 1399932415, "877550", 1399932415, "877550", "{\n}", "August-13", "955", "844" ]
+, [ 9, "D745F1CA-05D2-45F1-8805-8D03AF3AB124", 9, 1399932415, "877550", 1399932415, "877550", "{\n}", "July-13", "0", "718" ]
+, [ 10, "1F5D25C0-BFD3-4E47-8964-59CD1AB73C61", 10, 1399932415, "877550", 1399932415, "877550", "{\n}", "June-13", "833", "732" ]
+, [ 11, "ACA10E22-1238-4DCA-895B-69A807317908", 11, 1399932415, "877550", 1399932415, "877550", "{\n}", "May-13", "861", "724" ]
+, [ 12, "A3595D45-43E3-4B5D-A3F6-C8A9D84DB884", 12, 1399932415, "877550", 1399932415, "877550", "{\n}", "April-13", "833", "720" ]
+, [ 13, "430AC72B-7A7C-497F-AB24-CB5D2579F67A", 13, 1399932415, "877550", 1399932415, "877550", "{\n}", "March-13", "861", "736" ]
+, [ 14, "04C7AA51-9995-466D-AAD7-CB71E2B2E8A6", 14, 1399932415, "877550", 1399932415, "877550", "{\n}", "February-13", "778", "360" ]
+, [ 15, "0EA01662-4808-4974-B6F2-AC4D11766EC6", 15, 1399932415, "877550", 1399932415, "877550", "{\n}", "January-13", "861", "290" ]
+, [ 16, "C5F10DCD-6184-4B27-A462-4728EE7B0674", 16, 1399932415, "877550", 1399932415, "877550", "{\n}", "December-12", "861", "287" ]
+, [ 17, "32C6884B-FCE2-40A8-9EA9-B53EF9572850", 17, 1399932415, "877550", 1399932415, "877550", "{\n}", "November-12", "833", "210" ]
+, [ 18, "AE0E8DA0-CD15-4B42-9C0C-460CDD4435E9", 18, 1399932415, "877550", 1399932415, "877550", "{\n}", "October-12", "861", "0" ]
+, [ 19, "9D7319DC-7EBF-4EB3-B580-B042D37065EB", 19, 1399932415, "877550", 1399932415, "877550", "{\n}", "September-12", "833", "296" ]
+, [ 20, "463D3CDC-62C9-465F-B332-A99A7E814ECE", 20, 1399932415, "877550", 1399932415, "877550", "{\n}", "August-12", "861", "928" ]
+, [ 21, "5A7E426C-5547-4E44-BB5D-C5C573AEA9ED", 21, 1399932415, "877550", 1399932415, "877550", "{\n}", "July-12", "861", "1027" ]
+, [ 22, "8D3ED7E9-078F-4453-9F9C-92DBD4BBD5BA", 22, 1399932415, "877550", 1399932415, "877550", "{\n}", "June-12", "831", "981" ]
+, [ 23, "756E0C33-8889-442D-AC7D-5F027797CD4E", 23, 1399932415, "877550", 1399932415, "877550", "{\n}", "May-12", "863", "1010" ]
+, [ 24, "BD5A2646-E2C8-4997-AF64-1C1B902426EF", 24, 1399932415, "877550", 1399932415, "877550", "{\n}", "April-12", "833", "986" ]
+, [ 25, "72D79B9B-33EA-4916-830D-50B5F1A70102", 25, 1399932415, "877550", 1399932415, "877550", "{\n}", "March-12", "861", "1025" ]
+, [ 26, "592DEDA5-1E9E-4A09-95FD-A5494647272F", 26, 1399932415, "877550", 1399932415, "877550", "{\n}", "February-12", "806", "988" ]
+, [ 27, "12F5294C-EA29-4769-86AA-999B0AEB1240", 27, 1399932415, "877550", 1399932415, "877550", "{\n}", "January-12", "861", "1002" ]
+, [ 28, "7D29A67A-4C68-4ADF-BFBE-F5492D7CD6D6", 28, 1399932415, "877550", 1399932415, "877550", "{\n}", "December-11", "861", "900" ]
+, [ 29, "636B237D-50E8-4F3B-8441-7BE5BFC5CA56", 29, 1399932415, "877550", 1399932415, "877550", "{\n}", "November-11", "833", "799" ]
+, [ 30, "988EEFCC-6453-4E74-87FE-672D78DDFC82", 30, 1399932415, "877550", 1399932415, "877550", "{\n}", "October-11", "861", "503" ]
+, [ 31, "3DE3A9EB-8B57-422A-A0DD-8007B64E3325", 31, 1399932415, "877550", 1399932415, "877550", "{\n}", "September-11", "857", "489" ]
+, [ 32, "26CED230-2C30-4E45-B3A1-CEF4B8F664E3", 32, 1399932415, "877550", 1399932415, "877550", "{\n}", "August-11", "886", "412" ]
+, [ 33, "8A9691D7-1D8E-47BA-8624-836F2CB16ECA", 33, 1399932415, "877550", 1399932415, "877550", "{\n}", "July-11", "886", "380" ]
+ ]
+}

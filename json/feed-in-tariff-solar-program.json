@@ -1,0 +1,182 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "r3up-67wh",
+      "name" : "Feed-in Tariff Solar Program",
+      "attribution" : "LADWP",
+      "averageRating" : 0,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1400026077,
+      "description" : "Quarter-Year\tInstalled Capacity from the Feed-in Tariff (FiT) Program in Kilowatts. The FiT program enables third parties to develop solar or other renewable energy and sell the power to the utility.  This is a relatively new program with projects in the beginning stages.",
+      "displayType" : "table",
+      "downloadCount" : 2,
+      "indexUpdatedAt" : 1414614504,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8029969,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1400531961,
+      "publicationGroup" : 1580285,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1400531958,
+      "rowsUpdatedBy" : "g9i9-z6y7",
+      "tableId" : 1587583,
+      "totalTimesRated" : 0,
+      "viewCount" : 50,
+      "viewLastModified" : 1401232838,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 149117077,
+        "name" : "Quarter-Year",
+        "dataTypeName" : "text",
+        "fieldName" : "quarter_year",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19711965,
+        "width" : 244,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "Q1-2014",
+          "null" : 0,
+          "largest" : "Q1-2014",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Q1-2014"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149117078,
+        "name" : "Installed Capacity from FiT (kW)",
+        "dataTypeName" : "text",
+        "fieldName" : "installed_capacity_from_fit_kw",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19711966,
+        "width" : 484,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "700",
+          "null" : 0,
+          "largest" : "700",
+          "top" : [ {
+            "count" : 20,
+            "item" : "700"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "LADWP"
+          }
+        },
+        "rdfSubject" : "0"
+      },
+      "owner" : {
+        "id" : "hb8e-gdsp",
+        "displayName" : "LA DWP OpenData",
+        "profileImageUrlLarge" : "/images/profile/5225/6660/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5225/6660/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5225/6660/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LA DWP OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "7q7s-tyf3",
+        "displayName" : "Steve Baule",
+        "roleName" : "editor",
+        "screenName" : "Steve Baule",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "feed-in tariff", "local solar", "fit" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "512579AC-1800-4893-A761-C53D437800B9", 1, 1400026079, "877550", 1400026079, "877550", "{\n}", "Q1-2014", "700" ]
+ ]
+}

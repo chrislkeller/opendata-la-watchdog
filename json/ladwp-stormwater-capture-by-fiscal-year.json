@@ -1,0 +1,256 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "p8nc-6hdi",
+      "name" : "LADWP Stormwater Capture by Fiscal Year",
+      "attribution" : "LADWP",
+      "averageRating" : 0,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1400887303,
+      "description" : "LADWP's capacity for stormwater and actual stormwater collected",
+      "displayType" : "table",
+      "downloadCount" : 4,
+      "indexUpdatedAt" : 1414616940,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8060266,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1400887797,
+      "publicationGroup" : 1593199,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1400887756,
+      "rowsUpdatedBy" : "7q7s-tyf3",
+      "tableId" : 1593201,
+      "totalTimesRated" : 0,
+      "viewCount" : 34,
+      "viewLastModified" : 1401233566,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 149729292,
+        "name" : "FY",
+        "dataTypeName" : "text",
+        "fieldName" : "fy",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19910020,
+        "width" : 124,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "2008-09",
+          "null" : 0,
+          "largest" : "2012-13",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2008-09"
+          }, {
+            "count" : 19,
+            "item" : "2009-10"
+          }, {
+            "count" : 18,
+            "item" : "2010-11"
+          }, {
+            "count" : 17,
+            "item" : "2011-12"
+          }, {
+            "count" : 16,
+            "item" : "2012-13"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149729293,
+        "name" : "Capacity in Acre Feet",
+        "dataTypeName" : "number",
+        "description" : "Total stormwater Capacity in Acre Feet",
+        "fieldName" : "capture_af",
+        "position" : 2,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19910021,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "105100",
+          "sum" : "534660",
+          "null" : 0,
+          "average" : "106932",
+          "largest" : "108199",
+          "top" : [ {
+            "count" : 20,
+            "item" : "105100"
+          }, {
+            "count" : 19,
+            "item" : "108116"
+          }, {
+            "count" : 18,
+            "item" : "108145"
+          }, {
+            "count" : 17,
+            "item" : "108199"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "false"
+        }
+      }, {
+        "id" : 149729294,
+        "name" : "Recharge in Acre Feet",
+        "dataTypeName" : "number",
+        "description" : "Actual stormwater captured",
+        "fieldName" : "recharge_af",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19910022,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 0,
+          "sum" : "0",
+          "null" : 5
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "false"
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "LADWP"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "jsonQuery" : {
+          "order" : [ {
+            "ascending" : true,
+            "columnFieldName" : "recharge_af"
+          } ]
+        }
+      },
+      "owner" : {
+        "id" : "hb8e-gdsp",
+        "displayName" : "LA DWP OpenData",
+        "profileImageUrlLarge" : "/images/profile/5225/6660/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5225/6660/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5225/6660/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LA DWP OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+        "orderBys" : [ {
+          "ascending" : true,
+          "expression" : {
+            "columnId" : 149729294,
+            "type" : "column"
+          }
+        } ]
+      },
+      "rights" : [ "read" ],
+      "sortBys" : [ {
+        "id" : 0,
+        "viewColumnId" : 149729294,
+        "flags" : [ "asc" ]
+      } ],
+      "tableAuthor" : {
+        "id" : "7q7s-tyf3",
+        "displayName" : "Steve Baule",
+        "roleName" : "editor",
+        "screenName" : "Steve Baule",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "stormwater", "local water" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 3, "E0BC3020-F1C5-4E80-98FB-C7694D320F2C", 3, 1400887305, "877550", 1400887701, "877550", "{\"invalidCells\":{}}", "2010-11", "108116", null ]
+, [ 1, "283CB733-F614-4A76-ABE1-A50C7A75BC7B", 1, 1400887305, "877550", 1400887718, "877550", "{\"invalidCells\":{}}", "2008-09", "105100", null ]
+, [ 2, "17FC1E09-2F8B-4682-93B6-B243262DBFFC", 2, 1400887305, "877550", 1400887724, "877550", "{\"invalidCells\":{}}", "2009-10", "105100", null ]
+, [ 4, "C2494BD9-DD5B-4453-AE22-12D10E220F3E", 4, 1400887305, "877550", 1400887736, "877550", "{\"invalidCells\":{}}", "2011-12", "108145", null ]
+, [ 5, "212DF15B-85B5-408D-9D50-FE0F1457A9A5", 5, 1400887305, "877550", 1400887756, "877550", "{\"invalidCells\":{}}", "2012-13", "108199", null ]
+ ]
+}

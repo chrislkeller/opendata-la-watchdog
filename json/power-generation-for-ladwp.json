@@ -1,0 +1,656 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "3y62-apdd",
+      "name" : "Power Generation for LADWP",
+      "attribution" : "LADWP",
+      "averageRating" : 0,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1400116246,
+      "description" : "Sources of LADWP's Power",
+      "displayType" : "table",
+      "downloadCount" : 9,
+      "indexUpdatedAt" : 1414613838,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8029952,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1400531764,
+      "publicationGroup" : 1581680,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1400531756,
+      "rowsUpdatedBy" : "g9i9-z6y7",
+      "tableId" : 1587568,
+      "totalTimesRated" : 0,
+      "viewCount" : 30,
+      "viewLastModified" : 1401394227,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 149116896,
+        "name" : "Plant Name",
+        "dataTypeName" : "text",
+        "fieldName" : "plant_name",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19731582,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 88,
+          "smallest" : "(PP1)",
+          "null" : 4,
+          "largest" : "WM Bradley",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Harbor"
+          }, {
+            "count" : 19,
+            "item" : "Haynes"
+          }, {
+            "count" : 18,
+            "item" : "Scattergood"
+          }, {
+            "count" : 17,
+            "item" : "Valley"
+          }, {
+            "count" : 16,
+            "item" : "Intermountain"
+          }, {
+            "count" : 15,
+            "item" : "Navajo"
+          }, {
+            "count" : 14,
+            "item" : "Palo Verde"
+          }, {
+            "count" : 13,
+            "item" : "Castaic"
+          }, {
+            "count" : 12,
+            "item" : "Haiwee"
+          }, {
+            "count" : 11,
+            "item" : "Hyperion Digester Gas"
+          }, {
+            "count" : 10,
+            "item" : "Lopez Microturbine"
+          }, {
+            "count" : 9,
+            "item" : "WM Bradley"
+          }, {
+            "count" : 8,
+            "item" : "Shell Energy Landfill Gas"
+          }, {
+            "count" : 7,
+            "item" : "Atmos Energy Landfill Gas"
+          }, {
+            "count" : 6,
+            "item" : "Toyon Power Plant"
+          }, {
+            "count" : 5,
+            "item" : "Shell Renewable Biomethane"
+          }, {
+            "count" : 4,
+            "item" : "Customer Cogenerations"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149116897,
+        "name" : "Type of Generation",
+        "dataTypeName" : "text",
+        "fieldName" : "type_of_generation",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19731583,
+        "width" : 316,
+        "cachedContents" : {
+          "non_null" : 92,
+          "smallest" : " Aqueduct Small Hydroelectric Generating Resource",
+          "null" : 0,
+          "largest" : "Renewables and DG Generating Resources",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Natural Gas Generating Resource"
+          }, {
+            "count" : 19,
+            "item" : "Coal Generating Resource"
+          }, {
+            "count" : 18,
+            "item" : "Nuclear Generating Resource"
+          }, {
+            "count" : 17,
+            "item" : "Large Hydroelectric Generating Resource"
+          }, {
+            "count" : 16,
+            "item" : "Owens Valley Small Hydroelectric Generating Resource"
+          }, {
+            "count" : 15,
+            "item" : "Owens Gorge Small Hydroelectric Generating Resource"
+          }, {
+            "count" : 14,
+            "item" : " Aqueduct Small Hydroelectric Generating Resource"
+          }, {
+            "count" : 13,
+            "item" : "Renewables and DG Generating Resources"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149116898,
+        "name" : "Unit in Plant",
+        "dataTypeName" : "text",
+        "fieldName" : "unit",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19731584,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 91,
+          "smallest" : "1",
+          "null" : 1,
+          "largest" : "PPA/Own",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          }, {
+            "count" : 19,
+            "item" : "2"
+          }, {
+            "count" : 18,
+            "item" : "5"
+          }, {
+            "count" : 17,
+            "item" : "10"
+          }, {
+            "count" : 16,
+            "item" : "11"
+          }, {
+            "count" : 15,
+            "item" : "12"
+          }, {
+            "count" : 14,
+            "item" : "13"
+          }, {
+            "count" : 13,
+            "item" : "14"
+          }, {
+            "count" : 12,
+            "item" : "7"
+          }, {
+            "count" : 11,
+            "item" : "8"
+          }, {
+            "count" : 10,
+            "item" : "9"
+          }, {
+            "count" : 9,
+            "item" : "15"
+          }, {
+            "count" : 8,
+            "item" : "16"
+          }, {
+            "count" : 7,
+            "item" : "3"
+          }, {
+            "count" : 6,
+            "item" : "6"
+          }, {
+            "count" : 5,
+            "item" : "4"
+          }, {
+            "count" : 4,
+            "item" : "1A"
+          }, {
+            "count" : 3,
+            "item" : "5A"
+          }, {
+            "count" : 2,
+            "item" : "PPA"
+          }, {
+            "count" : 1,
+            "item" : "Own"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149116899,
+        "name" : "COD",
+        "dataTypeName" : "number",
+        "fieldName" : "cod",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19731585,
+        "width" : 136,
+        "cachedContents" : {
+          "non_null" : 87,
+          "smallest" : "1908",
+          "sum" : "172288",
+          "null" : 5,
+          "average" : "1980.321839080460",
+          "largest" : "2013",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1995"
+          }, {
+            "count" : 19,
+            "item" : "2002"
+          }, {
+            "count" : 18,
+            "item" : "2005"
+          }, {
+            "count" : 17,
+            "item" : "2013"
+          }, {
+            "count" : 16,
+            "item" : "1958"
+          }, {
+            "count" : 15,
+            "item" : "1974"
+          }, {
+            "count" : 14,
+            "item" : "2003"
+          }, {
+            "count" : 13,
+            "item" : "1986"
+          }, {
+            "count" : 12,
+            "item" : "1987"
+          }, {
+            "count" : 11,
+            "item" : "1977"
+          }, {
+            "count" : 10,
+            "item" : "1927"
+          }, {
+            "count" : 9,
+            "item" : "1909"
+          }, {
+            "count" : 8,
+            "item" : "1952"
+          }, {
+            "count" : 7,
+            "item" : "1919"
+          }, {
+            "count" : 6,
+            "item" : "2006"
+          }, {
+            "count" : 5,
+            "item" : "1922"
+          }, {
+            "count" : 4,
+            "item" : "2008"
+          }, {
+            "count" : 3,
+            "item" : "2009"
+          }, {
+            "count" : 2,
+            "item" : "2010"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149116900,
+        "name" : "Generator Nameplate (kW)",
+        "dataTypeName" : "number",
+        "fieldName" : "generator_nameplate_kw",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19731586,
+        "width" : 388,
+        "cachedContents" : {
+          "non_null" : 89,
+          "smallest" : "600",
+          "sum" : "21169180",
+          "null" : 3,
+          "average" : "237855.9550561798",
+          "largest" : "2079000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "85340"
+          }, {
+            "count" : 19,
+            "item" : "60500"
+          }, {
+            "count" : 18,
+            "item" : "230000"
+          }, {
+            "count" : 17,
+            "item" : "2000"
+          }, {
+            "count" : 16,
+            "item" : "264350"
+          }, {
+            "count" : 15,
+            "item" : "182750"
+          }, {
+            "count" : 14,
+            "item" : "108190"
+          }, {
+            "count" : 13,
+            "item" : "163200"
+          }, {
+            "count" : 12,
+            "item" : "900000"
+          }, {
+            "count" : 11,
+            "item" : "750000"
+          }, {
+            "count" : 10,
+            "item" : "271000"
+          }, {
+            "count" : 9,
+            "item" : "2800"
+          }, {
+            "count" : 8,
+            "item" : "750"
+          }, {
+            "count" : 7,
+            "item" : "3200"
+          }, {
+            "count" : 6,
+            "item" : "37500"
+          }, {
+            "count" : 5,
+            "item" : "22500"
+          }, {
+            "count" : 4,
+            "item" : "14000"
+          }, {
+            "count" : 3,
+            "item" : "208080"
+          }, {
+            "count" : 2,
+            "item" : "8540"
+          }, {
+            "count" : 1,
+            "item" : "30000"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149116901,
+        "name" : "Net Max Capability (kW)",
+        "dataTypeName" : "number",
+        "fieldName" : "net_max_capability_kw",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19731587,
+        "width" : 376,
+        "cachedContents" : {
+          "non_null" : 89,
+          "smallest" : "0",
+          "sum" : "9312514",
+          "null" : 3,
+          "average" : "104634.9887640449",
+          "largest" : "491000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "82000"
+          }, {
+            "count" : 19,
+            "item" : "47400"
+          }, {
+            "count" : 18,
+            "item" : "222000"
+          }, {
+            "count" : 17,
+            "item" : "162500"
+          }, {
+            "count" : 16,
+            "item" : "103100"
+          }, {
+            "count" : 15,
+            "item" : "162000"
+          }, {
+            "count" : 14,
+            "item" : "401553"
+          }, {
+            "count" : 13,
+            "item" : "36000"
+          }, {
+            "count" : 12,
+            "item" : "163512"
+          }, {
+            "count" : 11,
+            "item" : "159000"
+          }, {
+            "count" : 10,
+            "item" : "271000"
+          }, {
+            "count" : 9,
+            "item" : "265000"
+          }, {
+            "count" : 8,
+            "item" : "3600"
+          }, {
+            "count" : 7,
+            "item" : "1200"
+          }, {
+            "count" : 6,
+            "item" : "37500"
+          }, {
+            "count" : 5,
+            "item" : "27000"
+          }, {
+            "count" : 4,
+            "item" : "650"
+          }, {
+            "count" : 3,
+            "item" : "82200"
+          }, {
+            "count" : 2,
+            "item" : "72000"
+          }, {
+            "count" : 1,
+            "item" : "68695"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "LADWP"
+          }
+        }
+      },
+      "owner" : {
+        "id" : "hb8e-gdsp",
+        "displayName" : "LA DWP OpenData",
+        "profileImageUrlLarge" : "/images/profile/5225/6660/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5225/6660/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5225/6660/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LA DWP OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "7q7s-tyf3",
+        "displayName" : "Steve Baule",
+        "roleName" : "editor",
+        "screenName" : "Steve Baule",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "power", "renewables", "coal", "natural gas", "generation" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "4A720F93-2E4E-43B1-87E8-667C15A77694", 1, 1400116251, "877550", 1400116251, "877550", "{\n}", "Harbor", "Natural Gas Generating Resource", "1", "1995", "85340", "82000" ]
+, [ 2, "84D6E642-C6BC-43C9-91CC-6905BC3A1CB6", 2, 1400116251, "877550", 1400116251, "877550", "{\n}", "Harbor", "Natural Gas Generating Resource", "2", "1995", "85340", "82000" ]
+, [ 3, "652EC6FC-8BE8-4CB4-8A3F-547075CDF454", 3, 1400116251, "877550", 1400116251, "877550", "{\n}", "Harbor", "Natural Gas Generating Resource", "5", "1995", "75000", "65000" ]
+, [ 4, "75BDCA10-0DFD-44DF-8252-3A52D0205DD7", 4, 1400116251, "877550", 1400116251, "877550", "{\n}", "Harbor", "Natural Gas Generating Resource", "10", "2002", "60500", "47400" ]
+, [ 5, "7DED6721-3082-42FE-86B2-6A011BDF6C0B", 5, 1400116251, "877550", 1400116251, "877550", "{\n}", "Harbor", "Natural Gas Generating Resource", "11", "2002", "60500", "47400" ]
+, [ 6, "3FF95EC6-F420-41F3-BBAB-51EB68C105F0", 6, 1400116251, "877550", 1400116251, "877550", "{\n}", "Harbor", "Natural Gas Generating Resource", "12", "2002", "60500", "47400" ]
+, [ 7, "24450A09-177C-4554-AABE-862F6E42AE8B", 7, 1400116251, "877550", 1400116251, "877550", "{\n}", "Harbor", "Natural Gas Generating Resource", "13", "2002", "60500", "47400" ]
+, [ 8, "6153AFDE-8DBF-4BDF-B075-CE88E05C5624", 8, 1400116251, "877550", 1400116251, "877550", "{\n}", "Harbor", "Natural Gas Generating Resource", "14", "2002", "60500", "47400" ]
+, [ 9, "5EC42A2E-B890-4CC5-B8DD-D88F9AA4F4C4", 9, 1400116251, "877550", 1400116251, "877550", "{\n}", "Haynes", "Natural Gas Generating Resource", "1", "1962", "230000", "222000" ]
+, [ 10, "B1631965-0C63-49E4-A4D9-5884C9304366", 10, 1400116251, "877550", 1400116251, "877550", "{\n}", "Haynes", "Natural Gas Generating Resource", "2", "1963", "230000", "222000" ]
+, [ 11, "317F8A83-9760-4CB5-8439-FFCB5A7CD3DB", 11, 1400116251, "877550", 1400116251, "877550", "{\n}", "Haynes", "Natural Gas Generating Resource", "7", "1970", "2000", "1599" ]
+, [ 12, "E8DE4403-0239-47E0-98A4-A5BE9C806AF7", 12, 1400116251, "877550", 1400116251, "877550", "{\n}", "Haynes", "Natural Gas Generating Resource", "8", "2005", "264350", "250000" ]
+, [ 13, "917272DC-1E03-43F2-BB32-79C833EED875", 13, 1400116251, "877550", 1400116251, "877550", "{\n}", "Haynes", "Natural Gas Generating Resource", "9", "2005", "182750", "162500" ]
+, [ 14, "5579752D-C656-426B-8BBF-9B70512220D0", 14, 1400116251, "877550", 1400116251, "877550", "{\n}", "Haynes", "Natural Gas Generating Resource", "10", "2005", "182750", "162500" ]
+, [ 15, "0DF4685E-EF93-45A3-A375-D04C452B1AFD", 15, 1400116251, "877550", 1400116251, "877550", "{\n}", "Haynes", "Natural Gas Generating Resource", "11", "2013", "108190", "103100" ]
+, [ 16, "1917F185-A25E-4FDA-A30A-1EDD3E34B634", 16, 1400116251, "877550", 1400116251, "877550", "{\n}", "Haynes", "Natural Gas Generating Resource", "12", "2013", "108190", "103100" ]
+, [ 17, "261A000E-8CA3-43FA-8E41-105384B73F0F", 17, 1400116251, "877550", 1400116251, "877550", "{\n}", "Haynes", "Natural Gas Generating Resource", "13", "2013", "108190", "103100" ]
+, [ 18, "01E05618-98F1-4B8E-8BBA-E7F5A916F15B", 18, 1400116251, "877550", 1400116251, "877550", "{\n}", "Haynes", "Natural Gas Generating Resource", "14", "2013", "108190", "103100" ]
+, [ 19, "B9987D78-71B2-4382-99B4-D825BFC4E0C9", 19, 1400116251, "877550", 1400116251, "877550", "{\n}", "Haynes", "Natural Gas Generating Resource", "15", "2013", "108190", "103100" ]
+, [ 20, "8D6DB1BD-BAE3-47F5-9271-E1435E88BDA0", 20, 1400116251, "877550", 1400116251, "877550", "{\n}", "Haynes", "Natural Gas Generating Resource", "16", "2013", "108190", "103100" ]
+, [ 21, "824B087F-ADAD-436F-8161-879DA8066CCA", 21, 1400116251, "877550", 1400116251, "877550", "{\n}", "Scattergood", "Natural Gas Generating Resource", "1", "1958", "163200", "183000" ]
+, [ 22, "DD9096A3-BEFE-4D8E-9C91-4C6BFE90A0D1", 22, 1400116251, "877550", 1400116251, "877550", "{\n}", "Scattergood", "Natural Gas Generating Resource", "2", "1959", "163200", "184000" ]
+, [ 23, "AC955854-D431-4DE2-BA2B-A1F462C30507", 23, 1400116251, "877550", 1400116251, "877550", "{\n}", "Scattergood", "Natural Gas Generating Resource", "3", "1974", "496800", "450000" ]
+, [ 24, "07A2AE7C-67BC-47B3-9A3A-CC80BF924E99", 24, 1400116251, "877550", 1400116251, "877550", "{\n}", "Valley", "Natural Gas Generating Resource", "5", "2001", "60500", "43000" ]
+, [ 25, "D756E639-BA61-4F17-9207-4CD81BAA1538", 25, 1400116251, "877550", 1400116251, "877550", "{\n}", "Valley", "Natural Gas Generating Resource", "6", "2003", "182750", "162000" ]
+, [ 26, "7618C6AB-142D-4155-A1AD-827F44AE9145", 26, 1400116251, "877550", 1400116251, "877550", "{\n}", "Valley", "Natural Gas Generating Resource", "7", "2003", "182750", "162000" ]
+, [ 27, "F2131B62-26EF-481F-92C1-CDEB8C5EB3D2", 27, 1400116251, "877550", 1400116251, "877550", "{\n}", "Valley", "Natural Gas Generating Resource", "8", "2003", "264350", "209000" ]
+, [ 28, "E105CFC5-26B9-4B23-9957-FB4751DA7514", 28, 1400116251, "877550", 1400116251, "877550", "{\n}", "Intermountain", "Coal Generating Resource", "1", "1986", "900000", "401553" ]
+, [ 29, "9511B4CF-5047-48FA-8D93-9FEAF26831F4", 29, 1400116251, "877550", 1400116251, "877550", "{\n}", "Intermountain", "Coal Generating Resource", "2", "1987", "900000", "401553" ]
+, [ 30, "83100DE2-288F-4AAB-AAFA-8C86FC7245C7", 30, 1400116251, "877550", 1400116251, "877550", "{\n}", "Intermountain", "Coal Generating Resource", "1", "1986", "900000", "36000" ]
+, [ 31, "3D3204F1-4895-4BBE-A121-9BF9413D6AD8", 31, 1400116251, "877550", 1400116251, "877550", "{\n}", "Intermountain", "Coal Generating Resource", "2", "1987", "900000", "36000" ]
+, [ 32, "85B009AC-5517-4447-8454-AA05723E0510", 32, 1400116251, "877550", 1400116251, "877550", "{\n}", "Intermountain", "Coal Generating Resource", "1", "1986", "900000", "163512" ]
+, [ 33, "B71CC52D-7290-40B2-ADDD-E2FA0A7FB334", 33, 1400116251, "877550", 1400116251, "877550", "{\n}", "Intermountain", "Coal Generating Resource", "2", "1987", "900000", "163512" ]
+, [ 34, "63AA1601-2CFB-4B9F-A4A3-500FC1D6E5BF", 34, 1400116251, "877550", 1400116251, "877550", "{\n}", "Navajo", "Coal Generating Resource", "1", "1974", "750000", "159000" ]
+, [ 35, "B6A77F7A-0173-4238-A428-0E7C21D4A550", 35, 1400116251, "877550", 1400116251, "877550", "{\n}", "Navajo", "Coal Generating Resource", "2", "1974", "750000", "159000" ]
+, [ 36, "960783E6-7AA2-4633-A71A-E342AB1A46EC", 36, 1400116251, "877550", 1400116251, "877550", "{\n}", "Navajo", "Coal Generating Resource", "3", "1975", "750000", "159000" ]
+, [ 37, "2A7C3D53-1D6D-49CE-BA11-035B07E454AB", 37, 1400116251, "877550", 1400116251, "877550", "{\n}", "Palo Verde", "Nuclear Generating Resource", "1", "1986", "1333000", "128768" ]
+, [ 38, "43EDD310-2644-42A7-A301-FB6A85E904AC", 38, 1400116251, "877550", 1400116251, "877550", "{\n}", "Palo Verde", "Nuclear Generating Resource", "2", "1986", "1336000", "129058" ]
+, [ 39, "A2FD4A8A-EB9E-496C-95E1-3EE1923666BA", 39, 1400116251, "877550", 1400116251, "877550", "{\n}", "Palo Verde", "Nuclear Generating Resource", "3", "1988", "1334000", "128864" ]
+, [ 40, "A885AF8F-F4D7-4892-9739-9F322F92DB63", 40, 1400116251, "877550", 1400116251, "877550", "{\n}", "Castaic", "Large Hydroelectric Generating Resource", "1", "1973", "271000", "271000" ]
+, [ 41, "DC31C738-3C4C-4BEF-AB2B-2E5B163D3388", 41, 1400116251, "877550", 1400116251, "877550", "{\n}", "Castaic", "Large Hydroelectric Generating Resource", "2", "1974", "271000", "265000" ]
+, [ 42, "2AF55C45-EA20-4277-9098-0B8CE788E6A3", 42, 1400116251, "877550", 1400116251, "877550", "{\n}", "Castaic", "Large Hydroelectric Generating Resource", "3", "1976", "271000", "271000" ]
+, [ 43, "4EDBB8C4-81D1-4B6C-BC13-F97FC3B58CC7", 43, 1400116251, "877550", 1400116251, "877550", "{\n}", "Castaic", "Large Hydroelectric Generating Resource", "4", "1977", "271000", "271000" ]
+, [ 44, "8B7E6592-C37D-4757-ACBA-191FB9A75DF0", 44, 1400116251, "877550", 1400116251, "877550", "{\n}", "Castaic", "Large Hydroelectric Generating Resource", "5", "1977", "271000", "271000" ]
+, [ 45, "1FB6359E-8C45-4C49-939D-6ABD1A9DBB60", 45, 1400116251, "877550", 1400116251, "877550", "{\n}", "Castaic", "Large Hydroelectric Generating Resource", "6", "1978", "271000", "265000" ]
+, [ 46, "060EC240-EFA8-4219-884F-53F0C7F8177A", 46, 1400116251, "877550", 1400116251, "877550", "{\n}", "Castaic", "Large Hydroelectric Generating Resource", "7", "1972", "56000", "55000" ]
+, [ 47, "090BE744-5FA6-4EB8-BA6A-6251F68F54BC", 47, 1400116251, "877550", 1400116251, "877550", "{\n}", "Hoover", "Large Hydroelectric Generating Resource", null, "1936", "2079000", "491000" ]
+, [ 48, "E9DF1278-019A-4986-A8E1-CB13383A7CB7", 48, 1400116251, "877550", 1400116251, "877550", "{\n}", "Haiwee", "Owens Valley Small Hydroelectric Generating Resource", "1", "1927", "2800", "3600" ]
+, [ 49, "90181EE2-9354-4AEB-8ECD-4E2021CC8A10", 49, 1400116251, "877550", 1400116251, "877550", "{\n}", "Haiwee", "Owens Valley Small Hydroelectric Generating Resource", "2", "1927", "2800", "3600" ]
+, [ 50, "C86A0CC2-A236-46B7-B2A8-ECC59E81BBC4", 50, 1400116251, "877550", 1400116251, "877550", "{\n}", "Cottonwood", "Owens Valley Small Hydroelectric Generating Resource", "1", "1908", "750", "1200" ]
+, [ 51, "6EAB0C33-73C3-4AD3-8514-E0BFF11FA466", 51, 1400116251, "877550", 1400116251, "877550", "{\n}", null, "Owens Valley Small Hydroelectric Generating Resource", "2", "1909", "750", "1200" ]
+, [ 52, "12E25AF4-192B-4E0B-9FA7-21B64E69D1F5", 52, 1400116251, "877550", 1400116251, "877550", "{\n}", "Division Creek", "Owens Valley Small Hydroelectric Generating Resource", "1", "1909", "600", "680" ]
+, [ 53, "16CA3A16-570E-47DE-A39C-084651CC34AA", 53, 1400116251, "877550", 1400116251, "877550", "{\n}", "Big Pine", "Owens Valley Small Hydroelectric Generating Resource", "1", "1925", "3200", "3050" ]
+, [ 54, "59CE73CC-38E8-4351-82BA-78EC0C177594", 54, 1400116251, "877550", 1400116251, "877550", "{\n}", "Pleasant Valley", "Owens Valley Small Hydroelectric Generating Resource", "1", "1958", "3200", "2700" ]
+, [ 55, "4A1F83A6-E29B-4DD5-91E9-9EAAE814572F", 55, 1400116251, "877550", 1400116251, "877550", "{\n}", "Upper Gorge", "Owens Gorge Small Hydroelectric Generating Resource", "1", "1953", "37500", "37500" ]
+, [ 56, "3F0A6D49-9167-4AEF-8B78-9C8ECBA6556E", 56, 1400116251, "877550", 1400116251, "877550", "{\n}", "Middle Gorge", "Owens Gorge Small Hydroelectric Generating Resource", "1", "1952", "37500", "37500" ]
+, [ 57, "E9CC5EB9-435E-4D06-88DF-0FAD4360AC33", 57, 1400116251, "877550", 1400116251, "877550", "{\n}", "Control Gorge", "Owens Gorge Small Hydroelectric Generating Resource", "1", "1952", "37500", "37500" ]
+, [ 58, "376C457A-C248-44E0-8FB4-E86EF11463F5", 58, 1400116251, "877550", 1400116251, "877550", "{\n}", "Foothill (PP4)", " Aqueduct Small Hydroelectric Generating Resource", "1", "1971", "11000", "9900" ]
+, [ 59, "6B2D4F6A-9C5B-4726-85C4-312E968ECC9C", 59, 1400116251, "877550", 1400116251, "877550", "{\n}", "Franklin (PP5)", " Aqueduct Small Hydroelectric Generating Resource", "1", "1921", "2000", "2000" ]
+, [ 60, "18722F09-CDD7-4D6B-910A-DEBBF2D51DBA", 60, 1400116251, "877550", 1400116251, "877550", "{\n}", "San Francisquito 1 ", " Aqueduct Small Hydroelectric Generating Resource", "1A", "1983", "22500", "27000" ]
+, [ 61, "AC18827E-0C99-4687-976D-FFE0AA2356FC", 61, 1400116251, "877550", 1400116251, "877550", "{\n}", "(PP1)", " Aqueduct Small Hydroelectric Generating Resource", "3", "1917", "7500", "10000" ]
+, [ 62, "71FE2025-A0D0-409D-92AF-CB3AF22D8FDF", 62, 1400116251, "877550", 1400116251, "877550", "{\n}", null, " Aqueduct Small Hydroelectric Generating Resource", "4", "1923", "10000", "12000" ]
+, [ 63, "B98F0730-F6BA-4C39-8AC4-F31EDE5229FB", 63, 1400116251, "877550", 1400116251, "877550", "{\n}", null, " Aqueduct Small Hydroelectric Generating Resource", "5A", "1987", "22500", "27000" ]
+, [ 64, "E15E742E-79C8-433A-A297-A97D3E8948A5", 64, 1400116251, "877550", 1400116251, "877550", "{\n}", "San Francisquito 2", " Aqueduct Small Hydroelectric Generating Resource", "1", "1919", "14000", "0" ]
+, [ 65, "44C4E1ED-C6B8-40FB-A0CD-0643425A088D", 65, 1400116251, "877550", 1400116251, "877550", "{\n}", "(PP2)", " Aqueduct Small Hydroelectric Generating Resource", "2", "1919", "14000", "14000" ]
+, [ 66, "015D260C-CBA3-4745-A969-FC8E7CB5FAEE", 66, 1400116251, "877550", 1400116251, "877550", "{\n}", null, " Aqueduct Small Hydroelectric Generating Resource", "3", "2006", "18000", "18000" ]
+, [ 67, "70CB3DD3-FF9D-434C-A702-B7674A3CC15C", 67, 1400116251, "877550", 1400116251, "877550", "{\n}", "San Fernando 1", " Aqueduct Small Hydroelectric Generating Resource", "1", "1922", "2800", "3200" ]
+, [ 68, "4ED3EB3B-F763-471B-88A2-17ABFE003668", 68, 1400116251, "877550", 1400116251, "877550", "{\n}", "(PP3)", " Aqueduct Small Hydroelectric Generating Resource", "2", "1922", "2800", "2900" ]
+, [ 69, "F9D42CB1-A8E2-4666-954C-CA2E64689FE1", 69, 1400116251, "877550", 1400116251, "877550", "{\n}", "Sawtelle (PP6)", " Aqueduct Small Hydroelectric Generating Resource", "1", "1986", "640", "650" ]
+, [ 70, "9AF3E259-39F1-4371-9219-2AE33E60B918", 70, 1400116251, "877550", 1400116251, "877550", "{\n}", "PPM SW Wyoming", "Renewables and DG Generating Resources", "PPA", "2006", "144000", "82200" ]
+, [ 71, "1E2A9FAF-5FB4-410E-B51D-E7EFC931CD04", 71, 1400116251, "877550", 1400116251, "877550", "{\n}", "Willow Creek", "Renewables and DG Generating Resources", "PPA", "2008", "72000", "72000" ]
+, [ 72, "8F9D9371-1144-4AB2-95E2-E7B6DA3730EB", 72, 1400116251, "877550", 1400116251, "877550", "{\n}", "PPM Pebble Springs", "Renewables and DG Generating Resources", "PPA", "2009", "98700", "68695" ]
+, [ 73, "F75C1DE2-8BA2-4F14-9C85-29636F694206", 73, 1400116251, "877550", 1400116251, "877550", "{\n}", "Pine Tree", "Renewables and DG Generating Resources", "Own", "2009", "120000", "120000" ]
+, [ 74, "816C7E5E-0D1A-4B68-BF31-C56A65C5CF58", 74, 1400116251, "877550", 1400116251, "877550", "{\n}", "Milford Wind Phase I", "Renewables and DG Generating Resources", "OPPA/Own", "2009", "200000", "185000" ]
+, [ 75, "98CB4CA6-6EED-414D-B949-05CB5D6019BB", 75, 1400116251, "877550", 1400116251, "877550", "{\n}", "WindyPoint Phase II", "Renewables and DG Generating Resources", "PPA/Own", "2010", "262200", "262200" ]
+, [ 76, "95F59F82-53C9-4AC9-A970-975873822D04", 76, 1400116251, "877550", 1400116251, "877550", "{\n}", "Pine Tree Expansion", "Renewables and DG Generating Resources", "Own", "2010", "15000", "15000" ]
+, [ 77, "30272DD5-ECEA-449D-BC4C-A28C093A14FA", 77, 1400116251, "877550", 1400116251, "877550", "{\n}", "Linden", "Renewables and DG Generating Resources", "Own", "2010", "50000", "50000" ]
+, [ 78, "6B74942A-6201-4493-9200-2E1BE96C449D", 78, 1400116251, "877550", 1400116251, "877550", "{\n}", "Milford Wind Phase II", "Renewables and DG Generating Resources", "PPA/Own", "2011", "102000", "102000" ]
+, [ 79, "32FAF443-654F-4F3A-B53B-2681603D5CF6", 79, 1400116251, "877550", 1400116251, "877550", "{\n  \"invalidCells\" : {\n    \"19731585\" : \"1999-2012\"\n  }\n}", "DWP Community Solar", "Renewables and DG Generating Resources", "Own", null, "2100", "2100" ]
+, [ 80, "AB11546B-03E8-40E9-96A7-110A1CD29914", 80, 1400116251, "877550", 1400116251, "877550", "{\n  \"invalidCells\" : {\n    \"19731585\" : \"1999-2012\"\n  }\n}", "Solar CNM (SB1)", "Renewables and DG Generating Resources", "Own (REC's only)", null, "54000", "54000" ]
+, [ 81, "92547ECE-49BB-4890-8C1E-C202E735ED85", 81, 1400116251, "877550", 1400116251, "877550", "{\n  \"invalidCells\" : {\n    \"19731585\" : \"1908-1987\"\n  }\n}", "Small Hydro", "Renewables and DG Generating Resources", "Own", null, "208080", "208080" ]
+, [ 82, "1FA4B640-5319-49D6-B629-CDB9C43F0DC5", 82, 1400116251, "877550", 1400116251, "877550", "{\n}", "MWD Sepulveda", "Renewables and DG Generating Resources", "PPA", "2008", "8540", "8540" ]
+, [ 83, "0FCEF227-04B1-46A5-A21B-7BD6A511CC6F", 83, 1400116251, "877550", 1400116251, "877550", "{\n  \"invalidCells\" : {\n    \"19731585\" : \"2008-2009\"\n  }\n}", "Castaic U3&U5 Upgrade", "Renewables and DG Generating Resources", "Own", null, "30000", "30000" ]
+, [ 84, "789DE7E4-156E-4DBB-B86D-65D6DA18CA37", 84, 1400116251, "877550", 1400116251, "877550", "{\n}", "North Hollywood PS Power Plant", "Renewables and DG Generating Resources", "Own", "2010", "1000", "1000" ]
+, [ 85, "E6270D64-372C-4227-9EDA-CCCEAC165990", 85, 1400116251, "877550", 1400116251, "877550", "{\n}", "Hyperion Digester Gas", "Renewables and DG Generating Resources", "Own", "1995", "16000", "16000" ]
+, [ 86, "4D8F180E-BDF4-4254-8877-65160BC154E0", 86, 1400116251, "877550", 1400116251, "877550", "{\n}", "Lopez Microturbine", "Renewables and DG Generating Resources", "Own", "2002", "1500", "1500" ]
+, [ 87, "E9925B30-1BA9-4FAF-B745-07938D233E7E", 87, 1400116251, "877550", 1400116251, "877550", "{\n}", "WM Bradley", "Renewables and DG Generating Resources", "PPA", "2006", "6400", "6400" ]
+, [ 88, "48B0DA51-5E11-4672-AC71-3B8AF1B9125A", 88, 1400116251, "877550", 1400116251, "877550", "{\n  \"invalidCells\" : {\n    \"19731587\" : \"n/a\",\n    \"19731586\" : \"n/a\"\n  }\n}", "Shell Energy Landfill Gas", "Renewables and DG Generating Resources", "PPA", "2009", null, null ]
+, [ 89, "4742A664-B865-44C4-BC5D-5963B50495E7", 89, 1400116251, "877550", 1400116251, "877550", "{\n  \"invalidCells\" : {\n    \"19731587\" : \"n/a\",\n    \"19731586\" : \"n/a\"\n  }\n}", "Atmos Energy Landfill Gas", "Renewables and DG Generating Resources", "PPA", "2009", null, null ]
+, [ 90, "A80C9578-A370-41B5-8AD0-F7FBDE7ED5E7", 90, 1400116251, "877550", 1400116251, "877550", "{\n}", "Toyon Power Plant", "Renewables and DG Generating Resources", "PPA", "2010", "3600", "3600" ]
+, [ 91, "2842E056-067D-4562-A3A8-AEE25044F52C", 91, 1400116251, "877550", 1400116251, "877550", "{\n  \"invalidCells\" : {\n    \"19731587\" : \"n/a\",\n    \"19731586\" : \"n/a\"\n  }\n}", "Shell Renewable Biomethane", "Renewables and DG Generating Resources", "PPA", "2012", null, null ]
+, [ 92, "126AC41A-A4CB-47D6-8C5A-23FFDF161D7E", 92, 1400116251, "877550", 1400116251, "877550", "{\n  \"invalidCells\" : {\n    \"19731585\" : \"1998-2000\"\n  }\n}", "Customer Cogenerations", "Renewables and DG Generating Resources", "PPA", null, "303000", "45000" ]
+ ]
+}

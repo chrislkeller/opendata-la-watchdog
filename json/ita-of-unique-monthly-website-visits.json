@@ -1,0 +1,252 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "822f-gjp4",
+      "name" : "ITA- # of Unique Monthly Website Visits",
+      "averageRating" : 0,
+      "createdAt" : 1401489078,
+      "displayType" : "table",
+      "downloadCount" : 3,
+      "indexUpdatedAt" : 1414612799,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8108976,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401489121,
+      "publicationGroup" : 1600642,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1401489083,
+      "rowsUpdatedBy" : "tyhz-nfmm",
+      "tableId" : 1600642,
+      "totalTimesRated" : 0,
+      "viewCount" : 37,
+      "viewLastModified" : 1402586111,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150663637,
+        "name" : "Date",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date",
+        "position" : 2,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 20022385,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "2013-12-01T00:00:00",
+          "null" : 0,
+          "largest" : "2014-04-01T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2013-12-01T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2014-01-01T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2014-02-01T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2014-03-01T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2014-04-01T00:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150663638,
+        "name" : "Date Name",
+        "dataTypeName" : "text",
+        "fieldName" : "date_name",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20022386,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "Apr-14",
+          "null" : 0,
+          "largest" : "Mar-14",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Dec-13"
+          }, {
+            "count" : 19,
+            "item" : "Jan-14"
+          }, {
+            "count" : 18,
+            "item" : "Feb-14"
+          }, {
+            "count" : 17,
+            "item" : "Mar-14"
+          }, {
+            "count" : 16,
+            "item" : "Apr-14"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150663639,
+        "name" : "# of Visitors",
+        "dataTypeName" : "number",
+        "fieldName" : "of_unique_visitors_on_public_website",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20022387,
+        "width" : 256,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "191500",
+          "sum" : "1052012",
+          "null" : 0,
+          "average" : "210402.4",
+          "largest" : "228656",
+          "top" : [ {
+            "count" : 20,
+            "item" : "191500"
+          }, {
+            "count" : 19,
+            "item" : "228656"
+          }, {
+            "count" : 18,
+            "item" : "205835"
+          }, {
+            "count" : 17,
+            "item" : "218372"
+          }, {
+            "count" : 16,
+            "item" : "207649"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "false"
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "yb4r-dcys",
+        "displayName" : "ITA OpenData",
+        "profileImageUrlLarge" : "/images/profile/9462/4839/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9462/4839/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9462/4839/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "ITA OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "yb4r-dcys",
+        "displayName" : "ITA OpenData",
+        "profileImageUrlLarge" : "/images/profile/9462/4839/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9462/4839/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9462/4839/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "ITA OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "E391F2FE-2632-4EC2-BF9A-E229597938CE", 1, 1401489080, "865572", 1401489080, "865572", "{\n}", "2013-12-01T00:00:00", "Dec-13", "191500" ]
+, [ 2, "3C1BEC13-BC12-470A-8E73-0E9B4EE17F62", 2, 1401489080, "865572", 1401489080, "865572", "{\n}", "2014-01-01T00:00:00", "Jan-14", "228656" ]
+, [ 3, "587B4962-408A-44E3-8228-EFF66574D082", 3, 1401489080, "865572", 1401489080, "865572", "{\n}", "2014-02-01T00:00:00", "Feb-14", "205835" ]
+, [ 4, "1F052443-E961-4392-B665-7954AE499E4D", 4, 1401489080, "865572", 1401489080, "865572", "{\n}", "2014-03-01T00:00:00", "Mar-14", "218372" ]
+, [ 5, "8D35C139-A7AD-4308-88A0-06158F6DF2C7", 5, 1401489080, "865572", 1401489080, "865572", "{\n}", "2014-04-01T00:00:00", "Apr-14", "207649" ]
+ ]
+}

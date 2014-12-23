@@ -1,0 +1,1346 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "idqz-6ngx",
+      "name" : "Applicant Information From 7-1-2013 To 6-30-2014",
+      "attribution" : "Personnel Department",
+      "averageRating" : 0,
+      "createdAt" : 1412965063,
+      "description" : "Job applicant information by gender and ethnicity",
+      "displayType" : "table",
+      "downloadCount" : 6,
+      "indexUpdatedAt" : 1414612929,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 9087576,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1412965171,
+      "publicationGroup" : 1781574,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1412965077,
+      "rowsUpdatedBy" : "agii-8fjm",
+      "tableId" : 1781574,
+      "totalTimesRated" : 0,
+      "viewCount" : 16,
+      "viewLastModified" : 1412965171,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 170716107,
+        "name" : "Job Number",
+        "dataTypeName" : "text",
+        "fieldName" : "job_number",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 22342737,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 148,
+          "smallest" : "0602 O 2013/08/30",
+          "null" : 2,
+          "largest" : "P 2014/06/06",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1865 P 2014/3/28"
+          }, {
+            "count" : 19,
+            "item" : "1179 OP 2014/04/25"
+          }, {
+            "count" : 18,
+            "item" : "7640 OP 2014/06/13"
+          }, {
+            "count" : 17,
+            "item" : "3421 OP 2014/02/07"
+          }, {
+            "count" : 16,
+            "item" : "3586 P 2013/09/27"
+          }, {
+            "count" : 15,
+            "item" : "3586 P 2014/4/4"
+          }, {
+            "count" : 14,
+            "item" : "1511 O 2014/01/31"
+          }, {
+            "count" : 13,
+            "item" : "9105 p 2014/03/14"
+          }, {
+            "count" : 12,
+            "item" : "1861 P 2014/04/18"
+          }, {
+            "count" : 11,
+            "item" : "1336 P 2014/04/25"
+          }, {
+            "count" : 10,
+            "item" : "2495 O 2013/09/06"
+          }, {
+            "count" : 9,
+            "item" : "1832 OP 2013/09/27"
+          }, {
+            "count" : 8,
+            "item" : "4113 P 2013/11/22"
+          }, {
+            "count" : 7,
+            "item" : "3930 P 2013/08/02"
+          }, {
+            "count" : 6,
+            "item" : "9602 P 2013-11-29"
+          }, {
+            "count" : 5,
+            "item" : "5885 O 2013/08/09"
+          }, {
+            "count" : 4,
+            "item" : "5887 P 2013/08/02"
+          }, {
+            "count" : 3,
+            "item" : "5854 O/P 2013/08/30"
+          }, {
+            "count" : 2,
+            "item" : "3980 P 2013/10/04"
+          }, {
+            "count" : 1,
+            "item" : "7248 P 08/09/13"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170716108,
+        "name" : "Job Description",
+        "dataTypeName" : "text",
+        "fieldName" : "job_description",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 22342738,
+        "width" : 280,
+        "cachedContents" : {
+          "non_null" : 150,
+          "smallest" : "311 DIRECTOR 9206",
+          "null" : 0,
+          "largest" : "WORKERS' COMPENSATION ASSISTANT 1775",
+          "top" : [ {
+            "count" : 20,
+            "item" : "SUPERINTENDENT OF RECREATION AND PARKS OPERATIONS 2472"
+          }, {
+            "count" : 19,
+            "item" : "SUPPLY SERVICES MANAGER 1865"
+          }, {
+            "count" : 18,
+            "item" : "TAX COMPLIANCE OFFICER 1179"
+          }, {
+            "count" : 17,
+            "item" : "TELECOMMUNICATIONS PLANNING AND UTILIZATION OFFICER 7640"
+          }, {
+            "count" : 16,
+            "item" : "TRAFFIC PAINTER AND SIGN POSTER 3421"
+          }, {
+            "count" : 15,
+            "item" : "TRUCK AND EQUIPMENT DISPATCHER 3586"
+          }, {
+            "count" : 14,
+            "item" : "UTILITY ACCOUNTANT 1511 (Revised 2/12/14)"
+          }, {
+            "count" : 13,
+            "item" : "UTILITY ADMINISTRATOR 9105"
+          }, {
+            "count" : 12,
+            "item" : "UTILITY BUYER 1861"
+          }, {
+            "count" : 11,
+            "item" : "UTILITY EXECUTIVE SECRETARY 1336"
+          }, {
+            "count" : 10,
+            "item" : "VOLUNTEER COORDINATOR 2495"
+          }, {
+            "count" : 9,
+            "item" : "WAREHOUSE AND TOOLROOM WORKER 1832"
+          }, {
+            "count" : 8,
+            "item" : "WASTEWATER COLLECTION SUPERVISOR 4113 (REVISED 11/25/13)"
+          }, {
+            "count" : 7,
+            "item" : "WATER SERVICE SUPERVISOR 3930"
+          }, {
+            "count" : 6,
+            "item" : "WATER SERVICES MANAGER"
+          }, {
+            "count" : 5,
+            "item" : "WATER TREATMENT OPERATOR 5885"
+          }, {
+            "count" : 4,
+            "item" : "WATER TREATMENT SUPERVISOR 5887"
+          }, {
+            "count" : 3,
+            "item" : "WATER UTILITY OPERATOR 5854"
+          }, {
+            "count" : 2,
+            "item" : "WATER UTILITY SUPERINTENDENT 3980"
+          }, {
+            "count" : 1,
+            "item" : "WATERWORKS ENGINEER"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170716109,
+        "name" : "Apps Received",
+        "dataTypeName" : "number",
+        "fieldName" : "apps_received",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 22342739,
+        "width" : 256,
+        "cachedContents" : {
+          "non_null" : 150,
+          "smallest" : "5",
+          "sum" : "151918",
+          "null" : 0,
+          "average" : "1012.786666666667",
+          "largest" : "75959",
+          "top" : [ {
+            "count" : 20,
+            "item" : "13"
+          }, {
+            "count" : 19,
+            "item" : "14"
+          }, {
+            "count" : 18,
+            "item" : "38"
+          }, {
+            "count" : 17,
+            "item" : "97"
+          }, {
+            "count" : 16,
+            "item" : "32"
+          }, {
+            "count" : 15,
+            "item" : "93"
+          }, {
+            "count" : 14,
+            "item" : "28"
+          }, {
+            "count" : 13,
+            "item" : "911"
+          }, {
+            "count" : 12,
+            "item" : "494"
+          }, {
+            "count" : 11,
+            "item" : "126"
+          }, {
+            "count" : 10,
+            "item" : "430"
+          }, {
+            "count" : 9,
+            "item" : "326"
+          }, {
+            "count" : 8,
+            "item" : "3551"
+          }, {
+            "count" : 7,
+            "item" : "44"
+          }, {
+            "count" : 6,
+            "item" : "8"
+          }, {
+            "count" : 5,
+            "item" : "344"
+          }, {
+            "count" : 4,
+            "item" : "16"
+          }, {
+            "count" : 3,
+            "item" : "291"
+          }, {
+            "count" : 2,
+            "item" : "50"
+          }, {
+            "count" : 1,
+            "item" : "181"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170716110,
+        "name" : "Female",
+        "dataTypeName" : "number",
+        "fieldName" : "female",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 22342740,
+        "width" : 172,
+        "cachedContents" : {
+          "non_null" : 150,
+          "smallest" : "0",
+          "sum" : "68466",
+          "null" : 0,
+          "average" : "456.44",
+          "largest" : "34233",
+          "top" : [ {
+            "count" : 20,
+            "item" : "13"
+          }, {
+            "count" : 19,
+            "item" : "9"
+          }, {
+            "count" : 18,
+            "item" : "3"
+          }, {
+            "count" : 17,
+            "item" : "27"
+          }, {
+            "count" : 16,
+            "item" : "2"
+          }, {
+            "count" : 15,
+            "item" : "0"
+          }, {
+            "count" : 14,
+            "item" : "1"
+          }, {
+            "count" : 13,
+            "item" : "5"
+          }, {
+            "count" : 12,
+            "item" : "8"
+          }, {
+            "count" : 11,
+            "item" : "24"
+          }, {
+            "count" : 10,
+            "item" : "17"
+          }, {
+            "count" : 9,
+            "item" : "15"
+          }, {
+            "count" : 8,
+            "item" : "34"
+          }, {
+            "count" : 7,
+            "item" : "4"
+          }, {
+            "count" : 6,
+            "item" : "64"
+          }, {
+            "count" : 5,
+            "item" : "227"
+          }, {
+            "count" : 4,
+            "item" : "314"
+          }, {
+            "count" : 3,
+            "item" : "23"
+          }, {
+            "count" : 2,
+            "item" : "12"
+          }, {
+            "count" : 1,
+            "item" : "32"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170716111,
+        "name" : "Male",
+        "dataTypeName" : "number",
+        "fieldName" : "male",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 22342741,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 150,
+          "smallest" : "2",
+          "sum" : "81272",
+          "null" : 0,
+          "average" : "541.8133333333333",
+          "largest" : "40636",
+          "top" : [ {
+            "count" : 20,
+            "item" : "15"
+          }, {
+            "count" : 19,
+            "item" : "84"
+          }, {
+            "count" : 18,
+            "item" : "27"
+          }, {
+            "count" : 17,
+            "item" : "14"
+          }, {
+            "count" : 16,
+            "item" : "13"
+          }, {
+            "count" : 15,
+            "item" : "8"
+          }, {
+            "count" : 14,
+            "item" : "336"
+          }, {
+            "count" : 13,
+            "item" : "180"
+          }, {
+            "count" : 12,
+            "item" : "58"
+          }, {
+            "count" : 11,
+            "item" : "31"
+          }, {
+            "count" : 10,
+            "item" : "94"
+          }, {
+            "count" : 9,
+            "item" : "3219"
+          }, {
+            "count" : 8,
+            "item" : "42"
+          }, {
+            "count" : 7,
+            "item" : "314"
+          }, {
+            "count" : 6,
+            "item" : "277"
+          }, {
+            "count" : 5,
+            "item" : "48"
+          }, {
+            "count" : 4,
+            "item" : "145"
+          }, {
+            "count" : 3,
+            "item" : "140"
+          }, {
+            "count" : 2,
+            "item" : "29"
+          }, {
+            "count" : 1,
+            "item" : "357"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170716112,
+        "name" : "Unknown_Gender",
+        "dataTypeName" : "number",
+        "fieldName" : "unknown_gender",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 22342742,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 150,
+          "smallest" : "0",
+          "sum" : "2180",
+          "null" : 0,
+          "average" : "14.53333333333333",
+          "largest" : "1090",
+          "top" : [ {
+            "count" : 20,
+            "item" : "3"
+          }, {
+            "count" : 19,
+            "item" : "8"
+          }, {
+            "count" : 18,
+            "item" : "1"
+          }, {
+            "count" : 17,
+            "item" : "6"
+          }, {
+            "count" : 16,
+            "item" : "32"
+          }, {
+            "count" : 15,
+            "item" : "19"
+          }, {
+            "count" : 14,
+            "item" : "2"
+          }, {
+            "count" : 13,
+            "item" : "0"
+          }, {
+            "count" : 12,
+            "item" : "11"
+          }, {
+            "count" : 11,
+            "item" : "5"
+          }, {
+            "count" : 10,
+            "item" : "370"
+          }, {
+            "count" : 9,
+            "item" : "14"
+          }, {
+            "count" : 8,
+            "item" : "10"
+          }, {
+            "count" : 7,
+            "item" : "17"
+          }, {
+            "count" : 6,
+            "item" : "4"
+          }, {
+            "count" : 5,
+            "item" : "12"
+          }, {
+            "count" : 4,
+            "item" : "9"
+          }, {
+            "count" : 3,
+            "item" : "33"
+          }, {
+            "count" : 2,
+            "item" : "28"
+          }, {
+            "count" : 1,
+            "item" : "44"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170716113,
+        "name" : "Black",
+        "dataTypeName" : "number",
+        "fieldName" : "black",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 22342743,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 150,
+          "smallest" : "0",
+          "sum" : "49212",
+          "null" : 0,
+          "average" : "328.08",
+          "largest" : "24606",
+          "top" : [ {
+            "count" : 20,
+            "item" : "8"
+          }, {
+            "count" : 19,
+            "item" : "3"
+          }, {
+            "count" : 18,
+            "item" : "12"
+          }, {
+            "count" : 17,
+            "item" : "24"
+          }, {
+            "count" : 16,
+            "item" : "7"
+          }, {
+            "count" : 15,
+            "item" : "6"
+          }, {
+            "count" : 14,
+            "item" : "19"
+          }, {
+            "count" : 13,
+            "item" : "0"
+          }, {
+            "count" : 12,
+            "item" : "1"
+          }, {
+            "count" : 11,
+            "item" : "2"
+          }, {
+            "count" : 10,
+            "item" : "9"
+          }, {
+            "count" : 9,
+            "item" : "5"
+          }, {
+            "count" : 8,
+            "item" : "26"
+          }, {
+            "count" : 7,
+            "item" : "15"
+          }, {
+            "count" : 6,
+            "item" : "4"
+          }, {
+            "count" : 5,
+            "item" : "11"
+          }, {
+            "count" : 4,
+            "item" : "307"
+          }, {
+            "count" : 3,
+            "item" : "90"
+          }, {
+            "count" : 2,
+            "item" : "91"
+          }, {
+            "count" : 1,
+            "item" : "22"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170716114,
+        "name" : "Hispanic",
+        "dataTypeName" : "number",
+        "fieldName" : "hispanic",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 22342744,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 150,
+          "smallest" : "0",
+          "sum" : "55680",
+          "null" : 0,
+          "average" : "371.2",
+          "largest" : "27840",
+          "top" : [ {
+            "count" : 20,
+            "item" : "12"
+          }, {
+            "count" : 19,
+            "item" : "7"
+          }, {
+            "count" : 18,
+            "item" : "3"
+          }, {
+            "count" : 17,
+            "item" : "11"
+          }, {
+            "count" : 16,
+            "item" : "4"
+          }, {
+            "count" : 15,
+            "item" : "19"
+          }, {
+            "count" : 14,
+            "item" : "17"
+          }, {
+            "count" : 13,
+            "item" : "2"
+          }, {
+            "count" : 12,
+            "item" : "24"
+          }, {
+            "count" : 11,
+            "item" : "1"
+          }, {
+            "count" : 10,
+            "item" : "51"
+          }, {
+            "count" : 9,
+            "item" : "27840"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170716115,
+        "name" : "Asian",
+        "dataTypeName" : "number",
+        "fieldName" : "asian",
+        "position" : 10,
+        "renderTypeName" : "number",
+        "tableColumnId" : 22342745,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 150,
+          "smallest" : "0",
+          "sum" : "11312",
+          "null" : 0,
+          "average" : "75.41333333333333",
+          "largest" : "5656",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          }, {
+            "count" : 19,
+            "item" : "9"
+          }, {
+            "count" : 18,
+            "item" : "3"
+          }, {
+            "count" : 17,
+            "item" : "7"
+          }, {
+            "count" : 16,
+            "item" : "2"
+          }, {
+            "count" : 15,
+            "item" : "19"
+          }, {
+            "count" : 14,
+            "item" : "5"
+          }, {
+            "count" : 13,
+            "item" : "0"
+          }, {
+            "count" : 12,
+            "item" : "11"
+          }, {
+            "count" : 11,
+            "item" : "8"
+          }, {
+            "count" : 10,
+            "item" : "29"
+          }, {
+            "count" : 9,
+            "item" : "12"
+          }, {
+            "count" : 8,
+            "item" : "4"
+          }, {
+            "count" : 7,
+            "item" : "18"
+          }, {
+            "count" : 6,
+            "item" : "10"
+          }, {
+            "count" : 5,
+            "item" : "13"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170716116,
+        "name" : "Caucasian",
+        "dataTypeName" : "number",
+        "fieldName" : "caucasian",
+        "position" : 11,
+        "renderTypeName" : "number",
+        "tableColumnId" : 22342746,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 150,
+          "smallest" : "0",
+          "sum" : "21350",
+          "null" : 0,
+          "average" : "142.3333333333333",
+          "largest" : "10675",
+          "top" : [ {
+            "count" : 20,
+            "item" : "6"
+          }, {
+            "count" : 19,
+            "item" : "37"
+          }, {
+            "count" : 18,
+            "item" : "4"
+          }, {
+            "count" : 17,
+            "item" : "42"
+          }, {
+            "count" : 16,
+            "item" : "59"
+          }, {
+            "count" : 15,
+            "item" : "10"
+          }, {
+            "count" : 14,
+            "item" : "3"
+          }, {
+            "count" : 13,
+            "item" : "5"
+          }, {
+            "count" : 12,
+            "item" : "11"
+          }, {
+            "count" : 11,
+            "item" : "33"
+          }, {
+            "count" : 10,
+            "item" : "9"
+          }, {
+            "count" : 9,
+            "item" : "8"
+          }, {
+            "count" : 8,
+            "item" : "30"
+          }, {
+            "count" : 7,
+            "item" : "17"
+          }, {
+            "count" : 6,
+            "item" : "71"
+          }, {
+            "count" : 5,
+            "item" : "18"
+          }, {
+            "count" : 4,
+            "item" : "40"
+          }, {
+            "count" : 3,
+            "item" : "12"
+          }, {
+            "count" : 2,
+            "item" : "35"
+          }, {
+            "count" : 1,
+            "item" : "2"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170716117,
+        "name" : "American Indian/ Alaskan Native",
+        "dataTypeName" : "number",
+        "fieldName" : "american_indian_alaskan_native",
+        "position" : 12,
+        "renderTypeName" : "number",
+        "tableColumnId" : 22342747,
+        "width" : 472,
+        "cachedContents" : {
+          "non_null" : 150,
+          "smallest" : "0",
+          "sum" : "844",
+          "null" : 0,
+          "average" : "5.626666666666667",
+          "largest" : "422",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0"
+          }, {
+            "count" : 19,
+            "item" : "3"
+          }, {
+            "count" : 18,
+            "item" : "1"
+          }, {
+            "count" : 17,
+            "item" : "2"
+          }, {
+            "count" : 16,
+            "item" : "5"
+          }, {
+            "count" : 15,
+            "item" : "131"
+          }, {
+            "count" : 14,
+            "item" : "10"
+          }, {
+            "count" : 13,
+            "item" : "8"
+          }, {
+            "count" : 12,
+            "item" : "7"
+          }, {
+            "count" : 11,
+            "item" : "4"
+          }, {
+            "count" : 10,
+            "item" : "15"
+          }, {
+            "count" : 9,
+            "item" : "24"
+          }, {
+            "count" : 8,
+            "item" : "11"
+          }, {
+            "count" : 7,
+            "item" : "18"
+          }, {
+            "count" : 6,
+            "item" : "9"
+          }, {
+            "count" : 5,
+            "item" : "21"
+          }, {
+            "count" : 4,
+            "item" : "422"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170716118,
+        "name" : "Filipino",
+        "dataTypeName" : "number",
+        "fieldName" : "filipino",
+        "position" : 13,
+        "renderTypeName" : "number",
+        "tableColumnId" : 22342748,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 150,
+          "smallest" : "0",
+          "sum" : "5992",
+          "null" : 0,
+          "average" : "39.94666666666667",
+          "largest" : "2996",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0"
+          }, {
+            "count" : 19,
+            "item" : "1"
+          }, {
+            "count" : 18,
+            "item" : "6"
+          }, {
+            "count" : 17,
+            "item" : "4"
+          }, {
+            "count" : 16,
+            "item" : "40"
+          }, {
+            "count" : 15,
+            "item" : "10"
+          }, {
+            "count" : 14,
+            "item" : "2"
+          }, {
+            "count" : 13,
+            "item" : "9"
+          }, {
+            "count" : 12,
+            "item" : "3"
+          }, {
+            "count" : 11,
+            "item" : "15"
+          }, {
+            "count" : 10,
+            "item" : "13"
+          }, {
+            "count" : 9,
+            "item" : "14"
+          }, {
+            "count" : 8,
+            "item" : "41"
+          }, {
+            "count" : 7,
+            "item" : "11"
+          }, {
+            "count" : 6,
+            "item" : "16"
+          }, {
+            "count" : 5,
+            "item" : "5"
+          }, {
+            "count" : 4,
+            "item" : "38"
+          }, {
+            "count" : 3,
+            "item" : "8"
+          }, {
+            "count" : 2,
+            "item" : "23"
+          }, {
+            "count" : 1,
+            "item" : "28"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170716119,
+        "name" : "UnknownEthnicity",
+        "dataTypeName" : "number",
+        "fieldName" : "unknownethnicity",
+        "position" : 14,
+        "renderTypeName" : "number",
+        "tableColumnId" : 22342749,
+        "width" : 292,
+        "cachedContents" : {
+          "non_null" : 150,
+          "smallest" : "0",
+          "sum" : "7528",
+          "null" : 0,
+          "average" : "50.18666666666667",
+          "largest" : "3764",
+          "top" : [ {
+            "count" : 20,
+            "item" : "4"
+          }, {
+            "count" : 19,
+            "item" : "26"
+          }, {
+            "count" : 18,
+            "item" : "2"
+          }, {
+            "count" : 17,
+            "item" : "14"
+          }, {
+            "count" : 16,
+            "item" : "5"
+          }, {
+            "count" : 15,
+            "item" : "6"
+          }, {
+            "count" : 14,
+            "item" : "9"
+          }, {
+            "count" : 13,
+            "item" : "0"
+          }, {
+            "count" : 12,
+            "item" : "1"
+          }, {
+            "count" : 11,
+            "item" : "19"
+          }, {
+            "count" : 10,
+            "item" : "10"
+          }, {
+            "count" : 9,
+            "item" : "11"
+          }, {
+            "count" : 8,
+            "item" : "8"
+          }, {
+            "count" : 7,
+            "item" : "3"
+          }, {
+            "count" : 6,
+            "item" : "7"
+          }, {
+            "count" : 5,
+            "item" : "21"
+          }, {
+            "count" : 4,
+            "item" : "18"
+          }, {
+            "count" : 3,
+            "item" : "12"
+          }, {
+            "count" : 2,
+            "item" : "63"
+          }, {
+            "count" : 1,
+            "item" : "38"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Committed Update Frequency" : {
+            "Refresh rate" : "Semi-annual"
+          },
+          "Data Owner" : {
+            "Board of Public Works" : "",
+            "LAPD" : "",
+            "City Administrative Officer" : "",
+            "Personnel " : "",
+            "Bureau of Engineering" : "",
+            "City Attorney" : "",
+            "Employee Relations Board" : "",
+            "Transportation" : "",
+            "Housing and Community Investment" : "",
+            "Library" : "",
+            "Recreation and Parks " : "",
+            "Neighborhood Empowerment" : "",
+            "Controller's Office" : "",
+            "El Pueblo" : "",
+            "Other" : "",
+            "Bureau of Sanitation" : "",
+            "Disability, Department on" : "",
+            "LACERS" : "",
+            "Cultural Affairs" : "",
+            "Information Technology" : "",
+            "Fire and Police Pensions" : "",
+            "Emergency Management" : "",
+            "General Services" : "",
+            "Council District 12" : "",
+            "Council District 13" : "",
+            "Council District 14" : "",
+            "Project Restore" : "",
+            "Council District 15" : "",
+            "Council District 10" : "",
+            "Council District 11" : "",
+            "Aging" : "",
+            "Bureau of Street Lighting" : "",
+            "City Clerk" : "",
+            "Bureau of Contract Administration" : "",
+            "Planning" : "",
+            "Harbor " : "",
+            "LAWA" : "",
+            "Public Accountability, The Office of" : "",
+            "Office of Finance" : "",
+            "Council District 03" : "",
+            "Council District 04" : "",
+            "Council District 01" : "",
+            "Council District 02" : "",
+            "Bureau of Street Services" : "",
+            "Zoo" : "",
+            "Council District 09" : "",
+            "Council District 07" : "",
+            "Council District 08" : "",
+            "Council District 05" : "",
+            "Council District 06" : "",
+            "Economic and Workforce Development" : "",
+            "LAFD" : "",
+            "Animal Services" : "",
+            "Ethics Commission" : "",
+            "Mayor's Office" : "",
+            "Housing Authority" : "",
+            "Building and Safety" : "",
+            "LADWP" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "agii-8fjm",
+        "displayName" : "Personnel OpenData",
+        "profileImageUrlLarge" : "/images/profile/7195/0527/perlogo_Fade_large.gif",
+        "profileImageUrlMedium" : "/images/profile/7195/0527/perlogo_Fade_thumb.gif",
+        "profileImageUrlSmall" : "/images/profile/7195/0527/perlogo_Fade_tiny.gif",
+        "roleName" : "editor",
+        "screenName" : "Personnel OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "agii-8fjm",
+        "displayName" : "Personnel OpenData",
+        "profileImageUrlLarge" : "/images/profile/7195/0527/perlogo_Fade_large.gif",
+        "profileImageUrlMedium" : "/images/profile/7195/0527/perlogo_Fade_thumb.gif",
+        "profileImageUrlSmall" : "/images/profile/7195/0527/perlogo_Fade_tiny.gif",
+        "roleName" : "editor",
+        "screenName" : "Personnel OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "BED990B4-95B2-4674-88B5-123986A57C3B", 1, 1412965067, "883850", 1412965067, "883850", "{\n}", "9206 OP 2014/04/18", "311 DIRECTOR 9206", "54", "20", "31", "3", "25", "18", "1", "6", "0", "0", "4" ]
+, [ 2, "5BC478DF-95C7-40B6-97A2-88684D39EEB0", 2, 1412965067, "883850", 1412965067, "883850", "{\n}", "1223 P 2013/08/09", "ACCOUNTING CLERK 1223", "648", "488", "152", "8", "151", "204", "123", "62", "3", "79", "26" ]
+, [ 3, "C95BC40D-FC22-4F8D-90F6-E48E303A66D7", 3, 1412965067, "883850", 1412965067, "883850", "{\n}", "7260 OP 2014/02/14", "AIRPORT MANAGER 7260", "51", "13", "37", "1", "8", "12", "9", "20", "0", "0", "2" ]
+, [ 4, "3E140036-CA17-4662-A794-63E0CEFD9E9E", 4, 1412965067, "883850", 1412965067, "883850", "{\n}", "3227 P 2013/11/15", "AIRPORT POLICE LIEUTENANT 2013", "48", "9", "38", "1", "21", "14", "3", "7", "0", "1", "2" ]
+, [ 5, "4A28C571-6243-40DE-8C1E-7BBC747FB34F", 5, 1412965067, "883850", 1412965067, "883850", "{\n}", "2400 O 2014/05/02", "AQUARIST 2400", "40", "15", "24", "1", "3", "7", "7", "19", "1", "1", "2" ]
+, [ 6, "E0A883C8-FDD8-46C1-A0E2-0DD2FA52155D", 6, 1412965067, "883850", 1412965067, "883850", "{\n}", "1191", "ARCHIVIST1191", "161", "89", "66", "6", "12", "36", "20", "73", "0", "6", "14" ]
+, [ 7, "1F487822-8A49-468A-B808-E041E26FFB0B", 7, 1412965067, "883850", 1412965067, "883850", "{\n}", "2478 OP 2014/05/30", "ART CENTER DIRECTOR 2478", "102", "53", "48", "1", "22", "18", "14", "37", "2", "4", "5" ]
+, [ 8, "EEAD80C2-73DB-4CC9-83DD-539C289899CA", 8, 1412965067, "883850", 1412965067, "883850", "{\n}", "2454 O 2014/04/11", "ARTS ASSOCIATE 2454", "702", "430", "240", "32", "96", "173", "84", "211", "5", "40", "93" ]
+, [ 9, "36458B62-80B2-44A3-93DF-594208522991", 9, 1412965067, "883850", 1412965067, "883850", "{\n}", "3808 P 2014/05/30", "ASSISTANT COMMUNICATIONS CABLE WORKER 3808", "105", "3", "101", "1", "24", "44", "2", "27", "0", "6", "2" ]
+, [ 10, "6E955EDF-91AD-45A3-BA04-5C6B04C4DE35", 10, 1412965067, "883850", 1412965067, "883850", "{\n}", "1860 O 2013/10/25", "ASSISTANT UTILITY BUYER 1860", "897", "467", "411", "19", "197", "229", "197", "116", "3", "103", "52" ]
+, [ 11, "C9557C5E-33C1-497D-A6F1-59C929A462E1", 11, 1412965067, "883850", 1412965067, "883850", "{\n}", "6147 O 2014/06/20", "AUDIO VISUAL TECHNICIAN (6147)", "329", "27", "294", "8", "70", "97", "19", "107", "1", "10", "25" ]
+, [ 12, "3D5DAC1B-E5CB-428C-B6DE-F05F1AD1622E", 12, 1412965067, "883850", 1412965067, "883850", "{\n}", "3595 P 2013/12/27", "AUTOMOTIVE DISPATCHER 3595", "104", "27", "75", "2", "41", "43", "5", "6", "1", "2", "6" ]
+, [ 13, "F3452A7A-01BB-461F-A818-082902C72085", 13, 1412965067, "883850", 1412965067, "883850", "{\n}", "3714 P 2013/07/12", "AUTOMOTIVE SUPERVISOR 3714", "124", "2", "120", "2", "7", "53", "10", "46", "1", "2", "5" ]
+, [ 14, "E4406979-6461-443F-B68C-4A072F9BCB68", 14, 1412965067, "883850", 1412965067, "883850", "{\n}", "4251 OP 2013/11/15", "BUILDING MECHANICAL INSPECTOR 4251", "199", "7", "191", "1", "24", "57", "3", "101", "1", "4", "9" ]
+, [ 15, "224C0060-BD8D-4020-9C0C-5AD7E72FA459", 15, 1412965067, "883850", 1412965067, "883850", "{\n}", "3338 P 2014/06/20", "BUILDING REPAIR SUPERVISOR 3338", "79", "0", "78", "1", "8", "21", "1", "33", "1", "9", "6" ]
+, [ 16, "C7F485CE-BD2A-4CED-9F02-6E8A21A06066", 16, 1412965067, "883850", 1412965067, "883850", "{\n}", "3418 P 2014/06/20", "CARPET LAYER 2014", "9", "1", "8", "0", "6", "3", "0", "0", "0", "0", "0" ]
+, [ 17, "0D3A113A-2777-430F-8CAB-1B1A6C2A36BA", 17, 1412965067, "883850", 1412965067, "883850", "{\n}", "1260 P 2013/09/20", "CHIEF CLERK PERSONNEL 1260", "39", "35", "4", "0", "16", "12", "2", "4", "0", "3", "2" ]
+, [ 18, "65FA47B6-1CF4-46C7-BDA2-E53350375D7D", 18, 1412965067, "883850", 1412965067, "883850", "{\n}", "9230 OP 2014/4/11", "CHIEF FINANCIAL OFFICER 9230", "57", "22", "34", "1", "10", "7", "11", "21", "0", "4", "4" ]
+, [ 19, "B499227C-429B-4EB2-8523-EF4390F263B0", 19, 1412965067, "883850", 1412965067, "883850", "{\n}", "9182 P 2014/06/20", "CHIEF MANAGEMENT ANALYST 9182", "143", "78", "54", "11", "19", "32", "15", "42", "0", "15", "20" ]
+, [ 20, "9C227E54-64B9-4218-B0D3-3F699521EE47", 20, 1412965067, "883850", 1412965067, "883850", "{\n}", "7945 P 2013/12/20", "CHIEF OF AIRPORT PLANNING 7945", "5", "3", "2", "0", "0", "3", "0", "2", "0", "0", "0" ]
+, [ 21, "B59638C5-9117-4A0C-B4FA-522539AA7411", 21, 1412965067, "883850", 1412965067, "883850", "{\n}", "7271 P 2013/11/08", "CHIEF OF DRAFTING OPERATIONS 7271", "13", "2", "11", "0", "1", "7", "2", "1", "0", "1", "1" ]
+, [ 22, "2F065031-CF64-430F-8044-DFB7DF15931C", 22, 1412965067, "883850", 1412965067, "883850", "{\n}", "1741 P 2013/10/25", "CHIEF PERSONNEL ANALYST 1741", "13", "4", "9", "0", "1", "2", "3", "4", "0", "1", "2" ]
+, [ 23, "9ADA6794-101B-475A-9DC3-4B3661DDD542", 23, 1412965067, "883850", 1412965067, "883850", "{\n}", "1211 P 2014/04/18", "CHIEF TAX COMPLIANCE OFFICER 1211", "14", "1", "13", "0", "1", "0", "7", "3", "1", "2", "0" ]
+, [ 24, "ACFAF16E-B2D1-4BA8-B7E7-F777907E86B5", 24, 1412965067, "883850", 1412965067, "883850", "{\n}", "3802 OP 2014/03/14", "COMMUNICATIONS CABLE WORKER 3802", "393", "2", "386", "5", "69", "206", "17", "67", "5", "15", "14" ]
+, [ 25, "FDA5CA75-7B87-4CD3-B661-0A6565D036DF", 25, 1412965067, "883850", 1412965067, "883850", "{\n}", "3689 P 2014/05/23", "COMMUNICATIONS ELECTRICIAN SUPERVISOR 3689", "72", "2", "70", "0", "13", "16", "11", "27", "0", "4", "1" ]
+, [ 26, "98769BEC-B3D1-45E6-904F-668185F934FD", 26, 1412965067, "883850", 1412965067, "883850", "{\n}", "7230 O 2014/02/14", "CONTROL SYSTEMS ENGINEERING ASSOCIATE 7230", "200", "13", "176", "11", "16", "44", "70", "37", "1", "13", "19" ]
+, [ 27, "B222E04F-73B6-4361-9EF6-B47F3579F9A1", 27, 1412965067, "883850", 1412965067, "883850", "{\n}", "1230 O 2013/12/27", "CUSTOMER SERVICE REPRESENTATIVE 1230", "28230", "19892", "7968", "370", "12618", "10214", "1094", "1958", "131", "740", "1475" ]
+, [ 28, "61D4CF35-DB1D-4DDF-BAE4-1924AC05A46A", 28, 1412965067, "883850", 1412965067, "883850", "{\n}", "P 2014/06/06", "CUSTOMER SERVICE SPECIALIST 1229 (Filing starts on June 17 at 8:00 am & closes June 19 at midnight)", "220", "149", "70", "1", "82", "98", "9", "12", "1", "14", "4" ]
+, [ 29, "17314C81-1B56-4B3F-963C-89DD44A0F2FB", 29, 1412965067, "883850", 1412965067, "883850", "{\n}", "3211 O 2014/3/21", "DETENTION OFFICER 3211", "2297", "819", "1464", "14", "874", "1076", "70", "173", "10", "41", "53" ]
+, [ 30, "25FEA7F1-DA0C-430A-8819-132A4B95E640", 30, 1412965067, "883850", 1412965067, "883850", "{\n}", "4321 P 2014/04/18", "DIRECTOR OF FIELD OPERATIONS 4321", "14", "5", "9", "0", "2", "3", "0", "9", "0", "0", "0" ]
+, [ 31, "8E436D83-BAC7-4117-87EF-56BB32BBB90D", 31, 1412965067, "883850", 1412965067, "883850", "{\n}", "7270 P 2013/08/30", "DIRECTOR OF MAINTENANCE AIRPORTS 7270", "28", "2", "26", "0", "3", "10", "1", "11", "1", "0", "2" ]
+, [ 32, "CCDDB29B-86FD-4D05-BDA5-9B303EB9CE68", 32, 1412965067, "883850", 1412965067, "883850", "{\n}", "3208OP051614", "DIRECTOR OF SECURITY SERVICES 3208", "40", "8", "32", "0", "14", "12", "0", "14", "0", "0", "0" ]
+, [ 33, "B01C98B0-FC5F-4ED0-B35C-45C71025C7E1", 33, 1412965067, "883850", 1412965067, "883850", "{\n}", "3873 P 2013/08/23", "ELECTRIC DISTRIBUTION MECHANIC SUPERVISOR 3873", "149", "0", "147", "2", "4", "50", "5", "73", "3", "4", "10" ]
+, [ 34, "CD66A375-7BBE-4BC9-9E9A-402A74831E07", 34, 1412965067, "883850", 1412965067, "883850", "{\n}", "3822 OP 2013/09/20", "ELECTRIC METER SETTER 3822", "1169", "34", "1135", "0", "200", "563", "57", "271", "8", "41", "29" ]
+, [ 35, "3DA413FD-A372-43D1-9CC4-A004F99BA12D", 35, 1412965067, "883850", 1412965067, "883850", "{\n}", "7520 P 2014/01/31", "ELECTRIC SERVICE REPRESENTATIVE 7520", "160", "5", "152", "3", "21", "68", "8", "50", "0", "2", "11" ]
+, [ 36, "2435E1DD-DD8A-4839-A154-197EBD816FCF", 36, 1412965067, "883850", 1412965067, "883850", "{\n}", "7539 P 2013/07/26", "ELECTRICAL ENGINEER 7539", "196", "26", "160", "10", "19", "40", "54", "44", "0", "11", "28" ]
+, [ 37, "AA5A42C5-99A3-461B-BD37-038935F4E179", 37, 1412965067, "883850", 1412965067, "883850", "{\n}", "3855 P 2014/6/6", "ELECTRICAL REPAIR SUPERVISOR 3855", "15", "0", "15", "0", "0", "5", "2", "4", "0", "3", "1" ]
+, [ 38, "07DFC4B8-2D3F-452E-A609-716DE0BF892D", 38, 1412965067, "883850", 1412965067, "883850", "{\n}", "5265 P 2013/12/20", "ELECTRICAL SERVICES MANAGER 5265", "115", "1", "111", "3", "9", "21", "7", "69", "0", "1", "8" ]
+, [ 39, "876C9B77-1349-4D77-AD6C-092D6BEB9AAD", 39, 1412965067, "883850", 1412965067, "883850", "{\n}", "3863 OP 2014/06/13", "ELECTRICIAN 3863", "594", "3", "591", "0", "40", "313", "29", "167", "7", "16", "22" ]
+, [ 40, "6CA808F5-4DE6-4595-A86F-FF9742C1647E", 40, 1412965067, "883850", 1412965067, "883850", "{\n}", "1702 OP 2014/06/13", "EMERGENCY MANAGEMENT COORDINATOR 1702 REVISED 06-23-14", "158", "52", "101", "5", "27", "27", "23", "65", "1", "5", "10" ]
+, [ 41, "5E22B416-27DB-41EE-9DB2-205E2AFB261C", 41, 1412965067, "883850", 1412965067, "883850", "{\n}", "2131 OP 2014/06/27", "ENGINEER OF FIRE DEPARTMENT", "558", "9", "532", "17", "44", "152", "31", "250", "4", "11", "66" ]
+, [ 42, "A70F65FD-D2FA-43D0-8A3C-66DF0882FB67", 42, 1412965067, "883850", 1412965067, "883850", "{\n}", "7255 OP 2014/1/31", "ENGINEERING GEOLOGIST 7255", "33", "5", "27", "1", "0", "1", "9", "18", "0", "0", "5" ]
+, [ 43, "483691F8-D30A-440A-A0FE-FE24151CA7AE", 43, 1412965067, "883850", 1412965067, "883850", "{\n}", "7253 O 2013/12/6", "ENGINEERING GEOLOGIST ASSOCIATE 7253", "91", "18", "71", "2", "7", "15", "19", "43", "1", "1", "5" ]
+, [ 44, "589BADFD-65E8-4659-928C-C22E9B9E2860", 44, 1412965067, "883850", 1412965067, "883850", "{\n}", "7872 P 2013/08/16", "ENVIRONMENTAL ENGINEER 7872", "159", "47", "109", "3", "13", "22", "46", "42", "1", "16", "19" ]
+, [ 45, "D4081F75-4B8C-44D2-B46E-6A296F22D052", 45, 1412965067, "883850", 1412965067, "883850", "{\n}", "3525 P 2014/4/11", "EQUIPMENT OPERATOR 3525", "253", "8", "242", "3", "59", "118", "5", "58", "1", "2", "10" ]
+, [ 46, "1878510E-9AD3-4092-860A-D1456CE9AD96", 46, 1412965067, "883850", 1412965067, "883850", "{\n}", "3476 P 2014/03/14", "EQUIPMENT REPAIR SUPERVISOR 3746", "100", "1", "95", "4", "15", "29", "5", "42", "4", "2", "3" ]
+, [ 47, "7D33C192-843F-4B37-9DB1-E3236A193E0D", 47, 1412965067, "883850", 1412965067, "883850", "{\n}", "1743 OP 2013/11/1", "ERGONOMIST - 1743", "18", "9", "7", "2", "2", "4", "5", "2", "0", "4", "1" ]
+, [ 48, "F3E64D75-B03D-4C29-9AD8-D6726CB35FB6", 48, 1412965067, "883850", 1412965067, "883850", "{\n}", "7228 O 2014/03/07", "FIELD ENGINEERING AIDE 7228", "606", "58", "540", "8", "68", "194", "119", "124", "4", "62", "35" ]
+, [ 49, "0DD59807-C931-4CDD-9D64-E492826BD4B2", 49, 1412965067, "883850", 1412965067, "883850", "{\n}", "1549 O 2013/20/20", "FINANCIAL ANALYST 1549", "319", "143", "164", "12", "37", "44", "112", "60", "2", "38", "26" ]
+, [ 50, "76135E43-221D-4292-A72F-39247AA1F129", 50, 1412965067, "883850", 1412965067, "883850", "{\n}", "1557 OP 2014/06/20", "FINANCIAL MANAGER 1557 REVISED 06/23/14", "65", "24", "40", "1", "6", "16", "12", "14", "0", "8", "9" ]
+, [ 51, "DA66521C-189F-48D1-85F2-12E2EC3A9EDD", 51, 1412965067, "883850", 1412965067, "883850", "{\n}", "7978 O 2014/6/6", "FIRE PROTECTION ENGINEERING ASSOCIATE", "107", "16", "89", "2", "12", "25", "29", "21", "0", "13", "7" ]
+, [ 52, "B2AE0DFB-0473-4CBF-9D3B-6C0F326397CB", 52, 1412965067, "883850", 1412965067, "883850", "{\n}", "4240 O/P 2013/11/29", "FIRE SPRINKLER INSPECTOR", "83", "3", "79", "1", "7", "23", "5", "40", "1", "3", "4" ]
+, [ 53, "00B78FBD-2B9C-4C89-B3AE-21C13ECC8663", 53, 1412965067, "883850", 1412965067, "883850", "{\n}", "7213 OP 2014/1/24", "GEOGRAPHIC INFORMATION SYSTEMS SPECIALIST 7213", "171", "58", "111", "2", "9", "39", "37", "59", "0", "14", "13" ]
+, [ 54, "A7AFA21A-A149-4FC5-A966-97A338B5EB91", 54, 1412965067, "883850", 1412965067, "883850", "{\n}", "7935 P 2014/05/30", "GRAPHICS SUPERVISOR 7935", "42", "16", "25", "1", "1", "12", "12", "10", "0", "5", "2" ]
+, [ 55, "CCEF2F67-AB71-4DBD-9762-EB9C5CCF680F", 55, 1412965067, "883850", 1412965067, "883850", "{\n}", "3584 OP 2014/01/24", "HEAVY DUTY TRUCK OPERATOR 3584", "1319", "24", "1291", "4", "377", "672", "16", "193", "15", "14", "32" ]
+, [ 56, "AA58B11D-7EB0-419B-B04E-2ACBF7081DD6", 56, 1412965067, "883850", 1412965067, "883850", "{\n}", "3560 O 2013/11/15", "HELICOPTER PILOT 3560", "85", "5", "77", "3", "1", "11", "3", "63", "0", "1", "6" ]
+, [ 57, "723AA090-1A70-48E1-925E-E7F9AC1B3493", 57, 1412965067, "883850", 1412965067, "883850", "{\n}", "4243 OP 2014/06/20", "HOUSING INSPECTOR 4243", "424", "61", "360", "3", "82", "152", "21", "123", "2", "23", "21" ]
+, [ 58, "FD098342-9012-4959-843B-BD6687839E42", 58, 1412965067, "883850", 1412965067, "883850", "{\n}", "8516 O/P 2013/10/04", "HOUSING INVESTIGATOR 8516", "14", "8", "6", "0", "5", "4", "0", "3", "0", "1", "1" ]
+, [ 59, "30F087DA-4447-4590-983C-D165D9E1FA2A", 59, 1412965067, "883850", 1412965067, "883850", "{\n}", "8516 O/P 2013/10/04", "HOUSING INVESTIGATOR 8516", "395", "215", "176", "4", "164", "109", "29", "64", "2", "6", "21" ]
+, [ 60, "6FF182B0-29E4-4833-960D-F082C46409A8", 60, 1412965067, "883850", 1412965067, "883850", "{\n}", "7834 P 2014/02/07", "INDUSTRIAL CHEMIST 7834", "14", "8", "6", "0", "5", "4", "0", "3", "0", "1", "1" ]
+, [ 61, "122FC353-E08B-44BD-BBF2-F695FBCE191F", 61, 1412965067, "883850", 1412965067, "883850", "{\n}", "1409 P 2014/06/27", "INFORMATION SYSTEMS MANAGER 1409", "111", "27", "78", "6", "5", "17", "48", "24", "0", "6", "11" ]
+, [ 62, "19A97E09-EE33-42A1-9B44-16572BDB9598", 62, 1412965067, "883850", 1412965067, "883850", "{\n}", "1625 O 2014/01/10", "INTERNAL AUDITOR 1625", "247", "114", "127", "6", "45", "52", "68", "35", "1", "28", "18" ]
+, [ 63, "F07DDA1C-E2A2-4657-988E-37E4DF44EDCB", 63, 1412965067, "883850", 1412965067, "883850", "{\n}", "9146 OP 2013/10/25", "INVESTMENT OFFICER 9146", "213", "51", "153", "9", "19", "30", "67", "61", "2", "16", "18" ]
+, [ 64, "7467C561-1837-4031-A283-7DB3F5DFDE72", 64, 1412965067, "883850", 1412965067, "883850", "{\n}", "7933 O/P 2013/07/05", "LANDSCAPE ARCHITECTURAL ASSOCIATE 7933 (REVISED 07/10/13)", "154", "67", "83", "4", "9", "35", "35", "59", "0", "2", "14" ]
+, [ 65, "8E09F4D8-304B-48EC-8BB9-318E98925259", 65, 1412965067, "883850", 1412965067, "883850", "{\n}", "P 2014/06/06", "MARINE ENVIRONMENTAL MANAGER 9437", "5", "3", "2", "0", "0", "0", "0", "5", "0", "0", "0" ]
+, [ 66, "6C4790E5-73E9-4341-901A-769C8872A940", 66, 1412965067, "883850", 1412965067, "883850", "{\n}", "7968 OP 2013/09/13", "MATERIALS TESTING TECHNICIAN 7968", "875", "223", "642", "10", "105", "260", "222", "164", "5", "76", "43" ]
+, [ 67, "D5C15B03-923F-4C2D-BDEB-76A3E739FAF2", 67, 1412965067, "883850", 1412965067, "883850", "{\n}", "1611 O 2013/10/11", "METER READER 1611", "4479", "1135", "3311", "33", "2005", "1546", "209", "427", "24", "105", "163" ]
+, [ 68, "0E64AD72-F341-45B5-B8E2-591D38ED3254", 68, 1412965067, "883850", 1412965067, "883850", "{\n}", "2426 P 2013/09/13", "PARK SERVICES SUPERVISOR 2426", "22", "7", "15", "0", "5", "9", "1", "6", "0", "1", "0" ]
+, [ 69, "178857A7-A370-4C70-BF61-4A8C6E6A611B", 69, 1412965067, "883850", 1412965067, "883850", "{\n}", "9170 O/P 2014/02/07", "PARKING MANAGER 9170", "102", "18", "84", "0", "27", "38", "8", "20", "1", "6", "2" ]
+, [ 70, "3600DE67-DCA1-4B70-94F5-9483C0BB84EC", 70, 1412965067, "883850", 1412965067, "883850", "{\n}", "P 1731 2014/01/31", "PERSONNEL ANALYST 1731", "298", "202", "91", "5", "78", "69", "66", "37", "0", "38", "10" ]
+, [ 71, "327DA06E-6368-4B64-ADF1-1C2782694029", 71, 1412965067, "883850", 1412965067, "883850", "{\n}", "1739 O 2013/9/27", "PERSONNEL RESEARCH ANALYST 1739", "33", "17", "16", "0", "1", "8", "7", "11", "0", "3", "3" ]
+, [ 72, "918A2541-9985-42EB-9722-2E6E412CEA90", 72, 1412965067, "883850", 1412965067, "883850", "{\n}", "2244 P 2013/11/29", "POLICE CAPTAIN 2013", "71", "15", "53", "3", "14", "14", "4", "33", "0", "1", "5" ]
+, [ 73, "8FDD569B-9E2F-49B6-BFC9-702675E7603A", 73, 1412965067, "883850", 1412965067, "883850", "{\n}", "P20130713", "POLICE DETECTIVE 2223", "1959", "453", "1478", "28", "203", "886", "172", "540", "10", "69", "79" ]
+, [ 74, "BAD30D00-E987-439E-9B97-070D60E4D272", 74, 1412965067, "883850", 1412965067, "883850", "{\n}", "2227 P 2014/05/09", "POLICE SERGEANT 2227", "1903", "323", "1536", "44", "199", "828", "166", "519", "15", "76", "100" ]
+, [ 75, "85974B91-BD5B-461D-9D0E-8A73200ABBEB", 75, 1412965067, "883850", 1412965067, "883850", "{\n}", "2207 O 2013/11/01", "POLICE SERVICE REPRESENTATIVE 2207", "2436", "1762", "652", "22", "794", "1064", "119", "292", "11", "67", "89" ]
+, [ 76, "B1A5C639-6C41-457F-8F32-480BFC9A2AD4", 76, 1412965067, "883850", 1412965067, "883850", "{\n}", null, "PORT POLICE LIEUTENANT 3223", "13", "0", "13", "0", "0", "3", "0", "9", "1", "0", "0" ]
+, [ 77, "75FA2D83-8791-4BF2-A26E-6B8885D6A4A8", 77, 1412965067, "883850", 1412965067, "883850", "{\n}", "3222 P 2014/03/28", "PORT POLICE SERGEANT 3222", "35", "2", "32", "1", "5", "13", "4", "8", "0", "1", "4" ]
+, [ 78, "4DD5F689-324B-473C-B1AC-A7047ECC9807", 78, 1412965067, "883850", 1412965067, "883850", "{\n}", "3558 OP 2013/07/05", "POWER SHOVEL OPERATOR 3558", "170", "1", "168", "1", "26", "55", "0", "77", "2", "3", "7" ]
+, [ 79, "DABCEDBD-A8B6-4CDB-8C0F-1DD0F8DA7038", 79, 1412965067, "883850", 1412965067, "883850", "{\n}", "7946 OP 2014/05/09", "PRINCIPAL CITY PLANNER 7946 (REVISED 5/19/14)", "61", "24", "36", "1", "7", "12", "3", "33", "1", "2", "3" ]
+, [ 80, "43410FAD-4E74-45E8-BCC5-8BDDF3E0A2C2", 80, 1412965067, "883850", 1412965067, "883850", "{\n}", "9653 O/P 2014/03/28", "PRINCIPAL DEPUTY CONTROLLER (9653)", "26", "10", "15", "1", "6", "2", "7", "5", "0", "5", "1" ]
+, [ 81, "54C0818F-6153-473D-B2FF-9A8C382F931C", 81, 1412965067, "883850", 1412965067, "883850", "{\n}", "2424 P 2013/12/27", "PRINCIPAL PARK SERVICES ATTENDANT 2013", "50", "20", "30", "0", "17", "19", "1", "8", "0", "3", "2" ]
+, [ 82, "78E44E6B-D32A-4F38-8C62-99BFBB12D4D2", 82, 1412965067, "883850", 1412965067, "883850", "{\n}", "1786 P 2014/03/21", "PRINCIPAL PUBLIC RELATIONS REPRESENTATIVE 1786", "43", "31", "11", "1", "10", "10", "3", "16", "0", "1", "3" ]
+, [ 83, "2E5F2320-C12B-4B3F-ADBD-2D5E3C55857D", 83, 1412965067, "883850", 1412965067, "883850", "{\n}", "1839 P 2013/08/09", "PRINCIPAL STOREKEEPER 1839", "56", "13", "43", "0", "19", "19", "2", "11", "0", "2", "3" ]
+, [ 84, "26C5159F-3705-4577-A122-D3D3A3BC2FAF", 84, 1412965067, "883850", 1412965067, "883850", "{\n}", "1964 P 2014/02/21", "PROPERTY MANAGER 1964", "104", "34", "69", "1", "15", "19", "18", "34", "0", "12", "6" ]
+, [ 85, "0C1533D4-6671-4137-AF1F-96D4D6EA33B6", 85, 1412965067, "883850", 1412965067, "883850", "{\n}", "1800 OP 2014/06/20", "PUBLIC INFORMATION DIRECTOR 1800", "174", "87", "83", "4", "42", "36", "10", "65", "3", "4", "14" ]
+, [ 86, "D3892B1D-9162-45B7-80C5-8B8E764B17C4", 86, 1412965067, "883850", 1412965067, "883850", "{\n}", "1785 O 2014/03/28", "PUBLIC RELATIONS SPECIALIST 1785", "700", "394", "279", "27", "189", "160", "84", "150", "2", "40", "75" ]
+, [ 87, "70244FEA-B6AF-4BE3-9D72-0191532495BB", 87, 1412965067, "883850", 1412965067, "883850", "{\n}", "2434 OP 2013/8/16", "RECREATION FACILITY DIRECTOR 2434", "443", "206", "230", "7", "143", "142", "19", "79", "2", "24", "34" ]
+, [ 88, "A330D6AF-4DE0-41CE-9315-821F837313E4", 88, 1412965067, "883850", 1412965067, "883850", "{\n}", "9149 OP 2014/05/23", "RETIREMENT PLAN MANAGER 9149", "38", "13", "22", "3", "6", "5", "10", "10", "1", "1", "5" ]
+, [ 89, "CB5E6315-E77C-408C-9DD9-18AF0C400834", 89, 1412965067, "883850", 1412965067, "883850", "{\n}", "1530 OP 2013/07/12", "RISK MANAGER 1530", "97", "34", "58", "5", "26", "15", "13", "30", "0", "5", "8" ]
+, [ 90, "105D68B2-DEA4-4766-BAB6-11A5C441EBC4", 90, 1412965067, "883850", 1412965067, "883850", "{\n}", "4263 O 2014/02/28", "SAFETY ENGINEER ELEVATORS 4263", "32", "2", "30", "0", "2", "11", "5", "11", "0", "0", "3" ]
+, [ 91, "13A0A940-8B4E-4E47-A140-500FC1A58B4D", 91, 1412965067, "883850", 1412965067, "883850", "{\n}", "3181 O 2014/05/30", "SECURITY OFFICER 2014 (Filing starts on June 10 at 8:00 a.m. and closes June 12 at midnight)", "4171", "978", "3155", "38", "1860", "1605", "169", "310", "18", "82", "127" ]
+, [ 92, "1DC70184-2B3B-4FB7-9430-35C3257220A5", 92, 1412965067, "883850", 1412965067, "883850", "{\n}", "4253 P 2014/03/21", "SENIOR BUILDING MECHANICAL INSPECTOR 4253", "88", "0", "87", "1", "7", "22", "4", "46", "1", "2", "6" ]
+, [ 93, "3555F034-B56C-4CAF-9BFD-802FFC4E7C86", 93, 1412965067, "883850", 1412965067, "883850", "{\n}", "1770 O/P 2014/01/24", "SENIOR CLAIMS REPRESENTATIVE 1770", "175", "89", "84", "2", "68", "49", "9", "30", "0", "11", "8" ]
+, [ 94, "C12D6EFC-09A4-4AE8-870B-9BFB0CF72CDD", 94, 1412965067, "883850", 1412965067, "883850", "{\n}", "1368 P 2013/09/06", "SENIOR CLERK TYPIST 1368", "1824", "1442", "360", "22", "569", "705", "167", "168", "10", "131", "74" ]
+, [ 95, "BC8076AA-817A-427B-AE14-FD1A4DAABDDA", 95, 1412965067, "883850", 1412965067, "883850", "{\n}", "1602 P 2014/05/09", "SENIOR COMMERCIAL FIELD REPRESENTATIVE 1602", "93", "17", "74", "2", "24", "42", "7", "11", "2", "3", "4" ]
+, [ 96, "47764E29-591F-4C6F-AAD4-820AB4D529DE", 96, 1412965067, "883850", 1412965067, "883850", "{\n}", "3801 P 2014/04/18", "SENIOR COMMUNICATIONS CABLE WORKER 3801", "28", "0", "27", "1", "2", "12", "3", "9", "0", "0", "2" ]
+, [ 97, "94648714-2713-4FEC-A4E9-037E2DF19A32", 97, 1412965067, "883850", 1412965067, "883850", "{\n}", "3638 P 2014/06/27", "SENIOR COMMUNICATIONS ELECTRICIAN (3638)", "77", "1", "76", "0", "12", "17", "14", "26", "0", "5", "3" ]
+, [ 98, "CA9F9ACF-4B16-4540-A503-2903F116DAAD", 98, 1412965067, "883850", 1412965067, "883850", "{\n}", "7614 P 2014/06/13", "SENIOR COMMUNICATIONS ENGINEER 7614", "29", "3", "26", "0", "2", "4", "11", "6", "0", "4", "2" ]
+, [ 99, "9FD3F010-58E3-4FB9-936D-EFEB0FBECD10", 99, 1412965067, "883850", 1412965067, "883850", "{\n}", "7289 P 2014/4/25", "SENIOR CONSTRUCTION ENGINEER 7289", "53", "5", "45", "3", "4", "3", "18", "17", "0", "6", "5" ]
+, [ 100, "C3102C0D-E731-41D9-AD4B-072204292456", 100, 1412965067, "883850", 1412965067, "883850", "{\n}", "4223 P 2013/11/29", "SENIOR ELECTRICAL INSPECTOR 4223", "16", "2", "14", "0", "0", "2", "0", "10", "1", "0", "3" ]
+, [ 101, "DE53C540-1958-4309-81C7-7DDCD6483EE4", 101, 1412965067, "883850", 1412965067, "883850", "{\n}", "3834 P 2013/12/27", "Senior Electrical Mechanic (3834)", "145", "2", "138", "5", "5", "46", "5", "71", "2", "5", "11" ]
+, [ 102, "A4D2661B-400F-46B8-A5B7-8344934E4F06", 102, 1412965067, "883850", 1412965067, "883850", "{\n}", "7515 P 2014/02/28", "SENIOR ELECTRICAL TESTER 7515", "93", "1", "82", "10", "12", "24", "21", "18", "0", "6", "12" ]
+, [ 103, "6FFCAE46-5FFA-476D-A812-617873F848F4", 103, 1412965067, "883850", 1412965067, "883850", "{\n}", "3864 P 2013/08/16", "SENIOR ELECTRICIAN 3864", "97", "1", "96", "0", "4", "39", "4", "40", "3", "1", "6" ]
+, [ 104, "B35B1A80-00AC-4236-B169-98FCD98B6CCF", 104, 1412965067, "883850", 1412965067, "883850", "{\n}", "3745 P 2014/2/14", "SENIOR HEAVY DUTY EQUIPMENT MECHANIC 3745", "87", "1", "84", "2", "8", "24", "5", "42", "4", "2", "2" ]
+, [ 105, "3C5BD8A0-6580-430F-B7D9-C0FF55F23812", 105, 1412965067, "883850", 1412965067, "883850", "{\n}", "7264 P 2014/03/07", "SENIOR HYDROGRAPHER 7264", "13", "0", "13", "0", "1", "3", "1", "8", "0", "0", "0" ]
+, [ 106, "FC1996B0-4B04-4FBB-B6DA-75755D6AD930", 106, 1412965067, "883850", 1412965067, "883850", "{\n}", "5235 P 2014/06/13", "SENIOR LOAD DISPATCHER 5235", "18", "2", "14", "2", "2", "1", "0", "12", "0", "0", "3" ]
+, [ 107, "0E7E2D8F-1ABB-43C1-814A-B8FB144D20DB", 107, 1412965067, "883850", 1412965067, "883850", "{\n}", "3146 P 13/11/22", "SENIOR PARK MAINTENANCE SUPERVISOR - 3146", "38", "4", "34", "0", "6", "20", "1", "10", "0", "1", "0" ]
+, [ 108, "925CBC9F-9555-4EBE-9389-69E8B1B3419A", 108, 1412965067, "883850", 1412965067, "883850", "{\n}", "4233 P 2014/03/28", "SENIOR PLUMBING INSPECTOR 4233 REVISED 4-10-14", "25", "1", "24", "0", "4", "3", "1", "17", "0", "0", "0" ]
+, [ 109, "2DAB2E12-048B-4B06-BB1A-43351742F689", 109, 1412965067, "883850", 1412965067, "883850", "{\n}", "2446 P 2013/07/19", "SENIOR RECREATION DIRECTOR 2446", "131", "64", "66", "1", "36", "43", "9", "35", "0", "1", "7" ]
+, [ 110, "3ACECBEA-F2C9-49D7-848D-0652CC890944", 110, 1412965067, "883850", 1412965067, "883850", "{\n}", "9536 P 2014/06/27", "SENIOR STREET LIGHTING ENGINEER 9536", "11", "2", "8", "1", "0", "5", "2", "2", "0", "0", "2" ]
+, [ 111, "1C6A8DA6-DD02-4329-BAF1-76FA5A2E7AD1", 111, 1412965067, "883850", 1412965067, "883850", "{\n}", "1597 P 2014/03/14", "SENIOR SYSTEMS ANALYST 1597", "306", "98", "189", "19", "28", "41", "123", "39", "1", "43", "31" ]
+, [ 112, "65BC68E8-F231-4419-9798-95928EDF6ECB", 112, 1412965067, "883850", 1412965067, "883850", "{\n}", "1521 P 2014/03/28", "SENIOR UTILITY ACCOUNTANT 1521", "92", "57", "31", "4", "8", "7", "38", "1", "0", "28", "10" ]
+, [ 113, "52476EF8-DE53-4F0A-A015-D676D50C096B", 113, 1412965067, "883850", 1412965067, "883850", "{\n}", "1862 P 2013/08/09", "SENIOR UTILITY BUYER 1862", "65", "30", "32", "3", "15", "17", "13", "5", "1", "9", "5" ]
+, [ 114, "CD35C605-6333-4871-86EF-848ADD6C9FE6", 114, 1412965067, "883850", 1412965067, "883850", "{\n}", "3174 0/P 2014/01/31", "SENIOR WINDOW CLEANER 3174 (REVISED 2/13/14)", "100", "15", "84", "1", "34", "53", "0", "5", "2", "2", "4" ]
+, [ 115, "61939426-468D-4B94-8980-8F17BE102009", 115, 1412965067, "883850", 1412965067, "883850", "{\n}", "3777 P 2014/06/13", "SHEET METAL SUPERVISOR 3777", "9", "1", "8", "0", "1", "1", "0", "5", "0", "0", "2" ]
+, [ 116, "9364C1CF-5DDA-414D-B0EB-B7718EAC904A", 116, 1412965067, "883850", 1412965067, "883850", "{\n}", "3775 OP 2014/2/28", "SHEET METAL WORKER 3775", "271", "3", "265", "3", "22", "146", "12", "75", "0", "4", "12" ]
+, [ 117, "7066D341-E44D-4477-9C8A-D9B1791DB1F9", 117, 1412965067, "883850", 1412965067, "883850", "{\n}", "3819 OP 2014/06/20", "SIGNAL SYSTEMS ELECTRICIAN 3819", "223", "1", "222", "0", "29", "119", "16", "43", "1", "10", "5" ]
+, [ 118, "D2A57C7F-88B2-4F75-8C7A-EDF8577A818E", 118, 1412965067, "883850", 1412965067, "883850", "{\n}", "4108 P 2013/11/08", "SOLID WASTE DISPOSAL SUPERINTENDENT 4108", "5", "0", "5", "0", "3", "1", "0", "1", "0", "0", "0" ]
+, [ 119, "DBDB2C96-5E48-401D-9FCC-ECA7FFD2CDF0", 119, 1412965067, "883850", 1412965067, "883850", "{\n}", "0602 O 2013/08/30", "SPECIAL INVESTIGATOR 0602", "110", "37", "73", "0", "33", "28", "9", "29", "3", "6", "2" ]
+, [ 120, "47768197-DDEB-4C70-A66F-0AD1F30AEA9C", 120, 1412965067, "883850", 1412965067, "883850", "{\n}", "5630 P 2013/11/08", "STEAM PLANT MAINTENANCE MECHANIC 5630", "55", "5", "49", "1", "7", "17", "9", "12", "0", "8", "2" ]
+, [ 121, "CC289063-5287-48AB-8657-564ABCD22961", 121, 1412965067, "883850", 1412965067, "883850", "{\n}", "3786 P 2014/05/02", "STEAM PLANT MAINTENANCE SUPERVISOR 3786", "32", "2", "27", "3", "3", "3", "4", "14", "0", "1", "7" ]
+, [ 122, "71767DEE-0AB0-4D02-8577-459480CE6976", 122, 1412965067, "883850", 1412965067, "883850", "{\n}", "3840 P 2014/06/27", "STREET LIGHTING ELECTRICIAN SUPERVISOR (3840)", "12", "1", "11", "0", "0", "8", "1", "3", "0", "0", "0" ]
+, [ 123, "AFF1958B-2BD4-41EF-B085-C5F30B610FB1", 123, 1412965067, "883850", 1412965067, "883850", "{\n}", "7537 P 2014/06/27", "STREET LIGHTING ENGINEER 7537", "20", "4", "15", "1", "1", "3", "8", "7", "0", "0", "1" ]
+, [ 124, "0CC8CB1E-EB7A-40E6-BB69-DA288755BBFB", 124, 1412965067, "883850", 1412965067, "883850", "{\n}", "2472 P 2013/07/12", "SUPERINTENDENT OF RECREATION AND PARKS OPERATIONS 2472", "26", "8", "18", "0", "5", "7", "1", "11", "1", "0", "1" ]
+, [ 125, "4DF7032C-F5CD-4680-850C-BE6BA5A97DD5", 125, 1412965067, "883850", 1412965067, "883850", "{\n}", "1865 P 2014/3/28", "SUPPLY SERVICES MANAGER 1865", "28", "15", "13", "0", "6", "7", "4", "4", "0", "6", "1" ]
+, [ 126, "AAB40679-4B68-48BA-AA2F-A499FDB06380", 126, 1412965067, "883850", 1412965067, "883850", "{\n}", "1179 OP 2014/04/25", "TAX COMPLIANCE OFFICER 1179", "713", "399", "291", "23", "140", "137", "199", "95", "2", "77", "63" ]
+, [ 127, "15DC35AB-5204-41AD-A285-078D9060BD6F", 127, 1412965067, "883850", 1412965067, "883850", "{\n}", "7640 OP 2014/06/13", "TELECOMMUNICATIONS PLANNING AND UTILIZATION OFFICER 7640", "56", "6", "50", "0", "11", "10", "10", "19", "0", "3", "3" ]
+, [ 128, "025B88A7-C3AD-47FB-9264-233F18B38695", 128, 1412965067, "883850", 1412965067, "883850", "{\n}", "3421 OP 2014/02/07", "TRAFFIC PAINTER AND SIGN POSTER 3421", "1225", "61", "1150", "14", "307", "657", "44", "154", "9", "16", "38" ]
+, [ 129, "EB495866-702A-4B8F-9D09-488A1751250D", 129, 1412965067, "883850", 1412965067, "883850", "{\n}", "3586 P 2013/09/27", "TRUCK AND EQUIPMENT DISPATCHER 3586", "35", "0", "35", "0", "11", "17", "2", "5", "0", "0", "0" ]
+, [ 130, "196C9467-19CD-43A2-B9E6-790EB9781B0D", 130, 1412965067, "883850", 1412965067, "883850", "{\n}", "3586 P 2014/4/4", "TRUCK AND EQUIPMENT DISPATCHER 3586", "40", "0", "40", "0", "11", "16", "1", "8", "0", "0", "4" ]
+, [ 131, "C84F66AF-2121-4339-BFBC-E7DA9EAF7436", 131, 1412965067, "883850", 1412965067, "883850", "{\n}", "1511 O 2014/01/31", "UTILITY ACCOUNTANT 1511 (Revised 2/12/14)", "911", "546", "336", "29", "90", "126", "339", "98", "2", "185", "71" ]
+, [ 132, "9C8F506B-572F-458F-A7E2-1D13553E5D98", 132, 1412965067, "883850", 1412965067, "883850", "{\n}", "9105 p 2014/03/14", "UTILITY ADMINISTRATOR 9105", "494", "287", "180", "27", "91", "96", "89", "66", "2", "101", "49" ]
+, [ 133, "30874ABF-9A3C-4484-9AC4-DA009C5CD28C", 133, 1412965067, "883850", 1412965067, "883850", "{\n}", "1861 P 2014/04/18", "UTILITY BUYER 1861", "126", "64", "58", "4", "22", "24", "36", "14", "1", "23", "6" ]
+, [ 134, "2A99DFE8-B69B-48DC-9F32-99021CF00A42", 134, 1412965067, "883850", 1412965067, "883850", "{\n}", "1336 P 2014/04/25", "UTILITY EXECUTIVE SECRETARY 1336", "430", "395", "31", "4", "136", "160", "31", "39", "4", "37", "23" ]
+, [ 135, "7F0EAAE4-A1F7-4DE5-A7D3-F77B26552AFC", 135, 1412965067, "883850", 1412965067, "883850", "{\n}", "2495 O 2013/09/06", "VOLUNTEER COORDINATOR 2495", "326", "227", "94", "5", "89", "102", "28", "66", "2", "17", "22" ]
+, [ 136, "ED8D649E-EB8A-4DE6-A266-FCEAF772D3FA", 136, 1412965067, "883850", 1412965067, "883850", "{\n}", "1832 OP 2013/09/27", "WAREHOUSE AND TOOLROOM WORKER 1832", "3551", "314", "3219", "18", "882", "1869", "153", "472", "21", "85", "69" ]
+, [ 137, "7293530E-2CBF-4EF8-A27B-88CA93D68733", 137, 1412965067, "883850", 1412965067, "883850", "{\n}", "4113 P 2013/11/22", "WASTEWATER COLLECTION SUPERVISOR 4113 (REVISED 11/25/13)", "44", "1", "42", "1", "19", "13", "0", "8", "0", "1", "3" ]
+, [ 138, "7C6A84BA-C8FD-48F8-9B2F-FB60C7AD9751", 138, 1412965067, "883850", 1412965067, "883850", "{\n}", "3930 P 2013/08/02", "WATER SERVICE SUPERVISOR 3930", "28", "1", "27", "0", "6", "11", "3", "7", "0", "0", "1" ]
+, [ 139, "B237B528-68EA-4ECD-883D-27A770640028", 139, 1412965067, "883850", 1412965067, "883850", "{\n}", "9602 P 2013-11-29", "WATER SERVICES MANAGER", "8", "0", "8", "0", "2", "2", "0", "4", "0", "0", "0" ]
+, [ 140, "643BC86C-2481-443E-B476-94F895F0DC8A", 140, 1412965067, "883850", 1412965067, "883850", "{\n}", "5885 O 2013/08/09", "WATER TREATMENT OPERATOR 5885", "344", "23", "314", "7", "58", "132", "24", "97", "3", "12", "18" ]
+, [ 141, "2B76B60A-7960-410C-80BA-2123865599F8", 141, 1412965067, "883850", 1412965067, "883850", "{\n}", "5887 P 2013/08/02", "WATER TREATMENT SUPERVISOR 5887", "16", "0", "15", "1", "2", "4", "1", "7", "0", "0", "2" ]
+, [ 142, "4D064928-4451-4F61-84AA-BA89460D5058", 142, 1412965067, "883850", 1412965067, "883850", "{\n}", "5854 O/P 2013/08/30", "WATER UTILITY OPERATOR 5854", "291", "12", "277", "2", "61", "105", "25", "81", "4", "9", "6" ]
+, [ 143, "889F546F-F249-4898-9229-F76CA7F0C17A", 143, 1412965067, "883850", 1412965067, "883850", "{\n}", "3980 P 2013/10/04", "WATER UTILITY SUPERINTENDENT 3980", "50", "2", "48", "0", "18", "21", "0", "11", "0", "0", "0" ]
+, [ 144, "98D9CB5B-99EF-44AD-99D1-EE8515B36942", 144, 1412965067, "883850", 1412965067, "883850", "{\n}", "7248 P 08/09/13", "WATERWORKS ENGINEER", "181", "32", "145", "4", "9", "37", "59", "51", "1", "8", "16" ]
+, [ 145, "3BDC0C02-95D4-4A65-B332-0B2D9D2598A6", 145, 1412965067, "883850", 1412965067, "883850", "{\n}", "3984 P 2013/07/26", "WATERWORKS MECHANIC 3984", "143", "1", "140", "2", "14", "51", "4", "60", "4", "5", "5" ]
+, [ 146, "D2E22960-C58D-47F7-B059-B45C1FC16406", 146, 1412965067, "883850", 1412965067, "883850", "{\n}", "3987 P 2014/05/16", "WATERWORKS MECHANIC SUPERVISOR 3987", "30", "1", "29", "0", "1", "3", "2", "19", "0", "1", "4" ]
+, [ 147, "4B0F9CC5-5E3E-46D0-BF06-2C1197C0701C", 147, 1412965067, "883850", 1412965067, "883850", "{\n}", "3796 OP 2014/4/25", "WELDER 3796 2014", "363", "4", "357", "2", "41", "163", "15", "118", "9", "7", "10" ]
+, [ 148, "96530768-C940-4271-8B65-2101ADC89674", 148, 1412965067, "883850", 1412965067, "883850", "{\n}", "1190 OP 2014/5/16", "WHARFINGER 1190", "80", "37", "41", "2", "15", "25", "17", "14", "1", "1", "7" ]
+, [ 149, "128AB988-1BE8-47BC-AC03-DEC33EC32897", 149, 1412965067, "883850", 1412965067, "883850", "{\n}", "1775 P 2014/04/11", "WORKERS' COMPENSATION ASSISTANT 1775", "116", "95", "19", "2", "39", "51", "4", "10", "1", "6", "5" ]
+, [ 150, "AA054B2D-AC2F-44E8-B9E6-A6FF93D66A76", 150, 1412965067, "883850", 1412965067, "883850", "{\n}", null, "TOTAL NUMBER OF APPLICATIONS BY CATEGORY=", "75959", "34233", "40636", "1090", "24606", "27840", "5656", "10675", "422", "2996", "3764" ]
+ ]
+}

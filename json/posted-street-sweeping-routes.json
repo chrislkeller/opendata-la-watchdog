@@ -1,0 +1,1388 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "krk7-ayq2",
+      "name" : "Posted Street Sweeping Routes",
+      "attribution" : "Bureau of Street Services",
+      "averageRating" : 0,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1399570086,
+      "description" : "Motor sweeping program: route #s, boundaries and times for posted routes only. Maps are available as downloadable PDFs under the Attachments section of the About tab.",
+      "displayType" : "table",
+      "downloadCount" : 11,
+      "iconUrl" : "fileId:iK3e7o-M9lAdfrkX7nVVFzfndK4_fuAd700f4XU4f80",
+      "indexUpdatedAt" : 1414614324,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8091392,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401318334,
+      "publicationGroup" : 1574255,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1401318223,
+      "rowsUpdatedBy" : "awhe-qmys",
+      "tableId" : 1597908,
+      "totalTimesRated" : 0,
+      "viewCount" : 178,
+      "viewLastModified" : 1401393801,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150310833,
+        "name" : "Route No",
+        "dataTypeName" : "text",
+        "fieldName" : "route_no",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19622765,
+        "width" : 132,
+        "cachedContents" : {
+          "non_null" : 864,
+          "smallest" : "*17P100",
+          "null" : 0,
+          "largest" : "9P347 Tu",
+          "top" : [ {
+            "count" : 20,
+            "item" : "9P346 Tu"
+          }, {
+            "count" : 19,
+            "item" : "9P347 M"
+          }, {
+            "count" : 18,
+            "item" : "9P347 Tu"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 150310834,
+        "name" : "Council District",
+        "dataTypeName" : "text",
+        "fieldName" : "cd",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19622766,
+        "width" : 170,
+        "cachedContents" : {
+          "non_null" : 864,
+          "smallest" : "1",
+          "null" : 0,
+          "largest" : "9",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2"
+          }, {
+            "count" : 19,
+            "item" : "10"
+          }, {
+            "count" : 18,
+            "item" : "8"
+          }, {
+            "count" : 17,
+            "item" : "11"
+          }, {
+            "count" : 16,
+            "item" : "5"
+          }, {
+            "count" : 15,
+            "item" : "3"
+          }, {
+            "count" : 14,
+            "item" : "4"
+          }, {
+            "count" : 13,
+            "item" : "2/4"
+          }, {
+            "count" : 12,
+            "item" : "6"
+          }, {
+            "count" : 11,
+            "item" : "2/4/6"
+          }, {
+            "count" : 10,
+            "item" : "2/6"
+          }, {
+            "count" : 9,
+            "item" : "7"
+          }, {
+            "count" : 8,
+            "item" : "15"
+          }, {
+            "count" : 7,
+            "item" : "6/7"
+          }, {
+            "count" : 6,
+            "item" : "4/6"
+          }, {
+            "count" : 5,
+            "item" : "46"
+          }, {
+            "count" : 4,
+            "item" : "3/5"
+          }, {
+            "count" : 3,
+            "item" : "3/6"
+          }, {
+            "count" : 2,
+            "item" : "12"
+          }, {
+            "count" : 1,
+            "item" : "3/12"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 150310835,
+        "name" : "Time Start",
+        "dataTypeName" : "text",
+        "fieldName" : "time_start",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19622767,
+        "width" : 139,
+        "cachedContents" : {
+          "non_null" : 864,
+          "smallest" : "1:00 PM",
+          "null" : 0,
+          "largest" : "9:30 AM",
+          "top" : [ {
+            "count" : 20,
+            "item" : "10:00 AM"
+          }, {
+            "count" : 19,
+            "item" : "8:00 AM"
+          }, {
+            "count" : 18,
+            "item" : "9:00 AM"
+          }, {
+            "count" : 17,
+            "item" : "12:00 PM"
+          }, {
+            "count" : 16,
+            "item" : "1:00 PM"
+          }, {
+            "count" : 15,
+            "item" : "11:00 AM"
+          }, {
+            "count" : 14,
+            "item" : "7:30 AM"
+          }, {
+            "count" : 13,
+            "item" : "12:30 PM"
+          }, {
+            "count" : 12,
+            "item" : "4:00 AM"
+          }, {
+            "count" : 11,
+            "item" : "8:30 AM"
+          }, {
+            "count" : 10,
+            "item" : "9:30 AM"
+          }, {
+            "count" : 9,
+            "item" : "11:30 AM"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 150310836,
+        "name" : "Time End",
+        "dataTypeName" : "text",
+        "fieldName" : "time_end",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19622768,
+        "width" : 133,
+        "cachedContents" : {
+          "non_null" : 864,
+          "smallest" : "1:00 PM",
+          "null" : 0,
+          "largest" : "9:30 AM",
+          "top" : [ {
+            "count" : 20,
+            "item" : "12:00 PM"
+          }, {
+            "count" : 19,
+            "item" : "10:00 AM"
+          }, {
+            "count" : 18,
+            "item" : "11:00 AM"
+          }, {
+            "count" : 17,
+            "item" : "2:00 PM"
+          }, {
+            "count" : 16,
+            "item" : "3:00 PM"
+          }, {
+            "count" : 15,
+            "item" : "1:00 PM"
+          }, {
+            "count" : 14,
+            "item" : "9:30 AM"
+          }, {
+            "count" : 13,
+            "item" : "2:30 PM"
+          }, {
+            "count" : 12,
+            "item" : "6:30 AM"
+          }, {
+            "count" : 11,
+            "item" : "10:30 AM"
+          }, {
+            "count" : 10,
+            "item" : "12:00 pm"
+          }, {
+            "count" : 9,
+            "item" : "11:30 AM"
+          }, {
+            "count" : 8,
+            "item" : "9:00 AM"
+          }, {
+            "count" : 7,
+            "item" : "1:30 pm"
+          }, {
+            "count" : 6,
+            "item" : "1:30 PM"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 150310837,
+        "name" : "Boundaries",
+        "dataTypeName" : "text",
+        "fieldName" : "boundaries",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19622769,
+        "width" : 425,
+        "cachedContents" : {
+          "non_null" : 864,
+          "smallest" : "103rd st to Imperial Hwy-Mona Bl to Graham ave",
+          "null" : 0,
+          "largest" : "York Bl to Pasedana fwy-Figueroa St to Avenue 50",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Olympic - Cashio, Robertson - La Cienega"
+          }, {
+            "count" : 19,
+            "item" : "Western - Vermont, Pico - Venice & Venice - Washington, Wilton - Vermont"
+          }, {
+            "count" : 18,
+            "item" : "Western - Normandie, Venice - 10 Fwy & Normandie - Vermont, Washington - 10 Fwy"
+          }, {
+            "count" : 17,
+            "item" : "LeDoux - Robertson, Gregory - Olympic"
+          }, {
+            "count" : 16,
+            "item" : "Pico - Washington, Wilton - Bronson"
+          }, {
+            "count" : 15,
+            "item" : "Thurman - La Brea, Washington - 10 Fwy"
+          }, {
+            "count" : 14,
+            "item" : "Pico - Olympic, Houser - La Brea"
+          }, {
+            "count" : 13,
+            "item" : "Pico - 10 Fwy, Western - Arlington"
+          }, {
+            "count" : 12,
+            "item" : "La Brea - Arlington, 10 Fwy - Washington"
+          }, {
+            "count" : 11,
+            "item" : "Olympic - Saturn, Fairfax - La Cienega"
+          }, {
+            "count" : 10,
+            "item" : "Sawyer - Kramerwood, Venice - Robertson"
+          }, {
+            "count" : 9,
+            "item" : "Sawyer - Pickford, Robertson - Crescent Heights"
+          }, {
+            "count" : 8,
+            "item" : "Wilshire - Olympic, Sierra Bonita - La Brea"
+          }, {
+            "count" : 7,
+            "item" : "Olympic - 12th ST, Redondo - Lucerne"
+          }, {
+            "count" : 6,
+            "item" : "Buchard - National, 10 Fwy - city line (n/o Washington)"
+          }, {
+            "count" : 5,
+            "item" : "Venice - Washington, La Brea - West"
+          }, {
+            "count" : 4,
+            "item" : "Venice - Washington, West - Crenshaw"
+          }, {
+            "count" : 3,
+            "item" : "Wilshire - Olympic, Sierra Bonita - Schumacher"
+          }, {
+            "count" : 2,
+            "item" : "Pico - 12th St, Queen Ann - La Brea"
+          }, {
+            "count" : 1,
+            "item" : "Olympic - Pico, Hauser - Fairfax"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Bureau of Street Services"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "attachments" : [ {
+          "blobId" : "",
+          "assetId" : "a5u9qhvHdVYM3eFFUAg-oSMWpXPovkP65wlaVFuk62g",
+          "name" : "Council District 01 Posted Routes.pdf",
+          "filename" : "Council District 01 Posted Routes.pdf"
+        }, {
+          "blobId" : "",
+          "assetId" : "p8XM7sI1aEPO7cveviAKPlOTMM4KlDqHEvBjVy2kXnc",
+          "name" : "Council District 02 Posted Routes.pdf",
+          "filename" : "Council District 02 Posted Routes.pdf"
+        }, {
+          "blobId" : "",
+          "assetId" : "Y1vrhJ1MY1maVFcDTtgx5rRxW1A1Zc1_ZxoT9sLOn6U",
+          "name" : "Council District 03 Posted Routes.pdf",
+          "filename" : "Council District 03 Posted Routes.pdf"
+        }, {
+          "blobId" : "",
+          "assetId" : "YvhwY_We8MIBatEnbtQOuJztaMFxRLCTpudHa9iEvlM",
+          "name" : "Council District 04 Posted Routes.pdf",
+          "filename" : "Council District 04 Posted Routes.pdf"
+        }, {
+          "blobId" : "",
+          "assetId" : "egufN4SsF_btgA33bQaGyqcuHQswuuUpLxQD_Dbi8u4",
+          "name" : "Council District 05 Posted Routes.pdf",
+          "filename" : "Council District 05 Posted Routes.pdf"
+        }, {
+          "blobId" : "",
+          "assetId" : "jRQ85EKsC1OZHBFf2_7-V7mxWQdIrnIPBQNOWLiWZe0",
+          "name" : "Council District 06 Posted Routes.pdf",
+          "filename" : "Council District 06 Posted Routes.pdf"
+        }, {
+          "blobId" : "",
+          "assetId" : "e2d6CoRolxxU6KYfepraMxyB6Rwp7vWRNBe1Y8K9QFc",
+          "name" : "Council District 07 Posted Routes.pdf",
+          "filename" : "Council District 07 Posted Routes.pdf"
+        }, {
+          "blobId" : "",
+          "assetId" : "ui_gkptScqQfK4t_DYH23ZmifXs64-nLP7v5FtSLgAs",
+          "name" : "Council District 08 Posted Routes.pdf",
+          "filename" : "Council District 08 Posted Routes.pdf"
+        }, {
+          "blobId" : "",
+          "assetId" : "gRjgLq6TmeW7_02U4f_aXvh4g8CcLHiyr-X0KRrYe3o",
+          "name" : "Council District 09 Posted Routes.pdf",
+          "filename" : "Council District 09 Posted Routes.pdf"
+        }, {
+          "blobId" : "",
+          "assetId" : "sjfUJnYJ-QtyaujBWKmEn0BOyZrfjiSUc20kmgRthhM",
+          "name" : "Council District 10 Posted Routes.pdf",
+          "filename" : "Council District 10 Posted Routes.pdf"
+        }, {
+          "blobId" : "",
+          "assetId" : "DJO9cdk0nxidNAQY9ihDMpMvQyFKtHShsPeQu_tGjLY",
+          "name" : "Council District 11 Posted Routes.pdf",
+          "filename" : "Council District 11 Posted Routes.pdf"
+        }, {
+          "blobId" : "",
+          "assetId" : "XRvPegz20LNt-MD_cwZHNK9Ar6qXQe-9viicYaR41y0",
+          "name" : "Council District 12 Posted Routes.pdf",
+          "filename" : "Council District 12 Posted Routes.pdf"
+        }, {
+          "blobId" : "",
+          "assetId" : "PvphzsjBa6ZLhF8uB3S4E-U5l3hFgyngEvOy6gAKlN8",
+          "name" : "Council District 13 Posted Routes.pdf",
+          "filename" : "Council District 13 Posted Routes.pdf"
+        }, {
+          "blobId" : "",
+          "assetId" : "ILApJf5wr-oOrPRZInM6rK38O_Jiu3gxbAH4brLPY_0",
+          "name" : "Council District 14 Posted Routes.pdf",
+          "filename" : "Council District 14 Posted Routes.pdf"
+        }, {
+          "blobId" : "",
+          "assetId" : "gfixEoPPZW45JZCva2YCLomhjbSO0dleXuRd8UmODUE",
+          "name" : "Council District 15 Posted Routes.pdf",
+          "filename" : "Council District 15 Posted Routes.pdf"
+        } ]
+      },
+      "owner" : {
+        "id" : "awhe-qmys",
+        "displayName" : "CJ",
+        "roleName" : "editor",
+        "screenName" : "CJ",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "awhe-qmys",
+        "displayName" : "CJ",
+        "roleName" : "editor",
+        "screenName" : "CJ",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "street", "services", "sweeping", "routes", "route", "cd", "council", "district", "maintenance", "area", "boundary", "boundaries", "parking" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "A25146EC-37F1-4554-A676-D6C77241B9BA", 1, 1401316308, "881741", 1401316308, "881741", "{\n}", "* 17P100", "2", "10:00 AM", "12:00 PM", "Chandler Bl. to Ventura Fwy / Colfax Av. to Laurel Cyn. Bl." ]
+, [ 2, "5E8F58EA-F302-4297-81A1-1474FE6942E9", 2, 1401316308, "881741", 1401316308, "881741", "{\n}", "*17P100", "2", "10:00 AM", "12:00 PM", "Chandler Bl. to Ventura Fwy / Colfax Av. to Laurel Cyn. Bl." ]
+, [ 3, "1C5B1561-DA4C-4BB4-85CF-03DDBEE894F2", 3, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P136 Th", "10", "8:00 AM", "10:00 AM", "La Brea Ave to Arlington Ave- Santa Monica Fwy to Adams Blvd" ]
+, [ 4, "27572221-BFA9-4E81-8A15-B419C458DBF0", 4, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P136 W", "10", "8:00 AM", "10:00 AM", "La Brea Ave to Arlington Ave -Santa Monica Fwy to Adams Blvd" ]
+, [ 5, "73FCBEA9-36F3-43FB-AEF0-EBA4C98BEC57", 5, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P137 M", "10", "9:00 AM", "11:00 AM", "Adams Blvd to Jefferson Blvd - La Cienega Blvd to Hauser Blvd" ]
+, [ 6, "5E93C58A-764B-4802-A4FB-FA787C64378B", 6, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P137 Tu", "10", "9:00 AM", "11:00 AM", "Adams Blvd to Jefferson Blvd - La Cienega Blvd to Hauser Blvd" ]
+, [ 7, "BC8FD1A3-B584-491A-96C0-372C0A008C6D", 7, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P138 M", "10", "10:00 AM", "12:00 PM", "Adams Blvd to Jefferson Blvd - Hauser Blvd to La Brea Ave" ]
+, [ 8, "464DD0BE-79A8-443F-B9A7-822E25A881D0", 8, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P138 Tu", "10", "10:00 AM", "12:00 PM", "Adams Blvd to Jefferson Blvd - Hauser Blvd to La Brea Ave" ]
+, [ 9, "74EEF2CB-791C-4E88-ACC5-8A31AD961FB7", 9, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P139 M", "10", "12:00 PM", "2:00 PM", "Jefferson Blvd to Coliseum St- Hauser Ave to Holdrege Ave" ]
+, [ 10, "B602B057-2304-48BD-B94E-CB5DC0BC6F60", 10, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P139 Tu", "10", "12:00 PM", "2:00 PM", "Jefferson Blvd to Coliseum St- Hauser Ave to Holdrege Ave" ]
+, [ 11, "948F695C-78A9-44A2-869D-DE7FF19177E0", 11, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P140 M", "10", "1:00 PM", "3:00 PM", "Exposition Blvd to Coliseum St - Hauser Blvd to La Brea Ave" ]
+, [ 12, "9B5A5C71-4FB9-4C9F-9282-5C777AC19D53", 12, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P140 Tu", "10", "1:00 PM", "3:00 PM", "Exposition Blvd to Coliseum St - Hauser Blvd to La Brea Ave" ]
+, [ 13, "30F8C878-DDB2-4BED-A7D7-3365A85D4A6F", 13, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P141 M", "10", "8:00 AM", "10:00 AM", "Adams Blvd to Santa Monica Fwy - La Brea Ave to Fairfax Ave" ]
+, [ 14, "5B6B6494-61CF-4B7E-B8E6-98016D0969F1", 14, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P141 Tu", "10", "8:00 AM", "10:00 AM", "Adams Blvd to Santa Monica Fwy - La Brea Ave to Fairfax Ave" ]
+, [ 15, "F44CD785-5C07-4CD3-AAE3-7FDBFCD33D5A", 15, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P142 Th", "10", "10:00 AM", "12:00 PM", "Adams Blvd to Jefferson Blvd - Arlington Ave to Edgehill Dr" ]
+, [ 16, "19664C44-B92D-4411-AC3E-9B248CB91BF1", 16, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P142 W", "10", "10:00 AM", "12:00 PM", "Adams Blvd to Jefferson Blvd - Arlington Ave to Edgehill Dr" ]
+, [ 17, "7773818D-2FC7-4B89-ACE9-09E410711741", 17, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P143 Th", "10", "11:00 AM", "1:00 PM", "Adams Blvd to Jefferson Blvd - Crenshaw Blvd to Edgehill Dr" ]
+, [ 18, "B5B226F8-3D48-4FE8-828D-0590B6DB44C6", 18, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P143 W", "10", "11:00 AM", "1:00 PM", "Adams Blvd to Jefferson Blvd - Crenshaw Blvd to Edgehill Dr" ]
+, [ 19, "F49783BE-2839-46D5-A15E-79CEEB9A18EC", 19, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P144 Th", "10", "1:00 PM", "3:00 PM", "Adams Blvd to Exposition Blvd - West Blvd to Crenshaw Blvd" ]
+, [ 20, "16A18D3D-8702-40B6-B7DB-2E8088672021", 20, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P144 W", "10", "1:00 PM", "3:00 PM", "Adams Blvd to Exposition Blvd -West Blvd to Crenshaw Blvd" ]
+, [ 21, "F135CD56-4D8E-41BE-985C-3D747C5E328B", 21, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P145 Th", "8", "8:00 AM", "10:00 AM", "Santa Monica Fwy to Jefferson Blvd- Normandie Ave to Western Av" ]
+, [ 22, "6E5CE770-8B02-4BCD-AFAC-F591A5E7C7F7", 22, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P145 W", "8", "8:00 AM", "10:00 AM", "Santa Monica Fwy to Jefferson Blvd - Normandie Ave to Western Av" ]
+, [ 23, "76BFC7B0-E612-4468-BECF-9D4CABE5DB2B", 23, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P146 Th", "8", "9:00 AM", "11:00 AM", "Santa Monica Fwy to Adams Blvd- Normandie Ave to Vermont Ave" ]
+, [ 24, "E624D803-30AF-430A-9D56-395BB15469F4", 24, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P146 W", "8", "9:00 AM", "11:00 AM", "Santa Monica Fwy to Adams Blvd- Normandie Ave to Vermont Ave" ]
+, [ 25, "1268F655-4EA5-4A00-BE30-8274884BFF77", 25, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P147 Th", "8", "10:00 AM", "12:00 PM", "Adams Blvd to Jefferson Blvd - Normandie Ave to Vermont Ave" ]
+, [ 26, "F27FCA64-6043-4A9A-ABF7-D1D518DDE0C7", 26, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P147 W", "8", "10:00 AM", "12:00 PM", "Adams Blvd to Jefferson Blvd - Normandie Ave to Vermont Ave" ]
+, [ 27, "76127E54-8772-4E68-82C6-3AD8A42C8A01", 27, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P148 Th", "8", "12:00 PM", "2:00 PM", "Vermont Ave to Normandie Ave - Jefferson Blvd to Exposition Blvd" ]
+, [ 28, "48B70358-7E0F-4CF8-8E00-FD411F15AEF3", 28, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P148 W", "8", "12:00 PM", "2:00 PM", "Vermont Ave to Normandie Ave - Jefferson Blvd to Exposition Blvd" ]
+, [ 29, "0EBD3318-CFB7-4344-830F-F2CBB7E1E942", 29, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P149 Th", "8", "1:00 PM", "3:00 PM", "Normandie Ave to Western Ave - Jefferson Blvd to Exposition Blvd" ]
+, [ 30, "F120CA86-64EE-488B-8186-193E1DDFEB93", 30, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P149 W", "8", "1:00 PM", "3:00 PM", "Normandie Ave to Western Ave - Jefferson Blvd to Exposition Blvd" ]
+, [ 31, "F383F0B9-9C9E-4560-920C-9B6F06D09FCC", 31, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P150 Th", "10", "8:00 AM", "10:00 AM", "Santa Monica Fwy to Jefferson Blvd - Arlington Ave to Western Av" ]
+, [ 32, "F717A9EF-1239-4568-A1EE-E55B2432145C", 32, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P150 W", "10", "8:00 AM", "10:00 AM", "Santa Monica Fwy to Jefferson Blvd - Arlington Ave to Western Av" ]
+, [ 33, "8D0F3FC8-0035-4272-AB2D-5ACD0030EF93", 33, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P151 Th", "10", "10:00 AM", "12:00 PM", "Jefferson Blvd to Exposition Blvd - Arlington Ave to Crenshaw Blvd" ]
+, [ 34, "2AA68542-8AE3-427E-9057-CCAA2006FF1E", 34, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P151 W", "10", "10:00 AM", "12:00 PM", "Jefferson Blvd to Exposition Blvd - Arlington Ave to Crenshaw Blvd" ]
+, [ 35, "ABED67DE-CD24-4728-98C2-5503A8985126", 35, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P152 Th", "10", "12:00 PM", "2:00 PM", "Rodeo Rd to Martin L. King Blvd - Crenshaw Blvd to Westside Ave" ]
+, [ 36, "23A649CB-CCB2-453B-AA5E-23B2C409FBC8", 36, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P152 W", "10", "12:00 PM", "2:00 PM", "Rodeo Rd to Martin L. King Blvd - Crenshaw Blvd to Westside Ave" ]
+, [ 37, "4DD53A21-F843-4D9C-AB0A-846EA44C246E", 37, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P153 Th", "10", "1:00 PM", "3:00 PM", "Rodeo Rd to Martin L. King Blvd - Arlington Ave to Westside Ave" ]
+, [ 38, "140D0E40-4FDD-4711-B534-A5FBD2EA935C", 38, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P153 W", "10", "1:00 PM", "3:00 PM", "Rodeo Rd to Martin L. King Blvd- Arlington Ave to Westside Ave" ]
+, [ 39, "312822C1-D470-42CB-9095-7F1D387D7EDC", 39, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P154 Th", "10", "8:00 AM", "10:00 AM", "Adams Blvd to Exposition Blvd - West Blvd to La Brea Ave" ]
+, [ 40, "1F4331A6-CF16-48FE-8808-ED22A0931D93", 40, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P154 W", "10", "8:00 AM", "10:00 AM", "Adams Blvd to Exposition Blvd -West Blvd to La Brea Ave" ]
+, [ 41, "7AD05AD3-74B0-48C8-8BF4-A6569442C25E", 41, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P155 Th", "10", "10:00 AM", "12:00 PM", "Exposition Blvd to Martin L. King Blvd - Crenshaw Blvd to La Brea Av" ]
+, [ 42, "32810AF3-349E-4018-BA08-5846C7C3C86B", 42, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P155 W", "10", "10:00 AM", "12:00 PM", "Exposition Blvd to Martin L. King Blvd - Crenshaw Blvd to La Brea Av" ]
+, [ 43, "1754D220-23DB-43AC-BE2F-42C3AFD4BE4E", 43, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P156 Th", "10", "12:00 PM", "2:00 PM", "Martin L. King Blvd to Don Ricardo Dr- Gibralter Ave to Hillcrest Dr" ]
+, [ 44, "A1B0E0D9-9BEC-426C-B746-8C5A6563B857", 44, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P156 W", "10", "12:00 PM", "2:00 PM", "Martin L. King Blvd to Don Ricardo Dr - Gibralter Ave to Hillcrest Dr" ]
+, [ 45, "4192E6A2-A254-4F98-B995-BAB4BD6C82F9", 45, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P157 Th", "10", "1:00 PM", "3:00 PM", "Martin L. King Blvd to Don Diablo Dr - Hillcrest Dr to Marlton Ave" ]
+, [ 46, "6C4FF8E2-B651-47FC-8735-DFE21DDB9594", 46, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P157 W", "10", "1:00 PM", "3:00 PM", "Martin L. King Blvd to Don Diablo Dr - Hillcrest Dr to Marlton Ave" ]
+, [ 47, "F0C639FB-92CF-4408-9B78-4CB20F5524B7", 47, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P158 Th", "10", "7:30 AM", "9:30 AM", "Jefferson Blvd to Exposition Blvd- Western Ave to Arlington Ave" ]
+, [ 48, "381575AB-E5D7-4586-A5A8-95F244886817", 48, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P158 W", "10", "7:30 AM", "9:30 AM", "Jefferson Blvd to Exposition Blvd- Western Ave to Arlington Ave" ]
+, [ 49, "FCF52725-EED2-4ECA-8CCA-7341026BFAF6", 49, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P159 Th", "10", "8:00 AM", "10:00 AM", "Exposition Blvd to Martin L. King Bl- Western Ave to Arlington Ave" ]
+, [ 50, "D44ADD59-9683-4A4A-B7B1-7A61EB7A5414", 50, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P159 W", "10", "8:00 AM", "10:00 AM", "Exposition Blvd to Martin L. King Bl- Western Ave to Arlington Ave" ]
+, [ 51, "CC3E0105-007E-4925-ADB3-57CEEB8CEC66", 51, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P160 Th", "8", "10:00 AM", "12:00 PM", "Exposition Blvd to Martin L. King Bl-Normandie Ave to Western Ave" ]
+, [ 52, "B39253AB-7B8E-480B-B263-02BF33D6DDE1", 52, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P160 W", "8", "10:00 AM", "12:00 PM", "Exposition Blvd to Martin L. King Bl- Normandie Ave to Western Ave" ]
+, [ 53, "53557F8E-1D34-4B4B-AEF7-3F53F2710BE6", 53, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P161 Th", "8", "12:00 PM", "2:00 PM", "Exposition Blvd to Martin L. King Bl-Vermont Ave to Normandie AVe" ]
+, [ 54, "727B064B-8CA9-40AB-B4F1-05DB70509797", 54, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P161 W", "8", "12:00 PM", "2:00 PM", "Exposition Blvd to Martin L. King Bl- Vermont Ave to Normandie AVe" ]
+, [ 55, "F29E22C9-AFF9-4A69-AB83-FB60E532D0B3", 55, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P162 Th", "8", "8:00 AM", "10:00 AM", "Martin L. King Blvd to Vernon Ave-Vermont Ave to Normandie Ave" ]
+, [ 56, "F183D6A3-C42E-43AC-B11C-E51E322E1D70", 56, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P162 W", "8", "8:00 AM", "10:00 AM", "Martin L. King Blvd to Vernon Ave-Vermont Ave to Normandie Ave" ]
+, [ 57, "1E4DF996-9236-47B4-85CF-5663A55E4682", 57, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P163 Th", "8", "9:00 AM", "11:00 AM", "Normandie Ave to Western Ave- Vernon Ave to Martin L. King Blvd" ]
+, [ 58, "8533D284-4112-4CAA-9711-141DDC0FF4BE", 58, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P163 W", "8", "9:00 AM", "11:00 AM", "Normandie Ave to Western Ave-Vernon Ave to Martin L. King Blvd" ]
+, [ 59, "7C08CFEF-78AC-4BFD-A59F-60DE4D3EF35A", 59, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P164 Th", "8", "8:00 AM", "10:00 AM", "Vernon Ave to 51st St- Normandie Ave to Vermont Ave" ]
+, [ 60, "E886559F-E69D-4849-AAE4-BE88FF7D598E", 60, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P164 W", "8", "8:00 AM", "10:00 AM", "Vernon Ave to 51st St- Normandie Ave to Vermont Ave" ]
+, [ 61, "4AE5211F-AFBD-473F-AB03-FD32BD50F6F1", 61, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P165 Th", "8", "9:00 AM", "11:00 AM", "51st St to Slauson Ave- Vermont St to Normandie Ave" ]
+, [ 62, "0A3593B4-1A52-4AA1-8BCC-5C0798367EF1", 62, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P165 W", "8", "9:00 AM", "11:00 AM", "51st St to Slauson Ave-Vermont St to Normandie Ave" ]
+, [ 63, "50028730-92BA-449F-9AE1-3CD33C096D96", 63, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P166 Th", "8", "12:00 PM", "2:00 PM", "Vernon Ave to 51st Pl-Western Ave to Normandie Ave" ]
+, [ 64, "73EB25D6-ED74-40BB-B569-C6DDD90F9438", 64, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P166 W", "8", "12:00 PM", "2:00 PM", "Vernon Ave to 51st Pl-Western Ave to Normandie Ave" ]
+, [ 65, "E7D0ED16-C317-4A63-AD24-EC3CE7E01ADB", 65, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P167 Th", "8", "1:00 PM", "3:00 PM", "51st Pl to Slauson Ave-Normandie Ave to Western Ave" ]
+, [ 66, "84B0F283-20B4-477E-A66B-120B7B0AE389", 66, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P167 W", "8", "1:00 PM", "3:00 PM", "51st Pl to Slauson Ave-Normandie Ave to Western Ave" ]
+, [ 67, "9AD83C3F-24BA-4C2F-AE7D-7CC8399C4A01", 67, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P168 Th", "8", "12:00 PM", "2:00 PM", "Vernon Ave to 52nd St-Western Ave to Arlington Ave" ]
+, [ 68, "B3CAB9B3-ED4C-4A6D-A3D0-49AEF15193CD", 68, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P168 W", "8", "12:00 PM", "2:00 PM", "Vernon Ave to 52nd St- Western Ave to Arlington Ave" ]
+, [ 69, "EB2A70BA-EB7C-4ECB-B781-29BCAE08D570", 69, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P169 Th", "8", "1:00 PM", "3:00 PM", "52nd St to Slauson Ave- Arlington Ave to Western Ave" ]
+, [ 70, "E28438E0-2167-4DE3-8248-B792CFB5B0FC", 70, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P169 W", "8", "1:00 PM", "3:00 PM", "52nd St to Slauson Ave-Arlington Ave to Western Ave" ]
+, [ 71, "9AAD26B2-20ED-432F-9199-BDD229BF103A", 71, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P170 Th", "8", "7:30 AM", "9:30 AM", "52nd St to Slauson Ave-8th Ave to Cimarron" ]
+, [ 72, "0E20BB42-3EC3-42FC-9C30-3D830E4DEC1E", 72, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P170 W", "8", "7:30 AM", "9:30 AM", "52nd St to Slauson Ave- 8th Ave to Cimarron" ]
+, [ 73, "170B5791-520D-4B61-97CD-FC694DA8B522", 73, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P171 Th", "8", "8:00 AM", "10:00 AM", "Vernon Ave to 52nd St -10th Ave to Arlington Ave" ]
+, [ 74, "2642619A-0494-4558-844A-429983758F9E", 74, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P171 W", "8", "8:00 AM", "10:00 AM", "Vernon Ave to 52nd St -10th Ave to Arlington Ave" ]
+, [ 75, "315ED42A-F265-4515-A43A-2C2EE12C4638", 75, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P172 Th", "10", "10:00 AM", "12:00 PM", "Martin L. King Blvd to Vernon Ave- 4th Ave to Crenshaw Blvd" ]
+, [ 76, "015C8838-44DB-4CE3-B44D-BE6C5E91EB02", 76, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P172 W", "10", "10:00 AM", "12:00 PM", "Martin L. King Blvd to Vernon Ave-  4th Ave to Crenshaw Blvd" ]
+, [ 77, "47F67213-5B66-4638-9DAC-647B17BBF064", 77, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P173 Th", "10", "12:00 PM", "2:00 PM", "Martin L. King Blvd to Vernon Ave-Western Ave to 3rd Ave" ]
+, [ 78, "504B04A3-C73C-4AA7-A8F5-D054B027C0FC", 78, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P173 W", "10", "12:00 PM", "2:00 PM", "Martin L. King Blvd to Vernon Ave- Western Ave to 3rd Ave" ]
+, [ 79, "C9311B88-F27E-4F7B-A718-5A6F5C34D93F", 79, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P174 M", "8", "8:00 AM", "10:00 AM", "Slauson ave to 67th st- Vermont Ave to Normandie Ave" ]
+, [ 80, "02DC3D73-A604-4B5B-9017-B2C1B9A11A5D", 80, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P174 Tu", "8", "8:00 AM", "10:00 AM", "Slauson ave to 67th st- Vermont Ave to Normandie Ave" ]
+, [ 81, "3125F9DE-53D2-4DDB-A26E-80A073280B89", 81, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P175 M", "8", "10:00 AM", "12:00 PM", "Slauson ave to 67th st- Normandie to Western Ave" ]
+, [ 82, "D8E9832C-D8E4-458B-935A-08E6E3983C15", 82, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P175 Tu", "8", "10:00 AM", "12:00 PM", "Slauson ave to 67th st- Normandie to Western Ave" ]
+, [ 83, "98D85236-360F-40F0-A1C7-D76E9E7698F1", 83, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P176 M", "8", "12:30 PM", "2:30 PM", "Southwest Dr to 67th st-Western Ave to 8th Ave" ]
+, [ 84, "C4591881-4ED4-43B7-9CD5-B990CFB9AFD8", 84, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P176 Tu", "8", "12:30 PM", "2:30 PM", "Southwest Dr to 67th st-Western Ave to 8th Ave" ]
+, [ 85, "B8952A60-2D41-4AA3-92F5-DF8527EEF204", 85, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P177 M", "8", "8:00 AM", "10:00 AM", "Slauson Ave to Hyde Park Bl-Western Ave to 8th Ave" ]
+, [ 86, "C0189E7D-011C-4E38-B281-7F21B25EE53E", 86, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P177 Tu", "8", "8:00 AM", "10:00 AM", "Slauson Ave to Hyde Park Bl-Western Ave to 8th Ave" ]
+, [ 87, "532FCF51-00B6-44F6-BC0A-771C9E14CC99", 87, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P178 F", "8", "9:00 AM", "11:00 AM", "48th St to Slauson Ave - 8th Ave to Hillcrest Dr" ]
+, [ 88, "29BB9565-E333-4999-8ACE-2F5E6D65F898", 88, 1401316308, "881741", 1401316308, "881741", "{\n}", "10P178 M", "8", "9:00 AM", "11:00 AM", "48th st to Slauson Ave -8th Ave to Hillcrest DR" ]
+, [ 89, "158CE856-CEAC-446F-A300-27E86B727627", 89, 1401316308, "881741", 1401316308, "881741", "{\n}", "11P180 M", "8", "10:00 AM", "12:00 PM", "Slauson Ave to Florence Ave- 8th Ave to West Bl" ]
+, [ 90, "27283CE2-A0A5-417C-BE41-3087BAD4FC6C", 90, 1401316308, "881741", 1401316308, "881741", "{\n}", "11P180 Tu", "8", "10:00 AM", "12:00 PM", "Slauson Ave to Florence Ave- 8th Ave to West Bl" ]
+, [ 91, "D46272FD-F366-473E-AEA4-396D6B807476", 91, 1401316308, "881741", 1401316308, "881741", "{\n}", "11P181 M", "8", "12:00 PM", "2:00 PM", "Slauson Ave to 64th st- West Bl to Alviso Ave" ]
+, [ 92, "33249826-9529-4617-AE23-AF94B12ADB17", 92, 1401316308, "881741", 1401316308, "881741", "{\n}", "11P181 Tu", "8", "12:00 PM", "2:00 PM", "Slauson Ave to 64th st- West Bl to Alviso Ave" ]
+, [ 93, "09E28C61-1DDE-463E-9116-0105DD08FAFC", 93, 1401316308, "881741", 1401316308, "881741", "{\n}", "11P182 M", "8", "8:00 AM", "10:00 AM", "Manchester Blvd to 96th St-Western Ave to Van Ness" ]
+, [ 94, "E22F3B3B-1F3D-41B7-91C5-D4708FDF0F5F", 94, 1401316308, "881741", 1401316308, "881741", "{\n}", "11P182 Tu", "8", "8:00 AM", "10:00 AM", "Manchester Blvd to 96th St-Western Ave to Van Ness" ]
+, [ 95, "7782C031-0D9C-455B-B121-BE68FED29D49", 95, 1401316308, "881741", 1401316308, "881741", "{\n}", "11P183 M", "8", "10:00 AM", "12:00 PM", "96th St to 108th St-Western Ave to Van Ness Ave" ]
+, [ 96, "DC6A63CC-4644-45EE-9D98-FF25F0C3A1DA", 96, 1401316308, "881741", 1401316308, "881741", "{\n}", "11P183 Tu", "8", "10:00 AM", "12:00 PM", "96th St to 108th St-Western Ave to Van Ness Ave" ]
+, [ 97, "BFA50894-9E25-45A5-B55F-E4B1E2D6C0B1", 97, 1401316308, "881741", 1401316308, "881741", "{\n}", "11P184 M", "8", "12:00 PM", "2:00 PM", "92nd St to 104th St- Normandie Ave to Western Ave" ]
+, [ 98, "7795089D-807A-401D-8FC0-026C9499DC73", 98, 1401316308, "881741", 1401316308, "881741", "{\n}", "11P184 Tu", "8", "12:00 PM", "2:00 PM", "92nd St to 104th St- Normandie Ave to Western Ave" ]
+, [ 99, "97C8CD9D-90DC-4BA6-930F-B44C186E27EB", 99, 1401316308, "881741", 1401316308, "881741", "{\n}", "11P185 M", "8", "1:00 PM", "3:00 PM", "Manchester Ave to 92nd St - Normandie Ave to Western Ave" ]
+, [ 100, "F3CECA8A-1636-40DE-8008-7AC66C7DB35B", 100, 1401316308, "881741", 1401316308, "881741", "{\n}", "11P185 Tu", "8", "1:00 PM", "3:00 PM", "Manchester Ave to 92nd St - Normandie Ave to Western Ave" ]
+, [ 101, "C950252B-E2C5-471A-8A92-62645D46B47E", 101, 1401316308, "881741", 1401316308, "881741", "{\n}", "11P186 Th", "11", "12:00 PM", "2:30 PM", "Manchester Ave to Century Blvd, Vicksburg Ave to La Cienega Bl" ]
+, [ 102, "5299AF17-D7BE-422E-AD72-0D0F13F79BF5", 102, 1401316308, "881741", 1401316308, "881741", "{\n}", "11P186 W", "11", "12:00 PM", "2:30 PM", "Manchester Ave to Century Blvd, Vicksburg Ave to La Cienega Bl" ]
+, [ 103, "653C8A24-4692-4F4D-9CF3-1B1112D6BC2D", 103, 1401316308, "881741", 1401316308, "881741", "{\n}", "11P187 M", "8", "10:00 AM", "12:00 PM", "76th St to Manchester Ave - Normandie Ave to Western Ave" ]
+, [ 104, "581B46E3-9B13-4467-8DCD-40218F4D58F1", 104, 1401316308, "881741", 1401316308, "881741", "{\n}", "11P187 Tu", "8", "10:00 AM", "12:00 PM", "76th St to Manchester Ave - Normandie Ave to Western Ave" ]
+, [ 105, "B68E9751-F30D-45C5-8A6A-FF8FA0823EF2", 105, 1401316308, "881741", 1401316308, "881741", "{\n}", "11P188 M", "8", "12:00 PM", "2:00 PM", "76th St to Manchester Ave - Western Ave to West City Limits" ]
+, [ 106, "C1CACD00-51B8-4AE0-9DC9-D8FB253F7A10", 106, 1401316308, "881741", 1401316308, "881741", "{\n}", "11P188 Tu", "8", "12:00 PM", "2:00 PM", "76th St to Manchester Ave - Western Ave to West City Limits" ]
+, [ 107, "1C8B8399-8844-4A55-901A-A44AF80474F0", 107, 1401316308, "881741", 1401316308, "881741", "{\n}", "11P189  M", "8", "8:00 AM", "10:00 AM", "67th St to Florence Ave - Vermont Ave to Van Ness Ave" ]
+, [ 108, "FF623E80-8FEB-42C9-A1D8-1F4D00B9D53E", 108, 1401316308, "881741", 1401316308, "881741", "{\n}", "11P189 Tu", "8", "8:00 AM", "10:00 AM", "67th St to Florence Ave - Vermont Ave to Van Ness Ave" ]
+, [ 109, "9C9B18E8-6CDF-4775-925A-78B0DD0D2935", 109, 1401316308, "881741", 1401316308, "881741", "{\n}", "11P190 M", "8", "10:00 AM", "12:00 PM", "Florence Ave to 76th St - Vermont Ave to Van Ness Ave" ]
+, [ 110, "5387A926-E5E8-4BEB-894D-23B09D452A44", 110, 1401316308, "881741", 1401316308, "881741", "{\n}", "11P190 Tu", "8", "10:00 AM", "12:00 PM", "Florence Ave to 76th St - Vermont Ave to Van Ness Ave" ]
+, [ 111, "3D509B94-A3F6-49C7-A128-D8F853E7A546", 111, 1401316308, "881741", 1401316308, "881741", "{\n}", "11P191 M", "8", "12:00 PM", "2:00 PM", "67th St to 79th st-Van Ness Ave to West City Limits" ]
+, [ 112, "7A9DB309-F092-4E35-8E50-FAE7D69BA1F5", 112, 1401316308, "881741", 1401316308, "881741", "{\n}", "11P191 Tu", "8", "12:00 PM", "2:00 PM", "67th St to 79th st-Van Ness Ave to West City Limits" ]
+, [ 113, "D3B3D2EA-465D-4C2F-A7EA-64A48A2E26CA", 113, 1401316308, "881741", 1401316308, "881741", "{\n}", "11P192 Th", "11", "10:00 AM", "12:00 PM", "83rd St to Westchester Pkwy- Lilienthal Ave to Sepulveda Bl" ]
+, [ 114, "2CA2B158-EFB7-4DD2-BEE5-7FFF40B28177", 114, 1401316308, "881741", 1401316308, "881741", "{\n}", "11P192 W", "11", "10:00 AM", "12:00 PM", "83rd St to Westchester Pkwy- Lilienthal Ave to Sepulveda Bl" ]
+, [ 115, "2030B579-0230-4617-8582-DE223FFDC126", 115, 1401316308, "881741", 1401316308, "881741", "{\n}", "11P333 M", "8", "8:00 AM", "10:00 AM", "76th St to Manchester Ave - Vermont Ave to Normandie Ave" ]
+, [ 116, "BFE0ED2E-5F8D-48A4-9E24-DCDA0AE873D3", 116, 1401316308, "881741", 1401316308, "881741", "{\n}", "11P333 Tu", "8", "8:00 AM", "10:00 AM", "76th St to Manchester Ave - Vermont Ave to Normandie Ave" ]
+, [ 117, "93AAACDF-839A-4591-94CD-92CD4EC7F801", 117, 1401316308, "881741", 1401316308, "881741", "{\n}", "11P354 Th", "11", "12:00 PM", "2:30 PM", "LA City Limits to Manitoba St -Saran Dr to Ocean Front Walk" ]
+, [ 118, "67EAA70D-81E1-4344-8D13-56F538825311", 118, 1401316308, "881741", 1401316308, "881741", "{\n}", "11P354 W", "11", "12:00 PM", "2:30 PM", "LA City Limits to Manitoba St -Saran Dr to Ocean Front Walk" ]
+, [ 119, "29F6A795-CD3A-4D5C-B653-2E9FA00D9CCE", 119, 1401316308, "881741", 1401316308, "881741", "{\n}", "12NP200", "5", "4:00 AM", "6:30 AM", "Alley's north of and south of Pico Blvd- Robertson Blvd to Beverly Dr" ]
+, [ 120, "DEE98DA2-6349-4DB2-A1D6-58F061E77BA9", 120, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P124 Th", "11", "9:00 AM", "11:00 AM", "California Ave to Venice Blvd - Lincoln Blvd to Electric Ave" ]
+, [ 121, "382AF75F-3C4E-4386-8768-539BB16D22C0", 121, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P124 W", "11", "9:00 AM", "11:00 AM", "California Ave to Venice Blvd - Lincoln Blvd to Electric Ave" ]
+, [ 122, "076FF01E-3DA7-4729-91E3-D6B8EA09C1B5", 122, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P125 M", "11", "8:00 AM", "10:00 AM", "Santa Monica c/b to Indiana Ave-Lincoln Blvd to Main St" ]
+, [ 123, "8EF0C970-429A-4328-8658-7AC5BC6EB51E", 123, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P125 Tu", "11", "8:00 AM", "10:00 AM", "Santa Monica c/b to Indiana Ave-Lincoln Blvd to Main St" ]
+, [ 124, "C55B55C9-9D3B-4885-A1A4-8E0BD7337DF4", 124, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P126 Th", "11", "10:00 AM", "12:00 PM", "Indiana Ave to California Ave-Lincoln Blvd to Electric Ave" ]
+, [ 125, "FEC958A3-433D-4AD4-A55B-6F521EF95556", 125, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P126 W", "11", "10:00 AM", "12:00 PM", "Indiana Ave to California Ave-Lincoln Blvd to Electric Ave" ]
+, [ 126, "0C257495-1EC3-4671-8854-47FD4249973F", 126, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P127 Th", "11", "8:00 AM", "10:00 AM", "Victoria Ave/McCune Ave to Venice Blvd-Centinela Ave to Lincoln Blvd" ]
+, [ 127, "C00E3EBA-7B12-4B57-ACC6-F56D5D163117", 127, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P127 W", "11", "8:00 AM", "10:00 AM", "Victoria Ave/McCune Ave to Venice Blvd-Centinela Ave to Lincoln Blvd" ]
+, [ 128, "605C6D59-2A54-402B-B1A6-1AEBA94A1EF0", 128, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P128 M", "11", "12:00 PM", "2:00 PM", "Abbott Blvd to Pacific Ave-Venice Blvd to Westminister Ave" ]
+, [ 129, "0824C4C2-F774-4C08-8D71-8518C895A879", 129, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P128 Tu", "11", "12:00 PM", "2:00 PM", "Abbott Blvd to Pacific Ave-Venice Blvd to Westminister Ave" ]
+, [ 130, "93B9064C-3187-4A88-B06B-628DA16ED575", 130, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P129 Th", "11", "10:00 AM", "12:00 PM", "Washington Blvd to Jefferson Blvd-Sawtelle Blvd to Alla Rd" ]
+, [ 131, "2EE49759-640A-41F9-A312-411FA1F1C1D4", 131, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P129 W", "11", "10:00 AM", "12:00 PM", "Washington Blvd to Jefferson Blvd-Sawtelle Blvd to Alla Rd" ]
+, [ 132, "2428C2B9-6CD3-4261-A823-48382580C9C2", 132, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P139 Th", "11", "10:00 AM", "12:00 PM", "La Villa Marina to Lincoln Blvd=Fiji Way to Mindinao Way" ]
+, [ 133, "7808C362-D4CD-4F34-AAE1-695C59A4D0D7", 133, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P139 W", "11", "10:00 AM", "12:00 PM", "La Villa Marina to Lincoln Blvd=Fiji Way to Mindinao Way" ]
+, [ 134, "66FB09F1-7C79-4634-93C2-AB6849B897D3", 134, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P140 Th", "11", "10:00 AM", "12:00 PM", "Venice Blvd to Washington Pl-Centinela Blvd to Walgrove Ave" ]
+, [ 135, "57B14E96-8AE6-49D4-A957-34FD3D98EBBF", 135, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P140 W", "11", "10:00 AM", "12:00 PM", "Venice Blvd to Washington Pl-Centinela Blvd to Walgrove Ave" ]
+, [ 136, "01A06D63-CF6E-4F01-BB67-99977CCE8CF7", 136, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P141 Th", "11", "8:00 AM", "10:00 AM", "Venice Bl to Washington Pl-Walgrove Av to Abbot Kinney Bl" ]
+, [ 137, "1948D8AC-D97E-48E0-9754-3E4344DC49F0", 137, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P141 W", "11", "8:00 AM", "10:00 AM", "Venice Bl to Washington Pl-Walgrove Av to Abbot Kinney Bl" ]
+, [ 138, "05789F38-30FB-4A3B-8DBA-561D05C6F07D", 138, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P142 M", "5", "8:00 AM", "10:00 AM", "Airdrome St to Santa Monica Fwy- Motor Ave to Robertson Bl" ]
+, [ 139, "98C6646B-991D-4E50-BE33-608D4B07D199", 139, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P142 Tu", "5", "8:00 AM", "10:00 AM", "Airdrome St to Santa Monica Fwy- Motor Ave to Robertson Bl" ]
+, [ 140, "D5F34625-6CD1-4099-8103-469FC65ABB09", 140, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P143 M", "5", "12:00 PM", "2:30 PM", "Whitworth Dr to Airdrome St-Robertson Blvd to Beverly Dr" ]
+, [ 141, "897A9DEA-5206-4FF6-9A1A-AC74DFD0CACB", 141, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P143 Tu", "5", "12:00 PM", "2:30 PM", "Whitworth Dr to Airdrome St-Robertson Blvd to Beverly Dr" ]
+, [ 142, "CAC701D6-F81E-4913-9ECB-0A3A7CC7D35F", 142, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P171 Th", "5", "8:00 AM", "10:00 AM", "Venice Blvd to Culver City Limit-Bledsoe Ave to Centinela Ave" ]
+, [ 143, "D0A31C55-852B-435E-AA26-A7CAB6982763", 143, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P171 W", "5", "8:00 AM", "10:00 AM", "Venice Blvd to Culver City Limit-Bledsoe Ave to Centinela Ave" ]
+, [ 144, "74E8BEFC-9B2B-45DC-977A-5929980B530A", 144, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P225 M", "5", "10:00 AM", "12:00 PM", "Beverly Hills City Limits to Pico Blvd-Beverly Dr to Beverly Hills City Limits" ]
+, [ 145, "DF06A377-7D70-44A3-94BB-FC678DF5AEEB", 145, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P225 Tu", "5", "10:00 AM", "12:00 PM", "Beverly Hills City Limits to Pico Blvd-Beverly Dr to Beverly Hills City Limits" ]
+, [ 146, "4C0CD53D-3304-49E0-88BE-4729723EFE39", 146, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P287 Th", "5", "12:00 PM", "2:30 PM", "Kelton Ave to Sepulveda Blvd-Rose Ave to Venice Blvd" ]
+, [ 147, "1D2E24B9-17BE-47E8-A735-F766B2998E06", 147, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P287 W", "5", "12:00 PM", "2:30 PM", "Kelton Ave to Sepulveda Blvd-Rose Ave to Venice Blvd" ]
+, [ 148, "BB6EC110-BC3E-41B9-B8FC-9B92736CF806", 148, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P288 Th", "5", "8:00 AM", "10:00 AM", "Santa Monica Fwy to Culver City Limits-Ellis Ave to Overland Ave " ]
+, [ 149, "27800E0F-BC82-4427-82F2-30635F8B1427", 149, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P288 W", "5", "8:00 AM", "10:00 AM", "Santa Monica Fwy to Culver City Limits-Ellis Ave to Overland Ave " ]
+, [ 150, "7284D4B1-97F4-45B9-940C-7C338132A5A2", 150, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P289 Th", "5", "10:00 AM", "12:00 PM", "Hughes Ave to Kelton Ave-National Blvd to Venice Blvd" ]
+, [ 151, "314033CE-0E83-4246-AE3C-7F69DBD4BDE8", 151, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P289 W", "5", "10:00 AM", "12:00 PM", "Hughes Ave to Kelton Ave-National Blvd to Venice Blvd" ]
+, [ 152, "DCCE94A6-16C0-475B-A8FB-09D5741E6744", 152, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P290 M", "5", "8:00 AM", "10:00 AM", "Exposition Blvd to Queensland St-Overland Ave to Sepulveda Blvd" ]
+, [ 153, "1D298B36-C58A-4B47-9DF6-643902F1CBA1", 153, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P290 Tu", "5", "8:00 AM", "10:00 AM", "Exposition Blvd to Queensland St-Overland Ave to Sepulveda Blvd" ]
+, [ 154, "B53C79C8-4E72-46B5-BAF1-CBA655C3FA88", 154, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P348 M", "5", "10:00 AM", "12:00 PM", "Pico Blvd to Cresta Dr-Canfield Ave to Peg Pl" ]
+, [ 155, "B82414B5-8ADD-44B9-A1F2-F4A8D7970A75", 155, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P348 Tu", "5", "10:00 AM", "12:00 PM", "Pico Blvd to Cresta Dr-Canfield Ave to Peg Pl" ]
+, [ 156, "C3AF2585-22D5-428A-8639-AA006C668F11", 156, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P349 M", "5", "10:00 AM", "12:00 PM", "Pico Blvd to Richland Ave-Patricia Ave to Military Ave" ]
+, [ 157, "F9122FC6-6C58-468B-8C38-F90FAD9FEB89", 157, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P349 Tu", "5", "10:00 AM", "12:00 PM", "Pico Blvd to Richland Ave-Patricia Ave to Military Ave" ]
+, [ 158, "1005E2B1-A5F9-4AEF-901A-4CBA0E13A868", 158, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P350 M", "11", "8:00 AM", "10:00 AM", "Pico Bl to Venice Bl- Sawtelle to Inglewood Bl-Various " ]
+, [ 159, "28E6C933-E7C6-4F9A-8923-67242449F270", 159, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P350 Tu", "11", "8:00 AM", "10:00 AM", "Pico Bl to Venice Bl- Sawtelle to Inglewood Bl-Various " ]
+, [ 160, "ED9C5D02-87D2-4022-9F60-06212F7FF2DD", 160, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P351 Th", "11", "1:00 PM", "3:00 PM", "Santa Monica City Limits to Palms Blvd-Penmar Ave to Lincoln Bl" ]
+, [ 161, "EB2EB0AC-6873-45F8-A294-26B10F982F3D", 161, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P351 W", "11", "1:00 PM", "3:00 PM", "Santa Monica City Limits to Palms Blvd-Penmar Ave to Lincoln Bl" ]
+, [ 162, "1092493C-C568-419D-BE5F-D7691E4044A5", 162, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P352 M", "11", "8:30 AM", "10:30 AM", "N. Venice Blvd to Washington St-Abbot Kinney Blvd to Pacific Ave" ]
+, [ 163, "DC50CF35-0620-47DF-B78F-2CD0AD9ECA06", 163, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P352 Tu", "11", "8:30 AM", "10:30 AM", "N. Venice Blvd to Washington St-Abbot Kinney Blvd to Pacific Ave" ]
+, [ 164, "B50C36F7-ACA7-4E00-8FE1-48353DD2E5B2", 164, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P353 M", "11", "11:00 AM", "1:00 PM", "S. Venice Blvd to Pacific Ave-Ocean Front Walk to Marine St" ]
+, [ 165, "2ECBAA6D-99AA-41E7-A3AB-6E74B4BA170E", 165, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P353 Tu", "11", "11:00 AM", "1:00 PM", "S. Venice Blvd to Pacific Ave-Ocean Front Walk to Marine St" ]
+, [ 166, "A8691505-3335-4B0C-944E-BB4A3FDBBEF3", 166, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P354 M", "11", "10:00 AM", "12:00 PM", "Marine St to Venice Blvd-Lincoln Blvd to Pacific Ave" ]
+, [ 167, "A9C03CE9-F8B0-40BD-ACAA-08004D4B009C", 167, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P354 Tu", "11", "10:00 AM", "12:00 PM", "Marine St to Venice Blvd-Lincoln Blvd to Pacific Ave" ]
+, [ 168, "F00CE500-6710-49D4-8C67-F7721B6AE49E", 168, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P355 M", "11", "10:00 AM", "12:00 PM", "Washington St to Via Marina-Via Mar to Ocean Front Walk" ]
+, [ 169, "1EF07EDC-7BBA-4DC4-AA8D-E42982A55AF8", 169, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P355 Tu", "11", "10:00 AM", "12:00 pm", "Washington St to Via Marina-Via Mar to Ocean Front Walk" ]
+, [ 170, "48BEEBE8-05D0-4A46-A3B7-8C75C4FF386F", 170, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P356 M", "11", "7:30 AM", "9:30 AM", "N. Venice Blvd to Washington St-Abbot Kinney Blvd to Speedway" ]
+, [ 171, "11618754-6CA3-44FB-8605-A4BB2C9F5838", 171, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P356 Tu", "11", "7:30 AM", "9:30 AM", "N. Venice Blvd to Washington St-Abbot Kinney Blvd to Speedway" ]
+, [ 172, "807147B9-DE57-4DF8-8C6C-F2E02DF40E25", 172, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P401 M", "11", "8:00 AM", "11:30 AM", "Pico Bl to National Bl- San Diego Fwy to Bundy" ]
+, [ 173, "95A430B1-729A-4004-A7EE-61071692F514", 173, 1401316308, "881741", 1401316308, "881741", "{\n}", "12P401 Tu", "11", "8:00 AM", "11:30 AM", "Pico Bl to National Bl- San Diego Fwy to Bundy" ]
+, [ 174, "9367E912-EE50-4040-8D4B-CD5CAB9E36A9", 174, 1401316308, "881741", 1401316308, "881741", "{\n}", "13P115 F", "11", "12:00 PM", "3:00 PM", "Exposition bl.- pico bl. To wilshire bl.to nebraska/barrington av. To carmelina- bundy dr. to centinela" ]
+, [ 175, "C268C4F6-24AF-48E4-8BF3-B9FAEE66749D", 175, 1401316308, "881741", 1401316308, "881741", "{\n}", "13P115 Th", "11", "12:00 PM", "3:00 PM", "Exposition bl.- pico bl. To wilshire bl.to nebraska/barrington av. To carmelina- bundy dr. to centinela" ]
+, [ 176, "00D97463-82F3-4CC1-9CB6-440F78CE569A", 176, 1401316308, "881741", 1401316308, "881741", "{\n}", "13P116 F", "11", "10:00 AM", "12:00 PM", "WILSHIRE BL. TO IOWA AV./ SAN DIEG FRWY TO BUNDY DR." ]
+, [ 177, "8BB2ECB3-05EC-451E-A9C5-268E81342A1B", 177, 1401316308, "881741", 1401316308, "881741", "{\n}", "13P116 Th", "11", "10:00 AM", "12:00 PM", "WILSHIRE BL. TO IOWA AV./ SAN DIEG FRWY TO BUNDY DR." ]
+, [ 178, "15A77D0B-F10A-40DA-A838-F3D227555D4B", 178, 1401316308, "881741", 1401316308, "881741", "{\n}", "13P117 F", "11", "8:00 AM", "10:00 AM", "SANTA MONICA BL. TO OLYMPIC BL. / SAN DIEGO FRWY. TO FEDERAL AV." ]
+, [ 179, "79DD1282-1AEE-4467-9B26-4FE518FE0E9B", 179, 1401316308, "881741", 1401316308, "881741", "{\n}", "13P117 Th", "11", "8:00 AM", "10:00 AM", "SANTA MONICA BL. TO OLYMPIC BL. / SAN DIEGO FRWY. TO FEDERAL AV." ]
+, [ 180, "E8BB6365-AE3B-456F-8592-F215ECC6AF33", 180, 1401316308, "881741", 1401316308, "881741", "{\n}", "13P118 F", "11", "12:00 PM", "3:00 PM", "SANTA MONICA BL. TO OLYMPIC BL. / FEDERAL AV. TO BUNDY DR." ]
+, [ 181, "167AC85D-A647-4410-9E6C-2DAD9997D2A8", 181, 1401316308, "881741", 1401316308, "881741", "{\n}", "13P118 Th", "11", "12:00 PM", "3:00 PM", "SANTA MONICA BL. TO OLYMPIC BL. / FEDERAL AV. TO BUNDY DR." ]
+, [ 182, "628BDECB-6155-40E2-9414-BC9C87D16A11", 182, 1401316308, "881741", 1401316308, "881741", "{\n}", "13P133 F", "11", "9:00 AM", "12:00 PM", "SAN VICENTE BL. TO WILSHIRE BL. / SAN VICENTE BL. TO BUNDY DR." ]
+, [ 183, "7E61AD57-D9A1-4FFE-80FF-CAFB348FF23E", 183, 1401316308, "881741", 1401316308, "881741", "{\n}", "13P133 Th", "11", "9:00 AM", "12:00 PM", "SAN VICENTE BL. TO WILSHIRE BL. / SAN VICENTE BL. TO BUNDY DR." ]
+, [ 184, "3E36AF13-8CA1-4CEA-8A89-E3993E8AF868", 184, 1401316308, "881741", 1401316308, "881741", "{\n}", "13P282 F", "11", "8:00 AM", "10:00 AM", "SUNSET BL. TO SAN VICENTE AV. / BRINGHAM AV. TO WESTGATE AV." ]
+, [ 185, "765B9CBE-4BCF-4F06-9AA6-3EED75BB5505", 185, 1401316308, "881741", 1401316308, "881741", "{\n}", "13P282 Th", "11", "8:00 AM", "10:00 AM", "SUNSET BL. TO SAN VICENTE AV. / BRINGHAM AV. TO WESTGATE AV." ]
+, [ 186, "593C3957-7931-4FB3-9928-594EF7249B33", 186, 1401316308, "881741", 1401316308, "881741", "{\n}", "13P286 F", "11", "9:00 AM", "12:00 PM", "MONTANA AV. TO WILSHIRE BL. / BUNDY DR. TO CARMELINA AV." ]
+, [ 187, "E64F9AE8-67EC-4B50-9B48-BDFD824505EB", 187, 1401316308, "881741", 1401316308, "881741", "{\n}", "13P286 Th", "11", "9:00 AM", "12:00 PM", "MONTANA AV. TO WILSHIRE BL. / BUNDY DR. TO CARMELINA AV." ]
+, [ 188, "6C2AA34D-9241-4841-914D-1E4E6B75A1F7", 188, 1401316308, "881741", 1401316308, "881741", "{\n}", "14P101 F", "5", "8:00 AM", "11:00 AM", "Sunset Bl. to LeConte Av. / Hilgard Av. to Sepulveda Bl." ]
+, [ 189, "6128AB4F-1BAC-47F8-AEF0-106AB8666A53", 189, 1401316308, "881741", 1401316308, "881741", "{\n}", "14P101 Th", "5", "8:00 AM", "11:00 AM", "Sunset Bl. to LeConte Av. / Hilgard Av. to Sepulveda Bl." ]
+, [ 190, "AA031A7E-BACE-4059-8672-D79A286304EA", 190, 1401316308, "881741", 1401316308, "881741", "{\n}", "14P198 M", "5", "8:00 AM", "10:00 AM", "Lindbrook Dr. to Santa Monica Bl. / Selby Av. to Westwood Bl." ]
+, [ 191, "E3DADF73-E016-4CB8-8D34-763D03DD2A44", 191, 1401316308, "881741", 1401316308, "881741", "{\n}", "14P198 Tu", "5", "8:00 AM", "10:00 AM", "Lindbrook Dr. to Santa Monica Bl. / Selby Av. to Westwood Bl." ]
+, [ 192, "23731C64-DE28-4EC9-AB76-F63F90D2B922", 192, 1401316308, "881741", 1401316308, "881741", "{\n}", "14P199 F", "5", "10:00 AM", "1:00 PM", "Santa Monica Bl. to Olympic Bl. / Westwood Bl. to Sepulveda Bl." ]
+, [ 193, "7F1623F5-2640-46C7-BEFF-65C2E7A8BFD5", 193, 1401316308, "881741", 1401316308, "881741", "{\n}", "14P199 Th", "5", "10:00 AM", "1:00 PM", "Santa Monica Bl. to Olympic Bl. / Westwood Bl. to Sepulveda Bl." ]
+, [ 194, "92A13A32-E134-4CA1-B732-E04340654474", 194, 1401316308, "881741", 1401316308, "881741", "{\n}", "14P200 F", "5", "10:00 AM", "1:00 PM", "Santa Monica Bl. to Olympic Bl. / Parnell Av. to Westwood Bl." ]
+, [ 195, "718E741C-5F07-4C1E-8A71-BB4E45C0016E", 195, 1401316308, "881741", 1401316308, "881741", "{\n}", "14P200 Th", "5", "10:00 AM", "1:00 PM", "Santa Monica Bl. to Olympic Bl. / Parnell Av. to Westwood Bl." ]
+, [ 196, "62D4FE23-DBA7-4DEE-AD89-58079DFAE3CF", 196, 1401316308, "881741", 1401316308, "881741", "{\n}", "14P201 F", "5", "8:00 AM", "11:00 AM", "Olympic Bl. to Pico Bl. / Fox Hills Dr. to Sepulveda Bl." ]
+, [ 197, "62CEAC59-9169-415F-907C-071F0444AEC1", 197, 1401316308, "881741", 1401316308, "881741", "{\n}", "14P201 Th", "5", "8:00 AM", "11:00 AM", "Olympic Bl. to Pico Bl. / Fox Hills Dr. to Sepulveda Bl." ]
+, [ 198, "0FA80790-80D2-4262-A99C-66B9A4F2F0F6", 198, 1401316308, "881741", 1401316308, "881741", "{\n}", "14P202 F", "5", "8:00 AM", "11:00 AM", "Westwood Bl. to Cotner Av. / Santa Monica Bl. to Wilshire Bl." ]
+, [ 199, "AF93BAF9-651B-4999-BDCF-09DB1FAC5F78", 199, 1401316308, "881741", 1401316308, "881741", "{\n}", "14P202 Th", "5", "8:00 AM", "11:00 AM", "Westwood Bl. to Cotner Av. / Santa Monica Bl. to Wilshire Bl." ]
+, [ 200, "3587D05E-9E67-4E17-B2C3-E161B4CAAF0D", 200, 1401316308, "881741", 1401316308, "881741", "{\n}", "14P203 F", "5", "8:00 AM", "11:00 AM", "Santa Monica Bl. to Olympic Bl. / Fox Hills Dr. to Parnell Av." ]
+, [ 201, "5EA512DC-BB4C-4EC6-B5A7-8032B3BF2F86", 201, 1401316308, "881741", 1401316308, "881741", "{\n}", "14P203 Th", "5", "8:00 AM", "11:00 AM", "Santa Monica Bl. to Olympic Bl. / Fox Hills Dr. to Parnell Av." ]
+, [ 202, "B00BC225-D881-459E-886C-6E2EAC18C55A", 202, 1401316308, "881741", 1401316308, "881741", "{\n}", "14P283 F", "5", "12:00 PM", "3:00 PM", "Lindbrook Dr. to Rochester Av. / Club View Dr. to Selby Av." ]
+, [ 203, "0E543D1A-B735-4040-8D92-5E43ABB4CE17", 203, 1401316308, "881741", 1401316308, "881741", "{\n}", "14P283 Th", "5", "12:00 PM", "3:00 PM", "Lindbrook Dr. to Rochester Av. / Club View Dr. to Selby Av." ]
+, [ 204, "E61D5F91-6728-4D28-BD5C-6249B2ED802E", 204, 1401316308, "881741", 1401316308, "881741", "{\n}", "14P357 F", "5", "12:00 PM", "3:00 PM", "Rochester Av. to Santa Monica Bl. / Comstock Av. to Manning Av." ]
+, [ 205, "86F0C50D-21F2-4517-95F7-1A6CA1C0504F", 205, 1401316308, "881741", 1401316308, "881741", "{\n}", "14P357 Th", "5", "12:00 PM", "3:00 PM", "Rochester Av. to Santa Monica Bl. / Comstock Av. to Manning Av." ]
+, [ 206, "5E878D55-2551-4467-B7BF-7BD2084F8E6C", 206, 1401316308, "881741", 1401316308, "881741", "{\n}", "15P191 F", "5", "8:00 AM", "10:00 AM", "VENTURA BL. TO VALLEY VISTA BL. / SAN DIEGO FRWY TO BALBOA BL." ]
+, [ 207, "0918DED9-4E58-42C6-8AEA-4669D4C7C4BB", 207, 1401316308, "881741", 1401316308, "881741", "{\n}", "15P191 M", "5", "8:00 AM", "10:00 AM", "VENTURA BL. TO VALLEY VISTA BL. / SAN DIEGO FRWY TO BALBOA BL." ]
+, [ 208, "F7A9E557-A1B5-4ABE-8A4E-BF7B3B9604A6", 208, 1401316308, "881741", 1401316308, "881741", "{\n}", "15P194 F", "3", "10:00 AM", "12:00 PM", "BURBANK BL. TO RANCHO ST. / BALBOA BL. TO YOLANDA AV." ]
+, [ 209, "378503C4-6585-4580-AE8E-5C370909F237", 209, 1401316308, "881741", 1401316308, "881741", "{\n}", "15P194 M", "5", "10:00 AM", "12:00 PM", "BURBANK BL. TO RANCHO ST. / BALBOA BL. TO YOLANDA AV." ]
+, [ 210, "107A1F96-3482-4055-8563-569E572FB093", 210, 1401316308, "881741", 1401316308, "881741", "{\n}", "15P298 F", "3", "12:00 PM", "2:00 PM", "VENTURA BL. TO WELLS DR. / CANOGA AV. TO PENFIELD AV." ]
+, [ 211, "2520E3B8-6403-42FC-A88C-83181259D053", 211, 1401316308, "881741", 1401316308, "881741", "{\n}", "15P298 M", "3", "12:00 PM", "2:00 PM", "VENTURA BL. TO WELLS DR. / CANOGA AV. TO PENFIELD AV." ]
+, [ 212, "F7B2CE1C-37BA-4C7B-8E57-D8F4AF1DE4C3", 212, 1401316308, "881741", 1401316308, "881741", "{\n}", "15P299 M", "3", "12:00 PM", "2:00 PM", "VENTURA BL. TO AVE. SAN LUIS / ABBEYVILLE AV. TO DON PIO DR." ]
+, [ 213, "F0F23D7F-8A07-44D3-B6A6-10FA82AD2D06", 213, 1401316308, "881741", 1401316308, "881741", "{\n}", "15P299 Tu", "3", "12:00 PM", "2:00 PM", "VENTURA BL. TO AVE. SAN LUIS / ABBEYVILLE AV. TO DON PIO DR." ]
+, [ 214, "CCF0509D-14B6-4C97-8971-F046A70D0588", 214, 1401316308, "881741", 1401316308, "881741", "{\n}", "16P194 F", "4", "10:00 AM", "12:00 PM", "Ventura Bl. to Valley Vista St. / Van Nuys Bl. to Sepulveda Bl." ]
+, [ 215, "324FDB59-5B7A-4085-B10E-0AD256FE0CA3", 215, 1401316308, "881741", 1401316308, "881741", "{\n}", "16P194 Th", "4", "10:00 AM", "12:00 PM", "Ventura Bl. to Valley Vista St. / Van Nuys Bl. to Sepulveda Bl." ]
+, [ 216, "70B71190-7727-43DE-A4B2-CC67324AFCD0", 216, 1401316308, "881741", 1401316308, "881741", "{\n}", "16P195 F", "4", "8:00 AM", "10:00 AM", "Ventura Fwy to Ventura Bl. / Van Nuys Bl. to Sepulveda Bl." ]
+, [ 217, "5766CDB0-5504-47B3-AD61-7B5009CEA7AC", 217, 1401316308, "881741", 1401316308, "881741", "{\n}", "16P195 Th", "4", "8:00 AM", "10:00 AM", "Ventura Fwy to Ventura Bl. / Van Nuys Bl. to Sepulveda Bl." ]
+, [ 218, "1D93B89B-2BB9-412D-8C13-68DDBE5E4897", 218, 1401316308, "881741", 1401316308, "881741", "{\n}", "16P196 M", "4", "8:00 AM", "10:00 AM", "Ventura Bl. to Milaca Pl. / Woodman Av. to Van Nuys Bl." ]
+, [ 219, "925924AF-4AAE-485D-AA4C-35312F2E450E", 219, 1401316308, "881741", 1401316308, "881741", "{\n}", "16P196 Tu", "4", "8:00 AM", "10:00 AM", "Ventura Bl. to Milaca Pl. / Woodman Av. to Van Nuys Bl." ]
+, [ 220, "A3C6C3FF-F464-4816-9E88-7CDCDA9B07F0", 220, 1401316308, "881741", 1401316308, "881741", "{\n}", "16P197 F", "4", "8:00 AM", "10:00 AM", "Ventura Fwy to Valley Vista Bl. / Coldwater Cyn. Av. to Woodman Av." ]
+, [ 221, "41709FC3-6685-46E6-9E2B-7AF9FE678D56", 221, 1401316308, "881741", 1401316308, "881741", "{\n}", "16P197 Th", "4", "8:00 AM", "10:00 AM", "Ventura Fwy to Valley Vista Bl. / Coldwater Cyn. Av. to Woodman Av." ]
+, [ 222, "B63C391C-C36A-499B-9748-561EB160563F", 222, 1401316308, "881741", 1401316308, "881741", "{\n}", "16P198 M", "2/4", "8:00 AM", "10:00 AM", "Ventura Fwy. To Maxwellton Rd. / Radford Av. to Coldwater Cyn Av." ]
+, [ 223, "1B3650F7-5EB4-4563-AFFE-734AD469DB83", 223, 1401316308, "881741", 1401316308, "881741", "{\n}", "16P198 Tu", "2/4", "8:00 AM", "10:00 AM", "Ventura Fwy. To Maxwellton Rd. / Radford Av. to Coldwater Cyn Av." ]
+, [ 224, "5ABA1F6E-E84D-4C88-B016-F8F3B766608A", 224, 1401316308, "881741", 1401316308, "881741", "{\n}", "16P297 F", "2/4", "8:00 AM", "10:00 AM", "Ventura Fwy to Ventura Bl. / Burbank City limits to Vineland Av." ]
+, [ 225, "A2DC3124-3A1F-4127-BB5D-39E08ECDCD05", 225, 1401316308, "881741", 1401316308, "881741", "{\n}", "16P297 Th", "2/4", "8:00 AM", "10:00 AM", "Ventura Fwy to Ventura Bl. / Burbank City limits to Vineland Av." ]
+, [ 226, "A3295CB8-9E92-439A-A3CF-3839475ADFF6", 226, 1401316308, "881741", 1401316308, "881741", "{\n}", "16P358 F", "2/4", "10:00 AM", "12:00 PM", "Aqua Vista St.to Regal Pl. / Hollywood Way to Tujunga Av." ]
+, [ 227, "43D83D0E-CF43-4A9D-819C-3087C6F608E6", 227, 1401316308, "881741", 1401316308, "881741", "{\n}", "16P358 Th", "2/4", "10:00 AM", "12:00 PM", "Aqua Vista St.to Regal Pl. / Hollywood Way to Tujunga Av." ]
+, [ 228, "7F5E91F8-7731-43AF-BDF8-F2C8A8032310", 228, 1401316308, "881741", 1401316308, "881741", "{\n}", "17NP100", "6", "4:00 AM", "6:30 AM", "Laurel Cyn. Bl. / Saticoy St to Runnymede St." ]
+, [ 229, "E30ADE95-F024-42C4-982B-6BA594556948", 229, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P192 Th", "2", "10:00 AM", "12:00 PM", "Sherman Way to Victory Bl. / Clybourn Av. to Lankershim Bl." ]
+, [ 230, "818D02BE-136B-439B-B5B1-BE7ABA8B41F1", 230, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P192 W", "2", "10:00 AM", "12:00 PM", "Sherman Way to Victory Bl. / Clybourn Av. to Lankershim Bl." ]
+, [ 231, "5CEA25D1-E709-49DC-B2CE-6AFF679A943A", 231, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P193 Th", "2/4", "12:00 PM", "2:00 PM", "Sherman Way to Chandler Bl. / Rhodes Av. to Fulton Av." ]
+, [ 232, "1030397C-FF9B-4CA1-9EB2-1B258E6162E1", 232, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P193 W", "2/4", "12:00 PM", "2:00 PM", "Sherman Way to Chandler Bl. / Rhodes Av. to Fulton Av." ]
+, [ 233, "6DB21B36-A226-4F08-A9B3-A35BCBE42C9F", 233, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P290 F", "2/4", "8:00 AM", "10:00 AM", "Chandler Bl. to Ventura Bl. / Ledge Av. to Vineland Av." ]
+, [ 234, "7783F86C-280C-45F8-9028-5D054DF5BF32", 234, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P290 Th", "2/4", "8:00 AM", "10:00 AM", "Chandler Bl. to Ventura Bl. / Ledge Av. to Vineland Av." ]
+, [ 235, "A506E80F-E2EC-427D-A362-B82EA05B4C10", 235, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P291 Th", "2/4/6", "8:00 AM", "10:00 AM", "5 Fwy to Sherman Way / Hollywood Way to Lankershim Bl." ]
+, [ 236, "155446C3-2477-414B-BF74-38C68EAD8F10", 236, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P291 W", "2/4/6", "8:00 AM", "10:00 AM", "5 Fwy to Sherman Way / Hollywood Way to Lankershim Bl." ]
+, [ 237, "9919980F-64B9-472A-BCB9-FD0DA8C01888", 237, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P292 Th", "2", "12:00 PM", "2:00 PM", "Sherman Way to Chandler Bl. / Hazelhurst Pl. to Laurel Grove Av." ]
+, [ 238, "E6CEA53A-4AEE-45B4-A3D1-903DABDB5232", 238, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P292 W", "2", "12:00 PM", "2:00 PM", "Sherman Way to Chandler Bl. / Hazelhurst Pl. to Laurel Grove Av." ]
+, [ 239, "D9FF9792-D823-47D6-9BDD-B1CDD4BAAE98", 239, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P293 Th", "2", "8:00 AM", "10:00 AM", "Erwin St. to Chandler Bl. / Cahuenga Bl. to Lankershim Bl." ]
+, [ 240, "D57DAA48-42AF-48AD-AA4A-8BFE25801965", 240, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P293 W", "2", "8:00 AM", "10:00 AM", "Erwin St. to Chandler Bl. / Cahuenga Bl. to Lankershim Bl." ]
+, [ 241, "3DC945E9-8129-4735-86E9-4669D7C97078", 241, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P294A F", "2", "10:00 AM", "12:00 PM", "Magnolia Bl. to Riverside Dr. / Lankershim Bl. to 170 Fwy" ]
+, [ 242, "441FCF27-1B4A-4357-ADF6-02C9F56C9E55", 242, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P294A Th", "2", "10:00 AM", "12:00 PM", "Magnolia Bl. to Riverside Dr. / Lankershim Bl. to 170 Fwy" ]
+, [ 243, "36B99D42-793E-45AA-A4FA-F72B5BC24853", 243, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P294B F", "2", "10:00 AM", "12:00 PM", "Chandler Bl. to Riverside Dr. / Lankershim Bl. to Colfax Av." ]
+, [ 244, "5FF00138-4634-4DBA-8340-39DA6AE8DF0B", 244, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P294B Th", "2", "10:00 AM", "12:00 PM", "Chandler Bl. to Riverside Dr. / Lankershim Bl. to Colfax Av." ]
+, [ 245, "1F6C2175-944A-4F9A-AEFB-0FA7F95E32D4", 245, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P295 F", "2", "12:00 PM", "2:00 PM", "Burbank Bl. to Ventura Fwy / Colfax Av. to Whitsett Av." ]
+, [ 246, "1FF049B9-6FD0-4E76-91A1-DC058C1C114F", 246, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P295 Th", "2", "12:00 PM", "2:00 PM", "Burbank Bl. to Ventura Fwy / Colfax Av. to Whitsett Av." ]
+, [ 247, "B60BAD9F-AAAB-45CE-A111-06F16BF2CCFF", 247, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P305 Th", "2/6", "10:00 AM", "12:00 PM", "San Fernando Rd. to Sherman Way / Lankershim Bl. to Whitsett Av." ]
+, [ 248, "A20964C3-8C1F-44BB-AC13-53FAA3633B0A", 248, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P305 W", "2/6", "10:00 AM", "12:00 PM", "San Fernando Rd. to Sherman Way / Lankershim Bl. to Whitsett Av." ]
+, [ 249, "1C96E9A0-344E-43ED-A1BD-7137F06EEB41", 249, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P306 Th", "2", "8:00 AM", "10:00 AM", "Oxnard St. to Chandler Bl. / Colfax Av. to Laurel Cyn. Bl." ]
+, [ 250, "05B35E40-0291-4E49-86D9-5406E4DE2CB3", 250, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P306 W", "2", "8:00 AM", "10:00 AM", "Oxnard St. to Chandler Bl. / Colfax Av. to Laurel Cyn. Bl." ]
+, [ 251, "05D9FA06-6701-4E43-8D2F-BA859A2EBF8E", 251, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P307 Th", "2", "10:00 AM", "12:00 PM", "Oxnard St. to Burbank Bl. / Lankershim Bl. to Colfax Av." ]
+, [ 252, "935246DD-5DD4-43F5-9F26-40843D3D8EC6", 252, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P307 W", "2", "10:00 AM", "12:00 PM", "Oxnard St. to Burbank Bl. / Lankershim Bl. to Colfax Av." ]
+, [ 253, "00668916-0E23-498A-88F4-0741F97AE8A9", 253, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P401 Th", "6", "12:00 PM", "2:00 PM", "Strathern St. to Saticoy St. / Vineland Av. to Tujunga Av." ]
+, [ 254, "41C5D37C-FD12-4CF6-A992-F14B42651D79", 254, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P401 W", "6", "12:00 PM", "2:00 PM", "Strathern St. to Saticoy St. / Vineland Av. to Tujunga Av." ]
+, [ 255, "0E185E68-1252-4B13-A223-EAD2069109AD", 255, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P402 Th", "6", "10:00 AM", "12:00 PM", "San Fernando Rd. to Saticoy St. / Tujunga Av. to Lankershim Bl." ]
+, [ 256, "5EFCE93D-8806-4BDC-9DB8-F76D86E5B702", 256, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P402 W", "6", "10:00 AM", "12:00 PM", "San Fernando Rd. to Saticoy St. / Tujunga Av. to Lankershim Bl." ]
+, [ 257, "9F3E0319-B5DA-4E76-89B5-B53157477204", 257, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P403 Th", "6", "8:00 AM", "10:00 AM", "Strathern St. to Saticoy St / Lankershim Bl. to Laurel Cyn. Bl." ]
+, [ 258, "9921D7AA-F24F-444D-9C99-DE19F521F727", 258, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P403 W", "6", "8:00 AM", "10:00 AM", "Strathern St. to Saticoy St / Lankershim Bl. to Laurel Cyn. Bl." ]
+, [ 259, "958EB4DA-93D5-4650-A242-C5F90A1DB964", 259, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P404 Th", "2", "12:00 PM", "2:00 PM", "Saticoy St. to Sherman Way / Vineland Av. to Tujunga AV." ]
+, [ 260, "59060BD1-1893-463B-8A3B-A22FEB7C5311", 260, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P404 W", "2", "12:00 PM", "2:00 PM", "Saticoy St. to Sherman Way / Vineland Av. to Tujunga AV." ]
+, [ 261, "A36E95F9-0982-4DD3-9C33-417BF0A93535", 261, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P405 Th", "2", "10:00 AM", "12:00 PM", "Saticoy St. to Sherman Way /Tujunga Av. to Lankershim Bl." ]
+, [ 262, "F720292A-4FE7-480F-AD97-304C4FC5AAD9", 262, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P405 W", "2", "10:00 AM", "12:00 PM", "Saticoy St. to Sherman Way /Tujunga Av. to Lankershim Bl." ]
+, [ 263, "53A3592F-D848-45D6-A395-E63D9A971F06", 263, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P406 Th", "2", "8:00 AM", "10:00 AM", "Saticoy St. to Sherman Way / Lankershim Bl. to Laurel Cyn. Bl." ]
+, [ 264, "8E181F07-5BE7-41B5-B739-861BFC3BBACE", 264, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P406 W", "2", "8:00 AM", "10:00 AM", "Saticoy St. to Sherman Way / Lankershim Bl. to Laurel Cyn. Bl." ]
+, [ 265, "00768AD4-6120-4DB3-B03F-1D4FA09CFBCE", 265, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P407 Th", "2", "12:00 PM", "2:00 PM", "Sherman Way to Kittridge St. / Fair Av. to Laurel Cny. Bl." ]
+, [ 266, "2D7656D4-7B59-4CBE-8F33-597C619B1AEA", 266, 1401316308, "881741", 1401316308, "881741", "{\n}", "17P407 W", "2", "12:00 PM", "2:00 PM", "Sherman Way to Kittridge St. / Fair Av. to Laurel Cny. Bl." ]
+, [ 267, "4B5231D0-08B2-44A8-91EB-5521DCF00EFC", 267, 1401316308, "881741", 1401316308, "881741", "{\n}", "18P300 Th", "6", "10:00 AM", "12:00 PM", "San Fernando Rd. to Beachy Av. / Brandford St. to Sheldon St." ]
+, [ 268, "ED8B5703-8277-417B-A91A-68F14A0482D8", 268, 1401316308, "881741", 1401316308, "881741", "{\n}", "18P300 W", "6", "10:00 AM", "12:00 PM", "San Fernando Rd. to Beachy Av. / Brandford St. to Sheldon St." ]
+, [ 269, "D2A9B429-E99C-4452-857A-C7B76815E830", 269, 1401316308, "881741", 1401316308, "881741", "{\n}", "18P404 Th", "7", "8:00 AM", "10:00 AM", "City Line to Foothill Bl. / Little Tujunga Rd. to Van Nuys Bl." ]
+, [ 270, "B02DB87F-5F35-4070-8346-7C2C70D3743A", 270, 1401316308, "881741", 1401316308, "881741", "{\n}", "18P404 W", "7", "8:00 AM", "10:00 AM", "City Line to Foothill Bl. / Little Tujunga Rd. to Van Nuys Bl." ]
+, [ 271, "A72B7EF3-61DE-4981-833E-57B098E1A1AC", 271, 1401316308, "881741", 1401316308, "881741", "{\n}", "18P406 Th", "2/6", "10:00 AM", "12:00 PM", "Glenoaks Bl. to San Fernando Rd. / Ledge Av. to Tuxford St." ]
+, [ 272, "BAE0B354-A7AB-4074-BAAF-DCAC9B84139C", 272, 1401316308, "881741", 1401316308, "881741", "{\n}", "18P406 W", "2/6", "10:00 AM", "12:00 PM", "Glenoaks Bl. to San Fernando Rd. / Ledge Av. to Tuxford St." ]
+, [ 273, "78FB6673-388B-4009-8C7A-5F66BD07EA85", 273, 1401316308, "881741", 1401316308, "881741", "{\n}", "18P407 Th", "7", "8:00 AM", "10:00 AM", "Plainview Av. to Mount Gleason Av. / Ellenbogen St. to Summitrose St." ]
+, [ 274, "522320FF-7588-4D6F-9449-D0A8F44290A4", 274, 1401316308, "881741", 1401316308, "881741", "{\n}", "18P407 W", "7", "8:00 AM", "10:00 AM", "Plainview Av. to Mount Gleason Av. / Ellenbogen St. to Summitrose St." ]
+, [ 275, "EDD29048-2FDC-44AD-ACF8-CC85083CE72B", 275, 1401316308, "881741", 1401316308, "881741", "{\n}", "18P408 Th", "7", "10:00 AM", "12:00 PM", "Mount Gleason Av. to Woodward Av. / Ellenbogen St. Foothill Bl." ]
+, [ 276, "97B42590-06CE-4224-B309-4CF6BDA42ED8", 276, 1401316308, "881741", 1401316308, "881741", "{\n}", "18P408 W", "7", "10:00 AM", "12:00 PM", "Mount Gleason Av. to Woodward Av. / Ellenbogen St. Foothill Bl." ]
+, [ 277, "30D02278-9B43-40BE-A720-46802A6C224D", 277, 1401316308, "881741", 1401316308, "881741", "{\n}", "18P409 Th", "7", "12:00 PM", "2:00 PM", "Woodward Av. to McVine Av. / Ellenbogen St. to Foothill Bl." ]
+, [ 278, "326A6E11-BA6D-4A75-A914-A19FA21689DF", 278, 1401316308, "881741", 1401316308, "881741", "{\n}", "18P409 W", "7", "12:00 PM", "2:00 PM", "Woodward Av. to McVine Av. / Ellenbogen St. to Foothill Bl." ]
+, [ 279, "B1C31285-D6AC-4B85-A22A-C91EB92FB163", 279, 1401316308, "881741", 1401316308, "881741", "{\n}", "19NP300", "7", "4:00 AM", "6:30 AM", "Eldridge St. / Hubbard St. to Harding St." ]
+, [ 280, "4BFF77D5-8E53-4A50-B753-568456F4DC56", 280, 1401316308, "881741", 1401316308, "881741", "{\n}", "19P362 M", "7", "12:00 PM", "2:00 PM", "San Fernando Mission Bl. to Paxton St. / 5 Fwy to Columbus Av." ]
+, [ 281, "50224EDB-4155-4167-B157-E1FEF19D7619", 281, 1401316308, "881741", 1401316308, "881741", "{\n}", "19P362 Tu", "7", "12:00 PM", "2:00 PM", "San Fernando Mission Bl. to Paxton St. / 5 Fwy to Columbus Av." ]
+, [ 282, "5A3E23B0-1D0F-44AB-8674-5F4F5F53F274", 282, 1401316308, "881741", 1401316308, "881741", "{\n}", "19P363 Th", "7", "8:00 AM", "10:00 AM", "Bledsoe St. to Osbourne St. / Laurel Cyn Bl. to Foothill Bl." ]
+, [ 283, "D356EFC8-AF73-4471-BB14-6337D5D26752", 283, 1401316308, "881741", 1401316308, "881741", "{\n}", "19P363 W", "7", "8:00 AM", "10:00 AM", "Bledsoe St. to Osbourne St. / Laurel Cyn Bl. to Foothill Bl." ]
+, [ 284, "411C95C5-F124-4677-BF4E-50DAC2580F47", 284, 1401316308, "881741", 1401316308, "881741", "{\n}", "19P400 Th", "7", "8:00 AM", "10:00 AM", "Astoria St. to Rinaldi St. / San Fernando Rd. 405 Fwy" ]
+, [ 285, "10346142-4DB5-4060-A925-BCAE3078A47E", 285, 1401316308, "881741", 1401316308, "881741", "{\n}", "19P400 W", "7", "8:00 AM", "10:00 AM", "Astoria St. to Rinaldi St. / San Fernando Rd. 405 Fwy" ]
+, [ 286, "055A5B40-88F6-4CA9-AE0F-D5F6861FC341", 286, 1401316308, "881741", 1401316308, "881741", "{\n}", "19P402 Th", "7", "10:00 AM", "12:00 PM", "Roxford St. to Oro Grande / San Fernando Rd. to Encinitas Av." ]
+, [ 287, "6DA2046D-A2A9-484A-9657-AB938DFF1BC6", 287, 1401316308, "881741", 1401316308, "881741", "{\n}", "19P402 W", "7", "10:00 AM", "12:00 PM", "Roxford St. to Oro Grande / San Fernando Rd. to Encinitas Av." ]
+, [ 288, "35F3BF1E-E84D-4C33-A728-53AC32F48418", 288, 1401316308, "881741", 1401316308, "881741", "{\n}", "19P406 Th", "7", "8:00 AM", "10:00 AM", "Dronfield Av. Glenoaks Bl. / Hubbard St. to Tyler St." ]
+, [ 289, "5B48F090-2EF9-4F11-A010-0DC7C0D5EFD8", 289, 1401316308, "881741", 1401316308, "881741", "{\n}", "19P406 W", "7", "8:00 AM", "10:00 AM", "Dronfield Av. Glenoaks Bl. / Hubbard St. to Tyler St." ]
+, [ 290, "CB796242-1152-4701-85B5-32C157B1E1F4", 290, 1401316308, "881741", 1401316308, "881741", "{\n}", "19P408 Th", "7", "10:00 AM", "12:00 PM", "Hubbard St. to Pacoima Wash / Eldridge Av. to City Line" ]
+, [ 291, "C605E9B1-A518-412C-AC94-79679309C6B5", 291, 1401316308, "881741", 1401316308, "881741", "{\n}", "19P408 W", "7", "10:00 AM", "12:00 PM", "Hubbard St. to Pacoima Wash / Eldridge Av. to City Line" ]
+, [ 292, "61E7D25D-8EB8-4F68-B0DF-2F170465FE74", 292, 1401316308, "881741", 1401316308, "881741", "{\n}", "19P410 M", "6", "12:00 PM", "2:00 PM", "Terra Bella St. to Osborne St. / 5 Fwy. To Woodman Av." ]
+, [ 293, "D639C597-1D66-4C9B-85E9-A5F0172A4492", 293, 1401316308, "881741", 1401316308, "881741", "{\n}", "19P410 Tu", "6", "12:00 PM", "2:00 PM", "Terra Bella St. to Osborne St. / 5 Fwy. To Woodman Av." ]
+, [ 294, "69F7D23E-DB82-4B51-80D6-06B5D1ECA936", 294, 1401316308, "881741", 1401316308, "881741", "{\n}", "19P412 M", "6", "10:00 AM", "12:00 PM", "5 Fwy. To Woodman Av. / Terra Bella St. to Filmore St." ]
+, [ 295, "E5FA77F4-0150-4407-8F87-0C1D8E6AEC1D", 295, 1401316308, "881741", 1401316308, "881741", "{\n}", "19P412 Tu", "6", "10:00 AM", "12:00 PM", "5 Fwy. To Woodman Av. / Terra Bella St. to Filmore St." ]
+, [ 296, "0AC7C827-9242-4FF8-84E7-79636E357B67", 296, 1401316308, "881741", 1401316308, "881741", "{\n}", "19P418 M", "5", "8:00 AM", "10:00 AM", "San Fernando Rd. to 5 Fwy. / Van Nuys Bl. Paxton St." ]
+, [ 297, "EFAB2827-A2F1-4F5F-9502-AB9AC1A2EC96", 297, 1401316308, "881741", 1401316308, "881741", "{\n}", "19P418 Tu", "5", "8:00 AM", "10:00 AM", "San Fernando Rd. to 5 Fwy. / Van Nuys Bl. Paxton St." ]
+, [ 298, "13544F56-7D29-44FF-BC90-FB5AE291A53A", 298, 1401316308, "881741", 1401316308, "881741", "{\n}", "19P420 M", "7", "8:00 AM", "10:00 AM", "Fox St. to 118 Fwy / San Fernando Rd. to 5 Fwy." ]
+, [ 299, "CCDA4246-A56F-492C-8ECE-9D5B99286458", 299, 1401316308, "881741", 1401316308, "881741", "{\n}", "19P420 Tu", "7", "8:00 AM", "10:00 AM", "Fox St. to 118 Fwy / San Fernando Rd. to 5 Fwy." ]
+, [ 300, "2ECF4C7F-6B34-48CD-8744-D3BACFD1C367", 300, 1401316308, "881741", 1401316308, "881741", "{\n}", "19P422 M", "7", "10:00 AM", "12:00 PM", "Brand Bl. to Chamberlain St. / O'Melveny Av. to 5 Fwy" ]
+, [ 301, "1E7663ED-21F8-4429-BC2A-154C62366F7C", 301, 1401316308, "881741", 1401316308, "881741", "{\n}", "19P422 Tu", "7", "10:00 AM", "12:00 PM", "Brand Bl. to Chamberlain St. / O'Melveny Av. to 5 Fwy" ]
+, [ 302, "BF5FB88A-7080-4E2E-9450-83FAE31EB0BD", 302, 1401316308, "881741", 1401316308, "881741", "{\n}", "19P424 Th", "7", "12:00 PM", "2:00 PM", "Van Nuys Bl. to Osborne St. / Foothill Bl. to San Fernando Rd." ]
+, [ 303, "881811EF-43EC-4759-97DE-013F873648EA", 303, 1401316308, "881741", 1401316308, "881741", "{\n}", "19P424 W", "7", "12:00 PM", "2:00 PM", "Van Nuys Bl. to Osborne St. / Foothill Bl. to San Fernando Rd." ]
+, [ 304, "3EBE5796-4493-4D6D-A6AA-DFF4F4B7FEAF", 304, 1401316308, "881741", 1401316308, "881741", "{\n}", "19P426 Th", "7", "10:00 AM", "12:00 PM", "118 Fwy to Van Nuys Bl. / Foothill Bl. to San Fernando Rd." ]
+, [ 305, "E495C53C-CCEE-4EC0-91A7-B4ED4E8764DA", 305, 1401316308, "881741", 1401316308, "881741", "{\n}", "19P426 W", "7", "10:00 AM", "12:00 PM", "118 Fwy to Van Nuys Bl. / Foothill Bl. to San Fernando Rd." ]
+, [ 306, "8020A0A0-2FA9-47DA-842A-B3FC19BC4D6D", 306, 1401316308, "881741", 1401316308, "881741", "{\n}", "19P428 Th", "7", "8:00 AM", "10:00 AM", "LA city line to Paxton St. / Foothill Bl. to San Fernando Rd." ]
+, [ 307, "6CEB2914-F385-48CD-A7E5-13D84A11F086", 307, 1401316308, "881741", 1401316308, "881741", "{\n}", "19P428 W", "7", "8:00 AM", "10:00 AM", "LA city line to Paxton St. / Foothill Bl. to San Fernando Rd." ]
+, [ 308, "4683AF9F-B552-4072-8806-A8B8924AE714", 308, 1401316308, "881741", 1401316308, "881741", "{\n}", "19P430 Th", "7", "12:00 PM", "2:00 PM", "Gladstone Av. to Simshaw Av. / Hubbard St. to Sayre St." ]
+, [ 309, "536C0FCA-CD27-478B-B080-60E5AEDC533F", 309, 1401316308, "881741", 1401316308, "881741", "{\n}", "19P430 W", "7", "12:00 PM", "2:00 PM", "Gladstone Av. to Simshaw Av. / Hubbard St. to Sayre St." ]
+, [ 310, "D3A574F4-E755-448E-994E-5D3FFCF6AEF3", 310, 1401316308, "881741", 1401316308, "881741", "{\n}", "1NP350 Th", "15", "4:00 AM", "6:30 AM", "PCH to 22nd st-Gaffey St to Avalon BL" ]
+, [ 311, "16B35C1B-0168-4E4D-AB50-004CDE4F7CF5", 311, 1401316308, "881741", 1401316308, "881741", "{\n}", "1NP350 W", "15", "4:00 AM", "6:30 AM", "PCH to 22nd st-Gaffey St to Avalon BL" ]
+, [ 312, "8CC90E10-E96B-4747-B08E-BBDCCA3B9E8C", 312, 1401316308, "881741", 1401316308, "881741", "{\n}", "1NP351 Th", "15", "4:00 AM", "6:30 AM", "Gaffey St from Oliver St to 19th st" ]
+, [ 313, "1B2A42AC-BE23-46C8-BB6D-0B8DB20A2CD2", 313, 1401316308, "881741", 1401316308, "881741", "{\n}", "1NP351 W", "15", "4:00 AM", "6:30 AM", "Gaffey St from Oliver St to 19th st" ]
+, [ 314, "F349C1CA-EDB5-4209-A80F-31417AB982F2", 314, 1401316308, "881741", 1401316308, "881741", "{\n}", "1P207 M", "15", "8:00 AM", "10:00 AM", "10th st to 22nd st PCH to Gaffey St" ]
+, [ 315, "251F284B-9EC1-4769-833E-AA5741168AE1", 315, 1401316308, "881741", 1401316308, "881741", "{\n}", "1P207 Tu", "15", "8:00 AM", "10:00 AM", "10th st to 22nd st PCH to Gaffey St" ]
+, [ 316, "C3D44507-AEFB-4D34-924C-4684CB850B2E", 316, 1401316308, "881741", 1401316308, "881741", "{\n}", "1P208 M", "15", "9:00 AM", "11:00 AM", "8th st to 22nd st Beacon St to Pacific Ave" ]
+, [ 317, "EF68C293-289F-403F-99E7-8D677B8123D8", 317, 1401316308, "881741", 1401316308, "881741", "{\n}", "1P208 Tu", "15", "9:00 AM", "11:00 AM", "8th st to 22nd st Beacon St to Pacific Ave" ]
+, [ 318, "B1C13C95-8A0F-4E3D-A9FC-A2B7CE058936", 318, 1401316308, "881741", 1401316308, "881741", "{\n}", "1P212 M", "15", "9:00 AM", "12:00 PM", "Wilmington Bl to Avalon Bl- PCH  to Anahiem St" ]
+, [ 319, "13BDA8E2-EA87-47D3-BC4D-D3271810BAB0", 319, 1401316308, "881741", 1401316308, "881741", "{\n}", "1P212 Tu", "15", "9:00 AM", "12:00 PM", "Wilmington Bl to Avalon Bl- PCH  to Anahiem St" ]
+, [ 320, "DAC16E79-6D58-4C30-891D-3D8B76CD0B1D", 320, 1401316308, "881741", 1401316308, "881741", "{\n}", "1P216 Th", "15", "12:00 PM", "2:00 PM", "Belle Porte Ave to Vermont Ave- lomita Bl to PCH" ]
+, [ 321, "94B56715-ADB6-467C-8D44-2C51983E28C5", 321, 1401316308, "881741", 1401316308, "881741", "{\n}", "1P216 W", "15", "12:00 PM", "2:00 PM", "Belle Porte Ave to Vermont Ave- lomita Bl to PCH" ]
+, [ 322, "7948C0AD-069C-46B8-9EF4-1FCE47FBA7ED", 322, 1401316308, "881741", 1401316308, "881741", "{\n}", "1P363 M", "15", "12:00 PM", "2:00 PM", "Sandison St to PCH- Drumm Ave  D/E W/O Sanford Ave" ]
+, [ 323, "26AA30A0-E1E6-4B83-A808-6741C746E6EB", 323, 1401316308, "881741", 1401316308, "881741", "{\n}", "1P363 Tu", "15", "12:00 PM", "2:00 PM", "Sandison St to PCH- Drumm Ave  D/E W/O Sanford Ave" ]
+, [ 324, "737BF6AF-22F2-4612-96F8-C342C5646278", 324, 1401316308, "881741", 1401316308, "881741", "{\n}", "1P364 M", "15", "10:00 AM", "12:00 PM", "Carson City Line to Harry Bridge Bl- Avalon Bl to Figueroa Pl" ]
+, [ 325, "F9966A90-7F5A-4724-B472-505DD923E92E", 325, 1401316308, "881741", 1401316308, "881741", "{\n}", "1P364 Tu", "15", "10:00 AM", "12:00 PM", "Carson City Line to Harry Bridge Bl- Avalon Bl to Figueroa Pl" ]
+, [ 326, "92493960-7F84-4EF5-94D5-DF20EE45FAF6", 326, 1401316308, "881741", 1401316308, "881741", "{\n}", "1P365 M", "15", "8:00 AM", "10:00 AM", "Lomita Bl to PCH- Avalon Bl to Wilmington Bl" ]
+, [ 327, "4015C604-A9AA-4192-BF61-97EC7BA93838", 327, 1401316308, "881741", 1401316308, "881741", "{\n}", "1P365 Tu", "15", "8:00 AM", "10:00 AM", "Lomita Bl to PCH- Avalon Bl to Wilmington Bl" ]
+, [ 328, "C1A443CB-1A71-4EAF-A1C7-5A1290AB3153", 328, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P215 F", "6/7", "10:00 AM", "12:00 PM", "Nordhoff St. to Lanark St. / Noble Av. to Orion Av." ]
+, [ 329, "8339DCC7-7B30-49F9-B2BA-07A9B5FC1067", 329, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P215 M", "6/7", "10:00 AM", "12:00 PM", "Nordhoff St. to Lanark St. / Noble Av. to Orion Av." ]
+, [ 330, "54E5F25B-26D7-4A50-8678-63A4E3B4CE5D", 330, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P216A F", "2/6", "8:00 AM", "10:00 AM", "Cantara St. to Sherman Way / Ventura Cyn. To Van Nuys Bl." ]
+, [ 331, "82BA13C0-2DE0-499D-B876-48EC804DEDDA", 331, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P216A M", "2/6", "8:00 AM", "10:00 AM", "Cantara St. to Sherman Way / Ventura Cyn. To Van Nuys Bl." ]
+, [ 332, "150A1443-6701-4BFB-96D7-CEFA8D3A8E03", 332, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P216B F", "2/6", "8:00 AM", "10:00 AM", "Sherman Way to Victory Bl. / Fulton Av. to Van Nuys Bl." ]
+, [ 333, "AD14EC2B-6BEA-49F4-B037-87A77B5EDFA9", 333, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P216B M", "2/6", "8:00 AM", "10:00 AM", "Sherman Way to Victory Bl. / Fulton Av. to Van Nuys Bl." ]
+, [ 334, "05E0083A-35B5-44E5-B5E0-043392BE0F25", 334, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P301 F", "2/6", "10:00 AM", "12:00 PM", "Victory Bl. Ventura Fwy. / Tyrone Av. to Coldwater Cyn." ]
+, [ 335, "51AFC426-809F-43AD-9A98-C6C275017608", 335, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P301 M", "2/6", "10:00 AM", "12:00 PM", "Victory Bl. Ventura Fwy. / Tyrone Av. to Coldwater Cyn." ]
+, [ 336, "70F0388E-D465-4D07-A973-8FA0A1DE2DCE", 336, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P302 F", "4/6", "12:00 PM", "2:00 PM", "Oxnard St. to Camarillo St. / Matilija Av. to Sepulveda Bl." ]
+, [ 337, "D3A0FBE7-9AB2-4200-8F28-D352169626FC", 337, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P302 M", "4/6", "12:00 PM", "2:00 PM", "Oxnard St. to Camarillo St. / Matilija Av. to Sepulveda Bl." ]
+, [ 338, "7407B565-3160-473F-B5FA-1080E9F0C0AE", 338, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P303 M", "4/6", "8:00 AM", "10:00 AM", "Oxnard St. to Burbank Bl. / Woodman Av. to Hazeltine Av." ]
+, [ 339, "E8CF6FA3-0EA0-4A2D-BA22-2502013B17B2", 339, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P303 Tu", "46", "8:00 AM", "10:00 AM", "Oxnard St. to Burbank Bl. / Woodman Av. to Hazeltine Av." ]
+, [ 340, "CA64A943-1A9D-4A06-8C36-302E5EDF60E1", 340, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P360 F", "2/6", "8:00 AM", "10:00 AM", "Arleta Av. to Raymer St. / Van Nuys Bl. to Noble Av." ]
+, [ 341, "E3509C0F-E33C-460B-8D0E-344B8484D50D", 341, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P360 M", "2/6", "8:00 AM", "10:00 AM", "Arleta Av. to Raymer St. / Van Nuys Bl. to Noble Av." ]
+, [ 342, "2D5E38BA-D0B8-4ED0-8F99-79603EF93E90", 342, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P361 F", "6", "12:00 PM", "2:00 PM", "Marson St. to Sylvan St. / Van Nuys Bl to 405 Fwy." ]
+, [ 343, "4AC50E0C-DBAD-480F-A1A9-F02015151261", 343, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P361 M", "6", "12:00 PM", "2:00 PM", "Marson St. to Sylvan St. / Van Nuys Bl to 405 Fwy." ]
+, [ 344, "FEBBE452-20CE-448C-80B6-89D9CE7419BC", 344, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P362 M", "6", "12:00 PM", "2:00 PM", "Sepulveda Bl. to 405 Fwy. / Sherman Way to Victory Bl." ]
+, [ 345, "5825FE34-8DA3-44AE-A979-71BBFD014131", 345, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P362 Tu", "6", "12:00 PM", "2:00 PM", "Sepulveda Bl. to 405 Fwy. / Sherman Way to Victory Bl." ]
+, [ 346, "818126FB-71C3-4221-A879-D18FB43E04AE", 346, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P363 M", "6", "10:00 AM", "12:00 PM", "Victory Bl. to Sherman Way / Kester Av. to Sepulveda Bl." ]
+, [ 347, "9FED5D95-6C5A-4617-96D7-08CEF06588C3", 347, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P363 Tu", "6", "10:00 AM", "12:00 PM", "Victory Bl. to Sherman Way / Kester Av. to Sepulveda Bl." ]
+, [ 348, "3DFBBB64-58AA-4A65-80EE-B7B37DF2A48D", 348, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P364 M", "6", "8:00 AM", "10:00 AM", "Sherman Way to Vanowen St. / Van Nuys Bl. to Kester Av." ]
+, [ 349, "84EC5EFF-03DD-4577-9663-CE914A7A386A", 349, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P364 Tu", "6", "8:00 AM", "10:00 AM", "Sherman Way to Vanowen St. / Van Nuys Bl. to Kester Av." ]
+, [ 350, "9BFFB2F7-CA03-478A-A7F4-BAA8BF7A980B", 350, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P365 M", "6", "8:00 AM", "10:00 AM", "Vanowen St. to Victory Bl. / Van Nuys Bl. to Kester Av." ]
+, [ 351, "7BCE878A-B5A5-4106-AD93-443DA59DB966", 351, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P365 Tu", "6", "8:00 AM", "10:00 AM", "Vanowen St. to Victory Bl. / Van Nuys Bl. to Kester Av." ]
+, [ 352, "97D27BF0-1AF7-434D-92EC-BA61921589C1", 352, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P366 M", "2", "12:00 PM", "2:00 PM", "Sherman Way to Vanowen St. / Woodman Av. to Hazeltine Avv." ]
+, [ 353, "3533C2B2-3E3C-42FB-AFB6-1FC2C6F7CE4D", 353, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P366 Tu", "2", "12:00 PM", "2:00 PM", "Sherman Way to Vanowen St. / Woodman Av. to Hazeltine Avv." ]
+, [ 354, "DE62BD07-B5C9-4284-89BD-5B3A2E26BD23", 354, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P367  M", "6", "12:00 PM", "2:00 PM", "Sherman Way to Vanowen St. / Hazeltine Av. to Van Nuys Bl." ]
+, [ 355, "FEBC6D7D-C293-40F3-BB8C-B71539D2AD6E", 355, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P367 Tu", "6", "12:00 PM", "2:00 PM", "Sherman Way to Vanowen St. / Hazeltine Av. to Van Nuys Bl." ]
+, [ 356, "A21D67BD-23CF-43E8-BEBD-76AA4D300622", 356, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P368 M", "6", "10:00 AM", "12:00 PM", "Vanowen St to Victory Bl. / Hazeltine Av. to Van Nuys Bl." ]
+, [ 357, "2BBF9980-9220-4D47-9D91-261C53676E70", 357, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P368 Tu", "6", "10:00 AM", "12:00 PM", "Vanowen St to Victory Bl. / Hazeltine Av. to Van Nuys Bl." ]
+, [ 358, "EAEA2886-6B27-4FA0-95B3-946AE222B390", 358, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P369 M", "6", "10:00 AM", "12:00 PM", "Victory Bl. to Oxnard St. / Hazeltine Av. to Van Nuys Bl." ]
+, [ 359, "0BF1B70C-9997-4F5B-8BB6-F7354F8CF0FC", 359, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P369 Tu", "6", "10:00 AM", "12:00 PM", "Victory Bl. to Oxnard St. / Hazeltine Av. to Van Nuys Bl." ]
+, [ 360, "11BBEED3-CF67-4452-8E57-ED34621367F4", 360, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P370 M", "6", "8:00 AM", "10:00 AM", "Victory Bl. to Oxnard St. / Van Nuys Bl. to Kester Av." ]
+, [ 361, "70CE57FF-DBC3-4399-A3CD-5BB2571BED51", 361, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P370 Tu", "6", "8:00 AM", "10:00 AM", "Victory Bl. to Oxnard St. / Van Nuys Bl. to Kester Av." ]
+, [ 362, "892C881C-9188-4B99-A501-A9BFF064F7C0", 362, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P371 M", "6", "8:00 AM", "10:00 AM", "Victory Bl. to Oxnard St. / Kester Av. to 405 Fwy." ]
+, [ 363, "C9D423E8-B6A0-40CD-BA19-39C2192EF28B", 363, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P371 Tu", "6", "8:00 AM", "10:00 AM", "Victory Bl. to Oxnard St. / Kester Av. to 405 Fwy." ]
+, [ 364, "365C0DDB-0078-457B-9711-1D2ED41D0431", 364, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P372 M", "4", "12:00 PM", "2:00 PM", "Oxnard St. to Burbank Bl. / Hazeltine Av. to Van Nuys Bl." ]
+, [ 365, "C9DF26B7-8ED4-4821-A9DC-18A888DCFD5D", 365, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P372 Tu", "4", "12:00 PM", "2:00 PM", "Oxnard St. to Burbank Bl. / Hazeltine Av. to Van Nuys Bl." ]
+, [ 366, "175B14B1-8516-4C59-A6EE-25CAFFF6CE65", 366, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P373 M", "4", "12:00 PM", "2:00 PM", "Burbank Bl. to Magnolia Bl. / Hazeltine Av. to Van Nuys Bl." ]
+, [ 367, "7E32B25B-75F2-4790-81B5-E9C4FB910065", 367, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P373 Tu", "4", "12:00 PM", "2:00 PM", "Burbank Bl. to Magnolia Bl. / Hazeltine Av. to Van Nuys Bl." ]
+, [ 368, "E66125A3-A5DE-41AA-BC6D-86CD0F7FDFE0", 368, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P374 M", "4", "10:00 AM", "12:00 PM", "Oxnard St. to Burbank Bl. / Van Nuys Bl to Kester AV." ]
+, [ 369, "4FB05CAD-8CD3-47DC-916E-0FC727C61D17", 369, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P374 Tu", "4", "10:00 AM", "12:00 PM", "Oxnard St. to Burbank Bl. / Van Nuys Bl to Kester AV." ]
+, [ 370, "4407AAF8-C794-4C3B-9A78-D869243F7FDC", 370, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P375 M", "4", "10:00 AM", "12:00 PM", "Burbank Bl. to Magnolia Bl. / Van Nuys Bl. to Kester Av." ]
+, [ 371, "D82EDDE6-75E6-4EB4-84AC-D0E672CAE970", 371, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P375 Tu", "4", "10:00 AM", "12:00 PM", "Burbank Bl. to Magnolia Bl. / Van Nuys Bl. to Kester Av." ]
+, [ 372, "28213DEC-2EC9-4161-A6DD-45317C1F8174", 372, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P376 M", "4", "8:00 AM", "10:00 AM", "Oxnard St. to Burbank Bl. / Kester Av. to Sepulveda Bl." ]
+, [ 373, "D6B275A1-EACB-4A64-951A-EC39DFDBFBB7", 373, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P376 Tu", "4", "8:00 AM", "10:00 AM", "Oxnard St. to Burbank Bl. / Kester Av. to Sepulveda Bl." ]
+, [ 374, "1B843294-8729-49A9-86FF-3B54D0B1A6C4", 374, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P377 M", "4", "8:00 AM", "10:00 AM", "Burbank Bl. to Magnolia Bl. / Kester Av. to Sepulveda Bl." ]
+, [ 375, "B86477EF-3004-4406-9E08-314C22EDD7D2", 375, 1401316308, "881741", 1401316308, "881741", "{\n}", "20P377 Tu", "4", "8:00 AM", "10:00 AM", "Burbank Bl. to Magnolia Bl. / Kester Av. to Sepulveda Bl." ]
+, [ 376, "C594446E-0098-4BC3-A035-4D4B6046CD90", 376, 1401316308, "881741", 1401316308, "881741", "{\n}", "21P189 F", "3", "8:00 AM", "10:00 AM", "WILBUR AV./ ETIWANDA AV. TO BALBOA AV. / VICTORY BL. TO BURBANK BL." ]
+, [ 377, "8A4B625A-BADD-4ED3-AA90-C262820DC673", 377, 1401316308, "881741", 1401316308, "881741", "{\n}", "21P189 M", "3", "8:00 AM", "10:00 AM", "WILBUR AV./ ETIWANDA AV. TO BALBOA AV. / VICTORY BL. TO BURBANK BL." ]
+, [ 378, "1C9CED6D-6D35-46AD-9304-65DD3E61553A", 378, 1401316308, "881741", 1401316308, "881741", "{\n}", "21P190 Tu", "3/5", "8:00 AM", "10:00 AM", "OXNARD ST. TO VENTURA FRWY./ WHITE OAK AV. TO ETIWANDA AV." ]
+, [ 379, "47A042B8-0DD5-4595-AA61-DE4ADA115319", 379, 1401316308, "881741", 1401316308, "881741", "{\n}", "21P190 W", "3/5", "8:00 AM", "10:00 AM", "OXNARD ST. TO VENTURA FRWY./ WHITE OAK AV. TO ETIWANDA AV." ]
+, [ 380, "665DE144-A30E-4174-939B-53DF1A56B282", 380, 1401316308, "881741", 1401316308, "881741", "{\n}", "21P191 Tu", "5", "10:00 AM", "12:00 PM", "OXNARD ST TO BURBANK BL ./  LOUISE AV. TO WHITE OAK AV." ]
+, [ 381, "679FEF20-0D9D-493B-95D3-88D3EEFD62A4", 381, 1401316308, "881741", 1401316308, "881741", "{\n}", "21P191 W", "5", "10:00 AM", "12:00 PM", "OXNARD ST TO BURBANK BL ./  LOUISE AV. TO WHITE OAK AV." ]
+, [ 382, "BF0A003D-2B89-4AAE-9F9F-434A580405CF", 382, 1401316308, "881741", 1401316308, "881741", "{\n}", "21P192 Tu", "5", "12:00 PM", "2:00 PM", "OXNARD ST TO BURBANK BL ./ WISH AV. TO LOUISE AV." ]
+, [ 383, "1CAA0256-E7A5-4413-BFD4-5FD6FBB4C5D1", 383, 1401316308, "881741", 1401316308, "881741", "{\n}", "21P192 W", "5", "12:00 PM", "2:00 PM", "OXNARD ST TO BURBANK BL ./ WISH AV. TO LOUISE AV." ]
+, [ 384, "4512731C-AE55-4013-9303-16A5B44CCA70", 384, 1401316308, "881741", 1401316308, "881741", "{\n}", "21P300 F", "3/6", "8:00 AM", "11:00 AM", "HASKEL AV. TO LINDLEY AV./SATICOY ST. TO VICTORY BL." ]
+, [ 385, "3BB8740C-B337-460E-B8C4-52E92B2BC95D", 385, 1401316308, "881741", 1401316308, "881741", "{\n}", "21P300 M", "3/6", "8:00 AM", "11:00 AM", "HASKEL AV. TO LINDLEY AV./SATICOY ST. TO VICTORY BL." ]
+, [ 386, "80DED7EE-CEB0-44C6-919F-CA4CA6E2F360", 386, 1401316308, "881741", 1401316308, "881741", "{\n}", "21P301 F", "3/6", "12:00 PM", "2:00 PM", "VANOWEN ST TO VICTORY BL./WOODLEY AV. TO SAN DIEGO FRWY." ]
+, [ 387, "412C0CFC-E40C-438F-BBBB-C1344267ACDF", 387, 1401316308, "881741", 1401316308, "881741", "{\n}", "21P301 M", "3/6", "12:00 PM", "2:00 PM", "VANOWEN ST TO VICTORY BL./WOODLEY AV. TO SAN DIEGO FRWY." ]
+, [ 388, "4BE59597-49CB-45A2-909A-8779E2E6D19D", 388, 1401316308, "881741", 1401316308, "881741", "{\n}", "21P359 F", "3", "8:00 AM", "10:00 AM", "WYANDOTE ST. TO VICTORY BL./YOLANDA AV. TO CORBIN AV." ]
+, [ 389, "298F249F-C9E3-4C90-AD75-3B54AE41E148", 389, 1401316308, "881741", 1401316308, "881741", "{\n}", "21P359 W", "3", "8:00 AM", "10:00 AM", "WYANDOTE ST. TO VICTORY BL./YOLANDA AV. TO CORBIN AV." ]
+, [ 390, "9882CD90-6601-48A1-B2C5-9F6C7573BDE3", 390, 1401316308, "881741", 1401316308, "881741", "{\n}", "21P360 F", "3", "8:00 AM", "10:00 AM", "ROSCOE BL. TO VICTORY BL./LINDLEY AV. TO WILBUR AV." ]
+, [ 391, "5D128760-4848-4F2C-924E-269F1C1BB4C7", 391, 1401316308, "881741", 1401316308, "881741", "{\n}", "21P360 W", "3", "8:00 AM", "10:00 AM", "ROSCOE BL. TO VICTORY BL./LINDLEY AV. TO WILBUR AV." ]
+, [ 392, "3B02AB61-3CA7-4090-93A8-06EBEF21703B", 392, 1401316308, "881741", 1401316308, "881741", "{\n}", "22P188 F", "12", "8:00 AM", "10:00 AM", "RINALDI ST. TO ROSCOE BL./HASKEL AV. TO BALBOA BL." ]
+, [ 393, "DBDFCD91-2229-4B1C-959D-283EAC83EC29", 393, 1401316308, "881741", 1401316308, "881741", "{\n}", "22P188 M", "12", "8:00 AM", "10:00 AM", "RINALDI ST. TO ROSCOE BL./HASKEL AV. TO BALBOA BL." ]
+, [ 394, "5931273B-8F2D-483A-A999-B5C62AE6BE7C", 394, 1401316308, "881741", 1401316308, "881741", "{\n}", "22P189 F", "12", "10:00 AM", "12:00 PM", "Los Alimos to Plummer st./Balboa av. To Lindley av." ]
+, [ 395, "0E0B36C9-C9F6-43DE-8294-C49DF725D7BE", 395, 1401316308, "881741", 1401316308, "881741", "{\n}", "22P189 Th", "12", "10:00 AM", "12:00 PM", "Los Alimos to Plummer st./Balboa av. To Lindley av." ]
+, [ 396, "C7F8E016-D6DC-4346-9726-9331C939DA99", 396, 1401316308, "881741", 1401316308, "881741", "{\n}", "22P190 M", "12", "8:00 AM", "10:00 AM", "Rinaldi st. to Sqn Fernando Mission bl./Sepulveda bl. To Haskel av." ]
+, [ 397, "E14460B1-9A7D-4871-A9C0-E5221D3030AD", 397, 1401316308, "881741", 1401316308, "881741", "{\n}", "22P190 Tu", "12", "8:00 AM", "10:00 AM", "Rinaldi st. to Sqn Fernando Mission bl./Sepulveda bl. To Haskel av." ]
+, [ 398, "230D74A8-B4C9-4988-B1EA-62CBB5DE93F8", 398, 1401316308, "881741", 1401316308, "881741", "{\n}", "22P192 F", "12", "8:00 AM", "10:00 AM", "Rinaldi st. to San Fernando Mission bl./Balboa bl. To Louise av." ]
+, [ 399, "9D7A1FF6-4EA9-4EBA-9968-22F110A04385", 399, 1401316308, "881741", 1401316308, "881741", "{\n}", "22P192 Th", "12", "8:00 AM", "10:00 AM", "Rinaldi st. to San Fernando Mission bl./Balboa bl. To Louise av." ]
+, [ 400, "7488F5ED-1F3C-433F-A24F-FD57879DD9C5", 400, 1401316308, "881741", 1401316308, "881741", "{\n}", "22P193 M", "12", "8:00 AM", "10:00 AM", "San Fernando Mission Bl. To Chatsworth st./Sepulveda bl. To Haskel av." ]
+, [ 401, "C4C8BC39-1EC5-4D15-8F61-68EFB8489CB4", 401, 1401316308, "881741", 1401316308, "881741", "{\n}", "22P193 Tu", "12", "8:00 AM", "10:00 AM", "San Fernando Mission Bl. To Chatsworth st./Sepulveda bl. To Haskel av." ]
+, [ 402, "4E9F477B-64D3-446F-AFB1-8A2AA1CF3A15", 402, 1401316308, "881741", 1401316308, "881741", "{\n}", "22P194 M", "12", "10:00 AM", "12:00 PM", "San Fernando Mission bl. To Chatsworth st. / Haskel av. To Woodley av." ]
+, [ 403, "94BDBE0C-1F5A-4009-AA5A-95D7877DAF19", 403, 1401316308, "881741", 1401316308, "881741", "{\n}", "22P194 Tu", "12", "10:00 AM", "12:00 PM", "San Fernando Mission bl. To Chatsworth st. / Haskel av. To Woodley av." ]
+, [ 404, "BF5C6E54-B763-462F-99A0-3B4004600C06", 404, 1401316308, "881741", 1401316308, "881741", "{\n}", "22P195 M", "12", "12:00 PM", "2:00 PM", "San Fernando Mission bl. To Chatsworth st. / Woodley av. To Hayvenhurst av." ]
+, [ 405, "7346FAEC-644D-4BF8-83E4-D87724293BC0", 405, 1401316308, "881741", 1401316308, "881741", "{\n}", "22P195 Tu", "12", "12:00 PM", "2:00 PM", "San Fernando Mission bl. To Chatsworth st. / Woodley av. To Hayvenhurst av." ]
+, [ 406, "91D78C9A-C070-4A4C-965C-17E19D6E0EDE", 406, 1401316308, "881741", 1401316308, "881741", "{\n}", "22P196 M", "12", "12:00 PM", "2:00 PM", "Chatsworth st. to devonshire st./Sepulveda bl. To Haskel av." ]
+, [ 407, "F907DC49-D178-462B-B327-547E2F512E6F", 407, 1401316308, "881741", 1401316308, "881741", "{\n}", "22P196 Tu", "12", "12:00 PM", "2:00 PM", "Chatsworth st. to devonshire st./Sepulveda bl. To Haskel av." ]
+, [ 408, "5DEB30E4-D669-4C28-A7AC-1BDA81D6781E", 408, 1401316308, "881741", 1401316308, "881741", "{\n}", "22P197 M", "12", "12:00 PM", "2:00 PM", "Chatsworth st. to Devonshire st./Haskel av. To Woodley av." ]
+, [ 409, "82937118-4BD7-44CD-8C15-3AB39299A03F", 409, 1401316308, "881741", 1401316308, "881741", "{\n}", "22P197 Tu", "12", "12:00 PM", "2:00 PM", "Chatsworth st. to Devonshire st./Haskel av. To Woodley av." ]
+, [ 410, "E9C0874B-CBA1-461A-81B5-9533FFD0779D", 410, 1401316308, "881741", 1401316308, "881741", "{\n}", "22P198 M", "12", "12:00 PM", "2:00 PM", "Chatsworth st. to Devonshire st./Woodley av. To Hayvenhurst" ]
+, [ 411, "7890E850-19A9-44CC-A35B-FF79A7A97C4A", 411, 1401316308, "881741", 1401316308, "881741", "{\n}", "22P198 Tu", "12", "12:00 PM", "2:00 PM", "Chatsworth st. to Devonshire st./Woodley av. To Hayvenhurst" ]
+, [ 412, "54827F59-C777-42D8-AF23-61364C4E018E", 412, 1401316308, "881741", 1401316308, "881741", "{\n}", "22P199 M", "12", "8:00 AM", "10:00 AM", "Devonshire st. to Lassen st. / Sepulveda bl. To Haskel av." ]
+, [ 413, "92858FFC-CB76-43B8-947E-DACF5DC56EBE", 413, 1401316308, "881741", 1401316308, "881741", "{\n}", "22P199 Tu", "12", "8:00 AM", "10:00 AM", "Devonshire st. to Lassen st. / Sepulveda bl. To Haskel av." ]
+, [ 414, "7B4F56ED-C44E-487A-B9D2-767E81559F68", 414, 1401316308, "881741", 1401316308, "881741", "{\n}", "22P200 M", "12", "10:00 AM", "12:00 PM", "Devonshire st. to Lassen st. / Woodley av. To Hayvenhurst av." ]
+, [ 415, "010E6A37-AEF0-4E38-8BE3-E437FB8CB347", 415, 1401316308, "881741", 1401316308, "881741", "{\n}", "22P200 Tu", "12", "10:00 AM", "12:00 PM", "Devonshire st. to Lassen st. / Woodley av. To Hayvenhurst av." ]
+, [ 416, "05A2B6FC-8EE6-461B-A4C3-BC71B31DA9BA", 416, 1401316308, "881741", 1401316308, "881741", "{\n}", "22P201 M", "12", "12:00 PM", "2:00 PM", "Devonshire st. to Lassen st. / Woodley av. To Hayvenhurst av." ]
+, [ 417, "ECCF280A-AA01-4026-91BA-648C71F58348", 417, 1401316308, "881741", 1401316308, "881741", "{\n}", "22P201 Tu", "12", "12:00 PM", "2:00 PM", "Devonshire st. to Lassen st. / Woodley av. To Hayvenhurst av." ]
+, [ 418, "06890075-7E38-4B09-8BD1-65D93A08BE62", 418, 1401316308, "881741", 1401316308, "881741", "{\n}", "22P203 M", "12", "10:00 AM", "12:00 PM", "Chatsworth st. to devonshire st. / Hayvenhurst av. To Balboa bl." ]
+, [ 419, "16A9BC46-1E26-44C0-9630-DF0B6D2FFFC6", 419, 1401316308, "881741", 1401316308, "881741", "{\n}", "22P203 Tu", "12", "10:00 AM", "12:00 PM", "Chatsworth st. to devonshire st. / Hayvenhurst av. To Balboa bl." ]
+, [ 420, "154B3193-8FDE-4443-96D2-27A797FF587E", 420, 1401316308, "881741", 1401316308, "881741", "{\n}", "22P204 M", "12", "8:00 AM", "10:00 AM", "San Fernando Mission bl. To Chatsworth st./Hayvenhurst av. To Balboa bl." ]
+, [ 421, "2620A043-738E-4766-AA70-FA63921857C0", 421, 1401316308, "881741", 1401316308, "881741", "{\n}", "22P204 Tu", "12", "8:00 AM", "10:00 AM", "San Fernando Mission bl. To Chatsworth st./Hayvenhurst av. To Balboa bl." ]
+, [ 422, "903F6AA3-0BBF-48EB-9110-E4ACF8CF1190", 422, 1401316308, "881741", 1401316308, "881741", "{\n}", "22P206 F", "12", "10:00 AM", "12:00 PM", "Rinaldi st. to San Fernando Mission bl./Balboa bl. To Louise av." ]
+, [ 423, "2F9C8AD1-7D5B-4A96-9F07-062C52D4A68D", 423, 1401316308, "881741", 1401316308, "881741", "{\n}", "22P206 Th", "12", "10:00 AM", "12:00 PM", "Rinaldi st. to San Fernando Mission bl./Balboa bl. To Louise av." ]
+, [ 424, "235A2577-8911-40E0-9399-181B44180BD5", 424, 1401316308, "881741", 1401316308, "881741", "{\n}", "22P207 M", "12", "8:00 AM", "10:00 AM", "San Fernando Mission bl. To Chatsworth st./ Balboa bl. To Louise av." ]
+, [ 425, "2C9DC0B0-C042-4BC4-9C64-7F65F8E3B806", 425, 1401316308, "881741", 1401316308, "881741", "{\n}", "22P207 Tu", "12", "8:00 AM", "10:00 AM", "San Fernando Mission bl. To Chatsworth st./ Balboa bl. To Louise av." ]
+, [ 426, "0CC2FF28-78CA-473D-95E5-43AA254874F4", 426, 1401316308, "881741", 1401316308, "881741", "{\n}", "22P208 M", "12", "10:00 AM", "12:00 PM", "Chatsworth st. to Devonshire st. / Balboa bl. To Louise av." ]
+, [ 427, "605BB2C6-8E6C-4741-8951-9EB70315D41D", 427, 1401316308, "881741", 1401316308, "881741", "{\n}", "22P208 Tu", "12", "10:00 AM", "12:00 PM", "Chatsworth st. to Devonshire st. / Balboa bl. To Louise av." ]
+, [ 428, "5AC648EF-AA9C-41AE-BA2F-9393380BB747", 428, 1401316308, "881741", 1401316308, "881741", "{\n}", "23P187  Th", "3", "8:00 AM", "11:00 AM", "San Jose st. to Roscoe bl. / Oakdale av. To Topanga Canyon bl." ]
+, [ 429, "92A1B048-1A83-4692-8C8F-A47A15D439F6", 429, 1401316308, "881741", 1401316308, "881741", "{\n}", "23P187 F", "3", "8:00 AM", "11:00 AM", "San Jose st. to Roscoe bl. / Oakdale av. To Topanga Canyon bl." ]
+, [ 430, "7A7DFCB7-0E1A-4722-A433-97D6BCAF9062", 430, 1401316308, "881741", 1401316308, "881741", "{\n}", "23P188 Th", "3", "8:00 AM", "10:00 AM", "Parthenia st. to Roscoe bl. / Mason av. To De Soto av." ]
+, [ 431, "47AC56FE-D005-4CE8-B534-0553420231F8", 431, 1401316308, "881741", 1401316308, "881741", "{\n}", "23P188 W", "3", "8:00 AM", "10:00 AM", "Parthenia st. to Roscoe bl. / Mason av. To De Soto av." ]
+, [ 432, "6BB4E9E2-95EE-4C51-A076-4C2CFBE563E6", 432, 1401316308, "881741", 1401316308, "881741", "{\n}", "23P194 F", "3", "12:00 PM", "2:00 PM", "Parthenia st. to Roscoe bl. / Lindley av. To Reseda bl." ]
+, [ 433, "BC5B9315-03E7-4A9B-8ACE-06EF024C5337", 433, 1401316308, "881741", 1401316308, "881741", "{\n}", "23P194 Th", "3", "12:00 PM", "2:00 PM", "Parthenia st. to Roscoe bl. / Lindley av. To Reseda bl." ]
+, [ 434, "13F7E61E-F3F1-455B-B125-7945E178F350", 434, 1401316308, "881741", 1401316308, "881741", "{\n}", "23P303 F", "3", "10:00 AM", "1:00 PM", "Chatsworth st. to Roscoe bl. / Lindley av. To Tampa av." ]
+, [ 435, "2D54E8B3-362B-4180-BF15-3756F0F7C003", 435, 1401316308, "881741", 1401316308, "881741", "{\n}", "23P303 Th", "3", "10:00 AM", "1:00 PM", "Chatsworth st. to Roscoe bl. / Lindley av. To Tampa av." ]
+, [ 436, "99FA25CA-5A73-4091-A21F-ECBA61702F86", 436, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P190 Th", "3", "8:00 AM", "10:00 AM", "Saticoy st. To Deering av. / Winnetka av. To Variel av." ]
+, [ 437, "6E5B4776-57F1-4FB4-A92B-38AFD0E73B6D", 437, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P190 W", "3", "8:00 AM", "10:00 AM", "Saticoy st. To Deering av. / Winnetka av. To Variel av." ]
+, [ 438, "037611B2-E4C5-4FFE-A42E-6A1A91657CC3", 438, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P299 Tu", "3", "8:00 AM", "10:00 AM", "Vanowen st. to Ventura bl. / Topanga Canyon  bl. To Manton av." ]
+, [ 439, "43777597-2A9C-4AC1-96FB-0DF626F1738D", 439, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P299M", "3", "8:00 AM", "10:00 AM", "Vanowen st. to Ventura bl. / Topanga Canyon  bl. To Manton av." ]
+, [ 440, "B838AA84-64C4-467B-AEE8-725B9E386E31", 440, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P300 Th", "3", "8:00 AM", "10:00 AM", "Saticoy St. to Sherman Way / Canoga av. To Topanga Canyon bl." ]
+, [ 441, "7FDD2689-034C-4D9D-8A31-FC2DCB45233F", 441, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P300 W", "3", "8:00 AM", "10:00 AM", "Saticoy St. to Sherman Way / Canoga av. To Topanga Canyon bl." ]
+, [ 442, "67F9EC4A-9936-4999-A735-8169690D16F8", 442, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P301 Th", "3", "9:00 AM", "11:00 AM", "Roscoe bl. To Saticoy st. / Variel av. To Topanga Canyon Bl." ]
+, [ 443, "D42907ED-08EB-47EF-B4E5-6F5C2AE00821", 443, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P301 W", "3", "9:00 AM", "11:00 AM", "Roscoe bl. To Saticoy st. / Variel av. To Topanga Canyon Bl." ]
+, [ 444, "18998BD3-8D89-4312-AE91-187E1E7493F3", 444, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P302 M", "3/12", "12:00 PM", "2:00 PM", "Fallbrook av. / Roscoe bl. To Ventura Fwy. & Bigler st. Dunman av. To Abbyville av." ]
+, [ 445, "7DEE613B-BE95-4540-90D5-7BBF39D0E157", 445, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P302 Tu", "3/12", "12:00 PM", "2:00 PM", "Fallbrook av. / Roscoe bl. To Ventura Fwy. & Bigler st. Dunman av. To Abbyville av." ]
+, [ 446, "04C95F3C-8A3B-4A87-89D1-F8A9E685A1DC", 446, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P303 M", "3", "10:00 AM", "12:00 PM", "Saticoy st. to Sherman Way / Topanga Canyon bl." ]
+, [ 447, "8A2D3705-F83A-4C31-8A70-0FDB44FE85C2", 447, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P303 Tu", "3", "10:00 AM", "12:00 PM", "Saticoy st. to Sherman Way / Topanga Canyon bl." ]
+, [ 448, "C3842214-019B-42B7-BD6E-ABE08A2BA8F3", 448, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P304 Th", "3", "10:00 AM", "12:00 PM", "Mason av. To De Soto av. / Saticoy st. to Sherman way" ]
+, [ 449, "07A879D8-2250-44F6-A854-1A1665BB7D04", 449, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P304 W", "3", "10:00 AM", "12:00 PM", "Mason av. To De Soto av. / Saticoy st. to Sherman way" ]
+, [ 450, "3225A73A-0A61-4EF1-AA68-2DA5A59D7746", 450, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P305 Th", "3", "8:00 AM", "10:00 AM", "Saticoy st. to Sherman way / De Soto av. To Canoga av." ]
+, [ 451, "46106F71-1CA9-4398-9A3B-EE632DC1C090", 451, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P305 W", "3", "8:00 AM", "10:00 AM", "Saticoy st. to Sherman way / De Soto av. To Canoga av." ]
+, [ 452, "C7CA7200-A693-46D9-B527-CD80024BC527", 452, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P307 Th", "3", "8:00 AM", "10:00 AM", "Sherman way to Los Angelas River / De Soto av. To Deering av." ]
+, [ 453, "FB4D47DF-B537-477C-B588-790ABC960D20", 453, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P307 W", "3", "8:00 AM", "10:00 AM", "Sherman way to Los Angelas River / De Soto av. To Deering av." ]
+, [ 454, "87D34D44-0C7A-4399-B521-7B03BFD590A9", 454, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P308 Th", "3", "12:00 PM", "2:00 PM", "Saticoy st. to Sherman way / Winnetka av. To Mason av." ]
+, [ 455, "BB2292D2-F43E-4B81-B2B1-089248C03781", 455, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P308 W", "3", "12:00 PM", "2:00 PM", "Saticoy st. to Sherman way / Winnetka av. To Mason av." ]
+, [ 456, "D1137B1C-66B0-4510-82F8-FCB126C2B00E", 456, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P310 M", "3", "8:00 AM", "10:00 AM", "Bassett av. To Sherman way / Canoga av. To Topanga Canyon bl." ]
+, [ 457, "24DC8729-3C88-4FFC-B2DD-5AFDD4875389", 457, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P310 Tu", "3", "8:00 AM", "10:00 AM", "Bassett av. To Sherman way / Canoga av. To Topanga Canyon bl." ]
+, [ 458, "A7954831-A127-4F0C-8B77-4A12DCB40977", 458, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P311 Th", "3", "10:00 AM", "12:00 PM", "Sherman way to Vanowen st. / Mason av. To De Soto av." ]
+, [ 459, "C5C0F056-2807-47F5-AA55-57F4CB046113", 459, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P311 W", "3", "10:00 AM", "12:00 PM", "Sherman way to Vanowen st. / Mason av. To De Soto av." ]
+, [ 460, "CE094DD5-DEB6-49D5-87D8-F44EBE8AE14B", 460, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P312 Th", "3", "12:00 PM", "2:00 PM", "Sherman way to Vanowen st. / Topanga Canyon Bl. To Shoup av." ]
+, [ 461, "76F58F20-ACAB-44BA-87B9-5E032605F8CC", 461, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P312 W", "3", "12:00 PM", "2:00 PM", "Sherman way to Vanowen st. / Topanga Canyon Bl. To Shoup av." ]
+, [ 462, "A4DDC259-5B17-4253-B770-C089E4DB9ADD", 462, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P313 Th", "12", "8:00 AM", "10:00 AM", "Shoup av. To Fallbrook av. / Roscoe bl. To Saticoy st." ]
+, [ 463, "D6A87901-0DE8-42F9-AFD7-5EDF4C8D29AB", 463, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P313 W", "12", "8:00 AM", "10:00 AM", "Shoup av. To Fallbrook av. / Roscoe bl. To Saticoy st." ]
+, [ 464, "FA03EC2A-766F-4F43-8BD3-AA9908016E2B", 464, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P314 Th", "12", "10:00 AM", "12:00 PM", "Shoup av. To Fallbrook av. / Saticoy st. to Sherman way" ]
+, [ 465, "3ED0D716-AC5F-4AB2-B49A-C04767B1C293", 465, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P314 W", "12", "10:00 AM", "12:00 PM", "Shoup av. To Fallbrook av. / Saticoy st. to Sherman way" ]
+, [ 466, "03C6DE09-EC75-400B-A495-4B6BB494A8FC", 466, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P315 Th", "12", "12:00 PM", "2:00 PM", "Sherman way to Vanowen st. / Shoup av. To Fallbrook av." ]
+, [ 467, "8E4BD93B-A0C3-4F48-BE1A-5B56D946885A", 467, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P315 W", "12", "12:00 PM", "2:00 PM", "Sherman way to Vanowen st. / Shoup av. To Fallbrook av." ]
+, [ 468, "3F5429C8-A565-4605-AEAF-37058D6B78D1", 468, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P316 Th", "12", "8:00 AM", "10:00 AM", "Fallbrook av. To Woodlake av. / Roscoa bl. To Saticoy st." ]
+, [ 469, "FB5B7D0A-C9D8-452B-8D5C-93AE0D98AF70", 469, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P316 W", "12", "8:00 AM", "10:00 AM", "Fallbrook av. To Woodlake av. / Roscoa bl. To Saticoy st." ]
+, [ 470, "92DAE43D-2748-4B2F-901C-FEF39205BE3B", 470, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P317 Th", "12", "10:00 AM", "12:00 PM", "Fallbrook av. To woodlake av. / saticoy st. to sherman way" ]
+, [ 471, "C0220A1E-1D9B-4B62-BFB5-456AF4B6BD75", 471, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P317 W", "12", "10:00 AM", "12:00 PM", "Fallbrook av. To woodlake av. / saticoy st. to sherman way" ]
+, [ 472, "71E70476-0723-464B-938A-36A7FC2DF1FF", 472, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P318 Th", "12", "12:00 PM", "2:00 PM", "fallbrook av. To woodlake av. / sherman way to  vanowen st." ]
+, [ 473, "581901F8-F6F0-4185-B198-4A52D921EBAF", 473, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P318 W", "12", "12:00 PM", "2:00 PM", "fallbrook av. To woodlake av. / sherman way to  vanowen st." ]
+, [ 474, "7923144C-D257-425E-A437-403920FD47DE", 474, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P319 Th", "12", "12:00 PM", "2:00 PM", "woodlake av. To el escorpion crk/schoolcraft st to vanowen st" ]
+, [ 475, "55E0F6AC-E86D-4A57-BBEE-2D6480D5848F", 475, 1401316308, "881741", 1401316308, "881741", "{\n}", "24P319 W", "12", "12:00 PM", "2:00 PM", "woodlake av. To el escorpion crk/schoolcraft st to vanowen st" ]
+, [ 476, "A77233A7-4A18-4248-A4C8-CA9CFC5228BF", 476, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P124 M", "8", "8:00 AM", "10:00 AM", "79th st to 85th st -Main st to 85th Pl" ]
+, [ 477, "85038482-A25F-4281-991A-1533D870F93A", 477, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P124 Tu", "8", "8:00 AM", "10:00 AM", "79th st to 85th st -Main st to 85th Pl" ]
+, [ 478, "3B29EB46-5DB0-4F4F-B593-3D893D5C9100", 478, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P125 M", "8", "8:00 AM", "10:00 AM", "79th st to 85th st-Harbor Fwy to Vermont Ave" ]
+, [ 479, "F1441ABE-B09B-445C-B618-6536FE683B69", 479, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P125 Tu", "8", "8:00 AM", "10:00 AM", "79th st to 85th st-Harbor Fwy to Vermont Ave" ]
+, [ 480, "C06B81CE-AA80-49E0-B994-F9F286A63FF9", 480, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P134 Th", "15", "8:00 AM", "10:00 AM", "92nd St to 103rd St- Graham Ave to Cresus Ave" ]
+, [ 481, "6AC5267B-A1B2-49A9-9372-F34303E3CF69", 481, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P134 W", "15", "8:00 AM", "10:00 AM", "92nd St to 103rd St- Graham Ave to Cresus Ave" ]
+, [ 482, "846D85DE-4C19-460C-9033-268172D54A49", 482, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P135 Th", "15", "10:00 AM", "12:00 PM", "92nd St to 103rd st- Grandee Ave to Success Ave" ]
+, [ 483, "CE80F3A7-9F4B-4D62-AE02-3841D9ED5525", 483, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P135 W", "15", "10:00 AM", "12:00 PM", "92nd St to 103rd st- Grandee Ave to Success Ave" ]
+, [ 484, "951F149A-0C86-4F92-9A73-DE272F49698F", 484, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P206 Th", "15", "8:00 AM", "10:00 AM", "El Segundo Bl to Rosecran Ave- Hoover st to Vermont Ave" ]
+, [ 485, "80EF9F75-AB26-45B6-B2B4-F5E07A22080B", 485, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P206 W", "15", "8:00 AM", "10:00 AM", "El Segundo Bl to Rosecran Ave- Hoover st to Vermont Ave" ]
+, [ 486, "6E0FDEF7-3DA5-42F8-B20D-A173BC2399EA", 486, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P207 F", "15", "9:00 AM", "11:00 AM", "120th st to El Segundo Bl-Figueroa st City Limits to Vermont Ave" ]
+, [ 487, "3828E0F2-976D-4680-8168-F69C5C0A47A6", 487, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P207 W", "15", "9:00 AM", "11:00 AM", "120th st to El Segundo Bl-Figueroa st City Limits to Vermont Ave" ]
+, [ 488, "83498647-1137-47F8-A89B-DF4BE69CF57E", 488, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P229 M", "8/15", "10:00 AM", "12:00 PM", "Main St to Alvalon Bl- 79th st to Manchester Ave" ]
+, [ 489, "D18B5416-EDD3-434B-BF0D-B53837039BDF", 489, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P229 Tu", "8", "10:00 AM", "12:00 PM", "Main St to Alvalon Bl- 79th st to Manchester Ave" ]
+, [ 490, "14908D90-958A-455C-A53E-ABB21014F29C", 490, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P230 M", "8", "10:00 AM", "12:00 PM", "79th st to Manchester Ave- Central Ave to Avalon Bl" ]
+, [ 491, "C06691F7-F8EC-4F63-A097-7715A3AD8653", 491, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P230 Tu", "8", "10:00 AM", "12:00 PM", "79th st to Manchester Ave- Central Ave to Avalon Bl" ]
+, [ 492, "55BD7243-AD6C-4E1B-AEB4-3D9AC0AFA9B8", 492, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P231 M", "8", "9:30 AM", "11:30 AM", "Manchester Ave to 95th st-Avalon Bl to Main St" ]
+, [ 493, "BCC9D4A8-62C1-40D7-B9D8-4CB8A0425218", 493, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P231 Tu", "8", "9:30 AM", "11:30 AM", "Manchester Ave to 95th st-Avalon Bl to Main St" ]
+, [ 494, "01F66724-4B3F-486A-A5EF-8B96793D584A", 494, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P232 M", "8", "12:00 PM", "2:30 PM", "Manchester Ave to 93rd St- Central Ave to Avalon Bl" ]
+, [ 495, "C8250790-46E8-41DE-AD4E-35A19DE8E101", 495, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P232 Tu", "8", "12:00 PM", "2:30 PM", "Manchester Ave to 93rd St- Central Ave to Avalon Bl" ]
+, [ 496, "D0648D68-5F89-4A12-97A4-B9E6FD380628", 496, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P233 M", "8", "7:30 AM", "9:30 AM", "98th st to 106th st- Central Ave to Avalon Bl" ]
+, [ 497, "0CEC13DA-3D5F-457D-BC29-AA53523334AD", 497, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P233 Tu", "8", "7:30 AM", "9:30 AM", "98th st to 106th st- Central Ave to Avalon Bl" ]
+, [ 498, "1254DF8B-E0EC-4B12-8535-DF1354B8B47D", 498, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P234 M", "8", "12:00 PM", "2:30 PM", "Colden Ave to 91st St to 104th St- Main St to Figueroa St" ]
+, [ 499, "FB3C09F2-6312-4F3D-AE80-D69CAC8C4D17", 499, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P234 Tu", "8", "12:00 PM", "2:30 PM", "Colden Ave to 91st St to 104th St- Main St to Figueroa St" ]
+, [ 500, "7C5E9F92-B950-4934-804F-B116889DDB4E", 500, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P235 M", "8", "8:00 AM", "10:00 AM", "93rd St to 98th st- Central Ave to Main St" ]
+, [ 501, "4CB53F24-1619-4E41-8D87-CE63C6F0ACBF", 501, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P235 Tu", "8", "8:00 AM", "10:00 AM", "93rd St to 98th st- Central Ave to Main St" ]
+, [ 502, "4A8578B0-031A-4A91-B7BD-A75D8EF1CE5A", 502, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P236 M", "8", "9:30 AM", "11:30 AM", "9th St to 110th St - Avalon Bl to Main St" ]
+, [ 503, "0112BF06-298F-47E8-B20B-9BDB514963AF", 503, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P236 Tu", "8", "9:30 AM", "11:30 AM", "9th St to 110th St - Avalon Bl to Main St" ]
+, [ 504, "3BE26B44-58C2-437E-83E2-7BBDE6F0C825", 504, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P237 Th", "15", "7:30 AM", "9:30 AM", "103rd to 110th St- Comton Ave to Avalon BL" ]
+, [ 505, "C969B17B-C55A-444D-90E2-B8B139EA81EE", 505, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P237 W", "15", "7:30 AM", "9:30 AM", "103rd to 110th St- Comton Ave to Avalon BL" ]
+, [ 506, "6A6C9E59-F7C3-458C-8170-8AE092720EEC", 506, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P238 Th", "8", "12:00 PM", "2:30 PM", "104th to Imperial Hwy- main st to Figueroa St" ]
+, [ 507, "DCE171FF-E840-4E95-9FEB-0BD935EC213A", 507, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P238 W", "8", "12:00 PM", "2:30 PM", "104th to Imperial Hwy- main st to Figueroa St" ]
+, [ 508, "6D89C170-F5D2-4420-8D6E-5267DE93AFF6", 508, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P239 Th", "8", "9:30 AM", "11:30 AM", "Imperial Hwy to City Limits- Main St to Figueroa St" ]
+, [ 509, "BB652E5C-5613-4DD8-96BB-26C339B0F8DA", 509, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P239 W", "8", "9:30 AM", "11:30 AM", "Imperial Hwy to City Limits- Main St to Figueroa St" ]
+, [ 510, "00189071-28BC-4CF0-B742-4DE1C931353E", 510, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P240 Th", "8", "7:30 AM", "9:30 AM", "111th St to 120th st Avalon Bl to Main St" ]
+, [ 511, "0E94E751-BC92-413F-8332-0220A7D002DD", 511, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P240 W", "8", "7:30 AM", "9:30 AM", "111th St to 120th st Avalon Bl to Main St" ]
+, [ 512, "7063346F-549C-4388-A23B-B313D4F59670", 512, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P241 Th", "8", "12:00 PM", "2:30 PM", "Imperial Hwy to 120th st -Central Ave to Avalon Bl" ]
+, [ 513, "6E934FB9-F4E5-406E-949D-BEE6C827DAF1", 513, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P241 W", "8", "12:00 PM", "2:30 PM", "Imperial Hwy to 120th st -Central Ave to Avalon Bl" ]
+, [ 514, "09A0EEE8-818F-469B-9390-9F447A0CEE0E", 514, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P242 Th", "8", "9:30 AM", "11:30 AM", "108 st to Imperial Hwy-Zamora Ave & Central Ave to Avalon BL" ]
+, [ 515, "588622D3-6455-4E42-BEC5-1BC3661021D3", 515, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P242 W", "8", "9:30 AM", "11:30 AM", "108 st to Imperial Hwy-Zamora Ave & Central Ave to Avalon BL" ]
+, [ 516, "C40A9D52-F226-4085-A47C-32D5EEBCE55D", 516, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P243 Th", "15", "12:00 PM", "2:30 PM", "104th St & 113th st to City BDY- Croesus Ave & Willowbrook Ave - Graham Ave to Compton" ]
+, [ 517, "B26FC91C-751E-4CCF-A616-6CA686046B30", 517, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P243 W", "15", "12:00 PM", "2:30 PM", "104th St & 113th st to City BDY- Croesus Ave & Willowbrook Ave - Graham Ave to Compton" ]
+, [ 518, "2652E334-818B-404E-B655-BADAF72AD170", 518, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P244 Th", "15", "9:30 AM", "11:30 AM", "103rd st to Imperial Hwy-Mona Bl to Graham ave" ]
+, [ 519, "BEAE51FC-B2F6-43A3-BCA4-EC054016480D", 519, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P244 W", "15", "9:30 AM", "11:30 AM", "103rd st to Imperial Hwy-Mona Bl to Graham ave" ]
+, [ 520, "328DD66E-5FC7-4E57-AA4E-8BB3482016E2", 520, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P245 Th", "15", "12:00 PM", "2:00 PM", "103rd st to Santa Ana Bl- City BDY to Willmington Ave" ]
+, [ 521, "C2886731-6237-429A-A2A5-EC4E13F618FC", 521, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P245 W", "15", "12:00 PM", "2:00 PM", "103rd st to Santa Ana Bl- City BDY to Willmington Ave" ]
+, [ 522, "A2060A7C-51B3-4965-A007-B407FCB000BC", 522, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P246 M", "8", "12:00 PM", "2:30 PM", "Manchester Ave & 85th st to Colden ave & 91st st -Main St to Figueroa" ]
+, [ 523, "73164712-B8AD-4F4C-9993-D302F0939961", 523, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P246 Tu", "8", "12:00 PM", "2:30 PM", "Manchester Ave & 85th st to Colden ave & 91st st -Main St to Figueroa" ]
+, [ 524, "D8EAD9CA-00C9-43FC-A544-BD4C9711CB2B", 524, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P247 F", "15", "8:00 AM", "10:00 AM", "222 Street to 228th st - Normandie Ave to Western Ave" ]
+, [ 525, "820ACB46-B70A-42EA-94F1-7E15AE8ED254", 525, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P247 W", "15", "8:00 AM", "10:00 AM", "222 Street to 228th st - Normandie Ave to Western Ave" ]
+, [ 526, "165EA757-6729-46B2-BEE4-384516DD2506", 526, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P248 F", "15", "10:00 AM", "12:00 PM", "Torrance Bl to Carson St- Normandie Ave to Western Ave" ]
+, [ 527, "E2E31F2C-560F-416D-8F59-9E6EE385BEC1", 527, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P248 W", "15", "10:00 AM", "12:00 PM", "Torrance Bl to Carson St- Normandie Ave to Western Ave" ]
+, [ 528, "CAD65592-E20E-4B81-AC35-7A49B8FB1B5F", 528, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P249 F", "15", "12:00 PM", "2:00 PM", "182nd St to 405fwy- Vermont Ave to Western Ave" ]
+, [ 529, "9924EC14-32BD-4216-9638-41401D53B9D1", 529, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P249 W", "15", "12:00 PM", "2:00 PM", "182nd St to 405fwy- Vermont Ave to Western Ave" ]
+, [ 530, "32251F6C-5B0E-4CAD-AE1F-C2F8B5AAD249", 530, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P318 M", "8", "8:00 AM", "10:00 AM", "Manchester Ave to Colden Ave -Figueroa St to Vermont Ave" ]
+, [ 531, "E47D098E-46A5-4799-8556-E78D32A253B9", 531, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P318 Tu", "8", "8:00 AM", "10:00 AM", "Manchester Ave to Colden Ave -Figueroa St to Vermont Ave" ]
+, [ 532, "A9AC26A0-05EB-4B39-ACA0-739EEDF31528", 532, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P319 M", "8", "10:00 AM", "12:00 PM", "97th St to 106th st -Figueroa st to Vermont Ave" ]
+, [ 533, "C21A79DC-0C2E-40BF-BC9E-99BC7B3206AB", 533, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P319 Tu", "8", "10:00 AM", "12:00 PM", "97th St to 106th st -Figueroa st to Vermont Ave" ]
+, [ 534, "E588E2B7-B86F-4788-B5C6-D2AAAA981B2A", 534, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P320 M", "8", "12:30 PM", "2:30 PM", "106th St to Imperial Hwy- Figueroa St to Vermont Ave" ]
+, [ 535, "938F1B60-3E34-40B1-B792-9469A8F9918C", 535, 1401316308, "881741", 1401316308, "881741", "{\n}", "2P320 Tu", "8", "12:30 PM", "2:30 PM", "106th St to Imperial Hwy- Figueroa St to Vermont Ave" ]
+, [ 536, "6F76E731-A793-4AD5-BCD4-8668925DB77F", 536, 1401316308, "881741", 1401316308, "881741", "{\n}", "3NP246 F", "9", "4:00 AM", "6:30 AM", "Jefferson BL to MLK BL- Main St to Figueroa Ave" ]
+, [ 537, "F3B994D5-B12F-463C-85FE-D57BED0E57C8", 537, 1401316308, "881741", 1401316308, "881741", "{\n}", "3NP246 Th", "9", "4:00 AM", "6:30 AM", "Jefferson BL to MLK BL- Main St to Figueroa Ave" ]
+, [ 538, "7C5212F6-1526-44D8-9946-84AE27043FC3", 538, 1401316308, "881741", 1401316308, "881741", "{\n}", "3NP248 Tu", "9", "4:00 AM", "6:30 AM", "Santa Monica Fwy to Adams Blvd- Main St to Harbor Fwy" ]
+, [ 539, "FF14BB44-0E36-4D83-A37F-918CE05331A5", 539, 1401316308, "881741", 1401316308, "881741", "{\n}", "3NP248 W", "9", "4:00 AM", "6:30 AM", "Santa Monica Fwy to Adams Blvd- Main St to Harbor Fwy" ]
+, [ 540, "620432D2-6C59-4869-BAF9-BE6DDBBB27FD", 540, 1401316308, "881741", 1401316308, "881741", "{\n}", "3NP249 Tu", "9", "4:00 AM", "6:30 AM", "Adams Blvd to Jefferson Blvd- Main St to Figueroa St" ]
+, [ 541, "8F922B30-E7EA-400B-B0B6-C84D814690B0", 541, 1401316308, "881741", 1401316308, "881741", "{\n}", "3NP249 W", "9", "4:00 AM", "6:30 AM", "Adams Blvd to Jefferson Blvd- Main St to Figueroa St" ]
+, [ 542, "FD3401F0-9084-4E7C-AD69-CCF2C95FF140", 542, 1401316308, "881741", 1401316308, "881741", "{\n}", "3NP310 M", "9", "4:00 AM", "6:30 AM", "Washingon Blvd to 50th St-Alameda St to Long Beach Ave" ]
+, [ 543, "4CA62CEC-8934-4EB9-AEED-372E00EDE450", 543, 1401316308, "881741", 1401316308, "881741", "{\n}", "3NP310 Tu", "9", "4:00 AM", "6:30 AM", "Washingon Blvd to 50th St-Alameda St to Long Beach Ave" ]
+, [ 544, "C7B8A8BB-7A07-49AE-91C9-BD48BCC62CEF", 544, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P113 F", "9", "12:00 PM", "2:00 PM", "32nd St to Slauson Ave-Central Ave to Hooper Ave " ]
+, [ 545, "3A4DFCBF-543A-4568-B508-03A6FA204DDC", 545, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P113 Th", "9", "12:00 PM", "2:00 PM", "32nd St to Slauson Ave-Central Ave to Hooper Ave " ]
+, [ 546, "31C716BD-3B6D-49D0-AED8-C30FB805CA64", 546, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P114 F", "9", "10:00 AM", "12:00 PM", "Martin L King Blvd to 57th Ave - Central Ave to McKinley Ave" ]
+, [ 547, "E78CAC3D-D621-4FCB-AE90-BF134885F410", 547, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P114 Th", "9", "10:00 AM", "12:00 PM", "Martin L King Blvd to 57th Ave - Central Ave to McKinley Ave" ]
+, [ 548, "1B1A3357-4126-483D-8479-D86096C9111A", 548, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P119 F", "9", "12:00 PM", "2:00 PM", "Washington Blvd to 29th St - Hooper Ave to Central Ave" ]
+, [ 549, "697EE37B-4B83-48F3-B2E2-71698C1AF2A1", 549, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P119 Th", "9", "12:00 PM", "2:00 PM", "Washington Blvd to 29th St - Hooper Ave to Central Ave" ]
+, [ 550, "288DAD06-4970-4DD2-B1DD-FF8F668A4161", 550, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P123 M", "8", "12:00 PM", "3:00 PM", "73rd to 79th st -Main St to Vermont Ave" ]
+, [ 551, "D3DF40E5-C90C-4CDC-984E-26826FA5B53D", 551, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P123 Tu", "8", "12:00 PM", "3:00 PM", "73rd to 79th st -Main St to Vermont Ave" ]
+, [ 552, "5F43DC89-0092-475E-8E11-63ADFBA1DBC6", 552, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P161 M", "8", "8:00 AM", "10:00 AM", "Slauson Ave to Gage Ave-Harbor Fwy to Vermont Ave" ]
+, [ 553, "1BDBBC3F-B011-4447-9DBE-8378483CB091", 553, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P161 Tu", "8", "8:00 AM", "10:00 AM", "Slauson Ave to Gage Ave-Harbor Fwy to Vermont Ave" ]
+, [ 554, "17B458B5-C95E-43BD-99B6-E4FA7950866F", 554, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P204 F", "9", "8:00 AM", "10:00 AM", "8th St to Olympic Blvd-Lorena St to Soto St " ]
+, [ 555, "E808E9DB-9538-4FE5-B3AA-B27D1E25F93E", 555, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P204 Th", "9", "8:00 AM", "10:00 AM", "8th St to Olympic Blvd-Lorena St to Soto St " ]
+, [ 556, "AE25A3C0-57EA-4539-ACC2-E7F152B97F71", 556, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P217 F", "9", "8:00 AM", "10:00 AM", "Martin L King Blvd to 55th St McKinley Ave to Avalon Blvd" ]
+, [ 557, "C0A9D0AF-28F6-4E7F-BC62-41926393DB48", 557, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P217 Th", "9", "8:00 AM", "10:00 AM", "Martin L King Blvd to 55th St McKinley Ave to Avalon Blvd" ]
+, [ 558, "0B0FE9F3-98DF-46BA-B537-D9059B04F29B", 558, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P226 M", "8", "10:00 AM", "12:00 PM", "59th St to Florence Ave - Main St to Figueroa" ]
+, [ 559, "46BBFDCB-CEE8-44A4-9D07-441D3FA0F28A", 559, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P226 Tu", "8", "10:00 AM", "12:00 PM", "59th St to Florence Ave - Main St to Figueroa" ]
+, [ 560, "3A17F1F3-2CAD-4C08-A281-71CB7D37CB29", 560, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P227 M", "8", "8:00 AM", "10:00 AM", "Slauson Ave to 65th st- Avalon Bl to Olive St" ]
+, [ 561, "708CBD08-8841-49D0-A8C0-02467AA57F68", 561, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P227 Tu", "8", "8:00 AM", "10:00 AM", "Slauson Ave to 65th st- Avalon Bl to Olive St" ]
+, [ 562, "1053855B-7D48-44FF-9A3A-205FB2B2855E", 562, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P228 M", "8", "10:00 AM", "12:00 PM", "65th St to 77th St - Avalon Blvd to Main St" ]
+, [ 563, "5E34D5A7-B84E-4755-92C7-577433B250D2", 563, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P228 Tu", "8", "10:00 AM", "12:00 PM", "65th St to 77th St - Avalon Blvd to Main St" ]
+, [ 564, "DF583D60-1B9E-45C3-B675-CE1B666CCB2C", 564, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P229 M", "8", "8:00 AM", "10:00 AM", "Florence Ave to 79th St- Central Ave to Main St & Avalon Blvd" ]
+, [ 565, "2B8B941F-FCAB-4541-920A-5A1B8F5DC067", 565, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P229 Tu", "8", "8:00 AM", "10:00 AM", "Florence Ave to 79th St- Central Ave to Main St & Avalon Blvd" ]
+, [ 566, "F6BDBD43-9DFC-40C0-B8CA-42262DAFF757", 566, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P247 M", "9", "8:00 AM", "11:00 AM", "Vernon Ave to Slauson Ave- Figueroa St to Vermont Ave" ]
+, [ 567, "6377418F-A11D-44EF-BE6C-FBC74B5C4C83", 567, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P247 W", "9", "8:00 AM", "11:00 AM", "Vernon Ave to Saluson Ave - Figueroa St to Vermont Ave" ]
+, [ 568, "F8F77BA8-7FCE-4C9D-9198-369CF0136E75", 568, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P250 F", "9", "10:00 AM", "12:00 PM", "Main St to Avalon Blvd-Vernon Ave to 58th St" ]
+, [ 569, "ACCAA95A-6D80-491D-BBF5-10C3E5FD5217", 569, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P250 Th", "9", "10:00 AM", "12:00 PM", "Main St to Avalon Blvd-Vernon Ave to 58th St" ]
+, [ 570, "ACACFFAA-1943-49BC-B12F-242BCEA75881", 570, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P251 F", "9", "8:00 AM", "10:00 AM", "16th St to Jefferson Blvd-Main St to San Pedro St" ]
+, [ 571, "B3447160-C533-48E3-9A03-DEBD71F07F98", 571, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P251 Th", "9", "8:00 AM", "10:00 AM", "16th St to Jefferson Blvd-Main St to San Pedro St" ]
+, [ 572, "EC6EFB42-4BE8-4DC3-9D11-0B4D45B08B0B", 572, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P252 F", "9", "12:00 PM", "2:00 PM", "Jefferson Blvd to Vernon Ave-Main St to Avalon Blvd" ]
+, [ 573, "E8E6E8AC-1B2C-4292-84D8-396A8B206285", 573, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P252 Th", "9", "12:00 PM", "2:00 PM", "Jefferson Blvd to Vernon Ave-Main St to Avalon Blvd" ]
+, [ 574, "F777A13D-F7BF-4DD5-A3D3-01B9DA3AF694", 574, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P256 Tu", "8/9", "8:00 AM", "11:00 AM", "Santa Monica Fwy to Jefferson Blvd-Harbor Fwy to Vermont Ave" ]
+, [ 575, "40B1D774-46E9-410E-B76C-CBAB5F50EB85", 575, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P256 W", "8/9", "8:00 AM", "11:00 AM", "Santa Monica Fwy to Jefferson Blvd-Harbor Fwy to Vermont Ave" ]
+, [ 576, "D3323490-6F27-4847-80DE-F67F347D21D5", 576, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P273 F", "14", "10:00 AM", "12:00 PM", "Santa Ana Fwy to 8th St-Indiana St to Fickett St" ]
+, [ 577, "65AF4EE8-199F-4C0C-BBF9-0EFDA84357F9", 577, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P273 Th", "14", "10:00 AM", "12:00 PM", "Santa Ana Fwy to 8th St-Indiana St to Fickett St" ]
+, [ 578, "B97C5562-ACC0-4138-A105-5EC452A18815", 578, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P303 F", "9", "8:00 AM", "10:00 AM", "Martin L King Blvd to Slauson Ave - Grand Ave to Main St" ]
+, [ 579, "B34E58BF-47C1-4706-BDBD-C096A57F32BA", 579, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P303 Th", "9", "8:00 AM", "10:00 AM", "Martin L King Blvd to Slauson Ave - Grand Ave to Main St" ]
+, [ 580, "9A822F11-0F04-4AE9-A430-E0F21F990787", 580, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P304 F", "9", "8:00 AM", "10:00 AM", "21st St to 41st St - Long Beach Ave to Hooper Ave" ]
+, [ 581, "66D4DA3A-D769-4875-B6D6-E50137FFC0CB", 581, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P304 Th", "9", "8:00 AM", "10:00 AM", "21st St to 41st St - Long Beach Ave to Hooper Ave" ]
+, [ 582, "229BA860-D527-4CDB-A044-2D77AB12EB61", 582, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P305 F", "9", "10:00 AM", "12:00 PM", "41st St to 48th Pl - Long Beach Ave to Hooper Ave" ]
+, [ 583, "38D4A840-EE93-4853-AFCD-C4E791C94EF4", 583, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P305 Th", "9", "10:00 AM", "12:00 PM", "41st St to 48th Pl - Long Beach Ave to Hooper Ave" ]
+, [ 584, "7FE91C1C-02B0-407F-AC95-BE1E8FB9D821", 584, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P306 F", "9", "12:00 PM", "2:00 PM", "48th St to Slauson Ave-Long Beach Ave to Hooper Ave   McGarry St to Long Beach Ave-51st St to 55th St" ]
+, [ 585, "FD5A0B0B-F17F-4693-B438-A08EC078AB0C", 585, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P306 Th", "9", "12:00 PM", "2:00 PM", "48th St to Slauson Ave-Long Beach Ave to Hooper Ave   McGarry St to Long Beach Ave-51st St to 55th St" ]
+, [ 586, "52DE29E8-503D-492D-8848-0BB66AAFD719", 586, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P307 F", "9", "10:00 AM", "1:00 PM", "Washington Bl to Martin L King Bl-Central Ave to San Pedro St" ]
+, [ 587, "A2605674-B377-4168-913A-CA04CB5F9B23", 587, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P307 Th", "9", "10:00 AM", "1:00 PM", "Washington Bl to Martin L King Bl-Central Ave to San Pedro St" ]
+, [ 588, "66163BA1-D8EE-4B04-B3DB-6712189203C3", 588, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P308 M", "9", "11:00 AM", "2:00 PM", "Exposition Blvd to Vernon Ave-Harbor Fwy to Vermont Ave- Vernon Ave to Slauson Ave-Harbor Fwy to Figueroa St" ]
+, [ 589, "AB68E9F2-68F5-45C3-9C1B-C9CB169110BA", 589, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P308 W", "9", "11:00 AM", "2:00 PM", "Exposition Blvd to Vernon Ave-Harbor Fwy to Vermont Ave- Vernon Ave to Slauson Ave-Harbor Fwy to Figueroa St" ]
+, [ 590, "535F62C6-0E38-4202-B441-7BEAC7105D74", 590, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P309 M", "8", "10:00 AM", "12:00 PM", "Gage St to Florence Ave- Flower St to Vermont Ave" ]
+, [ 591, "EDB2782C-2E70-4070-8500-DC28F41BC3D4", 591, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P309 Tu", "8", "10:00 AM", "12:00 PM", "Gage St to Florence Ave- Flower St to Vermont Ave" ]
+, [ 592, "6A0F790C-8F4E-49AD-9716-EE21C6CAA2DF", 592, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P311 M", "9", "12:00 PM", "2:00 PM", "52nd St to Slauson Ave-Alameda St to Long Beach Ave" ]
+, [ 593, "E5CE4F7F-41F3-4326-81BE-814663F8B055", 593, 1401316308, "881741", 1401316308, "881741", "{\n}", "3P311 Tu", "9", "12:00 PM", "2:00 PM", "52nd St to Slauson Ave-Alameda St to Long Beach Ave" ]
+, [ 594, "A7263F9E-2B64-4AAF-A24A-977ECB8550E2", 594, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P108 M", "13", "8:00 AM", "11:00 AM", "Hoover st to Shatto Pl- 1st to 6th st" ]
+, [ 595, "D62770D3-0EBF-47DB-B749-D43A184FCC99", 595, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P108 Tu", "13", "8:00 AM", "11:00 AM", "Hoover st to Shatto Pl- 1st to 6th st" ]
+, [ 596, "2FB27A38-EEEF-4A2C-8CA9-3A11B822688E", 596, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P109 M", "13", "8:00 AM", "11:00 AM", "Virgil Ave to Vermont - Oakwood Ave to 3rd st" ]
+, [ 597, "CCEB6322-979D-4882-B43A-36BDC982CC05", 597, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P109 Tu", "13", "8:00 AM", "11:00 AM", "Virgil Ave to Vermont - Oakwood Ave to 3rd st" ]
+, [ 598, "12B168E0-DD74-404B-BE91-0B1157C1DB64", 598, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P122 F", "1", "12:00 PM", "3:00 PM", "Lake St to LaFayette Park Pl - 6th st to Olympic Bl" ]
+, [ 599, "543A2AAD-4FED-412C-9BE9-6335302FB8E2", 599, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P122 Th", "1", "12:00 PM", "3:00 PM", "Lake St to LaFayette Park Pl - 6th st to Olympic Bl" ]
+, [ 600, "C102B862-58C5-45F8-8BE8-91D994B32F5A", 600, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P123 F", "1/10", "12:00 PM", "2:00 PM", "6th st to Olympic Bl- Hoover St to Vermont Ave" ]
+, [ 601, "A0CEEBAD-ACB7-4C1E-8221-7F18BD33277A", 601, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P123 Th", "1/10", "12:00 PM", "2:00 PM", "6th st to Olympic Bl- Hoover St to Vermont Ave" ]
+, [ 602, "E4908CFE-C9CE-44CA-AC06-16F330CED5A9", 602, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P130 F", "1", "10:00 AM", "12:00 PM", "Olympic Bl to Pico Bl- Alvarado st to Vermont Ave" ]
+, [ 603, "08C28226-B5DA-4B69-9DD0-3760294D9501", 603, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P130 Th", "1", "10:00 AM", "12:00 PM", "Olympic Bl to Pico Bl- Alvarado st to Vermont Ave" ]
+, [ 604, "11D9F303-1C5D-4E1F-89A7-437EDF91839B", 604, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P131 Tu", "14", "10:00 AM", "12:00 PM", "Cesar Chavez Ave to 6th st- Mott St to Cummings St" ]
+, [ 605, "6840A65A-0D69-452E-8F94-AA54AF852A7C", 605, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P131 W", "14", "10:00 AM", "12:00 PM", "Cesar Chavez Ave to 6th st- Mott St to Cummings St" ]
+, [ 606, "AFB080F8-DFEB-4DA9-B99B-530261A8F179", 606, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P132 F", "14", "8:00 AM", "11:00 AM", "4th st to Santa Ana Fwy- Euclid St to Boyle Ave" ]
+, [ 607, "5ED078B8-977F-4DAC-BC7F-5F4729910E13", 607, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P132 Th", "14", "8:00 AM", "11:00 AM", "4th st to Santa Ana Fwy- Euclid St to Boyle Ave" ]
+, [ 608, "C39C6AD9-9098-4628-9149-CC2A6013C7CC", 608, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P166 F", "1/9", "10:00 AM", "12:00 PM", "Olympic Bl to Pico Bl- Georgia St to Alvarado St" ]
+, [ 609, "835DF072-0D50-475D-BCBF-C8E971C30C77", 609, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P166 Th", "1/9", "10:00 AM", "12:00 PM", "Olympic Bl to Pico Bl- Georgia St to Alvarado St" ]
+, [ 610, "8821F8F7-316C-4C5F-806C-328D50DBAAE3", 610, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P167 F", "1/9", "8:00 AM", "10:00 AM", "Pico Bl to Santa Monica Fwy- Bonnie Brae to Vermont Ave" ]
+, [ 611, "9B6DAAFA-65BE-458F-9D0E-4B1E5B06B62A", 611, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P167 Th", "1/9", "8:00 AM", "10:00 AM", "Pico Bl to Santa Monica Fwy- Bonnie Brae to Vermont Ave" ]
+, [ 612, "96FEB32B-2652-4C78-BF80-11322E24C223", 612, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P168 F", "1", "8:00 AM", "10:00 AM", "Pico Bl to Santa Monica fwy- Harbor Fwy to Hoover St" ]
+, [ 613, "5FF092D6-38A5-4052-AC6B-3AC1768C9EE8", 613, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P168 Th", "1", "8:00 AM", "10:00 AM", "Pico Bl to Santa Monica fwy- Harbor Fwy to Hoover St" ]
+, [ 614, "D4180B33-6242-484E-BAE3-3BDC9C818547", 614, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P178 M", "13", "12:00 PM", "3:00 PM", "Beverly Bl to 3rd St- Loma Dr to Alvarado St" ]
+, [ 615, "9A82C467-6E52-447D-A6CB-0B583086A8FB", 615, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P178 Tu", "13", "12:00 PM", "3:00 PM", "Beverly Bl to 3rd St- Loma Dr to Alvarado St" ]
+, [ 616, "29ECAEAF-230B-4FE0-B9E7-BA62E9B5B74D", 616, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P179 M", "13", "8:00 AM", "11:00 AM", "Ross Loos Pl to Beverly Bl - Union Ave to Alvarado st" ]
+, [ 617, "4001DB6D-C5C9-4DD9-8A17-57459F8F0786", 617, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P179 Tu", "13", "8:00 AM", "11:00 AM", "Ross Loos Pl to Beverly Bl - Union Ave to Alvarado st" ]
+, [ 618, "FFA2F233-CBA4-4056-A174-7A6176C73AEB", 618, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P180 M", "1", "12:00 PM", "3:00 PM", "3rd St to 6th st- Loma Dr toAlvarado St" ]
+, [ 619, "87A2913D-76B9-490B-BB94-A672657E3A0D", 619, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P180 Tu", "1", "12:00 PM", "3:00 PM", "3rd St to 6th st- Loma Dr toAlvarado St" ]
+, [ 620, "DD7DA9D8-0303-4D0B-B0D1-5728CEB85994", 620, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P181 M", "13", "8:00 AM", "11:00 AM", "Palo Alto St to Beverly Bl- Glendale Bl to Union Ave" ]
+, [ 621, "351EF5E7-55C7-4C35-BCBE-D94D1ADFBD60", 621, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P181 Tu", "13", "8:00 AM", "11:00 AM", "Palo Alto St to Beverly Bl- Glendale Bl to Union Ave" ]
+, [ 622, "3302CB1E-ADDF-4796-A1E1-3AA2A0DEA240", 622, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P182 M", "13", "10:00 AM", "1:00 PM", "Temple St to 3rd St- Alvarado Bl to Rampart Bl" ]
+, [ 623, "1EC41BE7-337D-4255-AE0E-6755D4A05007", 623, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P182 Tu", "13", "10:00 AM", "1:00 PM", "Temple St to 3rd St- Alvarado Bl to Rampart Bl" ]
+, [ 624, "EC9C220A-0D52-4B3F-92E3-0D9766D28963", 624, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P183 F", "1", "12:00 PM", "3:00 PM", "6th st to 7th st -Harbor Fwy to Alvarado St" ]
+, [ 625, "29CF5760-581C-47D6-9816-4ADEBAB07428", 625, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P183 Th", "1", "12:00 PM", "3:00 PM", "6th st to 7th st -Harbor Fwy to Alvarado St" ]
+, [ 626, "046A172F-BDC7-406B-961F-22119FC194C5", 626, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P184 F", "1", "12:00 PM", "3:00 PM", "7th st to Olympic Bl- Harbor Fwy to to Alvarado St" ]
+, [ 627, "280F4B85-2690-41C4-B98B-722C69B59FEF", 627, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P184 Th", "1", "12:00 PM", "3:00 PM", "7th st to Olympic Bl- Harbor Fwy to to Alvarado St" ]
+, [ 628, "E68C489F-E4DF-441A-99D6-20D1732CB9AB", 628, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P185 M", "1/13", "12:00 PM", "3:00 PM", "Beverly Bl to 6th st- Lake st to Dillon St" ]
+, [ 629, "5ABD4AF6-1EAC-434B-AFB3-CF04F450BF1D", 629, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P185 Tu", "1/13", "12:00 PM", "3:00 PM", "Beverly Bl to 6th st- Lake st to Dillon St" ]
+, [ 630, "8EE8CE53-8762-4A4A-B40A-422A8BB8BEB1", 630, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P186 M", "13", "10:00 AM", "1:00 PM", "Temple St to 3rd St- Alvarado St to Rampart Bl" ]
+, [ 631, "18ACD88A-EE9C-4781-AB7F-3086767C43C8", 631, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P186 Tu", "13", "10:00 AM", "1:00 PM", "Temple St to 3rd St- Alvarado St to Rampart Bl" ]
+, [ 632, "7C392AB3-3B0A-44A9-BB00-6F2EA38A75BA", 632, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P209 M", "1", "8:00 AM", "11:00 AM", "Hollywood Fwy to 2nd St- Harbor Fwy to Glendale Bl" ]
+, [ 633, "6352FC49-EFBE-467D-A977-BB175956A221", 633, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P209 Tu", "1", "8:00 AM", "11:00 AM", "Hollywood Fwy to 2nd St- Harbor Fwy to Glendale Bl" ]
+, [ 634, "8B8AC5CF-90C3-4156-B450-B373D91DA573", 634, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P210 F", "14", "12:00 PM", "3:00 PM", "4th st to Santa Ana Fwy- Mott St to Lorena St" ]
+, [ 635, "A276F379-E62A-4042-AA4B-49FA9A947267", 635, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P210 Th", "14", "12:00 PM", "3:00 PM", "4th st to Santa Ana Fwy- Mott St to Lorena St" ]
+, [ 636, "20B86219-69B9-4353-B5F3-D8EB3DA6D0B3", 636, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P214 M", "1/13", "10:00 AM", "1:00 PM", "Beverly Bl to 6th St- Loma Dr to Beaudry Ave" ]
+, [ 637, "9408BB78-A2A8-45C1-9C87-5CA90900ACBF", 637, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P214 Tu", "1/13", "10:00 AM", "1:00 PM", "Beverly Bl to 6th St- Loma Dr to Beaudry Ave" ]
+, [ 638, "4C754ED3-E96E-41B5-9307-1704D3879B54", 638, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P220 Tu", "14", "12:00 PM", "3:00 PM", "Cesar Chavez Ave to 6th St- Golden State Fwy to Anderson St" ]
+, [ 639, "3F17CDFB-417C-42F1-B198-77E5256ECF2C", 639, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P220 W", "14", "12:00 PM", "3:00 PM", "Cesar Chavez Ave to 6th St- Golden State Fwy to Anderson St" ]
+, [ 640, "817A6E25-0DB3-4098-90C7-29BB5C7E7B01", 640, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P221 Tu", "14", "8:00 AM", "10:00 AM", "Indiana St to Mott St- Ceasar S Chavez Bl to 6th st" ]
+, [ 641, "80F6CF84-744D-456D-B51E-66479C12FDA4", 641, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P221 W", "14", "8:00 AM", "10:00 AM", "Indiana St to Mott St- Ceasar S Chavez Bl to 6th st" ]
+, [ 642, "2D14C867-5FCA-404D-AAF9-DAA94F219769", 642, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P224 F", "14", "9:00 AM", "12:00 PM", "4th St to Santa Ana fwy- Indiana St to Lorean St" ]
+, [ 643, "0D23F8F6-388C-4A6A-863C-445BA271AA3B", 643, 1401316308, "881741", 1401316308, "881741", "{\n}", "4P224 Th", "14", "9:00 AM", "12:00 PM", "4th St to Santa Ana fwy- Indiana St to Lorean St" ]
+, [ 644, "385C843E-D414-40C1-BB7D-955D9FDAB342", 644, 1401316308, "881741", 1401316308, "881741", "{\n}", "5NP296 F", "1/14", "4:00 AM", "6:30 AM", "Pasadena Fwy to N.Main / Pasadena Av to Sunset Bl" ]
+, [ 645, "38CF6BF0-1E82-487B-A284-2E11F1439DAD", 645, 1401316308, "881741", 1401316308, "881741", "{\n}", "5NP296 Th", "1/14", "4:00 AM", "6:30 AM", "Pasadena Fwy to N.Main / Pasadena Av to Sunset Bl" ]
+, [ 646, "130ABF34-EB08-4A51-9139-9546493A7200", 646, 1401316308, "881741", 1401316308, "881741", "{\n}", "5NP317 Tu", "1", "4:00 AM", "6:30 AM", "Pasadena Fwy to Pasadena Av / Pasadena Av to Golden State Fwy" ]
+, [ 647, "4706A0D8-7948-4AEE-A837-C1E32D335F1C", 647, 1401316308, "881741", 1401316308, "881741", "{\n}", "5NP317 W", "1", "4:00 AM", "6:30 AM", "Pasadena Fwy to Pasadena Av / Pasadena Av to Golden State Fwy" ]
+, [ 648, "5853B3A9-E884-4EA5-9DF1-A04265F6F783", 648, 1401316308, "881741", 1401316308, "881741", "{\n}", "5NP401 F", "14", "4:00 AM", "6:30 AM", "East Lake Av, Alcaraz St to Marengo St / Soto St to Mission Rd, Narva St" ]
+, [ 649, "E3ADEC64-0FD4-4DE7-B24B-AD860B41875F", 649, 1401316308, "881741", 1401316308, "881741", "{\n}", "5NP401 Th", "14", "4:00 AM", "6:30 AM", "East Lake Av, Alcaraz St to Marengo St / Soto St to Mission Rd, Narva St" ]
+, [ 650, "FF139E77-BFAC-463F-A285-711351AB7AA9", 650, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P100 F", "14", "8:00 AM", "10:00 AM", "Yoakum St to Huntington Dr / Tampico to Collis Avs" ]
+, [ 651, "EBC83902-CCEE-4C95-A0CD-6D9DF21185C8", 651, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P100 Th", "14", "8:00 AM", "10:00 AM", "Yoakum St to Huntington Dr / Tampico to Collis Avs" ]
+, [ 652, "3B660108-88F7-4147-A420-AB58642129F7", 652, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P101 F", "14", "10:00 AM", "12:00 PM", "Huntington Dr South to Templeton St / Los Angeles City Line to Eastern Av" ]
+, [ 653, "02485C21-1A3C-4079-97A9-112F4BF348F5", 653, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P101 Th", "14", "10:00 AM", "12:00 PM", "Huntington Dr South to Templeton St / Los Angeles City Line to Eastern Av" ]
+, [ 654, "8A166EEC-63AE-43BA-9213-CB049D9EC1C5", 654, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P102 F", "14", "12:00 PM", "2:00 PM", "Templeton St to Alhambra Av / Los Angeles City Line to Far Place" ]
+, [ 655, "45F84529-A4EF-4AB6-B84B-D68F34DC37CA", 655, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P102 Th", "14", "12:00 PM", "2:00 PM", "Templeton St to Alhambra Av / Los Angeles City Line to Far Place" ]
+, [ 656, "824757F3-186C-4234-9CD4-472AFE041E7B", 656, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P179 Tu", "14", "7:30 AM", "9:00 AM", "Main to Clara Sts / Leroy to Elmyra/Avilla Sts" ]
+, [ 657, "E299D5D6-7DBC-4A33-BCC8-5E2E14B38210", 657, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P179 W", "14", "7:30 AM", "9:00 AM", "Main to Clara Sts / Leroy to Elmyra/Avilla Sts" ]
+, [ 658, "90685E49-C4B0-438D-8DE4-7A36960AAA1F", 658, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P180 Tu", "14", "8:00 AM", "10:00 AM", "Wabash Av to Ceasar Chavez Ave /Soto st to Evergreen Ave" ]
+, [ 659, "CEBE5069-63AC-4650-B13C-DC10121A9CD9", 659, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P180 W", "14", "8:00 AM", "10:00 AM", "Wabash Av to Ceasar Chavez Ave /Soto st to Evergreen Ave" ]
+, [ 660, "67EDD899-864F-464C-8C44-3CC62C139008", 660, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P181 Tu", "14", "9:00 AM", "11:00 AM", "Wabash Ave /Malabar st to Cesar Chavez/Indianan st to Soto st" ]
+, [ 661, "01A11EA2-7AEC-4088-BAF5-A7C65B74A5EB", 661, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P181 W", "14", "9:00 AM", "11:00 AM", "Wabash Ave /Malabar st to Cesar Chavez/Indianan st to Soto st" ]
+, [ 662, "1D576BCB-DA03-49BF-AE6E-8B08DE24240D", 662, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P220 F", "1/14", "10:00 AM", "12:00 PM", "Sunset Bl to Bellevue Av/ Beaudry Av to Glendale Av" ]
+, [ 663, "7D224E57-52FF-400D-8B8A-12FDAACBB5B5", 663, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P220 Th", "1/14", "10:00 AM", "12:00 PM", "Sunset Bl to Bellevue Av/ Beaudry Av to Glendale Av" ]
+, [ 664, "0277F7BA-B98C-42CB-A877-EC7294541A48", 664, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P221 F", "1/14", "9:00 AM", "11:00 AM", "Elysian Park ave to 101 fwy/Sunset Bl to Figueroa st / Figueroa terr" ]
+, [ 665, "79B0FAE4-EC00-4837-ACF5-A5C5D56D73AF", 665, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P221 Th", "1/14", "9:00 AM", "11:00 AM", "Elysian Park ave to 101 fwy/Sunset Bl to Figueroa st / Figueroa terr" ]
+, [ 666, "8C47BC04-CC0D-490F-BCB9-E5914AEB909E", 666, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P222 F", "1", "10:00 AM", "12:00 PM", "Figueroa St/Figueroa Terr to N Broadway/Boston St  to Salano av" ]
+, [ 667, "3D86AE27-1EA8-4FAA-AD98-81641B045039", 667, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P222 Th", "1", "10:00 AM", "12:00 PM", "Figueroa St/Figueroa Terr to N Broadway/Boston St  to Salano av" ]
+, [ 668, "4642C5D4-9819-49A9-A8A5-D1A840BCB60B", 668, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P223 F", "13", "8:00 AM", "10:00 AM", "Altivo way to sunset Bl- douglas st to glendale Bl" ]
+, [ 669, "26264166-F79B-40CE-923C-D9B3CC0B508B", 669, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P223 Th", "13", "8:00 AM", "10:00 AM", "Altivo way to sunset Bl- douglas st to glendale Bl" ]
+, [ 670, "8035A7B6-2C69-48CD-B0C2-DE09139AD7CB", 670, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P253 Tu", "1", "10:00 AM", "12:00 PM", "N Broadway to Main St/ Mission rd to Golden State Fwy" ]
+, [ 671, "3BDA7D5F-AC30-4AA7-9134-8707092F2243", 671, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P253 W", "1", "10:00 AM", "12:00 PM", "N Broadway to Main St/ Mission rd to Golden State Fwy" ]
+, [ 672, "318FEA83-8BC1-4B7A-9F84-2FD600E8F92D", 672, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P254 F", "13", "12:00 PM", "2:00 PM", "Newell St to Barclay st/Los Angeles River to Golden State fwy" ]
+, [ 673, "6F642A3A-D045-4B49-99B7-11FE2E8808BB", 673, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P254 Th", "13", "12:00 PM", "2:00 PM", "Newell St to Barclay st/Los Angeles River to Golden State fwy" ]
+, [ 674, "4065AC4E-76CE-49DE-A291-E672ADCD1F1E", 674, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P255 Tu", "14", "11:30 AM", "1:30 pm", "San Bernadino Fwy to Malabar st- LA County Line to Soto st" ]
+, [ 675, "FBD142E3-ADD5-4440-B2C7-D6F4E2DA2681", 675, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P255 W", "14", "11:30 AM", "1:30 pm", "San Bernadino Fwy to Malabar st- LA County Line to Soto st" ]
+, [ 676, "F3A681C6-E3D2-47F7-8FD5-CD81C8C52E62", 676, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P257 Tu", "1", "8:00 AM", "10:00 AM", "Montecito Dr to N Broadway- Griffin Av to Pasadena Ave" ]
+, [ 677, "B81B08FA-C454-48AB-8E59-DC257B56E54F", 677, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P257 W", "1", "8:00 AM", "10:00 AM", "Montecito Dr to N Broadway- Griffin Av to Pasadena Ave" ]
+, [ 678, "D0F56BDA-384D-4C1F-BF81-D665EC284E63", 678, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P259 Tu", "14", "12:30 PM", "2:30 PM", "Marengo St to Cesar Chavez- Soto St to Mission Rd" ]
+, [ 679, "5D231532-2776-46CD-9C43-C1E3121E81D9", 679, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P259 W", "14", "12:30 PM", "2:30 PM", "Marengo St to Cesar Chavez- Soto St to Mission Rd" ]
+, [ 680, "4D2A1092-F4E9-42E7-B64D-80346DF9E95F", 680, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P311 Tu", "14", "7:30 AM", "10:30 AM", "Main st to Marengo St- Indiana St to Golden State Fwy" ]
+, [ 681, "ED17B3A4-7801-4D0F-BACA-005B40A985AC", 681, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P311 W", "14", "7:30 AM", "10:30 AM", "Main st to Marengo St- Indiana St to Golden State Fwy" ]
+, [ 682, "D48A4728-F2D6-4778-A8D5-FCCC1BF29437", 682, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P312 Tu", "14", "10:00 AM", "12:00 PM", "Valley Blvd to Bohlig rd-Highburg av to Lansdowne Ave" ]
+, [ 683, "BAD074F5-B13D-4A91-BF49-814D4F817530", 683, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P312 W", "14", "10:00 AM", "12:00 PM", "Valley Blvd to Bohlig rd-Highburg av to Lansdowne Ave" ]
+, [ 684, "42D6D0DB-78F7-4CB1-B729-CD853300835B", 684, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P315 Tu", "1", "12:30 PM", "2:30 PM", "Roberta st to Broadway-sierra St to Griffin ave" ]
+, [ 685, "D51423BC-87CF-42C8-93E2-3F949A808E50", 685, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P315 W", "1", "12:30 PM", "2:30 PM", "Roberta st to Broadway-sierra St to Griffin ave" ]
+, [ 686, "7DAF5D8D-B773-4303-AF8C-1540DCA4D4C2", 686, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P316 F", "13", "11:30 AM", "1:30 PM", "Glendale Fwy to Newell st- Los angeles River to Golden State fwy" ]
+, [ 687, "8E6F7952-DDDF-4A1E-8E5A-921227FCA24A", 687, 1401316308, "881741", 1401316308, "881741", "{\n}", "5P316 Th", "13", "11:30 AM", "1:30 PM", "Glendale Fwy to Newell st- Los angeles River to Golden State fwy" ]
+, [ 688, "CC6A1E72-4A5D-42D1-A69E-FA31F518979F", 688, 1401316308, "881741", 1401316308, "881741", "{\n}", "6NP184 F", "1/14", "4:00 AM", "6:30 AM", "York Bl to Pasedana fwy-Figueroa St to Avenue 50" ]
+, [ 689, "8C6A759D-13D7-46A8-849A-A46456DDEB0C", 689, 1401316308, "881741", 1401316308, "881741", "{\n}", "6NP184 W", "1/14", "4:00 AM", "6:30 AM", "York Bl to Pasedana fwy-Figueroa St to Avenue 50" ]
+, [ 690, "AF1C706B-4EE5-43D4-8FBB-B5DA2A6665DC", 690, 1401316308, "881741", 1401316308, "881741", "{\n}", "6P168 Th", "14", "12:00 PM", "2:00 PM", "Meridian st to Roble Ave-Avenue 66 to Figueroa St" ]
+, [ 691, "4FEF49E2-A008-46C5-A58D-B657DD84474B", 691, 1401316308, "881741", 1401316308, "881741", "{\n}", "6P168 W", "14", "12:00 PM", "2:00 PM", "Meridian st to Roble Ave-Avenue 66 to Figueroa St" ]
+, [ 692, "BD7EAFB4-2B96-4DF3-9169-2841A652C710", 692, 1401316308, "881741", 1401316308, "881741", "{\n}", "6P169 Th", "1", "7:30 AM", "9:30 AM", "Figueroa St to Pasadena Fwy- Avenue 44 to Avenue 37" ]
+, [ 693, "CD61DE7C-376E-4CEE-A7F6-A7A60014D512", 693, 1401316308, "881741", 1401316308, "881741", "{\n}", "6P169 W", "1", "7:30 AM", "9:30 AM", "Figueroa St to Pasadena Fwy- Avenue 44 to Avenue 37" ]
+, [ 694, "A66BC6D4-1169-42FC-B2E6-2B4575947824", 694, 1401316308, "881741", 1401316308, "881741", "{\n}", "6P170 Th", "1", "8:00 AM", "10:00 AM", "Isabel St to Cypress Ave- Pasadena Ave to Cazador st" ]
+, [ 695, "DAE5C8F1-8360-4B1E-B8C7-F48866346FC6", 695, 1401316308, "881741", 1401316308, "881741", "{\n}", "6P170 W", "1", "8:00 AM", "10:00 AM", "Isabel St to Cypress Ave- Pasadena Ave to Cazador st" ]
+, [ 696, "1C0DBAB8-BCC3-4058-9BF6-D38487CB6E18", 696, 1401316308, "881741", 1401316308, "881741", "{\n}", "6P171 Th", "1", "9:00 AM", "11:00 AM", "Cypress Ave to San Fernando rd- Figueroa to Division St" ]
+, [ 697, "99504DCE-8C72-482D-85AF-139355D9F9BD", 697, 1401316308, "881741", 1401316308, "881741", "{\n}", "6P171 W", "1", "9:00 AM", "11:00 AM", "Cypress Ave to San Fernando rd- Figueroa to Division St" ]
+, [ 698, "B76A3CC4-0613-4BBF-A0DB-D86F089E2738", 698, 1401316308, "881741", 1401316308, "881741", "{\n}", "6P258 Th", "1/14", "8:00 AM", "10:00 AM", "Stradford Rd to Buchanan St- Avenue 54 to Eagle Rock Bl" ]
+, [ 699, "39400CCF-E1C2-40E5-804B-9F095BFF3C62", 699, 1401316308, "881741", 1401316308, "881741", "{\n}", "6P258 W", "1/14", "8:00 AM", "10:00 AM", "Stradford Rd to Buchanan St- Avenue 54 to Eagle Rock Bl" ]
+, [ 700, "E4219EA0-3E87-48F1-9578-FCAEA9165017", 700, 1401316308, "881741", 1401316308, "881741", "{\n}", "6P259 Th", "1", "9:00 AM", "11:00 AM", "Meridian St to Aldama St- Figueroa to Avenue 54" ]
+, [ 701, "A3E0FB36-F12B-4099-942D-76C28E952DB4", 701, 1401316308, "881741", 1401316308, "881741", "{\n}", "6P259 W", "1", "9:00 AM", "11:00 AM", "Meridian St to Aldama St- Figueroa to Avenue 54" ]
+, [ 702, "3969B316-E097-4118-8369-9B469D6E3B5F", 702, 1401316308, "881741", 1401316308, "881741", "{\n}", "6P313 Th", "1", "12:00 PM", "2:00 PM", "Chapman St to Marguerite St- Avenue 36 to Avenue 32" ]
+, [ 703, "5CDF854C-8285-4E98-88B5-D7DB804FE6AE", 703, 1401316308, "881741", 1401316308, "881741", "{\n}", "6P313 W", "1", "12:00 PM", "2:00 PM", "Chapman St to Marguerite St- Avenue 36 to Avenue 32" ]
+, [ 704, "4F1013D0-5C17-4EC8-B0BA-D236FFF49510", 704, 1401316308, "881741", 1401316308, "881741", "{\n}", "6P314 Th", "1/14", "11:00 AM", "1:00 PM", "Colorado Bl to Yosemite Dr-Townsend Ave to Eagle Rock Bl" ]
+, [ 705, "50E3FBB1-DDA1-48B6-9819-D7ED93DBFA74", 705, 1401316308, "881741", 1401316308, "881741", "{\n}", "6P314 W", "1/14", "11:00 AM", "1:00 PM", "Colorado Bl to Yosemite Dr-Townsend Ave to Eagle Rock Bl" ]
+, [ 706, "63773AEE-DD79-4332-9F7D-129F89801F96", 706, 1401316308, "881741", 1401316308, "881741", "{\n}", "6P352 Th", "14", "11:00 AM", "1:00 PM", "Marmion Wy to Bertha St- Pasadena Fwy to Figueroa St" ]
+, [ 707, "D15E9930-DA7E-4ECC-BEB3-9F0C95E24947", 707, 1401316308, "881741", 1401316308, "881741", "{\n}", "6P352 W", "14", "11:00 AM", "1:00 PM", "Marmion Wy to Bertha St- Pasadena Fwy to Figueroa St" ]
+, [ 708, "D2FDD280-79D3-4B8B-9CDF-B48BF22B3732", 708, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P109 F", "13", "10:00 AM", "12:00 PM", "Franklin to Fountain / Nornmandie to Wilton pl," ]
+, [ 709, "BD6A2A1F-32D3-4B49-B928-B673666B7D9D", 709, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P109 W", "13", "10:00 AM", "12:00 PM", "Franklin to Fountain / Nornmandie to Wilton pl," ]
+, [ 710, "7765B178-6DA6-4A9F-A171-7F91D1D83BEE", 710, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P112 F", "4/13", "12:00 PM", "3:00 PM", "Franklin to Fountain / Hillhurst to Nornmandie av" ]
+, [ 711, "8F126E1B-454E-4BA4-9700-3D6963151DB5", 711, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P112 W", "4/13", "12:00 PM", "3:00 PM", "Franklin to Fountain / Hillhurst to Nornmandie av" ]
+, [ 712, "97280A8B-E73C-47AB-92BD-A58B9AD39B63", 712, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P113 F", "4", "7:30 AM", "9:30 AM", "Vermont av to Hillhurst av,/Russell av. To Prospect av" ]
+, [ 713, "98EC32FF-2942-4C73-8989-A0708356C927", 713, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P113 W", "4", "7:30 AM", "9:30 AM", "Vermont av to Hillhurst av,/Russell av. To Prospect av" ]
+, [ 714, "818DDE3D-8A60-4F66-BB34-24D6A193B108", 714, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P211 F", "13", "11:00 AM", "2:00 PM", "Santa Monica bl. To Hollywood fwy / Hoover st. to Vermont av." ]
+, [ 715, "664C3B5D-3B28-41BD-BD30-42D5828D92FA", 715, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P211 W", "13", "11:00 AM", "2:00 PM", "Santa Monica bl. To Hollywood fwy / Hoover st. to Vermont av." ]
+, [ 716, "F41C6992-F1F1-45C5-9113-58F16608E9D3", 716, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P212 F", "13", "8:00 AM", "10:00 AM", "Fountain av. to Santa Monica bl./ Vermont to  Hollywood fwy" ]
+, [ 717, "E2B6C0DA-E653-4642-8035-804321747F11", 717, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P212 W", "13", "8:00 AM", "10:00 AM", "Fountain av. to Santa Monica bl./ Vermont to  Hollywood fwy" ]
+, [ 718, "6EB26B8E-66FA-4944-8854-5C122B93FC9F", 718, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P213 F", "13", "11:00 AM", "2:00 PM", "Santa Monica bl.to Hollywood fwy / Vermont av. To Hollywood fwy" ]
+, [ 719, "5333F959-7C64-4885-BF91-A0A5F5A00346", 719, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P213 W", "13", "11:00 AM", "2:00 PM", "Santa Monica bl.to Hollywood fwy / Vermont av. To Hollywood fwy" ]
+, [ 720, "61ED8AE3-0207-43CC-99E0-A9188DEADD53", 720, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P259 F", "13", "12:00 PM", "2:00 PM", "Maltman av./Lucile av. To Silverlake bl /  Hoover st. to Sunset bl." ]
+, [ 721, "DEDE8867-656C-4E6D-BFC1-2D5B959714D1", 721, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P259 Th", "13", "12:00 PM", "2:00 PM", "Maltman av./Lucile av. To Silverlake bl /  Hoover st. to Sunset bl." ]
+, [ 722, "513248C6-281C-4ECB-95AF-CC9BF7E9F4FB", 722, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P260 F", "13", "8:00 AM", "10:00 AM", "Sunset bl.to Hollywood fwy /  Coronado st to Silverlake bl." ]
+, [ 723, "75FC04AE-3D0C-4F27-A454-310E91029E6C", 723, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P260 Th", "13", "8:00 AM", "10:00 AM", "Sunset bl.to Hollywood fwy /  Coronado st to Silverlake bl." ]
+, [ 724, "BBD94A69-452D-45A2-B501-B6D581EFB722", 724, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P261 F", "4/13", "8:00 AM", "11:00 AM", "Commonwealth av. To Western av. /  Los Feliz bl. To Franklin av." ]
+, [ 725, "E425F78F-B50E-4A6A-971D-0C12B022C155", 725, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P261 W", "4/13", "8:00 AM", "11:00 AM", "Commonwealth av. To Western av. /  Los Feliz bl. To Franklin av." ]
+, [ 726, "285F3E35-76EB-400A-A2BB-A2CAB5A5CE73", 726, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P262 F", "13", "12:00 PM", "2:00 PM", "Fountain av.to Maltman av /Lucile av.  /  Sunet bl./Griffith park bl. To Hoover st" ]
+, [ 727, "A01EBCD1-7604-47AD-9C7A-C98F0F3B491B", 727, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P262 W", "13", "12:00 PM", "2:00 PM", "Fountain av.to Maltman av /Lucile av.  /  Sunet bl./Griffith park bl. To Hoover st" ]
+, [ 728, "44B32249-D375-4E03-BF70-1329BC3FEB43", 728, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P265 F", "13", "10:00 AM", "12:00 PM", "Sunset bl. To Hollywood fwy / Coronado to Glendale bl." ]
+, [ 729, "475B5A2B-DDFF-4DC9-93A1-9AFAE8D27454", 729, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P265 Th", "13", "10:00 AM", "12:00 PM", "Sunset bl. To Hollywood fwy / Coronado to Glendale bl." ]
+, [ 730, "295C6630-4D61-4152-B8A9-DC4901056158", 730, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P300 M", "4", "10:00 AM", "12:00 PM", "Westshire dr. to Franklin ave. / Beachwood dr. to Carmen av." ]
+, [ 731, "F426735B-697E-4840-86B7-EAC80C246FA1", 731, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P300 Tu", "4", "10:00 AM", "12:00 PM", "Westshire dr. to Franklin ave. / Beachwood dr. to Carmen av." ]
+, [ 732, "9AC43FBE-CE9B-44C0-9787-E3FBD17A18FA", 732, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P321 F", "13", "8:00 AM", "11:00 AM", "Goodwin av. To Glendale bl. /  Glendale bl. Griffith Park bl." ]
+, [ 733, "0CCE1C3D-8994-4FAE-B6C8-B5F38D5F4163", 733, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P321 W", "13", "8:00 AM", "11:00 AM", "Goodwin av. To Glendale bl. /  Glendale bl. Griffith Park bl." ]
+, [ 734, "1DB153A7-1715-4777-8DD0-BCBBD780D950", 734, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P322 F", "4", "12:00 PM", "3:00 PM", "Los Feliz bl. To Franklin av. / St. George st. / Griffith park bl.to  Commonwealth av." ]
+, [ 735, "7F87FFC9-676E-4DAA-94D9-586861E685D5", 735, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P322 W", "4", "12:00 PM", "3:00 PM", "Los Feliz bl. To Franklin av. / St. George st. / Griffith park bl.to  Commonwealth av." ]
+, [ 736, "755D7399-D480-486A-842B-EEB8766D9402", 736, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P323 F", "13", "8:00 AM", "10:00 AM", "Glendale bl. To Silverlake bl/ / Glendale cityline to L A River" ]
+, [ 737, "85DB9000-C22F-4B50-A77E-9F2D848D6ACD", 737, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P323 Th", "13", "8:00 AM", "10:00 AM", "Glendale bl. To Silverlake bl/ / Glendale cityline to L A River" ]
+, [ 738, "2EE8070B-E65A-454E-99AF-63F92CC1D98A", 738, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P325 M", "4/13", "8:00 AM", "10:00 AM", "Winans dr. to Harold way /  Western ave to Cahuenga bl." ]
+, [ 739, "6657AA6A-0AA3-4131-B75D-A3BE18619798", 739, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P325 Tu", "4/13", "8:00 AM", "10:00 AM", "Winans dr. to Harold way /  Western ave to Cahuenga bl." ]
+, [ 740, "51FC2744-A36A-42C9-9284-38FD5AD27255", 740, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P326 F", "13", "10:00 AM", "12:00 PM", "Hollywood bl. & Sunset bl. To Santa Monica /  Hoover st to Vermont av." ]
+, [ 741, "258D825F-452B-4BA4-ADDC-05663107C243", 741, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P326 W", "13", "10:00 AM", "12:00 PM", "Hollywood bl. & Sunset bl. To Santa Monica /  Hoover st to Vermont av." ]
+, [ 742, "5198A9BB-DEEF-414B-9821-83B73A6EDDFB", 742, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P327 F", "4/13", "8:00 AM", "10:00 AM", "Franklin av. to Fountain av. / Hillhurst to Sanorn av." ]
+, [ 743, "869D5885-53D8-4EA3-B9E6-95754F36C418", 743, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P327 W", "4/13", "8:00 AM", "10:00 AM", "Franklin av. to Fountain av. / Hillhurst to Sanorn av." ]
+, [ 744, "8C1EAE16-D333-43F5-A8F2-D8D75BF36453", 744, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P328 F", "4/13", "10:00 AM", "12:00 PM", "St. George st. to Fountain av. / Sanborn av. Griffith park bl." ]
+, [ 745, "3696EAA5-ADAA-4730-8D0A-E42D104B458C", 745, 1401316308, "881741", 1401316308, "881741", "{\n}", "7P328 W", "4/13", "10:00 AM", "12:00 PM", "St. George st. to Fountain av. / Sanborn av. Griffith park bl." ]
+, [ 746, "91B7DD95-C2A0-47C7-AAA0-A928FA0F3FDB", 746, 1401316308, "881741", 1401316308, "881741", "{\n}", "8NP100", "5", "4:00 AM", "6:30 AM", "Alleys N/0 and S/O Melrose Ave Highland Ave to Fairfax Ave" ]
+, [ 747, "E5E4BF07-7CBF-45A5-81B0-26F15F415419", 747, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P104 M", "5", "10:00 AM", "12:00 PM", "Melrose Ave to Beverly Bl- Gardner to Laurel Ave" ]
+, [ 748, "71D366FB-E4B9-4AB1-AE36-C7A908C26C45", 748, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P104 Tu", "5", "10:00 AM", "12:00 PM", "Melrose Ave to Beverly Bl- Gardner to Laurel Ave" ]
+, [ 749, "BFADDD2C-D24E-4D9C-8228-171D0BD8141E", 749, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P106 M", "13", "10:00 AM", "1:00 PM", "Hollywood Bl to Santa Monica Bl-Wilton Pl to Vine st" ]
+, [ 750, "5C76F877-D813-47D8-B810-AB45389DD7B9", 750, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P106 Tu", "13", "10:00 AM", "1:00 PM", "Hollywood Bl to Santa Monica Bl-Wilton Pl to Vine st" ]
+, [ 751, "8D3E2F1C-B0C1-49FB-849B-15C30AF2ED6F", 751, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P107 M", "13", "8:00 AM", "10:00 AM", "Santa Monica Bl to Melrose Av- Wilton Pl to Vine St" ]
+, [ 752, "482AD481-404C-46A2-8C13-1A69D4573B97", 752, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P107 Tu", "13", "8:00 AM", "10:00 AM", "Santa Monica Bl to Melrose Av- Wilton Pl to Vine St" ]
+, [ 753, "46CA8F45-CF11-4906-B126-2A2B906E817A", 753, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P110 M", "4", "11:00 AM", "2:00 PM", "Hollywood Bl to Fountain Ave - La Brea Ave to Gardner St" ]
+, [ 754, "4D273359-0CDB-4050-B2BC-3B92AD12790D", 754, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P110 Tu", "4", "11:00 AM", "2:00 PM", "Hollywood Bl to Fountain Ave - La Brea Ave to Gardner St" ]
+, [ 755, "EBEF6282-1DEC-4277-9065-422954126823", 755, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P111 M", "4", "9:00 AM", "12:00 PM", "Hollywood Bl to Fountain Ave- Sierra Bonita to Orange Grove Ave" ]
+, [ 756, "7C37E2C1-7216-43A6-A280-93CFAB0405C6", 756, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P111 Tu", "4", "9:00 AM", "12:00 PM", "Hollywood Bl to Fountain Ave- Sierra Bonita to Orange Grove Ave" ]
+, [ 757, "E9B7E96A-A0C7-4489-9903-A3C1F930FCD5", 757, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P120 F", "4/10", "10:00 AM", "12:00 PM", "Elmwood Ave to 3rd St - Normandie Ave to Wilton PL" ]
+, [ 758, "F07284B4-8FB2-4A23-87DE-17D0FE1A0E14", 758, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P120 W", "4/10", "10:00 AM", "12:00 PM", "Elmwood Ave to 3rd St - Normandie Ave to Wilton PL" ]
+, [ 759, "1DF8032E-C141-4E70-972F-3C976A2F2C0C", 759, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P150 M", "4", "9:00 AM", "11:00 AM", "Larchmont Bl to Wilton Pl- Melrose Ave to Elmwood Ave" ]
+, [ 760, "8C69E346-2457-4AD7-802C-1D2A3A779E3A", 760, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P150 Tu", "4", "9:00 AM", "11:00 AM", "Larchmont Bl to Wilton Pl- Melrose Ave to Elmwood Ave" ]
+, [ 761, "1ADA37CE-43C6-4AC7-B1C9-D19B8EBC4F38", 761, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P151 F", "4/13", "8:00 AM", "10:00 AM", "Santa Monica Bl to Elmwood Ave- Wilton Pl to Western Ave" ]
+, [ 762, "F7DF5A97-820C-4C49-B5C2-20ABEA88C3E9", 762, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P151 W", "4/13", "8:00 AM", "10:00 AM", "Santa Monica Bl to Elmwood Ave- Wilton Pl to Western Ave" ]
+, [ 763, "3392BD9A-7B42-427D-9909-84C672A98F50", 763, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P152 M", "5", "8:00 AM", "10:00 AM", "Rosewood Ave to 3rd St- Fairfax Ave to La Cienaga BL" ]
+, [ 764, "24C1D529-0B74-45B5-948F-93CA9FBA663A", 764, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P152 Tu", "5", "8:00 AM", "10:00 AM", "Rosewood Ave to 3rd St- Fairfax Ave to La Cienaga BL" ]
+, [ 765, "41897983-B071-4460-BA14-86C8D8A2F835", 765, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P153 M", "5", "10:00 AM", "12:00 PM", "Beverly Blvd to 3rd St- La Brea Ave to Gardner St" ]
+, [ 766, "74FA794D-F4A8-428F-8842-57D02A90A507", 766, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P153 Tu", "5", "10:00 AM", "12:00 PM", "Beverly Blvd to 3rd St- La Brea Ave to Gardner St" ]
+, [ 767, "FD03A801-1DED-41C8-BF17-50BC5C1A4C69", 767, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P154 F", "13", "12:00 PM", "2:00 PM", "Beverly Blvd to 3rd St- Vermont Ave to Normandie Ave" ]
+, [ 768, "3CB32D71-0168-471A-9830-5C87B453AE4F", 768, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P154 W", "13", "12:00 PM", "2:00 PM", "Beverly Blvd to 3rd St- Vermont Ave to Normandie Ave" ]
+, [ 769, "108BC83F-51EC-439B-B154-A6BCA67F899A", 769, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P172 M", "5", "12:00 PM", "3:00 PM", "Melrose Ave to Beverly Blvd- Seward to La Brea Ave" ]
+, [ 770, "96E7C890-D3EF-41B7-AA27-9060FB9CCBF7", 770, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P172 Tu", "5", "12:00 PM", "3:00 PM", "Melrose Ave to Beverly Blvd- Seward to La Brea Ave" ]
+, [ 771, "0F185CC3-3713-4802-93C0-00D059AAB744", 771, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P173 M", "5", "12:00 PM", "3:00 PM", "Beverly Blvd to 3rd St- Hudson Pl to La Brea Ave" ]
+, [ 772, "18E93524-486D-4411-8504-2772894FBC75", 772, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P173 Tu", "5", "12:00 PM", "3:00 PM", "Beverly Blvd to 3rd St- Hudson Pl to La Brea Ave" ]
+, [ 773, "00115C20-039B-40BA-A97C-7A3A29954296", 773, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P174 M", "4", "12:00 PM", "3:00 PM", "Melrose Ave to 3rd St- Larchmont Blvd to Wilcox Ave" ]
+, [ 774, "A9115A52-7D32-45E8-BC91-092A184941C6", 774, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P174 Tu", "4", "12:00 PM", "3:00 PM", "Melrose Ave to 3rd St- Larchmont Blvd to Wilcox Ave" ]
+, [ 775, "541FF7E3-D8B4-46C7-8A0E-07D957107C38", 775, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P175 M", "4", "10:00 AM", "1:00 PM", "Rosewood Ave to 3rd St -Van Ness to Larchmont Blvd" ]
+, [ 776, "B5B56093-19C6-4ACF-BCB4-BF825F3C9937", 776, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P175 Tu", "4", "10:00 AM", "1:00 PM", "Rosewood Ave to 3rd St -Van Ness to Larchmont Blvd" ]
+, [ 777, "9931DBB7-E64B-42B2-9923-62B10D8C2F40", 777, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P176 F", "13", "8:00 AM", "11:00 AM", "Hollywood Fwy to Beverly Blvd-Vermont Ave to Western Ave" ]
+, [ 778, "C53EB97E-72AA-497C-8074-97EAF92A949F", 778, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P176 W", "13", "8:00 AM", "11:00 AM", "Hollywood Fwy to Beverly Blvd-Vermont Ave to Western Ave" ]
+, [ 779, "60DFC668-FD50-4EC0-8F09-6FF50A81DEDF", 779, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P177 M", "5", "10:00 AM", "12:00 PM", "Romaine St to Melrose Ave - La Brea Ave to Fairfax Ave" ]
+, [ 780, "6CBEB637-A05D-4AEF-AC5A-EABDD7F66EFA", 780, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P177 Tu", "5", "10:00 AM", "12:00 PM", "Romaine St to Melrose Ave - La Brea Ave to Fairfax Ave" ]
+, [ 781, "06CE4312-497C-4D0E-BEE3-7A1947D9DEE4", 781, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P178 M", "5", "12:00 PM", "3:00 PM", "Melrose Ave to Beverly Blvd -La Brea Ave to Stanley Ave" ]
+, [ 782, "DA724F13-2B75-4AFF-B7D9-58CC4622E7E8", 782, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P178 Tu", "5", "12:00 PM", "3:00 PM", "Melrose Ave to Beverly Blvd -La Brea Ave to Stanley Ave" ]
+, [ 783, "6B5D850D-7DA0-426A-B13E-69E55E184535", 783, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P205 M", "4/13", "10:00 AM", "1:00 PM", "Sunset Blvd to Santa Monica Blvd - Vine St to Highland Ave" ]
+, [ 784, "DC69B158-38AC-4116-A705-8D4891DDF944", 784, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P205 Tu", "4/13", "10:00 AM", "1:00 PM", "Sunset Blvd to Santa Monica Blvd - Vine St to Highland Ave" ]
+, [ 785, "D69E6690-185E-477B-A340-60443231E607", 785, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P206 M", "4", "12:00 PM", "3:00 PM", "Santa Monica Blvd to Melrose Ave- Vine St to Highland Ave" ]
+, [ 786, "B3191787-E90B-4FE3-902A-1F6AB8068754", 786, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P206 Tu", "4", "12:00 PM", "3:00 PM", "Santa Monica Blvd to Melrose Ave- Vine St to Highland Ave" ]
+, [ 787, "6949321C-15E1-4137-898E-3A44DE01F035", 787, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P263 M", "4", "12:00 PM", "3:00 PM", "Franklin Ave to Melrose Ave- Highland Ave to La Brea Ave" ]
+, [ 788, "D48ADA80-C894-4E2F-8D71-A42A3836D910", 788, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P263 Tu", "4", "12:00 PM", "3:00 PM", "Franklin Ave to Melrose Ave- Highland Ave to La Brea Ave" ]
+, [ 789, "468E5E67-25F3-47D9-9DC0-080DDD94F4DE", 789, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P264 M", "5", "8:00 AM", "10:00 AM", "L.A City Line to Rosewood Ave - Fairfax Ave to LA Cienega Blvd" ]
+, [ 790, "2EA2EEB0-19AD-45F8-9F0F-5031F4CCD388", 790, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P264 Tu", "5", "8:00 AM", "10:00 AM", "L.A City Line to Rosewood Ave - Fairfax Ave to LA Cienega Blvd" ]
+, [ 791, "C3C89A4A-193C-4628-99AA-01C0C9FA97B9", 791, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P323 M", "4", "8:00 AM", "10:00 AM", "Hollywood Blvd to City Line - Fairfax Blvd to Doheny" ]
+, [ 792, "ED0E2E65-7FDD-4345-AA97-7FE6C400CAAB", 792, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P323 Tu", "4", "8:00 AM", "10:00 AM", "Hollywood Blvd to City Line - Fairfax Blvd to Doheny" ]
+, [ 793, "9027830A-3AED-459A-94C0-A3C05FA17AA0", 793, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P324 M", "13", "8:00 AM", "10:00 AM", "Cahuenga Blvd to Hollywood Blvd- Cahuenga to Highland Ave" ]
+, [ 794, "66B472E3-15B2-478E-9052-50CA8912A6FB", 794, 1401316308, "881741", 1401316308, "881741", "{\n}", "8P324 Tu", "13", "8:00 AM", "10:00 AM", "Cahuenga Blvd to Hollywood Blvd- Cahuenga to Highland Ave" ]
+, [ 795, "7C58EA5E-CFC4-4314-AA5F-30D84F1A7744", 795, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P102 M", "5", "8:00 AM", "10:00 AM", "Oakhurst - San Vicente, Beverly - Clifton" ]
+, [ 796, "4DCEC9CA-EE69-406B-9950-F7A637BD1C27", 796, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P102 Tu", "5", "8:00 AM", "10:00 AM", "Oakhurst - San Vicente, Beverly - Clifton" ]
+, [ 797, "2560CBE4-1AE7-4FCC-967C-29A7000B76B0", 797, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P103 M", "5", "9:00 AM", "12:00 PM", "San Vicente - Fairfax, 3rd - Wilshire" ]
+, [ 798, "F65CCDA0-13AB-47B5-9C53-297DBF74ADF0", 798, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P103 Tu", "5", "9:00 AM", "12:00 PM", "San Vicente - Fairfax, 3rd - Wilshire" ]
+, [ 799, "CF811127-0718-4B32-A8E8-C18C4AA9B735", 799, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P105 M", "4", "8:00 AM", "10:00 AM", "Hauser - La Brea, 3rd - Wilshire" ]
+, [ 800, "E618DF5D-DF50-4581-9D1F-739096189B53", 800, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P105 Tu", "4", "8:00 AM", "10:00 AM", "Hauser - La Brea, 3rd - Wilshire" ]
+, [ 801, "73C9BB15-80A9-49A4-86EF-ED0321997FB6", 801, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P107 Th", "10", "10:00 AM", "1:00 PM", "Western - Irolo, Wilshire - Olympic" ]
+, [ 802, "80DF08FB-397A-451F-A931-1BE7FB02558F", 802, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P107 W", "10", "10:00 AM", "1:00 PM", "Irolo - Vermont, Wilshire - Olympic" ]
+, [ 803, "814ADCF5-3AB6-49A3-930E-209E25EA7185", 803, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P111 Th", "1", "12:00 PM", "3:00 PM", "Western - Normandie, Olympic - Pico" ]
+, [ 804, "2C75F2F4-1935-4625-B7A4-4A9FB7F8DAF3", 804, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P111 W", "1", "12:00 PM", "3:00 PM", "Normandie - Vermont, Olympic - Pico" ]
+, [ 805, "802DC7AD-7383-4C68-AD6F-C9D32F3C41A4", 805, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P121 Th", "10", "8:00 AM", "10:00 AM", "Western - Normandie, 3rd - Wilshire" ]
+, [ 806, "6F9BF2AE-96C1-4283-B02E-54D761DAF9D2", 806, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P121 W", "10", "8:00 AM", "10:00 AM", "Western - Normandie, 3rd - Wilshire" ]
+, [ 807, "7E34DE46-6C40-42FA-96A2-5B4EDDCD6E2B", 807, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P144 Th", "10", "12:00 PM", "3:00 PM", "Crenshaw - Wilton, Olympic - Pico" ]
+, [ 808, "35E125DC-4371-4BFB-AB2D-0F600CBB3131", 808, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P144 W", "10", "12:00 PM", "3:00 PM", "Crenshaw - Wilton, Olympic - Pico" ]
+, [ 809, "92BF7A8E-123C-4AD9-914D-453AC270B8BE", 809, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P145 M", "5", "8:00 AM", "10:00 AM", "Olympic - Cashio, Robertson - La Cienega" ]
+, [ 810, "F2A0225B-5549-4033-BE8C-27D7BFB643DC", 810, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P145 Tu", "5", "8:00 AM", "10:00 AM", "Olympic - Cashio, Robertson - La Cienega" ]
+, [ 811, "5E03430F-7B88-443E-9A24-B137DD1AC0B2", 811, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P146 Th", "4/10", "11:00 AM", "2:00 PM", "3rd - Pico, Western - Wilton" ]
+, [ 812, "7D7B52F4-515F-44A4-A7A3-6EC40B364566", 812, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P146 W", "4/10", "11:00 AM", "2:00 PM", "4th - Pico, Western - Wilton" ]
+, [ 813, "1C4B1D38-0814-46E3-818C-64D7DCCB3FF4", 813, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P147 Th", "10", "8:00 AM", "10:00 AM", "3rd - Wilshire, Vermont - Normandie" ]
+, [ 814, "ED8F47B3-3E19-4DE9-BDEF-BE3A96A39CDA", 814, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P147 W", "10", "8:00 AM", "10:00 AM", "4th - Wilshire, Vermont - Normandie" ]
+, [ 815, "E9ED5209-00CB-432A-8C9E-498B3B4314D4", 815, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P148 Th", "1", "8:00 AM", "10:00 AM", "Western - Vermont, Pico - Venice & Venice - Washington, Wilton - Vermont" ]
+, [ 816, "79A56CA9-1124-40DF-8CA5-23A419B810B6", 816, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P148 W", "1", "8:00 AM", "10:00 AM", "Western - Vermont, Pico - Venice & Venice - Washington, Wilton - Vermont" ]
+, [ 817, "4CA73A61-380F-49D2-A46C-BBAE50382F8C", 817, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P149 Th", "1", "9:00 AM", "12:00 PM", "Western - Normandie, Venice - 10 Fwy & Normandie - Vermont, Washington - 10 Fwy" ]
+, [ 818, "3B4FF53D-A42D-479A-A2E6-E61AECD630BD", 818, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P149 W", "1", "9:00 AM", "12:00 PM", "Western - Normandie, Venice - 10 Fwy & Normandie - Vermont, Washington - 10 Fwy" ]
+, [ 819, "53F5EC43-30DC-4EF1-997E-5A50094CF04C", 819, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P150 M", "5", "8:00 AM", "10:00 AM", "LeDoux - Robertson, Gregory - Olympic" ]
+, [ 820, "2EBE4268-06DA-4767-9109-1D0661BE0231", 820, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P150 Tu", "5", "8:00 AM", "10:00 AM", "LeDoux - Robertson, Gregory - Olympic" ]
+, [ 821, "65DD9C27-D24D-4737-B9E6-61549DCE40D4", 821, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P151 Th", "10", "8:00 AM", "11:00 AM", "Pico - Washington, Wilton - Bronson" ]
+, [ 822, "07440320-FD39-4976-B501-6BC9CB2D9A3E", 822, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P151 W", "10", "8:00 AM", "11:00 AM", "Pico - Washington, Wilton - Bronson" ]
+, [ 823, "3AAE8035-B97B-493A-911A-FBC7A34B80CB", 823, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P162 M", "10", "10:00 AM", "12:00 PM", "Thurman - La Brea, Washington - 10 Fwy" ]
+, [ 824, "7BC59037-FBDD-4D5F-9487-B186546A38EC", 824, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P162 Tu", "10", "10:00 AM", "12:00 PM", "Thurman - La Brea, Washington - 10 Fwy" ]
+, [ 825, "EF4D90D3-971A-4101-AB0D-0D6EFF9904BD", 825, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P163 M", "4/10", "12:00 PM", "3:00 PM", "Pico - Olympic, Houser - La Brea" ]
+, [ 826, "1CD83C24-A14C-4333-8653-2DAB0B0EA8B0", 826, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P163 Tu", "4/10", "12:00 PM", "3:00 PM", "Pico - Olympic, Houser - La Brea" ]
+, [ 827, "8F225627-F219-4CB4-97C2-F7C091057E68", 827, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P164 Th", "10", "12:00 PM", "3:00 PM", "Pico - 10 Fwy, Western - Arlington" ]
+, [ 828, "B1DA6549-4C69-40BC-A8A6-FD3988F9DDCF", 828, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P164 W", "10", "12:00 PM", "3:00 PM", "Pico - 10 Fwy, Western - Arlington" ]
+, [ 829, "954A92BD-D125-4E75-8444-757691F88081", 829, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P165 Th", "10", "10:00 AM", "12:00 PM", "La Brea - Arlington, 10 Fwy - Washington" ]
+, [ 830, "01B8AE4D-7794-4981-B482-FF0944CFBF3E", 830, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P165 W", "10", "10:00 AM", "12:00 PM", "La Brea - Arlington, 10 Fwy - Washington" ]
+, [ 831, "591A7EE4-61B8-4BAB-82B6-6A168890BC05", 831, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P218 M", "5/10", "10:00 AM", "12:00 PM", "Olympic - Saturn, Fairfax - La Cienega" ]
+, [ 832, "006F4435-0735-4B6F-85EB-1BEC678233F5", 832, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P218 Tu", "5/10", "10:00 AM", "12:00 PM", "Olympic - Saturn, Fairfax - La Cienega" ]
+, [ 833, "3A82DDE8-7A08-40D2-BB45-F91314BF9B0F", 833, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P219 M", "10", "10:00 AM", "12:00 PM", "Sawyer - Kramerwood, Venice - Robertson" ]
+, [ 834, "9C30F984-521F-4DCC-821C-DE73DD7E1949", 834, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P219 Tu", "10", "10:00 AM", "12:00 PM", "Sawyer - Kramerwood, Venice - Robertson" ]
+, [ 835, "B8BEE482-D456-43B4-B858-FDE8D30DA745", 835, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P276 M", "5", "8:00 AM", "11:00 AM", "Sawyer - Pickford, Robertson - Crescent Heights" ]
+, [ 836, "317CFE90-78E3-4360-ACBA-793025E7C8FE", 836, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P276 Tu", "5", "8:00 AM", "11:00 AM", "Sawyer - Pickford, Robertson - Crescent Heights" ]
+, [ 837, "ADF06393-E0E3-47D9-9120-ABB7EFE544FE", 837, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P277 M", "4", "9:00 AM", "11:00 AM", "Wilshire - Olympic, Sierra Bonita - La Brea" ]
+, [ 838, "EED8D927-8637-4E60-A925-B447C02EABCF", 838, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P277 Tu", "4", "9:00 AM", "11:00 AM", "Wilshire - Olympic, Sierra Bonita - La Brea" ]
+, [ 839, "0A2A1AF3-A7A9-4BA5-8D14-81D90B1CE173", 839, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P279 Th", "10", "9:00 AM", "12:00 PM", "Olympic - 12th ST, Redondo - Lucerne" ]
+, [ 840, "CC454B26-2A3E-413E-B6E5-A956D770F875", 840, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P279 W", "10", "9:00 AM", "12:00 PM", "Olympic - 12th ST, Redondo - Lucerne" ]
+, [ 841, "C58574F9-305D-4263-85E9-863DD7B6D6FF", 841, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P280 M", "10", "12:00 PM", "3:00 PM", "Buchard - National, 10 Fwy - city line (n/o Washington)" ]
+, [ 842, "98CFF594-E741-49D3-8ADE-BA14C99F95EB", 842, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P280 Tu", "10", "12:00 PM", "3:00 PM", "Buchard - National, 10 Fwy - city line (n/o Washington)" ]
+, [ 843, "D8E9428E-1F6B-4D64-98FE-8DBE94EA4BF1", 843, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P281 Th", "10", "12:00 PM", "3:00 PM", "Venice - Washington, La Brea - West" ]
+, [ 844, "4F6B2947-2580-4C8E-8F9C-E788969F7E33", 844, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P281 W", "10", "12:00 PM", "3:00 PM", "Venice - Washington, West - Crenshaw" ]
+, [ 845, "F400072B-FDB2-48A6-8F30-AF79C0BFDABE", 845, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P282 M", "5", "12:00 PM", "3:00 PM", "Wilshire - Olympic, Sierra Bonita - Schumacher" ]
+, [ 846, "E94701E0-21FF-4317-ACD4-7879F2E0D28A", 846, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P282 Tu", "5", "12:00 PM", "3:00 PM", "Wilshire - Olympic, Sierra Bonita - Schumacher" ]
+, [ 847, "0CEAEB24-6FA4-4B69-A49F-67BAFB91FA01", 847, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P283 Th", "10", "9:00 AM", "12:00 PM", "Pico - 12th St, Queen Ann - La Brea" ]
+, [ 848, "1C59C657-7FED-4C9D-B968-EF118203D0D5", 848, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P283 W", "10", "9:00 AM", "12:00 PM", "Pico - 12th St, Queen Ann - La Brea" ]
+, [ 849, "37DBF280-8381-450C-994F-73FA75352B21", 849, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P284 M", "4/10", "12:00 PM", "3:00 PM", "Olympic - Pico, Hauser - Fairfax" ]
+, [ 850, "86E937DE-A7EB-4C79-8A5C-8C0FC7B2928B", 850, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P284 Tu", "4/10", "12:00 PM", "3:00 PM", "Olympic - Pico, Hauser - Fairfax" ]
+, [ 851, "16B11476-AE32-4EAC-836D-042A2B18D7CC", 851, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P285 Th", "4", "8:00 AM", "11:00 AM", "3rd st to Olympic Bl- Wilton Pl to La Brea ave" ]
+, [ 852, "58B458E3-4482-4830-8F64-01D1AD64D03C", 852, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P285 W", "4", "8:00 AM", "11:00 AM", "3rd st to Olympic Bl- Wilton Pl to La Brea ave" ]
+, [ 853, "1CDC58AA-7BD7-40DE-AC1D-457C2CB3600B", 853, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P286 Th", "4/10", "10:00 AM", "12:00 PM", "Olympic - Wilshire, Wilton  - Lucerne" ]
+, [ 854, "A3202E25-9429-493F-8BB0-6D27B3994C7A", 854, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P286 W", "4/10", "10:00 AM", "12:00 PM", "Olympic - Wilshire, Wilton  - Lucerne" ]
+, [ 855, "13E4C1B9-9BFF-494B-9A35-5D07EE9F7E08", 855, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P343 Th", "4", "8:00 AM", "11:00 AM", "3rd St - 6th St, Van Ness - La Brea" ]
+, [ 856, "D9AE3BAE-9351-430E-8CD7-7E39A625AAE3", 856, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P343 W", "4", "8:00 AM", "11:00 AM", "4th St - 6th St, Van Ness - La Brea" ]
+, [ 857, "4BA64C10-A6DA-456B-B283-1FD4E421DC34", 857, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P344 Th", "10", "8:00 AM", "10:00 AM", "Olympi - Pico, Queen Ann - Crenshaw" ]
+, [ 858, "42C9B68A-D568-4745-80B4-FA0AC7499199", 858, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P344 W", "10", "8:00 AM", "10:00 AM", "Olympi - Pico, Queen Ann - Crenshaw" ]
+, [ 859, "6E2ACDE1-ECF5-4E8E-ACCC-B2DA3374CBF1", 859, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P345 M", "5", "12:00 PM", "3:00 PM", "Pico - Venice, Fairfax - Hauser" ]
+, [ 860, "747A6207-7ED6-428B-88E1-8EF33A5695C0", 860, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P345 Tu", "5", "12:00 PM", "3:00 PM", "Washington - Venice, Fairfax - Hauser" ]
+, [ 861, "F41095F7-82DE-4818-A6A4-425400D4D7BA", 861, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P346 M", "5", "11:00 AM", "2:00 PM", "Gutherie - Saturn, Fairfax, Crescent Heights" ]
+, [ 862, "F025115F-1A8E-4F1C-AA54-F673647ACEE4", 862, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P346 Tu", "5", "11:00 AM", "2:00 PM", "Gutherie - Saturn, Fairfax, Crescent Heights" ]
+, [ 863, "FB7FA3DD-4D50-4497-B4DA-37C8AC9BB116", 863, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P347 M", "10", "8:00 AM", "10:00 AM", "Pico - Washington, Hauser - La Brea" ]
+, [ 864, "0EE438E7-9491-49A4-88B8-F25CCE5859ED", 864, 1401316308, "881741", 1401316308, "881741", "{\n}", "9P347 Tu", "10", "8:00 AM", "10:00 AM", "Pico - Washington, Hauser - La Brea" ]
+ ]
+}

@@ -1,0 +1,247 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "t4d8-zzd5",
+      "name" : "DWP - In basin Water",
+      "averageRating" : 0,
+      "createdAt" : 1401487700,
+      "description" : "This metric measures the proportion of water that is locally sourced within the Los Angeles Basin. The higher this percentage, the less water we import from other regions. Our in-basin local water supply includes groundwater, recycled water, and captured stormwater. LADWP is working toward increasing the local water supply through conservation and local sources",
+      "displayType" : "table",
+      "downloadCount" : 1,
+      "indexUpdatedAt" : 1414616961,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8108924,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401487786,
+      "publicationGroup" : 1600614,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1401487706,
+      "rowsUpdatedBy" : "ddg3-br68",
+      "tableId" : 1600614,
+      "totalTimesRated" : 0,
+      "viewCount" : 18,
+      "viewLastModified" : 1402586586,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150663204,
+        "name" : "Date",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date",
+        "position" : 2,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 20022206,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "2008-01-01T00:00:00",
+          "null" : 0,
+          "largest" : "2012-01-01T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2008-01-01T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2009-01-01T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2010-01-01T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2011-01-01T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2012-01-01T00:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150663205,
+        "name" : "Year",
+        "dataTypeName" : "text",
+        "fieldName" : "year",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20022207,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "2008",
+          "null" : 0,
+          "largest" : "2012",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2008"
+          }, {
+            "count" : 19,
+            "item" : "2009"
+          }, {
+            "count" : 18,
+            "item" : "2010"
+          }, {
+            "count" : 17,
+            "item" : "2011"
+          }, {
+            "count" : 16,
+            "item" : "2012"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150663206,
+        "name" : "% of DWP water that is sourced within-basin",
+        "dataTypeName" : "percent",
+        "fieldName" : "of_dwp_water_that_is_sourced_within_basin",
+        "position" : 4,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 20022208,
+        "width" : 616,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "9",
+          "sum" : "54",
+          "null" : 0,
+          "average" : "10.8",
+          "largest" : "13",
+          "top" : [ {
+            "count" : 20,
+            "item" : "10"
+          }, {
+            "count" : 19,
+            "item" : "12"
+          }, {
+            "count" : 18,
+            "item" : "13"
+          }, {
+            "count" : 17,
+            "item" : "9"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "hb8e-gdsp",
+        "displayName" : "LA DWP OpenData",
+        "profileImageUrlLarge" : "/images/profile/5225/6660/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5225/6660/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5225/6660/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LA DWP OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "hb8e-gdsp",
+        "displayName" : "LA DWP OpenData",
+        "profileImageUrlLarge" : "/images/profile/5225/6660/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5225/6660/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5225/6660/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LA DWP OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "E8D816F2-8883-4C12-B7EB-A6949AA0DA88", 1, 1401487703, "882858", 1401487703, "882858", "{\n}", "2008-01-01T00:00:00", "2008", "10" ]
+, [ 2, "0E5CBF5F-2D9B-41B7-ACC8-829A82A1DCA3", 2, 1401487703, "882858", 1401487703, "882858", "{\n}", "2009-01-01T00:00:00", "2009", "12" ]
+, [ 3, "A06412B8-473F-4750-9E0A-FB383963DE93", 3, 1401487703, "882858", 1401487703, "882858", "{\n}", "2010-01-01T00:00:00", "2010", "13" ]
+, [ 4, "F2F3126B-C61F-4D7B-A888-59CE8A1BB1A0", 4, 1401487703, "882858", 1401487703, "882858", "{\n}", "2011-01-01T00:00:00", "2011", "9" ]
+, [ 5, "101A7E15-AC51-4F59-A065-F8AB7D81B988", 5, 1401487703, "882858", 1401487703, "882858", "{\n}", "2012-01-01T00:00:00", "2012", "10" ]
+ ]
+}

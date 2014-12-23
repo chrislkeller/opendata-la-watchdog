@@ -1,0 +1,388 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "gr27-eza8",
+      "name" : "Election 2013 March Primary Candidate List",
+      "averageRating" : 0,
+      "category" : "A Well Run City",
+      "createdAt" : 1401460964,
+      "description" : "Candidates, Races and Measures",
+      "displayType" : "table",
+      "downloadCount" : 1,
+      "indexUpdatedAt" : 1414612858,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8106050,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401480633,
+      "publicationGroup" : 1600066,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1401460969,
+      "rowsUpdatedBy" : "ika6-27vg",
+      "tableId" : 1600066,
+      "totalTimesRated" : 0,
+      "viewCount" : 31,
+      "viewLastModified" : 1401480718,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150584382,
+        "name" : "﻿Race",
+        "dataTypeName" : "text",
+        "fieldName" : "race",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20014766,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 83,
+          "smallest" : "CHARTER AMENDMENT B - FIRE AND POLICE PENSION PLANS; COST NEUTRAL PURCHASES OF RETIREMENT CREDIT BY CERTAIN MEMBERS.",
+          "null" : 0,
+          "largest" : "PROPOSITION A - NEIGHBOORHOOD PUBLIC SAFETY AND VITAL CITY SERVICES FUNDING AND ACCOUNTABILITY MEASURE.",
+          "top" : [ {
+            "count" : 20,
+            "item" : "MAYOR"
+          }, {
+            "count" : 19,
+            "item" : "CITY ATTORNEY"
+          }, {
+            "count" : 18,
+            "item" : "CONTROLLER"
+          }, {
+            "count" : 17,
+            "item" : "MEMBER OF THE COUNCIL, DISTRICT NO. 1"
+          }, {
+            "count" : 16,
+            "item" : "MEMBER OF THE COUNCIL, DISTRICT NO. 3"
+          }, {
+            "count" : 15,
+            "item" : "MEMBER OF THE COUNCIL, DISTRICT NO. 5"
+          }, {
+            "count" : 14,
+            "item" : "MEMBER OF THE COUNCIL, DISTRICT NO. 7"
+          }, {
+            "count" : 13,
+            "item" : "MEMBER OF THE COUNCIL, DISTRICT NO. 9"
+          }, {
+            "count" : 12,
+            "item" : "MEMBER OF THE COUNCIL, DISTRICT NO. 11"
+          }, {
+            "count" : 11,
+            "item" : "MEMBER OF THE COUNCIL, DISTRICT NO. 13"
+          }, {
+            "count" : 10,
+            "item" : "MEMBER OF THE COUNCIL, DISTRICT NO. 15"
+          }, {
+            "count" : 9,
+            "item" : "MEMBER OF THE BOARD OF ED, DIST NO. 2"
+          }, {
+            "count" : 8,
+            "item" : "MEMBER OF THE BOARD OF ED, DIST NO. 4"
+          }, {
+            "count" : 7,
+            "item" : "MEMBER OF THE BOARD OF ED, DIST NO. 6"
+          }, {
+            "count" : 6,
+            "item" : "MEMBER OF THE BOARD OF TRUSTEES, SEAT NO. 2"
+          }, {
+            "count" : 5,
+            "item" : "MEMBER OF THE BOARD OF TRUSTEES, SEAT NO. 4"
+          }, {
+            "count" : 4,
+            "item" : "MEMBER OF THE BOARD OF TRUSTEES, SEAT NO. 6"
+          }, {
+            "count" : 3,
+            "item" : "PROPOSITION A - NEIGHBOORHOOD PUBLIC SAFETY AND VITAL CITY SERVICES FUNDING AND ACCOUNTABILITY MEASURE."
+          }, {
+            "count" : 2,
+            "item" : "CHARTER AMENDMENT B - FIRE AND POLICE PENSION PLANS; COST NEUTRAL PURCHASES OF RETIREMENT CREDIT BY CERTAIN MEMBERS."
+          }, {
+            "count" : 1,
+            "item" : "MEASURE S - BURBANK SCHOOLS IMPROVEMENT MEASURE."
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150584383,
+        "name" : "Candidate",
+        "dataTypeName" : "text",
+        "fieldName" : "candidate",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20014767,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 83,
+          "smallest" : "ABELARDO DIAZ",
+          "null" : 0,
+          "largest" : "YES",
+          "top" : [ {
+            "count" : 20,
+            "item" : "MIKE BONIN"
+          }, {
+            "count" : 19,
+            "item" : "ODYSSEUS BOSTICK"
+          }, {
+            "count" : 18,
+            "item" : "FREDERICK SUTTON"
+          }, {
+            "count" : 17,
+            "item" : "MITCH O'FARRELL"
+          }, {
+            "count" : 16,
+            "item" : "ROBERTO HARALDSON"
+          }, {
+            "count" : 15,
+            "item" : "JOSH POST"
+          }, {
+            "count" : 14,
+            "item" : "OCTAVIO PESCADOR"
+          }, {
+            "count" : 13,
+            "item" : "JOHN J. CHOI"
+          }, {
+            "count" : 12,
+            "item" : "EMILE MACK"
+          }, {
+            "count" : 11,
+            "item" : "SAM KBUSHYAN"
+          }, {
+            "count" : 10,
+            "item" : "ROBERT NEGRETE"
+          }, {
+            "count" : 9,
+            "item" : "MICHAEL SCHAEFER"
+          }, {
+            "count" : 8,
+            "item" : "MATT SZABO"
+          }, {
+            "count" : 7,
+            "item" : "JOSÉ SIGALA"
+          }, {
+            "count" : 6,
+            "item" : "ALEXANDER CRUZ DE OCAMPO"
+          }, {
+            "count" : 5,
+            "item" : "JAMES T. LAW"
+          }, {
+            "count" : 4,
+            "item" : "JOE BUSCAINO"
+          }, {
+            "count" : 3,
+            "item" : "MÓNICA GARCÍA"
+          }, {
+            "count" : 2,
+            "item" : "ANNAMARIE MONTAÑEZ"
+          }, {
+            "count" : 1,
+            "item" : "ROBERT D. SKEELS"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "City Clerk"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "ika6-27vg",
+        "displayName" : "City Clerk OpenData",
+        "profileImageUrlLarge" : "/images/profile/8695/3285/City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/8695/3285/City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/8695/3285/City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "City Clerk OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "ika6-27vg",
+        "displayName" : "City Clerk OpenData",
+        "profileImageUrlLarge" : "/images/profile/8695/3285/City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/8695/3285/City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/8695/3285/City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "City Clerk OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "BD0D24B9-2E09-411D-82A5-C994127BD239", 1, 1401460967, "883711", 1401460967, "883711", "{\n}", "MAYOR", "JAN PERRY" ]
+, [ 2, "967701C9-F0DD-4718-8A16-F906A5F60BD6", 2, 1401460967, "883711", 1401460967, "883711", "{\n}", "MAYOR", "EMANUEL ALBERTO PLEITEZ" ]
+, [ 3, "F4890655-3E7E-4EE2-980D-361B7535ABB7", 3, 1401460967, "883711", 1401460967, "883711", "{\n}", "MAYOR", "ERIC GARCETTI" ]
+, [ 4, "C393F639-0B99-4F52-A39A-AE3D7D0A3A09", 4, 1401460967, "883711", 1401460967, "883711", "{\n}", "MAYOR", "WENDY J. GREUEL" ]
+, [ 5, "1FADAB9A-6288-4842-A4DF-A4F3643F66F7", 5, 1401460967, "883711", 1401460967, "883711", "{\n}", "MAYOR", "ADDIE M. MILLER" ]
+, [ 6, "7E5CA23B-4091-4F0F-A106-B307E8D366A7", 6, 1401460967, "883711", 1401460967, "883711", "{\n}", "MAYOR", "KEVIN JAMES" ]
+, [ 7, "5F61E044-62DD-400C-BA94-61652711B9A8", 7, 1401460967, "883711", 1401460967, "883711", "{\n}", "MAYOR", "NORTON SANDLER" ]
+, [ 8, "B3007617-6EF1-4A4D-B380-22376403B939", 8, 1401460967, "883711", 1401460967, "883711", "{\n}", "MAYOR", "YEHUDA \"YJ\" DRAIMAN" ]
+, [ 9, "FBA379B8-2784-4228-B99C-C1CA146369BB", 9, 1401460967, "883711", 1401460967, "883711", "{\n}", "CITY ATTORNEY", "CARMEN \"NUCH\" TRUTANICH" ]
+, [ 10, "55E75173-CE16-4AEF-919D-421096912DDF", 10, 1401460967, "883711", 1401460967, "883711", "{\n}", "CITY ATTORNEY", "NOEL WEISS" ]
+, [ 11, "F7E9EA1E-ADCC-498B-A2C5-62E618C511D8", 11, 1401460967, "883711", 1401460967, "883711", "{\n}", "CITY ATTORNEY", "MIKE FEUER" ]
+, [ 12, "B77106E2-B9B1-4663-8478-FAAA3A7BFACA", 12, 1401460967, "883711", 1401460967, "883711", "{\n}", "CITY ATTORNEY", "GREG SMITH" ]
+, [ 13, "9F6EED3F-4B1A-40DD-B96C-11FB9A6E7CE7", 13, 1401460967, "883711", 1401460967, "883711", "{\n}", "CONTROLLER", "ANKUR PATEL" ]
+, [ 14, "BE235A39-E3FA-4707-B0FD-80B3A0964967", 14, 1401460967, "883711", 1401460967, "883711", "{\n}", "CONTROLLER", "RON GALPERIN" ]
+, [ 15, "5FB47C3A-F2B5-4715-A727-A4B69B5E5D67", 15, 1401460967, "883711", 1401460967, "883711", "{\n}", "CONTROLLER", "DENNIS P. ZINE" ]
+, [ 16, "6AA08CFB-4D3C-4BE2-84AD-04C8325015AA", 16, 1401460967, "883711", 1401460967, "883711", "{\n}", "CONTROLLER", "ANALILIA JOYA" ]
+, [ 17, "145F20D9-DBA8-4527-AC65-655A1719C390", 17, 1401460967, "883711", 1401460967, "883711", "{\n}", "CONTROLLER", "JEFF BORNSTEIN" ]
+, [ 18, "358B0DBC-0946-4ACA-9F41-86AE1C94936C", 18, 1401460967, "883711", 1401460967, "883711", "{\n}", "CONTROLLER", "CARY BRAZEMAN" ]
+, [ 19, "6ED88FCB-5BC8-44C8-8AB7-E0EB1CE7C713", 19, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 1", "JOSE A. GARDEA" ]
+, [ 20, "3FBE8F74-62EF-4D19-86FD-21C7127DB56D", 20, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 1", "GILBERT CEDILLO" ]
+, [ 21, "00CFE26C-F13C-4B1D-87BA-27ED93303E11", 21, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 1", "JESSE ROSAS" ]
+, [ 22, "EE808EFD-BC34-486F-AA68-FE1A217BC576", 22, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 3", "JOYCE J. PEARSON" ]
+, [ 23, "56EBAAFA-8CFC-4909-AB3F-BF9AF60B7DA7", 23, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 3", "STEVEN E. PRESBERG" ]
+, [ 24, "FF00BC20-94D7-4FEE-A13B-B9B367786D81", 24, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 3", "CARY T. IACCINO" ]
+, [ 25, "1D55E336-4C6D-4D32-BABA-6B21638CE7C4", 25, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 3", "BOB BLUMENFIELD" ]
+, [ 26, "231D1903-0753-439B-9378-EC97383CCBA8", 26, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 3", "ELIZABETH BADGER" ]
+, [ 27, "5324E5FB-82D1-4476-94BF-D14CB2387E8E", 27, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 3", "SCOTT SILVERSTEIN" ]
+, [ 28, "C44D3D2A-297C-47C2-A8D1-D265B7E974C5", 28, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 5", "MARK MATTHEW HERD" ]
+, [ 29, "4B29C969-2894-4674-8158-43E392BD6CC8", 29, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 5", "PAUL KORETZ" ]
+, [ 30, "87E73221-4C1F-4DD4-9DBE-0385F6797C7B", 30, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 7", "NICOLE CHASE" ]
+, [ 31, "A168AE44-887D-4656-83C2-B8DDFAE11402", 31, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 7", "KRYSTEE CLARK" ]
+, [ 32, "B6EF2E70-221A-419A-B234-00FF06AD71B2", 32, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 7", "FELIPE FUENTES" ]
+, [ 33, "EC889791-AEE8-4ECD-B9EE-3F57B8C1B1BC", 33, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 7", "JESSE DAVID BARRON" ]
+, [ 34, "D6EBF066-93C3-45C1-B3CF-C8B86FA45586", 34, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 9", "TERRY HARA" ]
+, [ 35, "759D1211-561A-4BCA-A6A3-118DD3AB759B", 35, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 9", "CURREN D PRICE, JR" ]
+, [ 36, "7FBF9622-4981-4708-B1D4-BCB8193775A5", 36, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 9", "RON GOCHEZ" ]
+, [ 37, "859A13C2-63A8-4947-9B42-BE71F8C889F3", 37, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 9", "ANA CUBAS" ]
+, [ 38, "98ACC8D5-E10D-4537-BFE0-E6CDA6261EBC", 38, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 9", "MANUEL \"MANNY\" ALDANA" ]
+, [ 39, "538E2AED-8111-4543-8453-FEEC032E33A0", 39, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 9", "DAVID ROBERTS" ]
+, [ 40, "9F7B3927-F68A-4026-8C18-79B7124A2130", 40, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 9", "MIKE DAVIS" ]
+, [ 41, "372C6534-5D89-4F07-99E2-AC7CDA4D3F15", 41, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 11", "TINA HESS" ]
+, [ 42, "8746EB8A-EA66-476A-97E1-A092461AC74A", 42, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 11", "MIKE BONIN" ]
+, [ 43, "5D7BFA29-76DF-4881-9F5A-A42E0C2ACA2E", 43, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 11", "ODYSSEUS BOSTICK" ]
+, [ 44, "DF9EE269-ED7F-4FDF-8038-F99914E0F6A4", 44, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 11", "FREDERICK SUTTON" ]
+, [ 45, "BE1AB414-7573-4F0E-9926-50F0B5908668", 45, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 13", "MITCH O'FARRELL" ]
+, [ 46, "CD66A4CD-76A2-45BB-A70F-8E14BF3C4802", 46, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 13", "ROBERTO HARALDSON" ]
+, [ 47, "CC0A9190-04DD-4E6E-8C37-1C7548A2B3FB", 47, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 13", "JOSH POST" ]
+, [ 48, "F246D8EB-B53E-4FE1-8AFE-074324178E06", 48, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 13", "OCTAVIO PESCADOR" ]
+, [ 49, "D5F7AAF4-1A11-451F-B07B-9DAAA331F56B", 49, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 13", "JOHN J. CHOI" ]
+, [ 50, "D52C8BE3-18AC-4401-89CE-06BCE2026FC7", 50, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 13", "EMILE MACK" ]
+, [ 51, "32C9E483-3D03-4912-8CCF-5979442DD881", 51, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 13", "SAM KBUSHYAN" ]
+, [ 52, "2359FA24-2B1B-4549-AA2D-CF04F18D1873", 52, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 13", "ROBERT NEGRETE" ]
+, [ 53, "A6228754-34B7-464F-96B0-835A54D722F7", 53, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 13", "MICHAEL SCHAEFER" ]
+, [ 54, "C23FA5BA-C6A2-4373-B704-AC15D8B9B2C5", 54, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 13", "MATT SZABO" ]
+, [ 55, "3B77F7F3-BF31-485C-B9C8-9D946B3C1191", 55, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 13", "JOSÉ SIGALA" ]
+, [ 56, "C13A3FCF-D5B1-44AD-B72A-6A4FC3A2366A", 56, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 13", "ALEXANDER CRUZ DE OCAMPO" ]
+, [ 57, "1C911CC5-0413-4569-A5D9-2AAB10718F3E", 57, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 15", "JAMES T. LAW" ]
+, [ 58, "9C19DCF8-FDBF-49BD-A3D7-24ADDF24141A", 58, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE COUNCIL, DISTRICT NO. 15", "JOE BUSCAINO" ]
+, [ 59, "C01A8649-A188-40A7-825D-1244EE56FCC9", 59, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE BOARD OF ED, DIST NO. 2", "MÓNICA GARCÍA" ]
+, [ 60, "F97097BD-9A38-44FA-AC31-1D60F5223713", 60, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE BOARD OF ED, DIST NO. 2", "ANNAMARIE MONTAÑEZ" ]
+, [ 61, "FA808AB1-F7EB-49AE-879C-82ACB794456F", 61, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE BOARD OF ED, DIST NO. 2", "ROBERT D. SKEELS" ]
+, [ 62, "6CE12357-8781-4EB5-9129-89CF620F5AD8", 62, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE BOARD OF ED, DIST NO. 2", "ABELARDO DIAZ" ]
+, [ 63, "E43B6AF5-1D5D-437D-AD3A-1D0327D4A18C", 63, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE BOARD OF ED, DIST NO. 2", "ISABEL VAZQUEZ" ]
+, [ 64, "CD603628-EEA8-4144-A3E3-3CD85AB2C52E", 64, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE BOARD OF ED, DIST NO. 4", "STEVE ZIMMER" ]
+, [ 65, "66BF42C0-CC3D-47DE-A4D3-B80A0736E7ED", 65, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE BOARD OF ED, DIST NO. 4", "KATE ANDERSON" ]
+, [ 66, "4C493914-5386-43EB-87A0-5F28D2EFC04A", 66, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE BOARD OF ED, DIST NO. 6", "MARIA CANO" ]
+, [ 67, "4A43AE60-378F-400B-B3FA-A8BE50770CC5", 67, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE BOARD OF ED, DIST NO. 6", "IRIS ZUÑIGA" ]
+, [ 68, "4EC632D1-6114-47B8-B7CF-FBB65C394704", 68, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE BOARD OF ED, DIST NO. 6", "MONICA RATLIFF" ]
+, [ 69, "63D7FE28-CB31-41D9-B98E-57399F5F2611", 69, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE BOARD OF ED, DIST NO. 6", "ANTONIO SANCHEZ" ]
+, [ 70, "BEEFBE0B-916A-43E5-86C0-D72572067581", 70, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE BOARD OF TRUSTEES, SEAT NO. 2", "MIKE ENG" ]
+, [ 71, "ECF8E390-F1CC-4EB1-832F-6CD58E8E1415", 71, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE BOARD OF TRUSTEES, SEAT NO. 2", "JOHN C. BURKE" ]
+, [ 72, "C2D7885D-0E14-4ACA-B5F2-DC7BF7F1A071", 72, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE BOARD OF TRUSTEES, SEAT NO. 4", "JOZEF \"JOE\" THOMAS ESSAVI" ]
+, [ 73, "5EF09C66-E476-45EB-8EEA-0F46CDE2CBDE", 73, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE BOARD OF TRUSTEES, SEAT NO. 4", "ERNEST HENRY MORENO" ]
+, [ 74, "898526E3-8418-47B9-9869-2C3E1CC676CC", 74, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE BOARD OF TRUSTEES, SEAT NO. 6", "TOM OLIVER" ]
+, [ 75, "6AEB05AE-16A2-4956-9BDE-9DB24A7080B3", 75, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE BOARD OF TRUSTEES, SEAT NO. 6", "NANCY PEARLMAN" ]
+, [ 76, "A59BD7EF-74C2-4117-A4F4-3F934225E2B6", 76, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE BOARD OF TRUSTEES, SEAT NO. 6", "MICHAEL \"MIKE\" ALDAPA" ]
+, [ 77, "B682814C-5AC9-46DB-AAA5-372E817A340A", 77, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEMBER OF THE BOARD OF TRUSTEES, SEAT NO. 6", "DAVID VELA" ]
+, [ 78, "F9CC8030-F0A0-4FDD-913C-3E6EFC500B2F", 78, 1401460967, "883711", 1401460967, "883711", "{\n}", "PROPOSITION A - NEIGHBOORHOOD PUBLIC SAFETY AND VITAL CITY SERVICES FUNDING AND ACCOUNTABILITY MEASURE.", "YES" ]
+, [ 79, "6EFEB201-33E4-40C4-ACA4-01D5F11B16F8", 79, 1401460967, "883711", 1401460967, "883711", "{\n}", "PROPOSITION A - NEIGHBOORHOOD PUBLIC SAFETY AND VITAL CITY SERVICES FUNDING AND ACCOUNTABILITY MEASURE.", "NO" ]
+, [ 80, "C26B88B3-7642-4972-BA45-4315D6E4F894", 80, 1401460967, "883711", 1401460967, "883711", "{\n}", "CHARTER AMENDMENT B - FIRE AND POLICE PENSION PLANS; COST NEUTRAL PURCHASES OF RETIREMENT CREDIT BY CERTAIN MEMBERS.", "YES" ]
+, [ 81, "4FD7805B-A652-462C-B4F6-DC0907E083EE", 81, 1401460967, "883711", 1401460967, "883711", "{\n}", "CHARTER AMENDMENT B - FIRE AND POLICE PENSION PLANS; COST NEUTRAL PURCHASES OF RETIREMENT CREDIT BY CERTAIN MEMBERS.", "NO" ]
+, [ 82, "EF993BCD-020D-48E7-9568-7110BD487182", 82, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEASURE S - BURBANK SCHOOLS IMPROVEMENT MEASURE.", "YES" ]
+, [ 83, "7A6CBF82-8FC3-4B0B-A57F-621832FDA21A", 83, 1401460967, "883711", 1401460967, "883711", "{\n}", "MEASURE S - BURBANK SCHOOLS IMPROVEMENT MEASURE.", "NO" ]
+ ]
+}

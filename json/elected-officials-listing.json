@@ -1,0 +1,311 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "2yhc-k26x",
+      "name" : "Elected Officials Listing",
+      "averageRating" : 0,
+      "category" : "A Well Run City",
+      "createdAt" : 1394388862,
+      "description" : "List of elected officials and their offices.",
+      "displayType" : "table",
+      "downloadCount" : 13,
+      "indexUpdatedAt" : 1414613706,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 7505276,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1394388907,
+      "publicationGroup" : 1503367,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1394388867,
+      "rowsUpdatedBy" : "ujkb-kbnj",
+      "tableId" : 1503367,
+      "totalTimesRated" : 0,
+      "viewCount" : 156,
+      "viewLastModified" : 1401471518,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 137102769,
+        "name" : "Office Name",
+        "dataTypeName" : "text",
+        "fieldName" : "office_name",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18525215,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 18,
+          "smallest" : "City Attorney",
+          "null" : 0,
+          "largest" : "The Mayor",
+          "top" : [ {
+            "count" : 20,
+            "item" : "The Mayor"
+          }, {
+            "count" : 19,
+            "item" : "City Attorney"
+          }, {
+            "count" : 18,
+            "item" : "City Controller"
+          }, {
+            "count" : 17,
+            "item" : "Council District 1 "
+          }, {
+            "count" : 16,
+            "item" : "Council District 2"
+          }, {
+            "count" : 15,
+            "item" : "Council District 3 "
+          }, {
+            "count" : 14,
+            "item" : "Council District 4 "
+          }, {
+            "count" : 13,
+            "item" : "Council District 5"
+          }, {
+            "count" : 12,
+            "item" : "Council District 6"
+          }, {
+            "count" : 11,
+            "item" : "Council District 7 "
+          }, {
+            "count" : 10,
+            "item" : "Council District 8"
+          }, {
+            "count" : 9,
+            "item" : "Council District 9"
+          }, {
+            "count" : 8,
+            "item" : "Council District 10"
+          }, {
+            "count" : 7,
+            "item" : "Council District 11"
+          }, {
+            "count" : 6,
+            "item" : "Council District 12"
+          }, {
+            "count" : 5,
+            "item" : "Council District 13 "
+          }, {
+            "count" : 4,
+            "item" : "Council District 14"
+          }, {
+            "count" : 3,
+            "item" : "Council District 15"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 137102770,
+        "name" : "Official Name",
+        "dataTypeName" : "text",
+        "fieldName" : "official_name",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18525216,
+        "width" : 256,
+        "cachedContents" : {
+          "non_null" : 18,
+          "smallest" : "Bernard Parks",
+          "null" : 0,
+          "largest" : "Tom LaBonge",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Eric Garcetti"
+          }, {
+            "count" : 19,
+            "item" : "Mike Feuer"
+          }, {
+            "count" : 18,
+            "item" : "Ron Galperin"
+          }, {
+            "count" : 17,
+            "item" : "Gilbert Cedillo"
+          }, {
+            "count" : 16,
+            "item" : "Paul Krekorian"
+          }, {
+            "count" : 15,
+            "item" : "Bob Blumenfield"
+          }, {
+            "count" : 14,
+            "item" : "Tom LaBonge"
+          }, {
+            "count" : 13,
+            "item" : "Paul Koretz"
+          }, {
+            "count" : 12,
+            "item" : "Nury Martinez"
+          }, {
+            "count" : 11,
+            "item" : "Felipe Fuentes"
+          }, {
+            "count" : 10,
+            "item" : "Bernard Parks"
+          }, {
+            "count" : 9,
+            "item" : "Curren D. Price Jr."
+          }, {
+            "count" : 8,
+            "item" : "Herb J. Wesson, Jr."
+          }, {
+            "count" : 7,
+            "item" : "Mike Bonin"
+          }, {
+            "count" : 6,
+            "item" : "Mitchell Englander"
+          }, {
+            "count" : 5,
+            "item" : "Mitch O'Farrell"
+          }, {
+            "count" : 4,
+            "item" : "Jose Huizar"
+          }, {
+            "count" : 3,
+            "item" : "Joe Buscaino"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Information Technology"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "yb4r-dcys",
+        "displayName" : "ITA OpenData",
+        "profileImageUrlLarge" : "/images/profile/9462/4839/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9462/4839/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9462/4839/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "ITA OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "ujkb-kbnj",
+        "displayName" : "Joyce Edson",
+        "profileImageUrlLarge" : "/images/profile/9325/1160/avatar_for_fb_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9325/1160/avatar_for_fb_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9325/1160/avatar_for_fb_tiny.jpg",
+        "roleName" : "administrator",
+        "screenName" : "Joyce Edson",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "D9C4A3EE-890B-48BB-BFF5-E0C1F6CA9666", 1, 1394388865, "862831", 1394388865, "862831", "{\n}", "The Mayor", "Eric Garcetti" ]
+, [ 2, "B85D2A8D-D92D-4A36-A05A-D0B29084965E", 2, 1394388865, "862831", 1394388865, "862831", "{\n}", "City Attorney", "Mike Feuer" ]
+, [ 3, "3F839CE3-A7A0-45F1-AB64-EDA8E9B81BD3", 3, 1394388865, "862831", 1394388865, "862831", "{\n}", "City Controller", "Ron Galperin" ]
+, [ 4, "6315BE67-8C9B-4F4B-921C-2B4F39C821E4", 4, 1394388865, "862831", 1394388865, "862831", "{\n}", "Council District 1 ", "Gilbert Cedillo" ]
+, [ 5, "FC28E822-FCC6-4818-B48C-9A0AFC31D133", 5, 1394388865, "862831", 1394388865, "862831", "{\n}", "Council District 2", "Paul Krekorian" ]
+, [ 6, "05DA5A20-E3E9-4002-ABEE-71F85A51BE39", 6, 1394388865, "862831", 1394388865, "862831", "{\n}", "Council District 3 ", "Bob Blumenfield" ]
+, [ 7, "9127602D-1A1F-42A7-8941-76ECFA055B8B", 7, 1394388865, "862831", 1394388865, "862831", "{\n}", "Council District 4 ", "Tom LaBonge" ]
+, [ 8, "027815A3-EDD4-4DD1-8039-A5C752E5AB60", 8, 1394388865, "862831", 1394388865, "862831", "{\n}", "Council District 5", "Paul Koretz" ]
+, [ 9, "D9EC3FEF-36A8-40A1-9BA3-0B723B3674EC", 9, 1394388865, "862831", 1394388865, "862831", "{\n}", "Council District 6", "Nury Martinez" ]
+, [ 10, "3233E90B-5FE0-40B2-907A-28C0D6DFA591", 10, 1394388865, "862831", 1394388865, "862831", "{\n}", "Council District 7 ", "Felipe Fuentes" ]
+, [ 11, "F549A7F5-4B29-42CE-BCC1-38844E039B9F", 11, 1394388865, "862831", 1394388865, "862831", "{\n}", "Council District 8", "Bernard Parks" ]
+, [ 12, "BFE8F1E8-4227-4BEF-936D-365C659EF5B4", 12, 1394388865, "862831", 1394388865, "862831", "{\n}", "Council District 9", "Curren D. Price Jr." ]
+, [ 13, "D1CA0389-2B39-42EB-8C9F-BC38600C924A", 13, 1394388865, "862831", 1394388865, "862831", "{\n}", "Council District 10", "Herb J. Wesson, Jr." ]
+, [ 14, "2B406AB1-BF97-4E82-B273-88481677B83D", 14, 1394388865, "862831", 1394388865, "862831", "{\n}", "Council District 11", "Mike Bonin" ]
+, [ 15, "B07C7891-F5A8-4C17-A2BD-51BEAA3453C7", 15, 1394388865, "862831", 1394388865, "862831", "{\n}", "Council District 12", "Mitchell Englander" ]
+, [ 16, "4AE7B73F-3EBB-43DA-8CF3-0CBE66C125AA", 16, 1394388865, "862831", 1394388865, "862831", "{\n}", "Council District 13 ", "Mitch O'Farrell" ]
+, [ 17, "B3E86824-706E-4850-AFA2-B9187027FDD9", 17, 1394388865, "862831", 1394388865, "862831", "{\n}", "Council District 14", "Jose Huizar" ]
+, [ 18, "A05FB098-473B-45FE-967B-F0750231FB91", 18, 1394388865, "862831", 1394388865, "862831", "{\n}", "Council District 15", "Joe Buscaino" ]
+ ]
+}

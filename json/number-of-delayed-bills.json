@@ -1,0 +1,265 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "f7se-beud",
+      "name" : "Number Of Delayed Bills",
+      "attribution" : "LADWP",
+      "averageRating" : 0,
+      "category" : "A Well Run City",
+      "createdAt" : 1400885238,
+      "description" : "Number of delayed LADWP bills and revenue in millions from delayed bills.",
+      "displayType" : "table",
+      "downloadCount" : 6,
+      "indexUpdatedAt" : 1414613645,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8060177,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1400885353,
+      "publicationGroup" : 1593173,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1400885245,
+      "rowsUpdatedBy" : "7q7s-tyf3",
+      "tableId" : 1593173,
+      "totalTimesRated" : 0,
+      "viewCount" : 30,
+      "viewLastModified" : 1401231246,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 149728341,
+        "name" : "Month",
+        "dataTypeName" : "text",
+        "fieldName" : "month",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19909803,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "Delayed Bill Revenue (Million)",
+          "null" : 0,
+          "largest" : "No. of Delayed Bills",
+          "top" : [ {
+            "count" : 20,
+            "item" : "No. of Delayed Bills"
+          }, {
+            "count" : 19,
+            "item" : "Delayed Bill Revenue (Million)"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149728342,
+        "name" : "Jan-14",
+        "dataTypeName" : "money",
+        "fieldName" : "jan_14",
+        "position" : 3,
+        "renderTypeName" : "money",
+        "tableColumnId" : 19909804,
+        "width" : 172,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "160",
+          "sum" : "74620",
+          "null" : 0,
+          "average" : "37310",
+          "largest" : "74460",
+          "top" : [ {
+            "count" : 20,
+            "item" : "74460"
+          }, {
+            "count" : 19,
+            "item" : "160"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149728343,
+        "name" : "Feb-14",
+        "dataTypeName" : "money",
+        "fieldName" : "feb_14",
+        "position" : 4,
+        "renderTypeName" : "money",
+        "tableColumnId" : 19909805,
+        "width" : 172,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "145",
+          "sum" : "145",
+          "null" : 1,
+          "average" : "145",
+          "largest" : "145",
+          "top" : [ {
+            "count" : 20,
+            "item" : "145"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149728344,
+        "name" : "Mar-14",
+        "dataTypeName" : "money",
+        "fieldName" : "mar_14",
+        "position" : 5,
+        "renderTypeName" : "money",
+        "tableColumnId" : 19909806,
+        "width" : 172,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "71",
+          "sum" : "71",
+          "null" : 1,
+          "average" : "71",
+          "largest" : "71",
+          "top" : [ {
+            "count" : 20,
+            "item" : "71"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149728345,
+        "name" : "Apr-14",
+        "dataTypeName" : "money",
+        "fieldName" : "apr_14",
+        "position" : 6,
+        "renderTypeName" : "money",
+        "tableColumnId" : 19909807,
+        "width" : 172,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "56",
+          "sum" : "56",
+          "null" : 1,
+          "average" : "56",
+          "largest" : "56",
+          "top" : [ {
+            "count" : 20,
+            "item" : "56"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "LADWP"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "hb8e-gdsp",
+        "displayName" : "LA DWP OpenData",
+        "profileImageUrlLarge" : "/images/profile/5225/6660/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5225/6660/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5225/6660/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LA DWP OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "7q7s-tyf3",
+        "displayName" : "Steve Baule",
+        "roleName" : "editor",
+        "screenName" : "Steve Baule",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "delayed bills" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "1366C7D4-916A-43AA-8BD7-7715DD54EE59", 1, 1400885241, "877550", 1400885241, "877550", "{\n  \"invalidCells\" : {\n    \"19909806\" : \"* 75,975\",\n    \"19909807\" : \"* 57,508\",\n    \"19909805\" : \"* 74,701\"\n  }\n}", "No. of Delayed Bills", "74460", null, null, null ]
+, [ 2, "86B02F4F-67D7-4B25-BCBD-0B1C4898803D", 2, 1400885241, "877550", 1400885241, "877550", "{\n}", "Delayed Bill Revenue (Million)", "160", "145", "71", "56" ]
+ ]
+}

@@ -1,0 +1,354 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "jdgw-bwcf",
+      "name" : "POLA Finance Annual Financial Report (CAFR)",
+      "attribution" : "Port of Los Angeles",
+      "averageRating" : 0,
+      "category" : "A Well Run City",
+      "createdAt" : 1400258881,
+      "description" : "POLA Finance Annual Financial Report (CAFR)",
+      "displayType" : "table",
+      "downloadCount" : 3,
+      "indexUpdatedAt" : 1414616931,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8030102,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1400533614,
+      "publicationGroup" : 1584045,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1400533610,
+      "rowsUpdatedBy" : "g9i9-z6y7",
+      "tableId" : 1587623,
+      "totalTimesRated" : 0,
+      "viewCount" : 26,
+      "viewLastModified" : 1400533614,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 149120187,
+        "name" : "Account/Category",
+        "dataTypeName" : "text",
+        "fieldName" : "account_category",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19769802,
+        "width" : 292,
+        "cachedContents" : {
+          "non_null" : 92,
+          "smallest" : "Account/Category",
+          "null" : 0,
+          "largest" : "Special item",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Nonoperating Revenue(Expenses).Othe nonoperating expense"
+          }, {
+            "count" : 19,
+            "item" : "Nonoperating Revenue(Expenses).Total"
+          }, {
+            "count" : 18,
+            "item" : "Income before capital conributions"
+          }, {
+            "count" : 17,
+            "item" : "Capital contributions "
+          }, {
+            "count" : 16,
+            "item" : "Special item"
+          }, {
+            "count" : 15,
+            "item" : "Changes in Net Position"
+          }, {
+            "count" : 14,
+            "item" : "Net Position as of July 1 2013"
+          }, {
+            "count" : 13,
+            "item" : "Net adjustment for write off of prior period bond issue costs "
+          }, {
+            "count" : 12,
+            "item" : "Net position as of July 1 2013, restated"
+          }, {
+            "count" : 11,
+            "item" : "Net Position as of June 30 2014"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149120188,
+        "name" : " FY 2013 ",
+        "dataTypeName" : "money",
+        "fieldName" : "fy_2013",
+        "position" : 3,
+        "renderTypeName" : "money",
+        "tableColumnId" : 19769803,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 89,
+          "smallest" : "-15947",
+          "sum" : "33305729",
+          "null" : 3,
+          "average" : "374221.6741573034",
+          "largest" : "4088126",
+          "top" : [ {
+            "count" : 20,
+            "item" : "17630"
+          }, {
+            "count" : 19,
+            "item" : "13387"
+          }, {
+            "count" : 18,
+            "item" : "116365"
+          }, {
+            "count" : 17,
+            "item" : "2776128"
+          }, {
+            "count" : 16,
+            "item" : "-8142"
+          }, {
+            "count" : 15,
+            "item" : "2767986"
+          }, {
+            "count" : 14,
+            "item" : "2884351"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149120189,
+        "name" : " FY 2012 ",
+        "dataTypeName" : "money",
+        "fieldName" : "fy_2012",
+        "position" : 4,
+        "renderTypeName" : "money",
+        "tableColumnId" : 19769804,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 87,
+          "smallest" : "-22526",
+          "sum" : "32724661",
+          "null" : 5,
+          "average" : "376145.5287356322",
+          "largest" : "4012164",
+          "top" : [ {
+            "count" : 20,
+            "item" : "31307"
+          }, {
+            "count" : 19,
+            "item" : "133243"
+          }, {
+            "count" : 18,
+            "item" : "2642885"
+          }, {
+            "count" : 17,
+            "item" : "2776128"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Harbor"
+          }
+        }
+      },
+      "owner" : {
+        "id" : "2ib6-ssvz",
+        "displayName" : "Port of Los Angeles",
+        "profileImageUrlLarge" : "/images/profile/9654/0122/POLALogo2_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9654/0122/POLALogo2_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9654/0122/POLALogo2_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Port of Los Angeles",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "2ib6-ssvz",
+        "displayName" : "Port of Los Angeles",
+        "profileImageUrlLarge" : "/images/profile/9654/0122/POLALogo2_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9654/0122/POLALogo2_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9654/0122/POLALogo2_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Port of Los Angeles",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "cafr" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "3B6E2252-F130-4331-9CCE-B0B74B96E0BA", 1, 1400258884, "870164", 1400258884, "870164", "{\n}", "Assets.Current Assets.Cash and cash equivalents, unrestricted ", "351793", "444355" ]
+, [ 2, "8A2272F4-D53C-4827-9D1D-B4FA3B64E918", 2, 1400258884, "870164", 1400258884, "870164", "{\n}", "Assets.Current Assets.Cash and cash equivalents, restricted ", "38066", "43236" ]
+, [ 3, "0E15B770-9C63-48ED-9552-E3485C127C88", 3, 1400258884, "870164", 1400258884, "870164", "{\n}", "Assets.Current Assets.Accounts receivable, net of allowance for doubtful accounts:  2013 - $5,170; 2012 - $5,368", "36200", "33646" ]
+, [ 4, "FD736E06-A9C5-457C-8107-F25E6B446C8F", 4, 1400258884, "870164", 1400258884, "870164", "{\n}", "Assets.Current Assets.Grants receivable", "19161", "19460" ]
+, [ 5, "CD863FF0-1DB9-454F-B76A-870278959688", 5, 1400258884, "870164", 1400258884, "870164", "{\n}", "Assets.Current Assets.Materials and supplies inventories", "2054", "2103" ]
+, [ 6, "AD57AD00-AE16-402C-B90A-8D5F811C4E07", 6, 1400258884, "870164", 1400258884, "870164", "{\n}", "Assets.Current Assets.Prepaid expenses", "671", "724" ]
+, [ 7, "C14587BE-AEB9-4F00-B2FC-CF5A25C46EE0", 7, 1400258884, "870164", 1400258884, "870164", "{\n}", "Assets.Current Assets.Accrued interest receivable", "934", "859" ]
+, [ 8, "B09D25C8-FF31-4D8B-96F7-19AB80C8ABE0", 8, 1400258884, "870164", 1400258884, "870164", "{\n}", "Assets.Current Assets.Current portion of notes receivable", "4803", "4663" ]
+, [ 9, "B8D311D1-E82F-495B-BE9F-84C1F1AA11D7", 9, 1400258884, "870164", 1400258884, "870164", "{\n}", "Assets.Current Assets.Total", "453682", "549046" ]
+, [ 10, "0EB6C004-58FD-401C-A5E2-43D943CC6804", 10, 1400258884, "870164", 1400258884, "870164", "{\n}", "Assets.Noncurrent Restricted Assets.Restricted investments – bond funds", "57913", "67796" ]
+, [ 11, "91FAF12F-3CFB-49E7-B4F0-2025596B7475", 11, 1400258884, "870164", 1400258884, "870164", "{\n}", "Assets.Noncurrent Restricted Assets.Other restricted cash and investments ", "9787", "9790" ]
+, [ 12, "501AF77E-D9B1-49CE-AF1C-55FD3109C032", 12, 1400258884, "870164", 1400258884, "870164", "{\n}", "Assets.Noncurrent Restricted Assets.Accrued interest receivable", "3", "2" ]
+, [ 13, "4F307E21-F46F-4FB9-9795-1F5147DE7A77", 13, 1400258884, "870164", 1400258884, "870164", "{\n}", "Assets.Noncurrent Restricted Assets.Total", "67703", "77588" ]
+, [ 14, "EC867B12-4E9F-493F-8DE7-84520D6742EE", 14, 1400258884, "870164", 1400258884, "870164", "{\n}", "Assets.Capital assets.Land", "1133902", "1072398" ]
+, [ 15, "2EDD26DB-01D9-4D70-A338-FB4A76D4699C", 15, 1400258884, "870164", 1400258884, "870164", "{\n}", "Assets.Capital assets.Facilities and equipment net of accumulated depreciation:  2013 - $1,496,429; 2012 - $1,388,644", "1821353", "1788966" ]
+, [ 16, "4E167D32-6C06-4154-BD01-DABBFFC1873B", 16, 1400258884, "870164", 1400258884, "870164", "{\n}", "Assets.Capital assets.Intangible assets, net of amortization: 2013 - $203 ", "20942", "16953" ]
+, [ 17, "C36FCAD9-FBA7-4305-B6F1-F5EE5BEA7890", 17, 1400258884, "870164", 1400258884, "870164", "{\n}", "Assets.Capital assets.Construction in progress", "342279", "328026" ]
+, [ 18, "658B812E-D55F-4B44-8922-EEC1063F21FC", 18, 1400258884, "870164", 1400258884, "870164", "{\n}", "Assets.Capital assets.Preliminary costs – capital projects", "233029", "151977" ]
+, [ 19, "646DF5C5-B5B1-4666-8BE7-CFF2E3CEA4F6", 19, 1400258884, "870164", 1400258884, "870164", "{\n}", "Assets.Capital assets.Total", "3551505", "3358320" ]
+, [ 20, "0337DFF0-69E0-4D98-8A3B-D80FC268579C", 20, 1400258884, "870164", 1400258884, "870164", "{\n}", "Assets.Notes receivable", "10150", "14975" ]
+, [ 21, "88D16712-E974-46DA-9FD0-99E6D5F61D03", 21, 1400258884, "870164", 1400258884, "870164", "{\n}", "Assets. Investment in Joint Powers Authorities ", "5086", "5037" ]
+, [ 22, "76F8A27F-DED1-4172-8F90-8E5886F73E69", 22, 1400258884, "870164", 1400258884, "870164", "{\n  \"invalidCells\" : {\n    \"19769803\" : \" - \"\n  }\n}", "Assets.Other assets", null, "7198" ]
+, [ 23, "E4FA1C1E-52B0-4B9A-B55C-D9633830A8E1", 23, 1400258884, "870164", 1400258884, "870164", "{\n}", "Assets.Total", "4088126", "4012164" ]
+, [ 24, "D423A118-1046-41DD-835E-705531FDBFB7", 24, 1400258884, "870164", 1400258884, "870164", "{\n}", "Deferred Outflows of Resources.Deferred charges on debt refunding", "5660", "6726" ]
+, [ 25, "39A41E24-3F1E-4C97-A935-EE7F2312FDE6", 25, 1400258884, "870164", 1400258884, "870164", "{\n}", "Liabilities.Current Liabilities.Accounts payable", "69966", "41118" ]
+, [ 26, "776FB9AD-DEEB-4EBC-9349-D98F450EC888", 26, 1400258884, "870164", 1400258884, "870164", "{\n}", "Liabilities.Current Liabilities.Current maturities of notes payable and bonded debt", "26235", "31816" ]
+, [ 27, "E1B25D98-9D43-483A-B70F-2FEEA946D49D", 27, 1400258884, "870164", 1400258884, "870164", "{\n}", "Liabilities.Current Liabilities.Accrued interest payable", "16564", "17650" ]
+, [ 28, "D122C311-A336-44F8-91B5-96C1C61B7CF1", 28, 1400258884, "870164", 1400258884, "870164", "{\n}", "Liabilities.Current Liabilities.Accrued salaries and employee benefits", "14461", "10786" ]
+, [ 29, "3B73DE36-8F2B-491D-826D-1A167C36D04D", 29, 1400258884, "870164", 1400258884, "870164", "{\n  \"invalidCells\" : {\n    \"19769804\" : \" - \"\n  }\n}", "Liabilities.Current Liabilities.Obligations under securities lending transactions", "1447", null ]
+, [ 30, "32091A9C-23D3-442F-B10E-77CF05273FA7", 30, 1400258884, "870164", 1400258884, "870164", "{\n}", "Liabilities.Current Liabilities.Accrued construction cost payable", "1658", "2171" ]
+, [ 31, "17C28F43-02DA-4E45-8684-FAD3D31EBF31", 31, 1400258884, "870164", 1400258884, "870164", "{\n}", "Liabilities.Current Liabilities.Other current liabilities", "57888", "63715" ]
+, [ 32, "164B7AB1-4253-492E-92F2-801223DCCF74", 32, 1400258884, "870164", 1400258884, "870164", "{\n}", "Liabilities.Current Liabilities.Total", "188219", "167256" ]
+, [ 33, "8EFEBD77-864F-4E5A-AFE0-0C3CBBA58CCE", 33, 1400258884, "870164", 1400258884, "870164", "{\n}", "Liabilities.Long-term liabilities.Long-term liabilities payable from unrestricted assets.Bonds payable, net of unamortized discount/premium: 2013 - $30,390 ; 2012 - $33,363", "794895", "842203" ]
+, [ 34, "A9B68EF8-7C82-48F4-B965-A18C6FAE9D95", 34, 1400258884, "870164", 1400258884, "870164", "{\n  \"invalidCells\" : {\n    \"19769803\" : \" - \"\n  }\n}", "Liabilities.Long-term liabilities.Long-term liabilities payable from unrestricted assets.Notes payable, net of current portion", null, "835" ]
+, [ 35, "04FBD16A-4258-4E51-9902-ED1CEB979AE2", 35, 1400258884, "870164", 1400258884, "870164", "{\n}", "Liabilities.Long-term liabilities.Long-term liabilities payable from unrestricted assets.Commercial paper", "100000", "100000" ]
+, [ 36, "BF9ED805-D8CC-4920-82F8-0B0863369CAA", 36, 1400258884, "870164", 1400258884, "870164", "{\n}", "Liabilities.Long-term liabilities.Long-term liabilities payable from unrestricted assets.Accrued employee benefits", "11559", "11241" ]
+, [ 37, "85144D97-1827-4792-A5FB-E8356A36335C", 37, 1400258884, "870164", 1400258884, "870164", "{\n}", "Liabilities.Long-term liabilities.Long-term liabilities payable from unrestricted assets.Other liabilities", "105201", "111633" ]
+, [ 38, "BC6A69C7-DC9F-463E-935A-D81D8D43D663", 38, 1400258884, "870164", 1400258884, "870164", "{\n}", "Liabilities.Long-term liabilities.Long-term liabilities payable from unrestricted assets.Total", "1011655", "1065912" ]
+, [ 39, "7C6ADF76-0F80-4CEF-9C8D-E8049BC9BC0E", 39, 1400258884, "870164", 1400258884, "870164", "{\n}", "Liabilities.Long-term liabilities payable from restricted assets ", "9561", "9594" ]
+, [ 40, "8A1DA3B5-031A-406A-8557-4A6074BDFB92", 40, 1400258884, "870164", 1400258884, "870164", "{\n}", "Liabilities.Long-term liabilities. Total", "1021216", "1075506" ]
+, [ 41, "A12814C4-A77A-4E02-8B79-97757AD340D5", 41, 1400258884, "870164", 1400258884, "870164", "{\n}", "Liabilites.Total", "1209435", "1242762" ]
+, [ 42, "A6C5EB05-0FA3-43C4-82C5-04B13F6CA2DF", 42, 1400258884, "870164", 1400258884, "870164", "{\n}", "Net Position.Net investment in capital assets", "2634840", "2397744" ]
+, [ 43, "5EB1CF8A-C7E0-446A-B2C2-9F2F1E4E63A2", 43, 1400258884, "870164", 1400258884, "870164", "{\n}", "Net Position.Restricted for debt service", "57913", "67796" ]
+, [ 44, "69FAC13B-4694-4DB0-8EBA-BBE6B0DD5E35", 44, 1400258884, "870164", 1400258884, "870164", "{\n}", "Net Position.Unrestricted", "191598", "310588" ]
+, [ 45, "1A0EBE22-1896-4330-BFDA-EC7939EDBC3B", 45, 1400258884, "870164", 1400258884, "870164", "{\n}", "Net Position.Total", "2884351", "2776128" ]
+, [ 46, "CC3E448B-39DD-4D9C-BF51-735A81A63088", 46, 1400258884, "870164", 1400258884, "870164", "{\n  \"invalidCells\" : {\n    \"19769804\" : \"FY 2012\",\n    \"19769803\" : \"FY 2013\"\n  }\n}", "Account/Category", null, null ]
+, [ 47, "37E74601-B245-4D59-AE59-2FC1C120968D", 47, 1400258884, "870164", 1400258884, "870164", "{\n}", "Operating Revenues.Shipping services.Wharfage", "322821", "333757" ]
+, [ 48, "C159CA80-C0E4-4B2F-B1C0-634820225278", 48, 1400258884, "870164", 1400258884, "870164", "{\n}", "Operating Revenues.Shipping services.Dockage", "4689", "4813" ]
+, [ 49, "658B5ED1-CE81-4528-8936-0120599D03E4", 49, 1400258884, "870164", 1400258884, "870164", "{\n}", "Operating Revenues.Shipping services.Demurrage", "228", "230" ]
+, [ 50, "6EFA5D64-163C-4E95-BF81-3C602EEC6786", 50, 1400258884, "870164", 1400258884, "870164", "{\n}", "Operating Revenues.Shipping services.Pilotage", "6954", "7131" ]
+, [ 51, "0203E401-C9E2-4595-B1FF-F8FEC48940C5", 51, 1400258884, "870164", 1400258884, "870164", "{\n}", "Operating Revenues.Shipping services.Assignment charges", "13184", "11785" ]
+, [ 52, "A28A5625-A7C9-45FD-A305-66195F4CEFB1", 52, 1400258884, "870164", 1400258884, "870164", "{\n}", "Operating Revenues.Shipping services.Total", "347876", "357716" ]
+, [ 53, "600558DF-A6D4-4C42-BF54-A6304AD74F8C", 53, 1400258884, "870164", 1400258884, "870164", "{\n}", "Operating Revenues.Rentals Revenue.Land", "38856", "40127" ]
+, [ 54, "0C2E4C30-BBA5-4DAB-A6DA-777F89468CCD", 54, 1400258884, "870164", 1400258884, "870164", "{\n}", "Operating Revenues.Rentals Revenue.Buildings", "2103", "1252" ]
+, [ 55, "E100BCA8-FE94-4DC6-8B87-B1F8F3659D57", 55, 1400258884, "870164", 1400258884, "870164", "{\n}", "Operating Revenues.Rentals Revenue.Warehouses", "1447", "1437" ]
+, [ 56, "6AB80DB9-93A2-42CA-9596-FD0AB8002292", 56, 1400258884, "870164", 1400258884, "870164", "{\n}", "Operating Revenues.Rentals Revenue.Wharf and shed", "484", "327" ]
+, [ 57, "F1706008-28E2-4848-8484-BF6FD737A001", 57, 1400258884, "870164", 1400258884, "870164", "{\n}", "Operating Revenues.Rentals Revenue.Total", "42890", "43143" ]
+, [ 58, "1BA754AD-81B0-401A-9FA7-E3B023133EC8", 58, 1400258884, "870164", 1400258884, "870164", "{\n}", "Operating Revenues.Royalties, fees, and other operating revenues.Fees, concessions, and royalties", "1744", "1866" ]
+, [ 59, "F65AC653-EA7B-42D6-A908-3A4D430F4930", 59, 1400258884, "870164", 1400258884, "870164", "{\n}", "Operating Revenues.Royalties, fees, and other operating revenues.Clean truck program fees", "1409", "3250" ]
+, [ 60, "D7E426D2-4309-4BC6-97DE-09399B80CAFC", 60, 1400258884, "870164", 1400258884, "870164", "{\n}", "Operating Revenues.Royalties, fees, and other operating revenues.Oil royalties", "567", "164" ]
+, [ 61, "2E8B2B2D-0587-4A15-BB9D-7AE92E1A9452", 61, 1400258884, "870164", 1400258884, "870164", "{\n}", "Operating Revenues.Royalties, fees, and other operating revenues.Other", "2882", "3648" ]
+, [ 62, "3ACD059B-4EBB-434E-B6E8-3DA0248C49E4", 62, 1400258884, "870164", 1400258884, "870164", "{\n}", "Operating Revenues.Royalties, fees, and other operating revenues.Total", "6602", "8928" ]
+, [ 63, "4290AB4C-2568-4AE4-AA54-9A275E8C0508", 63, 1400258884, "870164", 1400258884, "870164", "{\n}", "Operating Revenues.Total", "397368", "409787" ]
+, [ 64, "F7B4F781-6CE2-4838-BA5A-E044AF5D8902", 64, 1400258884, "870164", 1400258884, "870164", "{\n}", "Operating Expenses.Salaries and benefits, net of capitalized amounts: 2013 . $21,080; 2012 $20,563", "109463", "104910" ]
+, [ 65, "CF9FF3FC-313E-4D87-8C01-26D6D9E8E896", 65, 1400258884, "870164", 1400258884, "870164", "{\n}", "Operating Expenses.Marketing and public relations", "3092", "3380" ]
+, [ 66, "0F04CEF6-A684-47AF-BF79-6ABEB4964015", 66, 1400258884, "870164", 1400258884, "870164", "{\n}", "Operating Expenses.Travel and entertainment", "1130", "991" ]
+, [ 67, "874C781B-F4D3-43FE-9C24-37DC0C0E29EF", 67, 1400258884, "870164", 1400258884, "870164", "{\n}", "Operating Expenses.Outside services", "31905", "29426" ]
+, [ 68, "E6486A6B-D842-4210-AC2A-381E6A7B25D1", 68, 1400258884, "870164", 1400258884, "870164", "{\n}", "Operating Expenses.Materials and supplies", "6531", "6717" ]
+, [ 69, "8FB0EB36-CADF-43F8-8AE6-A160018DE340", 69, 1400258884, "870164", 1400258884, "870164", "{\n}", "Operating Expenses.City services, net of capitalized amounts: 2013 . $30,553; 2012 . $16,211", "19284", "22236" ]
+, [ 70, "71E8A550-ACF6-4DBB-AFE8-D156FC1651AD", 70, 1400258884, "870164", 1400258884, "870164", "{\n}", "Operating Expenses.Provision for workers’ compensation claims", "3112", "7507" ]
+, [ 71, "F6C9D082-B500-4733-A550-4731E988A918", 71, 1400258884, "870164", 1400258884, "870164", "{\n  \"invalidCells\" : {\n    \"19769804\" : \" -- \"\n  }\n}", "Operating Expenses.Litigation, claims, and settlement expenses", "438", null ]
+, [ 72, "CDE8A645-EF08-499A-BCC1-4F8CE9E4033F", 72, 1400258884, "870164", 1400258884, "870164", "{\n}", "Operating Expenses.Clean truck program expenses", "934", "790" ]
+, [ 73, "CA333BC1-7CAB-4B10-B022-E6FE44722366", 73, 1400258884, "870164", 1400258884, "870164", "{\n}", "Operating Expenses.Pollution remediaion expenses ", "11635", "6341" ]
+, [ 74, "1CBB2A23-2B37-45F3-B097-8E7E39F8FF57", 74, 1400258884, "870164", 1400258884, "870164", "{\n}", "Operating Expenses.Other operating expenses", "17645", "17508" ]
+, [ 75, "372BEBAC-4BCA-4640-A831-6A7E260CDDD7", 75, 1400258884, "870164", 1400258884, "870164", "{\n}", "Operating Expenses.Before depreciation total", "205169", "199806" ]
+, [ 76, "A27508CC-C2FE-4595-A96D-0F2A0C0CCB15", 76, 1400258884, "870164", 1400258884, "870164", "{\n}", "Operating income before depreciation", "192199", "209981" ]
+, [ 77, "BF10FD47-CC57-433E-B231-045C5183F124", 77, 1400258884, "870164", 1400258884, "870164", "{\n}", "Depreciation ", "108037", "100485" ]
+, [ 78, "D34A7B6B-13FD-4FFB-A009-7937C6F85A55", 78, 1400258884, "870164", 1400258884, "870164", "{\n}", "Operating income", "84162", "109496" ]
+, [ 79, "455781E5-920B-4F6C-AA50-B25E22F91085", 79, 1400258884, "870164", 1400258884, "870164", "{\n}", "Nonoperating Revenue(Expenses).Income (expense) from investments in Joint Powers Authorities ", "2049", "1851" ]
+, [ 80, "DD9E5B92-983C-437F-9AF7-62FF673F1692", 80, 1400258884, "870164", 1400258884, "870164", "{\n}", "Nonoperating Revenue(Expenses).Interest and investment income", "826", "9486" ]
+, [ 81, "04E3489D-C284-4510-858D-20EF225DB2BD", 81, 1400258884, "870164", 1400258884, "870164", "{\n}", "Nonoperating Revenue(Expenses).Interest expense ", "-2473", "-10538" ]
+, [ 82, "0D88878E-050C-4AFF-9A07-5FD5EC4704DC", 82, 1400258884, "870164", 1400258884, "870164", "{\n}", "Nonoperating Revenue(Expenses).Other nonoperating revenue", "16731", "14167" ]
+, [ 83, "B0C6807F-195F-4C7C-8170-831677A16F15", 83, 1400258884, "870164", 1400258884, "870164", "{\n}", "Nonoperating Revenue(Expenses).Othe nonoperating expense", "-15947", "-22526" ]
+, [ 84, "A8003A2B-42D7-4450-8076-F0C2DCB6AE7E", 84, 1400258884, "870164", 1400258884, "870164", "{\n}", "Nonoperating Revenue(Expenses).Total", "1186", "-7560" ]
+, [ 85, "3FC18573-6385-4C20-8DF4-97FD5F151A8A", 85, 1400258884, "870164", 1400258884, "870164", "{\n}", "Income before capital conributions", "85348", "101936" ]
+, [ 86, "49317E24-68DC-47E7-B1F7-2063FCA5D074", 86, 1400258884, "870164", 1400258884, "870164", "{\n}", "Capital contributions ", "17630", "31307" ]
+, [ 87, "4E19A658-3793-4005-B6D1-C7AA17C29AC9", 87, 1400258884, "870164", 1400258884, "870164", "{\n  \"invalidCells\" : {\n    \"19769804\" : \" -- \"\n  }\n}", "Special item", "13387", null ]
+, [ 88, "90C16EFE-4EC0-441A-9436-8F499E1728BA", 88, 1400258884, "870164", 1400258884, "870164", "{\n}", "Changes in Net Position", "116365", "133243" ]
+, [ 89, "19ED8A3D-75C2-4A97-93CC-4A3B2971936F", 89, 1400258884, "870164", 1400258884, "870164", "{\n}", "Net Position as of July 1 2013", "2776128", "2642885" ]
+, [ 90, "F5747E2F-E663-4D37-8BA6-3DCEB60D231A", 90, 1400258884, "870164", 1400258884, "870164", "{\n  \"invalidCells\" : {\n    \"19769804\" : \" -- \"\n  }\n}", "Net adjustment for write off of prior period bond issue costs ", "-8142", null ]
+, [ 91, "988FEDC4-77B9-4303-BAF9-A55B9495865D", 91, 1400258884, "870164", 1400258884, "870164", "{\n}", "Net position as of July 1 2013, restated", "2767986", "2642885" ]
+, [ 92, "B935DC2B-CC7A-4860-A60A-0269D6A2C5BC", 92, 1400258884, "870164", 1400258884, "870164", "{\n}", "Net Position as of June 30 2014", "2884351", "2776128" ]
+ ]
+}

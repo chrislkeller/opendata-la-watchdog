@@ -1,0 +1,278 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "3n9z-qdhi",
+      "name" : "BSS - Pavement Condition Index  PCI",
+      "averageRating" : 0,
+      "createdAt" : 1401484896,
+      "displayType" : "table",
+      "downloadCount" : 1,
+      "indexUpdatedAt" : 1414613950,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8108754,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401485025,
+      "publicationGroup" : 1600544,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1401484974,
+      "rowsUpdatedBy" : "ddg3-br68",
+      "tableId" : 1600544,
+      "totalTimesRated" : 0,
+      "viewCount" : 38,
+      "viewLastModified" : 1402609618,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150661008,
+        "name" : "PCI",
+        "dataTypeName" : "number",
+        "fieldName" : "pci",
+        "position" : 2,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20021310,
+        "width" : 136,
+        "cachedContents" : {
+          "non_null" : 3,
+          "smallest" : "62",
+          "sum" : "186",
+          "null" : 0,
+          "average" : "62",
+          "largest" : "62",
+          "top" : [ {
+            "count" : 20,
+            "item" : "62"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150661009,
+        "name" : "last year",
+        "dataTypeName" : "number",
+        "fieldName" : "last_year",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20021311,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "62",
+          "sum" : "124.17",
+          "null" : 1,
+          "average" : "62.085",
+          "largest" : "62.17",
+          "top" : [ {
+            "count" : 20,
+            "item" : "62"
+          }, {
+            "count" : 19,
+            "item" : "62.17"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150661010,
+        "name" : "absolute change YOY",
+        "dataTypeName" : "number",
+        "fieldName" : "absolute_change_yoy",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20021312,
+        "width" : 328,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "-0.6",
+          "sum" : "-0.4",
+          "null" : 1,
+          "average" : "-0.2",
+          "largest" : "0.2",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0.2"
+          }, {
+            "count" : 19,
+            "item" : "-0.6"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150661013,
+        "name" : "Year",
+        "dataTypeName" : "text",
+        "fieldName" : "year",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20021313,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 3,
+          "smallest" : "2005",
+          "null" : 0,
+          "largest" : "2011",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2005"
+          }, {
+            "count" : 19,
+            "item" : "2008"
+          }, {
+            "count" : 18,
+            "item" : "2011"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "false"
+        }
+      }, {
+        "id" : 150661012,
+        "name" : "Date",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date",
+        "position" : 6,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 20021314,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 3,
+          "smallest" : "2005-06-30T00:00:00",
+          "null" : 0,
+          "largest" : "2011-06-30T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2005-06-30T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2008-06-30T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2011-06-30T00:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "df4s-jhab",
+        "displayName" : "Public Works: Street Services OpenData",
+        "profileImageUrlLarge" : "/images/profile/6459/7718/bss_logo_notagline_large.png",
+        "profileImageUrlMedium" : "/images/profile/6459/7718/bss_logo_notagline_thumb.png",
+        "profileImageUrlSmall" : "/images/profile/6459/7718/bss_logo_notagline_tiny.png",
+        "roleName" : "editor",
+        "screenName" : "Public Works: Street Services OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "df4s-jhab",
+        "displayName" : "Public Works: Street Services OpenData",
+        "profileImageUrlLarge" : "/images/profile/6459/7718/bss_logo_notagline_large.png",
+        "profileImageUrlMedium" : "/images/profile/6459/7718/bss_logo_notagline_thumb.png",
+        "profileImageUrlSmall" : "/images/profile/6459/7718/bss_logo_notagline_tiny.png",
+        "roleName" : "editor",
+        "screenName" : "Public Works: Street Services OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "7F3ED852-C182-4908-8D4C-E48186BB504F", 1, 1401484898, "882858", 1401484898, "882858", "{\n}", "62", null, null, "2005", "2005-06-30T00:00:00" ]
+, [ 2, "5417E5E8-F580-47EE-80F2-6C6F28FDDFC4", 2, 1401484898, "882858", 1401484898, "882858", "{\n}", "62", "62", "0.2", "2008", "2008-06-30T00:00:00" ]
+, [ 3, "00B6021B-20D9-4791-BB39-651432E803B5", 3, 1401484898, "882858", 1401484898, "882858", "{\n}", "62", "62.17", "-0.6", "2011", "2011-06-30T00:00:00" ]
+ ]
+}

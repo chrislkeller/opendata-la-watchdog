@@ -1,0 +1,899 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "6x8j-4mie",
+      "name" : "Number of City Government Employees by Function/Program",
+      "attribution" : "Controller",
+      "attributionLink" : "http://controller.lacity.org/stellent/groups/ElectedOfficials/@CTR_Contributor/documents/Contributor_Web_Content/LACITYP_027750.pdf#page=408",
+      "averageRating" : 0,
+      "category" : "Payroll",
+      "createdAt" : 1390692965,
+      "description" : "CAFR Pages 362-365.\r\n\r\nFull-Time Equivalent. Last Ten Fiscal Years.\r\n\r\n(1) In fiscal year 2011, Environmental Affairs Department was eliminated.  Its resources and functions were transferred to the Department of Public Works Bureau of Sanitation, Building and Safety, and Transportation.\r\n(2) The Department of Neighborhood Empowerment was created by Ordinance in fiscal year 2000 .\r\n(3) The Treasurer was transferred out of Finance and restored as its own department in fiscal year 2004. Both departments were consolidated in fiscal year 2012.\r\n(4) Emergency Preparedness was created as a separate department in fiscal year 2001.  In November 2007, name changed to Emergency Management Department.\r\n(5) In fiscal year 2002, Public Works- Accounting and Management Employee Services were consolidated.  In fiscal year 2005, their resources and functions were transferred to the Board of Public Works Commissioners.\r\n(6) In fiscal year 2010, Commission on the Status of Women, Commission for Children, Youth and Familiess and Human Relations Commission were consolidated.\r\n(7) Certain changes were made to conform to the FY2013 presentation.",
+      "displayType" : "table",
+      "downloadCount" : 51,
+      "indexUpdatedAt" : 1414613869,
+      "licenseId" : "PUBLIC_DOMAIN",
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 7442669,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1393555067,
+      "publicationGroup" : 1454138,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1393555028,
+      "rowsUpdatedBy" : "7c7a-resi",
+      "tableId" : 1492324,
+      "totalTimesRated" : 0,
+      "viewCount" : 145,
+      "viewLastModified" : 1412744379,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 135633369,
+        "name" : "Fiscal Year",
+        "dataTypeName" : "number",
+        "fieldName" : "fiscal_year",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17786627,
+        "width" : 92,
+        "cachedContents" : {
+          "non_null" : 500,
+          "smallest" : "2004",
+          "sum" : "1004250",
+          "null" : 0,
+          "average" : "2008.5",
+          "largest" : "2013",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2004"
+          }, {
+            "count" : 19,
+            "item" : "2005"
+          }, {
+            "count" : 18,
+            "item" : "2006"
+          }, {
+            "count" : 17,
+            "item" : "2007"
+          }, {
+            "count" : 16,
+            "item" : "2008"
+          }, {
+            "count" : 15,
+            "item" : "2009"
+          }, {
+            "count" : 14,
+            "item" : "2010"
+          }, {
+            "count" : 13,
+            "item" : "2011"
+          }, {
+            "count" : 12,
+            "item" : "2012"
+          }, {
+            "count" : 11,
+            "item" : "2013"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "true"
+        }
+      }, {
+        "id" : 135633370,
+        "name" : "Activity Type",
+        "dataTypeName" : "text",
+        "fieldName" : "activity_type",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17786628,
+        "width" : 189,
+        "cachedContents" : {
+          "non_null" : 500,
+          "smallest" : "BUSINESS-TYPE ACTIVITIES",
+          "null" : 0,
+          "largest" : "PENSION SYSTEMS",
+          "top" : [ {
+            "count" : 20,
+            "item" : "GOVERNMENTAL ACTIVITIES"
+          }, {
+            "count" : 19,
+            "item" : "BUSINESS-TYPE ACTIVITIES"
+          }, {
+            "count" : 18,
+            "item" : "PENSION SYSTEMS"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 135633371,
+        "name" : "Service",
+        "dataTypeName" : "text",
+        "fieldName" : "service",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17786629,
+        "width" : 185,
+        "cachedContents" : {
+          "non_null" : 500,
+          "smallest" : "Airports (7)",
+          "null" : 0,
+          "largest" : "Water and Power",
+          "top" : [ {
+            "count" : 20,
+            "item" : "General Government"
+          }, {
+            "count" : 19,
+            "item" : "Protection of Persons and Property"
+          }, {
+            "count" : 18,
+            "item" : "Public Works"
+          }, {
+            "count" : 17,
+            "item" : "Health and Sanitation"
+          }, {
+            "count" : 16,
+            "item" : "Transportation"
+          }, {
+            "count" : 15,
+            "item" : "Cultural and Recreational Services"
+          }, {
+            "count" : 14,
+            "item" : "Community Development"
+          }, {
+            "count" : 13,
+            "item" : "Airports (7)"
+          }, {
+            "count" : 12,
+            "item" : "Harbor (7)"
+          }, {
+            "count" : 11,
+            "item" : "Los Angeles Convention Center"
+          }, {
+            "count" : 10,
+            "item" : "Water and Power"
+          }, {
+            "count" : 9,
+            "item" : "City Employees Retirement System"
+          }, {
+            "count" : 8,
+            "item" : "Fire and Police Pension System"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 135633372,
+        "name" : "Department",
+        "dataTypeName" : "text",
+        "fieldName" : "department",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17786630,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 500,
+          "smallest" : "Aging ",
+          "null" : 0,
+          "largest" : "Zoo",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Los Angeles Housing"
+          }, {
+            "count" : 19,
+            "item" : "Planning"
+          }, {
+            "count" : 18,
+            "item" : "Airports (7)"
+          }, {
+            "count" : 17,
+            "item" : "Harbor (7)"
+          }, {
+            "count" : 16,
+            "item" : "Los Angeles Convention Center"
+          }, {
+            "count" : 15,
+            "item" : "Water and Power"
+          }, {
+            "count" : 14,
+            "item" : "City Employees Retirement System"
+          }, {
+            "count" : 13,
+            "item" : "Fire and Police Pension System"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 135633373,
+        "name" : "Employees",
+        "dataTypeName" : "number",
+        "fieldName" : "employees",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17786631,
+        "width" : 117,
+        "cachedContents" : {
+          "non_null" : 464,
+          "smallest" : "2",
+          "sum" : "475058",
+          "null" : 36,
+          "average" : "1023.831896551724",
+          "largest" : "10213",
+          "top" : [ {
+            "count" : 20,
+            "item" : "18"
+          }, {
+            "count" : 19,
+            "item" : "213"
+          }, {
+            "count" : 18,
+            "item" : "34"
+          }, {
+            "count" : 17,
+            "item" : "255"
+          }, {
+            "count" : 16,
+            "item" : "15"
+          }, {
+            "count" : 15,
+            "item" : "511"
+          }, {
+            "count" : 14,
+            "item" : "261"
+          }, {
+            "count" : 13,
+            "item" : "3535"
+          }, {
+            "count" : 12,
+            "item" : "947"
+          }, {
+            "count" : 11,
+            "item" : "92"
+          }, {
+            "count" : 10,
+            "item" : "8776"
+          }, {
+            "count" : 9,
+            "item" : "127"
+          }, {
+            "count" : 8,
+            "item" : "109"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Public Domain"
+      },
+      "metadata" : {
+        "custom_fields" : {
+          "Department" : {
+            "Division" : "GAAP",
+            "Department" : "Controller",
+            "System" : "CAFR"
+          },
+          "Update Information" : {
+            "Update Cycle" : "Annual"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "7c7a-resi",
+        "displayName" : "Controller's Office",
+        "roleName" : "administrator",
+        "screenName" : "Controller's Office",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "7c7a-resi",
+        "displayName" : "Controller's Office",
+        "roleName" : "administrator",
+        "screenName" : "Controller's Office",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "tags" : [ "expenditures", "employees", "city of los angeles", "city of los angeles controller", "city of la", "city of la controller", "ron galperin", "comprehensive annual financial report", "cafr", "net position", "asset type", "asset type group", "activity type", "cafr statistical section" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "44956A1C-FA49-418D-8DE8-FF6E1B1BC268", 1, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "General Government", "City Administrative Officer", "129" ]
+, [ 2, "AC2B4CAA-C4B2-4CE5-82FB-3CEECEA1616F", 2, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "General Government", "City Attorney", "820" ]
+, [ 3, "CD47CF09-0862-4B3A-BAD8-FD6B75D5D01C", 3, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "General Government", "City Clerk (1)", "139" ]
+, [ 4, "2C612DE2-ABD6-4761-8C33-BC7B65BCC02E", 4, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "General Government", "City Ethics Commission", "31" ]
+, [ 5, "0D55C39D-4FAE-4847-98A0-6BC2B3C733D1", 5, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "General Government", "Commission on the Status of Women (6)", "15" ]
+, [ 6, "6BA32381-3A91-4C48-A684-CE0B93E2A012", 6, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "General Government", "Controller", "183" ]
+, [ 7, "83662E7E-E113-415D-880E-1F7093DBE006", 7, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "General Government", "Council ", "108" ]
+, [ 8, "1CEDFC74-B410-498D-BCDE-4757CF545F52", 8, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "General Government", "Employee Relations Board", "8" ]
+, [ 9, "24478FFF-2732-4185-B025-13B94D52CB61", 9, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "General Government", "General Services", "1871" ]
+, [ 10, "312519F2-6FE7-43D7-A0C6-5381F40DF16C", 10, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "General Government", "Human Relations Commission (6)", "24" ]
+, [ 11, "3A7B28B4-D4D5-4C93-92D4-116FD7ABE608", 11, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "General Government", "Information Technology Agency", "764" ]
+, [ 12, "D8DB2700-CCFC-4021-BBDE-64B29088E19C", 12, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "General Government", "Mayor", "74" ]
+, [ 13, "52EDA7C9-3805-448A-94D8-EFE2D76A85E6", 13, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "General Government", "Neighborhood Empowerment (2)", "68" ]
+, [ 14, "B50F1C8C-FDFC-433A-B083-62411AA74DCC", 14, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "General Government", "Office of Finance (3)", "343" ]
+, [ 15, "6325E61B-6A4A-4B0A-9C75-E378B70D3CD9", 15, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "General Government", "Personnel", "394" ]
+, [ 16, "E182EB28-4436-47F2-85E7-3E314E29AAF2", 16, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "General Government", "Treasurer (3)", "39" ]
+, [ 17, "20607558-609F-49F2-AFD4-9C9F465CEE82", 17, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Animal Services", "304" ]
+, [ 18, "8BA84778-ED3A-47FD-A210-40869EFDCDE2", 18, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Building & Safety", "858" ]
+, [ 19, "A9F03B2F-4C19-49A2-AAA4-29EF5B4FEE9B", 19, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Emergency Preparedness/Management (4)", "14" ]
+, [ 20, "A114E13B-8804-4935-8463-ECEC66A2287C", 20, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Fire-Civilian", "321" ]
+, [ 21, "3A2FDC25-886A-4D90-A688-8F83665B151B", 21, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Fire-Sworn", "3530" ]
+, [ 22, "A0EC2502-2D43-46F6-8E1C-79055F72FC98", 22, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Police- Civilian", "3595" ]
+, [ 23, "66CEFF5C-7D64-4619-8DB3-3FF6D91CAF13", 23, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Police- Sworn", "10212" ]
+, [ 24, "F87AA1B3-18B1-4EE2-B622-4E504212B86F", 24, 1390692968, "862121", 1390692968, "862121", "{\n  \"invalidCells\" : {\n    \"17786631\" : \" -- \"\n  }\n}", "2004", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Accounting (5)", null ]
+, [ 25, "CF99B9FF-080C-4865-87C5-6E277ECBDC43", 25, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Board of Commissioners (5)", "59" ]
+, [ 26, "C29FC52D-6490-4AEE-8E66-C7516F2CA2A9", 26, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Contract Administration", "347" ]
+, [ 27, "17842F87-C6AC-4226-98F1-1DA3F91DEAC2", 27, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Engineering", "969" ]
+, [ 28, "51051E73-D973-4D54-90D5-8379A1723DB2", 28, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Management-Employee Services (5)", "109" ]
+, [ 29, "F8467134-9F42-4C38-9131-078D6B4D347E", 29, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Street Lighting", "224" ]
+, [ 30, "2CC6B2B0-F910-48D9-A610-DD663D1A2526", 30, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Street Services", "1318" ]
+, [ 31, "CEBA0A24-487F-483A-97A5-A6CB6ECBF33E", 31, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "Health and Sanitation", "Environmental Affairs (1)", "43" ]
+, [ 32, "BCD897CA-357D-45A5-9325-F4D3C54E0CFE", 32, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "Health and Sanitation", "Public Works- Sanitation", "2695" ]
+, [ 33, "31BDAC27-0B10-4F54-85AD-09D67B368773", 33, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "Transportation", "Transportation", "1524" ]
+, [ 34, "41070E52-CACE-4728-A759-7984D64A6BAF", 34, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Cultural Affairs", "94" ]
+, [ 35, "71D72F1E-16E5-41F7-8F0D-C26AF99F8364", 35, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "El Pueblo de los Angeles Historical Monument", "58" ]
+, [ 36, "2A06E7F4-8BB1-40E7-A637-29776A75D609", 36, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Library", "1194" ]
+, [ 37, "B8013539-3CEC-4F30-9CA9-B9EC6F0102C9", 37, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Recreation and Parks", "2053" ]
+, [ 38, "DD2F22E4-B81D-4F49-A311-357407B80A05", 38, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Zoo", "272" ]
+, [ 39, "CC98214C-A821-4D2E-8F0B-88EC70BC3123", 39, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "Community Development", "Aging ", "48" ]
+, [ 40, "EE4E4DD9-A2FD-4389-A55B-A035ECB87FAC", 40, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "Community Development", "Commission for Children, Youth and Their Families (6)", "37" ]
+, [ 41, "023FB159-1449-494A-BC65-6B086E2F1A84", 41, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "Community Development", "Community Development Department", "274" ]
+, [ 42, "326A4396-8809-42BA-A0E5-C734444A59DE", 42, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "Community Development", "Disability ", "26" ]
+, [ 43, "9FC11CA8-693E-4948-BFF6-D22A511D4EED", 43, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "Community Development", "Los Angeles Housing", "408" ]
+, [ 44, "EAE00B96-9386-4A1F-8C65-AEF9C4D09A2B", 44, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "GOVERNMENTAL ACTIVITIES", "Community Development", "Planning", "323" ]
+, [ 45, "99461D5E-EC4D-4286-85FF-A226DCE0EB27", 45, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "BUSINESS-TYPE ACTIVITIES", "Airports (7)", "Airports (7)", "3048" ]
+, [ 46, "66E03809-61A3-438A-9711-3C316BC7703A", 46, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "BUSINESS-TYPE ACTIVITIES", "Harbor (7)", "Harbor (7)", "634" ]
+, [ 47, "9A90BAEB-ED15-49F7-B435-51C4ACBE82F5", 47, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "BUSINESS-TYPE ACTIVITIES", "Los Angeles Convention Center", "Los Angeles Convention Center", "197" ]
+, [ 48, "DF7D8A66-285D-42BD-8936-394E0F16F1F8", 48, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "BUSINESS-TYPE ACTIVITIES", "Water and Power", "Water and Power", "8101" ]
+, [ 49, "8B12DF18-AF03-45EB-A7D2-D421B31C143B", 49, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "PENSION SYSTEMS", "City Employees Retirement System", "City Employees Retirement System", "109" ]
+, [ 50, "8DC784E9-5620-487B-BB6E-540AD874DEF9", 50, 1390692968, "862121", 1390692968, "862121", "{\n}", "2004", "PENSION SYSTEMS", "Fire and Police Pension System", "Fire and Police Pension System", "84" ]
+, [ 51, "F95E64F0-F51C-49AB-B36B-588DA5FFC54D", 51, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "General Government", "City Administrative Officer", "125" ]
+, [ 52, "4D90A24A-69B8-4174-9174-7BA834905396", 52, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "General Government", "City Attorney", "808" ]
+, [ 53, "943044E5-4BBF-4BE1-B986-943FDD51837D", 53, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "General Government", "City Clerk (1)", "137" ]
+, [ 54, "C7103881-5003-4ED1-9170-7936F9B3891E", 54, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "General Government", "City Ethics Commission", "30" ]
+, [ 55, "D15DE89E-928D-4DD5-AB2D-17E39C0BF965", 55, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "General Government", "Commission on the Status of Women (6)", "12" ]
+, [ 56, "4DE50E8F-703B-4350-BE86-53971F9B91D1", 56, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "General Government", "Controller", "180" ]
+, [ 57, "A8A3EF82-E73F-481B-86DD-83C72D96E3DC", 57, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "General Government", "Council ", "108" ]
+, [ 58, "5126B1D0-7438-4335-966C-42A2CEB5797B", 58, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "General Government", "Employee Relations Board", "8" ]
+, [ 59, "9B871A93-B606-4B9B-B8CD-97AFBB6D519A", 59, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "General Government", "General Services", "1923" ]
+, [ 60, "EC1910A0-918C-4735-8761-A57BBA9DDC39", 60, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "General Government", "Human Relations Commission (6)", "21" ]
+, [ 61, "FD75FF87-67AE-4419-9C3E-BE49C555FC94", 61, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "General Government", "Information Technology Agency", "748" ]
+, [ 62, "8FD21932-8EB0-4D22-912B-CD8D13026DC1", 62, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "General Government", "Mayor", "66" ]
+, [ 63, "C45B2FB6-2B7B-442E-A1BE-D7D99EAE528F", 63, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "General Government", "Neighborhood Empowerment (2)", "62" ]
+, [ 64, "9EA7E735-2327-48D3-A605-282D3332908B", 64, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "General Government", "Office of Finance (3)", "350" ]
+, [ 65, "5F0532BF-5BB8-4B9F-A806-ABB9397161C6", 65, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "General Government", "Personnel", "440" ]
+, [ 66, "EA97C3D6-355A-47EA-858C-EB22AE353ADC", 66, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "General Government", "Treasurer (3)", "39" ]
+, [ 67, "B910C631-46D3-4CEF-BF48-5DA441886580", 67, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Animal Services", "296" ]
+, [ 68, "853AFCC7-CB5C-4F3D-B8EB-5F47305FE837", 68, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Building & Safety", "835" ]
+, [ 69, "DB9D16D2-EEF5-439A-B771-6083E5D49C26", 69, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Emergency Preparedness/Management (4)", "14" ]
+, [ 70, "EF6C8875-6E2A-4F0A-96D0-43700A5E74F9", 70, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Fire-Civilian", "322" ]
+, [ 71, "A485E650-4A7C-433B-B259-DDC454D26412", 71, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Fire-Sworn", "3423" ]
+, [ 72, "FC2E5CE4-9E8C-4817-9971-3AC429899F26", 72, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Police- Civilian", "3592" ]
+, [ 73, "2DE576CE-DDAA-4988-BDF1-ECA8C60B3334", 73, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Police- Sworn", "10213" ]
+, [ 74, "BDE7CBF7-CEBD-4086-B5D6-B471E73E21EC", 74, 1390692968, "862121", 1390692968, "862121", "{\n  \"invalidCells\" : {\n    \"17786631\" : \" -- \"\n  }\n}", "2005", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Accounting (5)", null ]
+, [ 75, "053DDEEB-41E9-4236-A498-CB9B0A102EFD", 75, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Board of Commissioners (5)", "153" ]
+, [ 76, "B627FA6A-48B0-4534-B2AA-33C249CE74FE", 76, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Contract Administration", "335" ]
+, [ 77, "E142524B-7F3F-41D1-B269-6023D2FAE2C1", 77, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Engineering", "950" ]
+, [ 78, "50EBB7D6-AA42-4C11-9468-21BF342A5A46", 78, 1390692968, "862121", 1390692968, "862121", "{\n  \"invalidCells\" : {\n    \"17786631\" : \" -- \"\n  }\n}", "2005", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Management-Employee Services (5)", null ]
+, [ 79, "CCBFF6E2-B592-4F8E-B6C8-E7C8C514E088", 79, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Street Lighting", "231" ]
+, [ 80, "1A705463-6D82-4A4F-94A0-5E5854C07DA8", 80, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Street Services", "1285" ]
+, [ 81, "D165E062-291B-4328-B4C0-8127CB196495", 81, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "Health and Sanitation", "Environmental Affairs (1)", "43" ]
+, [ 82, "E50EC3F0-75B7-4976-A514-0BD7F1D2C885", 82, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "Health and Sanitation", "Public Works- Sanitation", "2762" ]
+, [ 83, "4987A3FA-F90F-4570-AC4F-B7B1343C1E46", 83, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "Transportation", "Transportation", "1521" ]
+, [ 84, "D43A8C73-80F2-4AF7-92C9-17A475CC0DB9", 84, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Cultural Affairs", "74" ]
+, [ 85, "D3B936A2-F533-457B-86D0-21BCA1CC7491", 85, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "El Pueblo de los Angeles Historical Monument", "25" ]
+, [ 86, "63940AE3-BACD-4438-AA6D-D59763F32841", 86, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Library", "1138" ]
+, [ 87, "1497517A-D861-4416-9EA8-942EEAFD3186", 87, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Recreation and Parks", "1905" ]
+, [ 88, "2742F2E8-DC7D-4411-8361-E0DD69EE911E", 88, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Zoo", "256" ]
+, [ 89, "2717B301-90CB-4CE1-87EC-EDA50A01C251", 89, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "Community Development", "Aging ", "42" ]
+, [ 90, "0809BFA2-73E5-498D-A6CF-DA535B98A725", 90, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "Community Development", "Commission for Children, Youth and Their Families (6)", "24" ]
+, [ 91, "F8EE0495-00AE-47B7-8743-458DA7AB9512", 91, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "Community Development", "Community Development Department", "273" ]
+, [ 92, "DD2E5F22-9A78-4246-8988-6AE03AFC4DC7", 92, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "Community Development", "Disability ", "23" ]
+, [ 93, "CCAAF724-E43D-4924-84E5-2FBBA25B2672", 93, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "Community Development", "Los Angeles Housing", "403" ]
+, [ 94, "F8A2A880-86B6-4B35-84F7-9D828D48EB5E", 94, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "GOVERNMENTAL ACTIVITIES", "Community Development", "Planning", "304" ]
+, [ 95, "905372D0-D8C1-491A-A818-EA5E71675E16", 95, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "BUSINESS-TYPE ACTIVITIES", "Airports (7)", "Airports (7)", "3300" ]
+, [ 96, "862FBAD7-6866-4F54-8B98-F4DBEA15CEA0", 96, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "BUSINESS-TYPE ACTIVITIES", "Harbor (7)", "Harbor (7)", "659" ]
+, [ 97, "6A9340EB-2772-4748-B84F-2201EF7B6F78", 97, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "BUSINESS-TYPE ACTIVITIES", "Los Angeles Convention Center", "Los Angeles Convention Center", "163" ]
+, [ 98, "4B6DC225-55C9-4A27-8933-5E947B935E3A", 98, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "BUSINESS-TYPE ACTIVITIES", "Water and Power", "Water and Power", "8029" ]
+, [ 99, "16FE792C-A4B2-4956-B70C-BAD9C095BA15", 99, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "PENSION SYSTEMS", "City Employees Retirement System", "City Employees Retirement System", "110" ]
+, [ 100, "8086AD8E-663C-461B-B59C-F5A2B3451DDD", 100, 1390692968, "862121", 1390692968, "862121", "{\n}", "2005", "PENSION SYSTEMS", "Fire and Police Pension System", "Fire and Police Pension System", "86" ]
+, [ 101, "8A31CF10-37FE-485E-B767-BCD1DC471E60", 101, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "General Government", "City Administrative Officer", "126" ]
+, [ 102, "53CFAB9B-20C7-4501-AC5D-53B86553AF16", 102, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "General Government", "City Attorney", "963" ]
+, [ 103, "9150F699-DBDA-4A97-B8A9-A8427B260FA1", 103, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "General Government", "City Clerk (1)", "130" ]
+, [ 104, "0F2FD2A5-B34A-41C8-9B8C-CF0112C5138E", 104, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "General Government", "City Ethics Commission", "26" ]
+, [ 105, "F870F8A6-37C1-4EAF-975B-B104AEEF0814", 105, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "General Government", "Commission on the Status of Women (6)", "12" ]
+, [ 106, "2663F497-AF2C-47AD-8EF3-CBC0AC2B7DF1", 106, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "General Government", "Controller", "167" ]
+, [ 107, "4C7ECD95-CD50-424E-8FC0-103D3D104CC5", 107, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "General Government", "Council ", "336" ]
+, [ 108, "662CEFD5-6971-4B6F-8D0E-C52E62EF4100", 108, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "General Government", "Employee Relations Board", "3" ]
+, [ 109, "389565CC-4A89-4A49-9255-57D5CA95B25E", 109, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "General Government", "General Services", "2236" ]
+, [ 110, "72E988DB-08D1-4ACD-8B8B-68F41E4D54F2", 110, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "General Government", "Human Relations Commission (6)", "16" ]
+, [ 111, "3321A0D6-EC89-48A0-AD82-8D517CF984FC", 111, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "General Government", "Information Technology Agency", "739" ]
+, [ 112, "F08AE8B3-A45B-4295-A73B-ACAF86F8179C", 112, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "General Government", "Mayor", "132" ]
+, [ 113, "8BFC0685-44C4-4265-82ED-5CB4A5B2FA2D", 113, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "General Government", "Neighborhood Empowerment (2)", "40" ]
+, [ 114, "F78371DD-B107-4180-9C42-A0102EFDBB1A", 114, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "General Government", "Office of Finance (3)", "351" ]
+, [ 115, "7B4F7C93-1B42-4A82-8490-3EC5AA46E089", 115, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "General Government", "Personnel", "478" ]
+, [ 116, "DCBCDA7B-B086-4ED0-B510-0CA0DF17E30A", 116, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "General Government", "Treasurer (3)", "34" ]
+, [ 117, "CC22B599-A689-4598-9A7D-47F6907FC3BB", 117, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Animal Services", "311" ]
+, [ 118, "FA832BB9-8CF0-4FAB-B6F1-AE05491498F5", 118, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Building & Safety", "864" ]
+, [ 119, "918E5214-1038-45CA-A1CB-F6969630774B", 119, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Emergency Preparedness/Management (4)", "17" ]
+, [ 120, "652C0415-F77F-4455-8895-6BFBCFA3A89E", 120, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Fire-Civilian", "333" ]
+, [ 121, "F2E2BD59-FBB0-4ACD-B0CA-F1F92DD07AFF", 121, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Fire-Sworn", "3572" ]
+, [ 122, "FA07F973-CA47-4577-AFF8-3529C2CA0F6E", 122, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Police- Civilian", "3166" ]
+, [ 123, "4EF82226-5DD4-4076-BA55-0E553DA414B6", 123, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Police- Sworn", "9310" ]
+, [ 124, "AF6FE015-81A3-4E17-8F7A-CE22BA323D81", 124, 1390692968, "862121", 1390692968, "862121", "{\n  \"invalidCells\" : {\n    \"17786631\" : \" -- \"\n  }\n}", "2006", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Accounting (5)", null ]
+, [ 125, "877B8F05-0521-411C-BA95-0A629F06638A", 125, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Board of Commissioners (5)", "160" ]
+, [ 126, "A29216A1-E5D3-4DC2-9C70-13A8AD861192", 126, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Contract Administration", "328" ]
+, [ 127, "3CCF61D9-9958-410C-A99F-E61949E0A0E8", 127, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Engineering", "1000" ]
+, [ 128, "D5A01DC1-0C53-422F-A845-8517EAB75B0D", 128, 1390692968, "862121", 1390692968, "862121", "{\n  \"invalidCells\" : {\n    \"17786631\" : \" -- \"\n  }\n}", "2006", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Management-Employee Services (5)", null ]
+, [ 129, "FF943E04-A988-4FFE-8B6E-451E0D157871", 129, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Street Lighting", "227" ]
+, [ 130, "84843CF8-65B0-40D3-9CDF-0AE034E85C9C", 130, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Street Services", "1363" ]
+, [ 131, "D2DB56D7-7726-445F-9FCE-8093D4613D87", 131, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "Health and Sanitation", "Environmental Affairs (1)", "34" ]
+, [ 132, "D64FD411-4B72-4B21-9120-899CC8062256", 132, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "Health and Sanitation", "Public Works- Sanitation", "2632" ]
+, [ 133, "D1F25D08-5E93-475C-9A0A-989F4000B12D", 133, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "Transportation", "Transportation", "1559" ]
+, [ 134, "D41DA213-96FC-4D5D-9858-6C00E74DDE87", 134, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Cultural Affairs", "60" ]
+, [ 135, "46582C69-1924-40A2-A2C5-2157DA1176AB", 135, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "El Pueblo de los Angeles Historical Monument", "20" ]
+, [ 136, "A959CA23-A61F-4129-A614-3BE50D605006", 136, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Library", "781" ]
+, [ 137, "96596709-B293-4DD5-A39E-8DB6217FA869", 137, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Recreation and Parks", "1929" ]
+, [ 138, "E3D77F53-0AE2-4350-8453-8A81E4C4B491", 138, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Zoo", "223" ]
+, [ 139, "3C7DF8DF-EA59-46AA-9144-1F89376B068A", 139, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "Community Development", "Aging ", "51" ]
+, [ 140, "D0CA61D2-EA70-4593-A31C-1E9B47F6E524", 140, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "Community Development", "Commission for Children, Youth and Their Families (6)", "60" ]
+, [ 141, "63B928A7-F748-4308-84FA-A84C29442660", 141, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "Community Development", "Community Development Department", "291" ]
+, [ 142, "14C8D44C-02EC-4F55-8F91-4EDFDFAFE6CB", 142, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "Community Development", "Disability ", "22" ]
+, [ 143, "F95A1BBA-41F3-4C49-8030-2BF55E07664F", 143, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "Community Development", "Los Angeles Housing", "464" ]
+, [ 144, "96EFFDA2-D4B7-4EF2-A3B0-E03CFEEE5872", 144, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "GOVERNMENTAL ACTIVITIES", "Community Development", "Planning", "280" ]
+, [ 145, "E2855410-2FEC-45E4-BA66-A7619DFA8E36", 145, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "BUSINESS-TYPE ACTIVITIES", "Airports (7)", "Airports (7)", "3454" ]
+, [ 146, "0D3DD5A5-8B5A-4AC2-A72D-A464413129AD", 146, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "BUSINESS-TYPE ACTIVITIES", "Harbor (7)", "Harbor (7)", "717" ]
+, [ 147, "F0B453B8-C07E-497B-9DD3-B6D75786A027", 147, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "BUSINESS-TYPE ACTIVITIES", "Los Angeles Convention Center", "Los Angeles Convention Center", "154" ]
+, [ 148, "BE470DB0-484C-45D5-9B6D-3E9CFBD696CF", 148, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "BUSINESS-TYPE ACTIVITIES", "Water and Power", "Water and Power", "8119" ]
+, [ 149, "A3167121-D479-41C6-B139-8430BE7B4BC9", 149, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "PENSION SYSTEMS", "City Employees Retirement System", "City Employees Retirement System", "113" ]
+, [ 150, "840296E3-E9ED-4758-9A70-3E03F8F5A7E2", 150, 1390692968, "862121", 1390692968, "862121", "{\n}", "2006", "PENSION SYSTEMS", "Fire and Police Pension System", "Fire and Police Pension System", "88" ]
+, [ 151, "C15952D7-33C5-4063-BF65-CB2EA96C8855", 151, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "General Government", "City Administrative Officer", "122" ]
+, [ 152, "47E82DA8-F8BA-483F-BC0E-90998FAFACD9", 152, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "General Government", "City Attorney", "984" ]
+, [ 153, "28A36671-E699-4894-B10C-D32B54A421B7", 153, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "General Government", "City Clerk (1)", "135" ]
+, [ 154, "DCBF1E82-98D1-4EB8-89AA-B0F53A5FCA70", 154, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "General Government", "City Ethics Commission", "28" ]
+, [ 155, "309F1B24-34A4-4E9E-8896-A72C68B9400C", 155, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "General Government", "Commission on the Status of Women (6)", "12" ]
+, [ 156, "3025BA0E-B143-45C0-B19B-1C762B1FF725", 156, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "General Government", "Controller", "173" ]
+, [ 157, "92BE5F52-5964-4DC7-990E-E76EACCB2F8F", 157, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "General Government", "Council ", "367" ]
+, [ 158, "1DC03066-A071-4F40-9840-51A1E6D83838", 158, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "General Government", "Employee Relations Board", "3" ]
+, [ 159, "23E76BD0-BB1D-4762-BD6D-57216BE30C5D", 159, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "General Government", "General Services", "2337" ]
+, [ 160, "7AFDA840-3F43-495D-AE20-ADC244365685", 160, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "General Government", "Human Relations Commission (6)", "16" ]
+, [ 161, "9D05F02C-93D1-4872-9E84-1A27BB02B530", 161, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "General Government", "Information Technology Agency", "734" ]
+, [ 162, "0063E8E2-EBED-40A6-A7EC-5D6ECD3A618E", 162, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "General Government", "Mayor", "154" ]
+, [ 163, "2F205F36-E8FE-4B78-8F92-8508E5FEDF9B", 163, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "General Government", "Neighborhood Empowerment (2)", "47" ]
+, [ 164, "AA6CE733-905B-4F9D-9806-5326A8BBED07", 164, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "General Government", "Office of Finance (3)", "358" ]
+, [ 165, "FA36E288-4643-4530-8DDE-14843B5A69C9", 165, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "General Government", "Personnel", "492" ]
+, [ 166, "6C920572-D230-4F3D-A557-8EBEE89337B1", 166, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "General Government", "Treasurer (3)", "38" ]
+, [ 167, "3F9F3014-861C-409B-9F2B-CE2E83FF8029", 167, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Animal Services", "352" ]
+, [ 168, "26FE7F42-0257-4BDB-B489-2D803387E3E8", 168, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Building & Safety", "944" ]
+, [ 169, "843F14D6-8F2E-4147-88DE-CF023E55E546", 169, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Emergency Preparedness/Management (4)", "17" ]
+, [ 170, "B3BF6424-0FFC-4821-948A-DC8D10210F91", 170, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Fire-Civilian", "365" ]
+, [ 171, "50F7E768-C8F0-4986-9DD3-660B4CA1A1C5", 171, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Fire-Sworn", "3673" ]
+, [ 172, "E7894B07-3D96-4C2F-840D-CA1B94A02CEA", 172, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Police- Civilian", "3337" ]
+, [ 173, "6647EC40-5D57-4C84-A884-1F9224E528D1", 173, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Police- Sworn", "9509" ]
+, [ 174, "F38805B1-2D07-48CE-90DF-B8B52F5FDF6D", 174, 1390692968, "862121", 1390692968, "862121", "{\n  \"invalidCells\" : {\n    \"17786631\" : \" -- \"\n  }\n}", "2007", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Accounting (5)", null ]
+, [ 175, "02C40DED-071A-40F6-BE93-EE9BE28D9D9F", 175, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Board of Commissioners (5)", "161" ]
+, [ 176, "8FBDE934-2D44-4E97-B796-FCEE4751A5AB", 176, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Contract Administration", "363" ]
+, [ 177, "C16E2F55-0D0E-4C0B-908E-CB0BF875CE27", 177, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Engineering", "998" ]
+, [ 178, "2BB7DCDF-601D-451D-88CB-CA81E2F477C6", 178, 1390692968, "862121", 1390692968, "862121", "{\n  \"invalidCells\" : {\n    \"17786631\" : \" -- \"\n  }\n}", "2007", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Management-Employee Services (5)", null ]
+, [ 179, "46F270CB-DAC0-40FA-A837-AA4E6CA055C2", 179, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Street Lighting", "223" ]
+, [ 180, "AB91ABD3-C531-47D0-A440-9C3A63EC4F2F", 180, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Street Services", "1390" ]
+, [ 181, "6B8E319D-87E1-493F-8820-23BA87AE4002", 181, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "Health and Sanitation", "Environmental Affairs (1)", "31" ]
+, [ 182, "1F930B0F-16A7-4FDC-B554-36CB326FAC46", 182, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "Health and Sanitation", "Public Works- Sanitation", "2691" ]
+, [ 183, "B04EDD64-0D15-4A48-969C-5C6EBBF4BF50", 183, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "Transportation", "Transportation", "1637" ]
+, [ 184, "6C1BB671-B85F-4497-A587-4D3D8BCA9385", 184, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Cultural Affairs", "66" ]
+, [ 185, "CF18A91C-6186-4220-B832-F4223AB33B2A", 185, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "El Pueblo de los Angeles Historical Monument", "17" ]
+, [ 186, "3AA3B585-7529-454B-881A-DB2229E43294", 186, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Library", "819" ]
+, [ 187, "7263D91C-A91E-4F12-955E-23B665304316", 187, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Recreation and Parks", "2070" ]
+, [ 188, "88A757D0-E08B-4B09-9C0E-7D1CA53E61ED", 188, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Zoo", "237" ]
+, [ 189, "32EB3A86-2921-469D-AF83-0A0E7A6F1C6F", 189, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "Community Development", "Aging ", "50" ]
+, [ 190, "CC1E87A9-3D21-4A2A-B6B5-291B4EC0C6D5", 190, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "Community Development", "Commission for Children, Youth and Their Families (6)", "53" ]
+, [ 191, "5C726993-31AB-4A05-ADCC-A3E0B3EF367A", 191, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "Community Development", "Community Development Department", "265" ]
+, [ 192, "CD3FEEBC-EDBD-4CD6-AAFE-DEE3C3D50F6F", 192, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "Community Development", "Disability ", "22" ]
+, [ 193, "9D6825AF-7443-4712-84EA-587A72598076", 193, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "Community Development", "Los Angeles Housing", "528" ]
+, [ 194, "B4B0C9C3-A0F7-4869-A982-707D8EA747C4", 194, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "GOVERNMENTAL ACTIVITIES", "Community Development", "Planning", "283" ]
+, [ 195, "125902D4-BC8A-4A32-AC11-4DA8AC45142B", 195, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "BUSINESS-TYPE ACTIVITIES", "Airports (7)", "Airports (7)", "3630" ]
+, [ 196, "1C890E91-1084-44A3-916C-DB58494C7D60", 196, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "BUSINESS-TYPE ACTIVITIES", "Harbor (7)", "Harbor (7)", "806" ]
+, [ 197, "6B7BD4C4-DC86-4517-9F03-73C9B578F66D", 197, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "BUSINESS-TYPE ACTIVITIES", "Los Angeles Convention Center", "Los Angeles Convention Center", "155" ]
+, [ 198, "9AA99B2F-5F6F-4F7B-9930-E2491AEC3FA4", 198, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "BUSINESS-TYPE ACTIVITIES", "Water and Power", "Water and Power", "8241" ]
+, [ 199, "32D030FF-129E-4082-A528-03514311F435", 199, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "PENSION SYSTEMS", "City Employees Retirement System", "City Employees Retirement System", "125" ]
+, [ 200, "AF13A32D-DC99-4E8A-A7D1-DDF463B17721", 200, 1390692968, "862121", 1390692968, "862121", "{\n}", "2007", "PENSION SYSTEMS", "Fire and Police Pension System", "Fire and Police Pension System", "97" ]
+, [ 201, "79647335-DA57-42D9-A2A4-21E69383372B", 201, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "General Government", "City Administrative Officer", "128" ]
+, [ 202, "4A5F6486-AFCB-4B5E-ABDE-B892EB824E7A", 202, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "General Government", "City Attorney", "978" ]
+, [ 203, "B119CD7C-E00D-47BF-BF6C-4E16DFFBF58C", 203, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "General Government", "City Clerk (1)", "146" ]
+, [ 204, "CFACB405-4869-473A-B68E-CEF8BB3C9CFF", 204, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "General Government", "City Ethics Commission", "26" ]
+, [ 205, "B2AD99C0-8412-4A55-9267-376792B1CCF8", 205, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "General Government", "Commission on the Status of Women (6)", "9" ]
+, [ 206, "33711D75-535A-4B4C-94AF-9FC07AD18395", 206, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "General Government", "Controller", "185" ]
+, [ 207, "293386A1-2765-4B84-80BA-42A3CAEF2FA2", 207, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "General Government", "Council ", "355" ]
+, [ 208, "03AA7955-4AF7-401D-984A-1F84B7D5EE00", 208, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "General Government", "Employee Relations Board", "3" ]
+, [ 209, "2C14055D-CD69-49D8-9BC2-77E59A2FC6A3", 209, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "General Government", "General Services", "2302" ]
+, [ 210, "059E0356-4153-4178-A553-5F425EFA10B6", 210, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "General Government", "Human Relations Commission (6)", "15" ]
+, [ 211, "B80907BF-A143-4E99-8C38-EC97A6FD0FE9", 211, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "General Government", "Information Technology Agency", "728" ]
+, [ 212, "C1EDD487-8F90-47D4-9281-D63F75D31119", 212, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "General Government", "Mayor", "163" ]
+, [ 213, "A379D09A-12A2-4873-8037-9A58860818FD", 213, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "General Government", "Neighborhood Empowerment (2)", "42" ]
+, [ 214, "0C60A312-B301-479C-A875-F6E683782244", 214, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "General Government", "Office of Finance (3)", "353" ]
+, [ 215, "6D8FC732-C426-4471-B85E-918999AEDE9C", 215, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "General Government", "Personnel", "495" ]
+, [ 216, "BDC8D8F5-30C5-43EF-9A60-10A4B56E038F", 216, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "General Government", "Treasurer (3)", "38" ]
+, [ 217, "CD109A44-24DF-44CC-B765-D9417D58C5A9", 217, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Animal Services", "379" ]
+, [ 218, "208BDE0F-E493-4A4D-9A6E-A2FA8468D08D", 218, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Building & Safety", "992" ]
+, [ 219, "0D3205BB-34F8-4511-9ECE-C0A81094005A", 219, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Emergency Preparedness/Management (4)", "23" ]
+, [ 220, "2C22083E-F810-44F7-BF69-B72815365EA8", 220, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Fire-Civilian", "366" ]
+, [ 221, "AA49484B-5E79-4B21-8420-45728D2D2779", 221, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Fire-Sworn", "3730" ]
+, [ 222, "3970BE85-6C0A-43BD-AABA-EE3576E1BA9F", 222, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Police- Civilian", "3278" ]
+, [ 223, "E6EB9997-B90C-4FF8-9E60-5B8998A5CE3E", 223, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Police- Sworn", "9704" ]
+, [ 224, "CA2E5600-D463-4721-84EB-5039330BFEE3", 224, 1390692968, "862121", 1390692968, "862121", "{\n  \"invalidCells\" : {\n    \"17786631\" : \" -- \"\n  }\n}", "2008", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Accounting (5)", null ]
+, [ 225, "42F72415-FF03-4759-9BC0-19C9FFBD7A63", 225, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Board of Commissioners (5)", "155" ]
+, [ 226, "BDB3ABD2-0A61-41B7-B474-C53AE3D6F782", 226, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Contract Administration", "371" ]
+, [ 227, "F62AFDB5-5D0A-44F3-BBDB-E4033171D547", 227, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Engineering", "971" ]
+, [ 228, "AF8A3935-7FF0-4444-8264-65E23EC18E4C", 228, 1390692968, "862121", 1390692968, "862121", "{\n  \"invalidCells\" : {\n    \"17786631\" : \" -- \"\n  }\n}", "2008", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Management-Employee Services (5)", null ]
+, [ 229, "DBDA0930-C93B-4060-BDFE-BE27D2466414", 229, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Street Lighting", "210" ]
+, [ 230, "B0D6EFCC-87C5-4B03-9F25-615A0888DE46", 230, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Street Services", "1350" ]
+, [ 231, "2F255D5B-B3A7-4BF6-AE1D-737F70711444", 231, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "Health and Sanitation", "Environmental Affairs (1)", "31" ]
+, [ 232, "211FC9D7-C53B-4BC7-8951-4B5845ED73B3", 232, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "Health and Sanitation", "Public Works- Sanitation", "2684" ]
+, [ 233, "DA23C510-534E-4F3B-98D3-39AE1DDA59FB", 233, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "Transportation", "Transportation", "1572" ]
+, [ 234, "E2227BA9-1B19-4841-8C1D-8D9267D7CC43", 234, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Cultural Affairs", "67" ]
+, [ 235, "5EB7DBD5-1AC8-45DF-8029-B64A164A1794", 235, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "El Pueblo de los Angeles Historical Monument", "19" ]
+, [ 236, "74BE8AAA-B043-4358-B53E-D729F4C59D3E", 236, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Library", "828" ]
+, [ 237, "E17D76FE-0A31-459E-91E8-B0BBA90FC2A4", 237, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Recreation and Parks", "1980" ]
+, [ 238, "C8A4367D-6110-4A2E-A954-8DE154240FF4", 238, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Zoo", "220" ]
+, [ 239, "80F5C18C-0F52-4E69-ADB0-08815F29C68E", 239, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "Community Development", "Aging ", "49" ]
+, [ 240, "06E51AF5-489C-4FB3-801A-F21E9D8DB275", 240, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "Community Development", "Commission for Children, Youth and Their Families (6)", "53" ]
+, [ 241, "7A5BB6E6-B0A9-4DD5-A9BA-D125CB9C0F8D", 241, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "Community Development", "Community Development Department", "254" ]
+, [ 242, "F29D1F57-552F-4D26-B8C5-A3531E487A00", 242, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "Community Development", "Disability ", "20" ]
+, [ 243, "0BE5BD06-7AA6-452D-A2C2-AA88EEDABA57", 243, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "Community Development", "Los Angeles Housing", "528" ]
+, [ 244, "32E2976B-03B3-4BA4-B0AB-BC3E0FA28E05", 244, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "GOVERNMENTAL ACTIVITIES", "Community Development", "Planning", "300" ]
+, [ 245, "236A4754-FA42-4350-8A1A-3561820C2185", 245, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "BUSINESS-TYPE ACTIVITIES", "Airports (7)", "Airports (7)", "3804" ]
+, [ 246, "5A5CF894-B900-45EF-A4CF-E7372F0B8064", 246, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "BUSINESS-TYPE ACTIVITIES", "Harbor (7)", "Harbor (7)", "935" ]
+, [ 247, "41249EB4-BF6A-4A9D-9FCC-00A4EE549F0A", 247, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "BUSINESS-TYPE ACTIVITIES", "Los Angeles Convention Center", "Los Angeles Convention Center", "156" ]
+, [ 248, "A8365EA4-BC83-400C-844F-C2FB63943CF3", 248, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "BUSINESS-TYPE ACTIVITIES", "Water and Power", "Water and Power", "8592" ]
+, [ 249, "BE91690E-7E33-4A4A-84C1-9A02CA68E27F", 249, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "PENSION SYSTEMS", "City Employees Retirement System", "City Employees Retirement System", "131" ]
+, [ 250, "BD25807E-38A9-4C3E-A77B-966783AFB714", 250, 1390692968, "862121", 1390692968, "862121", "{\n}", "2008", "PENSION SYSTEMS", "Fire and Police Pension System", "Fire and Police Pension System", "103" ]
+, [ 251, "760593BC-2EAE-431C-807C-38D3B14BC661", 251, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "General Government", "City Administrative Officer", "128" ]
+, [ 252, "CB0DA283-AA66-45F2-A2BC-92FCC09F6EF0", 252, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "General Government", "City Attorney", "986" ]
+, [ 253, "06F94B5F-3E15-45C0-B2A1-230435932160", 253, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "General Government", "City Clerk (1)", "140" ]
+, [ 254, "1BD3A435-80C0-41B1-80AC-50339BA22301", 254, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "General Government", "City Ethics Commission", "26" ]
+, [ 255, "9BBDA22E-C6C3-43EA-B885-C1EF6AF1D849", 255, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "General Government", "Commission on the Status of Women (6)", "2" ]
+, [ 256, "F0BF35C4-7163-47AF-8FDE-BB47C306BF00", 256, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "General Government", "Controller", "184" ]
+, [ 257, "3A247090-AB0E-4BF5-A0CF-F293EB395F59", 257, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "General Government", "Council ", "350" ]
+, [ 258, "FB27EBAC-588B-4CF6-AA21-8E4BB57B8DE2", 258, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "General Government", "Employee Relations Board", "4" ]
+, [ 259, "7579DD89-DC17-41CA-83A6-264E213A2206", 259, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "General Government", "General Services", "2273" ]
+, [ 260, "876CB007-BE98-40EF-B1DC-B1148614EFFE", 260, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "General Government", "Human Relations Commission (6)", "10" ]
+, [ 261, "08C239F1-6A2A-4280-A469-B54020CE3C83", 261, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "General Government", "Information Technology Agency", "714" ]
+, [ 262, "C6C57A08-745D-4E2C-AD37-2169EA5D5D2A", 262, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "General Government", "Mayor", "189" ]
+, [ 263, "DD4371FC-3F63-4D5A-A680-74FF357DF2F8", 263, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "General Government", "Neighborhood Empowerment (2)", "42" ]
+, [ 264, "CB6C2136-3E1A-43EE-8716-E653A27621C3", 264, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "General Government", "Office of Finance (3)", "372" ]
+, [ 265, "7199CA29-1DC7-4963-B98B-3F46787A4C5D", 265, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "General Government", "Personnel", "477" ]
+, [ 266, "C1A269A3-1DF2-4DB1-A281-429397DDC741", 266, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "General Government", "Treasurer (3)", "39" ]
+, [ 267, "689AB48A-D6ED-492F-8B80-39DF41C750A0", 267, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Animal Services", "366" ]
+, [ 268, "D1CBCD0F-47B2-4283-99C9-FCCE4E5DEB5A", 268, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Building & Safety", "958" ]
+, [ 269, "C126B0EA-A23C-484B-BBD0-3E5FBB883A84", 269, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Emergency Preparedness/Management (4)", "27" ]
+, [ 270, "ECE76266-A398-46E1-ADB2-561B59C0E184", 270, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Fire-Civilian", "362" ]
+, [ 271, "75FE36FC-4E66-4BB8-A859-2BB528A2BE36", 271, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Fire-Sworn", "3708" ]
+, [ 272, "09D78928-A396-46A8-B879-7138215BDD42", 272, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Police- Civilian", "3256" ]
+, [ 273, "C847CCCA-9840-432C-9E09-8EF05467F9F0", 273, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Police- Sworn", "9973" ]
+, [ 274, "29505219-D177-4F21-8041-BFF0A13D4E6C", 274, 1390692968, "862121", 1390692968, "862121", "{\n  \"invalidCells\" : {\n    \"17786631\" : \" -- \"\n  }\n}", "2009", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Accounting (5)", null ]
+, [ 275, "36C77931-9004-4B46-BAF8-C92B9FF63A2F", 275, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Board of Commissioners (5)", "131" ]
+, [ 276, "F4D173A8-0FF1-4F79-BC40-EBFBC385E0BF", 276, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Contract Administration", "358" ]
+, [ 277, "0F692C97-E5C7-4F6C-932E-05094F08CCDC", 277, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Engineering", "932" ]
+, [ 278, "426E6752-9053-498A-BAAA-1B843C90E4A5", 278, 1390692968, "862121", 1390692968, "862121", "{\n  \"invalidCells\" : {\n    \"17786631\" : \" -- \"\n  }\n}", "2009", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Management-Employee Services (5)", null ]
+, [ 279, "00F0E78F-1FF7-4236-AD34-6291D241F255", 279, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Street Lighting", "215" ]
+, [ 280, "4D04B030-D8C7-401B-AFDA-AE984B609916", 280, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Street Services", "1327" ]
+, [ 281, "FF663EBF-EF39-4281-8DFE-DF35262A4951", 281, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "Health and Sanitation", "Environmental Affairs (1)", "28" ]
+, [ 282, "C13E64DA-B5BF-4BFD-A3BD-006334849B3D", 282, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "Health and Sanitation", "Public Works- Sanitation", "2701" ]
+, [ 283, "35007095-5E1E-419C-8802-A367E322492D", 283, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "Transportation", "Transportation", "1597" ]
+, [ 284, "5100834E-7D6F-4E1F-90D9-C8192361AF8B", 284, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Cultural Affairs", "57" ]
+, [ 285, "27FB20FF-9D12-4F96-9082-6267DD652618", 285, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "El Pueblo de los Angeles Historical Monument", "18" ]
+, [ 286, "F3D542EB-5549-4926-A01D-FD3A9B860BB6", 286, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Library", "833" ]
+, [ 287, "7DBC4751-F515-4AAF-98F9-BE75D09E982E", 287, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Recreation and Parks", "1904" ]
+, [ 288, "67CF8590-1667-409B-96CC-8E0DE591CAA4", 288, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Zoo", "211" ]
+, [ 289, "AD72C8EB-76A2-460B-9676-F70EF6D6EE4E", 289, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "Community Development", "Aging ", "45" ]
+, [ 290, "5792FA7B-00B2-4063-937D-552AC898BBB9", 290, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "Community Development", "Commission for Children, Youth and Their Families (6)", "53" ]
+, [ 291, "C38286FF-00C9-4DD1-B2A2-12A734D139CD", 291, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "Community Development", "Community Development Department", "236" ]
+, [ 292, "70D7DD5B-DE46-4007-8FEA-393A33CC04EE", 292, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "Community Development", "Disability ", "19" ]
+, [ 293, "35F14A91-4B38-41D5-91A9-D553A4A64D98", 293, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "Community Development", "Los Angeles Housing", "526" ]
+, [ 294, "C976099D-284D-4731-93BE-1FA9DB2B69CA", 294, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "GOVERNMENTAL ACTIVITIES", "Community Development", "Planning", "297" ]
+, [ 295, "FE390FE4-CA7D-4DA9-B05F-F95A80DDADB7", 295, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "BUSINESS-TYPE ACTIVITIES", "Airports (7)", "Airports (7)", "3747" ]
+, [ 296, "E703725C-FFE9-4E25-BABD-E4F18669DE3F", 296, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "BUSINESS-TYPE ACTIVITIES", "Harbor (7)", "Harbor (7)", "971" ]
+, [ 297, "DF813438-FC69-4083-A192-B952DAEBBD6C", 297, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "BUSINESS-TYPE ACTIVITIES", "Los Angeles Convention Center", "Los Angeles Convention Center", "150" ]
+, [ 298, "0DB0A081-EC67-4D8F-9568-D24DB5FAA613", 298, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "BUSINESS-TYPE ACTIVITIES", "Water and Power", "Water and Power", "9210" ]
+, [ 299, "3CC75CAB-B4FC-4C7E-813E-5C00E67EDCAA", 299, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "PENSION SYSTEMS", "City Employees Retirement System", "City Employees Retirement System", "134" ]
+, [ 300, "B97945C4-AD29-45ED-B01F-6AACD6B2F787", 300, 1390692968, "862121", 1390692968, "862121", "{\n}", "2009", "PENSION SYSTEMS", "Fire and Police Pension System", "Fire and Police Pension System", "105" ]
+, [ 301, "151FB37E-AF54-4717-A5CC-2519D4074822", 301, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "General Government", "City Administrative Officer", "107" ]
+, [ 302, "CF089AA9-FEB7-4AE7-94C2-DFC13B43FBE4", 302, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "General Government", "City Attorney", "885" ]
+, [ 303, "DB4BF875-9A21-442C-90E6-138F60E6990E", 303, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "General Government", "City Clerk (1)", "99" ]
+, [ 304, "C2842917-FD2A-4FA8-9C7A-C13F96F1161E", 304, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "General Government", "City Ethics Commission", "22" ]
+, [ 305, "032C967A-70F0-4A4F-9B30-3CA618F5A163", 305, 1390692968, "862121", 1390692968, "862121", "{\n  \"invalidCells\" : {\n    \"17786631\" : \" -- \"\n  }\n}", "2010", "GOVERNMENTAL ACTIVITIES", "General Government", "Commission on the Status of Women (6)", null ]
+, [ 306, "238B8758-6AEC-4886-A65A-3BDCDEFE60BA", 306, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "General Government", "Controller", "156" ]
+, [ 307, "9E26A3AF-4067-4825-B5ED-8851298A0F55", 307, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "General Government", "Council ", "338" ]
+, [ 308, "AD059B85-EE89-42D0-A303-C98391EA987D", 308, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "General Government", "Employee Relations Board", "3" ]
+, [ 309, "0B7D3896-F7C6-4DB2-A422-47A416A7234F", 309, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "General Government", "General Services", "1881" ]
+, [ 310, "0CAF4BF9-16D4-4AB4-90E1-911CEB9EDFA3", 310, 1390692968, "862121", 1390692968, "862121", "{\n  \"invalidCells\" : {\n    \"17786631\" : \" -- \"\n  }\n}", "2010", "GOVERNMENTAL ACTIVITIES", "General Government", "Human Relations Commission (6)", null ]
+, [ 311, "9D83F6AE-877F-4C11-B870-CA4FC9C93812", 311, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "General Government", "Information Technology Agency", "582" ]
+, [ 312, "DF36CB4E-A400-4D8B-A16B-E49D9201075F", 312, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "General Government", "Mayor", "195" ]
+, [ 313, "6B1C43EB-2162-46D2-ABCA-5777BA4CCC76", 313, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "General Government", "Neighborhood Empowerment (2)", "19" ]
+, [ 314, "1D84756D-4F7F-45ED-BFD9-2BB0C207AE6A", 314, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "General Government", "Office of Finance (3)", "324" ]
+, [ 315, "1F1ED0D4-0CDC-47E6-9089-45E29ED93631", 315, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "General Government", "Personnel", "384" ]
+, [ 316, "DE9A48EB-CD51-4D12-8C32-6F628D759A8C", 316, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "General Government", "Treasurer (3)", "34" ]
+, [ 317, "B78ABCE9-D31B-4EC6-812C-B1543BB44DE2", 317, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Animal Services", "343" ]
+, [ 318, "97D617BD-F1CE-49E3-AF27-BD31733BAAEB", 318, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Building & Safety", "782" ]
+, [ 319, "331C6BF1-2D43-4D43-9154-D48C408EDE55", 319, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Emergency Preparedness/Management (4)", "21" ]
+, [ 320, "97D783F9-2CE7-4A41-8646-B657B0A4484D", 320, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Fire-Civilian", "298" ]
+, [ 321, "FA39C125-4544-45D4-BD54-B8EB68E624D9", 321, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Fire-Sworn", "3562" ]
+, [ 322, "5841B61A-ABD0-4009-945D-A3F8BD634B51", 322, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Police- Civilian", "2877" ]
+, [ 323, "1487BEEA-C10A-4AFD-8861-BAC58A9C7787", 323, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Police- Sworn", "9878" ]
+, [ 324, "7BFFFC23-518B-4AF2-9F78-8FFF2FB36811", 324, 1390692968, "862121", 1390692968, "862121", "{\n  \"invalidCells\" : {\n    \"17786631\" : \" -- \"\n  }\n}", "2010", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Accounting (5)", null ]
+, [ 325, "CD4C1A46-DA09-4209-84DF-763DB045CC6C", 325, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Board of Commissioners (5)", "94" ]
+, [ 326, "690A438E-14E5-430B-896F-24BADB9BCEC9", 326, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Contract Administration", "306" ]
+, [ 327, "AB3C70FD-ED7D-44C9-A53A-09B6BC3BB885", 327, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Engineering", "738" ]
+, [ 328, "936F2313-A290-4BB6-BC45-B38FAC1F0395", 328, 1390692968, "862121", 1390692968, "862121", "{\n  \"invalidCells\" : {\n    \"17786631\" : \" -- \"\n  }\n}", "2010", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Management-Employee Services (5)", null ]
+, [ 329, "FC947B47-EEA1-4E7F-883A-A01B6E1FF3C3", 329, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Street Lighting", "198" ]
+, [ 330, "358AC786-5DC5-4E1A-B176-E04108B110B4", 330, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Street Services", "1073" ]
+, [ 331, "41D9CBB7-FD08-4259-8683-1B662732A514", 331, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "Health and Sanitation", "Environmental Affairs (1)", "19" ]
+, [ 332, "0533031C-078B-43A9-8C80-76CC1946BE56", 332, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "Health and Sanitation", "Public Works- Sanitation", "2427" ]
+, [ 333, "1BAFA774-4FF4-42A7-8BB1-E88799A23AEC", 333, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "Transportation", "Transportation", "1414" ]
+, [ 334, "F98EFD3B-9B04-410D-985D-4085734C72AD", 334, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Cultural Affairs", "45" ]
+, [ 335, "DA28A120-A71E-40CA-8A39-CBDCA7844336", 335, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "El Pueblo de los Angeles Historical Monument", "15" ]
+, [ 336, "F034F37F-C615-4F52-BA15-663CA9207F85", 336, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Library", "699" ]
+, [ 337, "6DD9BB72-575A-4074-A5D5-24E243DC18B2", 337, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Recreation and Parks", "1587" ]
+, [ 338, "887B4BAC-73D2-4BE0-B8D9-46A6996386A0", 338, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Zoo", "186" ]
+, [ 339, "ACFD1FCC-C828-4B8B-A18E-C1263B49939A", 339, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "Community Development", "Aging ", "42" ]
+, [ 340, "50BB4312-9A7D-4933-909E-85C4A6851E19", 340, 1390692968, "862121", 1390692968, "862121", "{\n  \"invalidCells\" : {\n    \"17786631\" : \" -- \"\n  }\n}", "2010", "GOVERNMENTAL ACTIVITIES", "Community Development", "Commission for Children, Youth and Their Families (6)", null ]
+, [ 341, "8EC3844F-0926-46FD-9C25-83C8547D7A6E", 341, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "Community Development", "Community Development Department", "270" ]
+, [ 342, "38A2FC82-E68F-4EEE-9F53-86C4FF428B2E", 342, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "Community Development", "Disability ", "16" ]
+, [ 343, "2327118D-6AA1-41AC-BFD6-460A040FDEBA", 343, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "Community Development", "Los Angeles Housing", "528" ]
+, [ 344, "4996F62F-7CFE-4C8A-9235-3F1FCBA7CD45", 344, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "GOVERNMENTAL ACTIVITIES", "Community Development", "Planning", "242" ]
+, [ 345, "74727F6A-9DBA-4F1C-9FB7-1AF90BB2996F", 345, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "BUSINESS-TYPE ACTIVITIES", "Airports (7)", "Airports (7)", "3535" ]
+, [ 346, "327D5ACC-2245-41EA-97DD-5D35EBBC1305", 346, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "BUSINESS-TYPE ACTIVITIES", "Harbor (7)", "Harbor (7)", "948" ]
+, [ 347, "4943387B-9DE3-440A-BB3E-A4CA75D41313", 347, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "BUSINESS-TYPE ACTIVITIES", "Los Angeles Convention Center", "Los Angeles Convention Center", "111" ]
+, [ 348, "2636B987-4D02-4F67-98CE-0F7C7E65ACDD", 348, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "BUSINESS-TYPE ACTIVITIES", "Water and Power", "Water and Power", "9200" ]
+, [ 349, "F233037B-A408-46F7-A3C2-D8217C2D4E97", 349, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "PENSION SYSTEMS", "City Employees Retirement System", "City Employees Retirement System", "126" ]
+, [ 350, "6BD08389-92D8-4AEB-93A9-8E7906BD1808", 350, 1390692968, "862121", 1390692968, "862121", "{\n}", "2010", "PENSION SYSTEMS", "Fire and Police Pension System", "Fire and Police Pension System", "98" ]
+, [ 351, "78FACE01-5190-4B5C-83C6-5ADA3E445D65", 351, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "General Government", "City Administrative Officer", "103" ]
+, [ 352, "F884D6D1-44BC-44EB-8450-1A781E6719B4", 352, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "General Government", "City Attorney", "870" ]
+, [ 353, "D9DF03BF-C6CA-423A-A48B-45EB29D8BDCC", 353, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "General Government", "City Clerk (1)", "96" ]
+, [ 354, "DFB4CDD5-EF1D-48E8-9D54-AB6F33A0B1D2", 354, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "General Government", "City Ethics Commission", "18" ]
+, [ 355, "4155A283-8C49-4DDA-86B9-5ECF9D4D212B", 355, 1390692968, "862121", 1390692968, "862121", "{\n  \"invalidCells\" : {\n    \"17786631\" : \" -- \"\n  }\n}", "2011", "GOVERNMENTAL ACTIVITIES", "General Government", "Commission on the Status of Women (6)", null ]
+, [ 356, "50D50FA0-AE82-427B-9104-90BF96EDDFCC", 356, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "General Government", "Controller", "157" ]
+, [ 357, "C001C61C-9694-4040-9BC2-7C48544F321D", 357, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "General Government", "Council ", "321" ]
+, [ 358, "E22F6DA2-5BCC-4133-8456-F31C1F5FE81F", 358, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "General Government", "Employee Relations Board", "3" ]
+, [ 359, "5CFF37F6-8E1B-45FC-A4C1-5AA541BFEB96", 359, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "General Government", "General Services", "1707" ]
+, [ 360, "ACCBAD22-38F9-406B-909A-C1A2A82D4E98", 360, 1390692968, "862121", 1390692968, "862121", "{\n  \"invalidCells\" : {\n    \"17786631\" : \" -- \"\n  }\n}", "2011", "GOVERNMENTAL ACTIVITIES", "General Government", "Human Relations Commission (6)", null ]
+, [ 361, "57C212D0-978E-4B92-99A8-578599E4B5F0", 361, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "General Government", "Information Technology Agency", "522" ]
+, [ 362, "36B4ADE7-72E6-4DB8-8A89-2D8C232F9EF6", 362, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "General Government", "Mayor", "171" ]
+, [ 363, "C12BAAF9-6460-404B-8B4C-CE7959E3E68F", 363, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "General Government", "Neighborhood Empowerment (2)", "18" ]
+, [ 364, "2F26FB47-AFD8-46D0-A32A-500D4CD758AC", 364, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "General Government", "Office of Finance (3)", "326" ]
+, [ 365, "F8373374-C559-4521-9217-E7E6C39814D6", 365, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "General Government", "Personnel", "371" ]
+, [ 366, "2955B9CD-D768-4DB5-B245-C6961D335FF0", 366, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "General Government", "Treasurer (3)", "30" ]
+, [ 367, "1C807D45-C109-410A-835C-EC92F7775BE3", 367, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Animal Services", "319" ]
+, [ 368, "2A8B4113-BA9E-45F3-845D-9914AD653328", 368, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Building & Safety", "719" ]
+, [ 369, "9785BFD9-B58F-4FA2-A8A4-C845AD6217B9", 369, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Emergency Preparedness/Management (4)", "24" ]
+, [ 370, "4A34B534-000C-4C88-9B5F-30C12657EF27", 370, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Fire-Civilian", "296" ]
+, [ 371, "AAFABF87-ABFD-48F9-8468-96544E5F4E75", 371, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Fire-Sworn", "3459" ]
+, [ 372, "BA4879B6-D777-4B9C-A0CF-4A554AE1155D", 372, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Police- Civilian", "2824" ]
+, [ 373, "B4318093-BE65-4677-8353-58AB9BE70896", 373, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Police- Sworn", "9810" ]
+, [ 374, "F665258B-742D-48BB-A24F-679CE7830D66", 374, 1390692968, "862121", 1390692968, "862121", "{\n  \"invalidCells\" : {\n    \"17786631\" : \" -- \"\n  }\n}", "2011", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Accounting (5)", null ]
+, [ 375, "C0A365B3-DC2D-4BDD-BE0C-B231BB3A1FA0", 375, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Board of Commissioners (5)", "93" ]
+, [ 376, "2A72A3D5-2CEC-42B3-922A-F2843E613CE9", 376, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Contract Administration", "293" ]
+, [ 377, "41B11CFA-14B4-4B90-A5E2-15E9DEF14A38", 377, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Engineering", "737" ]
+, [ 378, "3B4A26BB-684D-43D1-AC4D-18C8BFCC4365", 378, 1390692968, "862121", 1390692968, "862121", "{\n  \"invalidCells\" : {\n    \"17786631\" : \" -- \"\n  }\n}", "2011", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Management-Employee Services (5)", null ]
+, [ 379, "FFBF70D2-F422-4DAD-873E-02B12A496E89", 379, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Street Lighting", "200" ]
+, [ 380, "99115380-3CF8-4AEA-BE91-4F32E2B75439", 380, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Street Services", "1011" ]
+, [ 381, "600606C0-C58B-4EA2-AB27-A4A5D3226DE5", 381, 1390692968, "862121", 1390692968, "862121", "{\n  \"invalidCells\" : {\n    \"17786631\" : \" -- \"\n  }\n}", "2011", "GOVERNMENTAL ACTIVITIES", "Health and Sanitation", "Environmental Affairs (1)", null ]
+, [ 382, "F83915EB-A504-4647-852E-E0B7FAF77D32", 382, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "Health and Sanitation", "Public Works- Sanitation", "2430" ]
+, [ 383, "A07EA8DF-F015-4E3E-8DEF-06E55E157BC1", 383, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "Transportation", "Transportation", "1355" ]
+, [ 384, "873E5D78-AF5B-4150-B1AA-4B0DF7A02B88", 384, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Cultural Affairs", "39" ]
+, [ 385, "BFAC7163-03C2-4E18-812C-D4F2078A5031", 385, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "El Pueblo de los Angeles Historical Monument", "11" ]
+, [ 386, "FD2A8263-7192-4FE5-BE04-964D0666092B", 386, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Library", "664" ]
+, [ 387, "D7C466BF-9B59-4801-BAB9-DDC5E1AA1044", 387, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Recreation and Parks", "1478" ]
+, [ 388, "15E7DCAF-B8E2-4046-B2FD-9A1FC47EA33A", 388, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Zoo", "201" ]
+, [ 389, "B78ABF8E-E374-43C8-8D30-40CD6B3383EE", 389, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "Community Development", "Aging ", "41" ]
+, [ 390, "F0CF36F5-2593-49B5-9FF8-27DE10BF80EE", 390, 1390692968, "862121", 1390692968, "862121", "{\n  \"invalidCells\" : {\n    \"17786631\" : \" -- \"\n  }\n}", "2011", "GOVERNMENTAL ACTIVITIES", "Community Development", "Commission for Children, Youth and Their Families (6)", null ]
+, [ 391, "3BFAE1E6-5AB2-4039-9F55-3233D3B55EF4", 391, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "Community Development", "Community Development Department", "266" ]
+, [ 392, "19A65AA5-0888-4E96-A273-0210F25D841E", 392, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "Community Development", "Disability ", "14" ]
+, [ 393, "387898DF-BEC7-498A-B0C6-026BF664F21F", 393, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "Community Development", "Los Angeles Housing", "544" ]
+, [ 394, "848A2674-B54F-43F4-BCF5-10924EA739E4", 394, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "GOVERNMENTAL ACTIVITIES", "Community Development", "Planning", "237" ]
+, [ 395, "B2BF6B08-4211-487E-B0FD-D67D68E18F99", 395, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "BUSINESS-TYPE ACTIVITIES", "Airports (7)", "Airports (7)", "3535" ]
+, [ 396, "CCD394DE-8935-4AC8-99BA-E377E499C070", 396, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "BUSINESS-TYPE ACTIVITIES", "Harbor (7)", "Harbor (7)", "959" ]
+, [ 397, "AC13E155-9EEB-414C-90B5-868D83B8A079", 397, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "BUSINESS-TYPE ACTIVITIES", "Los Angeles Convention Center", "Los Angeles Convention Center", "112" ]
+, [ 398, "ED31E8C8-D6E8-43D2-BE6F-E0F3701CDBE4", 398, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "BUSINESS-TYPE ACTIVITIES", "Water and Power", "Water and Power", "9065" ]
+, [ 399, "CB9DFCA5-E3C6-4BCC-85B9-669265B0EE19", 399, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "PENSION SYSTEMS", "City Employees Retirement System", "City Employees Retirement System", "124" ]
+, [ 400, "03E6DFFA-F451-4761-8B7F-42D9E415AB76", 400, 1390692968, "862121", 1390692968, "862121", "{\n}", "2011", "PENSION SYSTEMS", "Fire and Police Pension System", "Fire and Police Pension System", "105" ]
+, [ 401, "075C8CD0-9F17-4072-951D-E5F89BCB6522", 401, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "GOVERNMENTAL ACTIVITIES", "General Government", "City Administrative Officer", "102" ]
+, [ 402, "2955548E-0867-4624-893F-6B02E8963992", 402, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "GOVERNMENTAL ACTIVITIES", "General Government", "City Attorney", "825" ]
+, [ 403, "A2AB40B9-5211-4477-B576-67305D816A3F", 403, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "GOVERNMENTAL ACTIVITIES", "General Government", "City Clerk (1)", "98" ]
+, [ 404, "106F68DD-1DEA-4B15-9202-D6FD771E888F", 404, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "GOVERNMENTAL ACTIVITIES", "General Government", "City Ethics Commission", "17" ]
+, [ 405, "543092EC-2636-4191-B490-339D9E81EC2B", 405, 1390692968, "862121", 1390692968, "862121", "{\n  \"invalidCells\" : {\n    \"17786631\" : \" -- \"\n  }\n}", "2012", "GOVERNMENTAL ACTIVITIES", "General Government", "Commission on the Status of Women (6)", null ]
+, [ 406, "2506A950-57C1-4640-8A1F-2146371CB6DC", 406, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "GOVERNMENTAL ACTIVITIES", "General Government", "Controller", "152" ]
+, [ 407, "4F97B354-774D-4A85-BFA0-356055FFC4EA", 407, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "GOVERNMENTAL ACTIVITIES", "General Government", "Council ", "334" ]
+, [ 408, "A7676B8B-E7A4-4E4E-8C2A-2D2FDEF35C2C", 408, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "GOVERNMENTAL ACTIVITIES", "General Government", "Employee Relations Board", "3" ]
+, [ 409, "F014432D-7AAD-4D8B-8444-EB6CE5F761B6", 409, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "GOVERNMENTAL ACTIVITIES", "General Government", "General Services", "1630" ]
+, [ 410, "4B01447A-9FE2-4E05-8DF5-CC072AE09B6A", 410, 1390692968, "862121", 1390692968, "862121", "{\n  \"invalidCells\" : {\n    \"17786631\" : \" -- \"\n  }\n}", "2012", "GOVERNMENTAL ACTIVITIES", "General Government", "Human Relations Commission (6)", null ]
+, [ 411, "AF00484B-3F08-42CB-B379-8E589E3F92C3", 411, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "GOVERNMENTAL ACTIVITIES", "General Government", "Information Technology Agency", "488" ]
+, [ 412, "FCA37D63-43F8-4F96-8F69-0AAE7D0DA0BC", 412, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "GOVERNMENTAL ACTIVITIES", "General Government", "Mayor", "175" ]
+, [ 413, "DEEA4A25-DA1B-4B72-8791-6ED1373F27DE", 413, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "GOVERNMENTAL ACTIVITIES", "General Government", "Neighborhood Empowerment (2)", "18" ]
+, [ 414, "6DFE962C-F996-43D1-A72C-F59E3CA3FCEB", 414, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "GOVERNMENTAL ACTIVITIES", "General Government", "Office of Finance (3)", "345" ]
+, [ 415, "C2F00CD5-73F7-4AFA-8977-EBE1CC9E4C6B", 415, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "GOVERNMENTAL ACTIVITIES", "General Government", "Personnel", "380" ]
+, [ 416, "D068DA5E-7E93-40AA-B745-0C9ABAA853B0", 416, 1390692968, "862121", 1390692968, "862121", "{\n  \"invalidCells\" : {\n    \"17786631\" : \" -- \"\n  }\n}", "2012", "GOVERNMENTAL ACTIVITIES", "General Government", "Treasurer (3)", null ]
+, [ 417, "04D5349F-2DCB-48D6-96C8-EA9C7D267864", 417, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Animal Services", "311" ]
+, [ 418, "5DA40E16-2EAA-44B3-BA1A-DF3374A846B6", 418, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Building & Safety", "723" ]
+, [ 419, "B58A7388-A62C-47F6-AC96-AF8EB37C6D04", 419, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Emergency Preparedness/Management (4)", "22" ]
+, [ 420, "AA4EF349-511A-492A-8609-F0FA975DE3CD", 420, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Fire-Civilian", "298" ]
+, [ 421, "E2EDED7C-A5B8-4822-B1F2-694FC4C38EEB", 421, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Fire-Sworn", "3317" ]
+, [ 422, "00CC2E1A-05A7-4618-B064-2F7EF68020E6", 422, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Police- Civilian", "2783" ]
+, [ 423, "FCD3529C-2565-4867-9CC7-EE5979F9AE76", 423, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Police- Sworn", "9875" ]
+, [ 424, "B2A87536-9CC2-4772-820E-F7400C7DF5E8", 424, 1390692968, "862121", 1390692968, "862121", "{\n  \"invalidCells\" : {\n    \"17786631\" : \" -- \"\n  }\n}", "2012", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Accounting (5)", null ]
+, [ 425, "58067F3E-52C5-409D-903A-23483D900E50", 425, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Board of Commissioners (5)", "92" ]
+, [ 426, "E209937C-EF39-42D0-979D-60F32E8B770A", 426, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Contract Administration", "287" ]
+, [ 427, "22EB73DE-E11E-4048-B26F-A398402DE524", 427, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Engineering", "718" ]
+, [ 428, "9BC8D32D-9D77-444E-B618-066AE2ABC237", 428, 1390692968, "862121", 1390692968, "862121", "{\n  \"invalidCells\" : {\n    \"17786631\" : \" -- \"\n  }\n}", "2012", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Management-Employee Services (5)", null ]
+, [ 429, "9C2CE30B-B56C-456F-AAC0-14350752F244", 429, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Street Lighting", "192" ]
+, [ 430, "ABEA332A-E8D6-48D3-BFF8-9966762B381F", 430, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Street Services", "982" ]
+, [ 431, "D0F6ABCC-3A36-486A-BE82-B2F0DBFF2913", 431, 1390692968, "862121", 1390692968, "862121", "{\n  \"invalidCells\" : {\n    \"17786631\" : \" -- \"\n  }\n}", "2012", "GOVERNMENTAL ACTIVITIES", "Health and Sanitation", "Environmental Affairs (1)", null ]
+, [ 432, "0A5BCB05-2563-41EE-B6A6-41AB0FF300B0", 432, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "GOVERNMENTAL ACTIVITIES", "Health and Sanitation", "Public Works- Sanitation", "2333" ]
+, [ 433, "05A1B183-88D9-4413-A55D-EBBF30163CE1", 433, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "GOVERNMENTAL ACTIVITIES", "Transportation", "Transportation", "1307" ]
+, [ 434, "16706114-DCD5-48BC-8B23-DD20B23F973A", 434, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Cultural Affairs", "34" ]
+, [ 435, "48305068-91F4-479E-8C7C-ADE0A1F5CBAF", 435, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "El Pueblo de los Angeles Historical Monument", "10" ]
+, [ 436, "E4ACB018-4B99-46EC-B707-43C6910D6B76", 436, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Library", "655" ]
+, [ 437, "9E0E67B6-2C1B-4FE3-B01C-4706D853F816", 437, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Recreation and Parks", "1429" ]
+, [ 438, "C85B30AB-7F5D-4214-B5C1-23000CF03B9F", 438, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Zoo", "205" ]
+, [ 439, "5E3A7DE4-A4E6-407F-A671-69FC5F888F23", 439, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "GOVERNMENTAL ACTIVITIES", "Community Development", "Aging ", "41" ]
+, [ 440, "5482F644-D62B-4BD4-8431-C9ECCAD30343", 440, 1390692968, "862121", 1390692968, "862121", "{\n  \"invalidCells\" : {\n    \"17786631\" : \" -- \"\n  }\n}", "2012", "GOVERNMENTAL ACTIVITIES", "Community Development", "Commission for Children, Youth and Their Families (6)", null ]
+, [ 441, "E9271D64-BC3E-464A-8796-FF179795C8DA", 441, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "GOVERNMENTAL ACTIVITIES", "Community Development", "Community Development Department", "268" ]
+, [ 442, "BE39C922-31E6-41CB-909A-D1BCBA032DD6", 442, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "GOVERNMENTAL ACTIVITIES", "Community Development", "Disability ", "11" ]
+, [ 443, "2B0ACC41-5917-430B-B914-D47FB2E068B0", 443, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "GOVERNMENTAL ACTIVITIES", "Community Development", "Los Angeles Housing", "531" ]
+, [ 444, "AFE9F633-31CE-4801-BE01-92E675482A58", 444, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "GOVERNMENTAL ACTIVITIES", "Community Development", "Planning", "234" ]
+, [ 445, "E639B5EE-E64F-453F-B78A-9EFFA2571D82", 445, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "BUSINESS-TYPE ACTIVITIES", "Airports (7)", "Airports (7)", "3552" ]
+, [ 446, "B0699E66-AE63-4D9D-98FC-4B985685C8F6", 446, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "BUSINESS-TYPE ACTIVITIES", "Harbor (7)", "Harbor (7)", "963" ]
+, [ 447, "D7E08AB4-16C5-4E31-8639-F5CBBA89F83F", 447, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "BUSINESS-TYPE ACTIVITIES", "Los Angeles Convention Center", "Los Angeles Convention Center", "109" ]
+, [ 448, "ACBB61CB-3DF6-437D-A9CC-3EE6CF9C6919", 448, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "BUSINESS-TYPE ACTIVITIES", "Water and Power", "Water and Power", "8867" ]
+, [ 449, "E1A5CEA5-BEA3-47C1-81A1-CA4FB640BF77", 449, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "PENSION SYSTEMS", "City Employees Retirement System", "City Employees Retirement System", "124" ]
+, [ 450, "D1C62407-7609-4B56-8984-FE17E08B5CA6", 450, 1390692968, "862121", 1390692968, "862121", "{\n}", "2012", "PENSION SYSTEMS", "Fire and Police Pension System", "Fire and Police Pension System", "107" ]
+, [ 451, "EB6AF231-328C-4F61-A202-F229668B714F", 451, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "GOVERNMENTAL ACTIVITIES", "General Government", "City Administrative Officer", "103" ]
+, [ 452, "90BE54B8-FCB6-44A6-8DF6-8BC6267B1B38", 452, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "GOVERNMENTAL ACTIVITIES", "General Government", "City Attorney", "813" ]
+, [ 453, "DB697598-870C-40DE-8DA6-B36C99F7BA38", 453, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "GOVERNMENTAL ACTIVITIES", "General Government", "City Clerk (1)", "97" ]
+, [ 454, "CB7ECB0D-4E9C-4845-9BD9-AF2A7A35E94E", 454, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "GOVERNMENTAL ACTIVITIES", "General Government", "City Ethics Commission", "18" ]
+, [ 455, "F8378EFB-2AF5-4E7E-ADB5-976ADC2143D6", 455, 1390692968, "862121", 1390692968, "862121", "{\n  \"invalidCells\" : {\n    \"17786631\" : \" -- \"\n  }\n}", "2013", "GOVERNMENTAL ACTIVITIES", "General Government", "Commission on the Status of Women (6)", null ]
+, [ 456, "3725D778-B35D-4E14-930C-D39DDC4310D1", 456, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "GOVERNMENTAL ACTIVITIES", "General Government", "Controller", "146" ]
+, [ 457, "450B711F-B7D0-4EAD-B475-D17BBA4D2403", 457, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "GOVERNMENTAL ACTIVITIES", "General Government", "Council ", "364" ]
+, [ 458, "4A3E5148-37EE-413E-8F5F-016C4E498924", 458, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "GOVERNMENTAL ACTIVITIES", "General Government", "Employee Relations Board", "3" ]
+, [ 459, "18E6B9A5-9ACA-46B5-B3E1-A3B1ACFF946F", 459, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "GOVERNMENTAL ACTIVITIES", "General Government", "General Services", "1430" ]
+, [ 460, "6CA9BC0E-72B9-41DF-8D3B-FF069676438A", 460, 1390692968, "862121", 1390692968, "862121", "{\n  \"invalidCells\" : {\n    \"17786631\" : \" -- \"\n  }\n}", "2013", "GOVERNMENTAL ACTIVITIES", "General Government", "Human Relations Commission (6)", null ]
+, [ 461, "8B699DFB-EDCA-4546-8865-6F38460ADAFF", 461, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "GOVERNMENTAL ACTIVITIES", "General Government", "Information Technology Agency", "463" ]
+, [ 462, "0C5179B0-65E3-4B12-AFE3-DBEEA5E99C5B", 462, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "GOVERNMENTAL ACTIVITIES", "General Government", "Mayor", "173" ]
+, [ 463, "C041712D-2D29-4713-8460-962E85291499", 463, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "GOVERNMENTAL ACTIVITIES", "General Government", "Neighborhood Empowerment (2)", "23" ]
+, [ 464, "39E7CCDC-613B-433B-A88E-ECEE69C33B4F", 464, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "GOVERNMENTAL ACTIVITIES", "General Government", "Office of Finance (3)", "336" ]
+, [ 465, "8569F3F6-40AD-4A8C-9288-95F7AAA5C898", 465, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "GOVERNMENTAL ACTIVITIES", "General Government", "Personnel", "460" ]
+, [ 466, "1310B77E-0BD1-4772-9FB7-31E5E43DCCC7", 466, 1390692968, "862121", 1390692968, "862121", "{\n  \"invalidCells\" : {\n    \"17786631\" : \" -- \"\n  }\n}", "2013", "GOVERNMENTAL ACTIVITIES", "General Government", "Treasurer (3)", null ]
+, [ 467, "4448FCB4-F072-4AD6-ABF1-3F04BCBB88EF", 467, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Animal Services", "318" ]
+, [ 468, "8B152273-002A-4821-A6C5-66798FFB10B5", 468, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Building & Safety", "760" ]
+, [ 469, "FCDF54B1-498F-4449-B4A9-30C356B39D03", 469, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Emergency Preparedness/Management (4)", "31" ]
+, [ 470, "6D34BC5A-9E36-4528-BB4A-170E2F5FF9CA", 470, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Fire-Civilian", "297" ]
+, [ 471, "01F9AA49-C164-4EA5-8836-2C88EFDABF9B", 471, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Fire-Sworn", "3206" ]
+, [ 472, "6DB7E679-2DCF-4EAD-A38B-15B6FFF82E6E", 472, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Police- Civilian", "2888" ]
+, [ 473, "E7F74529-932F-4C74-89F2-E7F4D14C2280", 473, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "GOVERNMENTAL ACTIVITIES", "Protection of Persons and Property", "Police- Sworn", "9875" ]
+, [ 474, "9EF892AB-BBA6-4256-B17C-CB15C0F9442B", 474, 1390692968, "862121", 1390692968, "862121", "{\n  \"invalidCells\" : {\n    \"17786631\" : \" -- \"\n  }\n}", "2013", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Accounting (5)", null ]
+, [ 475, "7FC404AA-C858-4ECF-8BFF-A973669FB35E", 475, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Board of Commissioners (5)", "81" ]
+, [ 476, "CB4EEABF-2E07-4ED0-A535-7E4F0A2F66D2", 476, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Contract Administration", "294" ]
+, [ 477, "FBBAB587-6656-4FCF-8F64-49BE541BCB09", 477, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Engineering", "701" ]
+, [ 478, "21E679D7-F85C-4C5B-8DC4-91D4925B1DF1", 478, 1390692968, "862121", 1390692968, "862121", "{\n  \"invalidCells\" : {\n    \"17786631\" : \" -- \"\n  }\n}", "2013", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Management-Employee Services (5)", null ]
+, [ 479, "A67C17DC-A8CC-4E3B-B644-B199815E331D", 479, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Street Lighting", "209" ]
+, [ 480, "477713EA-ADE6-4529-BD84-C387B6299907", 480, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "GOVERNMENTAL ACTIVITIES", "Public Works", "Public Works- Street Services", "931" ]
+, [ 481, "565F99FC-15C3-4E84-A39A-84CA9A680741", 481, 1390692968, "862121", 1390692968, "862121", "{\n  \"invalidCells\" : {\n    \"17786631\" : \" -- \"\n  }\n}", "2013", "GOVERNMENTAL ACTIVITIES", "Health and Sanitation", "Environmental Affairs (1)", null ]
+, [ 482, "FF215617-EFC4-49E6-9025-0E591B9FC447", 482, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "GOVERNMENTAL ACTIVITIES", "Health and Sanitation", "Public Works- Sanitation", "2317" ]
+, [ 483, "D1C1CF11-AA86-4625-B29C-D479BAAC0631", 483, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "GOVERNMENTAL ACTIVITIES", "Transportation", "Transportation", "1287" ]
+, [ 484, "8C9B8986-341E-4286-B40A-AB1BBDB6791F", 484, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Cultural Affairs", "34" ]
+, [ 485, "97537153-B037-49CE-B851-32C64AD035B4", 485, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "El Pueblo de los Angeles Historical Monument", "10" ]
+, [ 486, "9DB7A121-78B5-4C1E-AA45-7904CF999B90", 486, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Library", "999" ]
+, [ 487, "2DD3FB67-C4E7-4FB5-9616-74282090FA3B", 487, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Recreation and Parks", "1388" ]
+, [ 488, "DF0614D4-96CB-4C07-9F44-CE863198D4EA", 488, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "GOVERNMENTAL ACTIVITIES", "Cultural and Recreational Services", "Zoo", "213" ]
+, [ 489, "844A0C0D-1FDC-43A9-9B72-2F46631B3DA9", 489, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "GOVERNMENTAL ACTIVITIES", "Community Development", "Aging ", "34" ]
+, [ 490, "13771489-4D64-4017-940B-7CEF1E1BBD42", 490, 1390692968, "862121", 1390692968, "862121", "{\n  \"invalidCells\" : {\n    \"17786631\" : \" -- \"\n  }\n}", "2013", "GOVERNMENTAL ACTIVITIES", "Community Development", "Commission for Children, Youth and Their Families (6)", null ]
+, [ 491, "0B678232-8822-4F24-B714-8BCC5C91548F", 491, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "GOVERNMENTAL ACTIVITIES", "Community Development", "Community Development Department", "255" ]
+, [ 492, "52EBD1F8-F049-48DE-8901-89284D94D431", 492, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "GOVERNMENTAL ACTIVITIES", "Community Development", "Disability ", "15" ]
+, [ 493, "674F7C7E-0CD1-44CE-9DAB-1A142151BDB9", 493, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "GOVERNMENTAL ACTIVITIES", "Community Development", "Los Angeles Housing", "511" ]
+, [ 494, "B2F60C8B-29EB-4C33-98F6-5F346C0B5988", 494, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "GOVERNMENTAL ACTIVITIES", "Community Development", "Planning", "261" ]
+, [ 495, "AF0D6A64-EA6C-4734-A18D-832DF11B6234", 495, 1390692968, "862121", 1392999416, "862121", null, "2013", "BUSINESS-TYPE ACTIVITIES", "Airports (7)", "Airports (7)", "3535" ]
+, [ 496, "9434A007-05E1-49F7-8407-CBCB95F7C3DC", 496, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "BUSINESS-TYPE ACTIVITIES", "Harbor (7)", "Harbor (7)", "947" ]
+, [ 497, "A5EB4F9E-E1EB-4AFD-97E4-669B8743E03E", 497, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "BUSINESS-TYPE ACTIVITIES", "Los Angeles Convention Center", "Los Angeles Convention Center", "92" ]
+, [ 498, "F9E8445B-8815-44BB-8A90-D821769557E3", 498, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "BUSINESS-TYPE ACTIVITIES", "Water and Power", "Water and Power", "8776" ]
+, [ 499, "67CA04B0-D4EC-410B-8938-622C1DDDF283", 499, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "PENSION SYSTEMS", "City Employees Retirement System", "City Employees Retirement System", "127" ]
+, [ 500, "EC06F72A-6072-404B-88FD-45DB1967CD4E", 500, 1390692968, "862121", 1390692968, "862121", "{\n}", "2013", "PENSION SYSTEMS", "Fire and Police Pension System", "Fire and Police Pension System", "109" ]
+ ]
+}

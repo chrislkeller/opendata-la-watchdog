@@ -1,0 +1,251 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "8yaq-2fpu",
+      "name" : "DWP - Percentage Of Water Purchased From MWD  3 Yr. Avg.",
+      "averageRating" : 0,
+      "createdAt" : 1401487837,
+      "description" : "Los Angeles gets its water from several sources, including local water supplies, recycled water and the Owens Valley. When those sources do not provide enough to meet demand, the DWP must purchase water on the open market from the Metropolitan Water District. Water from the MWD costs more than the other sources, so keeping purchases from MWD low is important to ensuring stable and affordable rates for DWP customers. More information: https://www.ladwp.com/ladwp/faces/ladwp/aboutus/a-water/a-w-sourcesofsupply?_adf.ctrl-state=1cnzdaglow_191&_afrLoop=65694383993634&_afrWindowMode=0&_afrWindowId=null#%40%3F_afrWindowId%3Dnull%26_afrLoop%3D65694383993634%26_afrWindowMode%3D0%26_adf.ctrl-state%3D15ucu0sq05_17",
+      "displayType" : "table",
+      "downloadCount" : 6,
+      "indexUpdatedAt" : 1414612921,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8108927,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401487901,
+      "publicationGroup" : 1600616,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1401487845,
+      "rowsUpdatedBy" : "ddg3-br68",
+      "tableId" : 1600616,
+      "totalTimesRated" : 0,
+      "viewCount" : 28,
+      "viewLastModified" : 1402586550,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150663217,
+        "name" : "Date Name",
+        "dataTypeName" : "text",
+        "fieldName" : "date_name",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20022213,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "1972",
+          "null" : 0,
+          "largest" : "2012",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1972"
+          }, {
+            "count" : 19,
+            "item" : "1982"
+          }, {
+            "count" : 18,
+            "item" : "1992"
+          }, {
+            "count" : 17,
+            "item" : "2002"
+          }, {
+            "count" : 16,
+            "item" : "2012"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150663218,
+        "name" : "Date Value",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date_value",
+        "position" : 3,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 20022214,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "1972-12-31T00:00:00",
+          "null" : 0,
+          "largest" : "2012-12-31T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1972-12-31T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "1982-12-31T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "1992-12-31T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2002-12-31T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2012-12-31T00:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150663219,
+        "name" : "Percentage of Water Supply Purchased from MWD (3 yr avg.)",
+        "dataTypeName" : "percent",
+        "fieldName" : "percentage_of_water_supply_purchased_from_mwd_3_yr_avg",
+        "position" : 4,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 20022215,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "6",
+          "sum" : "161",
+          "null" : 0,
+          "average" : "32.2",
+          "largest" : "55",
+          "top" : [ {
+            "count" : 20,
+            "item" : "10"
+          }, {
+            "count" : 19,
+            "item" : "6"
+          }, {
+            "count" : 18,
+            "item" : "51"
+          }, {
+            "count" : 17,
+            "item" : "55"
+          }, {
+            "count" : 16,
+            "item" : "39"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "hb8e-gdsp",
+        "displayName" : "LA DWP OpenData",
+        "profileImageUrlLarge" : "/images/profile/5225/6660/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5225/6660/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5225/6660/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LA DWP OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "hb8e-gdsp",
+        "displayName" : "LA DWP OpenData",
+        "profileImageUrlLarge" : "/images/profile/5225/6660/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5225/6660/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5225/6660/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LA DWP OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "dwp", "water", "mwd", "local", "in-basin", "metropolitan water district", "imported water" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "21742EDA-6181-40C7-B2CF-7A89978105A1", 1, 1401487842, "882858", 1401487842, "882858", "{\n}", "1972", "1972-12-31T00:00:00", "10" ]
+, [ 2, "9300BAF4-8E95-4DB4-8734-BF4149D4F7DA", 2, 1401487842, "882858", 1401487842, "882858", "{\n}", "1982", "1982-12-31T00:00:00", "6" ]
+, [ 3, "1A464B63-7A7A-4A6D-8E43-4662FE6C79A0", 3, 1401487842, "882858", 1401487842, "882858", "{\n}", "1992", "1992-12-31T00:00:00", "51" ]
+, [ 4, "5E98A6A4-A9EB-42AD-B0FF-81F7C3917555", 4, 1401487842, "882858", 1401487842, "882858", "{\n}", "2002", "2002-12-31T00:00:00", "55" ]
+, [ 5, "3B82216D-BEDA-4DDE-93DC-4B300B7E3DB6", 5, 1401487842, "882858", 1401487842, "882858", "{\n}", "2012", "2012-12-31T00:00:00", "39" ]
+ ]
+}

@@ -1,0 +1,583 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "ivk4-ub4s",
+      "name" : "Assessed and Estimated Actual Value or Property",
+      "attribution" : "Controller",
+      "attributionLink" : "http://controller.lacity.org/stellent/groups/ElectedOfficials/@CTR_Contributor/documents/Contributor_Web_Content/LACITYP_027750.pdf#page=386",
+      "averageRating" : 0,
+      "category" : "Liabilities and Assets",
+      "createdAt" : 1390280433,
+      "description" : "CAFR Page 343.\r\n\r\nLast Ten Fiscal Years",
+      "displayType" : "table",
+      "downloadCount" : 65,
+      "indexUpdatedAt" : 1414614334,
+      "licenseId" : "PUBLIC_DOMAIN",
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 7328035,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1392070249,
+      "publicationGroup" : 1447937,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1392070048,
+      "rowsUpdatedBy" : "7c7a-resi",
+      "tableId" : 1472353,
+      "totalTimesRated" : 0,
+      "viewCount" : 99,
+      "viewLastModified" : 1412744423,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 132781030,
+        "name" : "Year of Levy",
+        "dataTypeName" : "number",
+        "fieldName" : "year_of_levy",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17694704,
+        "width" : 94,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "2004",
+          "sum" : "20085",
+          "null" : 0,
+          "average" : "2008.5",
+          "largest" : "2013",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2004"
+          }, {
+            "count" : 19,
+            "item" : "2005"
+          }, {
+            "count" : 18,
+            "item" : "2006"
+          }, {
+            "count" : 17,
+            "item" : "2007"
+          }, {
+            "count" : 16,
+            "item" : "2008"
+          }, {
+            "count" : 15,
+            "item" : "2009"
+          }, {
+            "count" : 14,
+            "item" : "2010"
+          }, {
+            "count" : 13,
+            "item" : "2011"
+          }, {
+            "count" : 12,
+            "item" : "2012"
+          }, {
+            "count" : 11,
+            "item" : "2013"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "true"
+        }
+      }, {
+        "id" : 132781031,
+        "name" : "Real Property",
+        "dataTypeName" : "number",
+        "description" : "Real Property valuation in thousands of dollars",
+        "fieldName" : "real_property",
+        "position" : 2,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17694705,
+        "width" : 125,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "246906688",
+          "sum" : "3463662143",
+          "null" : 0,
+          "average" : "346366214.3",
+          "largest" : "399640203",
+          "top" : [ {
+            "count" : 20,
+            "item" : "246906688"
+          }, {
+            "count" : 19,
+            "item" : "268163573"
+          }, {
+            "count" : 18,
+            "item" : "296325286"
+          }, {
+            "count" : 17,
+            "item" : "331032179"
+          }, {
+            "count" : 16,
+            "item" : "363755025"
+          }, {
+            "count" : 15,
+            "item" : "392197205"
+          }, {
+            "count" : 14,
+            "item" : "391747407"
+          }, {
+            "count" : 13,
+            "item" : "384126153"
+          }, {
+            "count" : 12,
+            "item" : "389768424"
+          }, {
+            "count" : 11,
+            "item" : "399640203"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "false"
+        }
+      }, {
+        "id" : 132781032,
+        "name" : "Personal Property",
+        "dataTypeName" : "number",
+        "description" : "Personal Property valuation in thousands of dollars",
+        "fieldName" : "personal_property",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17694706,
+        "width" : 149,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "15950614",
+          "sum" : "171319595",
+          "null" : 0,
+          "average" : "17131959.5",
+          "largest" : "19008923",
+          "top" : [ {
+            "count" : 20,
+            "item" : "16640805"
+          }, {
+            "count" : 19,
+            "item" : "16304721"
+          }, {
+            "count" : 18,
+            "item" : "16343009"
+          }, {
+            "count" : 17,
+            "item" : "15950614"
+          }, {
+            "count" : 16,
+            "item" : "17398206"
+          }, {
+            "count" : 15,
+            "item" : "18938019"
+          }, {
+            "count" : 14,
+            "item" : "19008923"
+          }, {
+            "count" : 13,
+            "item" : "17147802"
+          }, {
+            "count" : 12,
+            "item" : "16688249"
+          }, {
+            "count" : 11,
+            "item" : "16899247"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "false"
+        }
+      }, {
+        "id" : 132781033,
+        "name" : "Total",
+        "dataTypeName" : "number",
+        "description" : "Total valuation in thousands of dollars",
+        "fieldName" : "total",
+        "position" : 4,
+        "rdfProperties" : "",
+        "renderTypeName" : "number",
+        "tableColumnId" : 17694707,
+        "width" : 106,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "263547493",
+          "sum" : "3634981738",
+          "null" : 0,
+          "average" : "363498173.8",
+          "largest" : "416539450",
+          "top" : [ {
+            "count" : 20,
+            "item" : "263547493"
+          }, {
+            "count" : 19,
+            "item" : "284468294"
+          }, {
+            "count" : 18,
+            "item" : "312668295"
+          }, {
+            "count" : 17,
+            "item" : "346982793"
+          }, {
+            "count" : 16,
+            "item" : "381153231"
+          }, {
+            "count" : 15,
+            "item" : "411135224"
+          }, {
+            "count" : 14,
+            "item" : "410756330"
+          }, {
+            "count" : 13,
+            "item" : "401273955"
+          }, {
+            "count" : 12,
+            "item" : "406456673"
+          }, {
+            "count" : 11,
+            "item" : "416539450"
+          } ]
+        },
+        "format" : {
+          "rdf" : "",
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "false"
+        }
+      }, {
+        "id" : 132781034,
+        "name" : "Average Annual Growth",
+        "dataTypeName" : "percent",
+        "fieldName" : "average_annual_growth",
+        "position" : 5,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 17694708,
+        "width" : 137,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "-2.31",
+          "sum" : "55.74",
+          "null" : 0,
+          "average" : "5.574",
+          "largest" : "10.97",
+          "top" : [ {
+            "count" : 20,
+            "item" : "7.83"
+          }, {
+            "count" : 19,
+            "item" : "7.94"
+          }, {
+            "count" : 18,
+            "item" : "9.91"
+          }, {
+            "count" : 17,
+            "item" : "10.97"
+          }, {
+            "count" : 16,
+            "item" : "9.85"
+          }, {
+            "count" : 15,
+            "item" : "7.87"
+          }, {
+            "count" : 14,
+            "item" : "-0.09"
+          }, {
+            "count" : 13,
+            "item" : "-2.31"
+          }, {
+            "count" : 12,
+            "item" : "1.29"
+          }, {
+            "count" : 11,
+            "item" : "2.48"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 132781035,
+        "name" : "Total Direct Tax Rate ",
+        "dataTypeName" : "number",
+        "description" : "Total Direct Tax Rate per $1,000 of Assessed Value",
+        "fieldName" : "total_direct_tax_rate",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17694709,
+        "width" : 159,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "1.037694",
+          "sum" : "10.436017",
+          "null" : 0,
+          "average" : "1.0436017",
+          "largest" : "1.055733",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1.050574"
+          }, {
+            "count" : 19,
+            "item" : "1.055733"
+          }, {
+            "count" : 18,
+            "item" : "1.051289"
+          }, {
+            "count" : 17,
+            "item" : "1.045354"
+          }, {
+            "count" : 16,
+            "item" : "1.038051"
+          }, {
+            "count" : 15,
+            "item" : "1.038541"
+          }, {
+            "count" : 14,
+            "item" : "1.041220"
+          }, {
+            "count" : 13,
+            "item" : "1.038895"
+          }, {
+            "count" : 12,
+            "item" : "1.038666"
+          }, {
+            "count" : 11,
+            "item" : "1.037694"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "false"
+        }
+      }, {
+        "id" : 132781036,
+        "name" : "Assessed Value per Capita",
+        "dataTypeName" : "number",
+        "fieldName" : "assessed_value_per_capita",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17694710,
+        "width" : 89,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "70",
+          "sum" : "957",
+          "null" : 0,
+          "average" : "95.7",
+          "largest" : "109",
+          "top" : [ {
+            "count" : 20,
+            "item" : "70"
+          }, {
+            "count" : 19,
+            "item" : "75"
+          }, {
+            "count" : 18,
+            "item" : "83"
+          }, {
+            "count" : 17,
+            "item" : "92"
+          }, {
+            "count" : 16,
+            "item" : "101"
+          }, {
+            "count" : 15,
+            "item" : "109"
+          }, {
+            "count" : 14,
+            "item" : "108"
+          }, {
+            "count" : 13,
+            "item" : "105"
+          }, {
+            "count" : 12,
+            "item" : "106"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 132781037,
+        "name" : "Population",
+        "dataTypeName" : "number",
+        "fieldName" : "population",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17694711,
+        "width" : 92,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "3764062",
+          "sum" : "37921877",
+          "null" : 0,
+          "average" : "3792187.7",
+          "largest" : "3863839",
+          "top" : [ {
+            "count" : 20,
+            "item" : "3773549"
+          }, {
+            "count" : 19,
+            "item" : "3769130"
+          }, {
+            "count" : 18,
+            "item" : "3768645"
+          }, {
+            "count" : 17,
+            "item" : "3764062"
+          }, {
+            "count" : 16,
+            "item" : "3774497"
+          }, {
+            "count" : 15,
+            "item" : "3781951"
+          }, {
+            "count" : 14,
+            "item" : "3792621"
+          }, {
+            "count" : 13,
+            "item" : "3806411"
+          }, {
+            "count" : 12,
+            "item" : "3827172"
+          }, {
+            "count" : 11,
+            "item" : "3863839"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Public Domain"
+      },
+      "metadata" : {
+        "custom_fields" : {
+          "Department" : {
+            "Division" : "GAAP",
+            "Department" : "Controller",
+            "System" : "CAFR"
+          },
+          "Update Information" : {
+            "Update Cycle" : "Annual"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "7c7a-resi",
+        "displayName" : "Controller's Office",
+        "roleName" : "administrator",
+        "screenName" : "Controller's Office",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "7c7a-resi",
+        "displayName" : "Controller's Office",
+        "roleName" : "administrator",
+        "screenName" : "Controller's Office",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "tags" : [ "real property", "values", "assessments", "city of los angeles", "city of los angeles controller", "city of la", "city of la controller", "ron galperin", "comprehensive annual financial report", "cafr", "net position", "asset type", "asset type group", "activity type", "cafr statistical section" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "A5A30FDB-EC73-48B2-9F96-7ECC6872BEBF", 1, 1390280435, "862121", 1390280435, "862121", "{\n}", "2004", "246906688", "16640805", "263547493", "7.83", "1.050574", "70", "3773549" ]
+, [ 2, "BFC5AE72-5629-4663-AB9F-F70E7FC02975", 2, 1390280435, "862121", 1390280435, "862121", "{\n}", "2005", "268163573", "16304721", "284468294", "7.94", "1.055733", "75", "3769130" ]
+, [ 3, "AF7B01FB-10BD-42DC-A5CA-6E85AB2EA155", 3, 1390280435, "862121", 1390280435, "862121", "{\n}", "2006", "296325286", "16343009", "312668295", "9.91", "1.051289", "83", "3768645" ]
+, [ 4, "9100CA6E-1BE0-40C1-8977-2F2545A5E7AE", 4, 1390280435, "862121", 1390280435, "862121", "{\n}", "2007", "331032179", "15950614", "346982793", "10.97", "1.045354", "92", "3764062" ]
+, [ 5, "8CE4BC15-652C-468D-9568-72FD6AC327B0", 5, 1390280435, "862121", 1390280435, "862121", "{\n}", "2008", "363755025", "17398206", "381153231", "9.85", "1.038051", "101", "3774497" ]
+, [ 6, "D7E8180F-790C-41FA-A80F-6A27E7F0D6E4", 6, 1390280435, "862121", 1390280435, "862121", "{\n}", "2009", "392197205", "18938019", "411135224", "7.87", "1.038541", "109", "3781951" ]
+, [ 7, "F689EEC8-3A89-4348-B76E-C77EA47F2B4E", 7, 1390280435, "862121", 1390280435, "862121", "{\n}", "2010", "391747407", "19008923", "410756330", "-0.09", "1.041220", "108", "3792621" ]
+, [ 8, "2212CE42-B754-466A-8ABE-05BC9B43BBF3", 8, 1390280435, "862121", 1390280435, "862121", "{\n}", "2011", "384126153", "17147802", "401273955", "-2.31", "1.038895", "105", "3806411" ]
+, [ 9, "8A8BABA5-6C5F-4BCD-8549-B2BACB160E4F", 9, 1390280435, "862121", 1390280435, "862121", "{\n}", "2012", "389768424", "16688249", "406456673", "1.29", "1.038666", "106", "3827172" ]
+, [ 10, "1AC0EBFA-70D2-4FC7-8321-C922C93EAFF8", 10, 1390280435, "862121", 1390280435, "862121", "{\n}", "2013", "399640203", "16899247", "416539450", "2.48", "1.037694", "108", "3863839" ]
+ ]
+}

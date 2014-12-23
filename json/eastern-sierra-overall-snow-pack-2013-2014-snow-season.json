@@ -1,0 +1,241 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "4a8d-4327",
+      "name" : "Eastern Sierra Overall Snow Pack 2013-2014 Snow Season",
+      "attribution" : "LADWP",
+      "averageRating" : 0,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1400115649,
+      "description" : "LADWP's measurement of Eastern Sierra Snow Pack for the 2013-2014 Winter Season",
+      "displayType" : "table",
+      "downloadCount" : 2,
+      "indexUpdatedAt" : 1414612868,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8029949,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1400531705,
+      "publicationGroup" : 1581673,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1400531701,
+      "rowsUpdatedBy" : "g9i9-z6y7",
+      "tableId" : 1587565,
+      "totalTimesRated" : 0,
+      "viewCount" : 34,
+      "viewLastModified" : 1401232938,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 149116874,
+        "name" : "Month",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "month",
+        "position" : 2,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 19731502,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "2013-12-01T00:00:00",
+          "null" : 0,
+          "largest" : "2014-04-01T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2013-12-01T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2014-01-01T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2014-02-01T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2014-03-01T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2014-04-01T00:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149116875,
+        "name" : "Inches - Water Content",
+        "dataTypeName" : "number",
+        "fieldName" : "inches_water_content",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19731503,
+        "width" : 364,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "1.5",
+          "sum" : "21.7",
+          "null" : 0,
+          "average" : "4.34",
+          "largest" : "6.1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1.5"
+          }, {
+            "count" : 19,
+            "item" : "4.7"
+          }, {
+            "count" : 18,
+            "item" : "3.6"
+          }, {
+            "count" : 17,
+            "item" : "6.1"
+          }, {
+            "count" : 16,
+            "item" : "5.8"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149116876,
+        "name" : "Inches - Normal  to Date",
+        "dataTypeName" : "text",
+        "fieldName" : "inches_normal_to_date",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19731504,
+        "width" : 388,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "12.2",
+          "null" : 0,
+          "largest" : "N/A",
+          "top" : [ {
+            "count" : 20,
+            "item" : "N/A"
+          }, {
+            "count" : 19,
+            "item" : "12.2"
+          }, {
+            "count" : 18,
+            "item" : "16.6"
+          }, {
+            "count" : 17,
+            "item" : "19.2"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "LADWP"
+          }
+        }
+      },
+      "owner" : {
+        "id" : "hb8e-gdsp",
+        "displayName" : "LA DWP OpenData",
+        "profileImageUrlLarge" : "/images/profile/5225/6660/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5225/6660/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5225/6660/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LA DWP OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "7q7s-tyf3",
+        "displayName" : "Steve Baule",
+        "roleName" : "editor",
+        "screenName" : "Steve Baule",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "eastern sierra", "snow" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "706F07CF-36F4-4016-B7F2-4BEA7FF57D60", 1, 1400115653, "877550", 1400115653, "877550", "{\n}", "2013-12-01T00:00:00", "1.5", "N/A" ]
+, [ 2, "FB98F225-97AC-473A-B57A-C43B7B682A71", 2, 1400115653, "877550", 1400115653, "877550", "{\n}", "2014-01-01T00:00:00", "4.7", "N/A" ]
+, [ 3, "7570269B-CDCC-4AAC-8E18-87EEDAA534D2", 3, 1400115653, "877550", 1400115653, "877550", "{\n}", "2014-02-01T00:00:00", "3.6", "12.2" ]
+, [ 4, "8A018F24-EA15-4D78-A283-14833B83A601", 4, 1400115653, "877550", 1400115857, "877550", null, "2014-03-01T00:00:00", "6.1", "16.6" ]
+, [ 5, "448BF725-159F-4D54-B96F-4A3CD1DBCCE4", 5, 1400115653, "877550", 1400115653, "877550", "{\n}", "2014-04-01T00:00:00", "5.8", "19.2" ]
+ ]
+}

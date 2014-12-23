@@ -1,0 +1,294 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "5a4i-e2zs",
+      "name" : "Port of Los Angeles - Historic Tonage Data Short Ton (1920-1970)",
+      "attribution" : "Port of Los Angeles",
+      "averageRating" : 0,
+      "category" : "A Prosperous City",
+      "createdAt" : 1395690091,
+      "description" : "Port of Los Angeles - Historic Tonage Data Short Ton(1920-1970)",
+      "displayType" : "table",
+      "downloadCount" : 2,
+      "indexUpdatedAt" : 1414616967,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 7614649,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1395690144,
+      "publicationGroup" : 1521913,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1395690096,
+      "rowsUpdatedBy" : "2ib6-ssvz",
+      "tableId" : 1521913,
+      "totalTimesRated" : 0,
+      "viewCount" : 39,
+      "viewLastModified" : 1401396174,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 139563243,
+        "name" : "Year",
+        "dataTypeName" : "text",
+        "fieldName" : "year",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18809420,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 51,
+          "smallest" : "1920",
+          "null" : 0,
+          "largest" : "1970",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1929"
+          }, {
+            "count" : 19,
+            "item" : "1928"
+          }, {
+            "count" : 18,
+            "item" : "1927"
+          }, {
+            "count" : 17,
+            "item" : "1926"
+          }, {
+            "count" : 16,
+            "item" : "1925"
+          }, {
+            "count" : 15,
+            "item" : "1924"
+          }, {
+            "count" : 14,
+            "item" : "1923"
+          }, {
+            "count" : 13,
+            "item" : "1922"
+          }, {
+            "count" : 12,
+            "item" : "1921"
+          }, {
+            "count" : 11,
+            "item" : "1920"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 139563244,
+        "name" : "Tons",
+        "dataTypeName" : "number",
+        "fieldName" : "tons",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18809421,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 51,
+          "smallest" : "0",
+          "sum" : "1004536237",
+          "null" : 0,
+          "average" : "19696788.96078431",
+          "largest" : "28931577",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0"
+          }, {
+            "count" : 19,
+            "item" : "23067365"
+          }, {
+            "count" : 18,
+            "item" : "22268421"
+          }, {
+            "count" : 17,
+            "item" : "25550464"
+          }, {
+            "count" : 16,
+            "item" : "18870102"
+          }, {
+            "count" : 15,
+            "item" : "6533589"
+          }, {
+            "count" : 14,
+            "item" : "4296254"
+          }, {
+            "count" : 13,
+            "item" : "3528280"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Harbor"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "2ib6-ssvz",
+        "displayName" : "Port of Los Angeles",
+        "profileImageUrlLarge" : "/images/profile/9654/0122/POLALogo2_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9654/0122/POLALogo2_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9654/0122/POLALogo2_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Port of Los Angeles",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "2ib6-ssvz",
+        "displayName" : "Port of Los Angeles",
+        "profileImageUrlLarge" : "/images/profile/9654/0122/POLALogo2_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9654/0122/POLALogo2_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9654/0122/POLALogo2_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Port of Los Angeles",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "jobs", "economy", "business", "port", "historic tonage", "short ton", "tonnage" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "80A1E3A7-F5DA-4B06-9F39-7E267CF7D564", 1, 1395690094, "870164", 1395690094, "870164", "{\n}", "1970", "25937196" ]
+, [ 2, "6892F1C3-868D-49E1-8394-D65650824A33", 2, 1395690094, "870164", 1395690094, "870164", "{\n}", "1969", "26946622" ]
+, [ 3, "9A53BFE3-3C3D-4BF8-87DF-7F3A9FDB37F3", 3, 1395690094, "870164", 1395690094, "870164", "{\n}", "1968", "28931577" ]
+, [ 4, "306A2BC4-9D79-4C1D-84DE-E2514671B0B5", 4, 1395690094, "870164", 1395690094, "870164", "{\n}", "1967", "26293560" ]
+, [ 5, "21875B96-5EB7-475D-B9AA-99F768180D3E", 5, 1395690094, "870164", 1395690094, "870164", "{\n}", "1966", "26182113" ]
+, [ 6, "CA32EDE0-16C1-499B-9F94-46E689BEB6D6", 6, 1395690094, "870164", 1395690094, "870164", "{\n}", "1965", "25125011" ]
+, [ 7, "8B0E1533-4AE6-4341-953C-25D7A5193085", 7, 1395690094, "870164", 1395690094, "870164", "{\n}", "1964", "24494049" ]
+, [ 8, "400B39C0-328B-4FDD-AE60-ABD44C734502", 8, 1395690094, "870164", 1395690094, "870164", "{\n}", "1963", "24351976" ]
+, [ 9, "79107EC2-B717-4AEA-8091-5E35214F5C70", 9, 1395690094, "870164", 1395690094, "870164", "{\n}", "1962", "26088015" ]
+, [ 10, "9A6BCCC6-C117-43B9-B72E-035F75926A2E", 10, 1395690094, "870164", 1395690094, "870164", "{\n}", "1961", "25012412" ]
+, [ 11, "530267D4-F37F-4294-940A-CF0B0B68B830", 11, 1395690094, "870164", 1395690094, "870164", "{\n}", "1960", "24620397" ]
+, [ 12, "D5BAB2D5-AF6E-4D83-91F9-483730E6C41E", 12, 1395690094, "870164", 1395690094, "870164", "{\n}", "1959", "23298574" ]
+, [ 13, "F97DD67A-D635-44BB-9349-5E8CE09D5FF5", 13, 1395690094, "870164", 1395690094, "870164", "{\n}", "1958", "21869027" ]
+, [ 14, "08236623-8DEB-46DB-A9EE-02CC2B04145F", 14, 1395690094, "870164", 1395690094, "870164", "{\n}", "1957", "24125432" ]
+, [ 15, "79424554-2B6A-4093-9C1D-A1A58536D259", 15, 1395690094, "870164", 1395690094, "870164", "{\n}", "1956", "24082933" ]
+, [ 16, "EB499943-D439-4F6A-898A-3BA4E97566CA", 16, 1395690094, "870164", 1395690094, "870164", "{\n}", "1955", "24819837" ]
+, [ 17, "73C576E4-4600-4570-9F84-4D9C3018FCE5", 17, 1395690094, "870164", 1395690094, "870164", "{\n}", "1954", "26513998" ]
+, [ 18, "B747D800-2E9C-4FD9-98FF-37941901C751", 18, 1395690094, "870164", 1395690094, "870164", "{\n}", "1953", "24762587" ]
+, [ 19, "76AE0C28-894C-4146-8855-48F67879EBA9", 19, 1395690094, "870164", 1395690094, "870164", "{\n}", "1952", "24022510" ]
+, [ 20, "3FDCB350-BCA5-4A3C-93D6-E2ED053D286A", 20, 1395690094, "870164", 1395690094, "870164", "{\n}", "1951", "23699624" ]
+, [ 21, "B7BDF4A6-6E4E-42B2-9DED-280B21FD6840", 21, 1395690094, "870164", 1395690094, "870164", "{\n}", "1950", "22693233" ]
+, [ 22, "2AD093FE-741B-4861-8DC2-6A7D3ADD112C", 22, 1395690094, "870164", 1395690094, "870164", "{\n}", "1949", "17115867" ]
+, [ 23, "26B5933A-3E80-44C3-A2DA-6ED0DAA3EFD5", 23, 1395690094, "870164", 1395690094, "870164", "{\n}", "1948", "17988872" ]
+, [ 24, "91C53695-57F3-42CF-99E9-F2F3EBE69953", 24, 1395690094, "870164", 1395690094, "870164", "{\n}", "1947", "15443689" ]
+, [ 25, "C0B7542D-AF69-49A1-868B-E78BAF26F995", 25, 1395690094, "870164", 1395690094, "870164", "{\n}", "1946", "0" ]
+, [ 26, "DE7D6945-DF7C-4079-B46A-6D4365148EFC", 26, 1395690094, "870164", 1395690094, "870164", "{\n}", "1945", "0" ]
+, [ 27, "A86E6AD6-66A5-4130-A692-525BFF0138FE", 27, 1395690094, "870164", 1395690094, "870164", "{\n}", "1944", "0" ]
+, [ 28, "6A8433B6-7DAA-42AF-BBC0-2562ED97E949", 28, 1395690094, "870164", 1395690094, "870164", "{\n}", "1943", "0" ]
+, [ 29, "69ADCDCF-BE5D-40A2-BEDF-90E306508CA6", 29, 1395690094, "870164", 1395690094, "870164", "{\n}", "1942", "13091902" ]
+, [ 30, "ADEBD812-3DEA-443C-955D-F561494C1DC8", 30, 1395690094, "870164", 1395690094, "870164", "{\n}", "1941", "18679785" ]
+, [ 31, "97ADCDF9-D5D0-4327-B9CF-720F4DD6BA2F", 31, 1395690094, "870164", 1395690094, "870164", "{\n}", "1940", "19931075" ]
+, [ 32, "53FA82BF-B8E5-4A2B-83BA-43C02A419936", 32, 1395690094, "870164", 1395690094, "870164", "{\n}", "1939", "18327890" ]
+, [ 33, "7FD26CDB-8EE7-47DB-A8A7-295FDBCF0610", 33, 1395690094, "870164", 1395690094, "870164", "{\n}", "1938", "20264264" ]
+, [ 34, "4176602C-EB82-4A34-88C4-A040DE2ECE45", 34, 1395690094, "870164", 1395690094, "870164", "{\n}", "1937", "18610713" ]
+, [ 35, "EB943866-61E6-49A9-9B90-ED24EE33CB0F", 35, 1395690094, "870164", 1395690094, "870164", "{\n}", "1936", "18652170" ]
+, [ 36, "E447AD63-9934-4EF2-BB15-9D4C8AC378C9", 36, 1395690094, "870164", 1395690094, "870164", "{\n}", "1935", "17340026" ]
+, [ 37, "C08A5B10-912A-4F6D-92F2-F443796D8E13", 37, 1395690094, "870164", 1395690094, "870164", "{\n}", "1934", "18348196" ]
+, [ 38, "942BD38F-90F4-4F50-AB49-14659F621361", 38, 1395690094, "870164", 1395690094, "870164", "{\n}", "1933", "17850906" ]
+, [ 39, "7B5D42D5-96A1-4746-B9AF-3C9BAEF151AA", 39, 1395690094, "870164", 1395690094, "870164", "{\n}", "1932", "18994802" ]
+, [ 40, "FDEA8FA9-5E17-4AAA-A6E4-4B34542F0F30", 40, 1395690094, "870164", 1395690094, "870164", "{\n}", "1931", "23355293" ]
+, [ 41, "4521CC74-995D-4237-9430-EE8F1050F50D", 41, 1395690094, "870164", 1395690094, "870164", "{\n}", "1930", "25920159" ]
+, [ 42, "88F15D48-5586-494D-8C48-7863FA8C68D3", 42, 1395690094, "870164", 1395690094, "870164", "{\n}", "1929", "26099245" ]
+, [ 43, "7BC18A02-24A4-45E4-AFAE-5A7903FE6EB1", 43, 1395690094, "870164", 1395690094, "870164", "{\n}", "1928", "25402262" ]
+, [ 44, "5960F17B-FE8F-47D0-99AD-BBAD34E9E08D", 44, 1395690094, "870164", 1395690094, "870164", "{\n}", "1927", "25133963" ]
+, [ 45, "4761B546-1303-46B5-9575-5F9365785E32", 45, 1395690094, "870164", 1395690094, "870164", "{\n}", "1926", "23067365" ]
+, [ 46, "15472CFD-A1B2-4A8B-9DA6-2FC6116AF447", 46, 1395690094, "870164", 1395690094, "870164", "{\n}", "1925", "22268421" ]
+, [ 47, "D058DA83-1B7B-4AA3-A9B9-09A9E17CCF0A", 47, 1395690094, "870164", 1395690094, "870164", "{\n}", "1924", "25550464" ]
+, [ 48, "F0E71834-8CD9-49B8-B04F-2D4212D686DA", 48, 1395690094, "870164", 1395690094, "870164", "{\n}", "1923", "18870102" ]
+, [ 49, "810ED8BF-4712-4892-9838-43D27FA46F0B", 49, 1395690094, "870164", 1395690094, "870164", "{\n}", "1922", "6533589" ]
+, [ 50, "DFC8C522-D55D-4D56-9296-CDDFD4C99F3C", 50, 1395690094, "870164", 1395690094, "870164", "{\n}", "1921", "4296254" ]
+, [ 51, "001EF97D-AE66-49C8-8A2D-A5076B9C3CB4", 51, 1395690094, "870164", 1395690094, "870164", "{\n}", "1920", "3528280" ]
+ ]
+}

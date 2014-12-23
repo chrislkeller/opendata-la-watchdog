@@ -1,0 +1,494 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "jmt8-y5rm",
+      "name" : "Port of Los Angeles - Cruise Passenger",
+      "attribution" : "Port of Los Angeles",
+      "averageRating" : 0,
+      "category" : "A Prosperous City",
+      "createdAt" : 1395690314,
+      "description" : "Port of Los Angeles - Cruise Passenger",
+      "displayType" : "table",
+      "downloadCount" : 7,
+      "indexUpdatedAt" : 1414612917,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 7614661,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1395690351,
+      "publicationGroup" : 1521920,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1395695832,
+      "rowsUpdatedBy" : "2ib6-ssvz",
+      "state" : "normal",
+      "tableId" : 1521920,
+      "totalTimesRated" : 0,
+      "viewCount" : 45,
+      "viewLastModified" : 1400089127,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 139563517,
+        "name" : "Year",
+        "dataTypeName" : "text",
+        "fieldName" : "year",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18809529,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 24,
+          "smallest" : "1990",
+          "null" : 0,
+          "largest" : "2013",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1990"
+          }, {
+            "count" : 19,
+            "item" : "1991"
+          }, {
+            "count" : 18,
+            "item" : "1992"
+          }, {
+            "count" : 17,
+            "item" : "1993"
+          }, {
+            "count" : 16,
+            "item" : "1994"
+          }, {
+            "count" : 15,
+            "item" : "1995"
+          }, {
+            "count" : 14,
+            "item" : "1996"
+          }, {
+            "count" : 13,
+            "item" : "1997"
+          }, {
+            "count" : 12,
+            "item" : "1998"
+          }, {
+            "count" : 11,
+            "item" : "1999"
+          }, {
+            "count" : 10,
+            "item" : "2000"
+          }, {
+            "count" : 9,
+            "item" : "2001"
+          }, {
+            "count" : 8,
+            "item" : "2002"
+          }, {
+            "count" : 7,
+            "item" : "2003"
+          }, {
+            "count" : 6,
+            "item" : "2004"
+          }, {
+            "count" : 5,
+            "item" : "2005"
+          }, {
+            "count" : 4,
+            "item" : "2006"
+          }, {
+            "count" : 3,
+            "item" : "2007"
+          }, {
+            "count" : 2,
+            "item" : "2008"
+          }, {
+            "count" : 1,
+            "item" : "2009"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 139563518,
+        "name" : "Ship Calls",
+        "dataTypeName" : "number",
+        "fieldName" : "ship_calls",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18809530,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 24,
+          "smallest" : "98",
+          "sum" : "6593",
+          "null" : 0,
+          "average" : "274.7083333333333",
+          "largest" : "438",
+          "top" : [ {
+            "count" : 20,
+            "item" : "377"
+          }, {
+            "count" : 19,
+            "item" : "386"
+          }, {
+            "count" : 18,
+            "item" : "438"
+          }, {
+            "count" : 17,
+            "item" : "417"
+          }, {
+            "count" : 16,
+            "item" : "373"
+          }, {
+            "count" : 15,
+            "item" : "287"
+          }, {
+            "count" : 14,
+            "item" : "324"
+          }, {
+            "count" : 13,
+            "item" : "319"
+          }, {
+            "count" : 12,
+            "item" : "295"
+          }, {
+            "count" : 11,
+            "item" : "315"
+          }, {
+            "count" : 10,
+            "item" : "257"
+          }, {
+            "count" : 9,
+            "item" : "233"
+          }, {
+            "count" : 8,
+            "item" : "230"
+          }, {
+            "count" : 7,
+            "item" : "272"
+          }, {
+            "count" : 6,
+            "item" : "265"
+          }, {
+            "count" : 5,
+            "item" : "255"
+          }, {
+            "count" : 4,
+            "item" : "162"
+          }, {
+            "count" : 3,
+            "item" : "147"
+          }, {
+            "count" : 2,
+            "item" : "136"
+          }, {
+            "count" : 1,
+            "item" : "98"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 139563519,
+        "name" : "Passengers",
+        "dataTypeName" : "number",
+        "fieldName" : "passengers",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18809531,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 24,
+          "smallest" : "426073",
+          "sum" : "21319829",
+          "null" : 0,
+          "average" : "888326.2083333333",
+          "largest" : "1218739",
+          "top" : [ {
+            "count" : 20,
+            "item" : "617876"
+          }, {
+            "count" : 19,
+            "item" : "680559"
+          }, {
+            "count" : 18,
+            "item" : "902453"
+          }, {
+            "count" : 17,
+            "item" : "880534"
+          }, {
+            "count" : 16,
+            "item" : "793256"
+          }, {
+            "count" : 15,
+            "item" : "794448"
+          }, {
+            "count" : 14,
+            "item" : "945180"
+          }, {
+            "count" : 13,
+            "item" : "942773"
+          }, {
+            "count" : 12,
+            "item" : "961187"
+          }, {
+            "count" : 11,
+            "item" : "992979"
+          }, {
+            "count" : 10,
+            "item" : "1082584"
+          }, {
+            "count" : 9,
+            "item" : "1164126"
+          }, {
+            "count" : 8,
+            "item" : "1075102"
+          }, {
+            "count" : 7,
+            "item" : "806022"
+          }, {
+            "count" : 6,
+            "item" : "924769"
+          }, {
+            "count" : 5,
+            "item" : "1218739"
+          }, {
+            "count" : 4,
+            "item" : "1184223"
+          }, {
+            "count" : 3,
+            "item" : "1161663"
+          }, {
+            "count" : 2,
+            "item" : "1195897"
+          }, {
+            "count" : 1,
+            "item" : "798886"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 139563520,
+        "name" : "Passengers Per Ship",
+        "dataTypeName" : "number",
+        "fieldName" : "passengers_per_ship",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18809532,
+        "width" : 328,
+        "cachedContents" : {
+          "non_null" : 24,
+          "smallest" : "819",
+          "sum" : "42260",
+          "null" : 0,
+          "average" : "1760.833333333333",
+          "largest" : "2490",
+          "top" : [ {
+            "count" : 20,
+            "item" : "819"
+          }, {
+            "count" : 19,
+            "item" : "882"
+          }, {
+            "count" : 18,
+            "item" : "1030"
+          }, {
+            "count" : 17,
+            "item" : "1056"
+          }, {
+            "count" : 16,
+            "item" : "1063"
+          }, {
+            "count" : 15,
+            "item" : "1384"
+          }, {
+            "count" : 14,
+            "item" : "1459"
+          }, {
+            "count" : 13,
+            "item" : "1455"
+          }, {
+            "count" : 12,
+            "item" : "1507"
+          }, {
+            "count" : 11,
+            "item" : "1683"
+          }, {
+            "count" : 10,
+            "item" : "1718"
+          }, {
+            "count" : 9,
+            "item" : "1825"
+          }, {
+            "count" : 8,
+            "item" : "2092"
+          }, {
+            "count" : 7,
+            "item" : "1730"
+          }, {
+            "count" : 6,
+            "item" : "2010"
+          }, {
+            "count" : 5,
+            "item" : "2240"
+          }, {
+            "count" : 4,
+            "item" : "2234"
+          }, {
+            "count" : 3,
+            "item" : "2278"
+          }, {
+            "count" : 2,
+            "item" : "2256"
+          }, {
+            "count" : 1,
+            "item" : "2466"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Harbor"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "2ib6-ssvz",
+        "displayName" : "Port of Los Angeles",
+        "profileImageUrlLarge" : "/images/profile/9654/0122/POLALogo2_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9654/0122/POLALogo2_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9654/0122/POLALogo2_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Port of Los Angeles",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "2ib6-ssvz",
+        "displayName" : "Port of Los Angeles",
+        "profileImageUrlLarge" : "/images/profile/9654/0122/POLALogo2_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9654/0122/POLALogo2_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9654/0122/POLALogo2_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Port of Los Angeles",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "jobs", "economy", "business", "port", "cruise", "passenger" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 215, "B6B68771-B7CC-4AF6-AEDC-248EE3C0A16E", 215, 1395695829, "870164", 1395695829, "870164", null, "1990", "377", "617876", "819" ]
+, [ 216, "D962E281-5E2C-488A-9FE8-0292979DCF95", 216, 1395695829, "870164", 1395695829, "870164", null, "1991", "386", "680559", "882" ]
+, [ 217, "3B841C5A-7264-4EE1-9B3C-668F2F60FB66", 217, 1395695829, "870164", 1395695829, "870164", null, "1992", "438", "902453", "1030" ]
+, [ 218, "4CB85DB5-0F0A-49CC-B3CE-0F8B1C158425", 218, 1395695829, "870164", 1395695829, "870164", null, "1993", "417", "880534", "1056" ]
+, [ 219, "51C74D76-FDBD-4FC4-BB61-DE061E9932DA", 219, 1395695829, "870164", 1395695829, "870164", null, "1994", "373", "793256", "1063" ]
+, [ 220, "E2F5E979-D8BC-4A34-A078-AF2C72A2F034", 220, 1395695829, "870164", 1395695829, "870164", null, "1995", "287", "794448", "1384" ]
+, [ 221, "83B6876E-EF1F-4C13-89DD-D4DCF7DB7BFF", 221, 1395695829, "870164", 1395695829, "870164", null, "1996", "324", "945180", "1459" ]
+, [ 222, "92F6BA9A-218A-423D-8648-6D9ACC0334A7", 222, 1395695829, "870164", 1395695829, "870164", null, "1997", "324", "942773", "1455" ]
+, [ 223, "92E534E9-AE39-4445-9BFF-FD8D27A03499", 223, 1395695829, "870164", 1395695829, "870164", null, "1998", "319", "961187", "1507" ]
+, [ 224, "62FC0F35-A978-45B0-BF80-72E9A6B596A7", 224, 1395695829, "870164", 1395695829, "870164", null, "1999", "295", "992979", "1683" ]
+, [ 225, "EA8B9F65-B8C4-4052-B248-04CDF625A7F0", 225, 1395695829, "870164", 1395695829, "870164", null, "2000", "315", "1082584", "1718" ]
+, [ 226, "AFF217CF-43CE-453F-9FDE-2069AB6E8E71", 226, 1395695829, "870164", 1395695829, "870164", null, "2001", "319", "1164126", "1825" ]
+, [ 227, "32ECB5DD-66CC-4B58-8F09-47F993967EEB", 227, 1395695829, "870164", 1395695829, "870164", null, "2002", "257", "1075102", "2092" ]
+, [ 228, "43E1C850-7498-4CA9-9171-97C4E6F294DF", 228, 1395695829, "870164", 1395695829, "870164", null, "2003", "233", "806022", "1730" ]
+, [ 229, "19140E73-9D22-4054-9F44-02CA830F7295", 229, 1395695829, "870164", 1395695829, "870164", null, "2004", "230", "924769", "2010" ]
+, [ 230, "FC8887BD-9A08-4C88-8CF5-9802F7833291", 230, 1395695829, "870164", 1395695829, "870164", null, "2005", "272", "1218739", "2240" ]
+, [ 231, "093B4EEC-5D5A-4916-8338-397AAF525B83", 231, 1395695829, "870164", 1395695829, "870164", null, "2006", "265", "1184223", "2234" ]
+, [ 232, "6AEA78EE-4ABC-4289-8579-D8D4EAED7A68", 232, 1395695829, "870164", 1395695829, "870164", null, "2007", "255", "1161663", "2278" ]
+, [ 233, "DF5D4E83-BCCE-47E3-8480-A7E6F20EFEF8", 233, 1395695829, "870164", 1395695829, "870164", null, "2008", "265", "1195897", "2256" ]
+, [ 234, "B604DB61-EBE2-4118-9BFC-4431552D8420", 234, 1395695829, "870164", 1395695829, "870164", null, "2009", "162", "798886", "2466" ]
+, [ 235, "0C7E8C38-81B7-4BA7-BD2E-B5E1181600E7", 235, 1395695829, "870164", 1395695829, "870164", null, "2010", "147", "731925", "2490" ]
+, [ 236, "40FEE832-249C-4A0C-AD8D-4BAA2FBE0E17", 236, 1395695829, "870164", 1395695829, "870164", null, "2011", "136", "608386", "2237" ]
+, [ 237, "5CEE5475-47B6-4488-A7EF-D2362C8B0C3A", 237, 1395695829, "870164", 1395695829, "870164", null, "2012", "98", "426073", "2174" ]
+, [ 238, "840BA309-6DF6-4323-86DE-18D8A5264CF7", 238, 1395695829, "870164", 1395695829, "870164", null, "2013", "99", "430189", "2172" ]
+ ]
+}

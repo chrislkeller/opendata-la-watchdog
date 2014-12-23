@@ -1,0 +1,1726 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "bjf9-aept",
+      "name" : "Personnel - Performance Metrics",
+      "attribution" : "Personnel",
+      "averageRating" : 0,
+      "category" : "A Well Run City",
+      "createdAt" : 1407182338,
+      "description" : "This dataset contains metrics that measure the operational performance of the Personnel Department. These metrics are used on a regular basis by the department and the Mayor to evaluate progress and inform decision making. Performance management forms the foundation of a data-driven culture of innovation and excellence in the City of Los Angeles.",
+      "displayType" : "table",
+      "downloadCount" : 3,
+      "indexUpdatedAt" : 1416518956,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 9433184,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1416518924,
+      "publicationGroup" : 1672081,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1416518878,
+      "rowsUpdatedBy" : "tyhz-nfmm",
+      "tableId" : 1900146,
+      "totalTimesRated" : 0,
+      "viewCount" : 139,
+      "viewLastModified" : 1416518924,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 176517391,
+        "name" : "Date Value",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date_value",
+        "position" : 1,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 21198380,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 39,
+          "smallest" : "2010-06-30T00:00:00",
+          "null" : 0,
+          "largest" : "2015-06-30T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2010-06-30T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2011-06-30T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2012-06-30T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2012-07-31T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2012-08-31T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2012-09-30T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2012-10-31T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2012-11-30T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2012-12-31T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2013-01-31T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2013-02-28T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2013-03-31T00:00:00"
+          }, {
+            "count" : 8,
+            "item" : "2013-04-30T00:00:00"
+          }, {
+            "count" : 7,
+            "item" : "2013-05-31T00:00:00"
+          }, {
+            "count" : 6,
+            "item" : "2013-06-30T00:00:00"
+          }, {
+            "count" : 5,
+            "item" : "2013-07-31T00:00:00"
+          }, {
+            "count" : 4,
+            "item" : "2013-08-31T00:00:00"
+          }, {
+            "count" : 3,
+            "item" : "2013-09-30T00:00:00"
+          }, {
+            "count" : 2,
+            "item" : "2013-10-31T00:00:00"
+          }, {
+            "count" : 1,
+            "item" : "2013-11-30T00:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176517392,
+        "name" : "Month-Year",
+        "dataTypeName" : "text",
+        "fieldName" : "month_year",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21198381,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 39,
+          "smallest" : "Apr-13",
+          "null" : 0,
+          "largest" : "Sep-14",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Jun-10"
+          }, {
+            "count" : 19,
+            "item" : "Jun-11"
+          }, {
+            "count" : 18,
+            "item" : "Jun-12"
+          }, {
+            "count" : 17,
+            "item" : "Jul-12"
+          }, {
+            "count" : 16,
+            "item" : "Aug-12"
+          }, {
+            "count" : 15,
+            "item" : "Sep-12"
+          }, {
+            "count" : 14,
+            "item" : "Oct-12"
+          }, {
+            "count" : 13,
+            "item" : "Nov-12"
+          }, {
+            "count" : 12,
+            "item" : "Dec-12"
+          }, {
+            "count" : 11,
+            "item" : "Jan-13"
+          }, {
+            "count" : 10,
+            "item" : "Feb-13"
+          }, {
+            "count" : 9,
+            "item" : "Mar-13"
+          }, {
+            "count" : 8,
+            "item" : "Apr-13"
+          }, {
+            "count" : 7,
+            "item" : "May-13"
+          }, {
+            "count" : 6,
+            "item" : "Jun-13"
+          }, {
+            "count" : 5,
+            "item" : "Jul-13"
+          }, {
+            "count" : 4,
+            "item" : "Aug-13"
+          }, {
+            "count" : 3,
+            "item" : "Sep-13"
+          }, {
+            "count" : 2,
+            "item" : "Oct-13"
+          }, {
+            "count" : 1,
+            "item" : "Nov-13"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176517393,
+        "name" : "Quarter-FY",
+        "dataTypeName" : "text",
+        "fieldName" : "quarter_fy",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21198382,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 15,
+          "smallest" : "Q1 FY13",
+          "null" : 24,
+          "largest" : "Q4 FY15",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Q4 FY10"
+          }, {
+            "count" : 19,
+            "item" : "Q4 FY11"
+          }, {
+            "count" : 18,
+            "item" : "Q4 FY12"
+          }, {
+            "count" : 17,
+            "item" : "Q1 FY13"
+          }, {
+            "count" : 16,
+            "item" : "Q2 FY13"
+          }, {
+            "count" : 15,
+            "item" : "Q3 FY13"
+          }, {
+            "count" : 14,
+            "item" : "Q4 FY13"
+          }, {
+            "count" : 13,
+            "item" : "Q1 FY14"
+          }, {
+            "count" : 12,
+            "item" : "Q2 FY14"
+          }, {
+            "count" : 11,
+            "item" : "Q3 FY14"
+          }, {
+            "count" : 10,
+            "item" : "Q4 FY14"
+          }, {
+            "count" : 9,
+            "item" : "Q1 FY15"
+          }, {
+            "count" : 8,
+            "item" : "Q2 FY15"
+          }, {
+            "count" : 7,
+            "item" : "Q3 FY15"
+          }, {
+            "count" : 6,
+            "item" : "Q4 FY15"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176517394,
+        "name" : "Annual-FY",
+        "dataTypeName" : "text",
+        "fieldName" : "annual_fy",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21198383,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "FY 2010",
+          "null" : 33,
+          "largest" : "FY 2015",
+          "top" : [ {
+            "count" : 20,
+            "item" : "FY 2010"
+          }, {
+            "count" : 19,
+            "item" : "FY 2011"
+          }, {
+            "count" : 18,
+            "item" : "FY 2012"
+          }, {
+            "count" : 17,
+            "item" : "FY 2013"
+          }, {
+            "count" : 16,
+            "item" : "FY 2014"
+          }, {
+            "count" : 15,
+            "item" : "FY 2015"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176517395,
+        "name" : "Time (minutes) to medically clear arrestees in City Jails (Annual FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "time_minutes_to_medically_clear_arrestees_in_city_jails_annual_fy",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21198384,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "9.50",
+          "sum" : "38.10",
+          "null" : 35,
+          "average" : "9.525",
+          "largest" : "9.60",
+          "top" : [ {
+            "count" : 20,
+            "item" : "9.60"
+          }, {
+            "count" : 19,
+            "item" : "9.50"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176517396,
+        "name" : "PROJECTED: Time (minutes) to medically clear arrestees in City Jails (Annual FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "projected_time_minutes_to_medically_clear_arrestees_in_city_jails_annual_fy",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21198385,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "10.00",
+          "sum" : "10.00",
+          "null" : 38,
+          "average" : "10.00",
+          "largest" : "10.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "10.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176517397,
+        "name" : "Average cost to the city for employee health benefits - Civilians (Annual FY)",
+        "dataTypeName" : "money",
+        "fieldName" : "average_cost_to_the_city_for_employee_health_benefits_civilians_annual_fy",
+        "position" : 7,
+        "renderTypeName" : "money",
+        "tableColumnId" : 21198386,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "8289.00",
+          "sum" : "47401.27",
+          "null" : 34,
+          "average" : "9480.254",
+          "largest" : "10740.27",
+          "top" : [ {
+            "count" : 20,
+            "item" : "8289.00"
+          }, {
+            "count" : 19,
+            "item" : "9084.00"
+          }, {
+            "count" : 18,
+            "item" : "9359.00"
+          }, {
+            "count" : 17,
+            "item" : "9929.00"
+          }, {
+            "count" : 16,
+            "item" : "10740.27"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176517398,
+        "name" : "PROJECTED: Average cost to the city for employee health benefits - Civilians (Annual FY)",
+        "dataTypeName" : "money",
+        "fieldName" : "projected_average_cost_to_the_city_for_employee_health_benefits_civilians_annual_fy",
+        "position" : 8,
+        "renderTypeName" : "money",
+        "tableColumnId" : 21198387,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "10747.00",
+          "sum" : "22289.00",
+          "null" : 37,
+          "average" : "11144.50",
+          "largest" : "11542.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "10747.00"
+          }, {
+            "count" : 19,
+            "item" : "11542.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176517399,
+        "name" : "Average cost to the city for employee health benefits - Police (Annual FY)",
+        "dataTypeName" : "money",
+        "fieldName" : "average_cost_to_the_city_for_employee_health_benefits_police_annual_fy",
+        "position" : 9,
+        "renderTypeName" : "money",
+        "tableColumnId" : 21198388,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "9610.00",
+          "sum" : "54074.97",
+          "null" : 34,
+          "average" : "10814.994",
+          "largest" : "11639.97",
+          "top" : [ {
+            "count" : 20,
+            "item" : "9610.00"
+          }, {
+            "count" : 19,
+            "item" : "10535.00"
+          }, {
+            "count" : 18,
+            "item" : "10920.00"
+          }, {
+            "count" : 17,
+            "item" : "11370.00"
+          }, {
+            "count" : 16,
+            "item" : "11639.97"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176517400,
+        "name" : "PROJECTED: Average cost to the city for employee health benefits - Police (Annual FY)",
+        "dataTypeName" : "money",
+        "fieldName" : "projected_average_cost_to_the_city_for_employee_health_benefits_police_annual_fy",
+        "position" : 10,
+        "renderTypeName" : "money",
+        "tableColumnId" : 21198389,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "11640.00",
+          "sum" : "24180.00",
+          "null" : 37,
+          "average" : "12090.00",
+          "largest" : "12540.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "11640.00"
+          }, {
+            "count" : 19,
+            "item" : "12540.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176517401,
+        "name" : "Average cost to the city for employee health benefits - Fire (Annual FY)",
+        "dataTypeName" : "money",
+        "fieldName" : "average_cost_to_the_city_for_employee_health_benefits_fire_annual_fy",
+        "position" : 11,
+        "renderTypeName" : "money",
+        "tableColumnId" : 21198390,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "10525.00",
+          "sum" : "58731.53",
+          "null" : 34,
+          "average" : "11746.306",
+          "largest" : "12995.53",
+          "top" : [ {
+            "count" : 20,
+            "item" : "10525.00"
+          }, {
+            "count" : 19,
+            "item" : "11347.00"
+          }, {
+            "count" : 18,
+            "item" : "11618.00"
+          }, {
+            "count" : 17,
+            "item" : "12246.00"
+          }, {
+            "count" : 16,
+            "item" : "12995.53"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176517402,
+        "name" : "PROJECTED: Average cost to the city for employee health benefits - Fire (Annual FY)",
+        "dataTypeName" : "money",
+        "fieldName" : "projected_average_cost_to_the_city_for_employee_health_benefits_fire_annual_fy",
+        "position" : 12,
+        "renderTypeName" : "money",
+        "tableColumnId" : 21198391,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "13022.00",
+          "sum" : "26824.00",
+          "null" : 37,
+          "average" : "13412.00",
+          "largest" : "13802.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "13022.00"
+          }, {
+            "count" : 19,
+            "item" : "13802.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176517411,
+        "name" : "# of City Employee Vanpool Seats Filled (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "of_city_employee_vanpool_seats_filled_monthly",
+        "position" : 13,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21198392,
+        "width" : 688,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "735.00",
+          "sum" : "1481.00",
+          "null" : 37,
+          "average" : "740.50",
+          "largest" : "746.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "746.00"
+          }, {
+            "count" : 19,
+            "item" : "735.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176517418,
+        "name" : "TARGET: # of City Employee Vanpool Seats Filled (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "target_of_city_employee_vanpool_seats_filled_monthly",
+        "position" : 14,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21198393,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "746.00",
+          "sum" : "1521.00",
+          "null" : 37,
+          "average" : "760.50",
+          "largest" : "775.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "775.00"
+          }, {
+            "count" : 19,
+            "item" : "746.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176517419,
+        "name" : "% City Employee Vanpool Occupancy (Monthly)",
+        "dataTypeName" : "percent",
+        "fieldName" : "city_employee_vanpool_occupancy_monthly",
+        "position" : 15,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21198394,
+        "width" : 616,
+        "cachedContents" : {
+          "non_null" : 0,
+          "sum" : "0",
+          "null" : 39
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176517420,
+        "name" : "TARGET: % City Employee Vanpool Occupancy Monthly)",
+        "dataTypeName" : "percent",
+        "fieldName" : "target_city_employee_vanpool_occupancy_monthly",
+        "position" : 16,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21198395,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 0,
+          "sum" : "0",
+          "null" : 39
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176517421,
+        "name" : "% City Employee Vanpool Occupancy (Annual FY)",
+        "dataTypeName" : "percent",
+        "fieldName" : "city_employee_vanpool_occupancy_annual_fy",
+        "position" : 17,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21198396,
+        "width" : 640,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "89.00",
+          "sum" : "89.00",
+          "null" : 38,
+          "average" : "89.00",
+          "largest" : "89.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "89.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176517422,
+        "name" : "TARGET: % City Employee Vanpool Occupancy (Annual FY)",
+        "dataTypeName" : "percent",
+        "fieldName" : "target_city_employee_vanpool_occupancy_annual_fy",
+        "position" : 18,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21198397,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "90.00",
+          "sum" : "90.00",
+          "null" : 38,
+          "average" : "90.00",
+          "largest" : "90.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "90.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176517423,
+        "name" : "% of exams completed in 150 days (Monthly)",
+        "dataTypeName" : "percent",
+        "fieldName" : "of_exams_completed_in_150_days_annual_fy",
+        "position" : 19,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21198398,
+        "width" : 628,
+        "cachedContents" : {
+          "non_null" : 15,
+          "smallest" : "57.00",
+          "sum" : "1248.00",
+          "null" : 24,
+          "average" : "83.20",
+          "largest" : "100.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "100.00"
+          }, {
+            "count" : 19,
+            "item" : "92.00"
+          }, {
+            "count" : 18,
+            "item" : "86.00"
+          }, {
+            "count" : 17,
+            "item" : "76.00"
+          }, {
+            "count" : 16,
+            "item" : "93.00"
+          }, {
+            "count" : 15,
+            "item" : "88.00"
+          }, {
+            "count" : 14,
+            "item" : "83.00"
+          }, {
+            "count" : 13,
+            "item" : "85.00"
+          }, {
+            "count" : 12,
+            "item" : "87.00"
+          }, {
+            "count" : 11,
+            "item" : "79.00"
+          }, {
+            "count" : 10,
+            "item" : "60.00"
+          }, {
+            "count" : 9,
+            "item" : "57.00"
+          } ]
+        },
+        "format" : {
+          "view" : "percent_bar_and_text",
+          "align" : "right",
+          "noCommas" : "false"
+        }
+      }, {
+        "id" : 176517424,
+        "name" : "PROJECTED: % of exams completed in 150 days (Monthly)",
+        "dataTypeName" : "percent",
+        "fieldName" : "projected_of_exams_completed_in_150_days_annual_fy",
+        "position" : 20,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21198399,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "85.00",
+          "sum" : "175.00",
+          "null" : 37,
+          "average" : "87.50",
+          "largest" : "90.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "85.00"
+          }, {
+            "count" : 19,
+            "item" : "90.00"
+          } ]
+        },
+        "format" : {
+          "view" : "percent_bar_and_text",
+          "align" : "right",
+          "noCommas" : "false"
+        }
+      }, {
+        "id" : 176517425,
+        "name" : "% satisfaction rating for Eligible List Survey (Annual YTD)",
+        "dataTypeName" : "percent",
+        "fieldName" : "satisfaction_rating_for_eligible_list_survey_annual_ytd",
+        "position" : 21,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21198400,
+        "width" : 699,
+        "cachedContents" : {
+          "non_null" : 12,
+          "smallest" : "68.00",
+          "sum" : "963.00",
+          "null" : 27,
+          "average" : "80.25",
+          "largest" : "92.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "86.00"
+          }, {
+            "count" : 19,
+            "item" : "68.00"
+          }, {
+            "count" : 18,
+            "item" : "84.00"
+          }, {
+            "count" : 17,
+            "item" : "92.00"
+          }, {
+            "count" : 16,
+            "item" : "80.00"
+          }, {
+            "count" : 15,
+            "item" : "78.00"
+          }, {
+            "count" : 14,
+            "item" : "82.00"
+          }, {
+            "count" : 13,
+            "item" : "72.00"
+          }, {
+            "count" : 12,
+            "item" : "77.00"
+          }, {
+            "count" : 11,
+            "item" : "74.00"
+          } ]
+        },
+        "format" : {
+          "view" : "percent_bar_and_text",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      }, {
+        "id" : 176517426,
+        "name" : "TARGET: % satisfaction rating for Eligible List Survey (Annual YTD)",
+        "dataTypeName" : "percent",
+        "fieldName" : "target_satisfaction_rating_for_eligible_list_survey_annual_ytd",
+        "position" : 22,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21198401,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 0,
+          "sum" : "0",
+          "null" : 39
+        },
+        "format" : {
+          "view" : "percent_bar_and_text",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      }, {
+        "id" : 176517427,
+        "name" : "# of non mandated courses completed in the online training academy (Annual FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "of_non_mandated_courses_completed_in_the_online_training_academy_annual_fy",
+        "position" : 23,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21198402,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "958.00",
+          "sum" : "5077.00",
+          "null" : 37,
+          "average" : "2538.50",
+          "largest" : "4119.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "958.00"
+          }, {
+            "count" : 19,
+            "item" : "4119.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176517442,
+        "name" : "PROJECTED: # of non mandated courses completed in the online training academy (Annual FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "projected_of_non_mandated_courses_completed_in_the_online_training_academy_annual_fy",
+        "position" : 24,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21198403,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "4250.00",
+          "sum" : "8925.00",
+          "null" : 37,
+          "average" : "4462.50",
+          "largest" : "4675.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "4250.00"
+          }, {
+            "count" : 19,
+            "item" : "4675.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176517443,
+        "name" : "% of complainants contacted within 10 days of receipt of a complaint (Monthly)",
+        "dataTypeName" : "percent",
+        "fieldName" : "of_complaints_contacted_within_10_days_of_reciept_of_a_complaint_annual_fy",
+        "position" : 25,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21198404,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 28,
+          "smallest" : "0.00",
+          "sum" : "1404.73",
+          "null" : 11,
+          "average" : "50.16892857142857",
+          "largest" : "100.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "33.85"
+          }, {
+            "count" : 19,
+            "item" : "0.00"
+          }, {
+            "count" : 18,
+            "item" : "11.11"
+          }, {
+            "count" : 17,
+            "item" : "60.00"
+          }, {
+            "count" : 16,
+            "item" : "42.86"
+          }, {
+            "count" : 15,
+            "item" : "25.00"
+          }, {
+            "count" : 14,
+            "item" : "40.00"
+          }, {
+            "count" : 13,
+            "item" : "16.67"
+          }, {
+            "count" : 12,
+            "item" : "50.00"
+          }, {
+            "count" : 11,
+            "item" : "11.76"
+          }, {
+            "count" : 10,
+            "item" : "57.14"
+          }, {
+            "count" : 9,
+            "item" : "90.00"
+          }, {
+            "count" : 8,
+            "item" : "78.57"
+          }, {
+            "count" : 7,
+            "item" : "66.67"
+          }, {
+            "count" : 6,
+            "item" : "76.92"
+          }, {
+            "count" : 5,
+            "item" : "55.00"
+          }, {
+            "count" : 4,
+            "item" : "75.00"
+          }, {
+            "count" : 3,
+            "item" : "100.00"
+          }, {
+            "count" : 2,
+            "item" : "80.00"
+          }, {
+            "count" : 1,
+            "item" : "97.00"
+          } ]
+        },
+        "format" : {
+          "view" : "percent_bar_and_text",
+          "align" : "right",
+          "noCommas" : "false"
+        }
+      }, {
+        "id" : 176517444,
+        "name" : "PROJECTED: % of complainants contacted within 10 days of receipt of a complaint (Monthly)",
+        "dataTypeName" : "percent",
+        "fieldName" : "projected_of_complaints_contacted_within_10_days_of_reciept_of_a_complaint_annual_fy",
+        "position" : 26,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21198405,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 24,
+          "smallest" : "80.00",
+          "sum" : "1920.00",
+          "null" : 15,
+          "average" : "80.00",
+          "largest" : "80.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "80.00"
+          } ]
+        },
+        "format" : {
+          "view" : "percent_bar_and_text",
+          "align" : "right",
+          "noCommas" : "false"
+        }
+      }, {
+        "id" : 176517445,
+        "name" : "% of discipline cases completed within 120 days (Annual FY)",
+        "dataTypeName" : "percent",
+        "fieldName" : "of_discipline_cases_completed_within_120_days_annual_fy",
+        "position" : 27,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21198406,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 0,
+          "sum" : "0",
+          "null" : 39
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176517446,
+        "name" : "PROJECTED: % of discipline cases completed within 120 days (Annual FY)",
+        "dataTypeName" : "percent",
+        "fieldName" : "projected_of_discipline_cases_completed_within_120_days_annual_fy",
+        "position" : 28,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21198407,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 0,
+          "sum" : "0",
+          "null" : 39
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176517447,
+        "name" : "Wait time (hours) at clinic for exam (monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "wait_time_hours_at_clinic_for_exam_annual_fy",
+        "position" : 29,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21198408,
+        "width" : 676,
+        "cachedContents" : {
+          "non_null" : 18,
+          "smallest" : "1.10",
+          "sum" : "19.80",
+          "null" : 21,
+          "average" : "1.10",
+          "largest" : "1.10",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1.10"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "false"
+        }
+      }, {
+        "id" : 176517448,
+        "name" : "PROJECTED: Wait time (hours) at clinic for exam (monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "projected_wait_time_hours_at_clinic_for_exam_annual_fy",
+        "position" : 30,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21198409,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "1.20",
+          "sum" : "2.50",
+          "null" : 37,
+          "average" : "1.25",
+          "largest" : "1.30",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1.30"
+          }, {
+            "count" : 19,
+            "item" : "1.20"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "false"
+        }
+      }, {
+        "id" : 176517449,
+        "name" : "# of LAPD officers hired pursuant to LAPD hiring plan (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "of_lapd_officers_hired_pursuant_to_lapd_hiring_plan_monthly",
+        "position" : 31,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21198410,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "0.00",
+          "sum" : "412.00",
+          "null" : 23,
+          "average" : "25.75",
+          "largest" : "40.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0.00"
+          }, {
+            "count" : 19,
+            "item" : "28.00"
+          }, {
+            "count" : 18,
+            "item" : "29.00"
+          }, {
+            "count" : 17,
+            "item" : "31.00"
+          }, {
+            "count" : 16,
+            "item" : "38.00"
+          }, {
+            "count" : 15,
+            "item" : "32.00"
+          }, {
+            "count" : 14,
+            "item" : "33.00"
+          }, {
+            "count" : 13,
+            "item" : "40.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176517450,
+        "name" : "TARGET: # of LAPD officers hired pursuant to LAPD hiring plan (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "target_of_lapd_officers_hired_pursuant_to_lapd_hiring_plan_monthly",
+        "position" : 32,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21198411,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 18,
+          "smallest" : "0.00",
+          "sum" : "627.00",
+          "null" : 21,
+          "average" : "34.83333333333333",
+          "largest" : "50.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0.00"
+          }, {
+            "count" : 19,
+            "item" : "28.00"
+          }, {
+            "count" : 18,
+            "item" : "50.00"
+          }, {
+            "count" : 17,
+            "item" : "29.00"
+          }, {
+            "count" : 16,
+            "item" : "25.00"
+          }, {
+            "count" : 15,
+            "item" : "40.00"
+          }, {
+            "count" : 14,
+            "item" : "46.00"
+          }, {
+            "count" : 13,
+            "item" : "24.00"
+          }, {
+            "count" : 12,
+            "item" : "35.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176517451,
+        "name" : "# of police officers hired pursuant to LAPD hiring plan (Annual FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "of_police_officers_hired_pursuant_to_lapd_hiring_plan_annual_fy",
+        "position" : 33,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21198412,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "215.00",
+          "sum" : "1211.00",
+          "null" : 35,
+          "average" : "302.75",
+          "largest" : "413.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "215.00"
+          }, {
+            "count" : 19,
+            "item" : "413.00"
+          }, {
+            "count" : 18,
+            "item" : "303.00"
+          }, {
+            "count" : 17,
+            "item" : "280.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176517452,
+        "name" : "PROJECTED: # of police officers hired pursuant to LAPD hiring plan (Annual FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "projected_of_police_officers_hired_pursuant_to_lapd_hiring_plan_annual_fy",
+        "position" : 34,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21198413,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "265.00",
+          "sum" : "719.00",
+          "null" : 37,
+          "average" : "359.50",
+          "largest" : "454.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "265.00"
+          }, {
+            "count" : 19,
+            "item" : "454.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176517453,
+        "name" : "# of LAFD firefighters hired pursuant to LAFD hiring plan (Annual FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "of_lafd_firefighters_hired_pursuant_to_lafd_hiring_plan_annual_fy",
+        "position" : 35,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21198414,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "69.00",
+          "sum" : "138.00",
+          "null" : 37,
+          "average" : "69.00",
+          "largest" : "69.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "69.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176517454,
+        "name" : "PROJECTED: # of LAFD firefighters hired pursuant to LAFD hiring plan (Annual FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "projected_of_lafd_firefighters_hired_pursuant_to_lafd_hiring_plan_annual_fy",
+        "position" : 36,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21198415,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "45.00",
+          "sum" : "235.00",
+          "null" : 35,
+          "average" : "58.75",
+          "largest" : "70.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "70.00"
+          }, {
+            "count" : 19,
+            "item" : "60.00"
+          }, {
+            "count" : 18,
+            "item" : "45.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176517455,
+        "name" : "Cost Avoidance (Monthly)",
+        "dataTypeName" : "money",
+        "fieldName" : "cost_avoidance_monthly",
+        "position" : 37,
+        "renderTypeName" : "money",
+        "tableColumnId" : 21198416,
+        "width" : 388,
+        "cachedContents" : {
+          "non_null" : 15,
+          "smallest" : "1194593.98",
+          "sum" : "20484780.42",
+          "null" : 24,
+          "average" : "1365652.028",
+          "largest" : "1602042.37",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1419848.20"
+          }, {
+            "count" : 19,
+            "item" : "1602042.37"
+          }, {
+            "count" : 18,
+            "item" : "1335844.63"
+          }, {
+            "count" : 17,
+            "item" : "1473533.90"
+          }, {
+            "count" : 16,
+            "item" : "1447091.39"
+          }, {
+            "count" : 15,
+            "item" : "1424835.13"
+          }, {
+            "count" : 14,
+            "item" : "1431999.82"
+          }, {
+            "count" : 13,
+            "item" : "1200087.00"
+          }, {
+            "count" : 12,
+            "item" : "1307339.00"
+          }, {
+            "count" : 11,
+            "item" : "1331076.00"
+          }, {
+            "count" : 10,
+            "item" : "1422163.00"
+          }, {
+            "count" : 9,
+            "item" : "1294881.00"
+          }, {
+            "count" : 8,
+            "item" : "1194593.98"
+          }, {
+            "count" : 7,
+            "item" : "1371292.00"
+          }, {
+            "count" : 6,
+            "item" : "1228153.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176517456,
+        "name" : "TARGET: Cost Avoidance (Monthly)",
+        "dataTypeName" : "money",
+        "fieldName" : "target_cost_avoidance_monthly",
+        "position" : 38,
+        "renderTypeName" : "money",
+        "tableColumnId" : 21198417,
+        "width" : 484,
+        "cachedContents" : {
+          "non_null" : 24,
+          "smallest" : "833333.33",
+          "sum" : "24399999.96",
+          "null" : 15,
+          "average" : "1016666.665",
+          "largest" : "1200000.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "833333.33"
+          }, {
+            "count" : 19,
+            "item" : "1200000.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176517457,
+        "name" : "Measurable savings below State Fee Schedules (Annual FY)",
+        "dataTypeName" : "money",
+        "fieldName" : "measurable_savings_below_state_fee_schedules_annual_fy",
+        "position" : 39,
+        "renderTypeName" : "money",
+        "tableColumnId" : 21198418,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "1194593.98",
+          "sum" : "17885335.42",
+          "null" : 37,
+          "average" : "8942667.71",
+          "largest" : "16690741.44",
+          "top" : [ {
+            "count" : 20,
+            "item" : "16690741.44"
+          }, {
+            "count" : 19,
+            "item" : "1194593.98"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176517458,
+        "name" : "TARGET: Measurable savings below State Fee Schedules (Annual FY)",
+        "dataTypeName" : "money",
+        "fieldName" : "target_measurable_savings_below_state_fee_schedules_annual_fy",
+        "position" : 40,
+        "renderTypeName" : "money",
+        "tableColumnId" : 21198419,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "10000000.00",
+          "sum" : "24400000.00",
+          "null" : 37,
+          "average" : "12200000.00",
+          "largest" : "14400000.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "10000000.00"
+          }, {
+            "count" : 19,
+            "item" : "14400000.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176517459,
+        "name" : "Online Benefits Portal (Project)",
+        "dataTypeName" : "text",
+        "fieldName" : "online_benefits_portal_project",
+        "position" : 41,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21198420,
+        "width" : 484,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "Complete IT revisions; Final testing; Launch website",
+          "null" : 33,
+          "largest" : "Project Completed",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Conduct needs assessment and best practices review"
+          }, {
+            "count" : 19,
+            "item" : "Identify funding; install and test software"
+          }, {
+            "count" : 18,
+            "item" : "Draft portal design; create main layout page and components"
+          }, {
+            "count" : 17,
+            "item" : "Conduct employee focus groups"
+          }, {
+            "count" : 16,
+            "item" : "Complete IT revisions; Final testing; Launch website"
+          }, {
+            "count" : 15,
+            "item" : "Project Completed"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176517460,
+        "name" : "TARGET: Online Benefits Portal",
+        "dataTypeName" : "text",
+        "fieldName" : "target_online_benefits_portal",
+        "position" : 42,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21198421,
+        "width" : 460,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "Complete IT revisions",
+          "null" : 33,
+          "largest" : "Identify funding; install and test software",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Conduct needs assessment and best practices review"
+          }, {
+            "count" : 19,
+            "item" : "Identify funding; install and test software"
+          }, {
+            "count" : 18,
+            "item" : "Draft portal design; create main layout page and components"
+          }, {
+            "count" : 17,
+            "item" : "Conduct employee focus groups"
+          }, {
+            "count" : 16,
+            "item" : "Complete IT revisions"
+          }, {
+            "count" : 15,
+            "item" : "Final testing; launch website"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176517461,
+        "name" : "STATUS: Online Benefits Portal",
+        "dataTypeName" : "text",
+        "fieldName" : "status_online_benefits_portal",
+        "position" : 43,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21198422,
+        "width" : 460,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : "Off Target",
+          "null" : 32,
+          "largest" : "On Target",
+          "top" : [ {
+            "count" : 20,
+            "item" : "On Target"
+          }, {
+            "count" : 19,
+            "item" : "Off Target"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Board of Public Works" : "",
+            "LAPD" : "",
+            "City Administrative Officer" : "",
+            "Personnel " : "",
+            "Bureau of Engineering" : "",
+            "City Attorney" : "",
+            "Employee Relations Board" : "",
+            "Transportation" : "",
+            "Housing and Community Investment" : "",
+            "Library" : "",
+            "Recreation and Parks " : "",
+            "Neighborhood Empowerment" : "",
+            "Controller's Office" : "",
+            "El Pueblo" : "",
+            "Other" : "",
+            "Bureau of Sanitation" : "",
+            "LACERS" : "",
+            "Disability, Department on" : "",
+            "Cultural Affairs" : "",
+            "Information Technology" : "",
+            "Fire and Police Pensions" : "",
+            "General Services" : "",
+            "Emergency Management" : "",
+            "Council District 12" : "",
+            "Council District 13" : "",
+            "Council District 14" : "",
+            "Project Restore" : "",
+            "Council District 15" : "",
+            "Council District 10" : "",
+            "Council District 11" : "",
+            "Aging" : "",
+            "Bureau of Street Lighting" : "",
+            "City Clerk" : "",
+            "Bureau of Contract Administration" : "",
+            "Planning" : "",
+            "Harbor " : "",
+            "LAWA" : "",
+            "Public Accountability, The Office of" : "",
+            "Office of Finance" : "",
+            "Council District 03" : "",
+            "Council District 04" : "",
+            "Council District 01" : "",
+            "Council District 02" : "",
+            "Bureau of Street Services" : "",
+            "Zoo" : "",
+            "Council District 09" : "",
+            "Council District 07" : "",
+            "Council District 08" : "",
+            "Council District 05" : "",
+            "Council District 06" : "",
+            "LAFD" : "",
+            "Economic and Workforce Development" : "",
+            "Ethics Commission" : "",
+            "Animal Services" : "",
+            "Mayor's Office" : "",
+            "Housing Authority" : "",
+            "Building and Safety" : "",
+            "LADWP" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "jsonQuery" : {
+          "order" : [ {
+            "ascending" : true,
+            "columnFieldName" : "date_value"
+          } ]
+        }
+      },
+      "owner" : {
+        "id" : "tgn6-4379",
+        "displayName" : "Mayor's Office OpenData",
+        "profileImageUrlLarge" : "/images/profile/5324/8362/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5324/8362/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5324/8362/_City_Seal_tiny.jpg",
+        "roleName" : "administrator",
+        "screenName" : "Mayor's Office OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+        "orderBys" : [ {
+          "ascending" : true,
+          "expression" : {
+            "columnId" : 176517391,
+            "type" : "column"
+          }
+        } ]
+      },
+      "rights" : [ "read" ],
+      "sortBys" : [ {
+        "id" : 0,
+        "viewColumnId" : 176517391,
+        "flags" : [ "asc" ]
+      } ],
+      "tableAuthor" : {
+        "id" : "tgn6-4379",
+        "displayName" : "Mayor's Office OpenData",
+        "profileImageUrlLarge" : "/images/profile/5324/8362/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5324/8362/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5324/8362/_City_Seal_tiny.jpg",
+        "roleName" : "administrator",
+        "screenName" : "Mayor's Office OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "tags" : [ "personnel", "performance", "metrics" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "94C08F47-FE39-4857-9257-67462613A3A0", 1, 1412965305, "865572", 1412965305, "865572", "{\n  \"invalidCells\" : {\n    \"21198408\" : \"N/A\",\n    \"21198418\" : \"N/A\",\n    \"21198398\" : \"N/A\",\n    \"21198384\" : \"N/A\",\n    \"21198412\" : \"N/A\",\n    \"21198402\" : \"N/A\",\n    \"21198404\" : \"N/A\"\n  }\n}", "2010-06-30T00:00:00", "Jun-10", "Q4 FY10", "FY 2010", null, null, "8289.00", null, "9610.00", null, "10525.00", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 2, "D1333605-4069-4C83-B248-8EC05F2BCE39", 2, 1412965305, "865572", 1412965305, "865572", "{\n  \"invalidCells\" : {\n    \"21198408\" : \"N/A\",\n    \"21198418\" : \"N/A\",\n    \"21198398\" : \"N/A\",\n    \"21198402\" : \"N/A\",\n    \"21198404\" : \"N/A\"\n  }\n}", "2011-06-30T00:00:00", "Jun-11", "Q4 FY11", "FY 2011", "9.60", null, "9084.00", null, "10535.00", null, "11347.00", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "215.00", null, null, null, null, null, null, null, null, null, null ]
+, [ 3, "9F725748-8943-4AA0-A006-1467CCF69F03", 3, 1412965305, "865572", 1412965305, "865572", "{\n  \"invalidCells\" : {\n    \"21198418\" : \"N/A\",\n    \"21198398\" : \"N/A\",\n    \"21198402\" : \"N/A\"\n  }\n}", "2012-06-30T00:00:00", "Jun-12", "Q4 FY12", "FY 2012", "9.50", null, "9359.00", null, "10920.00", null, "11618.00", null, null, null, null, null, null, null, null, null, null, null, null, null, "33.85", null, null, null, "1.10", null, null, null, "413.00", null, null, null, null, null, null, null, null, null, null ]
+, [ 4, "9415C7C4-88B0-47F7-A1C7-FD995537E89A", 4, 1412965305, "865572", 1412965305, "865572", "{\n}", "2012-07-31T00:00:00", "Jul-12", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "0.00", null, null, null, "1.10", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 5, "C1DA311F-E23B-434A-8D92-2260AA22F2ED", 5, 1412965305, "865572", 1412965305, "865572", "{\n}", "2012-08-31T00:00:00", "Aug-12", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "11.11", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 6, "FB445673-2E41-4B57-AE07-BD41E43C46A2", 6, 1412965305, "865572", 1412965305, "865572", "{\n}", "2012-09-30T00:00:00", "Sep-12", "Q1 FY13", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "0.00", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 7, "570540E0-3B20-46A9-A8C6-5BEB058FA761", 7, 1412965305, "865572", 1412965305, "865572", "{\n}", "2012-10-31T00:00:00", "Oct-12", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "60.00", "80.00", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 8, "30117488-61C3-437F-A560-E446F2121EA3", 8, 1412965305, "865572", 1412965305, "865572", "{\n}", "2012-11-30T00:00:00", "Nov-12", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "0.00", "80.00", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 9, "070D611D-126B-4CB4-B82D-B0071DEA31A2", 9, 1412965305, "865572", 1412965305, "865572", "{\n}", "2012-12-31T00:00:00", "Dec-12", "Q2 FY13", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "0.00", "80.00", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 10, "80AF2517-3968-405F-BF40-50B6B95AFD95", 10, 1412965305, "865572", 1412965305, "865572", "{\n}", "2013-01-31T00:00:00", "Jan-13", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "42.86", "80.00", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 11, "DC6C6298-5E68-40F6-BCB1-F3DA53EEA175", 11, 1412965305, "865572", 1412965305, "865572", "{\n}", "2013-02-28T00:00:00", "Feb-13", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "25.00", "80.00", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 12, "C1BED85C-7A08-4B47-9004-CF4A80BCF4D1", 12, 1412965305, "865572", 1412965305, "865572", "{\n}", "2013-03-31T00:00:00", "Mar-13", "Q3 FY13", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "40.00", "80.00", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 13, "5A41B597-FAE5-4D57-8AFE-FB37ACFCB1C2", 13, 1412965305, "865572", 1412965305, "865572", "{\n}", "2013-04-30T00:00:00", "Apr-13", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "16.67", "80.00", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 14, "CA8D952F-F3DA-45BF-A1A3-2206A9952469", 14, 1412965305, "865572", 1412965305, "865572", "{\n}", "2013-05-31T00:00:00", "May-13", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "50.00", "80.00", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 15, "BF839A05-4DBB-40CD-948A-61DC7DB62158", 15, 1412965305, "865572", 1412965305, "865572", "{\n  \"invalidCells\" : {\n    \"21198418\" : \"N/A\",\n    \"21198398\" : \"N/A\"\n  }\n}", "2013-06-30T00:00:00", "Jun-13", "Q4 FY13", "FY 2013", "9.50", null, "9929.00", null, "11370.00", null, "12246.00", null, null, null, null, null, null, null, null, null, null, null, "958.00", null, "11.76", "80.00", null, null, "1.10", null, null, null, "303.00", null, null, null, null, null, null, null, null, null, null ]
+, [ 16, "AAF3C2D0-5BB9-4301-9E6C-BB16FDEDF927", 16, 1412965305, "865572", 1412965305, "865572", "{\n}", "2013-07-31T00:00:00", "Jul-13", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "100.00", null, null, null, null, null, "57.14", "80.00", null, null, "1.10", null, "0.00", "0.00", null, null, null, null, "1419848.20", "833333.33", null, null, null, null, null ]
+, [ 17, "9A1F508B-8AE3-49BF-BD37-DF2DF8E09671", 17, 1412965305, "865572", 1412965305, "865572", "{\n}", "2013-08-31T00:00:00", "Aug-13", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "92.00", null, null, null, null, null, "90.00", "80.00", null, null, "1.10", null, "28.00", "28.00", null, null, null, null, "1602042.37", "833333.33", null, null, null, null, null ]
+, [ 18, "278D92EE-EBD6-4C2C-B272-9C28DFE5B7E3", 18, 1412965305, "865572", 1412965305, "865572", "{\n}", "2013-09-30T00:00:00", "Sep-13", "Q1 FY14", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "86.00", null, null, null, null, null, "78.57", "80.00", null, null, "1.10", null, "0.00", "50.00", null, null, null, null, "1335844.63", "833333.33", null, null, "Conduct needs assessment and best practices review", "Conduct needs assessment and best practices review", "On Target" ]
+, [ 19, "4911D33C-7D4C-4A57-AFF7-177C624832CC", 19, 1412965305, "865572", 1412965305, "865572", "{\n}", "2013-10-31T00:00:00", "Oct-13", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "76.00", null, "86.00", null, null, null, "66.67", "80.00", null, null, "1.10", null, "29.00", "29.00", null, null, null, null, "1473533.90", "833333.33", null, null, "Identify funding; install and test software", "Identify funding; install and test software", "On Target" ]
+, [ 20, "74B31F6D-26EC-43A9-8587-B4418C6BF387", 20, 1412965305, "865572", 1412965305, "865572", "{\n}", "2013-11-30T00:00:00", "Nov-13", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "93.00", null, "68.00", null, null, null, "50.00", "80.00", null, null, "1.10", null, "0.00", "0.00", null, null, null, null, "1447091.39", "833333.33", null, null, null, null, "On Target" ]
+, [ 21, "8730D5F2-E5CD-43AD-A45D-30770033DF20", 21, 1412965305, "865572", 1412965305, "865572", "{\n}", "2013-12-31T00:00:00", "Dec-13", "Q2 FY14", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "86.00", null, "84.00", null, null, null, "76.92", "80.00", null, null, "1.10", null, "31.00", "25.00", null, null, null, null, "1424835.13", "833333.33", null, null, "Draft portal design; create main layout page and components", "Draft portal design; create main layout page and components", "On Target" ]
+, [ 22, "1D075F29-F4FB-4612-A700-4C1E1FC58F13", 22, 1412965305, "865572", 1412965305, "865572", "{\n}", "2014-01-31T00:00:00", "Jan-14", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "88.00", null, "92.00", null, null, null, "55.00", "80.00", null, null, "1.10", null, "38.00", "40.00", null, null, "69.00", null, "1431999.82", "833333.33", null, null, "Conduct employee focus groups", "Conduct employee focus groups", "On Target" ]
+, [ 23, "B6373CCF-2D93-4D22-AA87-1C889978EEDB", 23, 1412965305, "865572", 1412965305, "865572", "{\n}", "2014-02-28T00:00:00", "Feb-14", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "83.00", null, "86.00", null, null, null, "76.92", "80.00", null, null, "1.10", null, "29.00", "46.00", null, null, null, null, "1200087.00", "833333.33", null, null, null, "Complete IT revisions", "Off Target" ]
+, [ 24, "B8F49B93-6404-4D5E-AF34-8D297D8CD173", 24, 1412965305, "865572", 1412965305, "865572", "{\n}", "2014-03-31T00:00:00", "Mar-14", "Q3 FY14", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "85.00", null, "80.00", null, null, null, "75.00", "80.00", null, null, "1.10", null, "32.00", "50.00", null, null, null, null, "1307339.00", "833333.33", null, null, "Complete IT revisions; Final testing; Launch website", "Final testing; launch website", "On Target" ]
+, [ 25, "00E9B55C-05F6-44A1-A0FC-2F2A9987D426", 25, 1412965305, "865572", 1412965305, "865572", "{\n}", "2014-04-30T00:00:00", "Apr-14", null, null, null, null, null, null, null, null, null, null, "746.00", "775.00", null, null, null, null, "83.00", null, "84.00", null, null, null, "66.67", "80.00", null, null, "1.10", null, "28.00", "50.00", null, null, null, null, "1331076.00", "833333.33", null, null, "Project Completed", null, null ]
+, [ 26, "97FEF108-44E9-4999-A5C3-0E72E2F160F7", 26, 1412965305, "865572", 1412965305, "865572", "{\n}", "2014-05-31T00:00:00", "May-14", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "87.00", null, "78.00", null, null, null, "66.67", "80.00", null, null, "1.10", null, "33.00", "50.00", null, null, null, null, "1422163.00", "833333.33", null, null, null, null, null ]
+, [ 27, "D84E3D47-74D1-49C0-BD97-84D46645E3DE", 27, 1412965305, "865572", 1412965305, "865572", "{\n}", "2014-06-30T00:00:00", "Jun-14", "Q4 FY14", "FY 2014", "9.50", "10.00", "10740.27", "10747.00", "11639.97", "11640.00", "12995.53", "13022.00", "735.00", "746.00", null, null, "89.00", "90.00", "79.00", null, "82.00", null, "4119.00", "4250.00", "76.92", "80.00", null, null, "1.10", "1.30", "32.00", "50.00", "280.00", "265.00", "69.00", "70.00", "1294881.00", "833333.33", "16690741.44", "10000000.00", null, null, null ]
+, [ 28, "1A08FE87-EB1D-4065-8F1D-79E4BB9BD046", 28, 1412965305, "865572", 1412965305, "865572", "{\n}", "2014-07-31T00:00:00", "Jul-14", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "93.00", "85.00", "72.00", null, null, null, "100.00", "80.00", null, null, "1.10", null, "31.00", "24.00", null, null, null, null, "1194593.98", "1200000.00", "1194593.98", null, null, null, null ]
+, [ 29, "ED52E9FE-55E7-488C-8790-59E9E3EFEF9F", 29, 1412965305, "865572", 1412965305, "865572", "{\n}", "2014-08-31T00:00:00", "Aug-14", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "60.00", null, "77.00", null, null, null, "80.00", "80.00", null, null, "1.10", null, "29.00", "35.00", null, null, null, null, "1371292.00", "1200000.00", null, null, null, null, null ]
+, [ 30, "642EE2BC-336D-420C-A755-7365DF1D253F", 30, 1412965305, "865572", 1412965305, "865572", "{\n}", "2014-09-30T00:00:00", "Sep-14", "Q1 FY15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "57.00", null, "74.00", null, null, null, "97.00", null, null, null, "1.10", null, "40.00", "35.00", null, null, null, null, "1228153.00", "1200000.00", null, null, null, null, null ]
+, [ 31, "08823C2D-FA09-47FE-9E76-5B2914AECA0B", 31, 1412965305, "865572", 1416518878, "865572", "{\"invalidCells\":{\"of_exams_completed_in_150_days_annual_fy\":73.7}}", "2014-10-31T00:00:00", "Oct-14", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "32.00", "35.00", null, null, null, null, null, "1200000.00", null, null, null, null, null ]
+, [ 32, "1ACCD9F3-1397-41D6-90E1-5CD01711C02C", 32, 1412965305, "865572", 1416518791, "865572", null, "2014-11-30T00:00:00", "Nov-14", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "40.00", null, null, null, null, null, "1200000.00", null, null, null, null, null ]
+, [ 33, "FEB2635A-2027-4BA6-830C-DC75ED72791A", 33, 1412965305, "865572", 1412965305, "865572", "{\n}", "2014-12-31T00:00:00", "Dec-14", "Q2 FY15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "40.00", null, null, null, "60.00", null, "1200000.00", null, null, null, null, null ]
+, [ 34, "A4D82401-741F-45D3-8AA9-F1BA028E7EA1", 34, 1412965305, "865572", 1412965305, "865572", "{\n}", "2015-01-31T00:00:00", "Jan-15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1200000.00", null, null, null, null, null ]
+, [ 35, "7B7B8F32-FCB4-4CC6-A658-F12BADACBAB5", 35, 1412965305, "865572", 1412965305, "865572", "{\n}", "2015-02-28T00:00:00", "Feb-15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1200000.00", null, null, null, null, null ]
+, [ 36, "85AA37D4-11FF-42DF-9016-4F36D74F1882", 36, 1412965305, "865572", 1412965305, "865572", "{\n}", "2015-03-31T00:00:00", "Mar-15", "Q3 FY15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "45.00", null, "1200000.00", null, null, null, null, null ]
+, [ 37, "9E9C0B09-445B-4C3E-94D7-A73D78EFD9DB", 37, 1412965305, "865572", 1412965305, "865572", "{\n}", "2015-04-30T00:00:00", "Apr-15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1200000.00", null, null, null, null, null ]
+, [ 38, "B2A1F60E-A0F8-4FA3-9231-6FFCDE740B38", 38, 1412965305, "865572", 1412965305, "865572", "{\n}", "2015-05-31T00:00:00", "May-15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "1200000.00", null, null, null, null, null ]
+, [ 39, "AA34D427-5AB9-4BB7-9752-BC1DF7FBA2E7", 39, 1412965305, "865572", 1412965305, "865572", "{\n  \"invalidCells\" : {\n    \"21198385\" : \"Variable\"\n  }\n}", "2015-06-30T00:00:00", "Jun-15", "Q4 FY15", "FY 2015", null, null, null, "11542.00", null, "12540.00", null, "13802.00", null, null, null, null, null, null, null, "90.00", null, null, null, "4675.00", null, "80.00", null, null, null, "1.20", null, null, null, "454.00", null, "60.00", null, "1200000.00", null, "14400000.00", null, null, null ]
+ ]
+}

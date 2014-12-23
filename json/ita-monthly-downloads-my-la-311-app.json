@@ -1,0 +1,359 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "tsrc-szkh",
+      "name" : "ITA- Monthly Downloads My LA 311 App",
+      "averageRating" : 0,
+      "createdAt" : 1401488567,
+      "displayType" : "table",
+      "downloadCount" : 4,
+      "indexUpdatedAt" : 1414617037,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8108961,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401488646,
+      "publicationGroup" : 1600634,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1401488582,
+      "rowsUpdatedBy" : "tyhz-nfmm",
+      "tableId" : 1600634,
+      "totalTimesRated" : 0,
+      "viewCount" : 45,
+      "viewLastModified" : 1402586280,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150663522,
+        "name" : "Date",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date",
+        "position" : 2,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 20022339,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "2013-01-01T00:00:00",
+          "null" : 0,
+          "largest" : "2014-04-01T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2013-01-01T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2013-02-01T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2013-03-01T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2013-04-01T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2013-05-01T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2013-06-01T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2013-07-01T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2013-08-01T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2013-09-01T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2013-10-01T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2013-11-01T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2013-12-01T00:00:00"
+          }, {
+            "count" : 8,
+            "item" : "2014-01-01T00:00:00"
+          }, {
+            "count" : 7,
+            "item" : "2014-02-01T00:00:00"
+          }, {
+            "count" : 6,
+            "item" : "2014-03-01T00:00:00"
+          }, {
+            "count" : 5,
+            "item" : "2014-04-01T00:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150663523,
+        "name" : "Date Name",
+        "dataTypeName" : "text",
+        "fieldName" : "date_name",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20022340,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "Apr-13",
+          "null" : 0,
+          "largest" : "Sep-13",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Jan-13"
+          }, {
+            "count" : 19,
+            "item" : "Feb-13"
+          }, {
+            "count" : 18,
+            "item" : "Mar-13"
+          }, {
+            "count" : 17,
+            "item" : "Apr-13"
+          }, {
+            "count" : 16,
+            "item" : "May-13"
+          }, {
+            "count" : 15,
+            "item" : "Jun-13"
+          }, {
+            "count" : 14,
+            "item" : "Jul-13"
+          }, {
+            "count" : 13,
+            "item" : "Aug-13"
+          }, {
+            "count" : 12,
+            "item" : "Sep-13"
+          }, {
+            "count" : 11,
+            "item" : "Oct-13"
+          }, {
+            "count" : 10,
+            "item" : "Nov-13"
+          }, {
+            "count" : 9,
+            "item" : "Dec-13"
+          }, {
+            "count" : 8,
+            "item" : "Jan-14"
+          }, {
+            "count" : 7,
+            "item" : "Feb-14"
+          }, {
+            "count" : 6,
+            "item" : "Mar-14"
+          }, {
+            "count" : 5,
+            "item" : "Apr-14"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150663524,
+        "name" : "# of Downloads",
+        "dataTypeName" : "number",
+        "fieldName" : "of_myla311_app_downloads",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20022341,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "0",
+          "sum" : "23082",
+          "null" : 0,
+          "average" : "1442.625",
+          "largest" : "9592",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0"
+          }, {
+            "count" : 19,
+            "item" : "898"
+          }, {
+            "count" : 18,
+            "item" : "9592"
+          }, {
+            "count" : 17,
+            "item" : "820"
+          }, {
+            "count" : 16,
+            "item" : "1138"
+          }, {
+            "count" : 15,
+            "item" : "1933"
+          }, {
+            "count" : 14,
+            "item" : "1169"
+          }, {
+            "count" : 13,
+            "item" : "961"
+          }, {
+            "count" : 12,
+            "item" : "877"
+          }, {
+            "count" : 11,
+            "item" : "812"
+          }, {
+            "count" : 10,
+            "item" : "780"
+          }, {
+            "count" : 9,
+            "item" : "825"
+          }, {
+            "count" : 8,
+            "item" : "1092"
+          }, {
+            "count" : 7,
+            "item" : "1232"
+          }, {
+            "count" : 6,
+            "item" : "953"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "false"
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "yb4r-dcys",
+        "displayName" : "ITA OpenData",
+        "profileImageUrlLarge" : "/images/profile/9462/4839/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9462/4839/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9462/4839/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "ITA OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "yb4r-dcys",
+        "displayName" : "ITA OpenData",
+        "profileImageUrlLarge" : "/images/profile/9462/4839/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9462/4839/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9462/4839/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "ITA OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "37089702-E071-45A5-A26F-0DF4EDA02172", 1, 1401488572, "865572", 1401488572, "865572", "{\n}", "2013-01-01T00:00:00", "Jan-13", "0" ]
+, [ 2, "0A54FC6B-73AE-4E04-99AB-678A921FD418", 2, 1401488572, "865572", 1401488572, "865572", "{\n}", "2013-02-01T00:00:00", "Feb-13", "0" ]
+, [ 3, "C367A87C-ED52-4B1F-BF14-82D17A8F59D7", 3, 1401488572, "865572", 1401488572, "865572", "{\n}", "2013-03-01T00:00:00", "Mar-13", "898" ]
+, [ 4, "70C25DCE-B8F0-4430-9974-D5455EAD6AB0", 4, 1401488572, "865572", 1401488572, "865572", "{\n}", "2013-04-01T00:00:00", "Apr-13", "9592" ]
+, [ 5, "74DD658D-294E-4524-A7AB-FE4FD321D93A", 5, 1401488572, "865572", 1401488572, "865572", "{\n}", "2013-05-01T00:00:00", "May-13", "820" ]
+, [ 6, "58F94616-BDC2-413F-9028-1C0AA08754F8", 6, 1401488572, "865572", 1401488572, "865572", "{\n}", "2013-06-01T00:00:00", "Jun-13", "1138" ]
+, [ 7, "86DC5D60-8770-4394-8012-3A4D13A57EAD", 7, 1401488572, "865572", 1401488572, "865572", "{\n}", "2013-07-01T00:00:00", "Jul-13", "1933" ]
+, [ 8, "56E498D5-6F5E-4BD4-B6F4-7CAC997A0EF2", 8, 1401488572, "865572", 1401488572, "865572", "{\n}", "2013-08-01T00:00:00", "Aug-13", "1169" ]
+, [ 9, "2046E6ED-FE5F-455F-B0B9-03BCAC31BB4B", 9, 1401488572, "865572", 1401488572, "865572", "{\n}", "2013-09-01T00:00:00", "Sep-13", "961" ]
+, [ 10, "E91F91A1-7F61-470F-9818-ED13EBC40BA5", 10, 1401488572, "865572", 1401488572, "865572", "{\n}", "2013-10-01T00:00:00", "Oct-13", "877" ]
+, [ 11, "EC3C22EE-F5D5-4102-91DD-334E8B1E59EB", 11, 1401488572, "865572", 1401488572, "865572", "{\n}", "2013-11-01T00:00:00", "Nov-13", "812" ]
+, [ 12, "8D6355FE-5926-431A-8BCA-DDBC0A5A0826", 12, 1401488572, "865572", 1401488572, "865572", "{\n}", "2013-12-01T00:00:00", "Dec-13", "780" ]
+, [ 13, "A0533C1B-E776-401F-B864-52A28A64911E", 13, 1401488572, "865572", 1401488572, "865572", "{\n}", "2014-01-01T00:00:00", "Jan-14", "825" ]
+, [ 14, "A3E6D321-E770-4326-A41E-4EFD11986A41", 14, 1401488572, "865572", 1401488572, "865572", "{\n}", "2014-02-01T00:00:00", "Feb-14", "1092" ]
+, [ 15, "BA71421A-A637-4378-A14D-D799DC6E3FBF", 15, 1401488572, "865572", 1401488572, "865572", "{\n}", "2014-03-01T00:00:00", "Mar-14", "1232" ]
+, [ 16, "887E20FD-08F6-42EC-B373-6701EC5AB515", 16, 1401488572, "865572", 1401488572, "865572", "{\n}", "2014-04-01T00:00:00", "Apr-14", "953" ]
+ ]
+}

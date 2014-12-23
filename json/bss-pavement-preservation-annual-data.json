@@ -1,0 +1,405 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "qer2-sxr5",
+      "name" : "BSS Pavement Preservation Annual Data",
+      "averageRating" : 0,
+      "createdAt" : 1401485070,
+      "description" : "Annual Data FY 10 to FY 13 for street resurfacing, resealing, small asphalt repairs (potholes), slurry seal",
+      "displayType" : "table",
+      "downloadCount" : 2,
+      "indexUpdatedAt" : 1414613088,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8108757,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401485268,
+      "publicationGroup" : 1600548,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1401485078,
+      "rowsUpdatedBy" : "ddg3-br68",
+      "tableId" : 1600548,
+      "totalTimesRated" : 0,
+      "viewCount" : 44,
+      "viewLastModified" : 1402609594,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150661020,
+        "name" : "Date",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date",
+        "position" : 2,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 20021322,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "2010-06-30T00:00:00",
+          "null" : 0,
+          "largest" : "2013-06-30T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2010-06-30T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2011-06-30T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2012-06-30T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2013-06-30T00:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150661021,
+        "name" : "Date Name",
+        "dataTypeName" : "text",
+        "fieldName" : "date_name",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20021323,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "FY 2010",
+          "null" : 0,
+          "largest" : "FY 2013",
+          "top" : [ {
+            "count" : 20,
+            "item" : "FY 2010"
+          }, {
+            "count" : 19,
+            "item" : "FY 2011"
+          }, {
+            "count" : 18,
+            "item" : "FY 2012"
+          }, {
+            "count" : 17,
+            "item" : "FY 2013"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150661022,
+        "name" : "Resurfacing",
+        "dataTypeName" : "number",
+        "description" : "centerline mile",
+        "fieldName" : "resurfacing",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20021324,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "137",
+          "sum" : "753.49",
+          "null" : 0,
+          "average" : "188.3725",
+          "largest" : "235.49",
+          "top" : [ {
+            "count" : 20,
+            "item" : "137"
+          }, {
+            "count" : 19,
+            "item" : "158"
+          }, {
+            "count" : 18,
+            "item" : "223"
+          }, {
+            "count" : 17,
+            "item" : "235.49"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "false"
+        }
+      }, {
+        "id" : 150661023,
+        "name" : "Reconstruction ",
+        "dataTypeName" : "number",
+        "description" : "centerline mile",
+        "fieldName" : "reconstruction",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20021325,
+        "width" : 280,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "10",
+          "sum" : "52",
+          "null" : 0,
+          "average" : "13",
+          "largest" : "17",
+          "top" : [ {
+            "count" : 20,
+            "item" : "12"
+          }, {
+            "count" : 19,
+            "item" : "17"
+          }, {
+            "count" : 18,
+            "item" : "13"
+          }, {
+            "count" : 17,
+            "item" : "10"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "false"
+        }
+      }, {
+        "id" : 150661024,
+        "name" : "Pavement Preservation Total",
+        "dataTypeName" : "number",
+        "description" : "centerline mile",
+        "fieldName" : "pavement_preservation_total",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20021326,
+        "width" : 424,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "149",
+          "sum" : "805.10",
+          "null" : 0,
+          "average" : "201.275",
+          "largest" : "245.64",
+          "top" : [ {
+            "count" : 20,
+            "item" : "149"
+          }, {
+            "count" : 19,
+            "item" : "174.45"
+          }, {
+            "count" : 18,
+            "item" : "236.01"
+          }, {
+            "count" : 17,
+            "item" : "245.64"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "false"
+        }
+      }, {
+        "id" : 150661025,
+        "name" : "Slurry Seal",
+        "dataTypeName" : "number",
+        "fieldName" : "slurry_seal",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20021327,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "401",
+          "sum" : "1658",
+          "null" : 0,
+          "average" : "414.5",
+          "largest" : "455",
+          "top" : [ {
+            "count" : 20,
+            "item" : "401"
+          }, {
+            "count" : 19,
+            "item" : "455"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150661026,
+        "name" : "Total Centerline Miles",
+        "dataTypeName" : "number",
+        "fieldName" : "total_centerline_miles",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20021328,
+        "width" : 364,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "550",
+          "sum" : "2463",
+          "null" : 0,
+          "average" : "615.75",
+          "largest" : "701",
+          "top" : [ {
+            "count" : 20,
+            "item" : "550"
+          }, {
+            "count" : 19,
+            "item" : "575"
+          }, {
+            "count" : 18,
+            "item" : "637"
+          }, {
+            "count" : 17,
+            "item" : "701"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150661027,
+        "name" : "Small Asphalt Repairs",
+        "dataTypeName" : "number",
+        "fieldName" : "small_asphalt_repairs",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20021329,
+        "width" : 352,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "297561",
+          "sum" : "1315544",
+          "null" : 0,
+          "average" : "328886",
+          "largest" : "362205",
+          "top" : [ {
+            "count" : 20,
+            "item" : "362205"
+          }, {
+            "count" : 19,
+            "item" : "297561"
+          }, {
+            "count" : 18,
+            "item" : "301653"
+          }, {
+            "count" : 17,
+            "item" : "354125"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "df4s-jhab",
+        "displayName" : "Public Works: Street Services OpenData",
+        "profileImageUrlLarge" : "/images/profile/6459/7718/bss_logo_notagline_large.png",
+        "profileImageUrlMedium" : "/images/profile/6459/7718/bss_logo_notagline_thumb.png",
+        "profileImageUrlSmall" : "/images/profile/6459/7718/bss_logo_notagline_tiny.png",
+        "roleName" : "editor",
+        "screenName" : "Public Works: Street Services OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "df4s-jhab",
+        "displayName" : "Public Works: Street Services OpenData",
+        "profileImageUrlLarge" : "/images/profile/6459/7718/bss_logo_notagline_large.png",
+        "profileImageUrlMedium" : "/images/profile/6459/7718/bss_logo_notagline_thumb.png",
+        "profileImageUrlSmall" : "/images/profile/6459/7718/bss_logo_notagline_tiny.png",
+        "roleName" : "editor",
+        "screenName" : "Public Works: Street Services OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "A5DC39B8-5A12-4555-B020-1EF010D585FE", 1, 1401485072, "882858", 1401485072, "882858", "{\n}", "2010-06-30T00:00:00", "FY 2010", "137", "12", "149", "401", "550", "362205" ]
+, [ 2, "7B5D029A-193F-45AD-BBE2-719F9BBA0F17", 2, 1401485072, "882858", 1401485072, "882858", "{\n}", "2011-06-30T00:00:00", "FY 2011", "158", "17", "174.45", "401", "575", "297561" ]
+, [ 3, "405A57E5-87DB-4E38-8C22-1AEF5768F926", 3, 1401485072, "882858", 1401485072, "882858", "{\n}", "2012-06-30T00:00:00", "FY 2012", "223", "13", "236.01", "401", "637", "301653" ]
+, [ 4, "88B3B26D-9F86-461D-A702-150CCE139F75", 4, 1401485072, "882858", 1401485072, "882858", "{\n}", "2013-06-30T00:00:00", "FY 2013", "235.49", "10", "245.64", "455", "701", "354125" ]
+ ]
+}

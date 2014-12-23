@@ -1,0 +1,696 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "i4ke-p6yq",
+      "name" : "Citywide LED Streetlight Savings",
+      "averageRating" : 0,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1399934330,
+      "description" : "The LED Streetlight Replacement Program has replaced over 150,000 existing streetlight fixtures in the city, resulting in substantial energy and carbon emissions savings.",
+      "displayType" : "table",
+      "downloadCount" : 4,
+      "iconUrl" : "fileId:chDGQ4HdaP8hCFbvVLeXIKhKI_hj1u54rAuLIls1KM4",
+      "indexUpdatedAt" : 1414613021,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8585176,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1407278273,
+      "publicationGroup" : 1579014,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1407278243,
+      "rowsUpdatedBy" : "kmuv-58sk",
+      "tableId" : 1673569,
+      "totalTimesRated" : 0,
+      "viewCount" : 123,
+      "viewLastModified" : 1407278273,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 160660681,
+        "name" : "Council District",
+        "dataTypeName" : "number",
+        "fieldName" : "council_district",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19693290,
+        "width" : 96,
+        "cachedContents" : {
+          "non_null" : 15,
+          "smallest" : "1",
+          "sum" : "120",
+          "null" : 1,
+          "average" : "8",
+          "largest" : "15",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          }, {
+            "count" : 19,
+            "item" : "2"
+          }, {
+            "count" : 18,
+            "item" : "3"
+          }, {
+            "count" : 17,
+            "item" : "4"
+          }, {
+            "count" : 16,
+            "item" : "5"
+          }, {
+            "count" : 15,
+            "item" : "6"
+          }, {
+            "count" : 14,
+            "item" : "7"
+          }, {
+            "count" : 13,
+            "item" : "8"
+          }, {
+            "count" : 12,
+            "item" : "9"
+          }, {
+            "count" : 11,
+            "item" : "10"
+          }, {
+            "count" : 10,
+            "item" : "11"
+          }, {
+            "count" : 9,
+            "item" : "12"
+          }, {
+            "count" : 8,
+            "item" : "13"
+          }, {
+            "count" : 7,
+            "item" : "14"
+          }, {
+            "count" : 6,
+            "item" : "15"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 160660682,
+        "name" : "Total Units",
+        "dataTypeName" : "number",
+        "fieldName" : "total_units",
+        "position" : 2,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19693291,
+        "width" : 145,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "4983",
+          "sum" : "308718",
+          "null" : 0,
+          "average" : "19294.875",
+          "largest" : "154359",
+          "top" : [ {
+            "count" : 20,
+            "item" : "6759"
+          }, {
+            "count" : 19,
+            "item" : "4983"
+          }, {
+            "count" : 18,
+            "item" : "12678"
+          }, {
+            "count" : 17,
+            "item" : "7637"
+          }, {
+            "count" : 16,
+            "item" : "9604"
+          }, {
+            "count" : 15,
+            "item" : "7569"
+          }, {
+            "count" : 14,
+            "item" : "7934"
+          }, {
+            "count" : 13,
+            "item" : "15517"
+          }, {
+            "count" : 12,
+            "item" : "10379"
+          }, {
+            "count" : 11,
+            "item" : "10764"
+          }, {
+            "count" : 10,
+            "item" : "9616"
+          }, {
+            "count" : 9,
+            "item" : "18943"
+          }, {
+            "count" : 8,
+            "item" : "7383"
+          }, {
+            "count" : 7,
+            "item" : "10160"
+          }, {
+            "count" : 6,
+            "item" : "14433"
+          }, {
+            "count" : 5,
+            "item" : "154359"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 160660683,
+        "name" : "Total Nom Watts Before (kW)",
+        "dataTypeName" : "number",
+        "fieldName" : "total_nom_watts_before_kw",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19693292,
+        "width" : 256,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "1220.9",
+          "sum" : "71581.4",
+          "null" : 0,
+          "average" : "4473.8375",
+          "largest" : "35791",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1637.4"
+          }, {
+            "count" : 19,
+            "item" : "1220.9"
+          }, {
+            "count" : 18,
+            "item" : "2797.0"
+          }, {
+            "count" : 17,
+            "item" : "1847.6"
+          }, {
+            "count" : 16,
+            "item" : "2493.2"
+          }, {
+            "count" : 15,
+            "item" : "1912.1"
+          }, {
+            "count" : 14,
+            "item" : "1788.9"
+          }, {
+            "count" : 13,
+            "item" : "3312.0"
+          }, {
+            "count" : 12,
+            "item" : "2391.9"
+          }, {
+            "count" : 11,
+            "item" : "2312.4"
+          }, {
+            "count" : 10,
+            "item" : "2493.6"
+          }, {
+            "count" : 9,
+            "item" : "4119.5"
+          }, {
+            "count" : 8,
+            "item" : "1691.3"
+          }, {
+            "count" : 7,
+            "item" : "2538.3"
+          }, {
+            "count" : 6,
+            "item" : "3234.3"
+          }, {
+            "count" : 5,
+            "item" : "35791"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 160660684,
+        "name" : "Total Nom Watts After (kW)",
+        "dataTypeName" : "number",
+        "fieldName" : "total_nom_wats_tafter_kw",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19693293,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "393.2",
+          "sum" : "26518.4",
+          "null" : 0,
+          "average" : "1657.4",
+          "largest" : "13259",
+          "top" : [ {
+            "count" : 20,
+            "item" : "658.2"
+          }, {
+            "count" : 19,
+            "item" : "393.2"
+          }, {
+            "count" : 18,
+            "item" : "934.1"
+          }, {
+            "count" : 17,
+            "item" : "677.9"
+          }, {
+            "count" : 16,
+            "item" : "840.8"
+          }, {
+            "count" : 15,
+            "item" : "697.6"
+          }, {
+            "count" : 14,
+            "item" : "1349.4"
+          }, {
+            "count" : 13,
+            "item" : "935.1"
+          }, {
+            "count" : 12,
+            "item" : "922.3"
+          }, {
+            "count" : 11,
+            "item" : "887.0"
+          }, {
+            "count" : 10,
+            "item" : "1552.0"
+          }, {
+            "count" : 9,
+            "item" : "630.2"
+          }, {
+            "count" : 8,
+            "item" : "939.3"
+          }, {
+            "count" : 7,
+            "item" : "1184.1"
+          }, {
+            "count" : 6,
+            "item" : "13259"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      }, {
+        "id" : 160660685,
+        "name" : "% Energy Savings",
+        "dataTypeName" : "percent",
+        "fieldName" : "energy_savings",
+        "position" : 5,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 19693294,
+        "width" : 292,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "59.3",
+          "sum" : "1009.6",
+          "null" : 0,
+          "average" : "63.1",
+          "largest" : "67.8",
+          "top" : [ {
+            "count" : 20,
+            "item" : "59.8"
+          }, {
+            "count" : 19,
+            "item" : "67.8"
+          }, {
+            "count" : 18,
+            "item" : "66.6"
+          }, {
+            "count" : 17,
+            "item" : "63.3"
+          }, {
+            "count" : 16,
+            "item" : "66.3"
+          }, {
+            "count" : 15,
+            "item" : "63.5"
+          }, {
+            "count" : 14,
+            "item" : "63.2"
+          }, {
+            "count" : 13,
+            "item" : "59.3"
+          }, {
+            "count" : 12,
+            "item" : "60.9"
+          }, {
+            "count" : 11,
+            "item" : "60.1"
+          }, {
+            "count" : 10,
+            "item" : "64.4"
+          }, {
+            "count" : 9,
+            "item" : "62.3"
+          }, {
+            "count" : 8,
+            "item" : "62.7"
+          }, {
+            "count" : 7,
+            "item" : "63.0"
+          }, {
+            "count" : 6,
+            "item" : "63.4"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 160660686,
+        "name" : "Annual C02 Reduction (Metric Tons)",
+        "dataTypeName" : "number",
+        "fieldName" : "annual_c02_reduction_metric_tons",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19693295,
+        "width" : 292,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "1996.7",
+          "sum" : "108736.1",
+          "null" : 0,
+          "average" : "6796.00625",
+          "largest" : "54368",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2362.3"
+          }, {
+            "count" : 19,
+            "item" : "1996.7"
+          }, {
+            "count" : 18,
+            "item" : "4494.3"
+          }, {
+            "count" : 17,
+            "item" : "2822.0"
+          }, {
+            "count" : 16,
+            "item" : "3998.4"
+          }, {
+            "count" : 15,
+            "item" : "2930.0"
+          }, {
+            "count" : 14,
+            "item" : "2727.6"
+          }, {
+            "count" : 13,
+            "item" : "4734.7"
+          }, {
+            "count" : 12,
+            "item" : "3514.7"
+          }, {
+            "count" : 11,
+            "item" : "3353.8"
+          }, {
+            "count" : 10,
+            "item" : "3876.0"
+          }, {
+            "count" : 9,
+            "item" : "6194.0"
+          }, {
+            "count" : 8,
+            "item" : "2559.8"
+          }, {
+            "count" : 7,
+            "item" : "3857.6"
+          }, {
+            "count" : 6,
+            "item" : "4946.2"
+          }, {
+            "count" : 5,
+            "item" : "54368"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 160660687,
+        "name" : "Annual Energy Savings (GWh)",
+        "dataTypeName" : "number",
+        "fieldName" : "annual_energy_savings_gwh",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19693296,
+        "width" : 257,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "3.38",
+          "sum" : "183.87",
+          "null" : 0,
+          "average" : "11.491875",
+          "largest" : "91.93",
+          "top" : [ {
+            "count" : 20,
+            "item" : "4.00"
+          }, {
+            "count" : 19,
+            "item" : "3.38"
+          }, {
+            "count" : 18,
+            "item" : "7.60"
+          }, {
+            "count" : 17,
+            "item" : "4.77"
+          }, {
+            "count" : 16,
+            "item" : "6.74"
+          }, {
+            "count" : 15,
+            "item" : "4.96"
+          }, {
+            "count" : 14,
+            "item" : "4.61"
+          }, {
+            "count" : 13,
+            "item" : "8.01"
+          }, {
+            "count" : 12,
+            "item" : "5.94"
+          }, {
+            "count" : 11,
+            "item" : "5.67"
+          }, {
+            "count" : 10,
+            "item" : "6.56"
+          }, {
+            "count" : 9,
+            "item" : "10.48"
+          }, {
+            "count" : 8,
+            "item" : "4.33"
+          }, {
+            "count" : 7,
+            "item" : "6.52"
+          }, {
+            "count" : 6,
+            "item" : "8.37"
+          }, {
+            "count" : 5,
+            "item" : "91.93"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 160660688,
+        "name" : "Annual Energy Savings",
+        "dataTypeName" : "money",
+        "fieldName" : "annual_energy_savings",
+        "position" : 8,
+        "renderTypeName" : "money",
+        "tableColumnId" : 19693297,
+        "width" : 219,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "298652.11",
+          "sum" : "16358333.58",
+          "null" : 0,
+          "average" : "1022395.84875",
+          "largest" : "8179167",
+          "top" : [ {
+            "count" : 20,
+            "item" : "353860.94"
+          }, {
+            "count" : 19,
+            "item" : "298652.11"
+          }, {
+            "count" : 18,
+            "item" : "679285.50"
+          }, {
+            "count" : 17,
+            "item" : "421891.02"
+          }, {
+            "count" : 16,
+            "item" : "595987.76"
+          }, {
+            "count" : 15,
+            "item" : "445832.17"
+          }, {
+            "count" : 14,
+            "item" : "412648.62"
+          }, {
+            "count" : 13,
+            "item" : "708188.30"
+          }, {
+            "count" : 12,
+            "item" : "536375.27"
+          }, {
+            "count" : 11,
+            "item" : "501391.43"
+          }, {
+            "count" : 10,
+            "item" : "587663.80"
+          }, {
+            "count" : 9,
+            "item" : "938519.22"
+          }, {
+            "count" : 8,
+            "item" : "382699.32"
+          }, {
+            "count" : 7,
+            "item" : "576714.17"
+          }, {
+            "count" : 6,
+            "item" : "739456.95"
+          }, {
+            "count" : 5,
+            "item" : "8179167"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Bureau of Street Lighting"
+          }
+        },
+        "rdfSubject" : "0"
+      },
+      "owner" : {
+        "id" : "kmuv-58sk",
+        "displayName" : "Public Works: Street Lighting OpenData",
+        "profileImageUrlLarge" : "/images/profile/9117/4682/bsllogo2res350_large.gif",
+        "profileImageUrlMedium" : "/images/profile/9117/4682/bsllogo2res350_thumb.gif",
+        "profileImageUrlSmall" : "/images/profile/9117/4682/bsllogo2res350_tiny.gif",
+        "roleName" : "editor",
+        "screenName" : "Public Works: Street Lighting OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "kmuv-58sk",
+        "displayName" : "Public Works: Street Lighting OpenData",
+        "profileImageUrlLarge" : "/images/profile/9117/4682/bsllogo2res350_large.gif",
+        "profileImageUrlMedium" : "/images/profile/9117/4682/bsllogo2res350_thumb.gif",
+        "profileImageUrlSmall" : "/images/profile/9117/4682/bsllogo2res350_tiny.gif",
+        "roleName" : "editor",
+        "screenName" : "Public Works: Street Lighting OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "streetlight", "led", "energy", "savings", "pollution" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "0E172503-1D3D-423E-9188-2A18CD8E51AC", 1, 1407278230, "883854", 1407278230, "883854", "{\n}", "1", "6759", "1637.4", "658.2", "59.8", "2362.3", "4.00", "353860.94" ]
+, [ 2, "33F1F61C-521B-42F4-8D2B-0E34C056ECE2", 2, 1407278230, "883854", 1407278230, "883854", "{\n}", "2", "4983", "1220.9", "393.2", "67.8", "1996.7", "3.38", "298652.11" ]
+, [ 3, "DFD3EE81-B7A4-452B-9C68-AD6442B290A3", 3, 1407278230, "883854", 1407278230, "883854", "{\n}", "3", "12678", "2797.0", "934.1", "66.6", "4494.3", "7.60", "679285.50" ]
+, [ 4, "86F27654-572C-4FA6-A2D0-C7A6DCE0A14B", 4, 1407278230, "883854", 1407278230, "883854", "{\n}", "4", "7637", "1847.6", "677.9", "63.3", "2822.0", "4.77", "421891.02" ]
+, [ 5, "C60E6723-EB6D-4D41-9781-E57A3CC6D4C2", 5, 1407278230, "883854", 1407278230, "883854", "{\n}", "5", "9604", "2493.2", "840.8", "66.3", "3998.4", "6.74", "595987.76" ]
+, [ 6, "64D2E66E-C6FA-4596-B2B6-E4D1821DAAA2", 6, 1407278230, "883854", 1407278230, "883854", "{\n}", "6", "7569", "1912.1", "697.6", "63.5", "2930.0", "4.96", "445832.17" ]
+, [ 7, "D82A9911-2B48-4968-85F9-F982D8F89495", 7, 1407278230, "883854", 1407278230, "883854", "{\n}", "7", "7934", "1788.9", "658.2", "63.2", "2727.6", "4.61", "412648.62" ]
+, [ 8, "3DA3EFDB-5C4C-4D17-AB63-B11C125D71F4", 8, 1407278230, "883854", 1407278230, "883854", "{\n}", "8", "15517", "3312.0", "1349.4", "59.3", "4734.7", "8.01", "708188.30" ]
+, [ 9, "B3A23BE4-E30B-40A2-A56A-07DBD201EBDA", 9, 1407278230, "883854", 1407278230, "883854", "{\n}", "9", "10379", "2391.9", "935.1", "60.9", "3514.7", "5.94", "536375.27" ]
+, [ 10, "C93948B0-A5E0-4DDF-9BB4-57A0F3C03934", 10, 1407278230, "883854", 1407278230, "883854", "{\n}", "10", "10764", "2312.4", "922.3", "60.1", "3353.8", "5.67", "501391.43" ]
+, [ 11, "29E918F5-AE7E-4E80-9482-5A74A6201381", 11, 1407278230, "883854", 1407278230, "883854", "{\n}", "11", "9616", "2493.6", "887.0", "64.4", "3876.0", "6.56", "587663.80" ]
+, [ 12, "282C4CEE-1FCE-496E-8515-BCF8DAE2D1AB", 12, 1407278230, "883854", 1407278230, "883854", "{\n}", "12", "18943", "4119.5", "1552.0", "62.3", "6194.0", "10.48", "938519.22" ]
+, [ 13, "B7BEBF4A-9D5B-4797-BB6A-C0CA5659F143", 13, 1407278230, "883854", 1407278230, "883854", "{\n}", "13", "7383", "1691.3", "630.2", "62.7", "2559.8", "4.33", "382699.32" ]
+, [ 14, "1FF36BDA-5873-4EB5-A632-C2211947DA59", 14, 1407278230, "883854", 1407278230, "883854", "{\n}", "14", "10160", "2538.3", "939.3", "63.0", "3857.6", "6.52", "576714.17" ]
+, [ 15, "ED919D34-3B40-4F25-A5BC-38C54E4172CB", 15, 1407278230, "883854", 1407278230, "883854", "{\n}", "15", "14433", "3234.3", "1184.1", "63.4", "4946.2", "8.37", "739456.95" ]
+, [ 16, "062B7E96-2C12-49D0-A59B-3FA60069BC49", 16, 1407278230, "883854", 1407278230, "883854", "{\n}", null, "154359", "35791", "13259", "63.0", "54368", "91.93", "8179167" ]
+ ]
+}

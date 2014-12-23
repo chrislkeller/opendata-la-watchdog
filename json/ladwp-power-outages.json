@@ -1,0 +1,271 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "r95y-gwez",
+      "name" : "LADWP Power Outages",
+      "attribution" : "LADWP",
+      "averageRating" : 0,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1400117809,
+      "description" : "Annual recorded number of Power Outages at LADWP",
+      "displayType" : "table",
+      "downloadCount" : 2,
+      "indexUpdatedAt" : 1414616198,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8029482,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1400523982,
+      "publicationGroup" : 1581706,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1400523978,
+      "rowsUpdatedBy" : "g9i9-z6y7",
+      "tableId" : 1587403,
+      "totalTimesRated" : 0,
+      "viewCount" : 45,
+      "viewLastModified" : 1401235327,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 149110306,
+        "name" : "Year",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "year",
+        "position" : 2,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 19731863,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 13,
+          "smallest" : "2000-01-01T00:00:00",
+          "null" : 0,
+          "largest" : "2012-01-01T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2000-01-01T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2001-01-01T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2002-01-01T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2003-01-01T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2004-01-01T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2005-01-01T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2006-01-01T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2007-01-01T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2008-01-01T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2009-01-01T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2010-01-01T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2011-01-01T00:00:00"
+          }, {
+            "count" : 8,
+            "item" : "2012-01-01T00:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149110307,
+        "name" : "Number of Outages",
+        "dataTypeName" : "number",
+        "fieldName" : "number_of_outages",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19731864,
+        "width" : 304,
+        "cachedContents" : {
+          "non_null" : 13,
+          "smallest" : "3404",
+          "sum" : "57792",
+          "null" : 0,
+          "average" : "4445.538461538462",
+          "largest" : "5915",
+          "top" : [ {
+            "count" : 20,
+            "item" : "3404"
+          }, {
+            "count" : 19,
+            "item" : "3452"
+          }, {
+            "count" : 18,
+            "item" : "3494"
+          }, {
+            "count" : 17,
+            "item" : "4193"
+          }, {
+            "count" : 16,
+            "item" : "4508"
+          }, {
+            "count" : 15,
+            "item" : "5317"
+          }, {
+            "count" : 14,
+            "item" : "5915"
+          }, {
+            "count" : 13,
+            "item" : "5713"
+          }, {
+            "count" : 12,
+            "item" : "4628"
+          }, {
+            "count" : 11,
+            "item" : "4296"
+          }, {
+            "count" : 10,
+            "item" : "4407"
+          }, {
+            "count" : 9,
+            "item" : "4399"
+          }, {
+            "count" : 8,
+            "item" : "4066"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "LADWP"
+          }
+        },
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "hb8e-gdsp",
+        "displayName" : "LA DWP OpenData",
+        "profileImageUrlLarge" : "/images/profile/5225/6660/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5225/6660/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5225/6660/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LA DWP OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "7q7s-tyf3",
+        "displayName" : "Steve Baule",
+        "roleName" : "editor",
+        "screenName" : "Steve Baule",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "outages" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "F594AA3A-0048-4CA0-BEFF-4C0B037DCE32", 1, 1400117812, "877550", 1400117812, "877550", "{\n}", "2000-01-01T00:00:00", "3404" ]
+, [ 2, "42844948-EEF7-495C-86EC-8F82D7107A2C", 2, 1400117812, "877550", 1400117812, "877550", "{\n}", "2001-01-01T00:00:00", "3452" ]
+, [ 3, "4FD2729D-0C93-4F89-8897-B21092000BE4", 3, 1400117812, "877550", 1400117812, "877550", "{\n}", "2002-01-01T00:00:00", "3494" ]
+, [ 4, "4D0DF4B2-DACB-418D-A858-890D68FC0B47", 4, 1400117812, "877550", 1400117812, "877550", "{\n}", "2003-01-01T00:00:00", "4193" ]
+, [ 5, "512C7FAF-FE8B-47A0-9252-9B69E7E179A3", 5, 1400117812, "877550", 1400117812, "877550", "{\n}", "2004-01-01T00:00:00", "4508" ]
+, [ 6, "28F5BA5B-3C44-4B8B-8CB0-839518F3291C", 6, 1400117812, "877550", 1400117812, "877550", "{\n}", "2005-01-01T00:00:00", "5317" ]
+, [ 7, "3425547B-DD05-4C8C-B3DC-1CF975D69929", 7, 1400117812, "877550", 1400117812, "877550", "{\n}", "2006-01-01T00:00:00", "5915" ]
+, [ 8, "E7A59DAD-19D7-4B31-ABCA-ED33B41A747A", 8, 1400117812, "877550", 1400117812, "877550", "{\n}", "2007-01-01T00:00:00", "5713" ]
+, [ 9, "0AC5CE5C-1AA0-45F1-9D27-75746AA49BB0", 9, 1400117812, "877550", 1400117812, "877550", "{\n}", "2008-01-01T00:00:00", "4628" ]
+, [ 10, "611A12E5-62D2-4C96-AD85-EA6D0B2CB9E5", 10, 1400117812, "877550", 1400117812, "877550", "{\n}", "2009-01-01T00:00:00", "4296" ]
+, [ 11, "5AB74275-F168-4B36-B219-A348F9748DAF", 11, 1400117812, "877550", 1400117812, "877550", "{\n}", "2010-01-01T00:00:00", "4407" ]
+, [ 12, "1DDF68BB-D733-4E8D-9E03-4DB01E82DF54", 12, 1400117812, "877550", 1400117812, "877550", "{\n}", "2011-01-01T00:00:00", "4399" ]
+, [ 13, "F0486B1F-B84C-4BDD-B787-095C72B30179", 13, 1400117812, "877550", 1400117812, "877550", "{\n}", "2012-01-01T00:00:00", "4066" ]
+ ]
+}

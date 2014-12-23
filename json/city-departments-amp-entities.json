@@ -1,0 +1,307 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "rr7p-pxbb",
+      "name" : "City Departments & Entities",
+      "averageRating" : 0,
+      "category" : "A Well Run City",
+      "createdAt" : 1394386729,
+      "description" : "Listing of City departments and entities",
+      "displayType" : "table",
+      "downloadCount" : 14,
+      "indexUpdatedAt" : 1414613699,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 7505107,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1394386789,
+      "publicationGroup" : 1503247,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1394386733,
+      "rowsUpdatedBy" : "ujkb-kbnj",
+      "tableId" : 1503247,
+      "totalTimesRated" : 0,
+      "viewCount" : 116,
+      "viewLastModified" : 1401471550,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 137101708,
+        "name" : "City Entity",
+        "dataTypeName" : "text",
+        "fieldName" : "city_entity",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18524628,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 61,
+          "smallest" : "Administrative Officer, City",
+          "null" : 0,
+          "largest" : "Zoo Department",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Water & Power"
+          }, {
+            "count" : 19,
+            "item" : "Zoo Department"
+          }, {
+            "count" : 18,
+            "item" : "The Mayor"
+          }, {
+            "count" : 17,
+            "item" : "City Attorney"
+          }, {
+            "count" : 16,
+            "item" : "City Controller"
+          }, {
+            "count" : 15,
+            "item" : "Council District 1 "
+          }, {
+            "count" : 14,
+            "item" : "Council District 2"
+          }, {
+            "count" : 13,
+            "item" : "Council District 3 "
+          }, {
+            "count" : 12,
+            "item" : "Council District 4 "
+          }, {
+            "count" : 11,
+            "item" : "Council District 5"
+          }, {
+            "count" : 10,
+            "item" : "Council District 6"
+          }, {
+            "count" : 9,
+            "item" : "Council District 7 "
+          }, {
+            "count" : 8,
+            "item" : "Council District 8"
+          }, {
+            "count" : 7,
+            "item" : "Council District 9"
+          }, {
+            "count" : 6,
+            "item" : "Council District 10"
+          }, {
+            "count" : 5,
+            "item" : "Council District 11"
+          }, {
+            "count" : 4,
+            "item" : "Council District 12"
+          }, {
+            "count" : 3,
+            "item" : "Council District 13 "
+          }, {
+            "count" : 2,
+            "item" : "Council District 14"
+          }, {
+            "count" : 1,
+            "item" : "Council District 15"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Information Technology"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "jsonQuery" : {
+          "order" : [ {
+            "ascending" : true,
+            "columnFieldName" : "city_entity"
+          } ]
+        },
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "yb4r-dcys",
+        "displayName" : "ITA OpenData",
+        "profileImageUrlLarge" : "/images/profile/9462/4839/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9462/4839/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9462/4839/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "ITA OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+        "orderBys" : [ {
+          "ascending" : true,
+          "expression" : {
+            "columnId" : 137101708,
+            "type" : "column"
+          }
+        } ]
+      },
+      "rights" : [ "read" ],
+      "sortBys" : [ {
+        "id" : 0,
+        "viewColumnId" : 137101708,
+        "flags" : [ "asc" ]
+      } ],
+      "tableAuthor" : {
+        "id" : "ujkb-kbnj",
+        "displayName" : "Joyce Edson",
+        "profileImageUrlLarge" : "/images/profile/9325/1160/avatar_for_fb_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9325/1160/avatar_for_fb_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9325/1160/avatar_for_fb_tiny.jpg",
+        "roleName" : "administrator",
+        "screenName" : "Joyce Edson",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "tags" : [ "departments", "elected officials", "mayor", "council" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "EF20BFE7-9A5D-4613-B156-26FF3245EEAD", 1, 1394386731, "862831", 1394386731, "862831", "{\n}", "Administrative Officer, City" ]
+, [ 2, "2E105C44-8734-4C11-9F10-24151CAF81FF", 2, 1394386731, "862831", 1394386731, "862831", "{\n}", "Aging" ]
+, [ 3, "CFBD26B3-7D57-410B-A60E-CFB153A36EC1", 3, 1394386731, "862831", 1394386731, "862831", "{\n}", "Airports, Los Angeles World" ]
+, [ 4, "768D9238-4E8C-488D-92F6-05520BD00007", 4, 1394386731, "862831", 1394386731, "862831", "{\n}", "Animal Services" ]
+, [ 5, "1C678598-2028-4591-A219-BB4C591AB573", 5, 1394386731, "862831", 1394386731, "862831", "{\n}", "Attorney, Office of the City" ]
+, [ 6, "390EB925-F176-4359-8678-AFCAA2731BE9", 6, 1394386731, "862831", 1394386731, "862831", "{\n}", "Building and Safety" ]
+, [ 45, "C962F0B7-9068-4C20-B31D-C0A1405466B3", 45, 1394386731, "862831", 1394386731, "862831", "{\n}", "City Attorney" ]
+, [ 46, "8DA20622-E71D-4DAE-AD8B-EF897F95535F", 46, 1394386731, "862831", 1394386731, "862831", "{\n}", "City Controller" ]
+, [ 7, "A5FFF907-A888-4607-9507-346B46320ACF", 7, 1394386731, "862831", 1394386731, "862831", "{\n}", "Clerk, Office of the City" ]
+, [ 8, "3A5EF3A8-24E9-4B1B-85BB-61DE60AFFDDB", 8, 1394386731, "862831", 1394386731, "862831", "{\n}", "Contract Administration Bureau, Public Works" ]
+, [ 9, "E1EB6A9C-AECC-4B7B-89DF-548AA2A97EF2", 9, 1394386731, "862831", 1394386731, "862831", "{\n}", "Controller, Office of the City" ]
+, [ 10, "731F9295-40AD-4C1A-89DB-63A43CCDCE80", 10, 1394386731, "862831", 1394386731, "862831", "{\n}", "Convention Center" ]
+, [ 56, "885E1723-99FC-4ACC-AF37-A7B18046FA45", 56, 1394386731, "862831", 1394386731, "862831", "{\n}", "Council District 10" ]
+, [ 57, "A1E0FAC3-0267-4A3C-BDE8-AE76FA826A6C", 57, 1394386731, "862831", 1394386731, "862831", "{\n}", "Council District 11" ]
+, [ 58, "6E4798AA-D4EE-48A5-9F8A-48DADC300A3F", 58, 1394386731, "862831", 1394386731, "862831", "{\n}", "Council District 12" ]
+, [ 59, "57AC9192-F78C-4D96-9586-5AA8FE6FE4B8", 59, 1394386731, "862831", 1394386731, "862831", "{\n}", "Council District 13 " ]
+, [ 60, "A6DFE61F-A824-4C84-92B3-1879435CD923", 60, 1394386731, "862831", 1394386731, "862831", "{\n}", "Council District 14" ]
+, [ 61, "3936D3D7-BF34-46AC-B4D8-AB143094D422", 61, 1394386731, "862831", 1394386731, "862831", "{\n}", "Council District 15" ]
+, [ 47, "D47465D4-FBB7-49FE-AB29-B78F492321E3", 47, 1394386731, "862831", 1394386731, "862831", "{\n}", "Council District 1 " ]
+, [ 48, "8BB3B01C-BB54-4CB6-92AA-48998E706A8A", 48, 1394386731, "862831", 1394386731, "862831", "{\n}", "Council District 2" ]
+, [ 49, "987D1E20-EAC7-4C6C-AF76-CB7933A2486E", 49, 1394386731, "862831", 1394386731, "862831", "{\n}", "Council District 3 " ]
+, [ 50, "CBBA0EAB-F4A6-4D66-A1D0-4B57B4260D8E", 50, 1394386731, "862831", 1394386731, "862831", "{\n}", "Council District 4 " ]
+, [ 51, "4AA3F29D-9025-4576-9129-62E66DA1E240", 51, 1394386731, "862831", 1394386731, "862831", "{\n}", "Council District 5" ]
+, [ 52, "45E080A7-3BA0-45C7-8D17-9921458D0B2D", 52, 1394386731, "862831", 1394386731, "862831", "{\n}", "Council District 6" ]
+, [ 53, "1AC4304C-4492-455E-814C-73E533215C5E", 53, 1394386731, "862831", 1394386731, "862831", "{\n}", "Council District 7 " ]
+, [ 54, "2038280E-73E3-4CA2-8564-18C57D053FB9", 54, 1394386731, "862831", 1394386731, "862831", "{\n}", "Council District 8" ]
+, [ 55, "7A2700F6-F854-44AB-B00A-625F65C0163B", 55, 1394386731, "862831", 1394386731, "862831", "{\n}", "Council District 9" ]
+, [ 11, "3ADDC0A2-CCA0-429A-BBAA-51A9E9522CA7", 11, 1394386731, "862831", 1394386731, "862831", "{\n}", "Cultural Affairs" ]
+, [ 12, "DE73C508-FA4E-489E-98B5-F0B34432C2A9", 12, 1394386731, "862831", 1394386731, "862831", "{\n}", "Disability, Department on" ]
+, [ 13, "A581AC8F-9698-4C18-9E61-43049CC269B3", 13, 1394386731, "862831", 1394386731, "862831", "{\n}", "Economic and Workforce Development" ]
+, [ 14, "700D24BB-DDFE-41B8-A166-4547BF2F9A1A", 14, 1394386731, "862831", 1394386731, "862831", "{\n}", "El Pueblo" ]
+, [ 15, "F01C2F65-C2C8-4058-ADFD-879373FA5DF0", 15, 1394386731, "862831", 1394386731, "862831", "{\n}", "Emergency Management" ]
+, [ 16, "25353E93-DF1B-4A78-ADF5-D958CEB011BB", 16, 1394386731, "862831", 1394386731, "862831", "{\n}", "Employee Relations Board" ]
+, [ 17, "B985C9A7-519E-4720-8DA1-5936278145D9", 17, 1394386731, "862831", 1394386731, "862831", "{\n}", "Employees' Retirement System, Los Angeles City" ]
+, [ 18, "B4AD66A1-D062-4EC8-B14F-341233A22FC1", 18, 1394386731, "862831", 1394386731, "862831", "{\n}", "Engineering Bureau, Public Works" ]
+, [ 19, "BDCEE0E8-4D0D-49BC-8786-9A545C8572DE", 19, 1394386731, "862831", 1394386731, "862831", "{\n}", "Ethics Commission, City" ]
+, [ 20, "DDD85C6A-118B-4DF9-8363-E5BE8FCEF345", 20, 1394386731, "862831", 1394386731, "862831", "{\n}", "Finance, Office of" ]
+, [ 21, "25DB47B8-106C-47C5-8CF8-F513DFAEEF18", 21, 1394386731, "862831", 1394386731, "862831", "{\n}", "Fire" ]
+, [ 22, "29D5B6BF-FDE2-4168-855E-4EAD1120ED1D", 22, 1394386731, "862831", 1394386731, "862831", "{\n}", "Fire and Police Pensions" ]
+, [ 23, "BDD62E07-D0D3-4FEA-B8FA-E05D3DD35F16", 23, 1394386731, "862831", 1394386731, "862831", "{\n}", "General Services" ]
+, [ 24, "FF230D99-9301-44F4-9CF9-70DB172B23F6", 24, 1394386731, "862831", 1394386731, "862831", "{\n}", "Housing and Community Investment" ]
+, [ 25, "B3372F6D-67C3-454B-99F3-F5A5F793EF05", 25, 1394386731, "862831", 1394386731, "862831", "{\n}", "Housing Authority" ]
+, [ 26, "1D44CB63-6918-4FF0-A0AB-B80330E45B05", 26, 1394386731, "862831", 1394386731, "862831", "{\n}", "Information Technology Agency" ]
+, [ 27, "F1A1A35B-B5A8-4006-9769-BAE607E71D8D", 27, 1394386731, "862831", 1394386731, "862831", "{\n}", "Library, Los Angeles Public" ]
+, [ 28, "B8629BF7-00A3-450A-81C5-8CC91355A41C", 28, 1394386731, "862831", 1394386731, "862831", "{\n}", "Neighborhood Empowerment" ]
+, [ 29, "A1D932C6-2E5C-499B-A8BD-FB884AED0372", 29, 1394386731, "862831", 1394386731, "862831", "{\n}", "Personnel" ]
+, [ 30, "8FB72F7D-113F-4372-968C-289399C5336F", 30, 1394386731, "862831", 1394386731, "862831", "{\n}", "Planning" ]
+, [ 31, "0CD2C3E5-C1B4-48BF-84A9-1DE9EEDAFB71", 31, 1394386731, "862831", 1394386731, "862831", "{\n}", "Police" ]
+, [ 32, "3906BB64-0AEA-4BAD-8879-6539D95435AC", 32, 1394386731, "862831", 1394386731, "862831", "{\n}", "Port of Los Angeles" ]
+, [ 33, "56C6EF99-B72F-4101-A12D-4311C53A760B", 33, 1394386731, "862831", 1394386731, "862831", "{\n}", "Project Restore" ]
+, [ 34, "517E4E22-E043-4352-82A9-7BC3257016D3", 34, 1394386731, "862831", 1394386731, "862831", "{\n}", "Public Accountability, The Office of" ]
+, [ 35, "7DB860A0-5E7A-4557-B9F4-C9835002A96F", 35, 1394386731, "862831", 1394386731, "862831", "{\n}", "Public Works" ]
+, [ 36, "512869CE-DA8A-4190-9128-36D7B05002B8", 36, 1394386731, "862831", 1394386731, "862831", "{\n}", "Public Works, Board Offices of" ]
+, [ 37, "A512BF13-4485-422F-A538-E7DF910A5E77", 37, 1394386731, "862831", 1394386731, "862831", "{\n}", "Recreation and Parks" ]
+, [ 38, "15CCF3FC-EECA-414C-A402-015103122AD1", 38, 1394386731, "862831", 1394386731, "862831", "{\n}", "Sanitation Bureau, Public Works" ]
+, [ 39, "8D90AD7F-94A3-429D-BDFB-BC2332D5AA9E", 39, 1394386731, "862831", 1394386731, "862831", "{\n}", "Street Lighting Bureau, Public Works" ]
+, [ 40, "B311C420-25FF-434C-ADA6-17830A029CA1", 40, 1394386731, "862831", 1394386731, "862831", "{\n}", "Street Services Bureau, Public Works" ]
+, [ 44, "6C6DDBFB-5C92-4F86-9E3F-C1C08F50E504", 44, 1394386731, "862831", 1394386731, "862831", "{\n}", "The Mayor" ]
+, [ 41, "1639C639-8FAE-46E1-AB57-5610086598AE", 41, 1394386731, "862831", 1394386731, "862831", "{\n}", "Transportation" ]
+, [ 42, "C6B70BEA-C74C-45FA-8A76-22DBFA4F24FD", 42, 1394386731, "862831", 1394386731, "862831", "{\n}", "Water & Power" ]
+, [ 43, "6E006084-FD82-4500-91FD-FE036FD6F607", 43, 1394386731, "862831", 1394386731, "862831", "{\n}", "Zoo Department" ]
+ ]
+}

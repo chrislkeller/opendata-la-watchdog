@@ -1,0 +1,209 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "f8az-yp7d",
+      "name" : "Open Expenditures Internal Data: Vendor List",
+      "averageRating" : 0,
+      "createdAt" : 1406057632,
+      "displayType" : "table",
+      "downloadCount" : 7,
+      "indexUpdatedAt" : 1406057727,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8484138,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1406057729,
+      "publicationGroup" : 1657829,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1406057690,
+      "rowsUpdatedBy" : "hmzy-ctip",
+      "tableId" : 1657829,
+      "totalTimesRated" : 0,
+      "viewCount" : 52,
+      "viewLastModified" : 1406159930,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 158496000,
+        "name" : "Supplier Name",
+        "dataTypeName" : "text",
+        "fieldName" : "supplier_name",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20956682,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 0,
+          "null" : 0
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 158496008,
+        "name" : "Supplier Number",
+        "dataTypeName" : "text",
+        "fieldName" : "supplier_number",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20956683,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 0,
+          "null" : 0
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 158496009,
+        "name" : "Org Type",
+        "dataTypeName" : "text",
+        "fieldName" : "org_type",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20956684,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 0,
+          "null" : 0
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 158496010,
+        "name" : "Zip Code",
+        "dataTypeName" : "number",
+        "fieldName" : "zip_code",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20956685,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 0,
+          "sum" : "0",
+          "null" : 0
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Department" : {
+            "Division" : "",
+            "Department" : "",
+            "System" : ""
+          },
+          "Update Information" : {
+            "Update Cycle" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "metadata_table", "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "hmzy-ctip",
+        "displayName" : "Clint Tseng",
+        "profileImageUrlLarge" : "/images/profile/2558/2875/Photo_Jul_05__8_39_08_PM_large.jpeg",
+        "profileImageUrlMedium" : "/images/profile/2558/2875/Photo_Jul_05__8_39_08_PM_thumb.jpeg",
+        "profileImageUrlSmall" : "/images/profile/2558/2875/Photo_Jul_05__8_39_08_PM_tiny.jpeg",
+        "screenName" : "Clint Tseng",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+        "flags" : [ "admin" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "hmzy-ctip",
+        "displayName" : "Clint Tseng",
+        "profileImageUrlLarge" : "/images/profile/2558/2875/Photo_Jul_05__8_39_08_PM_large.jpeg",
+        "profileImageUrlMedium" : "/images/profile/2558/2875/Photo_Jul_05__8_39_08_PM_thumb.jpeg",
+        "profileImageUrlSmall" : "/images/profile/2558/2875/Photo_Jul_05__8_39_08_PM_tiny.jpeg",
+        "screenName" : "Clint Tseng",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+        "flags" : [ "admin" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ ]
+}

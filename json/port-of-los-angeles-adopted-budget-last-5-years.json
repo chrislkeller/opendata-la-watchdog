@@ -1,0 +1,488 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "du8q-hww5",
+      "name" : "Port Of Los Angeles - Adopted Budget Last 5 Years",
+      "averageRating" : 60,
+      "category" : "A Well Run City",
+      "createdAt" : 1398184205,
+      "description" : "POLA adopted budget for last 5 years.",
+      "displayType" : "table",
+      "downloadCount" : 3,
+      "indexUpdatedAt" : 1401560084,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 7821517,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1398184858,
+      "publicationGroup" : 1554218,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1398184713,
+      "rowsUpdatedBy" : "xy7d-fki2",
+      "tableId" : 1554230,
+      "totalTimesRated" : 1,
+      "viewCount" : 38,
+      "viewLastModified" : 1401235536,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 144449504,
+        "name" : "Fiscal Year",
+        "dataTypeName" : "text",
+        "fieldName" : "fiscal_year",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19313439,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 209,
+          "smallest" : "FY10",
+          "null" : 0,
+          "largest" : "FY14",
+          "top" : [ {
+            "count" : 20,
+            "item" : "FY10"
+          }, {
+            "count" : 19,
+            "item" : "FY11"
+          }, {
+            "count" : 18,
+            "item" : "FY12"
+          }, {
+            "count" : 17,
+            "item" : "FY13"
+          }, {
+            "count" : 16,
+            "item" : "FY14"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 144449505,
+        "name" : "Account Name",
+        "dataTypeName" : "text",
+        "fieldName" : "account_name",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19313440,
+        "width" : 244,
+        "cachedContents" : {
+          "non_null" : 209,
+          "smallest" : "510 - Salaries - Regular",
+          "null" : 0,
+          "largest" : "Unappropriated Balance/Carried Forward",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Debt Repayments"
+          }, {
+            "count" : 19,
+            "item" : "Restricted Cash"
+          }, {
+            "count" : 18,
+            "item" : "Unappropriated Balance/Carried Forward"
+          }, {
+            "count" : 17,
+            "item" : "Future Commitments"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 144449506,
+        "name" : " Appropriation Amount ",
+        "dataTypeName" : "money",
+        "fieldName" : "appropriation_amount",
+        "position" : 4,
+        "renderTypeName" : "money",
+        "tableColumnId" : 19313441,
+        "width" : 364,
+        "cachedContents" : {
+          "non_null" : 209,
+          "smallest" : "-70000000.00",
+          "sum" : "5044229215.00",
+          "null" : 0,
+          "average" : "24135068.01435407",
+          "largest" : "399913430.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "26235000.00"
+          }, {
+            "count" : 19,
+            "item" : "98085765.00"
+          }, {
+            "count" : 18,
+            "item" : "236173540.00"
+          }, {
+            "count" : 17,
+            "item" : "32015000.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 144449507,
+        "name" : "Expense Categories",
+        "dataTypeName" : "text",
+        "fieldName" : "expense_categories",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19313442,
+        "width" : 316,
+        "cachedContents" : {
+          "non_null" : 209,
+          "smallest" : "Benefits",
+          "null" : 0,
+          "largest" : "Unappropriated Balance",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Salaries"
+          }, {
+            "count" : 19,
+            "item" : "Benefits"
+          }, {
+            "count" : 18,
+            "item" : "Expenditure"
+          }, {
+            "count" : 17,
+            "item" : "Other"
+          }, {
+            "count" : 16,
+            "item" : "Debt Service"
+          }, {
+            "count" : 15,
+            "item" : "Equipment"
+          }, {
+            "count" : 14,
+            "item" : "Reserve"
+          }, {
+            "count" : 13,
+            "item" : "Unappropriated Balance"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "xy7d-fki2",
+        "displayName" : "Jessica Carsten",
+        "screenName" : "Jessica Carsten",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+        "flags" : [ "admin" ]
+      },
+      "query" : {
+      },
+      "ratings" : {
+        "rating" : 60
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "xy7d-fki2",
+        "displayName" : "Jessica Carsten",
+        "screenName" : "Jessica Carsten",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+        "flags" : [ "admin" ]
+      },
+      "tags" : [ "pola", "port", "budget", "adopted" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "69DBC691-B8BC-4CCB-A3BE-948BFA693EAB", 1, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "510 - Salaries - Regular", "60782097.00", "Salaries" ]
+, [ 2, "4F3ACB7F-386C-4AD0-8F72-A7E07BFD1225", 2, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "511 - Salaries - Overtime", "5015147.00", "Salaries" ]
+, [ 3, "1B153CB7-B98C-430A-B40E-193C11E0F406", 3, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "516 - Employee Benefits", "32911815.00", "Benefits" ]
+, [ 4, "C2C5A9AC-4567-45E5-BF73-B1FA3C2BFD9D", 4, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "517 - Paid Employee Benefits", "1843854.00", "Benefits" ]
+, [ 5, "51A37DE1-8C46-44ED-B257-BE141E322152", 5, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "520 - Advertising & Public Relations", "3375458.00", "Expenditure" ]
+, [ 6, "2424CEC8-B404-4E6E-A3BC-BA9F4E528E89", 6, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "521 - Domestic Trade Rep.", "63000.00", "Expenditure" ]
+, [ 7, "E58FBCC8-7D0E-4EF2-BF6A-D853807E08D9", 7, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "522 - Foreign Trade Rep.", "687163.00", "Expenditure" ]
+, [ 8, "BEC53BFC-A5D3-4201-A421-AE7E4CF5E313", 8, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "530 - Domestic Travel", "462833.00", "Expenditure" ]
+, [ 9, "9C8C25D7-1F05-4A82-884E-D658D6408A59", 9, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "531 - Foreign Travel", "362500.00", "Expenditure" ]
+, [ 10, "E036B035-DEE2-4EDC-95B6-068A059189C6", 10, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "532 - Local Travel", "101200.00", "Expenditure" ]
+, [ 11, "10C9436C-A663-4A2C-8552-D882D32AF951", 11, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "533 - Credit Card Charges", "900.00", "Expenditure" ]
+, [ 12, "345E9802-8082-46CC-8E70-1957EE228275", 12, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "540 - Maintenance Services", "7019201.00", "Expenditure" ]
+, [ 13, "FBBBE192-4290-4951-BEDB-066B46A57559", 13, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "541 - Office Equipment Maintenance Services", "2516983.00", "Expenditure" ]
+, [ 14, "CE670A3B-D6EC-4719-AAF0-EFCDBC7DA72E", 14, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "542 - Misc. Professional Services", "22840960.00", "Expenditure" ]
+, [ 15, "54CDF388-973B-4C23-82CC-F1BF93FEB82F", 15, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "543 - Data Processing Services", "2405653.00", "Expenditure" ]
+, [ 16, "10F0B86C-B7D9-4C68-8E9F-015D76E39315", 16, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "544 - Financial Services", "5556118.00", "Expenditure" ]
+, [ 17, "A72EB9AC-38B6-4B05-A6A2-346484D2686B", 17, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "545 - Capital Construction Svc.", "-368066.00", "Expenditure" ]
+, [ 18, "BB8A02EE-FE66-457E-98E5-22ACC5C197DB", 18, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "550 - Maintenance & Other Supplies", "3382430.00", "Expenditure" ]
+, [ 19, "5BBBC04E-97A9-46B1-BE02-5EE5D9A79729", 19, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "551 - Admin. & Oper. Supplies", "3644830.00", "Expenditure" ]
+, [ 20, "A6296401-8096-4CCD-B81E-A1FD94BFB000", 20, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "570 - City Services", "32392180.00", "Expenditure" ]
+, [ 21, "F9B21E83-0FFB-4CA0-89FB-DA2EDCCE409F", 21, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "580 - Allocations", "-7165819.00", "Expenditure" ]
+, [ 22, "7475D1D6-1A84-4985-BA21-E8A7921671C1", 22, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "590 - Equipment Rental - Maintenance", "425300.00", "Expenditure" ]
+, [ 23, "BD4EE3FC-1C7D-41BB-8141-421E89223E34", 23, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "591 - Equipment Rental - Non-Maintenance", "135000.00", "Expenditure" ]
+, [ 24, "2FFD3CCA-92C1-4B37-A3AA-996AE28624E8", 24, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "592 - Memberships & Subscriptions", "685678.00", "Expenditure" ]
+, [ 25, "7BA47FE5-6AA1-41B2-8E26-FB69451A067D", 25, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "593 - Insurance", "3627000.00", "Expenditure" ]
+, [ 26, "EFEF6411-33AC-4172-A52E-F23BEEE3D557", 26, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "594 - Telephone", "1889515.00", "Expenditure" ]
+, [ 27, "E59F004E-9CAD-4CB6-97F1-8B6B2B70BD5F", 27, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "595 - Utilities", "4545633.00", "Expenditure" ]
+, [ 28, "3518326A-7921-4A63-A487-BDB81D0403BB", 28, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "596 - Claims & Settlements", "10706700.00", "Expenditure" ]
+, [ 29, "B20752DD-203C-49E4-B78D-89B69A280014", 29, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "597 - Taxes, Assessments, & Fees", "707091.00", "Expenditure" ]
+, [ 30, "466FF3E9-B903-40B2-BB6B-B4F2B59D47A5", 30, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "599 - Other Operating Expense", "59855991.00", "Expenditure" ]
+, [ 31, "E3D2A538-101B-4682-B245-44AD66342BE1", 31, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "820 - Interest Expense - Notes", "107956.00", "Other" ]
+, [ 32, "FFC9ED1A-DC16-455D-8D77-BD38411B52A5", 32, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "830 - Interest Expense - Bonds", "35878644.00", "Debt Service" ]
+, [ 33, "BBD6CD2A-9E27-4C8C-AED2-F3427CE98ED8", 33, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "890 - Other Non-Operating Expense", "5675717.00", "Other" ]
+, [ 34, "B2070AFB-FDA5-4F57-A35C-0AD7E89E2645", 34, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "Capitalized & Allocated Expenditures", "7845748.00", "Other" ]
+, [ 35, "6CAA33DA-B9A8-4E09-9A18-CF99B8118B31", 35, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "Debt Service from CIP", "13379719.00", "Debt Service" ]
+, [ 36, "D1693DCF-3317-44B8-8BA0-BD3FBDCC9BE1", 36, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "Land and Property Acquisition", "2465000.00", "Other" ]
+, [ 37, "835330C8-AEB9-4A55-B428-116B331790E8", 37, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "Equipment Purchases", "12664369.00", "Equipment" ]
+, [ 38, "4D852F4A-52AF-4A99-A252-119F53A510C4", 38, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "Construction and Capital Improvements", "340497479.00", "Other" ]
+, [ 39, "9B9624F5-F4D0-48CE-8E94-78DBC3BCFD60", 39, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "Restricted Cash", "177186897.00", "Reserve" ]
+, [ 40, "6DAED589-F0F8-46BD-9679-0B208D2CCC7B", 40, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "Unappropriated Balance/Carried Forward", "214035007.00", "Unappropriated Balance" ]
+, [ 41, "08CFB45D-EA75-46A5-886E-6F3017E469E9", 41, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "Balance Sheet Transactions I", "25075000.00", "Debt Service" ]
+, [ 42, "24EA3D3D-8E46-478E-AE79-DA816141AF1C", 42, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "Balance Sheet Transactions II", "2535795.00", "Other" ]
+, [ 43, "68AFA9DC-FAC8-4FF7-B3EE-CBFCDE8D7574", 43, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY10", "Future Commitments", "35056346.00", "Other" ]
+, [ 44, "8A566647-F85E-4924-A1B1-53BB98599B0A", 44, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "510 - Salaries - Regular", "61252003.00", "Salaries" ]
+, [ 45, "3F20918D-0A62-48DA-817B-3F562562519C", 45, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "511 - Salaries - Overtime", "5038406.00", "Salaries" ]
+, [ 46, "16CC91F3-9A8C-4E7E-9F2F-B03BD96117D0", 46, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "516 - Employee Benefits", "40101113.00", "Benefits" ]
+, [ 47, "EAA8B74F-AAE2-4D96-9BEC-FC94AD5E8FCE", 47, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "517 - Paid Employee Benefits", "1818748.00", "Benefits" ]
+, [ 48, "A4449D72-7E33-495A-92E2-5A656437A72C", 48, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "520 - Advertising & Public Relations", "3253559.00", "Expenditure" ]
+, [ 49, "D6495AEC-0318-4FCB-B813-D19B7E5A7253", 49, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "521 - Domestic Trade Rep.", "75000.00", "Expenditure" ]
+, [ 50, "BCA0AA74-DD03-404A-A3BB-32D9C0F90FE1", 50, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "522 - Foreign Trade Rep.", "584000.00", "Expenditure" ]
+, [ 51, "60E6BD29-9C8C-47B8-893D-249D54ACD26A", 51, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "530 - Domestic Travel", "389442.00", "Expenditure" ]
+, [ 52, "06DDBF6D-A654-473E-AFF8-E149CABE459F", 52, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "531 - Foreign Travel", "392000.00", "Expenditure" ]
+, [ 53, "467D0209-811C-4949-9B5A-E8AD3FBD9229", 53, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "532 - Local Travel", "104821.00", "Expenditure" ]
+, [ 54, "B29E76A2-C0F2-4720-B00C-15D02AC2FA41", 54, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "533 - Credit Card Charges", "200.00", "Expenditure" ]
+, [ 55, "C69BB704-CEA2-480A-8429-E203AFEF6707", 55, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "540 - Maintenance Services", "8418945.00", "Expenditure" ]
+, [ 56, "80533D68-8539-434B-B2F0-40EF2563634E", 56, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "541 - Office Equipment Maintenance Services", "2646524.00", "Expenditure" ]
+, [ 57, "A77FA5E4-1538-4B98-9AC6-E6D97B142D1E", 57, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "542 - Misc. Professional Services", "21356251.00", "Expenditure" ]
+, [ 58, "9A723C3C-6839-4FE1-B5C5-5F8DE4CA9562", 58, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "543 - Data Processing Services", "1738388.00", "Expenditure" ]
+, [ 59, "6BF34C0C-4448-4699-835B-3F2D65D832DF", 59, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "544 - Financial Services", "3117063.00", "Expenditure" ]
+, [ 60, "4E297EBD-54B9-42B2-8F91-1B9A3B9DC7AD", 60, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "550 - Maintenance & Other Supplies", "4076599.00", "Expenditure" ]
+, [ 61, "2482EAD0-8B39-4778-BD61-4FFC3D91A54C", 61, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "551 - Admin. & Oper. Supplies", "3334005.00", "Expenditure" ]
+, [ 62, "83E05DFB-0076-482D-B575-A79075B0F057", 62, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "570 - City Services", "38928031.00", "Expenditure" ]
+, [ 63, "01ECC0C4-0E43-4DD9-8823-418DA0DF620D", 63, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "580 - Allocations", "-7000000.00", "Expenditure" ]
+, [ 64, "19C6D35C-C7FA-4B9B-993A-B27B705FBAEA", 64, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "590 - Equipment Rental - Maintenance", "535357.00", "Expenditure" ]
+, [ 65, "310297B4-AF20-48F8-98DA-6CB36DAA8096", 65, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "591 - Equipment Rental - Non-Maintenance", "185000.00", "Expenditure" ]
+, [ 66, "C29E2ABA-8CEF-4C8C-8C05-0A6F6788F629", 66, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "592 - Memberships & Subscriptions", "613188.00", "Expenditure" ]
+, [ 67, "F7B88EE2-E84B-491B-AD09-CA28AF57ADFD", 67, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "593 - Insurance", "3672000.00", "Expenditure" ]
+, [ 68, "EB0793C2-8557-4DD5-90CB-1B94E51DD165", 68, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "594 - Telephone", "1975136.00", "Expenditure" ]
+, [ 69, "2D937E8D-41AB-4968-B8FF-5A09EEEB2112", 69, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "595 - Utilities", "4909315.00", "Expenditure" ]
+, [ 70, "7553B912-0F11-47BB-8794-C1B899960AD9", 70, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "596 - Claims & Settlements", "6500000.00", "Expenditure" ]
+, [ 71, "5EF72A4E-75AB-44B7-B5CF-09E4A50AE427", 71, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "597 - Taxes, Assessments, & Fees", "710813.00", "Expenditure" ]
+, [ 72, "3F0E0524-AB96-4A92-B576-C3C25D033E85", 72, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "599 - Other Operating Expense", "12550660.00", "Expenditure" ]
+, [ 73, "00985DA5-7983-4452-BB9F-40BFA1365A41", 73, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "820 - Interest Expense - Notes", "86153.00", "Other" ]
+, [ 74, "2779791E-F686-457D-96D8-3AF1573F421A", 74, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "830 - Interest Expense - Bonds", "34211823.00", "Debt Service" ]
+, [ 75, "3CD449BD-6703-4351-9DDC-EAD8EF91A944", 75, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "890 - Other Non-Operating Expense", "3064263.00", "Other" ]
+, [ 76, "6ED9D0E8-9EAB-4666-A563-41443931E2E6", 76, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "Capitalized & Allocated Expenditures", "8810546.00", "Other" ]
+, [ 77, "F8E570D9-5B8D-4773-8116-5D24D50125E7", 77, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "Debt Service from CIP", "9390374.00", "Debt Service" ]
+, [ 78, "2DBA34ED-EBBC-410C-B1B5-CBFCB97D02F6", 78, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "Equipment Purchases", "12451778.00", "Equipment" ]
+, [ 79, "D2D1D627-7B4A-43D2-BC71-F9C7BA724ED3", 79, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "Construction and Capital Improvements", "235622829.00", "Other" ]
+, [ 80, "2B5EE0DB-6719-41F8-8BFB-E1E285F0E298", 80, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "New Debt issuance", "-20000000.00", "Other" ]
+, [ 81, "33146011-E2BC-4E85-A475-693E0011FA92", 81, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "Restricted Cash", "131342607.00", "Reserve" ]
+, [ 82, "759F60B6-831A-482B-AE48-0BD6CAF2273A", 82, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "Unappropriated Balance/Carried Forward", "213390133.00", "Unappropriated Balance" ]
+, [ 83, "6D690432-7D8A-4283-801A-8909A478B78B", 83, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "Balance Sheet Transactions I", "29686256.00", "Debt Service" ]
+, [ 84, "736C25C9-1DD3-40B9-B068-BAB8B7F27204", 84, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "Balance Sheet Transactions II", "-3319084.00", "Other" ]
+, [ 85, "E6CE0DA4-3F30-4587-81CE-0DCF7EFA2800", 85, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY11", "Future Commitments", "33571539.00", "Other" ]
+, [ 86, "3FD72FD3-2868-4163-9054-2F6C2FD80186", 86, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "510 - Salaries - Regular", "61583071.00", "Salaries" ]
+, [ 87, "DEE1D26E-3EF0-4A9B-A400-CA831A07C763", 87, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "511 - Salaries - Overtime", "4955596.00", "Salaries" ]
+, [ 88, "F32F98DD-EDB5-4D7A-83D5-EE309BD48C92", 88, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "516 - Employee Benefits", "42501524.00", "Benefits" ]
+, [ 89, "8F6E6975-67B3-46CE-9DFE-D42EFF048425", 89, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "517 - Paid Employee Benefits", "1590710.00", "Benefits" ]
+, [ 90, "E6239C32-4E2B-434A-9EEB-432CCCF18B63", 90, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "520 - Advertising & Public Relations", "3410663.00", "Expenditure" ]
+, [ 91, "04C920E7-1496-4325-8695-2AF90FF69D64", 91, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "521 - Domestic Trade Rep.", "85000.00", "Expenditure" ]
+, [ 92, "BEBA77E4-49DE-4E8C-B8A1-92FA47DCF090", 92, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "522 - Foreign Trade Rep.", "459000.00", "Expenditure" ]
+, [ 93, "E306D949-FB1B-4F86-9A71-865F5439F82E", 93, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "530 - Domestic Travel", "356753.00", "Expenditure" ]
+, [ 94, "39385A3D-02A1-440C-B683-8DA56C508CB6", 94, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "531 - Foreign Travel", "422500.00", "Expenditure" ]
+, [ 95, "E2A4ED19-9B9D-4C52-83E7-635594DD1B7B", 95, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "532 - Local Travel", "93122.00", "Expenditure" ]
+, [ 96, "C1244EC9-011F-4660-B96D-8460D4C0ACEB", 96, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "533 - Credit Card Charges", "200.00", "Expenditure" ]
+, [ 97, "7BC17816-C80B-4A5E-AA62-B671242EDE46", 97, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "540 - Maintenance Services", "7346077.00", "Expenditure" ]
+, [ 98, "67A1A4DA-913F-4A2B-91A6-A396490D6A86", 98, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "541 - Office Equipment Maintenance Services", "2851504.00", "Expenditure" ]
+, [ 99, "8B17AFFF-86FE-44B9-B474-0396B3C3F860", 99, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "542 - Misc. Professional Services", "21584749.00", "Expenditure" ]
+, [ 100, "F3D6389B-F709-4A3B-9393-DC3926CBDE70", 100, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "543 - Data Processing Services", "2558515.00", "Expenditure" ]
+, [ 101, "0362534B-E754-49EF-BB4E-85953A4F94A7", 101, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "544 - Financial Services", "2257091.00", "Expenditure" ]
+, [ 102, "0A9FE464-7C4D-45C6-8C9C-F85D9B9D9EF0", 102, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "550 - Maintenance & Other Supplies", "4309116.00", "Expenditure" ]
+, [ 103, "3FEB6166-1EF2-40DC-9F08-CE2A50B733AC", 103, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "551 - Admin. & Oper. Supplies", "3002369.00", "Expenditure" ]
+, [ 104, "41AA08AC-3FD5-412F-93A0-66CA237DE448", 104, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "570 - City Services", "40324948.00", "Expenditure" ]
+, [ 105, "31D62CDE-031C-4831-A33D-ACB0C2CA6C6B", 105, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "580 - Allocations", "-6210000.00", "Expenditure" ]
+, [ 106, "805824E7-E1AE-4A37-83B8-B05D065D344B", 106, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "590 - Equipment Rental - Maintenance", "410472.00", "Expenditure" ]
+, [ 107, "82F8BE40-806E-4F5C-BA71-FB2F3CC53DAC", 107, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "591 - Equipment Rental - Non-Maintenance", "114000.00", "Expenditure" ]
+, [ 108, "0CB7EA6E-C7E9-45AE-95A9-864808F39C70", 108, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "592 - Memberships & Subscriptions", "580124.00", "Expenditure" ]
+, [ 109, "4B7C6E5F-9FE1-4C61-AAFF-BC70397406A4", 109, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "593 - Insurance", "3660500.00", "Expenditure" ]
+, [ 110, "4DBCC79C-9CB0-4F2F-B38D-3AFE020CF350", 110, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "594 - Telephone", "1823286.00", "Expenditure" ]
+, [ 111, "A5F72736-A784-4465-BA16-D5DFB149EEC1", 111, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "595 - Utilities", "5895000.00", "Expenditure" ]
+, [ 112, "87658D96-9E63-456D-AF3B-DD7B460383FB", 112, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "596 - Claims & Settlements", "9416000.00", "Expenditure" ]
+, [ 113, "486C1109-6782-45EB-BAC3-51608D223DF9", 113, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "597 - Taxes, Assessments, & Fees", "855345.00", "Expenditure" ]
+, [ 114, "92F7DE1C-B302-4F2E-8F76-A2C2BA7EA69B", 114, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "599 - Other Operating Expense", "9381050.00", "Expenditure" ]
+, [ 115, "FF2753B6-2DD9-4FB3-A8EF-89AFCF1E1CDA", 115, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "820 - Interest Expense - Notes", "63369.00", "Other" ]
+, [ 116, "DE943AE2-094A-4517-A2FA-F74496F584F3", 116, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "830 - Interest Expense - Bonds", "3111893.00", "Debt Service" ]
+, [ 117, "D48BB44E-44F1-4DFB-8BA1-5F2E6763FB45", 117, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "831 - Interest Expense - Commercial Paper", "330260.00", "Debt Service" ]
+, [ 118, "456E185F-94D9-46A2-89B3-0BE00851379C", 118, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "890 - Other Non-Operating Expense", "29452306.00", "Other" ]
+, [ 119, "7AAFF40B-8ACA-4620-BB34-0EDA74C63327", 119, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "Capitalized & Allocated Expenditures", "8883887.00", "Other" ]
+, [ 120, "8B21B3B6-9461-4E4D-9161-6F1E1697D03D", 120, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "Debt Service from CIP", "39169048.00", "Debt Service" ]
+, [ 121, "33151B8C-2725-44B2-B9A4-BDF9F045C218", 121, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "Equipment Purchases", "13263560.00", "Equipment" ]
+, [ 122, "A4E29132-A8BE-403F-BEDA-DC35D2E0D77A", 122, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "Construction and Capital Improvements", "229720433.00", "Other" ]
+, [ 123, "9232DE41-E5A3-4543-BAD2-4C4B83814E0E", 123, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "Restricted Cash", "119678931.00", "Reserve" ]
+, [ 124, "7F873B0B-70D0-498E-B145-A5C0757CB11D", 124, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "Unappropriated Balance/Carried Forward", "243296386.00", "Unappropriated Balance" ]
+, [ 125, "4BFEC9B2-4344-4DF2-A77D-9144E0DA6B8E", 125, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "Balance Sheet Transactions I", "30958137.00", "Debt Service" ]
+, [ 126, "B699BCDB-5CEE-47E6-8A02-DC23459DF631", 126, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "Balance Sheet Transactions II", "-1473255.00", "Other" ]
+, [ 127, "3FE27FEC-95B6-40FC-930A-9EF42B430701", 127, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY12", "Future Commitments", "34512163.00", "Other" ]
+, [ 128, "8CA18E88-C45C-4080-AF06-A939FA397ABB", 128, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "510 - Salaries - Regular", "62070779.00", "Salaries" ]
+, [ 129, "AE5EE698-FFE3-405C-A986-9DDF2EA35855", 129, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "511 - Salaries - Overtime", "4649601.00", "Salaries" ]
+, [ 130, "1BF2DE50-A02C-4C16-8F56-F15D97271C72", 130, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "516 - Employee Benefits", "39540547.00", "Benefits" ]
+, [ 131, "A011F883-25DB-4AAD-81CA-A77DC1F4BC40", 131, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "517 - Paid Employee Benefits", "1959694.00", "Benefits" ]
+, [ 132, "22932C8E-C043-493A-9AC6-65C8E41115D5", 132, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "520 - Advertising & Public Relations", "3070245.00", "Expenditure" ]
+, [ 133, "CE1F7B14-0B5D-4CB6-B5E4-B2CF5011D447", 133, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "521 - Domestic Trade Rep.", "85000.00", "Expenditure" ]
+, [ 134, "8EBE56D3-CDBD-4738-AE44-E85B43FB91D1", 134, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "522 - Foreign Trade Rep.", "459000.00", "Expenditure" ]
+, [ 135, "C040B52B-5650-47D6-8F2C-7B18B0A9AD64", 135, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "530 - Domestic Travel", "388969.00", "Expenditure" ]
+, [ 136, "A1429130-A519-4C36-920E-D1F0AB682C52", 136, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "531 - Foreign Travel", "447750.00", "Expenditure" ]
+, [ 137, "F7C6BFE9-4BA2-487C-BFE5-1D3AC92C7290", 137, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "532 - Local Travel", "88500.00", "Expenditure" ]
+, [ 138, "9EB4C302-02EA-48FA-97C7-0733D9F2CFB4", 138, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "533 - Credit Card Charges", "200.00", "Expenditure" ]
+, [ 139, "01BDD0E9-DAA0-4790-9177-1A21836CC683", 139, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "540 - Maintenance Services", "6872296.00", "Expenditure" ]
+, [ 140, "0320BED6-0691-4DC9-8CAC-C706F9E92C1B", 140, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "541 - Office Equipment Maintenance Services", "3486673.00", "Expenditure" ]
+, [ 141, "AB1DCC8B-FA19-48D4-A724-3E53B35A0741", 141, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "542 - Misc. Professional Services", "20638722.00", "Expenditure" ]
+, [ 142, "3D8EC58B-345C-4E99-9DA5-F2A16A7A94E1", 142, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "543 - Data Processing Services", "2639000.00", "Expenditure" ]
+, [ 143, "74C78692-C964-4781-91D4-7F0F7FF2B230", 143, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "544 - Financial Services", "1579820.00", "Expenditure" ]
+, [ 144, "6EB39078-6143-4D91-A5C5-3D74BB871574", 144, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "550 - Maintenance & Other Supplies", "4410213.00", "Expenditure" ]
+, [ 145, "A827E298-D1BD-4DFC-9F0A-A3873D66424C", 145, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "551 - Admin. & Oper. Supplies", "3224857.00", "Expenditure" ]
+, [ 146, "A4E3C8A7-D6B3-4B4D-9C6A-92BE1D25BF07", 146, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "570 - City Services", "36149991.00", "Expenditure" ]
+, [ 147, "73C63003-F048-457A-81E9-8CC5D563A519", 147, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "580 - Allocations", "-9000000.00", "Expenditure" ]
+, [ 148, "5EEB59D5-6200-4EDE-9D16-CB9DC75650D1", 148, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "590 - Equipment Rental - Maintenance", "478865.00", "Expenditure" ]
+, [ 149, "765AFA74-5511-413A-BFCB-302953EC9107", 149, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "591 - Equipment Rental - Non-Maintenance", "44000.00", "Expenditure" ]
+, [ 150, "8116D259-843A-41E4-94F4-5E0F3F042765", 150, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "592 - Memberships & Subscriptions", "622794.00", "Expenditure" ]
+, [ 151, "5ED89609-45AF-46A7-842E-BB41289C4BBA", 151, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "593 - Insurance", "3683000.00", "Expenditure" ]
+, [ 152, "C684E6F2-442D-42B0-BBF7-E97AC9DFFB85", 152, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "594 - Telephone", "1808838.00", "Expenditure" ]
+, [ 153, "7D6F89C6-1C29-42B9-ADAB-324B96ED745F", 153, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "595 - Utilities", "6186000.00", "Expenditure" ]
+, [ 154, "C739B558-DF37-452F-BA4A-B5BAD80AB254", 154, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "596 - Claims & Settlements", "8300000.00", "Expenditure" ]
+, [ 155, "610E7F77-8EC0-423D-BFBD-A5A19CE1ADFE", 155, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "597 - Taxes, Assessments, & Fees", "579653.00", "Expenditure" ]
+, [ 156, "6CF11BD5-C049-4618-A9E3-1922309F1654", 156, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "599 - Other Operating Expense", "8587050.00", "Expenditure" ]
+, [ 157, "DF3726FA-2F28-412E-B02C-D68B80F49745", 157, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "820 - Interest Expense - Notes", "39560.00", "Other" ]
+, [ 158, "4E1299BD-7798-4AAB-AA41-BCBCB8DC3269", 158, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "830 - Interest Expense - Bonds", "2169877.00", "Debt Service" ]
+, [ 159, "F1DFB21E-6105-4C91-BF4A-06403B65615C", 159, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "831 - Interest Expense - Commercial Paper", "1200000.00", "Debt Service" ]
+, [ 160, "D74B2BCA-572A-4CF7-9355-8856DB3D477D", 160, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "890 - Other Non-Operating Expense", "25195678.00", "Other" ]
+, [ 161, "84210F72-CFBA-4DAF-BCDF-76D5516F6BAC", 161, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "Capitalized & Allocated Expenditures", "10466626.00", "Other" ]
+, [ 162, "E7F98DF5-16C1-4E06-918A-2835C27CBC20", 162, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "Debt Service from CIP", "35891568.00", "Debt Service" ]
+, [ 163, "38F60C37-7943-4240-B68C-423D22111E31", 163, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "Equipment Purchases", "8611532.00", "Equipment" ]
+, [ 164, "D0B1BF49-929A-46A7-BBCC-20004DD23A49", 164, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "Construction and Capital Improvements", "285705381.00", "Other" ]
+, [ 165, "C07BC73C-694D-4F79-BED1-E6826D65311A", 165, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "New Debt Issuance", "-70000000.00", "Other" ]
+, [ 166, "BAF085B3-9550-46F8-B4AF-A63DD953EC2D", 166, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "Restricted Cash", "148196259.00", "Reserve" ]
+, [ 167, "358C55A9-0502-4BB7-B0A9-4EA68DA0C897", 167, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "Unappropriated Balance/Carried Forward", "260334281.00", "Unappropriated Balance" ]
+, [ 168, "C524BA36-DBC6-4A84-85BE-8A310A368008", 168, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "Balance Sheet Transactions I", "49916004.00", "Debt Service" ]
+, [ 169, "B86FA390-30A3-403D-AA26-30B18F1FED48", 169, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "Balance Sheet Transactions II", "-48663222.00", "Other" ]
+, [ 170, "B73D2021-E28B-4507-9B59-037D5630923A", 170, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY13", "Future Commitments", "32016231.00", "Other" ]
+, [ 171, "962AEAAA-83F0-4E86-8B82-D9F3D7512B8B", 171, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "510 - Salaries - Regular", "62874280.00", "Salaries" ]
+, [ 172, "A38E77B2-48E7-4BAD-AB72-BAF7EC69DD1B", 172, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "511 - Salaries - Overtime", "4519335.00", "Salaries" ]
+, [ 173, "00032D44-C746-4BBB-9FFF-42814FC66458", 173, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "516 - Employee Benefits", "42733426.00", "Benefits" ]
+, [ 174, "C53DA7C4-6C34-4837-86AA-9BF0EB23B10D", 174, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "517 - Paid Employee Benefits", "1985878.00", "Benefits" ]
+, [ 175, "7C1CC4A9-5E2A-420F-AE44-DD57C362FD8E", 175, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "520 - Advertising & Public Relations", "3290315.00", "Expenditure" ]
+, [ 176, "F787BE80-26E3-451D-B386-37ADF3C1FE37", 176, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "521 - Domestic Trade Rep.", "85000.00", "Expenditure" ]
+, [ 177, "FC681E53-6E07-44D3-903C-B61F8AF9DE4D", 177, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "522 - Foreign Trade Rep.", "459000.00", "Expenditure" ]
+, [ 178, "6C8E4416-0447-4B4A-B6B8-0A632125AF0D", 178, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "530 - Domestic Travel", "432727.00", "Expenditure" ]
+, [ 179, "93384F7B-38B1-4810-8901-53012A43E1F8", 179, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "531 - Foreign Travel", "444650.00", "Expenditure" ]
+, [ 180, "F3286DEE-2DB9-4190-96A4-CC9AE7D3A01E", 180, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "532 - Local Travel", "85775.00", "Expenditure" ]
+, [ 181, "D8975758-03E8-42B5-B8F4-2BE63007D77E", 181, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "540 - Maintenance Services", "6459322.00", "Expenditure" ]
+, [ 182, "18ACE015-2054-4384-A1F9-A406BFEC0340", 182, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "541 - Office Equipment Maintenance Services", "2969806.00", "Expenditure" ]
+, [ 183, "400EABE2-0FD1-4193-86DB-A4EC0B38B8D7", 183, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "542 - Misc. Professional Services", "21350946.00", "Expenditure" ]
+, [ 184, "5EADC701-4379-49E9-A0D9-D692AC345533", 184, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "543 - Data Processing Services", "2348250.00", "Expenditure" ]
+, [ 185, "931248FF-0CB0-450D-B5C1-B464B0F9F49D", 185, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "544 - Financial Services", "1926191.00", "Expenditure" ]
+, [ 186, "B4923367-C108-41F4-ADD1-6346ECB6CC62", 186, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "550 - Maintenance & Other Supplies", "4701554.00", "Expenditure" ]
+, [ 187, "3F1B9A0F-3777-4D68-96AE-02EE727C9F53", 187, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "551 - Admin. & Oper. Supplies", "2688763.00", "Expenditure" ]
+, [ 188, "54713D54-6584-4E42-9282-036325B1AA5A", 188, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "570 - City Services", "36245805.00", "Expenditure" ]
+, [ 189, "49BB454C-6AE0-4C9D-8F1F-EB63333AB638", 189, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "580 - Allocations", "-12235019.00", "Expenditure" ]
+, [ 190, "6DF50B8D-10BF-4BF9-AB7B-C38483263BA1", 190, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "590 - Equipment Rental - Maintenance", "493250.00", "Expenditure" ]
+, [ 191, "44FFAFBE-D15C-412F-A99D-81FDAC62D45D", 191, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "591 - Equipment Rental - Non-Maintenance", "104740.00", "Expenditure" ]
+, [ 192, "7EFEFD96-E719-408E-90FD-73A891D39229", 192, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "592 - Memberships & Subscriptions", "677094.00", "Expenditure" ]
+, [ 193, "E0AFC35D-660A-4FB0-AFBF-B7E1342DB578", 193, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "593 - Insurance", "3680000.00", "Expenditure" ]
+, [ 194, "38FCEA3A-5E3F-4AF6-8C33-5F49E69180D4", 194, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "594 - Telephone", "1818070.00", "Expenditure" ]
+, [ 195, "2A8FA5A3-3F1F-44DD-A2D8-C89E01EC7D4A", 195, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "595 - Utilities", "8121000.00", "Expenditure" ]
+, [ 196, "B3FCCADA-0FF5-4EDF-B517-A47AC8AACFA7", 196, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "596 - Claims & Settlements", "2350000.00", "Expenditure" ]
+, [ 197, "188B77B5-B01B-4DB2-BC4F-151828A6A217", 197, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "597 - Taxes, assessments, & Fees", "684769.00", "Expenditure" ]
+, [ 198, "CDFD21C5-A091-482B-B171-D4E4CC4A8455", 198, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "599 - Other Operating Expense", "7790550.00", "Expenditure" ]
+, [ 199, "814C8892-8935-41EB-8FAE-22CEB8AD4998", 199, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "830 - Interest Expense - Bonds", "9221109.00", "Debt Service" ]
+, [ 200, "13F55A18-DFC0-4A03-AF20-4AEB18BC7458", 200, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "831 - Interest Expense - Commercial Paper", "550000.00", "Debt Service" ]
+, [ 201, "0D81C6BA-2622-4F0B-9667-10A05FF3072B", 201, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "890 - Other Non-Operating Expense", "7830221.00", "Other" ]
+, [ 202, "21CA80BA-C8AD-4B85-A440-EABFD3BBBE8C", 202, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "Capitalized & Allocated Expenditures", "13646645.00", "Other" ]
+, [ 203, "392DE68C-91AA-43D8-B8C4-07F8510DA186", 203, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "Debt Service from CIP", "28540683.00", "Debt Service" ]
+, [ 204, "D46390EF-FE3C-4FB3-8E47-9CD89EA8FB0A", 204, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "Equipment Purchases", "9817304.00", "Equipment" ]
+, [ 205, "975AA921-F4C8-40B7-A031-1449CF60DF3D", 205, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "Construction and Capital Improvements", "399913430.00", "Other" ]
+, [ 206, "6AF2C9C7-C7F8-4EDA-9C05-F20967E70E9D", 206, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "Debt Repayments", "26235000.00", "Debt Service" ]
+, [ 207, "8C049590-9675-41F9-B986-DDF7C54117DF", 207, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "Restricted Cash", "98085765.00", "Reserve" ]
+, [ 208, "DB2C90FC-5FBC-4AFE-95DA-4C23725E6543", 208, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "Unappropriated Balance/Carried Forward", "236173540.00", "Unappropriated Balance" ]
+, [ 209, "6E2C0BFF-A571-4662-8F2F-E600CC1A1436", 209, 1398184208, "790731", 1398184208, "790731", "{\n}", "FY14", "Future Commitments", "32015000.00", "Other" ]
+ ]
+}

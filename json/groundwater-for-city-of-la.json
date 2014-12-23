@@ -1,0 +1,219 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "r799-9mdt",
+      "name" : "Groundwater for City of LA",
+      "attribution" : "LADWP",
+      "averageRating" : 0,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1400881134,
+      "description" : "DWP Water Supply from Local Groundwater",
+      "displayType" : "table",
+      "downloadCount" : 2,
+      "indexUpdatedAt" : 1414612794,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8059987,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1400882074,
+      "publicationGroup" : 1593078,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1400882040,
+      "rowsUpdatedBy" : "7q7s-tyf3",
+      "tableId" : 1593103,
+      "totalTimesRated" : 0,
+      "viewCount" : 32,
+      "viewLastModified" : 1401233631,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 149726263,
+        "name" : "FY",
+        "dataTypeName" : "text",
+        "fieldName" : "fy",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19909000,
+        "width" : 124,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "2008-09",
+          "null" : 0,
+          "largest" : "2012-13",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2008-09"
+          }, {
+            "count" : 19,
+            "item" : "2009-10"
+          }, {
+            "count" : 18,
+            "item" : "2010-11"
+          }, {
+            "count" : 17,
+            "item" : "2011-12"
+          }, {
+            "count" : 16,
+            "item" : "2012-13"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149726264,
+        "name" : "Acre Feet",
+        "dataTypeName" : "text",
+        "fieldName" : "acre_feet",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19909001,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "49,354",
+          "null" : 0,
+          "largest" : "76,982",
+          "top" : [ {
+            "count" : 20,
+            "item" : "61,619"
+          }, {
+            "count" : 19,
+            "item" : "76,982"
+          }, {
+            "count" : 18,
+            "item" : "49,354"
+          }, {
+            "count" : 17,
+            "item" : "61,060"
+          }, {
+            "count" : 16,
+            "item" : "57,246"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "LADWP"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "hb8e-gdsp",
+        "displayName" : "LA DWP OpenData",
+        "profileImageUrlLarge" : "/images/profile/5225/6660/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5225/6660/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5225/6660/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LA DWP OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "7q7s-tyf3",
+        "displayName" : "Steve Baule",
+        "roleName" : "editor",
+        "screenName" : "Steve Baule",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "groundwater", "local" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "6F5C2599-61A3-40C4-8912-32347F44AEBC", 1, 1400881136, "877550", 1400881626, "877550", null, "2008-09", "61,619" ]
+, [ 2, "06AD12FC-6CC6-429F-AEB1-ECE9792F3A06", 2, 1400881136, "877550", 1400881633, "877550", null, "2009-10", "76,982" ]
+, [ 3, "33DF8C3B-19AF-4AAB-BA37-A3974822E242", 3, 1400881136, "877550", 1400881642, "877550", null, "2010-11", "49,354" ]
+, [ 4, "D2F024CA-C62A-4E85-8F1E-7649047D1486", 4, 1400881136, "877550", 1400881647, "877550", null, "2011-12", "61,060" ]
+, [ 5, "3C75B841-24ED-4CFB-870F-6CA04381E74B", 5, 1400881136, "877550", 1400881662, "877550", null, "2012-13", "57,246" ]
+ ]
+}

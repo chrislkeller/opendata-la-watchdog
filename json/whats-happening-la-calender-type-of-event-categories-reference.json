@@ -1,0 +1,279 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "si79-fpzd",
+      "name" : "What's Happening LA Calender - Type of Event Categories - Reference",
+      "attribution" : "individual",
+      "averageRating" : 0,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1399047930,
+      "description" : "Reference data set for type of event",
+      "displayType" : "table",
+      "downloadCount" : 13,
+      "indexUpdatedAt" : 1414615283,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8099660,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401397513,
+      "publicationGroup" : 1567312,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1401397471,
+      "rowsUpdatedBy" : "ujkb-kbnj",
+      "tableId" : 1599128,
+      "totalTimesRated" : 0,
+      "viewCount" : 112,
+      "viewLastModified" : 1401397513,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150458571,
+        "name" : "Type of Event",
+        "dataTypeName" : "text",
+        "fieldName" : "type_of_event",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19519194,
+        "width" : 256,
+        "cachedContents" : {
+          "non_null" : 34,
+          "smallest" : "Business",
+          "null" : 1,
+          "largest" : "Volunteerism",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Business"
+          }, {
+            "count" : 19,
+            "item" : "Conference"
+          }, {
+            "count" : 18,
+            "item" : "Consumer Show"
+          }, {
+            "count" : 17,
+            "item" : "Convention / Expo"
+          }, {
+            "count" : 16,
+            "item" : "Dinner / Banquet"
+          }, {
+            "count" : 15,
+            "item" : "Education"
+          }, {
+            "count" : 14,
+            "item" : "Fair"
+          }, {
+            "count" : 13,
+            "item" : "Filming"
+          }, {
+            "count" : 12,
+            "item" : "Hackathon"
+          }, {
+            "count" : 11,
+            "item" : "Health"
+          }, {
+            "count" : 10,
+            "item" : "International Event"
+          }, {
+            "count" : 9,
+            "item" : "Jobs"
+          }, {
+            "count" : 8,
+            "item" : "Library"
+          }, {
+            "count" : 7,
+            "item" : "March / Demonstration"
+          }, {
+            "count" : 6,
+            "item" : "Meeting - Board"
+          }, {
+            "count" : 5,
+            "item" : "Meeting - General"
+          }, {
+            "count" : 4,
+            "item" : "Meetup"
+          }, {
+            "count" : 3,
+            "item" : "Neighborhood Council"
+          }, {
+            "count" : 2,
+            "item" : "Networking Event"
+          }, {
+            "count" : 1,
+            "item" : "Party"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Information Technology"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "jsonQuery" : {
+          "order" : [ {
+            "ascending" : true,
+            "columnFieldName" : "type_of_event"
+          } ]
+        },
+        "rdfSubject" : "0"
+      },
+      "owner" : {
+        "id" : "yb4r-dcys",
+        "displayName" : "ITA OpenData",
+        "profileImageUrlLarge" : "/images/profile/9462/4839/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9462/4839/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9462/4839/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "ITA OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+        "orderBys" : [ {
+          "ascending" : true,
+          "expression" : {
+            "columnId" : 150458571,
+            "type" : "column"
+          }
+        } ]
+      },
+      "rights" : [ "read" ],
+      "sortBys" : [ {
+        "id" : 0,
+        "viewColumnId" : 150458571,
+        "flags" : [ "asc" ]
+      } ],
+      "tableAuthor" : {
+        "id" : "yb4r-dcys",
+        "displayName" : "ITA OpenData",
+        "profileImageUrlLarge" : "/images/profile/9462/4839/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9462/4839/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9462/4839/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "ITA OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "citywide calendar", "what's happening", "type of event", "event" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 2, "D40C4509-7D73-4A5A-8FC2-D0650A2BA0CC", 2, 1399047932, "862831", 1399047932, "862831", "{\n}", "Business" ]
+, [ 3, "C679669B-DD96-4D84-8B95-D4E020F8763D", 3, 1399047932, "862831", 1399047932, "862831", "{\n}", "Conference" ]
+, [ 4, "6F3326A5-C076-4934-BE0D-5A40DFE7FD50", 4, 1399047932, "862831", 1399047932, "862831", "{\n}", "Consumer Show" ]
+, [ 5, "62EEECF5-A11F-43B1-B546-07E80449D666", 5, 1399047932, "862831", 1399047932, "862831", "{\n}", "Convention / Expo" ]
+, [ 34, "340B2A87-069B-472B-8014-866CA5662FB4", 34, 1399047932, "862831", 1399591436, "862831", null, "Dedication" ]
+, [ 6, "2DD5D46F-0DFA-4D17-9D04-3FFA121A5BDD", 6, 1399047932, "862831", 1399047932, "862831", "{\n}", "Dinner / Banquet" ]
+, [ 7, "05EBE20C-313D-4DD0-99DC-9A5827FC7DE2", 7, 1399047932, "862831", 1399047932, "862831", "{\n}", "Education" ]
+, [ 8, "FBB60904-7FFB-4638-9A7C-472DA5816AD8", 8, 1399047932, "862831", 1399047932, "862831", "{\n}", "Fair" ]
+, [ 9, "2560B12D-2B5C-4B85-8110-A47180E75B49", 9, 1399047932, "862831", 1399047932, "862831", "{\n}", "Filming" ]
+, [ 32, "2AF2DB2B-DA89-4512-A38D-C1CC6C6464A4", 32, 1399047932, "862831", 1399591425, "862831", null, "Grand Opening" ]
+, [ 31, "63F1B47C-BDA3-43D9-9BFD-61EE94D4F52A", 31, 1399047932, "862831", 1399047932, "862831", "{\n}", "Great Streets" ]
+, [ 33, "2850F6B1-CADB-40AE-BE54-6F3D79734DBE", 33, 1399047932, "862831", 1399591432, "862831", null, "Groundbreaking" ]
+, [ 10, "C786886D-7FFA-42A8-950D-5132C2C9D943", 10, 1399047932, "862831", 1399047932, "862831", "{\n}", "Hackathon" ]
+, [ 11, "65CE4A53-3932-48BA-90C3-D3838FAA5BCC", 11, 1399047932, "862831", 1399047932, "862831", "{\n}", "Health" ]
+, [ 12, "9AAB351D-B560-4E29-A2BF-66B39C2868D9", 12, 1399047932, "862831", 1399047932, "862831", "{\n}", "International Event" ]
+, [ 13, "0877C758-AE97-438D-999D-CC6706F83B5D", 13, 1399047932, "862831", 1399047932, "862831", "{\n}", "Jobs" ]
+, [ 14, "A3B00DD4-CC8D-4CF3-A562-3CBC20E62F96", 14, 1399047932, "862831", 1399047932, "862831", "{\n}", "Library" ]
+, [ 15, "A63619F8-7B97-45CA-A09A-E7D65600EC32", 15, 1399047932, "862831", 1399047932, "862831", "{\n}", "March / Demonstration" ]
+, [ 16, "D502DC30-0126-4CC4-AA23-461BEFE949AE", 16, 1399047932, "862831", 1399047932, "862831", "{\n}", "Meeting - Board" ]
+, [ 36, "EF5799F4-0586-4A01-84BE-385B401D830D", 36, 1399047932, "862831", 1400517217, "862831", null, "Meeting - Council" ]
+, [ 17, "BC014331-1650-4E0F-9CEE-F46D7F035636", 17, 1399047932, "862831", 1399047932, "862831", "{\n}", "Meeting - General" ]
+, [ 18, "BE7DABE1-3C21-4341-964E-124569CCC49E", 18, 1399047932, "862831", 1399047932, "862831", "{\n}", "Meetup" ]
+, [ 19, "A1B46E17-0009-467A-946D-B2C1870E2D8F", 19, 1399047932, "862831", 1399047932, "862831", "{\n}", "Neighborhood Council" ]
+, [ 20, "4F02CF7B-90E1-4F07-BE63-AFB275EF00F4", 20, 1399047932, "862831", 1399047932, "862831", "{\n}", "Networking Event" ]
+, [ 21, "C85CF64E-FA09-4A00-B849-AF096057BF35", 21, 1399047932, "862831", 1399047932, "862831", "{\n}", "Party" ]
+, [ 22, "DBD8A7FC-8CFC-460E-8FD9-2E95DAD8C537", 22, 1399047932, "862831", 1399047932, "862831", "{\n}", "Press Conference" ]
+, [ 23, "8D70BEEC-0699-4DAE-ADAB-C9215DEAF569", 23, 1399047932, "862831", 1399047932, "862831", "{\n}", "Public Safety - Emergency" ]
+, [ 24, "3F3ABC60-78A2-4099-BDBE-D25AB1BD1F8A", 24, 1399047932, "862831", 1399047932, "862831", "{\n}", "Public Safety - Fire" ]
+, [ 25, "F5BDA167-4D91-4DA0-BE30-34D578BCE189", 25, 1399047932, "862831", 1399047932, "862831", "{\n}", "Public Safety - Police" ]
+, [ 26, "64DDE6E5-7BA1-46CF-84CF-FF6491EA6AFD", 26, 1399047932, "862831", 1399047932, "862831", "{\n}", "Reception" ]
+, [ 27, "20DB49E5-6D29-4EE2-843A-E799130C5713", 27, 1399047932, "862831", 1399047932, "862831", "{\n}", "Seminar / Workshop" ]
+, [ 28, "47B85F52-EC50-4143-8B0F-3E30F301E023", 28, 1399047932, "862831", 1399047932, "862831", "{\n}", "Symposium" ]
+, [ 29, "17710EC1-AC37-4801-8DA7-1755FF74C51A", 29, 1399047932, "862831", 1399047932, "862831", "{\n}", "Trade Show" ]
+, [ 30, "1DD11789-70A9-4CAC-8133-645CE7C73F7E", 30, 1399047932, "862831", 1399047932, "862831", "{\n}", "Volunteerism" ]
+, [ 35, "6377F85B-112E-4B82-B403-90B4D111173D", 35, 1399047932, "862831", 1399047932, "862831", "{\n}", null ]
+ ]
+}

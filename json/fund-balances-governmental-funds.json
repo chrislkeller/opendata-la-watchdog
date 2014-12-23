@@ -1,0 +1,417 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "48bu-rwwa",
+      "name" : "Fund Balances - Governmental Funds",
+      "attribution" : "Controller",
+      "attributionLink" : "http://controller.lacity.org/stellent/groups/ElectedOfficials/@CTR_Contributor/documents/Contributor_Web_Content/LACITYP_027750.pdf#page=380",
+      "averageRating" : 0,
+      "category" : "Audits and Reports",
+      "createdAt" : 1390248975,
+      "description" : "CAFR Pages 338-339.\r\n\r\nThis data set shows the balance of Governmental Funds by Fiscal Year, Fund Type and Fund Restriction. A Fund is a fiscal entity with revenues and expenditures that are segregated for carrying out a specific purpose or activity. This data is based on the following parameters: Accrual Basis of Accounting, Last Ten Fiscal Years and (amounts expressed in thousands).",
+      "displayType" : "table",
+      "downloadCount" : 69,
+      "indexUpdatedAt" : 1414612999,
+      "licenseId" : "PUBLIC_DOMAIN",
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 7327880,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1392068517,
+      "publicationGroup" : 1447657,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1392068382,
+      "rowsUpdatedBy" : "7c7a-resi",
+      "tableId" : 1472307,
+      "totalTimesRated" : 0,
+      "viewCount" : 96,
+      "viewLastModified" : 1410242135,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 132778310,
+        "name" : "Fiscal Year",
+        "dataTypeName" : "number",
+        "fieldName" : "fiscal_year",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17691399,
+        "width" : 93,
+        "cachedContents" : {
+          "non_null" : 70,
+          "smallest" : "2004",
+          "sum" : "140595",
+          "null" : 0,
+          "average" : "2008.5",
+          "largest" : "2013",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2004"
+          }, {
+            "count" : 19,
+            "item" : "2005"
+          }, {
+            "count" : 18,
+            "item" : "2006"
+          }, {
+            "count" : 17,
+            "item" : "2007"
+          }, {
+            "count" : 16,
+            "item" : "2008"
+          }, {
+            "count" : 15,
+            "item" : "2009"
+          }, {
+            "count" : 14,
+            "item" : "2010"
+          }, {
+            "count" : 13,
+            "item" : "2011"
+          }, {
+            "count" : 12,
+            "item" : "2012"
+          }, {
+            "count" : 11,
+            "item" : "2013"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "true",
+          "align" : "right"
+        }
+      }, {
+        "id" : 132778311,
+        "name" : "Fund Type",
+        "dataTypeName" : "text",
+        "fieldName" : "fund_type",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17691400,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 70,
+          "smallest" : "All Other Governmental Funds",
+          "null" : 0,
+          "largest" : "General Fund",
+          "top" : [ {
+            "count" : 20,
+            "item" : "General Fund"
+          }, {
+            "count" : 19,
+            "item" : "All Other Governmental Funds"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 132778312,
+        "name" : "Restriction",
+        "dataTypeName" : "text",
+        "fieldName" : "restriction",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17691401,
+        "width" : 161,
+        "cachedContents" : {
+          "non_null" : 70,
+          "smallest" : "Assigned",
+          "null" : 0,
+          "largest" : "Unassigned",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Nonspendable"
+          }, {
+            "count" : 19,
+            "item" : "Assigned"
+          }, {
+            "count" : 18,
+            "item" : "Unassigned"
+          }, {
+            "count" : 17,
+            "item" : "Restricted"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 132778313,
+        "name" : "Amount in Thousands",
+        "dataTypeName" : "number",
+        "fieldName" : "amount_in_thousands",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17691402,
+        "width" : 118,
+        "cachedContents" : {
+          "non_null" : 70,
+          "smallest" : "-26112",
+          "sum" : "36451024",
+          "null" : 0,
+          "average" : "520728.9142857143",
+          "largest" : "2813386",
+          "top" : [ {
+            "count" : 20,
+            "item" : "712"
+          }, {
+            "count" : 19,
+            "item" : "29771"
+          }, {
+            "count" : 18,
+            "item" : "182835"
+          }, {
+            "count" : 17,
+            "item" : "224574"
+          }, {
+            "count" : 16,
+            "item" : "97785"
+          }, {
+            "count" : 15,
+            "item" : "2084310"
+          }, {
+            "count" : 14,
+            "item" : "838014"
+          }, {
+            "count" : 13,
+            "item" : "-789"
+          }, {
+            "count" : 12,
+            "item" : "26299"
+          }, {
+            "count" : 11,
+            "item" : "239877"
+          }, {
+            "count" : 10,
+            "item" : "253882"
+          }, {
+            "count" : 9,
+            "item" : "104175"
+          }, {
+            "count" : 8,
+            "item" : "2447798"
+          }, {
+            "count" : 7,
+            "item" : "512650"
+          }, {
+            "count" : 6,
+            "item" : "-1299"
+          }, {
+            "count" : 5,
+            "item" : "31134"
+          }, {
+            "count" : 4,
+            "item" : "267645"
+          }, {
+            "count" : 3,
+            "item" : "272905"
+          }, {
+            "count" : 2,
+            "item" : "82397"
+          }, {
+            "count" : 1,
+            "item" : "2548980"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Public Domain"
+      },
+      "metadata" : {
+        "custom_fields" : {
+          "Department" : {
+            "Division" : "GAAP",
+            "Department" : "Controller",
+            "System" : "CAFR"
+          },
+          "Update Information" : {
+            "Update Cycle" : "Annual"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "7c7a-resi",
+        "displayName" : "Controller's Office",
+        "roleName" : "administrator",
+        "screenName" : "Controller's Office",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "7c7a-resi",
+        "displayName" : "Controller's Office",
+        "roleName" : "administrator",
+        "screenName" : "Controller's Office",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "tags" : [ "revenue", "expenditures", "city of los angeles", "city of los angeles controller", "city of la", "city of la controller", "ron galperin", "comprehensive annual financial report", "cafr", "net position", "asset type", "asset type group", "activity type", "cafr statistical section" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "CD2BF6E6-97BD-43D0-81D6-1AA422F3202A", 1, 1390248977, "862121", 1390248977, "862121", "{\n}", "2004", "General Fund", "Nonspendable", "36410" ]
+, [ 2, "D9D32B1A-F287-4FC2-9E35-0CF14B33BC91", 2, 1390248977, "862121", 1390248977, "862121", "{\n}", "2004", "General Fund", "Assigned", "301587" ]
+, [ 3, "62A4324B-464A-4E11-99BA-9F12CC3888F6", 3, 1390248977, "862121", 1390248977, "862121", "{\n}", "2004", "General Fund", "Unassigned", "291608" ]
+, [ 4, "9B1DB2FA-ED3A-4664-867D-9E296CC7B622", 4, 1390248977, "862121", 1390248977, "862121", "{\n}", "2004", "All Other Governmental Funds", "Nonspendable", "10675" ]
+, [ 5, "A2C627F2-FC41-4B58-8CF0-BBF3481C92C3", 5, 1390248977, "862121", 1390248977, "862121", "{\n}", "2004", "All Other Governmental Funds", "Restricted", "1994829" ]
+, [ 6, "9D043746-821A-4FC2-8306-A99569C9C460", 6, 1390248977, "862121", 1390248977, "862121", "{\n}", "2004", "All Other Governmental Funds", "Assigned", "643707" ]
+, [ 7, "0AED853D-9F81-4612-B34C-C056C68C5D76", 7, 1390248977, "862121", 1390248977, "862121", "{\n}", "2004", "All Other Governmental Funds", "Unassigned", "-11145" ]
+, [ 8, "A7F5B35C-6C09-4420-8F77-1A0ECCA59CED", 8, 1390248977, "862121", 1390248977, "862121", "{\n}", "2005", "General Fund", "Nonspendable", "43665" ]
+, [ 9, "C0252DBE-6F0B-44B2-9AD0-B4357B384DBC", 9, 1390248977, "862121", 1390248977, "862121", "{\n}", "2005", "General Fund", "Assigned", "284058" ]
+, [ 10, "4AB97A40-3D31-400F-9544-19AC2B680C45", 10, 1390248977, "862121", 1390248977, "862121", "{\n}", "2005", "General Fund", "Unassigned", "481868" ]
+, [ 11, "5B17B4B9-516B-446E-A337-331AB4128A7A", 11, 1390248977, "862121", 1390248977, "862121", "{\n}", "2005", "All Other Governmental Funds", "Nonspendable", "10772" ]
+, [ 12, "C5AAFA68-04AC-400B-98E0-B81DA816F786", 12, 1390248977, "862121", 1390248977, "862121", "{\n}", "2005", "All Other Governmental Funds", "Restricted", "2258928" ]
+, [ 13, "2F30F207-B8DB-487A-8332-DFDE6F5FACA2", 13, 1390248977, "862121", 1390248977, "862121", "{\n}", "2005", "All Other Governmental Funds", "Assigned", "584112" ]
+, [ 14, "162FAB89-45E0-4B57-92C0-8C5AF2046F57", 14, 1390248977, "862121", 1390248977, "862121", "{\n}", "2005", "All Other Governmental Funds", "Unassigned", "-9763" ]
+, [ 15, "B452FFE8-5B25-4130-8176-C5D2E1B1859F", 15, 1390248977, "862121", 1390248977, "862121", "{\n}", "2006", "General Fund", "Nonspendable", "41449" ]
+, [ 16, "93880917-C02E-49AC-91E5-1E58C379BE7E", 16, 1390248977, "862121", 1390248977, "862121", "{\n}", "2006", "General Fund", "Assigned", "296999" ]
+, [ 17, "13E49599-D1D6-46D1-9182-478CBD735D28", 17, 1390248977, "862121", 1390248977, "862121", "{\n}", "2006", "General Fund", "Unassigned", "446942" ]
+, [ 18, "1B7F9135-A99E-43F4-AC64-A3AC36DBCA82", 18, 1390248977, "862121", 1390248977, "862121", "{\n}", "2006", "All Other Governmental Funds", "Nonspendable", "18073" ]
+, [ 19, "F3D23E64-3F8E-425C-B329-7AE5174DD4F7", 19, 1390248977, "862121", 1390248977, "862121", "{\n}", "2006", "All Other Governmental Funds", "Restricted", "2190243" ]
+, [ 20, "5A34BFA9-6EF0-4B12-A521-9E719626DFA4", 20, 1390248977, "862121", 1390248977, "862121", "{\n}", "2006", "All Other Governmental Funds", "Assigned", "711750" ]
+, [ 21, "BAEEDDC5-E206-430C-B0C2-64504CDA0FBB", 21, 1390248977, "862121", 1390248977, "862121", "{\n}", "2006", "All Other Governmental Funds", "Unassigned", "-8874" ]
+, [ 22, "1FC4D0A4-A49E-4C28-A0D0-50B34840D756", 22, 1390248977, "862121", 1390248977, "862121", "{\n}", "2007", "General Fund", "Nonspendable", "59638" ]
+, [ 23, "AB73771E-35BF-4432-AFED-D192CF6ABF86", 23, 1390248977, "862121", 1390248977, "862121", "{\n}", "2007", "General Fund", "Assigned", "391023" ]
+, [ 24, "D36B5CAF-31C5-4989-82A0-E15C50FE5C11", 24, 1390248977, "862121", 1390248977, "862121", "{\n}", "2007", "General Fund", "Unassigned", "257249" ]
+, [ 25, "71DD4828-5C0E-49F3-B952-63AA18FA7971", 25, 1390248977, "862121", 1390248977, "862121", "{\n}", "2007", "All Other Governmental Funds", "Nonspendable", "98568" ]
+, [ 26, "E86419BA-1FF1-4DE1-A4E7-FB74901194B5", 26, 1390248977, "862121", 1390248977, "862121", "{\n}", "2007", "All Other Governmental Funds", "Restricted", "2138184" ]
+, [ 27, "314A937D-C5DB-4136-A4B9-5F301BD1AF22", 27, 1390248977, "862121", 1390248977, "862121", "{\n}", "2007", "All Other Governmental Funds", "Assigned", "1011697" ]
+, [ 28, "86520110-2EF0-4322-846C-5591A063FF1B", 28, 1390248977, "862121", 1390248977, "862121", "{\n}", "2007", "All Other Governmental Funds", "Unassigned", "-1990" ]
+, [ 29, "9744B165-8DD1-4752-911E-BB7B7C4370E8", 29, 1390248977, "862121", 1390248977, "862121", "{\n}", "2008", "General Fund", "Nonspendable", "30304" ]
+, [ 30, "8E5DDE9A-B696-4B91-BCD7-DC56497FDBA7", 30, 1390248977, "862121", 1390248977, "862121", "{\n}", "2008", "General Fund", "Assigned", "352416" ]
+, [ 31, "A172664A-1F3E-4DFB-874C-E96A3CD9BFB4", 31, 1390248977, "862121", 1390248977, "862121", "{\n}", "2008", "General Fund", "Unassigned", "215227" ]
+, [ 32, "D7955743-1127-40FB-A80E-C81C0DAB5321", 32, 1390248977, "862121", 1390248977, "862121", "{\n}", "2008", "All Other Governmental Funds", "Nonspendable", "97966" ]
+, [ 33, "AF2D1E93-DBB6-40EF-B0D6-04461448B129", 33, 1390248977, "862121", 1390248977, "862121", "{\n}", "2008", "All Other Governmental Funds", "Restricted", "1912230" ]
+, [ 34, "96E7CDE9-191C-4823-ACBF-D8BC8F458ECA", 34, 1390248977, "862121", 1390248977, "862121", "{\n}", "2008", "All Other Governmental Funds", "Assigned", "948735" ]
+, [ 35, "09A43E2B-7169-4DCF-8F93-EC5B6AE02DE0", 35, 1390248977, "862121", 1390248977, "862121", "{\n}", "2008", "All Other Governmental Funds", "Unassigned", "-2473" ]
+, [ 36, "CC6ADA0E-CC83-43C2-A896-407608BECD17", 36, 1390248977, "862121", 1390248977, "862121", "{\n}", "2009", "General Fund", "Nonspendable", "27879" ]
+, [ 37, "91522404-E03E-4D18-AF4B-F9ED83E32409", 37, 1390248977, "862121", 1390248977, "862121", "{\n}", "2009", "General Fund", "Assigned", "233761" ]
+, [ 38, "9196A44C-301E-4C23-A6D9-ED00BC804819", 38, 1390248977, "862121", 1390248977, "862121", "{\n}", "2009", "General Fund", "Unassigned", "221811" ]
+, [ 39, "46444F6B-FFD3-42FB-9849-F8841A8A26C5", 39, 1390248977, "862121", 1390248977, "862121", "{\n}", "2009", "All Other Governmental Funds", "Nonspendable", "98048" ]
+, [ 40, "5236BB1A-ED38-4FF2-A63E-8E5DECA6618E", 40, 1390248977, "862121", 1390248977, "862121", "{\n}", "2009", "All Other Governmental Funds", "Restricted", "1942596" ]
+, [ 41, "CA00E38A-4939-4EE7-B152-7FD8DCA0FAB3", 41, 1390248977, "862121", 1390248977, "862121", "{\n}", "2009", "All Other Governmental Funds", "Assigned", "743720" ]
+, [ 42, "0B26F5E7-B8AE-4CAB-8307-2FD0F14CACB7", 42, 1390248977, "862121", 1390248977, "862121", "{\n}", "2009", "All Other Governmental Funds", "Unassigned", "712" ]
+, [ 43, "2723502E-4577-45FD-9D2D-8B4FD4A0B4B2", 43, 1390248977, "862121", 1390248977, "862121", "{\n}", "2010", "General Fund", "Nonspendable", "29771" ]
+, [ 44, "A26152A2-9515-4686-919A-385512588F9A", 44, 1390248977, "862121", 1390248977, "862121", "{\n}", "2010", "General Fund", "Assigned", "182835" ]
+, [ 45, "61723B32-8DB6-410B-8D70-807F0F958564", 45, 1390248977, "862121", 1390248977, "862121", "{\n}", "2010", "General Fund", "Unassigned", "224574" ]
+, [ 46, "AF5EB627-226E-4300-A55E-487EF1304684", 46, 1390248977, "862121", 1390248977, "862121", "{\n}", "2010", "All Other Governmental Funds", "Nonspendable", "97785" ]
+, [ 47, "26E4E2AB-77AB-4376-9D31-4F669574F81A", 47, 1390248977, "862121", 1390248977, "862121", "{\n}", "2010", "All Other Governmental Funds", "Restricted", "2084310" ]
+, [ 48, "5AD939E6-DC09-451F-BA34-9F8FD9ABAF68", 48, 1390248977, "862121", 1390248977, "862121", "{\n}", "2010", "All Other Governmental Funds", "Assigned", "838014" ]
+, [ 49, "1A2A3701-1104-4DA1-94C1-D0E6B937930B", 49, 1390248977, "862121", 1390248977, "862121", "{\n}", "2010", "All Other Governmental Funds", "Unassigned", "-789" ]
+, [ 50, "91DA763F-21E6-44C1-9AB1-49E52F725A3D", 50, 1390248977, "862121", 1390248977, "862121", "{\n}", "2011", "General Fund", "Nonspendable", "26299" ]
+, [ 51, "26D5918E-972A-43E9-BA78-8B6632A0E7B2", 51, 1390248977, "862121", 1390248977, "862121", "{\n}", "2011", "General Fund", "Assigned", "239877" ]
+, [ 52, "72A3CE18-226A-4B97-B722-8AB669379CCF", 52, 1390248977, "862121", 1390248977, "862121", "{\n}", "2011", "General Fund", "Unassigned", "253882" ]
+, [ 53, "BE3CD706-DF5E-4539-966A-340A37FC38D0", 53, 1390248977, "862121", 1390248977, "862121", "{\n}", "2011", "All Other Governmental Funds", "Nonspendable", "104175" ]
+, [ 54, "9C68D645-4516-4749-84C0-5D01FA14A8F7", 54, 1390248977, "862121", 1390248977, "862121", "{\n}", "2011", "All Other Governmental Funds", "Restricted", "2447798" ]
+, [ 55, "4E9721CF-4427-4C59-8E97-64B66C1CFEB2", 55, 1390248977, "862121", 1390248977, "862121", "{\n}", "2011", "All Other Governmental Funds", "Assigned", "512650" ]
+, [ 56, "82BC1DB4-CE95-4498-A38A-AC9252DFE923", 56, 1390248977, "862121", 1390248977, "862121", "{\n}", "2011", "All Other Governmental Funds", "Unassigned", "-1299" ]
+, [ 57, "ED755532-8DEE-43C3-81B1-B3E5A87D1E5B", 57, 1390248977, "862121", 1390248977, "862121", "{\n}", "2012", "General Fund", "Nonspendable", "31134" ]
+, [ 58, "D7FC82AB-24C8-476A-AC30-01A19FD5C1A1", 58, 1390248977, "862121", 1390248977, "862121", "{\n}", "2012", "General Fund", "Assigned", "267645" ]
+, [ 59, "A4051BDF-52EB-4A20-A788-1480632E89D8", 59, 1390248977, "862121", 1390248977, "862121", "{\n}", "2012", "General Fund", "Unassigned", "272905" ]
+, [ 60, "61625B7A-FB2A-41ED-9B79-CBF259379DFB", 60, 1390248977, "862121", 1390248977, "862121", "{\n}", "2012", "All Other Governmental Funds", "Nonspendable", "82397" ]
+, [ 61, "E2B88EA0-D7CF-4D35-84D4-801A950BFB0C", 61, 1390248977, "862121", 1390248977, "862121", "{\n}", "2012", "All Other Governmental Funds", "Restricted", "2548980" ]
+, [ 62, "16DB2C49-7180-4390-96E2-0F179B51F47A", 62, 1390248977, "862121", 1390248977, "862121", "{\n}", "2012", "All Other Governmental Funds", "Assigned", "603657" ]
+, [ 63, "7B991727-7047-4B22-87E3-554A830793CB", 63, 1390248977, "862121", 1390248977, "862121", "{\n}", "2012", "All Other Governmental Funds", "Unassigned", "-7393" ]
+, [ 64, "03614318-BE46-4341-A60E-9AFB001FB792", 64, 1390248977, "862121", 1390248977, "862121", "{\n}", "2013", "General Fund", "Nonspendable", "43115" ]
+, [ 65, "152B266F-3C5D-44D7-995D-90CB131E313D", 65, 1390248977, "862121", 1390248977, "862121", "{\n}", "2013", "General Fund", "Assigned", "242643" ]
+, [ 66, "B1584473-F6AB-43FA-9959-7854B82CE2A0", 66, 1390248977, "862121", 1390248977, "862121", "{\n}", "2013", "General Fund", "Unassigned", "436858" ]
+, [ 67, "DAC14CB6-5766-4A69-99E4-01F6B1479D6C", 67, 1390248977, "862121", 1390248977, "862121", "{\n}", "2013", "All Other Governmental Funds", "Nonspendable", "75204" ]
+, [ 68, "2370FAC3-55AC-4060-BB24-9FD3AC7951FF", 68, 1390248977, "862121", 1390248977, "862121", "{\n}", "2013", "All Other Governmental Funds", "Restricted", "2813386" ]
+, [ 69, "8BEFC7A5-FE77-43D6-A282-37CB8625ECEC", 69, 1390248977, "862121", 1390248977, "862121", "{\n}", "2013", "All Other Governmental Funds", "Assigned", "631529" ]
+, [ 70, "48C481A7-9357-413A-9855-E65F8AE63A21", 70, 1390248977, "862121", 1390248977, "862121", "{\n}", "2013", "All Other Governmental Funds", "Unassigned", "-26112" ]
+ ]
+}

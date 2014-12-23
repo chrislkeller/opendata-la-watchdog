@@ -1,0 +1,1160 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "gkcu-pvq9",
+      "name" : "Office Of Community Beautification - Graffiti Removal Totals And Response Rates - GOVSTAT",
+      "attribution" : "Office of Community Beautification",
+      "attributionLink" : "http://www.laocb.org/",
+      "averageRating" : 0,
+      "createdAt" : 1401486389,
+      "description" : "Monthly figures for total square feet of graffiti removal and response times for requests through 311 or online.",
+      "displayType" : "table",
+      "downloadCount" : 7,
+      "indexUpdatedAt" : 1414615571,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8108815,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401486899,
+      "publicationGroup" : 1600577,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1401486409,
+      "rowsUpdatedBy" : "tyhz-nfmm",
+      "tableId" : 1600577,
+      "totalTimesRated" : 0,
+      "viewCount" : 55,
+      "viewLastModified" : 1403288515,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150661820,
+        "name" : "Month-Year",
+        "dataTypeName" : "text",
+        "fieldName" : "month_year",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20021756,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 13,
+          "smallest" : "Apr-13",
+          "null" : 0,
+          "largest" : "Sep-13",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Apr-13"
+          }, {
+            "count" : 19,
+            "item" : "May-13"
+          }, {
+            "count" : 18,
+            "item" : "Jun-13"
+          }, {
+            "count" : 17,
+            "item" : "Jul-13"
+          }, {
+            "count" : 16,
+            "item" : "Aug-13"
+          }, {
+            "count" : 15,
+            "item" : "Sep-13"
+          }, {
+            "count" : 14,
+            "item" : "Oct-13"
+          }, {
+            "count" : 13,
+            "item" : "Nov-13"
+          }, {
+            "count" : 12,
+            "item" : "Dec-13"
+          }, {
+            "count" : 11,
+            "item" : "Jan-14"
+          }, {
+            "count" : 10,
+            "item" : "Feb-14"
+          }, {
+            "count" : 9,
+            "item" : "Mar-14"
+          }, {
+            "count" : 8,
+            "item" : "Apr-14"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150661821,
+        "name" : "Date",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date",
+        "position" : 3,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 20021757,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 13,
+          "smallest" : "2013-01-31T00:00:00",
+          "null" : 0,
+          "largest" : "2013-12-31T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2013-04-30T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2013-05-31T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2013-06-30T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2013-07-31T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2013-08-31T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2013-09-30T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2013-10-31T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2013-11-30T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2013-12-31T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2013-01-31T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2013-02-28T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2013-03-31T00:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150661822,
+        "name" : "Square Ft. Removed",
+        "dataTypeName" : "number",
+        "fieldName" : "square_ft_removed",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20021758,
+        "width" : 316,
+        "cachedContents" : {
+          "non_null" : 13,
+          "smallest" : "2037298",
+          "sum" : "34148173",
+          "null" : 0,
+          "average" : "2626782.538461538",
+          "largest" : "3409275",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2482193"
+          }, {
+            "count" : 19,
+            "item" : "2151358"
+          }, {
+            "count" : 18,
+            "item" : "2037298"
+          }, {
+            "count" : 17,
+            "item" : "2292272"
+          }, {
+            "count" : 16,
+            "item" : "2619763"
+          }, {
+            "count" : 15,
+            "item" : "2524054"
+          }, {
+            "count" : 14,
+            "item" : "2363098"
+          }, {
+            "count" : 13,
+            "item" : "2497051"
+          }, {
+            "count" : 12,
+            "item" : "2675894"
+          }, {
+            "count" : 11,
+            "item" : "3097760"
+          }, {
+            "count" : 10,
+            "item" : "3099632"
+          }, {
+            "count" : 9,
+            "item" : "3409275"
+          }, {
+            "count" : 8,
+            "item" : "2898525"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150661823,
+        "name" : "# of Locations",
+        "dataTypeName" : "number",
+        "fieldName" : "of_locations",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20021759,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 13,
+          "smallest" : "30715",
+          "sum" : "568684",
+          "null" : 0,
+          "average" : "43744.92307692308",
+          "largest" : "51867",
+          "top" : [ {
+            "count" : 20,
+            "item" : "51867"
+          }, {
+            "count" : 19,
+            "item" : "30715"
+          }, {
+            "count" : 18,
+            "item" : "42458"
+          }, {
+            "count" : 17,
+            "item" : "46096"
+          }, {
+            "count" : 16,
+            "item" : "43061"
+          }, {
+            "count" : 15,
+            "item" : "44253"
+          }, {
+            "count" : 14,
+            "item" : "42046"
+          }, {
+            "count" : 13,
+            "item" : "42043"
+          }, {
+            "count" : 12,
+            "item" : "41148"
+          }, {
+            "count" : 11,
+            "item" : "42924"
+          }, {
+            "count" : 10,
+            "item" : "48924"
+          }, {
+            "count" : 9,
+            "item" : "51106"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150661824,
+        "name" : "# of locations requested through 311 & online",
+        "dataTypeName" : "number",
+        "fieldName" : "of_locations_requested_through_311_online",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20021760,
+        "width" : 640,
+        "cachedContents" : {
+          "non_null" : 13,
+          "smallest" : "6983",
+          "sum" : "109946",
+          "null" : 0,
+          "average" : "8457.384615384615",
+          "largest" : "9920",
+          "top" : [ {
+            "count" : 20,
+            "item" : "9036"
+          }, {
+            "count" : 19,
+            "item" : "8857"
+          }, {
+            "count" : 18,
+            "item" : "8656"
+          }, {
+            "count" : 17,
+            "item" : "9434"
+          }, {
+            "count" : 16,
+            "item" : "8752"
+          }, {
+            "count" : 15,
+            "item" : "7814"
+          }, {
+            "count" : 14,
+            "item" : "7422"
+          }, {
+            "count" : 13,
+            "item" : "6983"
+          }, {
+            "count" : 12,
+            "item" : "7399"
+          }, {
+            "count" : 11,
+            "item" : "8990"
+          }, {
+            "count" : 10,
+            "item" : "7590"
+          }, {
+            "count" : 9,
+            "item" : "9093"
+          }, {
+            "count" : 8,
+            "item" : "9920"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150661825,
+        "name" : "% requested through 311 & online",
+        "dataTypeName" : "percent",
+        "fieldName" : "requested_through_311_online",
+        "position" : 7,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 20021761,
+        "width" : 484,
+        "cachedContents" : {
+          "non_null" : 13,
+          "smallest" : "16.6",
+          "sum" : "254.4",
+          "null" : 0,
+          "average" : "19.56923076923077",
+          "largest" : "28.8",
+          "top" : [ {
+            "count" : 20,
+            "item" : "17.4"
+          }, {
+            "count" : 19,
+            "item" : "28.8"
+          }, {
+            "count" : 18,
+            "item" : "20.4"
+          }, {
+            "count" : 17,
+            "item" : "20.5"
+          }, {
+            "count" : 16,
+            "item" : "20.3"
+          }, {
+            "count" : 15,
+            "item" : "17.7"
+          }, {
+            "count" : 14,
+            "item" : "16.6"
+          }, {
+            "count" : 13,
+            "item" : "18"
+          }, {
+            "count" : 12,
+            "item" : "20.9"
+          }, {
+            "count" : 11,
+            "item" : "18.1"
+          }, {
+            "count" : 10,
+            "item" : "18.6"
+          }, {
+            "count" : 9,
+            "item" : "19.4"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150661826,
+        "name" : "# of requests completed within 24 hrs",
+        "dataTypeName" : "number",
+        "fieldName" : "of_requests_completed_within_24_hrs",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20021762,
+        "width" : 544,
+        "cachedContents" : {
+          "non_null" : 13,
+          "smallest" : "3816",
+          "sum" : "67771",
+          "null" : 0,
+          "average" : "5213.153846153846",
+          "largest" : "6679",
+          "top" : [ {
+            "count" : 20,
+            "item" : "5427"
+          }, {
+            "count" : 19,
+            "item" : "5011"
+          }, {
+            "count" : 18,
+            "item" : "5184"
+          }, {
+            "count" : 17,
+            "item" : "5408"
+          }, {
+            "count" : 16,
+            "item" : "5283"
+          }, {
+            "count" : 15,
+            "item" : "3816"
+          }, {
+            "count" : 14,
+            "item" : "4055"
+          }, {
+            "count" : 13,
+            "item" : "4406"
+          }, {
+            "count" : 12,
+            "item" : "4950"
+          }, {
+            "count" : 11,
+            "item" : "5895"
+          }, {
+            "count" : 10,
+            "item" : "5592"
+          }, {
+            "count" : 9,
+            "item" : "6065"
+          }, {
+            "count" : 8,
+            "item" : "6679"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150661827,
+        "name" : "% requests completed within 24 hrs",
+        "dataTypeName" : "percent",
+        "fieldName" : "requests_completed_within_24_hrs",
+        "position" : 9,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 20021763,
+        "width" : 508,
+        "cachedContents" : {
+          "non_null" : 13,
+          "smallest" : "48.8",
+          "sum" : "801.0",
+          "null" : 0,
+          "average" : "61.61538461538462",
+          "largest" : "73.7",
+          "top" : [ {
+            "count" : 20,
+            "item" : "60.1"
+          }, {
+            "count" : 19,
+            "item" : "56.6"
+          }, {
+            "count" : 18,
+            "item" : "59.9"
+          }, {
+            "count" : 17,
+            "item" : "57.3"
+          }, {
+            "count" : 16,
+            "item" : "60.4"
+          }, {
+            "count" : 15,
+            "item" : "48.8"
+          }, {
+            "count" : 14,
+            "item" : "54.6"
+          }, {
+            "count" : 13,
+            "item" : "63.1"
+          }, {
+            "count" : 12,
+            "item" : "66.9"
+          }, {
+            "count" : 11,
+            "item" : "65.6"
+          }, {
+            "count" : 10,
+            "item" : "73.7"
+          }, {
+            "count" : 9,
+            "item" : "66.7"
+          }, {
+            "count" : 8,
+            "item" : "67.3"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150661828,
+        "name" : "# of requests completed within 24-48 hrs",
+        "dataTypeName" : "number",
+        "fieldName" : "of_requests_completed_within_24_48_hrs",
+        "position" : 10,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20021764,
+        "width" : 580,
+        "cachedContents" : {
+          "non_null" : 13,
+          "smallest" : "710",
+          "sum" : "15571",
+          "null" : 0,
+          "average" : "1197.769230769231",
+          "largest" : "2574",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1000"
+          }, {
+            "count" : 19,
+            "item" : "810"
+          }, {
+            "count" : 18,
+            "item" : "1027"
+          }, {
+            "count" : 17,
+            "item" : "993"
+          }, {
+            "count" : 16,
+            "item" : "790"
+          }, {
+            "count" : 15,
+            "item" : "2574"
+          }, {
+            "count" : 14,
+            "item" : "2466"
+          }, {
+            "count" : 13,
+            "item" : "957"
+          }, {
+            "count" : 12,
+            "item" : "1072"
+          }, {
+            "count" : 11,
+            "item" : "710"
+          }, {
+            "count" : 10,
+            "item" : "1091"
+          }, {
+            "count" : 9,
+            "item" : "1054"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150661829,
+        "name" : "% requests completed within 24-48 hrs",
+        "dataTypeName" : "percent",
+        "fieldName" : "requests_completed_within_24_48_hrs",
+        "position" : 11,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 20021765,
+        "width" : 544,
+        "cachedContents" : {
+          "non_null" : 13,
+          "smallest" : "9",
+          "sum" : "189.2",
+          "null" : 0,
+          "average" : "14.55384615384615",
+          "largest" : "33.2",
+          "top" : [ {
+            "count" : 20,
+            "item" : "11.1"
+          }, {
+            "count" : 19,
+            "item" : "9.1"
+          }, {
+            "count" : 18,
+            "item" : "11.9"
+          }, {
+            "count" : 17,
+            "item" : "10.5"
+          }, {
+            "count" : 16,
+            "item" : "9"
+          }, {
+            "count" : 15,
+            "item" : "32.9"
+          }, {
+            "count" : 14,
+            "item" : "33.2"
+          }, {
+            "count" : 13,
+            "item" : "14.7"
+          }, {
+            "count" : 12,
+            "item" : "12.9"
+          }, {
+            "count" : 11,
+            "item" : "9.4"
+          }, {
+            "count" : 10,
+            "item" : "12"
+          }, {
+            "count" : 9,
+            "item" : "10.6"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150661830,
+        "name" : "# of requests completed within 48-72 hrs",
+        "dataTypeName" : "number",
+        "fieldName" : "of_requests_completed_within_48_72_hrs",
+        "position" : 12,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20021766,
+        "width" : 580,
+        "cachedContents" : {
+          "non_null" : 13,
+          "smallest" : "409",
+          "sum" : "7665",
+          "null" : 0,
+          "average" : "589.6153846153846",
+          "largest" : "719",
+          "top" : [ {
+            "count" : 20,
+            "item" : "556"
+          }, {
+            "count" : 19,
+            "item" : "695"
+          }, {
+            "count" : 18,
+            "item" : "655"
+          }, {
+            "count" : 17,
+            "item" : "719"
+          }, {
+            "count" : 16,
+            "item" : "531"
+          }, {
+            "count" : 15,
+            "item" : "552"
+          }, {
+            "count" : 14,
+            "item" : "409"
+          }, {
+            "count" : 13,
+            "item" : "597"
+          }, {
+            "count" : 12,
+            "item" : "566"
+          }, {
+            "count" : 11,
+            "item" : "636"
+          }, {
+            "count" : 10,
+            "item" : "432"
+          }, {
+            "count" : 9,
+            "item" : "627"
+          }, {
+            "count" : 8,
+            "item" : "690"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150661831,
+        "name" : "% requests completed within 48-72 hrs",
+        "dataTypeName" : "percent",
+        "fieldName" : "requests_completed_within_48_72_hrs",
+        "position" : 13,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 20021767,
+        "width" : 544,
+        "cachedContents" : {
+          "non_null" : 13,
+          "smallest" : "5.5",
+          "sum" : "90.7",
+          "null" : 0,
+          "average" : "6.976923076923077",
+          "largest" : "8.5",
+          "top" : [ {
+            "count" : 20,
+            "item" : "6.2"
+          }, {
+            "count" : 19,
+            "item" : "7.8"
+          }, {
+            "count" : 18,
+            "item" : "7.6"
+          }, {
+            "count" : 17,
+            "item" : "6.1"
+          }, {
+            "count" : 16,
+            "item" : "7.1"
+          }, {
+            "count" : 15,
+            "item" : "5.5"
+          }, {
+            "count" : 14,
+            "item" : "8.5"
+          }, {
+            "count" : 13,
+            "item" : "5.7"
+          }, {
+            "count" : 12,
+            "item" : "6.9"
+          }, {
+            "count" : 11,
+            "item" : "7"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150661832,
+        "name" : "# of requests completed within 4-7 days",
+        "dataTypeName" : "number",
+        "fieldName" : "of_requests_completed_within_4_7_days",
+        "position" : 14,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20021768,
+        "width" : 568,
+        "cachedContents" : {
+          "non_null" : 13,
+          "smallest" : "405",
+          "sum" : "13594",
+          "null" : 0,
+          "average" : "1045.692307692308",
+          "largest" : "1764",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1172"
+          }, {
+            "count" : 19,
+            "item" : "1695"
+          }, {
+            "count" : 18,
+            "item" : "1255"
+          }, {
+            "count" : 17,
+            "item" : "1764"
+          }, {
+            "count" : 16,
+            "item" : "1487"
+          }, {
+            "count" : 15,
+            "item" : "686"
+          }, {
+            "count" : 14,
+            "item" : "405"
+          }, {
+            "count" : 13,
+            "item" : "726"
+          }, {
+            "count" : 12,
+            "item" : "773"
+          }, {
+            "count" : 11,
+            "item" : "934"
+          }, {
+            "count" : 10,
+            "item" : "616"
+          }, {
+            "count" : 9,
+            "item" : "907"
+          }, {
+            "count" : 8,
+            "item" : "1174"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150661833,
+        "name" : "% requests completed within 4-7 days",
+        "dataTypeName" : "percent",
+        "fieldName" : "requests_completed_within_4_7_days",
+        "position" : 15,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 20021769,
+        "width" : 532,
+        "cachedContents" : {
+          "non_null" : 13,
+          "smallest" : "5.5",
+          "sum" : "157.7",
+          "null" : 0,
+          "average" : "12.13076923076923",
+          "largest" : "19.1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "13"
+          }, {
+            "count" : 19,
+            "item" : "19.1"
+          }, {
+            "count" : 18,
+            "item" : "14.5"
+          }, {
+            "count" : 17,
+            "item" : "18.7"
+          }, {
+            "count" : 16,
+            "item" : "17"
+          }, {
+            "count" : 15,
+            "item" : "8.8"
+          }, {
+            "count" : 14,
+            "item" : "5.5"
+          }, {
+            "count" : 13,
+            "item" : "10.4"
+          }, {
+            "count" : 12,
+            "item" : "8.1"
+          }, {
+            "count" : 11,
+            "item" : "10"
+          }, {
+            "count" : 10,
+            "item" : "11.8"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150661835,
+        "name" : "# of requests completed within 8-15 days",
+        "dataTypeName" : "number",
+        "fieldName" : "of_requests_completed_within_8_15_days",
+        "position" : 16,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20021771,
+        "width" : 580,
+        "cachedContents" : {
+          "non_null" : 13,
+          "smallest" : "67",
+          "sum" : "4268",
+          "null" : 0,
+          "average" : "328.3076923076923",
+          "largest" : "725",
+          "top" : [ {
+            "count" : 20,
+            "item" : "725"
+          }, {
+            "count" : 19,
+            "item" : "499"
+          }, {
+            "count" : 18,
+            "item" : "347"
+          }, {
+            "count" : 17,
+            "item" : "304"
+          }, {
+            "count" : 16,
+            "item" : "489"
+          }, {
+            "count" : 15,
+            "item" : "113"
+          }, {
+            "count" : 14,
+            "item" : "67"
+          }, {
+            "count" : 13,
+            "item" : "212"
+          }, {
+            "count" : 12,
+            "item" : "143"
+          }, {
+            "count" : 11,
+            "item" : "435"
+          }, {
+            "count" : 10,
+            "item" : "231"
+          }, {
+            "count" : 9,
+            "item" : "385"
+          }, {
+            "count" : 8,
+            "item" : "318"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150661836,
+        "name" : "% requests completed 8-15 days",
+        "dataTypeName" : "percent",
+        "fieldName" : "requests_completed_8_15_days",
+        "position" : 17,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 20021772,
+        "width" : 460,
+        "cachedContents" : {
+          "non_null" : 13,
+          "smallest" : "0.9",
+          "sum" : "48.8",
+          "null" : 0,
+          "average" : "3.753846153846154",
+          "largest" : "8",
+          "top" : [ {
+            "count" : 20,
+            "item" : "8"
+          }, {
+            "count" : 19,
+            "item" : "5.6"
+          }, {
+            "count" : 18,
+            "item" : "4"
+          }, {
+            "count" : 17,
+            "item" : "3.2"
+          }, {
+            "count" : 16,
+            "item" : "1.4"
+          }, {
+            "count" : 15,
+            "item" : "0.9"
+          }, {
+            "count" : 14,
+            "item" : "3"
+          }, {
+            "count" : 13,
+            "item" : "1.9"
+          }, {
+            "count" : 12,
+            "item" : "4.8"
+          }, {
+            "count" : 11,
+            "item" : "4.2"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150661837,
+        "name" : "# of requests completed in over 15 days",
+        "dataTypeName" : "number",
+        "fieldName" : "of_requests_completed_in_over_15_days",
+        "position" : 18,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20021773,
+        "width" : 568,
+        "cachedContents" : {
+          "non_null" : 13,
+          "smallest" : "5",
+          "sum" : "1077",
+          "null" : 0,
+          "average" : "82.84615384615385",
+          "largest" : "246",
+          "top" : [ {
+            "count" : 20,
+            "item" : "156"
+          }, {
+            "count" : 19,
+            "item" : "147"
+          }, {
+            "count" : 18,
+            "item" : "188"
+          }, {
+            "count" : 17,
+            "item" : "246"
+          }, {
+            "count" : 16,
+            "item" : "172"
+          }, {
+            "count" : 15,
+            "item" : "73"
+          }, {
+            "count" : 14,
+            "item" : "20"
+          }, {
+            "count" : 13,
+            "item" : "15"
+          }, {
+            "count" : 12,
+            "item" : "10"
+          }, {
+            "count" : 11,
+            "item" : "18"
+          }, {
+            "count" : 10,
+            "item" : "9"
+          }, {
+            "count" : 9,
+            "item" : "5"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150661838,
+        "name" : "% requests completed in over 15 days",
+        "dataTypeName" : "percent",
+        "fieldName" : "requests_completed_in_over_15_days",
+        "position" : 19,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 20021774,
+        "width" : 532,
+        "cachedContents" : {
+          "non_null" : 13,
+          "smallest" : "0.1",
+          "sum" : "12.3",
+          "null" : 0,
+          "average" : "0.9461538461538462",
+          "largest" : "2.6",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1.7"
+          }, {
+            "count" : 19,
+            "item" : "2.2"
+          }, {
+            "count" : 18,
+            "item" : "2.6"
+          }, {
+            "count" : 17,
+            "item" : "2"
+          }, {
+            "count" : 16,
+            "item" : "0.9"
+          }, {
+            "count" : 15,
+            "item" : "0.3"
+          }, {
+            "count" : 14,
+            "item" : "0.2"
+          }, {
+            "count" : 13,
+            "item" : "0.1"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "tgn6-4379",
+        "displayName" : "Mayor's Office OpenData",
+        "profileImageUrlLarge" : "/images/profile/5324/8362/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5324/8362/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5324/8362/_City_Seal_tiny.jpg",
+        "roleName" : "administrator",
+        "screenName" : "Mayor's Office OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "tgn6-4379",
+        "displayName" : "Mayor's Office OpenData",
+        "profileImageUrlLarge" : "/images/profile/5324/8362/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5324/8362/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5324/8362/_City_Seal_tiny.jpg",
+        "roleName" : "administrator",
+        "screenName" : "Mayor's Office OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "tags" : [ "graffiti", "office of community beautification", "public works", "cleanup", "removal", "response", "311", "tagging", "vandalism" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "6231AD53-980D-4A90-B6E2-B56043D67421", 1, 1401486393, "865572", 1401486393, "865572", "{\n}", "Apr-13", "2013-04-30T00:00:00", "2482193", "51867", "9036", "17.4", "5427", "60.1", "1000", "11.1", "556", "6.2", "1172", "13", "725", "8", "156", "1.7" ]
+, [ 2, "DDADBC0D-5195-419A-BED2-296BC6A622BE", 2, 1401486393, "865572", 1401486393, "865572", "{\n}", "May-13", "2013-05-31T00:00:00", "2151358", "30715", "8857", "28.8", "5011", "56.6", "810", "9.1", "695", "7.8", "1695", "19.1", "499", "5.6", "147", "1.7" ]
+, [ 3, "D7C28D16-C03F-446B-91F3-BE793C392A28", 3, 1401486393, "865572", 1401486393, "865572", "{\n}", "Jun-13", "2013-06-30T00:00:00", "2037298", "42458", "8656", "20.4", "5184", "59.9", "1027", "11.9", "655", "7.6", "1255", "14.5", "347", "4", "188", "2.2" ]
+, [ 4, "81B9FDC4-8E49-4511-862F-1567D61E5E4F", 4, 1401486393, "865572", 1401486393, "865572", "{\n}", "Jul-13", "2013-07-31T00:00:00", "2292272", "46096", "9434", "20.5", "5408", "57.3", "993", "10.5", "719", "7.6", "1764", "18.7", "304", "3.2", "246", "2.6" ]
+, [ 5, "1592328D-298A-4B91-AD8E-55DADA922F29", 5, 1401486393, "865572", 1401486393, "865572", "{\n}", "Aug-13", "2013-08-31T00:00:00", "2619763", "43061", "8752", "20.3", "5283", "60.4", "790", "9", "531", "6.1", "1487", "17", "489", "5.6", "172", "2" ]
+, [ 6, "07A1C1E7-CF4E-4D8D-A003-1710F190C14E", 6, 1401486393, "865572", 1401486393, "865572", "{\n}", "Sep-13", "2013-09-30T00:00:00", "2524054", "44253", "7814", "17.7", "3816", "48.8", "2574", "32.9", "552", "7.1", "686", "8.8", "113", "1.4", "73", "0.9" ]
+, [ 7, "FDCC0BC6-F570-4D63-844A-7AD71B068E6D", 7, 1401486393, "865572", 1401486393, "865572", "{\n}", "Oct-13", "2013-10-31T00:00:00", "2363098", "42046", "7422", "17.7", "4055", "54.6", "2466", "33.2", "409", "5.5", "405", "5.5", "67", "0.9", "20", "0.3" ]
+, [ 8, "A1737AFB-BC5E-4D9F-B9B4-BA1CAC6D7BDF", 8, 1401486393, "865572", 1401486393, "865572", "{\n}", "Nov-13", "2013-11-30T00:00:00", "2497051", "42043", "6983", "16.6", "4406", "63.1", "1027", "14.7", "597", "8.5", "726", "10.4", "212", "3", "15", "0.2" ]
+, [ 9, "BCC9B779-6776-4C1D-AB16-52A7A4438FF5", 9, 1401486393, "865572", 1401486393, "865572", "{\n}", "Dec-13", "2013-12-31T00:00:00", "2675894", "41148", "7399", "18", "4950", "66.9", "957", "12.9", "566", "7.6", "773", "10.4", "143", "1.9", "10", "0.1" ]
+, [ 10, "CFC3A510-43C0-4D34-9042-211259F12154", 10, 1401486393, "865572", 1401486393, "865572", "{\n}", "Jan-14", "2013-01-31T00:00:00", "3097760", "42924", "8990", "20.9", "5895", "65.6", "1072", "11.9", "636", "7.1", "934", "10.4", "435", "4.8", "18", "0.2" ]
+, [ 11, "DA855F30-E2CC-4A11-BD9A-561121DC242A", 11, 1401486393, "865572", 1401486393, "865572", "{\n}", "Feb-14", "2013-02-28T00:00:00", "3099632", "42043", "7590", "18.1", "5592", "73.7", "710", "9.4", "432", "5.7", "616", "8.1", "231", "3", "9", "0.1" ]
+, [ 12, "D9324FF1-76D9-4166-AD06-188CC859D080", 12, 1401486393, "865572", 1401486393, "865572", "{\n}", "Mar-14", "2013-03-31T00:00:00", "3409275", "48924", "9093", "18.6", "6065", "66.7", "1091", "12", "627", "6.9", "907", "10", "385", "4.2", "18", "0.2" ]
+, [ 13, "8AC1AF2D-EE6E-4832-8989-2210CF138BA2", 13, 1401486393, "865572", 1401486393, "865572", "{\n}", "Apr-14", "2013-04-30T00:00:00", "2898525", "51106", "9920", "19.4", "6679", "67.3", "1054", "10.6", "690", "7", "1174", "11.8", "318", "3.2", "5", "0.1" ]
+ ]
+}

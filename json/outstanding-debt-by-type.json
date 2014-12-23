@@ -1,0 +1,484 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "qnfz-jscz",
+      "name" : "Outstanding Debt by Type",
+      "attribution" : "Office of the Controller, City of Los Angeles",
+      "attributionLink" : "http://controller.lacity.org/stellent/groups/ElectedOfficials/@CTR_Contributor/documents/Contributor_Web_Content/LACITYP_027750.pdf#page=394",
+      "averageRating" : 0,
+      "category" : "Liabilities and Assets",
+      "createdAt" : 1390689548,
+      "description" : "CAFR Pages 350-351.\r\n\r\nLast Ten Fiscal Years (amounts expressed in thousands, except per capita)",
+      "displayType" : "table",
+      "downloadCount" : 11,
+      "indexUpdatedAt" : 1414614309,
+      "licenseId" : "PUBLIC_DOMAIN",
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 7442605,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1393554327,
+      "publicationGroup" : 1454100,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1393554306,
+      "rowsUpdatedBy" : "7c7a-resi",
+      "tableId" : 1492310,
+      "totalTimesRated" : 0,
+      "viewCount" : 76,
+      "viewLastModified" : 1412744639,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 135632878,
+        "name" : "Fiscal Year",
+        "dataTypeName" : "number",
+        "fieldName" : "fiscal_year",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17786175,
+        "width" : 66,
+        "cachedContents" : {
+          "non_null" : 120,
+          "smallest" : "2004",
+          "sum" : "241020",
+          "null" : 0,
+          "average" : "2008.5",
+          "largest" : "2013",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2004"
+          }, {
+            "count" : 19,
+            "item" : "2005"
+          }, {
+            "count" : 18,
+            "item" : "2006"
+          }, {
+            "count" : 17,
+            "item" : "2007"
+          }, {
+            "count" : 16,
+            "item" : "2008"
+          }, {
+            "count" : 15,
+            "item" : "2009"
+          }, {
+            "count" : 14,
+            "item" : "2010"
+          }, {
+            "count" : 13,
+            "item" : "2011"
+          }, {
+            "count" : 12,
+            "item" : "2012"
+          }, {
+            "count" : 11,
+            "item" : "2013"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "true"
+        }
+      }, {
+        "id" : 135632879,
+        "name" : "Activity Type",
+        "dataTypeName" : "text",
+        "fieldName" : "activity_type",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17786176,
+        "width" : 173,
+        "cachedContents" : {
+          "non_null" : 120,
+          "smallest" : "Business-Type Activities",
+          "null" : 0,
+          "largest" : "Governmental Activities",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Governmental Activities"
+          }, {
+            "count" : 19,
+            "item" : "Business-Type Activities"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 135632880,
+        "name" : "Obligation Type",
+        "dataTypeName" : "text",
+        "fieldName" : "obligation_type",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17786177,
+        "width" : 179,
+        "cachedContents" : {
+          "non_null" : 120,
+          "smallest" : "Capital Leases",
+          "null" : 0,
+          "largest" : "Special Assessment Bonds",
+          "top" : [ {
+            "count" : 20,
+            "item" : "General Obligation Bonds"
+          }, {
+            "count" : 19,
+            "item" : "Judgment Obligation Bonds"
+          }, {
+            "count" : 18,
+            "item" : "Certificates of Participation and Lease Revenue Bonds"
+          }, {
+            "count" : 17,
+            "item" : "Special Assessment Bonds"
+          }, {
+            "count" : 16,
+            "item" : "Revenue Bonds"
+          }, {
+            "count" : 15,
+            "item" : "Notes Payable"
+          }, {
+            "count" : 14,
+            "item" : "HUD Loan"
+          }, {
+            "count" : 13,
+            "item" : "Commercial Paper"
+          }, {
+            "count" : 12,
+            "item" : "Loans Payable"
+          }, {
+            "count" : 11,
+            "item" : "Capital Leases"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 135632881,
+        "name" : "Amount",
+        "dataTypeName" : "number",
+        "description" : "Amount expressed in thousands of dollars",
+        "fieldName" : "amount",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17786178,
+        "width" : 186,
+        "cachedContents" : {
+          "non_null" : 120,
+          "smallest" : "0",
+          "sum" : "168376037",
+          "null" : 0,
+          "average" : "1403133.641666667",
+          "largest" : "18252193",
+          "top" : [ {
+            "count" : 20,
+            "item" : "313561"
+          }, {
+            "count" : 19,
+            "item" : "498745"
+          }, {
+            "count" : 18,
+            "item" : "810328"
+          }, {
+            "count" : 17,
+            "item" : "446989"
+          }, {
+            "count" : 16,
+            "item" : "647116"
+          }, {
+            "count" : 15,
+            "item" : "415012"
+          }, {
+            "count" : 14,
+            "item" : "462199"
+          }, {
+            "count" : 13,
+            "item" : "368086"
+          }, {
+            "count" : 12,
+            "item" : "9715"
+          }, {
+            "count" : 11,
+            "item" : "4495"
+          }, {
+            "count" : 10,
+            "item" : "4105"
+          }, {
+            "count" : 9,
+            "item" : "3697"
+          }, {
+            "count" : 8,
+            "item" : "3271"
+          }, {
+            "count" : 7,
+            "item" : "2826"
+          }, {
+            "count" : 6,
+            "item" : "2361"
+          }, {
+            "count" : 5,
+            "item" : "1874"
+          }, {
+            "count" : 4,
+            "item" : "1366"
+          }, {
+            "count" : 3,
+            "item" : "0"
+          }, {
+            "count" : 2,
+            "item" : "146215"
+          }, {
+            "count" : 1,
+            "item" : "166684"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Public Domain"
+      },
+      "metadata" : {
+        "custom_fields" : {
+          "Department" : {
+            "Division" : "GAAP",
+            "Department" : "Controller",
+            "System" : "CAFR"
+          },
+          "Update Information" : {
+            "Update Cycle" : "Annual"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "7c7a-resi",
+        "displayName" : "Controller's Office",
+        "roleName" : "administrator",
+        "screenName" : "Controller's Office",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "7c7a-resi",
+        "displayName" : "Controller's Office",
+        "roleName" : "administrator",
+        "screenName" : "Controller's Office",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "tags" : [ "debt", "obligations", "city of los angeles", "city of los angeles controller", "city of la", "city of la controller", "ron galperin", "comprehensive annual financial report", "cafr", "net position", "asset type", "asset type group", "activity type", "cafr statistical section" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "7D1031AA-E2F6-4E1E-B85D-237B2BEEDDB0", 1, 1392960818, "862121", 1392960818, "862121", "{\n}", "2004", "Governmental Activities", "General Obligation Bonds", "1158863" ]
+, [ 2, "48612388-3660-45DD-9A35-6D3E856FF79C", 2, 1392960818, "862121", 1392960818, "862121", "{\n}", "2005", "Governmental Activities", "General Obligation Bonds", "1451359" ]
+, [ 3, "EE9FAA89-28C3-4B2E-A282-E703A4067F19", 3, 1392960818, "862121", 1392960818, "862121", "{\n}", "2006", "Governmental Activities", "General Obligation Bonds", "1480010" ]
+, [ 4, "237C36F0-2874-4F8D-9C4B-9416A4FD592A", 4, 1392960818, "862121", 1392960818, "862121", "{\n}", "2007", "Governmental Activities", "General Obligation Bonds", "1446530" ]
+, [ 5, "B01BAA80-976F-4A5E-B865-34051C1A4125", 5, 1392960818, "862121", 1392960818, "862121", "{\n}", "2008", "Governmental Activities", "General Obligation Bonds", "1336040" ]
+, [ 6, "32E7E455-BA6E-4655-9582-F63D3696D22B", 6, 1392960818, "862121", 1392960818, "862121", "{\n}", "2009", "Governmental Activities", "General Obligation Bonds", "1331103" ]
+, [ 7, "80CE026A-C4A3-474F-862C-3F6DDF1F5E0D", 7, 1392960818, "862121", 1392960818, "862121", "{\n}", "2010", "Governmental Activities", "General Obligation Bonds", "1404320" ]
+, [ 8, "D37A172A-0F70-4765-B52F-D242099C936F", 8, 1392960818, "862121", 1392960818, "862121", "{\n}", "2011", "Governmental Activities", "General Obligation Bonds", "1288707" ]
+, [ 9, "C27BFB4C-9777-43E7-9D64-A31A8EF3C8B4", 9, 1392960818, "862121", 1392960818, "862121", "{\n}", "2012", "Governmental Activities", "General Obligation Bonds", "1288674" ]
+, [ 10, "EBFC6436-D4CE-4FF4-BD94-A3A981119D23", 10, 1392960818, "862121", 1392960818, "862121", "{\n}", "2013", "Governmental Activities", "General Obligation Bonds", "1165924" ]
+, [ 11, "99A97A8E-8083-4038-9604-8D1BB709C1CC", 11, 1392960818, "862121", 1392960818, "862121", "{\n}", "2004", "Governmental Activities", "Judgment Obligation Bonds", "34795" ]
+, [ 12, "AF319A8C-8E88-4CEC-984E-4A294ED4F84F", 12, 1392960818, "862121", 1392960818, "862121", "{\n}", "2005", "Governmental Activities", "Judgment Obligation Bonds", "28140" ]
+, [ 13, "76EAEE1F-8D3A-4743-A206-27A94B5B4A93", 13, 1392960818, "862121", 1392960818, "862121", "{\n}", "2006", "Governmental Activities", "Judgment Obligation Bonds", "21485" ]
+, [ 14, "9D754C46-3D0E-4697-847B-348CA4B8A483", 14, 1392960818, "862121", 1392960818, "862121", "{\n}", "2007", "Governmental Activities", "Judgment Obligation Bonds", "15340" ]
+, [ 15, "30DE6E8C-EEE4-4289-A321-CCD280922D32", 15, 1392960818, "862121", 1392960818, "862121", "{\n}", "2008", "Governmental Activities", "Judgment Obligation Bonds", "9195" ]
+, [ 16, "136FC24D-0717-4974-9344-27128A292754", 16, 1392960818, "862121", 1392960818, "862121", "{\n}", "2009", "Governmental Activities", "Judgment Obligation Bonds", "26219" ]
+, [ 17, "EC9E3200-B274-48B5-A106-E2D35606CADE", 17, 1392960818, "862121", 1392960818, "862121", "{\n}", "2010", "Governmental Activities", "Judgment Obligation Bonds", "74279" ]
+, [ 18, "76DFB81A-E7C5-4FC2-81D1-54CE7E9648A8", 18, 1392960818, "862121", 1392960818, "862121", "{\n}", "2011", "Governmental Activities", "Judgment Obligation Bonds", "66891" ]
+, [ 19, "9F7F3FF4-A59D-4BB1-8F47-FF4C9EDE9145", 19, 1392960818, "862121", 1392960818, "862121", "{\n}", "2012", "Governmental Activities", "Judgment Obligation Bonds", "60379" ]
+, [ 20, "0AF3B065-E719-42FF-B790-E84CF8B0D377", 20, 1392960818, "862121", 1392960818, "862121", "{\n}", "2013", "Governmental Activities", "Judgment Obligation Bonds", "53079" ]
+, [ 21, "42AB6456-33B2-4D79-881D-103CF559E7C6", 21, 1392960818, "862121", 1392960818, "862121", "{\n}", "2004", "Governmental Activities", "Certificates of Participation and Lease Revenue Bonds", "981485" ]
+, [ 22, "FB37E7A1-7BA0-45FE-A7A9-AAC5A26D6095", 22, 1392960818, "862121", 1392960818, "862121", "{\n}", "2005", "Governmental Activities", "Certificates of Participation and Lease Revenue Bonds", "865712" ]
+, [ 23, "38A3A956-86ED-4393-A77E-9873BEB21F6F", 23, 1392960818, "862121", 1392960818, "862121", "{\n}", "2006", "Governmental Activities", "Certificates of Participation and Lease Revenue Bonds", "750353" ]
+, [ 24, "9B5C4536-5450-4C42-8A6A-273174FB9375", 24, 1392960818, "862121", 1392960818, "862121", "{\n}", "2007", "Governmental Activities", "Certificates of Participation and Lease Revenue Bonds", "1115610" ]
+, [ 25, "3E064585-5A64-407C-804B-D8C10D72CC1F", 25, 1392960818, "862121", 1392960818, "862121", "{\n}", "2008", "Governmental Activities", "Certificates of Participation and Lease Revenue Bonds", "1336353" ]
+, [ 26, "4FA477C6-A0A0-4759-965B-6C0EBE85F5EB", 26, 1392960818, "862121", 1392960818, "862121", "{\n}", "2009", "Governmental Activities", "Certificates of Participation and Lease Revenue Bonds", "1503277" ]
+, [ 27, "4985A115-1033-44C0-AD28-D28B92942599", 27, 1392960818, "862121", 1392960818, "862121", "{\n}", "2010", "Governmental Activities", "Certificates of Participation and Lease Revenue Bonds", "1516417" ]
+, [ 28, "66581293-D5C7-4517-968C-417AC0EE6989", 28, 1392960818, "862121", 1392960818, "862121", "{\n}", "2011", "Governmental Activities", "Certificates of Participation and Lease Revenue Bonds", "1521095" ]
+, [ 29, "A6709F21-CC27-46C9-B8F9-792AE4F491D3", 29, 1392960818, "862121", 1392960818, "862121", "{\n}", "2012", "Governmental Activities", "Certificates of Participation and Lease Revenue Bonds", "1571911" ]
+, [ 30, "9658CDE4-93D9-44E2-AF27-E2E6CCD2BAEB", 30, 1392960818, "862121", 1392960818, "862121", "{\n}", "2013", "Governmental Activities", "Certificates of Participation and Lease Revenue Bonds", "1456723" ]
+, [ 31, "5E08BC98-DCAC-4A9A-A15F-848AB5D44FEC", 31, 1392960818, "862121", 1392960818, "862121", "{\n}", "2004", "Governmental Activities", "Special Assessment Bonds", "35650" ]
+, [ 32, "C46A63C6-54FC-4D6D-BB04-7EA509BE227D", 32, 1392960818, "862121", 1392960818, "862121", "{\n}", "2005", "Governmental Activities", "Special Assessment Bonds", "34160" ]
+, [ 33, "F425300F-F2A9-4B5B-AC8E-D7B1305F6F8A", 33, 1392960818, "862121", 1392960818, "862121", "{\n}", "2006", "Governmental Activities", "Special Assessment Bonds", "32595" ]
+, [ 34, "47222655-CE69-463A-A8C3-95A121451F0C", 34, 1392960818, "862121", 1392960818, "862121", "{\n}", "2007", "Governmental Activities", "Special Assessment Bonds", "31025" ]
+, [ 35, "58776F78-5C85-4498-A841-D5F959A3F068", 35, 1392960818, "862121", 1392960818, "862121", "{\n}", "2008", "Governmental Activities", "Special Assessment Bonds", "29390" ]
+, [ 36, "AEA18525-1619-46AC-8024-2AD6C9BFA3E6", 36, 1392960818, "862121", 1392960818, "862121", "{\n}", "2009", "Governmental Activities", "Special Assessment Bonds", "27685" ]
+, [ 37, "9ED80D44-0983-4E2E-AC32-6DDDD57BA61D", 37, 1392960818, "862121", 1392960818, "862121", "{\n}", "2010", "Governmental Activities", "Special Assessment Bonds", "25910" ]
+, [ 38, "795E8B19-A5D6-4E9D-B207-DB2EF17291CC", 38, 1392960818, "862121", 1392960818, "862121", "{\n}", "2011", "Governmental Activities", "Special Assessment Bonds", "24095" ]
+, [ 39, "59727387-121A-4E6B-83FC-2A717978D7D9", 39, 1392960818, "862121", 1392960818, "862121", "{\n}", "2012", "Governmental Activities", "Special Assessment Bonds", "22210" ]
+, [ 40, "48CC0EE5-C0CE-4C7D-8E0D-C71A0319CD37", 40, 1392960818, "862121", 1392960818, "862121", "{\n}", "2013", "Governmental Activities", "Special Assessment Bonds", "20240" ]
+, [ 41, "CB90FD92-5DE3-4078-9403-12CA02A87E3E", 41, 1392960818, "862121", 1392960818, "862121", "{\n}", "2004", "Governmental Activities", "Revenue Bonds", "929266" ]
+, [ 42, "654E422F-DA07-4299-BDFF-40B122FF948C", 42, 1392960818, "862121", 1392960818, "862121", "{\n}", "2005", "Governmental Activities", "Revenue Bonds", "918523" ]
+, [ 43, "0EBE3E94-E320-4896-B0C3-6941FBDD692F", 43, 1392960818, "862121", 1392960818, "862121", "{\n}", "2006", "Governmental Activities", "Revenue Bonds", "954701" ]
+, [ 44, "307BFD69-06B4-418D-AA6B-3C60D5E2A506", 44, 1392960818, "862121", 1392960818, "862121", "{\n}", "2007", "Governmental Activities", "Revenue Bonds", "973525" ]
+, [ 45, "41010858-F072-4101-AA22-97E38622B650", 45, 1392960818, "862121", 1392960818, "862121", "{\n}", "2008", "Governmental Activities", "Revenue Bonds", "930449" ]
+, [ 46, "2B109A2E-26C6-4A20-9E1F-87F0E2BAF7D6", 46, 1392960818, "862121", 1392960818, "862121", "{\n}", "2009", "Governmental Activities", "Revenue Bonds", "894574" ]
+, [ 47, "822E4CAD-B432-4F6F-9B9F-3F7C7F031E66", 47, 1392960818, "862121", 1392960818, "862121", "{\n}", "2010", "Governmental Activities", "Revenue Bonds", "910533" ]
+, [ 48, "E2D56D10-220F-48F3-B07C-5EF40FB4A9C6", 48, 1392960818, "862121", 1392960818, "862121", "{\n}", "2011", "Governmental Activities", "Revenue Bonds", "851323" ]
+, [ 49, "CF667D70-555A-41C4-B0A8-272DCA108203", 49, 1392960818, "862121", 1392960818, "862121", "{\n}", "2012", "Governmental Activities", "Revenue Bonds", "788731" ]
+, [ 50, "883EE742-B30E-4F52-A83A-2E682595CCCA", 50, 1392960818, "862121", 1392960818, "862121", "{\n}", "2013", "Governmental Activities", "Revenue Bonds", "793466" ]
+, [ 51, "F37EFCDD-4138-457D-9F7E-D49DA4C39367", 51, 1392960818, "862121", 1392960818, "862121", "{\n}", "2004", "Governmental Activities", "Notes Payable", "36373" ]
+, [ 52, "6F02104C-01BE-4BA2-BBB4-B73AEAEDAF13", 52, 1392960818, "862121", 1392960818, "862121", "{\n}", "2005", "Governmental Activities", "Notes Payable", "52973" ]
+, [ 53, "42CEBCA7-6842-4764-8C7B-4E3C5DC35DF6", 53, 1392960818, "862121", 1392960818, "862121", "{\n}", "2006", "Governmental Activities", "Notes Payable", "148000" ]
+, [ 54, "BA1F536F-9C32-447D-92ED-9230CE573A2B", 54, 1392960818, "862121", 1392960818, "862121", "{\n}", "2007", "Governmental Activities", "Notes Payable", "176000" ]
+, [ 55, "93FD4742-A925-464E-B138-9A9DC58A9961", 55, 1392960818, "862121", 1392960818, "862121", "{\n}", "2008", "Governmental Activities", "Notes Payable", "200000" ]
+, [ 56, "AC66134C-3255-4897-BED4-4588B09D197C", 56, 1392960818, "862121", 1392960818, "862121", "{\n}", "2009", "Governmental Activities", "Notes Payable", "107735" ]
+, [ 57, "C46318DE-B700-468D-B9C1-16D4082E4C6C", 57, 1392960818, "862121", 1392960818, "862121", "{\n}", "2010", "Governmental Activities", "Notes Payable", "152630" ]
+, [ 58, "E5AE9ECD-D539-48E4-9D4E-FF03CCB34141", 58, 1392960818, "862121", 1392960818, "862121", "{\n}", "2011", "Governmental Activities", "Notes Payable", "206173" ]
+, [ 59, "C01938AC-0C72-4438-8FD7-F8606B119F63", 59, 1392960818, "862121", 1392960818, "862121", "{\n}", "2012", "Governmental Activities", "Notes Payable", "141197" ]
+, [ 60, "6CA5EDE0-930F-420D-8341-BF859BCD6B93", 60, 1392960818, "862121", 1392960818, "862121", "{\n}", "2013", "Governmental Activities", "Notes Payable", "184197" ]
+, [ 61, "7A2683B2-1FBA-459B-8140-19AB95F1921F", 61, 1392960818, "862121", 1392960818, "862121", "{\n}", "2004", "Governmental Activities", "HUD Loan", "126079" ]
+, [ 62, "9013E035-F9C1-43E0-BFB2-59EA8005E9CE", 62, 1392960818, "862121", 1392960818, "862121", "{\n}", "2005", "Governmental Activities", "HUD Loan", "135903" ]
+, [ 63, "777E22C0-A05D-47C3-920C-86693C5C5C38", 63, 1392960818, "862121", 1392960818, "862121", "{\n}", "2006", "Governmental Activities", "HUD Loan", "132953" ]
+, [ 64, "54665455-0E98-4CBD-961E-469CE7D70D72", 64, 1392960818, "862121", 1392960818, "862121", "{\n}", "2007", "Governmental Activities", "HUD Loan", "129657" ]
+, [ 65, "3F664157-36D4-4547-B598-66BB0A540311", 65, 1392960818, "862121", 1392960818, "862121", "{\n}", "2008", "Governmental Activities", "HUD Loan", "76055" ]
+, [ 66, "FD3C893C-E8A9-4FD9-8F86-D9219B89AE6B", 66, 1392960818, "862121", 1392960818, "862121", "{\n}", "2009", "Governmental Activities", "HUD Loan", "98035" ]
+, [ 67, "D2F29473-D0A0-4FDB-B3E5-22677CADB97C", 67, 1392960818, "862121", 1392960818, "862121", "{\n}", "2010", "Governmental Activities", "HUD Loan", "156276" ]
+, [ 68, "B0673D97-4473-4126-967D-B0C27BF210F9", 68, 1392960818, "862121", 1392960818, "862121", "{\n}", "2011", "Governmental Activities", "HUD Loan", "157781" ]
+, [ 69, "D39C3208-0106-4C15-943A-95BC14793C8D", 69, 1392960818, "862121", 1392960818, "862121", "{\n}", "2012", "Governmental Activities", "HUD Loan", "204395" ]
+, [ 70, "96127B5B-024B-4832-8AC5-49DEE6BB4891", 70, 1392960818, "862121", 1392960818, "862121", "{\n}", "2013", "Governmental Activities", "HUD Loan", "198600" ]
+, [ 71, "F8377365-ECE3-496D-9948-074141E86AB2", 71, 1392960818, "862121", 1392960818, "862121", "{\n}", "2004", "Business-Type Activities", "Revenue Bonds", "7967082" ]
+, [ 72, "C086A030-68F4-4DEB-81B8-48D07B9991CA", 72, 1392960818, "862121", 1392960818, "862121", "{\n}", "2005", "Business-Type Activities", "Revenue Bonds", "8242961" ]
+, [ 73, "962EA6F7-BDE7-45FD-AE75-0657E35B3863", 73, 1392960818, "862121", 1392960818, "862121", "{\n}", "2006", "Business-Type Activities", "Revenue Bonds", "9542085" ]
+, [ 74, "D980EC54-FA69-4480-8FC8-6879646179D1", 74, 1392960818, "862121", 1392960818, "862121", "{\n}", "2007", "Business-Type Activities", "Revenue Bonds", "9617666" ]
+, [ 75, "D4C6E3CA-33EF-48C5-8E3C-2B705A3B30F9", 75, 1392960818, "862121", 1392960818, "862121", "{\n}", "2008", "Business-Type Activities", "Revenue Bonds", "9930796" ]
+, [ 76, "AF0816BF-1DE9-4ADD-81C2-17360E90B1A0", 76, 1392960818, "862121", 1392960818, "862121", "{\n}", "2009", "Business-Type Activities", "Revenue Bonds", "11563845" ]
+, [ 77, "7E2E6E97-F504-4E04-ABE7-482CBC84CA7A", 77, 1392960818, "862121", 1392960818, "862121", "{\n}", "2010", "Business-Type Activities", "Revenue Bonds", "14186991" ]
+, [ 78, "47759B84-BE20-4FE5-BB03-AAFFE81C1B35", 78, 1392960818, "862121", 1392960818, "862121", "{\n}", "2011", "Business-Type Activities", "Revenue Bonds", "16762101" ]
+, [ 79, "1CE9D6D4-4684-40C3-AD78-5171AB8CE7D5", 79, 1392960818, "862121", 1392960818, "862121", "{\n}", "2012", "Business-Type Activities", "Revenue Bonds", "16517924" ]
+, [ 80, "346C9F53-E721-4D67-A0AE-7B07C3F9257F", 80, 1392960818, "862121", 1392960818, "862121", "{\n}", "2013", "Business-Type Activities", "Revenue Bonds", "18252193" ]
+, [ 81, "2F5F5047-7BEE-42C1-8ADF-7BA453E6AAEA", 81, 1392960818, "862121", 1392960818, "862121", "{\n}", "2004", "Business-Type Activities", "Commercial Paper", "266095" ]
+, [ 82, "AA6A6286-0680-49E5-8CB7-E0E98C8991D1", 82, 1392960818, "862121", 1392960818, "862121", "{\n}", "2005", "Business-Type Activities", "Commercial Paper", "366561" ]
+, [ 83, "60B29BB0-E292-43A9-9825-5712245CD7BA", 83, 1392960818, "862121", 1392960818, "862121", "{\n}", "2006", "Business-Type Activities", "Commercial Paper", "313561" ]
+, [ 84, "F63A9CF2-4073-4298-B7DE-6686FA40F0D2", 84, 1392960818, "862121", 1392960818, "862121", "{\n}", "2007", "Business-Type Activities", "Commercial Paper", "498745" ]
+, [ 85, "9DA245A3-9C8E-4D5E-9868-BDF913DDC286", 85, 1392960818, "862121", 1392960818, "862121", "{\n}", "2008", "Business-Type Activities", "Commercial Paper", "810328" ]
+, [ 86, "175C0647-FC31-4025-ABAD-13FEF8AFB36A", 86, 1392960818, "862121", 1392960818, "862121", "{\n}", "2009", "Business-Type Activities", "Commercial Paper", "446989" ]
+, [ 87, "EB95C22C-297A-4AB7-8CD7-3C8570506F0A", 87, 1392960818, "862121", 1392960818, "862121", "{\n}", "2010", "Business-Type Activities", "Commercial Paper", "647116" ]
+, [ 88, "429E813C-D484-415B-B213-DF77C36A8806", 88, 1392960818, "862121", 1392960818, "862121", "{\n}", "2011", "Business-Type Activities", "Commercial Paper", "415012" ]
+, [ 89, "0B3F50F8-929D-480A-B2D3-441D5A6FD6E9", 89, 1392960818, "862121", 1392960818, "862121", "{\n}", "2012", "Business-Type Activities", "Commercial Paper", "462199" ]
+, [ 90, "F5B8800A-863B-463F-91E5-A16320A621E3", 90, 1392960818, "862121", 1392960818, "862121", "{\n}", "2013", "Business-Type Activities", "Commercial Paper", "368086" ]
+, [ 91, "11C30F8B-282F-4C9D-9FD1-2591977BB631", 91, 1392960818, "862121", 1392960818, "862121", "{\n}", "2004", "Business-Type Activities", "Notes Payable", "9715" ]
+, [ 92, "C60169E4-D666-4D0B-9A6C-8B08E9B41F85", 92, 1392960818, "862121", 1392960818, "862121", "{\n}", "2005", "Business-Type Activities", "Notes Payable", "4495" ]
+, [ 93, "65A6B1AA-EB43-4E47-9451-7E3CDFDF2FF2", 93, 1392960818, "862121", 1392960818, "862121", "{\n}", "2006", "Business-Type Activities", "Notes Payable", "4105" ]
+, [ 94, "2F0EC5F9-1482-4113-8A6A-44FAFC764787", 94, 1392960818, "862121", 1392960818, "862121", "{\n}", "2007", "Business-Type Activities", "Notes Payable", "3697" ]
+, [ 95, "90BFF60F-C7D3-4115-B03D-ABCDCB454D35", 95, 1392960818, "862121", 1392960818, "862121", "{\n}", "2008", "Business-Type Activities", "Notes Payable", "3271" ]
+, [ 96, "013E75CC-E934-4109-9873-CAB3558AC80C", 96, 1392960818, "862121", 1392960818, "862121", "{\n}", "2009", "Business-Type Activities", "Notes Payable", "2826" ]
+, [ 97, "82538FCE-61DE-4A2D-B77F-CAB1614AC9A7", 97, 1392960818, "862121", 1392960818, "862121", "{\n}", "2010", "Business-Type Activities", "Notes Payable", "2361" ]
+, [ 98, "86D3E311-B140-4799-B3A2-0F2F70FB9DED", 98, 1392960818, "862121", 1392960818, "862121", "{\n}", "2011", "Business-Type Activities", "Notes Payable", "1874" ]
+, [ 99, "D0CF13A2-5405-4ADB-B90C-DF6A7661E48E", 99, 1392960818, "862121", 1392960818, "862121", "{\n}", "2012", "Business-Type Activities", "Notes Payable", "1366" ]
+, [ 100, "3A388A46-89BD-4A3A-90E9-E860CC5B4726", 100, 1392960818, "862121", 1392960818, "862121", "{\n}", "2013", "Business-Type Activities", "Notes Payable", "0" ]
+, [ 101, "2E6517A1-CF99-4783-93F6-AC83D7FD9A12", 101, 1392960818, "862121", 1392960818, "862121", "{\n}", "2004", "Business-Type Activities", "Loans Payable", "146215" ]
+, [ 102, "7F81352C-5516-48A0-9129-6F3DF01B1049", 102, 1392960818, "862121", 1392960818, "862121", "{\n}", "2005", "Business-Type Activities", "Loans Payable", "166684" ]
+, [ 103, "9F502A02-E79C-474C-ABC6-964A966FDB91", 103, 1392960818, "862121", 1392960818, "862121", "{\n}", "2006", "Business-Type Activities", "Loans Payable", "159659" ]
+, [ 104, "A91C5A9C-B7E1-40AF-8F25-28A316C7415A", 104, 1392960818, "862121", 1392960818, "862121", "{\n}", "2007", "Business-Type Activities", "Loans Payable", "242122" ]
+, [ 105, "88E62B4E-2A95-4876-82CF-0572EF00E3CC", 105, 1392960818, "862121", 1392960818, "862121", "{\n}", "2008", "Business-Type Activities", "Loans Payable", "266441" ]
+, [ 106, "3F988723-CE72-407E-A7EA-8183AE28DA35", 106, 1392960818, "862121", 1392960818, "862121", "{\n}", "2009", "Business-Type Activities", "Loans Payable", "255723" ]
+, [ 107, "AA71B2D3-0D56-4A3B-94C0-73DCF4183684", 107, 1392960818, "862121", 1392960818, "862121", "{\n}", "2010", "Business-Type Activities", "Loans Payable", "288273" ]
+, [ 108, "2E66DCA0-F890-4893-AAAE-3776D4123E11", 108, 1392960818, "862121", 1392960818, "862121", "{\n}", "2011", "Business-Type Activities", "Loans Payable", "274869" ]
+, [ 109, "03F443B7-E86A-49C8-920C-B25DDA728F34", 109, 1392960818, "862121", 1392960818, "862121", "{\n}", "2012", "Business-Type Activities", "Loans Payable", "314227" ]
+, [ 110, "B8CBF73F-F881-47DE-A75A-5326BABB4AC1", 110, 1392960818, "862121", 1392960818, "862121", "{\n}", "2013", "Business-Type Activities", "Loans Payable", "327037" ]
+, [ 111, "408DA6C8-CBFA-44E3-ACEB-6A85E7B71CD8", 111, 1392960818, "862121", 1392960818, "862121", "{\n}", "2004", "Business-Type Activities", "Capital Leases", "54648" ]
+, [ 112, "CEFB1B96-2F4E-4D9B-9F2F-C1BFB23CAB55", 112, 1392960818, "862121", 1392960818, "862121", "{\n}", "2005", "Business-Type Activities", "Capital Leases", "53793" ]
+, [ 113, "E5DB11A8-B4AB-4988-9F4B-9E8128D8656C", 113, 1392960818, "862121", 1392960818, "862121", "{\n}", "2006", "Business-Type Activities", "Capital Leases", "52881" ]
+, [ 114, "B672D4EC-CB35-47EE-9793-F1BF6B108E7C", 114, 1392960818, "862121", 1392960818, "862121", "{\n}", "2007", "Business-Type Activities", "Capital Leases", "51855" ]
+, [ 115, "8A9C1649-6C2D-4D5A-BFF6-7E3E15F21CA4", 115, 1392960818, "862121", 1392960818, "862121", "{\n}", "2008", "Business-Type Activities", "Capital Leases", "50715" ]
+, [ 116, "6150106E-C434-408D-8992-A0F95CB3B9CE", 116, 1392960818, "862121", 1392960818, "862121", "{\n}", "2009", "Business-Type Activities", "Capital Leases", "49518" ]
+, [ 117, "E6E57062-F2CE-4648-B05F-927162C92154", 117, 1392960818, "862121", 1392960818, "862121", "{\n}", "2010", "Business-Type Activities", "Capital Leases", "0" ]
+, [ 118, "AF60DF40-C958-4147-95B1-C38B53A70BE4", 118, 1392960818, "862121", 1392960818, "862121", "{\n}", "2011", "Business-Type Activities", "Capital Leases", "0" ]
+, [ 119, "90942BA5-7189-46D6-AD28-4D51581DA642", 119, 1392960818, "862121", 1392960818, "862121", "{\n}", "2012", "Business-Type Activities", "Capital Leases", "0" ]
+, [ 120, "91BBAD91-D67D-4361-B3D7-82CBC3A36DA6", 120, 1392960818, "862121", 1392960818, "862121", "{\n}", "2013", "Business-Type Activities", "Capital Leases", "0" ]
+ ]
+}

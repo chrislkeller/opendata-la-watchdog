@@ -1,0 +1,648 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "m54w-v4rc",
+      "name" : "Annual Outages Excluding Consumer Caused Outages",
+      "attribution" : "LADWP",
+      "averageRating" : 0,
+      "category" : "A Well Run City",
+      "createdAt" : 1401836573,
+      "description" : "Annual Outages.  Each listed area is the LADWP facility that responded to the outages.",
+      "displayType" : "table",
+      "downloadCount" : 5,
+      "indexUpdatedAt" : 1414613790,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8138192,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401836723,
+      "publicationGroup" : 1605050,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1401836582,
+      "rowsUpdatedBy" : "7q7s-tyf3",
+      "tableId" : 1605050,
+      "totalTimesRated" : 0,
+      "viewCount" : 9,
+      "viewLastModified" : 1402096222,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 151228269,
+        "name" : "LADWP Facility",
+        "dataTypeName" : "number",
+        "fieldName" : "ladwp_facility",
+        "position" : 2,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20088682,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 14,
+          "smallest" : "2000",
+          "sum" : "28091",
+          "null" : 0,
+          "average" : "2006.5",
+          "largest" : "2013",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2000"
+          }, {
+            "count" : 19,
+            "item" : "2001"
+          }, {
+            "count" : 18,
+            "item" : "2002"
+          }, {
+            "count" : 17,
+            "item" : "2003"
+          }, {
+            "count" : 16,
+            "item" : "2004"
+          }, {
+            "count" : 15,
+            "item" : "2005"
+          }, {
+            "count" : 14,
+            "item" : "2006"
+          }, {
+            "count" : 13,
+            "item" : "2007"
+          }, {
+            "count" : 12,
+            "item" : "2008"
+          }, {
+            "count" : 11,
+            "item" : "2009"
+          }, {
+            "count" : 10,
+            "item" : "2010"
+          }, {
+            "count" : 9,
+            "item" : "2011"
+          }, {
+            "count" : 8,
+            "item" : "2012"
+          }, {
+            "count" : 7,
+            "item" : "2013"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 151228270,
+        "name" : "Central",
+        "dataTypeName" : "number",
+        "fieldName" : "central",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20088683,
+        "width" : 184,
+        "cachedContents" : {
+          "non_null" : 14,
+          "smallest" : "516",
+          "sum" : "10459",
+          "null" : 0,
+          "average" : "747.0714285714286",
+          "largest" : "939",
+          "top" : [ {
+            "count" : 20,
+            "item" : "541"
+          }, {
+            "count" : 19,
+            "item" : "535"
+          }, {
+            "count" : 18,
+            "item" : "516"
+          }, {
+            "count" : 17,
+            "item" : "823"
+          }, {
+            "count" : 16,
+            "item" : "805"
+          }, {
+            "count" : 15,
+            "item" : "843"
+          }, {
+            "count" : 14,
+            "item" : "909"
+          }, {
+            "count" : 13,
+            "item" : "939"
+          }, {
+            "count" : 12,
+            "item" : "676"
+          }, {
+            "count" : 11,
+            "item" : "878"
+          }, {
+            "count" : 10,
+            "item" : "828"
+          }, {
+            "count" : 9,
+            "item" : "754"
+          }, {
+            "count" : 8,
+            "item" : "703"
+          }, {
+            "count" : 7,
+            "item" : "709"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 151228271,
+        "name" : "Lincoln Ht",
+        "dataTypeName" : "number",
+        "fieldName" : "lincoln_ht",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20088684,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 14,
+          "smallest" : "303",
+          "sum" : "6427",
+          "null" : 0,
+          "average" : "459.0714285714286",
+          "largest" : "663",
+          "top" : [ {
+            "count" : 20,
+            "item" : "303"
+          }, {
+            "count" : 19,
+            "item" : "308"
+          }, {
+            "count" : 18,
+            "item" : "364"
+          }, {
+            "count" : 17,
+            "item" : "403"
+          }, {
+            "count" : 16,
+            "item" : "462"
+          }, {
+            "count" : 15,
+            "item" : "635"
+          }, {
+            "count" : 14,
+            "item" : "663"
+          }, {
+            "count" : 13,
+            "item" : "526"
+          }, {
+            "count" : 12,
+            "item" : "418"
+          }, {
+            "count" : 11,
+            "item" : "415"
+          }, {
+            "count" : 10,
+            "item" : "529"
+          }, {
+            "count" : 9,
+            "item" : "587"
+          }, {
+            "count" : 8,
+            "item" : "452"
+          }, {
+            "count" : 7,
+            "item" : "362"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 151228272,
+        "name" : "Palms",
+        "dataTypeName" : "number",
+        "fieldName" : "palms",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20088685,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 14,
+          "smallest" : "483",
+          "sum" : "8714",
+          "null" : 0,
+          "average" : "622.4285714285714",
+          "largest" : "782",
+          "top" : [ {
+            "count" : 20,
+            "item" : "613"
+          }, {
+            "count" : 19,
+            "item" : "531"
+          }, {
+            "count" : 18,
+            "item" : "483"
+          }, {
+            "count" : 17,
+            "item" : "598"
+          }, {
+            "count" : 16,
+            "item" : "708"
+          }, {
+            "count" : 15,
+            "item" : "688"
+          }, {
+            "count" : 14,
+            "item" : "715"
+          }, {
+            "count" : 13,
+            "item" : "782"
+          }, {
+            "count" : 12,
+            "item" : "695"
+          }, {
+            "count" : 11,
+            "item" : "639"
+          }, {
+            "count" : 10,
+            "item" : "569"
+          }, {
+            "count" : 9,
+            "item" : "561"
+          }, {
+            "count" : 8,
+            "item" : "593"
+          }, {
+            "count" : 7,
+            "item" : "539"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 151228273,
+        "name" : "Wilmington",
+        "dataTypeName" : "number",
+        "fieldName" : "wilmington",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20088686,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 14,
+          "smallest" : "186",
+          "sum" : "3438",
+          "null" : 0,
+          "average" : "245.5714285714286",
+          "largest" : "286",
+          "top" : [ {
+            "count" : 20,
+            "item" : "255"
+          }, {
+            "count" : 19,
+            "item" : "278"
+          }, {
+            "count" : 18,
+            "item" : "202"
+          }, {
+            "count" : 17,
+            "item" : "221"
+          }, {
+            "count" : 16,
+            "item" : "267"
+          }, {
+            "count" : 15,
+            "item" : "274"
+          }, {
+            "count" : 14,
+            "item" : "186"
+          }, {
+            "count" : 13,
+            "item" : "286"
+          }, {
+            "count" : 12,
+            "item" : "227"
+          }, {
+            "count" : 11,
+            "item" : "245"
+          }, {
+            "count" : 10,
+            "item" : "246"
+          }, {
+            "count" : 9,
+            "item" : "216"
+          }, {
+            "count" : 8,
+            "item" : "257"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 151228274,
+        "name" : "West LA",
+        "dataTypeName" : "number",
+        "fieldName" : "west_la",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20088687,
+        "width" : 184,
+        "cachedContents" : {
+          "non_null" : 14,
+          "smallest" : "276",
+          "sum" : "6136",
+          "null" : 0,
+          "average" : "438.2857142857143",
+          "largest" : "574",
+          "top" : [ {
+            "count" : 20,
+            "item" : "276"
+          }, {
+            "count" : 19,
+            "item" : "287"
+          }, {
+            "count" : 18,
+            "item" : "302"
+          }, {
+            "count" : 17,
+            "item" : "339"
+          }, {
+            "count" : 16,
+            "item" : "497"
+          }, {
+            "count" : 15,
+            "item" : "471"
+          }, {
+            "count" : 14,
+            "item" : "521"
+          }, {
+            "count" : 13,
+            "item" : "568"
+          }, {
+            "count" : 12,
+            "item" : "475"
+          }, {
+            "count" : 11,
+            "item" : "574"
+          }, {
+            "count" : 10,
+            "item" : "474"
+          }, {
+            "count" : 9,
+            "item" : "436"
+          }, {
+            "count" : 8,
+            "item" : "530"
+          }, {
+            "count" : 7,
+            "item" : "386"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 151228275,
+        "name" : "Van Nuys",
+        "dataTypeName" : "number",
+        "fieldName" : "van_nuys",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20088688,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 14,
+          "smallest" : "627",
+          "sum" : "12280",
+          "null" : 0,
+          "average" : "877.1428571428571",
+          "largest" : "1352",
+          "top" : [ {
+            "count" : 20,
+            "item" : "627"
+          }, {
+            "count" : 19,
+            "item" : "792"
+          }, {
+            "count" : 18,
+            "item" : "762"
+          }, {
+            "count" : 17,
+            "item" : "838"
+          }, {
+            "count" : 16,
+            "item" : "801"
+          }, {
+            "count" : 15,
+            "item" : "1069"
+          }, {
+            "count" : 14,
+            "item" : "1352"
+          }, {
+            "count" : 13,
+            "item" : "1155"
+          }, {
+            "count" : 12,
+            "item" : "1040"
+          }, {
+            "count" : 11,
+            "item" : "731"
+          }, {
+            "count" : 10,
+            "item" : "809"
+          }, {
+            "count" : 9,
+            "item" : "839"
+          }, {
+            "count" : 8,
+            "item" : "700"
+          }, {
+            "count" : 7,
+            "item" : "765"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 151228276,
+        "name" : "Northridge",
+        "dataTypeName" : "number",
+        "fieldName" : "northridge",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20088689,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 14,
+          "smallest" : "721",
+          "sum" : "14295",
+          "null" : 0,
+          "average" : "1021.071428571429",
+          "largest" : "1569",
+          "top" : [ {
+            "count" : 20,
+            "item" : "787"
+          }, {
+            "count" : 19,
+            "item" : "721"
+          }, {
+            "count" : 18,
+            "item" : "865"
+          }, {
+            "count" : 17,
+            "item" : "971"
+          }, {
+            "count" : 16,
+            "item" : "968"
+          }, {
+            "count" : 15,
+            "item" : "1337"
+          }, {
+            "count" : 14,
+            "item" : "1569"
+          }, {
+            "count" : 13,
+            "item" : "1458"
+          }, {
+            "count" : 12,
+            "item" : "1046"
+          }, {
+            "count" : 11,
+            "item" : "832"
+          }, {
+            "count" : 10,
+            "item" : "953"
+          }, {
+            "count" : 9,
+            "item" : "976"
+          }, {
+            "count" : 8,
+            "item" : "872"
+          }, {
+            "count" : 7,
+            "item" : "940"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "LADWP"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "7q7s-tyf3",
+        "displayName" : "Steve Baule",
+        "roleName" : "editor",
+        "screenName" : "Steve Baule",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "7q7s-tyf3",
+        "displayName" : "Steve Baule",
+        "roleName" : "editor",
+        "screenName" : "Steve Baule",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "annual outages" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "77F8D2FA-D8EA-4040-9DBA-C16175F82988", 1, 1401836576, "877550", 1401836576, "877550", "{\n}", "2000", "541", "303", "613", "255", "276", "627", "787" ]
+, [ 2, "E9DB3361-7866-499A-98BB-54352C025BF7", 2, 1401836576, "877550", 1401836576, "877550", "{\n}", "2001", "535", "308", "531", "278", "287", "792", "721" ]
+, [ 3, "3E000238-B547-4659-A14A-6BE27AA314A8", 3, 1401836576, "877550", 1401836576, "877550", "{\n}", "2002", "516", "364", "483", "202", "302", "762", "865" ]
+, [ 4, "3FD622C2-20B7-45A1-B804-E1D93599755A", 4, 1401836576, "877550", 1401836576, "877550", "{\n}", "2003", "823", "403", "598", "221", "339", "838", "971" ]
+, [ 5, "09F3498D-DE61-4FE1-93F2-BC8C830033D0", 5, 1401836576, "877550", 1401836576, "877550", "{\n}", "2004", "805", "462", "708", "267", "497", "801", "968" ]
+, [ 6, "F94D23C0-8000-4AEE-AB49-1A358779D19F", 6, 1401836576, "877550", 1401836576, "877550", "{\n}", "2005", "843", "635", "688", "274", "471", "1069", "1337" ]
+, [ 7, "1FE42CD3-D666-4069-9DA8-29EDECBC66DE", 7, 1401836576, "877550", 1401836576, "877550", "{\n}", "2006", "909", "663", "715", "186", "521", "1352", "1569" ]
+, [ 8, "19B93468-2526-4CC9-AEFA-CB056E1AD38F", 8, 1401836576, "877550", 1401836576, "877550", "{\n}", "2007", "939", "526", "782", "286", "568", "1155", "1458" ]
+, [ 9, "F4BCE43E-AE99-47D5-82B2-3A64253C0DD3", 9, 1401836576, "877550", 1401836576, "877550", "{\n}", "2008", "676", "418", "695", "278", "475", "1040", "1046" ]
+, [ 10, "EAE2BA41-5FE1-408C-B13D-4F29A1D477D0", 10, 1401836576, "877550", 1401836576, "877550", "{\n}", "2009", "878", "415", "639", "227", "574", "731", "832" ]
+, [ 11, "7E4F96BD-E40B-49FB-AE18-7BAA9305E4E9", 11, 1401836576, "877550", 1401836576, "877550", "{\n}", "2010", "828", "529", "569", "245", "474", "809", "953" ]
+, [ 12, "786E188E-B5AE-4843-BB7C-CCDB349C6EED", 12, 1401836576, "877550", 1401836576, "877550", "{\n}", "2011", "754", "587", "561", "246", "436", "839", "976" ]
+, [ 13, "A110E12C-A530-40D8-9740-D8B1CFB399B4", 13, 1401836576, "877550", 1401836576, "877550", "{\n}", "2012", "703", "452", "593", "216", "530", "700", "872" ]
+, [ 14, "55E6CA22-6534-4175-8E77-A30F0D178FB8", 14, 1401836576, "877550", 1401836576, "877550", "{\n}", "2013", "709", "362", "539", "257", "386", "765", "940" ]
+ ]
+}

@@ -1,0 +1,246 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "t24g-hqix",
+      "name" : "LADWP Power Poles Installation",
+      "attribution" : "LADWP",
+      "averageRating" : 0,
+      "category" : "A Well Run City",
+      "createdAt" : 1400886164,
+      "description" : "Age of LADWP Power Poles in Los Angeles",
+      "displayType" : "table",
+      "downloadCount" : 6,
+      "indexUpdatedAt" : 1414612842,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8060239,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1400886552,
+      "publicationGroup" : 1593187,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1400886540,
+      "rowsUpdatedBy" : "7q7s-tyf3",
+      "tableId" : 1593192,
+      "totalTimesRated" : 0,
+      "viewCount" : 33,
+      "viewLastModified" : 1401231182,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 149729040,
+        "name" : "Years",
+        "dataTypeName" : "text",
+        "fieldName" : "years",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19909928,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "1900-1932",
+          "null" : 0,
+          "largest" : "2003-2013",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1900-1932"
+          }, {
+            "count" : 19,
+            "item" : "1933-1942"
+          }, {
+            "count" : 18,
+            "item" : "1943-1952"
+          }, {
+            "count" : 17,
+            "item" : "1953-1962"
+          }, {
+            "count" : 16,
+            "item" : "1963-1972"
+          }, {
+            "count" : 15,
+            "item" : "1973-1982"
+          }, {
+            "count" : 14,
+            "item" : "1983-1992"
+          }, {
+            "count" : 13,
+            "item" : "1993-2002"
+          }, {
+            "count" : 12,
+            "item" : "2003-2013"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149729042,
+        "name" : "# of Power Poles Installed",
+        "dataTypeName" : "number",
+        "fieldName" : "of_power_poles_installed",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19909929,
+        "width" : 412,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "7694",
+          "sum" : "306312",
+          "null" : 0,
+          "average" : "34034.66666666667",
+          "largest" : "86829",
+          "top" : [ {
+            "count" : 20,
+            "item" : "7694"
+          }, {
+            "count" : 19,
+            "item" : "24425"
+          }, {
+            "count" : 18,
+            "item" : "55215"
+          }, {
+            "count" : 17,
+            "item" : "86829"
+          }, {
+            "count" : 16,
+            "item" : "46945"
+          }, {
+            "count" : 15,
+            "item" : "18004"
+          }, {
+            "count" : 14,
+            "item" : "26360"
+          }, {
+            "count" : 13,
+            "item" : "20292"
+          }, {
+            "count" : 12,
+            "item" : "20548"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "LADWP"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "hb8e-gdsp",
+        "displayName" : "LA DWP OpenData",
+        "profileImageUrlLarge" : "/images/profile/5225/6660/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5225/6660/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5225/6660/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LA DWP OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "7q7s-tyf3",
+        "displayName" : "Steve Baule",
+        "roleName" : "editor",
+        "screenName" : "Steve Baule",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "power polls", "reliability" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "29134620-6637-4D89-BC3E-9CF3AD711946", 1, 1400886167, "877550", 1400886427, "877550", null, "1900-1932", "7694" ]
+, [ 2, "3FE3D948-3409-4D44-8949-CA26CA901668", 2, 1400886167, "877550", 1400886436, "877550", null, "1933-1942", "24425" ]
+, [ 3, "99CCF79E-41E4-45A9-B44A-7075A6E058FE", 3, 1400886167, "877550", 1400886442, "877550", null, "1943-1952", "55215" ]
+, [ 4, "4A6CC1C4-ED97-47D2-B3F4-AE30CF195391", 4, 1400886167, "877550", 1400886449, "877550", null, "1953-1962", "86829" ]
+, [ 5, "0438E42A-1274-4F8F-B59E-1FA94E5BC7AF", 5, 1400886167, "877550", 1400886457, "877550", null, "1963-1972", "46945" ]
+, [ 6, "CD5969B0-99CC-4AFD-9446-D89F5F1C3A8B", 6, 1400886167, "877550", 1400886470, "877550", null, "1973-1982", "18004" ]
+, [ 7, "C7CE3EB9-C4AE-49C0-8913-5FC3D57DD9DC", 7, 1400886167, "877550", 1400886477, "877550", null, "1983-1992", "26360" ]
+, [ 8, "1DAEEB20-5A78-4015-BC8B-85E32A45AACF", 8, 1400886167, "877550", 1400886421, "877550", null, "1993-2002", "20292" ]
+, [ 9, "A50A1FCC-45E2-4958-9888-587B26E99B73", 9, 1400886167, "877550", 1400886485, "877550", null, "2003-2013", "20548" ]
+ ]
+}

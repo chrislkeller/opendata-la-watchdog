@@ -1,0 +1,473 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "hndw-h3vq",
+      "name" : "Principal Employers in the City of Los Angeles",
+      "attribution" : "Controller",
+      "attributionLink" : "http://controller.lacity.org/stellent/groups/ElectedOfficials/@CTR_Contributor/documents/Contributor_Web_Content/LACITYP_027750.pdf#Page=405",
+      "averageRating" : 0,
+      "category" : "Statistics",
+      "createdAt" : 1390692325,
+      "description" : "CAFR Page 360.\r\n\r\nCurrent Year and Nine Years Ago",
+      "displayType" : "table",
+      "downloadCount" : 15,
+      "indexUpdatedAt" : 1414612861,
+      "licenseId" : "PUBLIC_DOMAIN",
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 7442674,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1393555264,
+      "publicationGroup" : 1454131,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1393555250,
+      "rowsUpdatedBy" : "7c7a-resi",
+      "tableId" : 1492325,
+      "totalTimesRated" : 0,
+      "viewCount" : 99,
+      "viewLastModified" : 1412744539,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 135633394,
+        "name" : "Year",
+        "dataTypeName" : "number",
+        "fieldName" : "year",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17786542,
+        "width" : 50,
+        "cachedContents" : {
+          "non_null" : 22,
+          "smallest" : "2004",
+          "sum" : "44178",
+          "null" : 0,
+          "average" : "2008.090909090909",
+          "largest" : "2013",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2013"
+          }, {
+            "count" : 19,
+            "item" : "2004"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "true"
+        }
+      }, {
+        "id" : 135633395,
+        "name" : "Employer",
+        "dataTypeName" : "text",
+        "fieldName" : "employer",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17786543,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 22,
+          "smallest" : "Cedars-Sinai Medical Center",
+          "null" : 0,
+          "largest" : "Veterans Health Administration",
+          "top" : [ {
+            "count" : 20,
+            "item" : "City of Los Angeles"
+          }, {
+            "count" : 19,
+            "item" : "County of Los Angeles"
+          }, {
+            "count" : 18,
+            "item" : "University of California Los Angeles"
+          }, {
+            "count" : 17,
+            "item" : "Los Angeles Unified School District"
+          }, {
+            "count" : 16,
+            "item" : "Securitas Holdings Inc"
+          }, {
+            "count" : 15,
+            "item" : "Kaiser Foundation Hospitals"
+          }, {
+            "count" : 14,
+            "item" : "Cedars-Sinai Medical Center"
+          }, {
+            "count" : 13,
+            "item" : "University of Southern California"
+          }, {
+            "count" : 12,
+            "item" : "Veterans Health Administration"
+          }, {
+            "count" : 11,
+            "item" : "Farmers Insurance Group"
+          }, {
+            "count" : 10,
+            "item" : "Sony Pictures"
+          }, {
+            "count" : 9,
+            "item" : "The Walt-Disney Company"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 135633396,
+        "name" : "Rank",
+        "dataTypeName" : "number",
+        "fieldName" : "rank",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17786545,
+        "width" : 107,
+        "cachedContents" : {
+          "non_null" : 22,
+          "smallest" : "0",
+          "sum" : "110",
+          "null" : 0,
+          "average" : "5",
+          "largest" : "10",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          }, {
+            "count" : 19,
+            "item" : "2"
+          }, {
+            "count" : 18,
+            "item" : "3"
+          }, {
+            "count" : 17,
+            "item" : "4"
+          }, {
+            "count" : 16,
+            "item" : "5"
+          }, {
+            "count" : 15,
+            "item" : "6"
+          }, {
+            "count" : 14,
+            "item" : "7"
+          }, {
+            "count" : 13,
+            "item" : "8"
+          }, {
+            "count" : 12,
+            "item" : "9"
+          }, {
+            "count" : 11,
+            "item" : "10"
+          }, {
+            "count" : 10,
+            "item" : "0"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 135633397,
+        "name" : "Employees",
+        "dataTypeName" : "number",
+        "fieldName" : "employees",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17786544,
+        "width" : 120,
+        "cachedContents" : {
+          "non_null" : 22,
+          "smallest" : "0",
+          "sum" : "427036",
+          "null" : 0,
+          "average" : "19410.72727272727",
+          "largest" : "48092",
+          "top" : [ {
+            "count" : 20,
+            "item" : "44880"
+          }, {
+            "count" : 19,
+            "item" : "40349"
+          }, {
+            "count" : 18,
+            "item" : "31457"
+          }, {
+            "count" : 17,
+            "item" : "30895"
+          }, {
+            "count" : 16,
+            "item" : "13607"
+          }, {
+            "count" : 15,
+            "item" : "13148"
+          }, {
+            "count" : 14,
+            "item" : "13000"
+          }, {
+            "count" : 13,
+            "item" : "12144"
+          }, {
+            "count" : 12,
+            "item" : "10802"
+          }, {
+            "count" : 11,
+            "item" : "9038"
+          }, {
+            "count" : 10,
+            "item" : "48092"
+          }, {
+            "count" : 9,
+            "item" : "39900"
+          }, {
+            "count" : 8,
+            "item" : "9113"
+          }, {
+            "count" : 7,
+            "item" : "40639"
+          }, {
+            "count" : 6,
+            "item" : "0"
+          }, {
+            "count" : 5,
+            "item" : "16296"
+          }, {
+            "count" : 4,
+            "item" : "17500"
+          }, {
+            "count" : 3,
+            "item" : "14509"
+          }, {
+            "count" : 2,
+            "item" : "9167"
+          }, {
+            "count" : 1,
+            "item" : "6500"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 135633398,
+        "name" : "Percentage of Total City Employment",
+        "dataTypeName" : "percent",
+        "fieldName" : "percentage_of_total_city_employment",
+        "position" : 5,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 17786546,
+        "width" : 157,
+        "cachedContents" : {
+          "non_null" : 22,
+          "smallest" : "0.00",
+          "sum" : "24.77",
+          "null" : 0,
+          "average" : "1.125909090909091",
+          "largest" : "2.79",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2.60"
+          }, {
+            "count" : 19,
+            "item" : "2.34"
+          }, {
+            "count" : 18,
+            "item" : "1.82"
+          }, {
+            "count" : 17,
+            "item" : "1.79"
+          }, {
+            "count" : 16,
+            "item" : "0.79"
+          }, {
+            "count" : 15,
+            "item" : "0.76"
+          }, {
+            "count" : 14,
+            "item" : "0.75"
+          }, {
+            "count" : 13,
+            "item" : "0.70"
+          }, {
+            "count" : 12,
+            "item" : "0.63"
+          }, {
+            "count" : 11,
+            "item" : "0.52"
+          }, {
+            "count" : 10,
+            "item" : "2.79"
+          }, {
+            "count" : 9,
+            "item" : "2.32"
+          }, {
+            "count" : 8,
+            "item" : "0.53"
+          }, {
+            "count" : 7,
+            "item" : "2.36"
+          }, {
+            "count" : 6,
+            "item" : "0.00"
+          }, {
+            "count" : 5,
+            "item" : "0.95"
+          }, {
+            "count" : 4,
+            "item" : "1.02"
+          }, {
+            "count" : 3,
+            "item" : "0.84"
+          }, {
+            "count" : 2,
+            "item" : "0.38"
+          }, {
+            "count" : 1,
+            "item" : "0.35"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Public Domain"
+      },
+      "metadata" : {
+        "custom_fields" : {
+          "Department" : {
+            "Division" : "GAAP",
+            "Department" : "Controller",
+            "System" : "CAFR"
+          },
+          "Update Information" : {
+            "Update Cycle" : "Annual"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "7c7a-resi",
+        "displayName" : "Controller's Office",
+        "roleName" : "administrator",
+        "screenName" : "Controller's Office",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "7c7a-resi",
+        "displayName" : "Controller's Office",
+        "roleName" : "administrator",
+        "screenName" : "Controller's Office",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "tags" : [ "employers", "city of los angeles", "city of los angeles controller", "city of la", "city of la controller", "ron galperin", "comprehensive annual financial report", "cafr", "net position", "asset type", "asset type group", "activity type", "cafr statistical section" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "60AD43E7-5F6F-4F5B-9980-FF91783504F3", 1, 1390692328, "862121", 1390692328, "862121", "{\n}", "2013", "City of Los Angeles", "1", "44880", "2.60" ]
+, [ 2, "914F1E01-C8F7-4055-B9FC-0F72982B5D88", 2, 1390692328, "862121", 1390692328, "862121", "{\n}", "2013", "County of Los Angeles", "2", "40349", "2.34" ]
+, [ 3, "55F002FC-6651-4B18-83C7-BA4DD2B2D51D", 3, 1390692328, "862121", 1390692328, "862121", "{\n}", "2013", "University of California Los Angeles", "3", "31457", "1.82" ]
+, [ 4, "3FABA479-1CAF-4FC2-8A61-4B89BFA54FC8", 4, 1390692328, "862121", 1390692328, "862121", "{\n}", "2013", "Los Angeles Unified School District", "4", "30895", "1.79" ]
+, [ 5, "56D089AE-8FFA-487B-9471-E20EAD210FF3", 5, 1390692328, "862121", 1390692328, "862121", "{\n}", "2013", "Securitas Holdings Inc", "5", "13607", "0.79" ]
+, [ 6, "5D30E2D2-C617-4251-A032-00E49B5206C8", 6, 1390692328, "862121", 1390692328, "862121", "{\n}", "2013", "Kaiser Foundation Hospitals", "6", "13148", "0.76" ]
+, [ 7, "4CA2B9B1-4C18-4771-86D9-179BE2A10547", 7, 1390692328, "862121", 1390692328, "862121", "{\n}", "2013", "Cedars-Sinai Medical Center", "7", "13000", "0.75" ]
+, [ 8, "EB7B054C-4817-45E7-8613-4C110AA6F639", 8, 1390692328, "862121", 1390692328, "862121", "{\n}", "2013", "University of Southern California", "8", "12144", "0.70" ]
+, [ 9, "D9ADB8CF-7DB4-4845-AAB2-CE56A0C83901", 9, 1390692328, "862121", 1390692328, "862121", "{\n}", "2013", "Veterans Health Administration", "9", "10802", "0.63" ]
+, [ 10, "E1AEF23A-29F6-4066-8663-C1687E971002", 10, 1390692328, "862121", 1390692328, "862121", "{\n}", "2013", "Farmers Insurance Group", "10", "9038", "0.52" ]
+, [ 11, "5E26E872-1F8D-4937-A9B7-CBCFD531618D", 11, 1390692328, "862121", 1390692328, "862121", "{\n}", "2004", "City of Los Angeles", "1", "48092", "2.79" ]
+, [ 12, "62354AAE-5A9D-4AB0-93DA-E3E64C2C06D9", 12, 1390692328, "862121", 1390692328, "862121", "{\n}", "2004", "County of Los Angeles", "3", "39900", "2.32" ]
+, [ 13, "8F3FDEF7-1C4E-4430-B25C-BB139C41A1EE", 13, 1390692328, "862121", 1390692328, "862121", "{\n}", "2004", "University of California Los Angeles", "8", "9113", "0.53" ]
+, [ 14, "FE5DD945-93FC-4BA1-85B4-A3975D115BE7", 14, 1390692328, "862121", 1390692328, "862121", "{\n}", "2004", "Los Angeles Unified School District", "2", "40639", "2.36" ]
+, [ 15, "76DF96A0-BE7E-477F-BE04-E66E2F8195BC", 15, 1390692328, "862121", 1393555250, "862121", null, "2004", "Securitas Holdings Inc", "0", "0", "0.00" ]
+, [ 16, "AB8916B9-2245-4118-9F34-9A592F963822", 16, 1390692328, "862121", 1393555247, "862121", null, "2004", "Kaiser Foundation Hospitals", "5", "16296", "0.95" ]
+, [ 17, "1FB7F6ED-2560-458E-BA54-4DF27EE7FCF0", 17, 1390692328, "862121", 1390692328, "862121", "{\n}", "2004", "Cedars-Sinai Medical Center", "4", "17500", "1.02" ]
+, [ 18, "10F16682-0975-4DB8-BDCD-922C3686BF5A", 18, 1390692328, "862121", 1393555246, "862121", null, "2004", "University of Southern California", "6", "14509", "0.84" ]
+, [ 19, "62C85DA3-F01B-41F9-87D8-C6C9048D7C33", 19, 1390692328, "862121", 1390692328, "862121", "{\n}", "2004", "Veterans Health Administration", "0", "0", "0.00" ]
+, [ 20, "B297D210-06F0-429C-9B41-AEEB08CD12D2", 20, 1390692328, "862121", 1390692328, "862121", "{\n}", "2004", "Farmers Insurance Group", "7", "9167", "0.53" ]
+, [ 21, "960979CE-BB02-4AC4-B482-970074B390E4", 21, 1390692328, "862121", 1390692328, "862121", "{\n}", "2004", "Sony Pictures", "9", "6500", "0.38" ]
+, [ 22, "771DC770-EEFE-43C7-B4EC-D38A67F9D3F9", 22, 1390692328, "862121", 1393553745, "862121", "{\n}", "2004", "The Walt-Disney Company", "10", "6000", "0.35" ]
+ ]
+}

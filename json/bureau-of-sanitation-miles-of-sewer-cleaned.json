@@ -1,0 +1,369 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "iyyp-p2fx",
+      "name" : "Bureau of Sanitation: Miles of Sewer Cleaned",
+      "attribution" : "Bureau of Sanitation",
+      "averageRating" : 0,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1407854398,
+      "description" : "Miles of Sewer cleaned is reported monthly.",
+      "displayType" : "table",
+      "downloadCount" : 9,
+      "indexUpdatedAt" : 1418420902,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8634718,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1407854547,
+      "publicationGroup" : 1681377,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1418420757,
+      "rowsUpdatedBy" : "3qey-3zpp",
+      "state" : "normal",
+      "tableId" : 1681377,
+      "totalTimesRated" : 0,
+      "viewCount" : 96,
+      "viewLastModified" : 1407856880,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 161754643,
+        "name" : "Month",
+        "dataTypeName" : "text",
+        "fieldName" : "month",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21362868,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 17,
+          "smallest" : "APR",
+          "null" : 0,
+          "largest" : "SEPT",
+          "top" : [ {
+            "count" : 20,
+            "item" : "JULY"
+          }, {
+            "count" : 19,
+            "item" : "AUG"
+          }, {
+            "count" : 18,
+            "item" : "SEPT"
+          }, {
+            "count" : 17,
+            "item" : "OCT"
+          }, {
+            "count" : 16,
+            "item" : "NOV"
+          }, {
+            "count" : 15,
+            "item" : "DEC"
+          }, {
+            "count" : 14,
+            "item" : "JAN"
+          }, {
+            "count" : 13,
+            "item" : "FEB"
+          }, {
+            "count" : 12,
+            "item" : "MAR"
+          }, {
+            "count" : 11,
+            "item" : "APR"
+          }, {
+            "count" : 10,
+            "item" : "MAY"
+          }, {
+            "count" : 9,
+            "item" : "JUNE"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 161754644,
+        "name" : "Fiscal Year",
+        "dataTypeName" : "text",
+        "fieldName" : "fiscal_year",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21362869,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 17,
+          "smallest" : "2014",
+          "null" : 0,
+          "largest" : "2015",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2014"
+          }, {
+            "count" : 19,
+            "item" : "2015"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 161754645,
+        "name" : "Month Number",
+        "dataTypeName" : "number",
+        "fieldName" : "month_number",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21362870,
+        "width" : 244,
+        "cachedContents" : {
+          "non_null" : 17,
+          "smallest" : "1",
+          "sum" : "93",
+          "null" : 0,
+          "average" : "5.470588235294118",
+          "largest" : "12",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          }, {
+            "count" : 19,
+            "item" : "2"
+          }, {
+            "count" : 18,
+            "item" : "3"
+          }, {
+            "count" : 17,
+            "item" : "4"
+          }, {
+            "count" : 16,
+            "item" : "5"
+          }, {
+            "count" : 15,
+            "item" : "6"
+          }, {
+            "count" : 14,
+            "item" : "7"
+          }, {
+            "count" : 13,
+            "item" : "8"
+          }, {
+            "count" : 12,
+            "item" : "9"
+          }, {
+            "count" : 11,
+            "item" : "10"
+          }, {
+            "count" : 10,
+            "item" : "11"
+          }, {
+            "count" : 9,
+            "item" : "12"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 161754646,
+        "name" : "Miles of Sewer Cleaned",
+        "dataTypeName" : "number",
+        "fieldName" : "miles_of_sewer_cleaned",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21362871,
+        "width" : 364,
+        "cachedContents" : {
+          "non_null" : 17,
+          "smallest" : "447",
+          "sum" : "9334",
+          "null" : 0,
+          "average" : "549.0588235294118",
+          "largest" : "634",
+          "top" : [ {
+            "count" : 20,
+            "item" : "548"
+          }, {
+            "count" : 19,
+            "item" : "560"
+          }, {
+            "count" : 18,
+            "item" : "468"
+          }, {
+            "count" : 17,
+            "item" : "498"
+          }, {
+            "count" : 16,
+            "item" : "470"
+          }, {
+            "count" : 15,
+            "item" : "447"
+          }, {
+            "count" : 14,
+            "item" : "561"
+          }, {
+            "count" : 13,
+            "item" : "565"
+          }, {
+            "count" : 12,
+            "item" : "620"
+          }, {
+            "count" : 11,
+            "item" : "634"
+          }, {
+            "count" : 10,
+            "item" : "597"
+          }, {
+            "count" : 9,
+            "item" : "515"
+          }, {
+            "count" : 8,
+            "item" : "563"
+          }, {
+            "count" : 7,
+            "item" : "562"
+          }, {
+            "count" : 6,
+            "item" : "590"
+          }, {
+            "count" : 5,
+            "item" : "591"
+          }, {
+            "count" : 4,
+            "item" : "545"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "jwvk-b9mh",
+        "displayName" : "Public Works: Sanitation OpenData",
+        "profileImageUrlLarge" : "/images/profile/2352/4407/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/2352/4407/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/2352/4407/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Public Works: Sanitation OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "jwvk-b9mh",
+        "displayName" : "Public Works: Sanitation OpenData",
+        "profileImageUrlLarge" : "/images/profile/2352/4407/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/2352/4407/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/2352/4407/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Public Works: Sanitation OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "bureau of sanitation", "sanitation", "sewers", "cleaned sewers" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 58, "97EFE294-3B21-41B0-AB52-102137EC6290", 58, 1415649764, "875560", 1415649764, "875560", null, "JULY", "2014", "1", "548" ]
+, [ 59, "B2A431AC-D49F-482A-A2D9-ADB0B9701F9A", 59, 1415649764, "875560", 1415649764, "875560", null, "AUG", "2014", "2", "560" ]
+, [ 60, "F793487A-03F4-4C62-96F5-9836C4E8FF22", 60, 1415649764, "875560", 1415649764, "875560", null, "SEPT", "2014", "3", "468" ]
+, [ 61, "752C7BA2-6EEB-4AE0-A384-5643B5DBA70D", 61, 1415649764, "875560", 1415649764, "875560", null, "OCT", "2014", "4", "498" ]
+, [ 62, "76D86A7A-938D-44D9-B8E1-977E61DFB12A", 62, 1415649764, "875560", 1415649764, "875560", null, "NOV", "2014", "5", "470" ]
+, [ 63, "3065B347-F079-435C-9888-6A00CFD42890", 63, 1415649764, "875560", 1415649764, "875560", null, "DEC", "2014", "6", "447" ]
+, [ 64, "65111CB4-FCC8-42C7-8AC2-A3C83EB9A635", 64, 1415649764, "875560", 1415649764, "875560", null, "JAN", "2014", "7", "561" ]
+, [ 65, "D407A7C7-BE43-430B-A6C1-30FBA332170D", 65, 1415649764, "875560", 1415649764, "875560", null, "FEB", "2014", "8", "565" ]
+, [ 66, "92F0FC5C-0D0A-4127-8DF1-F99EF4DF2761", 66, 1415649764, "875560", 1415649764, "875560", null, "MAR", "2014", "9", "620" ]
+, [ 67, "3DBF00EA-D334-48EB-B2D7-CE0E87B6F0BF", 67, 1415649764, "875560", 1415649764, "875560", null, "APR", "2014", "10", "634" ]
+, [ 68, "78641B88-1727-4EA2-9B8C-7D84A45C3F6B", 68, 1415649764, "875560", 1415649764, "875560", null, "MAY", "2014", "11", "597" ]
+, [ 69, "12C7F515-1355-4B3C-80BF-4AF91125C5CA", 69, 1415649764, "875560", 1415649764, "875560", null, "JUNE", "2014", "12", "515" ]
+, [ 70, "D7F2B2F2-A4A5-4DAB-A50F-D69553843382", 70, 1415649764, "875560", 1415649764, "875560", null, "JULY", "2015", "1", "563" ]
+, [ 71, "FB184689-C925-4BDC-BC3D-953C9C7B2C1A", 71, 1415649764, "875560", 1415649764, "875560", null, "AUG", "2015", "2", "562" ]
+, [ 72, "BFEF8BB5-75CA-4A22-8E2F-137E10D8C452", 72, 1415649764, "875560", 1415649764, "875560", null, "SEPT", "2015", "3", "590" ]
+, [ 73, "96287551-041B-428E-8B23-468AC86D1792", 73, 1415649764, "875560", 1415649764, "875560", null, "OCT", "2015", "4", "591" ]
+, [ 74, "DA9D822E-4494-4FE3-AA7C-ED081C081485", 74, 1418420757, "875544", 1418420757, "875544", null, "NOV", "2015", "5", "545" ]
+ ]
+}

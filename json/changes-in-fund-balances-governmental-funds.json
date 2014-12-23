@@ -1,0 +1,822 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "2fff-deta",
+      "name" : "Changes in Fund Balances - Governmental Funds",
+      "attribution" : "Controller",
+      "attributionLink" : "http://controller.lacity.org/stellent/groups/ElectedOfficials/@CTR_Contributor/documents/Contributor_Web_Content/LACITYP_027750.pdf#page=380",
+      "averageRating" : 0,
+      "category" : "Budget",
+      "createdAt" : 1390255602,
+      "description" : "CAFR Pages 338-339.\r\n\r\nModified Accrual Basis of Accounting.  Last Ten Fiscal Years. (amounts expressed in thousands)",
+      "displayType" : "table",
+      "downloadCount" : 65,
+      "indexUpdatedAt" : 1414616812,
+      "licenseId" : "PUBLIC_DOMAIN",
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 7430237,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1393393287,
+      "publicationGroup" : 1447733,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1393393232,
+      "rowsUpdatedBy" : "7c7a-resi",
+      "tableId" : 1489882,
+      "totalTimesRated" : 0,
+      "viewCount" : 77,
+      "viewLastModified" : 1412757674,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 135353752,
+        "name" : "Fiscal Year",
+        "dataTypeName" : "number",
+        "fieldName" : "fiscal_year",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17692390,
+        "width" : 84,
+        "cachedContents" : {
+          "non_null" : 340,
+          "smallest" : "2004",
+          "sum" : "682890",
+          "null" : 0,
+          "average" : "2008.5",
+          "largest" : "2013",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2004"
+          }, {
+            "count" : 19,
+            "item" : "2005"
+          }, {
+            "count" : 18,
+            "item" : "2006"
+          }, {
+            "count" : 17,
+            "item" : "2007"
+          }, {
+            "count" : 16,
+            "item" : "2008"
+          }, {
+            "count" : 15,
+            "item" : "2009"
+          }, {
+            "count" : 14,
+            "item" : "2010"
+          }, {
+            "count" : 13,
+            "item" : "2011"
+          }, {
+            "count" : 12,
+            "item" : "2012"
+          }, {
+            "count" : 11,
+            "item" : "2013"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "true",
+          "align" : "right"
+        }
+      }, {
+        "id" : 135353753,
+        "name" : "Type",
+        "dataTypeName" : "text",
+        "fieldName" : "type",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17692391,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 340,
+          "smallest" : "Expenditures",
+          "null" : 0,
+          "largest" : "Special Items",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Revenues"
+          }, {
+            "count" : 19,
+            "item" : "Expenditures"
+          }, {
+            "count" : 18,
+            "item" : "Other Financing Sources (Uses)"
+          }, {
+            "count" : 17,
+            "item" : "Special Items"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 135353754,
+        "name" : "Activity",
+        "dataTypeName" : "text",
+        "fieldName" : "activity",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17692393,
+        "width" : 209,
+        "cachedContents" : {
+          "non_null" : 340,
+          "smallest" : "Capital Outlay",
+          "null" : 0,
+          "largest" : "Transportation",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Taxes"
+          }, {
+            "count" : 19,
+            "item" : "Licenses and Permits"
+          }, {
+            "count" : 18,
+            "item" : "Intergovernmental "
+          }, {
+            "count" : 17,
+            "item" : "Charges for Services"
+          }, {
+            "count" : 16,
+            "item" : "Fines"
+          }, {
+            "count" : 15,
+            "item" : "Special Assessments"
+          }, {
+            "count" : 14,
+            "item" : "Investment Earnings"
+          }, {
+            "count" : 13,
+            "item" : "Other"
+          }, {
+            "count" : 12,
+            "item" : "General Government"
+          }, {
+            "count" : 11,
+            "item" : "Protection of Persons and Property"
+          }, {
+            "count" : 10,
+            "item" : "Public Works"
+          }, {
+            "count" : 9,
+            "item" : "Health and Sanitation"
+          }, {
+            "count" : 8,
+            "item" : "Transportation"
+          }, {
+            "count" : 7,
+            "item" : "Cultural and Recreational Services"
+          }, {
+            "count" : 6,
+            "item" : "Community Development"
+          }, {
+            "count" : 5,
+            "item" : "Capital Outlay"
+          }, {
+            "count" : 4,
+            "item" : "Debt Service-Principal"
+          }, {
+            "count" : 3,
+            "item" : "Debt Service-Interest"
+          }, {
+            "count" : 2,
+            "item" : "Debt Service-Cost of Issuance"
+          }, {
+            "count" : 1,
+            "item" : "Debt Service-Advance Refunding Loan Escrow"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 135353755,
+        "name" : "Amount in Thousands",
+        "dataTypeName" : "number",
+        "fieldName" : "amount_in_thousands",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17692395,
+        "width" : 118,
+        "cachedContents" : {
+          "non_null" : 340,
+          "smallest" : "-2667236",
+          "sum" : "1330756",
+          "null" : 0,
+          "average" : "3913.988235294118",
+          "largest" : "3687676",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0"
+          }, {
+            "count" : 19,
+            "item" : "-754573"
+          }, {
+            "count" : 18,
+            "item" : "3687676"
+          }, {
+            "count" : 17,
+            "item" : "61605"
+          }, {
+            "count" : 16,
+            "item" : "866749"
+          }, {
+            "count" : 15,
+            "item" : "1577623"
+          }, {
+            "count" : 14,
+            "item" : "172437"
+          }, {
+            "count" : 13,
+            "item" : "128762"
+          }, {
+            "count" : 12,
+            "item" : "5438"
+          }, {
+            "count" : 11,
+            "item" : "188800"
+          }, {
+            "count" : 10,
+            "item" : "-1261771"
+          }, {
+            "count" : 9,
+            "item" : "-2667236"
+          }, {
+            "count" : 8,
+            "item" : "-400017"
+          }, {
+            "count" : 7,
+            "item" : "-438220"
+          }, {
+            "count" : 6,
+            "item" : "-400047"
+          }, {
+            "count" : 5,
+            "item" : "-431062"
+          }, {
+            "count" : 4,
+            "item" : "-417285"
+          }, {
+            "count" : 3,
+            "item" : "-352685"
+          }, {
+            "count" : 2,
+            "item" : "-326913"
+          }, {
+            "count" : 1,
+            "item" : "-168497"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      }, {
+        "id" : 135353756,
+        "name" : "Absolute Amount in Thousands",
+        "dataTypeName" : "number",
+        "description" : "Absolute amount in Thousands for rendering visualizations.",
+        "fieldName" : "absolute_amount_in_thousands",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18084715,
+        "width" : 137,
+        "cachedContents" : {
+          "non_null" : 340,
+          "smallest" : "0",
+          "sum" : "148911992",
+          "null" : 0,
+          "average" : "437976.4470588235",
+          "largest" : "3687676",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0"
+          }, {
+            "count" : 19,
+            "item" : "1983"
+          }, {
+            "count" : 18,
+            "item" : "3687676"
+          }, {
+            "count" : 17,
+            "item" : "61605"
+          }, {
+            "count" : 16,
+            "item" : "866749"
+          }, {
+            "count" : 15,
+            "item" : "1577623"
+          }, {
+            "count" : 14,
+            "item" : "172437"
+          }, {
+            "count" : 13,
+            "item" : "128762"
+          }, {
+            "count" : 12,
+            "item" : "5438"
+          }, {
+            "count" : 11,
+            "item" : "188800"
+          }, {
+            "count" : 10,
+            "item" : "1261771"
+          }, {
+            "count" : 9,
+            "item" : "2667236"
+          }, {
+            "count" : 8,
+            "item" : "400017"
+          }, {
+            "count" : 7,
+            "item" : "438220"
+          }, {
+            "count" : 6,
+            "item" : "400047"
+          }, {
+            "count" : 5,
+            "item" : "431062"
+          }, {
+            "count" : 4,
+            "item" : "417285"
+          }, {
+            "count" : 3,
+            "item" : "352685"
+          }, {
+            "count" : 2,
+            "item" : "326913"
+          }, {
+            "count" : 1,
+            "item" : "168497"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Public Domain"
+      },
+      "metadata" : {
+        "custom_fields" : {
+          "Department" : {
+            "Division" : "GAAP",
+            "Department" : "Controller",
+            "System" : "CAFR"
+          },
+          "Update Information" : {
+            "Update Cycle" : "Annual"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "7c7a-resi",
+        "displayName" : "Controller's Office",
+        "roleName" : "administrator",
+        "screenName" : "Controller's Office",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "7c7a-resi",
+        "displayName" : "Controller's Office",
+        "roleName" : "administrator",
+        "screenName" : "Controller's Office",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "tags" : [ "fund balances", "revenue", "expenditures", "city of los angeles", "city of los angeles controller", "city of la", "city of la controller", "ron galperin", "comprehensive annual financial report", "cafr", "net position", "asset type", "asset type group", "activity type", "cafr statistical section" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "0F9D2236-6C24-4928-8B44-94BCF91D70D2", 1, 1392248592, "862121", 1392248592, "862121", "{\n}", "2004", "Revenues", "Taxes", "2625489", "2625489" ]
+, [ 2, "81EDF3CD-523D-4A03-8324-0495B3FAC7E1", 2, 1392248592, "862121", 1392248592, "862121", "{\n}", "2004", "Revenues", "Licenses and Permits", "39627", "39627" ]
+, [ 3, "83E23130-D3E2-4E98-810E-4055F7321902", 3, 1392248592, "862121", 1392248592, "862121", "{\n}", "2004", "Revenues", "Intergovernmental ", "884704", "884704" ]
+, [ 4, "501AFF61-9796-4563-938A-4D959B52932E", 4, 1392248592, "862121", 1392248592, "862121", "{\n}", "2004", "Revenues", "Charges for Services", "892501", "892501" ]
+, [ 5, "E9ED25B2-024F-4143-ABFC-B1C4B5B211E0", 5, 1392248592, "862121", 1392248592, "862121", "{\n}", "2004", "Revenues", "Fines", "123226", "123226" ]
+, [ 6, "F1622C9C-4B82-4984-A115-1C15EF34A6A4", 6, 1392248592, "862121", 1392248592, "862121", "{\n}", "2004", "Revenues", "Special Assessments", "97429", "97429" ]
+, [ 7, "4109B92B-6733-46B4-96B0-180593A95038", 7, 1392248592, "862121", 1392248592, "862121", "{\n}", "2004", "Revenues", "Investment Earnings", "13504", "13504" ]
+, [ 8, "3A2130FA-6E5E-4451-A8ED-62901987562D", 8, 1392248592, "862121", 1392248592, "862121", "{\n}", "2004", "Revenues", "Other", "91689", "91689" ]
+, [ 9, "3654C732-77AF-4932-8B2C-1F27EFCBFA75", 9, 1392248592, "862121", 1392248592, "862121", "{\n}", "2004", "Expenditures", "General Government", "-985796", "985796" ]
+, [ 10, "01DADF1C-8375-4DF7-8FF6-EC952D7E06CD", 10, 1392248592, "862121", 1392248592, "862121", "{\n}", "2004", "Expenditures", "Protection of Persons and Property", "-1851489", "1851489" ]
+, [ 11, "BECC0BFC-3C8F-48F0-BE4F-69260A10E0AA", 11, 1392248592, "862121", 1392248592, "862121", "{\n}", "2004", "Expenditures", "Public Works", "-308973", "308973" ]
+, [ 12, "8611513C-1398-4C29-988F-0FE26D4895B8", 12, 1392248592, "862121", 1392248592, "862121", "{\n}", "2004", "Expenditures", "Health and Sanitation", "-328407", "328407" ]
+, [ 13, "0D1C3AFD-5A52-469F-9A64-2FE783912DEE", 13, 1392248592, "862121", 1392248592, "862121", "{\n}", "2004", "Expenditures", "Transportation", "-259665", "259665" ]
+, [ 14, "33CFE37D-5C7B-479B-BC71-267300740CDD", 14, 1392248592, "862121", 1392248592, "862121", "{\n}", "2004", "Expenditures", "Cultural and Recreational Services", "-294594", "294594" ]
+, [ 15, "5C7431A5-B9F5-459D-9176-10F9B2DF3381", 15, 1392248592, "862121", 1392248592, "862121", "{\n}", "2004", "Expenditures", "Community Development", "-430768", "430768" ]
+, [ 16, "0192A38F-1647-403B-9BF0-49D3C550D639", 16, 1392248592, "862121", 1392248592, "862121", "{\n}", "2004", "Expenditures", "Capital Outlay", "-522256", "522256" ]
+, [ 17, "D46A8619-8FAA-4368-B4B1-C73CF0E33265", 17, 1392248592, "862121", 1392248592, "862121", "{\n}", "2004", "Expenditures", "Debt Service-Principal", "-186024", "186024" ]
+, [ 18, "40583165-E74A-4955-818C-C2D216187178", 18, 1392248592, "862121", 1392248592, "862121", "{\n}", "2004", "Expenditures", "Debt Service-Interest", "-136651", "136651" ]
+, [ 19, "209DE385-BE46-4B4F-A19E-C40CD295AF51", 19, 1392248592, "862121", 1392248592, "862121", "{\n}", "2004", "Expenditures", "Debt Service-Cost of Issuance", "-5057", "5057" ]
+, [ 20, "FD885C9C-D4BF-47A0-B65A-AD48FB3CEF42", 20, 1392248592, "862121", 1392248592, "862121", "{\n}", "2004", "Expenditures", "Debt Service-Advance Refunding Loan Escrow", "-3253", "3253" ]
+, [ 21, "09C39004-2E17-4511-BD95-43D379678F2C", 21, 1392248592, "862121", 1392248592, "862121", "{\n}", "2004", "Other Financing Sources (Uses)", "Issuance of Long-term Debt", "468135", "468135" ]
+, [ 22, "78079D43-CC85-4BBD-8AAB-54B0973FDED8", 22, 1392248592, "862121", 1392248592, "862121", "{\n}", "2004", "Other Financing Sources (Uses)", "Discount on Issuance of Long-term Debt", "0", "0" ]
+, [ 23, "A9BB93E3-7093-479B-B632-8AE2DA4811E7", 23, 1392248592, "862121", 1392248592, "862121", "{\n}", "2004", "Other Financing Sources (Uses)", "Premium on Issuance of Long-term Debt", "25522", "25522" ]
+, [ 24, "0DF865A4-6D7A-42EA-894C-40DB09D98A9B", 24, 1392248592, "862121", 1392248592, "862121", "{\n}", "2004", "Other Financing Sources (Uses)", "Issuance of Refunding Bonds", "77345", "77345" ]
+, [ 25, "870F95EF-0A9F-45FC-ABB3-E23DF59BEBDF", 25, 1392248592, "862121", 1392248592, "862121", "{\n}", "2004", "Other Financing Sources (Uses)", "Premium on Issuance of Refunding Bonds", "4736", "4736" ]
+, [ 26, "9C9E9A68-2F50-4D63-8A9E-82CBC1C2EF41", 26, 1392248592, "862121", 1392248592, "862121", "{\n}", "2004", "Other Financing Sources (Uses)", "Payment to Refunded Bond Escrow Agent", "0", "0" ]
+, [ 27, "054C09AC-F4B8-4236-A26B-3E515E46E959", 27, 1392248592, "862121", 1392248592, "862121", "{\n}", "2004", "Other Financing Sources (Uses)", "Proceeds of Refunding Loan", "0", "0" ]
+, [ 28, "B95F1875-7880-4B6B-B27A-EC7312D55926", 28, 1392248592, "862121", 1392248592, "862121", "{\n}", "2004", "Other Financing Sources (Uses)", "Payment for Current Refunding of Loan", "0", "0" ]
+, [ 29, "CC394BB7-940C-4E04-8506-DF4823D05B25", 29, 1392248592, "862121", 1392248592, "862121", "{\n}", "2004", "Other Financing Sources (Uses)", "Loans from HUD", "23895", "23895" ]
+, [ 30, "61F2A58B-32D6-4244-92AC-EA982A135A14", 30, 1392248592, "862121", 1392248592, "862121", "{\n}", "2004", "Other Financing Sources (Uses)", "Transfers In", "745533", "745533" ]
+, [ 31, "7C2E5E05-DA71-4F4B-9489-873362258CC3", 31, 1392248592, "862121", 1392248592, "862121", "{\n}", "2004", "Other Financing Sources (Uses)", "Transfers Out", "-547296", "547296" ]
+, [ 32, "A6EA7422-212A-4E61-8ABA-AFDD2D89B58E", 32, 1392248592, "862121", 1392248592, "862121", "{\n}", "2004", "Special Items", "Loss on Loan Settlement", "0", "0" ]
+, [ 33, "93726965-BE0F-4A66-A403-BB734DFFF58E", 33, 1392248592, "862121", 1392248592, "862121", "{\n}", "2004", "Special Items", "Transfer of Properties for Development from CRA", "0", "0" ]
+, [ 34, "84E56B72-6D96-477A-98BE-F2EA8E6AE048", 34, 1392248592, "862121", 1392248592, "862121", "{\n}", "2004", "Special Items", "Transfer of Housing Loans from CRA", "0", "0" ]
+, [ 35, "8C88E056-58BA-4897-A0CC-1058594CBC48", 35, 1392248592, "862121", 1392248592, "862121", "{\n}", "2005", "Revenues", "Taxes", "2960621", "2960621" ]
+, [ 36, "87B5ADE0-7F63-4034-B04E-5F5ACA65586C", 36, 1392248592, "862121", 1392248592, "862121", "{\n}", "2005", "Revenues", "Licenses and Permits", "46979", "46979" ]
+, [ 37, "7B06E596-0C39-4EF5-ABD4-F94F002AEFC4", 37, 1392248592, "862121", 1392248592, "862121", "{\n}", "2005", "Revenues", "Intergovernmental ", "773137", "773137" ]
+, [ 38, "995A2FA7-F18B-4C91-A9DA-FEC77B379336", 38, 1392248592, "862121", 1392248592, "862121", "{\n}", "2005", "Revenues", "Charges for Services", "966187", "966187" ]
+, [ 39, "DAA9A901-D5C0-402F-A3FB-BE6B461405A3", 39, 1392248592, "862121", 1392248592, "862121", "{\n}", "2005", "Revenues", "Fines", "136761", "136761" ]
+, [ 40, "A291BA2E-EEDE-43B3-B320-D472F4A331DB", 40, 1392248592, "862121", 1392248592, "862121", "{\n}", "2005", "Revenues", "Special Assessments", "95293", "95293" ]
+, [ 41, "D76DD3E3-E38F-4569-9BF2-1212B7940725", 41, 1392248592, "862121", 1392248592, "862121", "{\n}", "2005", "Revenues", "Investment Earnings", "102198", "102198" ]
+, [ 42, "8EDA521E-8BE5-402A-91DC-BC6870A15F23", 42, 1392248592, "862121", 1392248592, "862121", "{\n}", "2005", "Revenues", "Other", "73136", "73136" ]
+, [ 43, "DC4BBB97-F497-4320-A462-85D11A8B13E3", 43, 1392248592, "862121", 1392248592, "862121", "{\n}", "2005", "Expenditures", "General Government", "-1033826", "1033826" ]
+, [ 44, "6DA683DE-B9F0-428B-897F-5D139D49CA5F", 44, 1392248592, "862121", 1392248592, "862121", "{\n}", "2005", "Expenditures", "Protection of Persons and Property", "-1944897", "1944897" ]
+, [ 45, "A26E54B4-DF90-44FB-BE3A-DFF8A2F5BF60", 45, 1392248592, "862121", 1392248592, "862121", "{\n}", "2005", "Expenditures", "Public Works", "-334381", "334381" ]
+, [ 46, "7BCFA728-65DE-42A6-A128-381D64E83BA8", 46, 1392248592, "862121", 1392248592, "862121", "{\n}", "2005", "Expenditures", "Health and Sanitation", "-321322", "321322" ]
+, [ 47, "42660AC0-BAE9-4F5A-B08E-9641057762B2", 47, 1392248592, "862121", 1392248592, "862121", "{\n}", "2005", "Expenditures", "Transportation", "-268801", "268801" ]
+, [ 48, "10706524-4216-47E1-81DC-074ECA7A961D", 48, 1392248592, "862121", 1392248592, "862121", "{\n}", "2005", "Expenditures", "Cultural and Recreational Services", "-294423", "294423" ]
+, [ 49, "057D17AC-0F0D-482A-8F17-25CE1F72565F", 49, 1392248592, "862121", 1392248592, "862121", "{\n}", "2005", "Expenditures", "Community Development", "-345368", "345368" ]
+, [ 50, "73EFB084-C7C4-4211-9617-D430FD6BE0AC", 50, 1392248592, "862121", 1392248592, "862121", "{\n}", "2005", "Expenditures", "Capital Outlay", "-472648", "472648" ]
+, [ 51, "F36D6E98-FC95-4BE4-8C5C-BFCF2CFD3D25", 51, 1392248592, "862121", 1392248592, "862121", "{\n}", "2005", "Expenditures", "Debt Service-Principal", "-219144", "219144" ]
+, [ 52, "B24646BA-CE44-44FC-9D35-8A19584D76FF", 52, 1392248592, "862121", 1392248592, "862121", "{\n}", "2005", "Expenditures", "Debt Service-Interest", "-166367", "166367" ]
+, [ 53, "E7741C5F-01B5-4BE4-8109-01B2AF91B915", 53, 1392248592, "862121", 1392248592, "862121", "{\n}", "2005", "Expenditures", "Debt Service-Cost of Issuance", "-2744", "2744" ]
+, [ 54, "C33F3301-1362-49AE-8FF7-B3E7F74BA2B6", 54, 1392248592, "862121", 1392248592, "862121", "{\n}", "2005", "Expenditures", "Debt Service-Advance Refunding Loan Escrow", "0", "0" ]
+, [ 55, "00FC59F4-8330-4037-AA61-EA82138D10EA", 55, 1392248592, "862121", 1392248592, "862121", "{\n}", "2005", "Other Financing Sources (Uses)", "Issuance of Long-term Debt", "377140", "377140" ]
+, [ 56, "174D7E92-9F40-4574-985C-44ABE7EBB989", 56, 1392248592, "862121", 1392248592, "862121", "{\n}", "2005", "Other Financing Sources (Uses)", "Discount on Issuance of Long-term Debt", "0", "0" ]
+, [ 57, "42B305F8-4844-415A-A2B8-5C8093215311", 57, 1392248592, "862121", 1392248592, "862121", "{\n}", "2005", "Other Financing Sources (Uses)", "Premium on Issuance of Long-term Debt", "15944", "15944" ]
+, [ 58, "9CB837ED-4F14-4064-BDA5-FB791D535523", 58, 1392248592, "862121", 1392248592, "862121", "{\n}", "2005", "Other Financing Sources (Uses)", "Issuance of Refunding Bonds", "49395", "49395" ]
+, [ 59, "1F882989-9E1C-42B7-8FE5-31080551058C", 59, 1392248592, "862121", 1392248592, "862121", "{\n}", "2005", "Other Financing Sources (Uses)", "Premium on Issuance of Refunding Bonds", "1497", "1497" ]
+, [ 60, "A6629DC5-82A6-4D16-BD20-073171CDE8FF", 60, 1392248592, "862121", 1392248592, "862121", "{\n}", "2005", "Other Financing Sources (Uses)", "Payment to Refunded Bond Escrow Agent", "0", "0" ]
+, [ 61, "0133CB01-EA24-48D2-B0CE-661E278185AD", 61, 1392248592, "862121", 1392248592, "862121", "{\n}", "2005", "Other Financing Sources (Uses)", "Proceeds of Refunding Loan", "0", "0" ]
+, [ 62, "26E2BC55-158D-4DA2-ACCA-12CFBA62682C", 62, 1392248592, "862121", 1392248592, "862121", "{\n}", "2005", "Other Financing Sources (Uses)", "Payment for Current Refunding of Loan", "0", "0" ]
+, [ 63, "0AC702E1-9020-494A-A360-5AA65BD955A0", 63, 1392248592, "862121", 1392248592, "862121", "{\n}", "2005", "Other Financing Sources (Uses)", "Loans from HUD", "14400", "14400" ]
+, [ 64, "573F8C05-9370-47CC-886B-ABF98A8619AA", 64, 1392248592, "862121", 1392248592, "862121", "{\n}", "2005", "Other Financing Sources (Uses)", "Transfers In", "775697", "775697" ]
+, [ 65, "C9988345-E579-49C5-8FF4-6F4CB18A1761", 65, 1392248592, "862121", 1392248592, "862121", "{\n}", "2005", "Other Financing Sources (Uses)", "Transfers Out", "-545499", "545499" ]
+, [ 66, "E73F820C-70E5-46B3-BAD9-802857020E1D", 66, 1392248592, "862121", 1392248592, "862121", "{\n}", "2005", "Special Items", "Loss on Loan Settlement", "0", "0" ]
+, [ 67, "DB30F05E-DFAA-4D9D-BDBE-D58186BF4FDC", 67, 1392248592, "862121", 1392248592, "862121", "{\n}", "2005", "Special Items", "Transfer of Properties for Development from CRA", "0", "0" ]
+, [ 68, "8113C79C-AFE1-4E1A-824D-91AE65704BE5", 68, 1392248592, "862121", 1392248592, "862121", "{\n}", "2005", "Special Items", "Transfer of Housing Loans from CRA", "0", "0" ]
+, [ 69, "509C090C-08D3-4B38-9C18-396A10BA17C1", 69, 1392248592, "862121", 1392248592, "862121", "{\n}", "2006", "Revenues", "Taxes", "3259718", "3259718" ]
+, [ 70, "5A7BC84C-210A-4A19-BF57-FB745D01ACF2", 70, 1392248592, "862121", 1392248592, "862121", "{\n}", "2006", "Revenues", "Licenses and Permits", "55260", "55260" ]
+, [ 71, "1D85768A-A56C-4438-9F6B-8EF1DD3F2A88", 71, 1392248592, "862121", 1392248592, "862121", "{\n}", "2006", "Revenues", "Intergovernmental ", "649969", "649969" ]
+, [ 72, "885BD13C-5F8C-4F72-8A45-E59F8B264A02", 72, 1392248592, "862121", 1392248592, "862121", "{\n}", "2006", "Revenues", "Charges for Services", "1031895", "1031895" ]
+, [ 73, "BE609A0B-1B61-4D17-9A44-37439A5DBB36", 73, 1392248592, "862121", 1392248592, "862121", "{\n}", "2006", "Revenues", "Fines", "132574", "132574" ]
+, [ 74, "9A30009C-65F9-498A-B0FE-6FB65BCE48A6", 74, 1392248592, "862121", 1392248592, "862121", "{\n}", "2006", "Revenues", "Special Assessments", "97193", "97193" ]
+, [ 75, "E489606C-1559-436C-BC62-3EEBDDBF9EB2", 75, 1392248592, "862121", 1392248592, "862121", "{\n}", "2006", "Revenues", "Investment Earnings", "71714", "71714" ]
+, [ 76, "CCA30626-5EE2-4A53-9113-D4212739FFF7", 76, 1392248592, "862121", 1392248592, "862121", "{\n}", "2006", "Revenues", "Other", "81227", "81227" ]
+, [ 77, "3932774A-394A-46B9-956B-080050FDE2E1", 77, 1392248592, "862121", 1392248592, "862121", "{\n}", "2006", "Expenditures", "General Government", "-1102270", "1102270" ]
+, [ 78, "97982176-AC0B-413F-A2A2-D66F5FB13129", 78, 1392248592, "862121", 1392248592, "862121", "{\n}", "2006", "Expenditures", "Protection of Persons and Property", "-2089451", "2089451" ]
+, [ 79, "141CCF3C-5688-4242-AB11-1BE10E279C32", 79, 1392248592, "862121", 1392248592, "862121", "{\n}", "2006", "Expenditures", "Public Works", "-357695", "357695" ]
+, [ 80, "5AEA0461-9266-43A4-ABAF-9CB1BC03300E", 80, 1392248592, "862121", 1392248592, "862121", "{\n}", "2006", "Expenditures", "Health and Sanitation", "-348258", "348258" ]
+, [ 81, "D81CCBD3-A23D-4563-9888-944A6C80FD37", 81, 1392248592, "862121", 1392248592, "862121", "{\n}", "2006", "Expenditures", "Transportation", "-276616", "276616" ]
+, [ 82, "74ECB4B4-9712-41E5-A9B6-085C8560352E", 82, 1392248592, "862121", 1392248592, "862121", "{\n}", "2006", "Expenditures", "Cultural and Recreational Services", "-334671", "334671" ]
+, [ 83, "96F5A117-30AC-4295-8C75-1E02DE37F3DE", 83, 1392248592, "862121", 1392248592, "862121", "{\n}", "2006", "Expenditures", "Community Development", "-322683", "322683" ]
+, [ 84, "B6AC8DD0-7036-453D-A6F4-2A97654DD697", 84, 1392248592, "862121", 1392248592, "862121", "{\n}", "2006", "Expenditures", "Capital Outlay", "-547787", "547787" ]
+, [ 85, "8974D859-E5CA-4E3A-8190-40AFBA789789", 85, 1392248592, "862121", 1392248592, "862121", "{\n}", "2006", "Expenditures", "Debt Service-Principal", "-241142", "241142" ]
+, [ 86, "44309976-FAAF-4ED0-AB7B-672E38F22F54", 86, 1392248592, "862121", 1392248592, "862121", "{\n}", "2006", "Expenditures", "Debt Service-Interest", "-177756", "177756" ]
+, [ 87, "3ABD34B0-87CF-4C20-9093-02A2B0B42C17", 87, 1392248592, "862121", 1392248592, "862121", "{\n}", "2006", "Expenditures", "Debt Service-Cost of Issuance", "-2053", "2053" ]
+, [ 88, "CDDCC036-EEA8-4367-B06A-11D4D059EB2F", 88, 1392248592, "862121", 1392248592, "862121", "{\n}", "2006", "Expenditures", "Debt Service-Advance Refunding Loan Escrow", "-1878", "1878" ]
+, [ 89, "E82E8676-23B2-4166-A649-96C9D68B93C1", 89, 1392248592, "862121", 1392248592, "862121", "{\n}", "2006", "Other Financing Sources (Uses)", "Issuance of Long-term Debt", "268750", "268750" ]
+, [ 90, "EAF1E821-9E87-4171-B8D2-6DC33BD5902B", 90, 1392248592, "862121", 1392248592, "862121", "{\n}", "2006", "Other Financing Sources (Uses)", "Discount on Issuance of Long-term Debt", "0", "0" ]
+, [ 91, "930E34F0-B7A4-4465-915A-8CB66354C6FD", 91, 1392248592, "862121", 1392248592, "862121", "{\n}", "2006", "Other Financing Sources (Uses)", "Premium on Issuance of Long-term Debt", "9740", "9740" ]
+, [ 92, "FF74BFEA-18BD-46BE-8A92-A66479AF18F3", 92, 1392248592, "862121", 1392248592, "862121", "{\n}", "2006", "Other Financing Sources (Uses)", "Issuance of Refunding Bonds", "73080", "73080" ]
+, [ 93, "F58B74E0-808A-4448-B9DE-5382DE258F4D", 93, 1392248592, "862121", 1392248592, "862121", "{\n}", "2006", "Other Financing Sources (Uses)", "Premium on Issuance of Refunding Bonds", "4786", "4786" ]
+, [ 94, "F1E996BA-6D8C-4138-9D9C-79A8AF75FACB", 94, 1392248592, "862121", 1392248592, "862121", "{\n}", "2006", "Other Financing Sources (Uses)", "Payment to Refunded Bond Escrow Agent", "0", "0" ]
+, [ 95, "23FB14BD-40D1-456B-9EB3-622FD6CA1960", 95, 1392248592, "862121", 1392248592, "862121", "{\n}", "2006", "Other Financing Sources (Uses)", "Proceeds of Refunding Loan", "0", "0" ]
+, [ 96, "CC2984EB-E269-4371-B0E5-CC5761C8BD5F", 96, 1392248592, "862121", 1392248592, "862121", "{\n}", "2006", "Other Financing Sources (Uses)", "Payment for Current Refunding of Loan", "0", "0" ]
+, [ 97, "20B1CAC9-000E-499D-9C03-A4BF1F3BF615", 97, 1392248592, "862121", 1392248592, "862121", "{\n}", "2006", "Other Financing Sources (Uses)", "Loans from HUD", "1", "1" ]
+, [ 98, "CD5198A1-4B15-42EA-8CD8-416D265EE73A", 98, 1392248592, "862121", 1392248592, "862121", "{\n}", "2006", "Other Financing Sources (Uses)", "Transfers In", "828604", "828604" ]
+, [ 99, "A3F212D9-0ED4-4B80-94D4-84A54C57FCD8", 99, 1392248592, "862121", 1392248592, "862121", "{\n}", "2006", "Other Financing Sources (Uses)", "Transfers Out", "-642716", "642716" ]
+, [ 100, "B73A63C3-5238-4D09-859C-86A069B3A245", 100, 1392248592, "862121", 1392248592, "862121", "{\n}", "2006", "Special Items", "Loss on Loan Settlement", "0", "0" ]
+, [ 101, "D1B28E2B-F54E-40C8-A785-C3E909A6EB74", 101, 1392248592, "862121", 1392248592, "862121", "{\n}", "2006", "Special Items", "Transfer of Properties for Development from CRA", "0", "0" ]
+, [ 102, "695F1816-D1F6-468E-B5CB-84FBC4097265", 102, 1392248592, "862121", 1392248592, "862121", "{\n}", "2006", "Special Items", "Transfer of Housing Loans from CRA", "0", "0" ]
+, [ 103, "45786653-3DDF-4577-8B44-0134F57894CF", 103, 1392248592, "862121", 1392248592, "862121", "{\n}", "2007", "Revenues", "Taxes", "3407996", "3407996" ]
+, [ 104, "F9350664-0A5A-464A-85E8-F93D62DB6763", 104, 1392248592, "862121", 1392248592, "862121", "{\n}", "2007", "Revenues", "Licenses and Permits", "59443", "59443" ]
+, [ 105, "76B9AA41-D1D3-46F7-BA3B-C1EF9BF2D287", 105, 1392248592, "862121", 1392248592, "862121", "{\n}", "2007", "Revenues", "Intergovernmental ", "775771", "775771" ]
+, [ 106, "64420ED6-F40C-4017-B805-0472D6D560DB", 106, 1392248592, "862121", 1392248592, "862121", "{\n}", "2007", "Revenues", "Charges for Services", "1134205", "1134205" ]
+, [ 107, "3D147586-177E-4632-8DF7-C3F573F6E706", 107, 1392248592, "862121", 1392248592, "862121", "{\n}", "2007", "Revenues", "Fines", "150059", "150059" ]
+, [ 108, "443A0E64-119A-4147-96BA-0EAA19360A82", 108, 1392248592, "862121", 1392248592, "862121", "{\n}", "2007", "Revenues", "Special Assessments", "100872", "100872" ]
+, [ 109, "8FAEB4C3-0EAA-4F4E-A986-75E9F280AD3F", 109, 1392248592, "862121", 1392248592, "862121", "{\n}", "2007", "Revenues", "Investment Earnings", "231677", "231677" ]
+, [ 110, "60C63990-03C6-4D8D-9045-9641920A8DCB", 110, 1392248592, "862121", 1392248592, "862121", "{\n}", "2007", "Revenues", "Other", "101009", "101009" ]
+, [ 111, "88BEC3A5-35A9-4C3C-8B75-49C49B18CB0B", 111, 1392248592, "862121", 1392248592, "862121", "{\n}", "2007", "Expenditures", "General Government", "-1243090", "1243090" ]
+, [ 112, "62CE4107-2633-4BD7-8A9B-6D4F70198409", 112, 1392248592, "862121", 1392248592, "862121", "{\n}", "2007", "Expenditures", "Protection of Persons and Property", "-2366956", "2366956" ]
+, [ 113, "811AC344-6608-46EB-ACF1-6D965EF6B230", 113, 1392248592, "862121", 1392248592, "862121", "{\n}", "2007", "Expenditures", "Public Works", "-373107", "373107" ]
+, [ 114, "F014A30F-B564-47AB-A208-EBE32C057052", 114, 1392248592, "862121", 1392248592, "862121", "{\n}", "2007", "Expenditures", "Health and Sanitation", "-373644", "373644" ]
+, [ 115, "1D93F5D8-31A1-4F7A-905A-67F8CE75EA27", 115, 1392248592, "862121", 1392248592, "862121", "{\n}", "2007", "Expenditures", "Transportation", "-306853", "306853" ]
+, [ 116, "0390905E-FDBE-41F5-A7D2-144371E696B1", 116, 1392248592, "862121", 1392248592, "862121", "{\n}", "2007", "Expenditures", "Cultural and Recreational Services", "-351536", "351536" ]
+, [ 117, "33E4747C-CABA-457E-8210-D3678EFD1BC1", 117, 1392248592, "862121", 1392248592, "862121", "{\n}", "2007", "Expenditures", "Community Development", "-347319", "347319" ]
+, [ 118, "08773C8C-6D95-4FEF-BC68-ED2D77DF1DF1", 118, 1392248592, "862121", 1392248592, "862121", "{\n}", "2007", "Expenditures", "Capital Outlay", "-730117", "730117" ]
+, [ 119, "EB141EC2-6FC0-41DF-B587-F8E70F4D9ECD", 119, 1392248592, "862121", 1392248592, "862121", "{\n}", "2007", "Expenditures", "Debt Service-Principal", "-340091", "340091" ]
+, [ 120, "2BEFB4FA-4A60-4872-A92E-9DFA3C52A136", 120, 1392248592, "862121", 1392248592, "862121", "{\n}", "2007", "Expenditures", "Debt Service-Interest", "-181677", "181677" ]
+, [ 121, "6E4F8084-BFDF-45E3-ABCD-1FD399817D86", 121, 1392248592, "862121", 1392248592, "862121", "{\n}", "2007", "Expenditures", "Debt Service-Cost of Issuance", "-5745", "5745" ]
+, [ 122, "F29DB1C8-956C-4BE0-B474-F67A924D253E", 122, 1392248592, "862121", 1392248592, "862121", "{\n}", "2007", "Expenditures", "Debt Service-Advance Refunding Loan Escrow", "0", "0" ]
+, [ 123, "9C9930D5-2859-48FB-86DC-7747C1249002", 123, 1392248592, "862121", 1392248592, "862121", "{\n}", "2007", "Other Financing Sources (Uses)", "Issuance of Long-term Debt", "695488", "695488" ]
+, [ 124, "54C6E716-215E-42FC-92F8-9114A18892C6", 124, 1392248592, "862121", 1392248592, "862121", "{\n}", "2007", "Other Financing Sources (Uses)", "Discount on Issuance of Long-term Debt", "0", "0" ]
+, [ 125, "CA3AEF3C-8533-4CC9-9FF5-06AA17E8B91C", 125, 1392248592, "862121", 1392248592, "862121", "{\n}", "2007", "Other Financing Sources (Uses)", "Premium on Issuance of Long-term Debt", "15138", "15138" ]
+, [ 126, "E541A3D3-CE01-44FF-BB81-19CB9E48D9D2", 126, 1392248592, "862121", 1392248592, "862121", "{\n}", "2007", "Other Financing Sources (Uses)", "Issuance of Refunding Bonds", "0", "0" ]
+, [ 127, "6B093E85-FCC0-4395-8CD3-8B098500E273", 127, 1392248592, "862121", 1392248592, "862121", "{\n}", "2007", "Other Financing Sources (Uses)", "Premium on Issuance of Refunding Bonds", "0", "0" ]
+, [ 128, "9A7408A3-82D5-42A7-A6A7-6198A5825A8E", 128, 1392248592, "862121", 1392248592, "862121", "{\n}", "2007", "Other Financing Sources (Uses)", "Payment to Refunded Bond Escrow Agent", "0", "0" ]
+, [ 129, "2AB3E5E0-579A-4173-98F6-650ACA32AC51", 129, 1392248592, "862121", 1392248592, "862121", "{\n}", "2007", "Other Financing Sources (Uses)", "Proceeds of Refunding Loan", "0", "0" ]
+, [ 130, "DB82ED52-B981-486B-901E-1519E018A97F", 130, 1392248592, "862121", 1392248592, "862121", "{\n}", "2007", "Other Financing Sources (Uses)", "Payment for Current Refunding of Loan", "0", "0" ]
+, [ 131, "50B39271-EC57-49FE-BD89-1D97BE64AF81", 131, 1392248592, "862121", 1392248592, "862121", "{\n}", "2007", "Other Financing Sources (Uses)", "Loans from HUD", "0", "0" ]
+, [ 132, "332A8B49-6D2D-4416-BC3B-D30BA8A38009", 132, 1392248592, "862121", 1392248592, "862121", "{\n}", "2007", "Other Financing Sources (Uses)", "Transfers In", "1058449", "1058449" ]
+, [ 133, "4B71DB5C-54BF-4BA0-AECB-34A2877CC5A9", 133, 1392248592, "862121", 1392248592, "862121", "{\n}", "2007", "Other Financing Sources (Uses)", "Transfers Out", "-853782", "853782" ]
+, [ 134, "09A64456-3769-4A32-B7B6-EB9F8D8E323D", 134, 1392248592, "862121", 1392248592, "862121", "{\n}", "2007", "Special Items", "Loss on Loan Settlement", "0", "0" ]
+, [ 135, "EA09D604-FF49-43A9-9244-E71965B89144", 135, 1392248592, "862121", 1392248592, "862121", "{\n}", "2007", "Special Items", "Transfer of Properties for Development from CRA", "0", "0" ]
+, [ 136, "A96DC1A1-A06A-457F-B804-B172A661B805", 136, 1392248592, "862121", 1392248592, "862121", "{\n}", "2007", "Special Items", "Transfer of Housing Loans from CRA", "0", "0" ]
+, [ 137, "F01E2CF0-04EF-4DE6-AB26-5B571F7D4C36", 137, 1392248592, "862121", 1392248592, "862121", "{\n}", "2008", "Revenues", "Taxes", "3480296", "3480296" ]
+, [ 138, "3B83F11C-C954-409A-BE80-65FB7CC51F3E", 138, 1392248592, "862121", 1392248592, "862121", "{\n}", "2008", "Revenues", "Licenses and Permits", "61047", "61047" ]
+, [ 139, "40F45693-ACC9-4A1E-90BD-CB3990A4EF26", 139, 1392248592, "862121", 1392248592, "862121", "{\n}", "2008", "Revenues", "Intergovernmental ", "852376", "852376" ]
+, [ 140, "72C5C883-2770-4E35-8A24-AE50D862FA0C", 140, 1392248592, "862121", 1392248592, "862121", "{\n}", "2008", "Revenues", "Charges for Services", "1254704", "1254704" ]
+, [ 141, "F4BF3A96-463C-4AD1-BF3B-84BDBF38B767", 141, 1392248592, "862121", 1392248592, "862121", "{\n}", "2008", "Revenues", "Fines", "154600", "154600" ]
+, [ 142, "B454077D-D279-4863-A2F2-338ABF7011C0", 142, 1392248592, "862121", 1392248592, "862121", "{\n}", "2008", "Revenues", "Special Assessments", "103782", "103782" ]
+, [ 143, "BA0E8244-F14F-4BC2-8EF6-C323B1E567B0", 143, 1392248592, "862121", 1392248592, "862121", "{\n}", "2008", "Revenues", "Investment Earnings", "255254", "255254" ]
+, [ 144, "F33E0C83-341A-4F92-AAD0-7F94FCDD16BD", 144, 1392248592, "862121", 1392248592, "862121", "{\n}", "2008", "Revenues", "Other", "134564", "134564" ]
+, [ 145, "0C00A5B5-0D1F-4198-90E4-60CDE5E56228", 145, 1392248592, "862121", 1392248592, "862121", "{\n}", "2008", "Expenditures", "General Government", "-1268572", "1268572" ]
+, [ 146, "79D55C60-D221-4231-B23E-25B0599C72E6", 146, 1392248592, "862121", 1392248592, "862121", "{\n}", "2008", "Expenditures", "Protection of Persons and Property", "-2573006", "2573006" ]
+, [ 147, "B1FC27C4-F6F7-4524-8950-19C558CC5B11", 147, 1392248592, "862121", 1392248592, "862121", "{\n}", "2008", "Expenditures", "Public Works", "-379026", "379026" ]
+, [ 148, "1F71242C-A764-4B5F-914F-E25C5586BB45", 148, 1392248592, "862121", 1392248592, "862121", "{\n}", "2008", "Expenditures", "Health and Sanitation", "-398152", "398152" ]
+, [ 149, "7F2E8284-6AAF-4989-B43E-9B2FCF729304", 149, 1392248592, "862121", 1392248592, "862121", "{\n}", "2008", "Expenditures", "Transportation", "-357301", "357301" ]
+, [ 150, "EB263A70-9329-4FE5-9DFC-7A8FD022E8A1", 150, 1392248592, "862121", 1392248592, "862121", "{\n}", "2008", "Expenditures", "Cultural and Recreational Services", "-387727", "387727" ]
+, [ 151, "1867BF42-F4DE-4047-B3F4-6E7C7CE429AC", 151, 1392248592, "862121", 1392248592, "862121", "{\n}", "2008", "Expenditures", "Community Development", "-435768", "435768" ]
+, [ 152, "5E4049B3-3919-4529-B39F-B09CFEAD85BD", 152, 1392248592, "862121", 1392248592, "862121", "{\n}", "2008", "Expenditures", "Capital Outlay", "-934999", "934999" ]
+, [ 153, "AD692467-000B-4CC6-B769-BCAA9D05A08E", 153, 1392248592, "862121", 1392248592, "862121", "{\n}", "2008", "Expenditures", "Debt Service-Principal", "-391585", "391585" ]
+, [ 154, "1DA9B3F5-76F3-4FFF-8334-9DBEF4D3E78D", 154, 1392248592, "862121", 1392248592, "862121", "{\n}", "2008", "Expenditures", "Debt Service-Interest", "-206675", "206675" ]
+, [ 155, "997A3AF6-84A6-4FCD-8E5D-0F9C014E8CDB", 155, 1392248592, "862121", 1392248592, "862121", "{\n}", "2008", "Expenditures", "Debt Service-Cost of Issuance", "-2604", "2604" ]
+, [ 156, "768166A0-BFAB-49D6-9967-324AFB007243", 156, 1392248592, "862121", 1392248592, "862121", "{\n}", "2008", "Expenditures", "Debt Service-Advance Refunding Loan Escrow", "-41311", "41311" ]
+, [ 157, "DFF13156-2E9F-4C22-8B07-E6C0C7D03EFE", 157, 1392248592, "862121", 1392248592, "862121", "{\n}", "2008", "Other Financing Sources (Uses)", "Issuance of Long-term Debt", "461035", "461035" ]
+, [ 158, "BB6478A1-A0C7-43EA-9D7C-5E6FE66A5145", 158, 1392248592, "862121", 1392248592, "862121", "{\n}", "2008", "Other Financing Sources (Uses)", "Discount on Issuance of Long-term Debt", "0", "0" ]
+, [ 159, "3B3A585D-25EE-41A5-9AC0-7D75CAB648C0", 159, 1392248592, "862121", 1392248592, "862121", "{\n}", "2008", "Other Financing Sources (Uses)", "Premium on Issuance of Long-term Debt", "3596", "3596" ]
+, [ 160, "5A293D8C-0F7A-493D-8D65-E966268D7A07", 160, 1392248592, "862121", 1392248592, "862121", "{\n}", "2008", "Other Financing Sources (Uses)", "Issuance of Refunding Bonds", "0", "0" ]
+, [ 161, "C710EA4A-8918-4200-8148-287DFB1B7049", 161, 1392248592, "862121", 1392248592, "862121", "{\n}", "2008", "Other Financing Sources (Uses)", "Premium on Issuance of Refunding Bonds", "0", "0" ]
+, [ 162, "E1B52D2A-6E70-4A44-A73B-EE1259A180D0", 162, 1392248592, "862121", 1392248592, "862121", "{\n}", "2008", "Other Financing Sources (Uses)", "Payment to Refunded Bond Escrow Agent", "0", "0" ]
+, [ 163, "F578F3E1-C7CE-4EB0-AA5E-605A29A93F9A", 163, 1392248592, "862121", 1392248592, "862121", "{\n}", "2008", "Other Financing Sources (Uses)", "Proceeds of Refunding Loan", "24110", "24110" ]
+, [ 164, "78B61CB1-7F35-45EC-B7B7-4F78A82775E3", 164, 1392248592, "862121", 1392248592, "862121", "{\n}", "2008", "Other Financing Sources (Uses)", "Payment for Current Refunding of Loan", "-24110", "24110" ]
+, [ 165, "7A3C24BB-42A7-4CD1-9300-21F1814ECBD6", 165, 1392248592, "862121", 1392248592, "862121", "{\n}", "2008", "Other Financing Sources (Uses)", "Loans from HUD", "0", "0" ]
+, [ 166, "F6BBE8F5-97A8-4ED9-A537-F46294CAFD79", 166, 1392248592, "862121", 1392248592, "862121", "{\n}", "2008", "Other Financing Sources (Uses)", "Transfers In", "1021078", "1021078" ]
+, [ 167, "7A0161F5-0739-4B07-9BAF-131E87A92174", 167, 1392248592, "862121", 1392248592, "862121", "{\n}", "2008", "Other Financing Sources (Uses)", "Transfers Out", "-805671", "805671" ]
+, [ 168, "560FBAAA-67B1-4D82-9040-FA3D0881FE4E", 168, 1392248592, "862121", 1392248592, "862121", "{\n}", "2008", "Special Items", "Loss on Loan Settlement", "0", "0" ]
+, [ 169, "BC5C9C3E-2E4B-4329-8E02-69B542558642", 169, 1392248592, "862121", 1392248592, "862121", "{\n}", "2008", "Special Items", "Transfer of Properties for Development from CRA", "0", "0" ]
+, [ 170, "B7EFE014-1EA0-436D-911A-DF499581B02A", 170, 1392248592, "862121", 1392248592, "862121", "{\n}", "2008", "Special Items", "Transfer of Housing Loans from CRA", "0", "0" ]
+, [ 171, "7B6E42D9-731C-4B4B-976B-FD0E05EFC0B3", 171, 1392248592, "862121", 1392248592, "862121", "{\n}", "2009", "Revenues", "Taxes", "3506089", "3506089" ]
+, [ 172, "92E81E3E-2057-4E3C-A3BA-C8B77D3D6D8B", 172, 1392248592, "862121", 1392248592, "862121", "{\n}", "2009", "Revenues", "Licenses and Permits", "51084", "51084" ]
+, [ 173, "DCCF91CE-28E1-4415-9DA3-E7303DCA997B", 173, 1392248592, "862121", 1392248592, "862121", "{\n}", "2009", "Revenues", "Intergovernmental ", "838722", "838722" ]
+, [ 174, "D4360491-68EF-4F0D-9F6B-1BD53CF010CD", 174, 1392248592, "862121", 1392248592, "862121", "{\n}", "2009", "Revenues", "Charges for Services", "1375875", "1375875" ]
+, [ 175, "4D4AB9BB-2BB8-448C-AD47-F23EB311EA2F", 175, 1392248592, "862121", 1392248592, "862121", "{\n}", "2009", "Revenues", "Fines", "156211", "156211" ]
+, [ 176, "1A72A8FE-948D-46A9-B229-92FEAF03925D", 176, 1392248592, "862121", 1392248592, "862121", "{\n}", "2009", "Revenues", "Special Assessments", "104149", "104149" ]
+, [ 177, "1D219129-BF5E-4E9B-8BAE-60804E170CA7", 177, 1392248592, "862121", 1392248592, "862121", "{\n}", "2009", "Revenues", "Investment Earnings", "134830", "134830" ]
+, [ 178, "CD8360AA-3B12-4121-9638-4A2B485753FC", 178, 1392248592, "862121", 1392248592, "862121", "{\n}", "2009", "Revenues", "Other", "114336", "114336" ]
+, [ 179, "6DFF289F-E014-44A5-8D70-5001D7C4ED71", 179, 1392248592, "862121", 1392248592, "862121", "{\n}", "2009", "Expenditures", "General Government", "-1339379", "1339379" ]
+, [ 180, "CBB9135C-7B5E-4796-9987-421E14382C4D", 180, 1392248592, "862121", 1392248592, "862121", "{\n}", "2009", "Expenditures", "Protection of Persons and Property", "-2599294", "2599294" ]
+, [ 181, "1DEE5484-66C6-43A8-B972-729D895CB360", 181, 1392248592, "862121", 1392248592, "862121", "{\n}", "2009", "Expenditures", "Public Works", "-422994", "422994" ]
+, [ 182, "64071387-BC1E-43D4-A0EA-3EB44F51E4E1", 182, 1392248592, "862121", 1392248592, "862121", "{\n}", "2009", "Expenditures", "Health and Sanitation", "-467392", "467392" ]
+, [ 183, "F456EE38-6168-403F-8259-2394E78812A5", 183, 1392248592, "862121", 1392248592, "862121", "{\n}", "2009", "Expenditures", "Transportation", "-361371", "361371" ]
+, [ 184, "55ECDF33-24BF-48F2-8037-4C2E2A8A9990", 184, 1392248592, "862121", 1392248592, "862121", "{\n}", "2009", "Expenditures", "Cultural and Recreational Services", "-376869", "376869" ]
+, [ 185, "06997DE2-268C-4D0D-8DB0-6C3993643360", 185, 1392248592, "862121", 1392248592, "862121", "{\n}", "2009", "Expenditures", "Community Development", "-402152", "402152" ]
+, [ 186, "D8E654A1-1C6A-49E1-A90E-FE6AB4302746", 186, 1392248592, "862121", 1392248592, "862121", "{\n}", "2009", "Expenditures", "Capital Outlay", "-641363", "641363" ]
+, [ 187, "07B1CF63-8007-4837-BD2F-D97C07C3F7BE", 187, 1392248592, "862121", 1392248592, "862121", "{\n}", "2009", "Expenditures", "Debt Service-Principal", "-495258", "495258" ]
+, [ 188, "D59F7849-4593-47AF-99F9-07503F1307A8", 188, 1392248592, "862121", 1392248592, "862121", "{\n}", "2009", "Expenditures", "Debt Service-Interest", "-188552", "188552" ]
+, [ 189, "E869CBE0-FAA4-4EF9-B544-6EBC362D4A2D", 189, 1392248592, "862121", 1392248592, "862121", "{\n}", "2009", "Expenditures", "Debt Service-Cost of Issuance", "-6285", "6285" ]
+, [ 190, "81FB4BCD-37E6-4D80-8730-192D4F01CCAF", 190, 1392248592, "862121", 1392248592, "862121", "{\n}", "2009", "Expenditures", "Debt Service-Advance Refunding Loan Escrow", "0", "0" ]
+, [ 191, "88753913-E935-43A6-A245-82EFD3534F9A", 191, 1392248592, "862121", 1392248592, "862121", "{\n}", "2009", "Other Financing Sources (Uses)", "Issuance of Long-term Debt", "530225", "530225" ]
+, [ 192, "14959FFF-D341-45BB-80D2-B19735CA719F", 192, 1392248592, "862121", 1392248592, "862121", "{\n}", "2009", "Other Financing Sources (Uses)", "Discount on Issuance of Long-term Debt", "-1168", "1168" ]
+, [ 193, "6A6CFD88-59D5-4DC0-B4A0-A848BDB2A270", 193, 1392248592, "862121", 1392248592, "862121", "{\n}", "2009", "Other Financing Sources (Uses)", "Premium on Issuance of Long-term Debt", "6517", "6517" ]
+, [ 194, "0D923EDB-8E16-4745-9935-33CB491412A3", 194, 1392248592, "862121", 1392248592, "862121", "{\n}", "2009", "Other Financing Sources (Uses)", "Issuance of Refunding Bonds", "253060", "253060" ]
+, [ 195, "94A67FA5-2C4B-4007-91DC-59F244938D97", 195, 1392248592, "862121", 1392248592, "862121", "{\n}", "2009", "Other Financing Sources (Uses)", "Premium on Issuance of Refunding Bonds", "221", "221" ]
+, [ 196, "25961725-D7DC-4475-BFF8-5CC8C521776C", 196, 1392248592, "862121", 1392248592, "862121", "{\n}", "2009", "Other Financing Sources (Uses)", "Payment to Refunded Bond Escrow Agent", "-239201", "239201" ]
+, [ 197, "0D0831FD-C98B-43CB-8C65-29476AADE68D", 197, 1392248592, "862121", 1392248592, "862121", "{\n}", "2009", "Other Financing Sources (Uses)", "Proceeds of Refunding Loan", "0", "0" ]
+, [ 198, "B5364534-B40E-4D03-BAB4-BBB9DCD80414", 198, 1392248592, "862121", 1392248592, "862121", "{\n}", "2009", "Other Financing Sources (Uses)", "Payment for Current Refunding of Loan", "0", "0" ]
+, [ 199, "70F1DBD1-93C5-46B4-B6DD-BD906963CEA4", 199, 1392248592, "862121", 1392248592, "862121", "{\n}", "2009", "Other Financing Sources (Uses)", "Loans from HUD", "25408", "25408" ]
+, [ 200, "1950507D-2552-4998-A8E1-E99D000EF782", 200, 1392248592, "862121", 1392248592, "862121", "{\n}", "2009", "Other Financing Sources (Uses)", "Transfers In", "1088358", "1088358" ]
+, [ 201, "BCD5377D-FBC7-4110-B8FF-1D8AB681CBB5", 201, 1392248592, "862121", 1392248592, "862121", "{\n}", "2009", "Other Financing Sources (Uses)", "Transfers Out", "-929208", "929208" ]
+, [ 202, "94CDF304-5468-482A-8A26-A0B123D857DF", 202, 1392248592, "862121", 1392248592, "862121", "{\n}", "2009", "Special Items", "Loss on Loan Settlement", "0", "0" ]
+, [ 203, "56909ACF-7DC3-49D5-9931-1E236BCCEA6D", 203, 1392248592, "862121", 1392248592, "862121", "{\n}", "2009", "Special Items", "Transfer of Properties for Development from CRA", "0", "0" ]
+, [ 204, "CCB6A10D-0394-4E00-836F-67B0A8496737", 204, 1392248592, "862121", 1392248592, "862121", "{\n}", "2009", "Special Items", "Transfer of Housing Loans from CRA", "0", "0" ]
+, [ 205, "527DDA33-1E19-4022-9A0E-11DBCB857E1D", 205, 1392248592, "862121", 1392248592, "862121", "{\n}", "2010", "Revenues", "Taxes", "3397650", "3397650" ]
+, [ 206, "6190AD77-9165-4DFE-A0BC-7DE1B91E9EF3", 206, 1392248592, "862121", 1392248592, "862121", "{\n}", "2010", "Revenues", "Licenses and Permits", "48186", "48186" ]
+, [ 207, "ABFE6723-A990-4B12-8E13-C990CB552F1A", 207, 1392248592, "862121", 1392248592, "862121", "{\n}", "2010", "Revenues", "Intergovernmental ", "876470", "876470" ]
+, [ 208, "1E657614-65E8-4D10-829B-56F141854C5B", 208, 1392248592, "862121", 1392248592, "862121", "{\n}", "2010", "Revenues", "Charges for Services", "1419145", "1419145" ]
+, [ 209, "2E80A7F5-A224-4000-B514-DB34787D8052", 209, 1392248592, "862121", 1392248592, "862121", "{\n}", "2010", "Revenues", "Fines", "153707", "153707" ]
+, [ 210, "8652DC2F-679D-4313-8E79-0957EED957D8", 210, 1392248592, "862121", 1392248592, "862121", "{\n}", "2010", "Revenues", "Special Assessments", "105998", "105998" ]
+, [ 211, "7B606299-F783-423D-8F15-DC35346B3EAE", 211, 1392248592, "862121", 1392248592, "862121", "{\n}", "2010", "Revenues", "Investment Earnings", "104365", "104365" ]
+, [ 212, "4CCA1131-628C-49C4-ABC4-FEDB32716026", 212, 1392248592, "862121", 1392248592, "862121", "{\n}", "2010", "Revenues", "Other", "96255", "96255" ]
+, [ 213, "1640CF5D-7F1C-40C9-B193-1420E2761DC2", 213, 1392248592, "862121", 1392248592, "862121", "{\n}", "2010", "Expenditures", "General Government", "-1357239", "1357239" ]
+, [ 214, "E1054165-E840-4D37-B934-24A5CE128FA8", 214, 1392248592, "862121", 1392248592, "862121", "{\n}", "2010", "Expenditures", "Protection of Persons and Property", "-2551225", "2551225" ]
+, [ 215, "38A2566B-2510-4649-9ACB-EBC1242D1B65", 215, 1392248592, "862121", 1392248592, "862121", "{\n}", "2010", "Expenditures", "Public Works", "-354567", "354567" ]
+, [ 216, "731BFC9A-E100-40E7-B23B-1653EFF829F5", 216, 1392248592, "862121", 1392248592, "862121", "{\n}", "2010", "Expenditures", "Health and Sanitation", "-449083", "449083" ]
+, [ 217, "455AF158-EC9B-49F2-9CBF-0527F48A9ABF", 217, 1392248592, "862121", 1392248592, "862121", "{\n}", "2010", "Expenditures", "Transportation", "-327328", "327328" ]
+, [ 218, "B9EEAE64-E4A0-4AA1-BF1C-B4A046B728CF", 218, 1392248592, "862121", 1392248592, "862121", "{\n}", "2010", "Expenditures", "Cultural and Recreational Services", "-389371", "389371" ]
+, [ 219, "93EC9ACF-DC90-478A-8485-2AD4E6FC24BC", 219, 1392248592, "862121", 1392248592, "862121", "{\n}", "2010", "Expenditures", "Community Development", "-383256", "383256" ]
+, [ 220, "3282667B-814D-4ED1-9E7B-ADEEA81032D1", 220, 1392248592, "862121", 1392248592, "862121", "{\n}", "2010", "Expenditures", "Capital Outlay", "-491187", "491187" ]
+, [ 221, "302425EE-3235-4DFD-B7FB-957FCA60B628", 221, 1392248592, "862121", 1392248592, "862121", "{\n}", "2010", "Expenditures", "Debt Service-Principal", "-366663", "366663" ]
+, [ 222, "4AEFC447-3545-4569-AA45-2522E3EFCEAF", 222, 1392248592, "862121", 1392248592, "862121", "{\n}", "2010", "Expenditures", "Debt Service-Interest", "-181495", "181495" ]
+, [ 223, "94C37FFB-A325-4182-BC7E-7A76062A9F4A", 223, 1392248592, "862121", 1392248592, "862121", "{\n}", "2010", "Expenditures", "Debt Service-Cost of Issuance", "-4954", "4954" ]
+, [ 224, "12645DB6-BB1A-4991-BD3D-52A468196A2A", 224, 1392248592, "862121", 1392248592, "862121", "{\n}", "2010", "Expenditures", "Debt Service-Advance Refunding Loan Escrow", "0", "0" ]
+, [ 225, "4E5DAE2E-CFCD-4717-993A-2014243870AB", 225, 1392248592, "862121", 1392248592, "862121", "{\n}", "2010", "Other Financing Sources (Uses)", "Issuance of Long-term Debt", "545155", "545155" ]
+, [ 226, "C7F43DBC-4E8A-427C-B9EC-003B45023AE6", 226, 1392248592, "862121", 1392248592, "862121", "{\n}", "2010", "Other Financing Sources (Uses)", "Discount on Issuance of Long-term Debt", "-370", "370" ]
+, [ 227, "FCC7167D-153F-4822-9C26-AB4217507E73", 227, 1392248592, "862121", 1392248592, "862121", "{\n}", "2010", "Other Financing Sources (Uses)", "Premium on Issuance of Long-term Debt", "15479", "15479" ]
+, [ 228, "AA3BD5E8-399B-4462-A294-263E3285DCC1", 228, 1392248592, "862121", 1392248592, "862121", "{\n}", "2010", "Other Financing Sources (Uses)", "Issuance of Refunding Bonds", "49485", "49485" ]
+, [ 229, "37AB11C0-6322-45BE-8C93-01C9B8A287AA", 229, 1392248592, "862121", 1392248592, "862121", "{\n}", "2010", "Other Financing Sources (Uses)", "Premium on Issuance of Refunding Bonds", "3824", "3824" ]
+, [ 230, "CF287371-7B57-4D61-85A8-69C1435F76EA", 230, 1392248592, "862121", 1392248592, "862121", "{\n}", "2010", "Other Financing Sources (Uses)", "Payment to Refunded Bond Escrow Agent", "-54463", "54463" ]
+, [ 231, "BD542344-5A58-4BAA-85B2-4D4E3D976F62", 231, 1392248592, "862121", 1392248592, "862121", "{\n}", "2010", "Other Financing Sources (Uses)", "Proceeds of Refunding Loan", "0", "0" ]
+, [ 232, "0499594A-8808-4D76-AD9B-72CD3BA9657C", 232, 1392248592, "862121", 1392248592, "862121", "{\n}", "2010", "Other Financing Sources (Uses)", "Payment for Current Refunding of Loan", "0", "0" ]
+, [ 233, "D6517F6B-FA03-4D5A-B9B2-2539417470AC", 233, 1392248592, "862121", 1392248592, "862121", "{\n}", "2010", "Other Financing Sources (Uses)", "Loans from HUD", "63904", "63904" ]
+, [ 234, "CB48C94E-F589-4270-823E-B0731DE8A415", 234, 1392248592, "862121", 1392248592, "862121", "{\n}", "2010", "Other Financing Sources (Uses)", "Transfers In", "1041071", "1041071" ]
+, [ 235, "E2C1297D-C1E2-4A00-B2DD-37089983B9CA", 235, 1392248592, "862121", 1392248592, "862121", "{\n}", "2010", "Other Financing Sources (Uses)", "Transfers Out", "-820596", "820596" ]
+, [ 236, "49B00DED-C37F-4A43-9A84-E9474668CC8E", 236, 1392248592, "862121", 1392248592, "862121", "{\n}", "2010", "Special Items", "Loss on Loan Settlement", "0", "0" ]
+, [ 237, "31E3F5CB-6725-4521-894E-A67DF0843160", 237, 1392248592, "862121", 1392248592, "862121", "{\n}", "2010", "Special Items", "Transfer of Properties for Development from CRA", "0", "0" ]
+, [ 238, "4E1283D9-D71A-4D23-97A7-11AAF0276BE9", 238, 1392248592, "862121", 1392248592, "862121", "{\n}", "2010", "Special Items", "Transfer of Housing Loans from CRA", "0", "0" ]
+, [ 239, "A643CE46-4DA1-47EC-B12A-E7A292830B3A", 239, 1392248592, "862121", 1392248592, "862121", "{\n}", "2011", "Revenues", "Taxes", "3435063", "3435063" ]
+, [ 240, "5B517A02-3ACE-4A2D-AA25-D7D96AA6B4A9", 240, 1392248592, "862121", 1392248592, "862121", "{\n}", "2011", "Revenues", "Licenses and Permits", "51691", "51691" ]
+, [ 241, "B92DC045-0340-4372-B129-4FF5F772CF50", 241, 1392248592, "862121", 1392248592, "862121", "{\n}", "2011", "Revenues", "Intergovernmental ", "920809", "920809" ]
+, [ 242, "A0B2240D-F098-4E2E-918A-C25956D80299", 242, 1392248592, "862121", 1392248592, "862121", "{\n}", "2011", "Revenues", "Charges for Services", "1436977", "1436977" ]
+, [ 243, "B9D780FC-F3A5-4A05-AE46-12CEDE0B4FB9", 243, 1392248592, "862121", 1392248592, "862121", "{\n}", "2011", "Revenues", "Fines", "158612", "158612" ]
+, [ 244, "E2E71B63-192E-4E0D-A3A7-0C7C9586D33D", 244, 1392248592, "862121", 1392248592, "862121", "{\n}", "2011", "Revenues", "Special Assessments", "106514", "106514" ]
+, [ 245, "0EE50E0B-7389-4553-BDCF-22F84F1B1D0A", 245, 1392248592, "862121", 1392248592, "862121", "{\n}", "2011", "Revenues", "Investment Earnings", "65978", "65978" ]
+, [ 246, "DBDB5DD9-A51E-477F-AC7A-FAD6F9EAC51B", 246, 1392248592, "862121", 1392248592, "862121", "{\n}", "2011", "Revenues", "Other", "142968", "142968" ]
+, [ 247, "D6AB5B9B-614F-423D-B091-2C43ED6C69B3", 247, 1392248592, "862121", 1392248592, "862121", "{\n}", "2011", "Expenditures", "General Government", "-1269321", "1269321" ]
+, [ 248, "9BCE6A58-41A7-41CE-B767-C99ACB48A4D5", 248, 1392248592, "862121", 1392248592, "862121", "{\n}", "2011", "Expenditures", "Protection of Persons and Property", "-2477648", "2477648" ]
+, [ 249, "30D7179F-3488-4943-AC07-DCD1763304F2", 249, 1392248592, "862121", 1392248592, "862121", "{\n}", "2011", "Expenditures", "Public Works", "-347485", "347485" ]
+, [ 250, "1EF9B0E3-3E04-4EB6-94A8-8BC6DC7E8E78", 250, 1392248592, "862121", 1392248592, "862121", "{\n}", "2011", "Expenditures", "Health and Sanitation", "-459785", "459785" ]
+, [ 251, "729149CA-F893-4140-8B14-26043CDB109B", 251, 1392248592, "862121", 1392248592, "862121", "{\n}", "2011", "Expenditures", "Transportation", "-321797", "321797" ]
+, [ 252, "060CEC67-97E5-4789-A656-59B65EF4A6AB", 252, 1392248592, "862121", 1392248592, "862121", "{\n}", "2011", "Expenditures", "Cultural and Recreational Services", "-389165", "389165" ]
+, [ 253, "28A2E07E-A13C-4CF7-8E50-E0B2F1C6666A", 253, 1392248592, "862121", 1392248592, "862121", "{\n}", "2011", "Expenditures", "Community Development", "-463920", "463920" ]
+, [ 254, "4243E510-E089-485B-8D8B-C0889A531432", 254, 1392248592, "862121", 1392248592, "862121", "{\n}", "2011", "Expenditures", "Capital Outlay", "-362867", "362867" ]
+, [ 255, "93D8F37B-10EB-49D2-95EA-307C72DC2758", 255, 1392248592, "862121", 1392248592, "862121", "{\n}", "2011", "Expenditures", "Debt Service-Principal", "-367206", "367206" ]
+, [ 256, "839468CC-F1C5-4B20-9343-87FE7FAA71E3", 256, 1392248592, "862121", 1392248592, "862121", "{\n}", "2011", "Expenditures", "Debt Service-Interest", "-189902", "189902" ]
+, [ 257, "19BBF948-1B16-456F-BF14-FEF07F8CCB55", 257, 1392248592, "862121", 1392248592, "862121", "{\n}", "2011", "Expenditures", "Debt Service-Cost of Issuance", "-2439", "2439" ]
+, [ 258, "2E502307-1D66-44EE-A05F-715FCB98BE5B", 258, 1392248592, "862121", 1392248592, "862121", "{\n}", "2011", "Expenditures", "Debt Service-Advance Refunding Loan Escrow", "0", "0" ]
+, [ 259, "CA62F544-A11E-4C5E-A1C6-EDF49AADA1B7", 259, 1392248592, "862121", 1392248592, "862121", "{\n}", "2011", "Other Financing Sources (Uses)", "Issuance of Long-term Debt", "219186", "219186" ]
+, [ 260, "8960B9D6-4A5E-4684-9111-AC6EB9DF266B", 260, 1392248592, "862121", 1392248592, "862121", "{\n}", "2011", "Other Financing Sources (Uses)", "Discount on Issuance of Long-term Debt", "0", "0" ]
+, [ 261, "8724A12A-ACB8-424D-9E33-AE7CEFB369F6", 261, 1392248592, "862121", 1392248592, "862121", "{\n}", "2011", "Other Financing Sources (Uses)", "Premium on Issuance of Long-term Debt", "2216", "2216" ]
+, [ 262, "B25582E7-3F22-4AF5-9F16-3F2772AEA656", 262, 1392248592, "862121", 1392248592, "862121", "{\n}", "2011", "Other Financing Sources (Uses)", "Issuance of Refunding Bonds", "18705", "18705" ]
+, [ 263, "21921D42-9584-4F24-AD28-3AF3E7EB81E4", 263, 1392248592, "862121", 1392248592, "862121", "{\n}", "2011", "Other Financing Sources (Uses)", "Premium on Issuance of Refunding Bonds", "1198", "1198" ]
+, [ 264, "74F21BAD-D2B8-4842-BE83-25127436B5D0", 264, 1392248592, "862121", 1392248592, "862121", "{\n}", "2011", "Other Financing Sources (Uses)", "Payment to Refunded Bond Escrow Agent", "0", "0" ]
+, [ 265, "E9077EEF-7A28-4AAA-A0AC-741D633F8531", 265, 1392248592, "862121", 1392248592, "862121", "{\n}", "2011", "Other Financing Sources (Uses)", "Proceeds of Refunding Loan", "1983", "1983" ]
+, [ 266, "0044AB65-44C2-4355-AECF-E8406A3B0260", 266, 1392248592, "862121", 1392248592, "862121", "{\n}", "2011", "Other Financing Sources (Uses)", "Payment for Current Refunding of Loan", "-1983", "1983" ]
+, [ 267, "25F306EA-B897-4E4F-8AC9-377BCE1B0DB2", 267, 1392248592, "862121", 1392248592, "862121", "{\n}", "2011", "Other Financing Sources (Uses)", "Loans from HUD", "7388", "7388" ]
+, [ 268, "E8531D67-43D6-44E0-92A4-8199E0D20D58", 268, 1392248592, "862121", 1392248592, "862121", "{\n}", "2011", "Other Financing Sources (Uses)", "Transfers In", "1086218", "1086218" ]
+, [ 269, "2F62DE53-D22B-4561-99A9-FBCCD1808774", 269, 1392248592, "862121", 1392248592, "862121", "{\n}", "2011", "Other Financing Sources (Uses)", "Transfers Out", "-827403", "827403" ]
+, [ 270, "FEC41585-C532-4485-A057-6A6C9B4B3B84", 270, 1392248592, "862121", 1392248592, "862121", "{\n}", "2011", "Special Items", "Loss on Loan Settlement", "-47007", "47007" ]
+, [ 271, "25ABF12A-9EDC-4F6A-AB1F-FBD2BF5CD60E", 271, 1392248592, "862121", 1392248592, "862121", "{\n}", "2011", "Special Items", "Transfer of Properties for Development from CRA", "0", "0" ]
+, [ 272, "CE5C7025-AC26-4AEF-B134-3C3A20BC4271", 272, 1392248592, "862121", 1392248592, "862121", "{\n}", "2011", "Special Items", "Transfer of Housing Loans from CRA", "0", "0" ]
+, [ 273, "0DB5B1C6-3377-4346-867B-24000A87F80F", 273, 1392248592, "862121", 1392248592, "862121", "{\n}", "2012", "Revenues", "Taxes", "3518357", "3518357" ]
+, [ 274, "3B063DB2-EFFD-4903-B915-A55175A29327", 274, 1392248592, "862121", 1392248592, "862121", "{\n}", "2012", "Revenues", "Licenses and Permits", "60474", "60474" ]
+, [ 275, "BC144ACA-F81D-48C1-8044-9BE644BD2C80", 275, 1392248592, "862121", 1392248592, "862121", "{\n}", "2012", "Revenues", "Intergovernmental ", "937817", "937817" ]
+, [ 276, "62FD76A0-F8FF-418B-99E9-59784A0B1539", 276, 1392248592, "862121", 1392248592, "862121", "{\n}", "2012", "Revenues", "Charges for Services", "1533626", "1533626" ]
+, [ 277, "8B78BC28-20AA-407D-AC86-92FD4A95345D", 277, 1392248592, "862121", 1392248592, "862121", "{\n}", "2012", "Revenues", "Fines", "158417", "158417" ]
+, [ 278, "CC927490-F93A-4691-BBEC-B01CB4B8FE69", 278, 1392248592, "862121", 1392248592, "862121", "{\n}", "2012", "Revenues", "Special Assessments", "123383", "123383" ]
+, [ 279, "D1A9C2D3-3DC1-4401-B544-E8DF6EBB7F02", 279, 1392248592, "862121", 1392248592, "862121", "{\n}", "2012", "Revenues", "Investment Earnings", "72411", "72411" ]
+, [ 280, "97797E13-5C75-49CD-A1AF-9A5FDE95457E", 280, 1392248592, "862121", 1392248592, "862121", "{\n}", "2012", "Revenues", "Other", "172269", "172269" ]
+, [ 281, "9AEAA983-6501-430D-A4BD-61000B9D02A0", 281, 1392248592, "862121", 1392248592, "862121", "{\n}", "2012", "Expenditures", "General Government", "-1296788", "1296788" ]
+, [ 282, "352C96D9-D94D-430D-AE39-E79DB80CB2F7", 282, 1392248592, "862121", 1392248592, "862121", "{\n}", "2012", "Expenditures", "Protection of Persons and Property", "-2532262", "2532262" ]
+, [ 283, "261E28DE-FACE-4F07-ADA3-595D56741680", 283, 1392248592, "862121", 1392248592, "862121", "{\n}", "2012", "Expenditures", "Public Works", "-389139", "389139" ]
+, [ 284, "856EE4B5-9CFD-409A-B841-46E6173C38B6", 284, 1392248592, "862121", 1392248592, "862121", "{\n}", "2012", "Expenditures", "Health and Sanitation", "-453681", "453681" ]
+, [ 285, "B0C70930-E65C-4F65-B2F1-D3D432C0BD38", 285, 1392248592, "862121", 1392248592, "862121", "{\n}", "2012", "Expenditures", "Transportation", "-345671", "345671" ]
+, [ 286, "5F66DF2F-4C48-46C9-BDAA-36D0DCFF0F60", 286, 1392248592, "862121", 1392248592, "862121", "{\n}", "2012", "Expenditures", "Cultural and Recreational Services", "-406338", "406338" ]
+, [ 287, "F6DE2B6F-05C0-4300-9EDE-AD61788B552B", 287, 1392248592, "862121", 1392248592, "862121", "{\n}", "2012", "Expenditures", "Community Development", "-465984", "465984" ]
+, [ 288, "3CFA4D02-CD39-4497-8B7F-254A64722FC6", 288, 1392248592, "862121", 1392248592, "862121", "{\n}", "2012", "Expenditures", "Capital Outlay", "-523931", "523931" ]
+, [ 289, "5EDFF182-D994-429C-8043-50E5F6AAE7F9", 289, 1392248592, "862121", 1392248592, "862121", "{\n}", "2012", "Expenditures", "Debt Service-Principal", "-410333", "410333" ]
+, [ 290, "A78ADE4C-5A40-42AF-A069-3A9650A7FBEF", 290, 1392248592, "862121", 1392248592, "862121", "{\n}", "2012", "Expenditures", "Debt Service-Interest", "-182171", "182171" ]
+, [ 291, "F2E799F0-E854-473E-ABBA-2ADCFEBFE3E2", 291, 1392248592, "862121", 1392248592, "862121", "{\n}", "2012", "Expenditures", "Debt Service-Cost of Issuance", "-5342", "5342" ]
+, [ 292, "EF4B2D34-32EC-497B-855E-28A0A4B16943", 292, 1392248592, "862121", 1392248592, "862121", "{\n}", "2012", "Expenditures", "Debt Service-Advance Refunding Loan Escrow", "0", "0" ]
+, [ 293, "44BCB6B2-64F7-47D4-B6C5-0AEAF56CED65", 293, 1392248592, "862121", 1392248592, "862121", "{\n}", "2012", "Other Financing Sources (Uses)", "Issuance of Long-term Debt", "318530", "318530" ]
+, [ 294, "3C5B3246-A50D-4933-B910-9A6BF717307E", 294, 1392248592, "862121", 1392248592, "862121", "{\n}", "2012", "Other Financing Sources (Uses)", "Discount on Issuance of Long-term Debt", "0", "0" ]
+, [ 295, "1421EB03-BA0B-42FB-8008-3411E792A866", 295, 1392248592, "862121", 1392248592, "862121", "{\n}", "2012", "Other Financing Sources (Uses)", "Premium on Issuance of Long-term Debt", "24672", "24672" ]
+, [ 296, "CA87099B-9D36-4235-806D-C058F94E12D7", 296, 1392248592, "862121", 1392248592, "862121", "{\n}", "2012", "Other Financing Sources (Uses)", "Issuance of Refunding Bonds", "595240", "595240" ]
+, [ 297, "905E545B-D880-48EE-8079-5C67B8AFB8DA", 297, 1392248592, "862121", 1392248592, "862121", "{\n}", "2012", "Other Financing Sources (Uses)", "Premium on Issuance of Refunding Bonds", "100885", "100885" ]
+, [ 298, "E3486C1D-561A-4FE0-AAA9-EB0ADB747FAA", 298, 1392248592, "862121", 1392248592, "862121", "{\n}", "2012", "Other Financing Sources (Uses)", "Payment to Refunded Bond Escrow Agent", "-694326", "694326" ]
+, [ 299, "1BED9C1D-9C47-4627-84D2-AEA85C45AC10", 299, 1392248592, "862121", 1392248592, "862121", "{\n}", "2012", "Other Financing Sources (Uses)", "Proceeds of Refunding Loan", "0", "0" ]
+, [ 300, "6DBC377E-C7E9-4090-BA35-46EDEC9D957C", 300, 1392248592, "862121", 1392248592, "862121", "{\n}", "2012", "Other Financing Sources (Uses)", "Payment for Current Refunding of Loan", "0", "0" ]
+, [ 301, "33C6A96A-9ADB-4D09-9F49-C6F4F568A99E", 301, 1392248592, "862121", 1392248592, "862121", "{\n}", "2012", "Other Financing Sources (Uses)", "Loans from HUD", "52521", "52521" ]
+, [ 302, "EEFCE8F7-E3D4-439A-BE31-97FFB9D4ABD0", 302, 1392248592, "862121", 1392248592, "862121", "{\n}", "2012", "Other Financing Sources (Uses)", "Transfers In", "1004650", "1004650" ]
+, [ 303, "71A88461-8E9D-48A3-9E33-B2B17D12DCAA", 303, 1392248592, "862121", 1392248592, "862121", "{\n}", "2012", "Other Financing Sources (Uses)", "Transfers Out", "-754573", "754573" ]
+, [ 304, "CCCFCFFC-51F1-42F1-8D74-E974E3C2F837", 304, 1392248592, "862121", 1392248592, "862121", "{\n}", "2012", "Special Items", "Loss on Loan Settlement", "0", "0" ]
+, [ 305, "6553893D-30EB-4DAF-B0B6-8B1E4599B752", 305, 1392248592, "862121", 1392248592, "862121", "{\n}", "2012", "Special Items", "Transfer of Properties for Development from CRA", "0", "0" ]
+, [ 306, "A90150EA-50F6-43C5-89CD-C7630D309EE0", 306, 1392248592, "862121", 1392248592, "862121", "{\n}", "2012", "Special Items", "Transfer of Housing Loans from CRA", "0", "0" ]
+, [ 307, "FB4CA4FE-E9CB-49C4-8821-CBD1CB49BDED", 307, 1392248592, "862121", 1392248592, "862121", "{\n}", "2013", "Revenues", "Taxes", "3687676", "3687676" ]
+, [ 308, "F4E2DE03-F4CF-4C62-9EB4-EF71BC378701", 308, 1392248592, "862121", 1392248592, "862121", "{\n}", "2013", "Revenues", "Licenses and Permits", "61605", "61605" ]
+, [ 309, "F279F8BB-AA89-41C1-8C23-691AAA618AA8", 309, 1392248592, "862121", 1392248592, "862121", "{\n}", "2013", "Revenues", "Intergovernmental ", "866749", "866749" ]
+, [ 310, "47EBE6C7-6B8A-4844-8940-44E6B0BCBB87", 310, 1392248592, "862121", 1392248592, "862121", "{\n}", "2013", "Revenues", "Charges for Services", "1577623", "1577623" ]
+, [ 311, "A5E25DFB-F1E7-4945-B4BF-9D8C40CC32CF", 311, 1392248592, "862121", 1392248592, "862121", "{\n}", "2013", "Revenues", "Fines", "172437", "172437" ]
+, [ 312, "E78AA18B-34C8-4852-ABD5-BEB2B3813C52", 312, 1392248592, "862121", 1392248592, "862121", "{\n}", "2013", "Revenues", "Special Assessments", "128762", "128762" ]
+, [ 313, "75392FDA-1ACE-4997-8265-8512279DB500", 313, 1392248592, "862121", 1392248592, "862121", "{\n}", "2013", "Revenues", "Investment Earnings", "5438", "5438" ]
+, [ 314, "D424D860-9380-4DEF-85C3-26ECD183EBBA", 314, 1392248592, "862121", 1392248592, "862121", "{\n}", "2013", "Revenues", "Other", "188800", "188800" ]
+, [ 315, "39B42C56-458F-4E4E-837D-21E7CFA41A0E", 315, 1392248592, "862121", 1392248592, "862121", "{\n}", "2013", "Expenditures", "General Government", "-1261771", "1261771" ]
+, [ 316, "83584F8B-6D96-4315-A13B-9D213AF04C8B", 316, 1392248592, "862121", 1392248592, "862121", "{\n}", "2013", "Expenditures", "Protection of Persons and Property", "-2667236", "2667236" ]
+, [ 317, "455FB04F-1954-4F15-9B2F-F7FE2AF67394", 317, 1392248592, "862121", 1392248592, "862121", "{\n}", "2013", "Expenditures", "Public Works", "-400017", "400017" ]
+, [ 318, "60E443BA-6D73-4C65-947C-162FC727BC13", 318, 1392248592, "862121", 1392248592, "862121", "{\n}", "2013", "Expenditures", "Health and Sanitation", "-438220", "438220" ]
+, [ 319, "8906A468-90BA-4424-9F18-6C75E08F0A02", 319, 1392248592, "862121", 1392248592, "862121", "{\n}", "2013", "Expenditures", "Transportation", "-400047", "400047" ]
+, [ 320, "88271A97-6F6F-4389-BFFD-E257379173C8", 320, 1392248592, "862121", 1392248592, "862121", "{\n}", "2013", "Expenditures", "Cultural and Recreational Services", "-431062", "431062" ]
+, [ 321, "9F5B1697-98DD-4649-8AD4-CF0DE252FA0B", 321, 1392248592, "862121", 1392248592, "862121", "{\n}", "2013", "Expenditures", "Community Development", "-417285", "417285" ]
+, [ 322, "D30DB3D0-6306-4BF1-9B6B-E6EC92D1B310", 322, 1392248592, "862121", 1392248592, "862121", "{\n}", "2013", "Expenditures", "Capital Outlay", "-352685", "352685" ]
+, [ 323, "2B5F4B01-A6A7-46CF-979A-C695CC654A3E", 323, 1392248592, "862121", 1392248592, "862121", "{\n}", "2013", "Expenditures", "Debt Service-Principal", "-326913", "326913" ]
+, [ 324, "D710B633-7875-4858-905B-E00A90999304", 324, 1392248592, "862121", 1392248592, "862121", "{\n}", "2013", "Expenditures", "Debt Service-Interest", "-168497", "168497" ]
+, [ 325, "2DD67810-8D7E-4E90-92F2-361671AB7343", 325, 1392248592, "862121", 1392248592, "862121", "{\n}", "2013", "Expenditures", "Debt Service-Cost of Issuance", "-1777", "1777" ]
+, [ 326, "29A3B828-90DC-4601-89D7-B04FF58A1846", 326, 1392248592, "862121", 1392248592, "862121", "{\n}", "2013", "Expenditures", "Debt Service-Advance Refunding Loan Escrow", "0", "0" ]
+, [ 327, "9F6F7AD9-E771-46E6-A47B-90305750B2C3", 327, 1392248592, "862121", 1392248592, "862121", "{\n}", "2013", "Other Financing Sources (Uses)", "Issuance of Long-term Debt", "116665", "116665" ]
+, [ 328, "FCF7B41F-BD84-4B26-99D2-B5C3BCF2A560", 328, 1392248592, "862121", 1392248592, "862121", "{\n}", "2013", "Other Financing Sources (Uses)", "Discount on Issuance of Long-term Debt", "0", "0" ]
+, [ 329, "D0F4FF4D-AE99-4471-8F27-987CAB364813", 329, 1392248592, "862121", 1392248592, "862121", "{\n}", "2013", "Other Financing Sources (Uses)", "Premium on Issuance of Long-term Debt", "5096", "5096" ]
+, [ 330, "8DCCF189-884E-4348-BC33-903F36D30C4F", 330, 1392248592, "862121", 1392248592, "862121", "{\n}", "2013", "Other Financing Sources (Uses)", "Issuance of Refunding Bonds", "78780", "78780" ]
+, [ 331, "C8BEF45B-51A5-4178-AB63-8E887515D546", 331, 1392248592, "862121", 1392248592, "862121", "{\n}", "2013", "Other Financing Sources (Uses)", "Premium on Issuance of Refunding Bonds", "9096", "9096" ]
+, [ 332, "ADE35B1F-BFFA-41D4-A0A9-EB0063DC95DD", 332, 1392248592, "862121", 1392248592, "862121", "{\n}", "2013", "Other Financing Sources (Uses)", "Payment to Refunded Bond Escrow Agent", "-94781", "94781" ]
+, [ 333, "1A9E0392-8AA5-4D58-9C6E-3E6FB62D5036", 333, 1392248592, "862121", 1392248592, "862121", "{\n}", "2013", "Other Financing Sources (Uses)", "Proceeds of Refunding Loan", "0", "0" ]
+, [ 334, "AF8317F7-A9D4-403B-8FC0-445B1F3FE9A0", 334, 1392248592, "862121", 1392248592, "862121", "{\n}", "2013", "Other Financing Sources (Uses)", "Payment for Current Refunding of Loan", "0", "0" ]
+, [ 335, "0E8FA8EF-1DD8-4715-B7BD-DF6549FA36FA", 335, 1392248592, "862121", 1392248592, "862121", "{\n}", "2013", "Other Financing Sources (Uses)", "Loans from HUD", "29003", "29003" ]
+, [ 336, "A1DBE1BB-B534-4C4B-8A82-5050219B2B0E", 336, 1392248592, "862121", 1392248592, "862121", "{\n}", "2013", "Other Financing Sources (Uses)", "Transfers In", "951062", "951062" ]
+, [ 337, "B32CD577-B286-45B1-97BF-D59E11BBDC33", 337, 1392248592, "862121", 1392248592, "862121", "{\n}", "2013", "Other Financing Sources (Uses)", "Transfers Out", "-704528", "704528" ]
+, [ 338, "4F79B724-FE10-469F-9132-13906343F86F", 338, 1392248592, "862121", 1392248592, "862121", "{\n}", "2013", "Special Items", "Loss on Loan Settlement", "0", "0" ]
+, [ 339, "20BF0D80-6E97-443F-9986-1DD40D6E381D", 339, 1392248592, "862121", 1392248592, "862121", "{\n}", "2013", "Special Items", "Transfer of Properties for Development from CRA", "80484", "80484" ]
+, [ 340, "139EF8FA-3B2B-40EF-9033-F746D1D773B2", 340, 1392248592, "862121", 1392248592, "862121", "{\n}", "2013", "Special Items", "Transfer of Housing Loans from CRA", "124781", "124781" ]
+ ]
+}

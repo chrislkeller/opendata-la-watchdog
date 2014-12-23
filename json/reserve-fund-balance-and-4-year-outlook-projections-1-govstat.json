@@ -1,0 +1,729 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "qzzt-heid",
+      "name" : "Reserve Fund Balance And 4-year Outlook Projections (1) - GOVSTAT",
+      "averageRating" : 0,
+      "createdAt" : 1401492171,
+      "displayType" : "table",
+      "downloadCount" : 2,
+      "indexUpdatedAt" : 1414614301,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8109113,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401492368,
+      "publicationGroup" : 1600681,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1401492226,
+      "rowsUpdatedBy" : "tyhz-nfmm",
+      "tableId" : 1600681,
+      "totalTimesRated" : 0,
+      "viewCount" : 16,
+      "viewLastModified" : 1403287747,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150665163,
+        "name" : "Fiscal Year",
+        "dataTypeName" : "text",
+        "fieldName" : "fiscal_year",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20022751,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 15,
+          "smallest" : "2004-05",
+          "null" : 0,
+          "largest" : "2018-19",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2004-05"
+          }, {
+            "count" : 19,
+            "item" : "2005-06"
+          }, {
+            "count" : 18,
+            "item" : "2006-07"
+          }, {
+            "count" : 17,
+            "item" : "2007-08"
+          }, {
+            "count" : 16,
+            "item" : "2008-09"
+          }, {
+            "count" : 15,
+            "item" : "2009-10"
+          }, {
+            "count" : 14,
+            "item" : "2010-11"
+          }, {
+            "count" : 13,
+            "item" : "2011-12"
+          }, {
+            "count" : 12,
+            "item" : "2012-13"
+          }, {
+            "count" : 11,
+            "item" : "2013-14"
+          }, {
+            "count" : 10,
+            "item" : "2014-15"
+          }, {
+            "count" : 9,
+            "item" : "2015-16"
+          }, {
+            "count" : 8,
+            "item" : "2016-17"
+          }, {
+            "count" : 7,
+            "item" : "2017-18"
+          }, {
+            "count" : 6,
+            "item" : "2018-19"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150665164,
+        "name" : "Start of Fiscal Year",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "start_of_fiscal_year",
+        "position" : 3,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 20022752,
+        "width" : 340,
+        "cachedContents" : {
+          "non_null" : 15,
+          "smallest" : "2004-07-01T00:00:00",
+          "null" : 0,
+          "largest" : "2018-07-01T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2004-07-01T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2005-07-01T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2006-07-01T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2007-07-01T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2008-07-01T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2009-07-01T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2010-07-01T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2011-07-01T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2012-07-01T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2013-07-01T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2014-07-01T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2015-07-01T00:00:00"
+          }, {
+            "count" : 8,
+            "item" : "2016-07-01T00:00:00"
+          }, {
+            "count" : 7,
+            "item" : "2017-07-01T00:00:00"
+          }, {
+            "count" : 6,
+            "item" : "2018-07-01T00:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150665165,
+        "name" : "Reserve fund balance on July 1",
+        "dataTypeName" : "money",
+        "fieldName" : "reserve_fund_balance_on_july_1",
+        "position" : 4,
+        "renderTypeName" : "money",
+        "tableColumnId" : 20022753,
+        "width" : 460,
+        "cachedContents" : {
+          "non_null" : 11,
+          "smallest" : "113700000.00",
+          "sum" : "2129600000.00",
+          "null" : 4,
+          "average" : "193600000.00",
+          "largest" : "326700000.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "144800000.00"
+          }, {
+            "count" : 19,
+            "item" : "158600000.00"
+          }, {
+            "count" : 18,
+            "item" : "178800000.00"
+          }, {
+            "count" : 17,
+            "item" : "113700000.00"
+          }, {
+            "count" : 16,
+            "item" : "166100000.00"
+          }, {
+            "count" : 15,
+            "item" : "151700000.00"
+          }, {
+            "count" : 14,
+            "item" : "171300000.00"
+          }, {
+            "count" : 13,
+            "item" : "200700000.00"
+          }, {
+            "count" : 12,
+            "item" : "233100000.00"
+          }, {
+            "count" : 11,
+            "item" : "326700000.00"
+          }, {
+            "count" : 10,
+            "item" : "284100000.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150665166,
+        "name" : "Reserve fund as a % of General Fund",
+        "dataTypeName" : "percent",
+        "fieldName" : "reserve_fund_as_a_of_general_fund",
+        "position" : 5,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 20022754,
+        "width" : 520,
+        "cachedContents" : {
+          "non_null" : 11,
+          "smallest" : "2.56",
+          "sum" : "47.60",
+          "null" : 4,
+          "average" : "4.327272727272727",
+          "largest" : "6.71",
+          "top" : [ {
+            "count" : 20,
+            "item" : "3.95"
+          }, {
+            "count" : 19,
+            "item" : "4.02"
+          }, {
+            "count" : 18,
+            "item" : "4.12"
+          }, {
+            "count" : 17,
+            "item" : "2.56"
+          }, {
+            "count" : 16,
+            "item" : "3.65"
+          }, {
+            "count" : 15,
+            "item" : "3.45"
+          }, {
+            "count" : 14,
+            "item" : "3.92"
+          }, {
+            "count" : 13,
+            "item" : "4.58"
+          }, {
+            "count" : 12,
+            "item" : "5.12"
+          }, {
+            "count" : 11,
+            "item" : "6.71"
+          }, {
+            "count" : 10,
+            "item" : "5.52"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150665167,
+        "name" : "2004-05 Projection",
+        "dataTypeName" : "money",
+        "fieldName" : "_2004_05_projection",
+        "position" : 6,
+        "renderTypeName" : "money",
+        "tableColumnId" : 20022755,
+        "width" : 316,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "-293800000.00",
+          "sum" : "-834400000.00",
+          "null" : 11,
+          "average" : "-208600000.00",
+          "largest" : "-126500000.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "-293800000.00"
+          }, {
+            "count" : 19,
+            "item" : "-237300000.00"
+          }, {
+            "count" : 18,
+            "item" : "-176800000.00"
+          }, {
+            "count" : 17,
+            "item" : "-126500000.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150665168,
+        "name" : "2005-06 Projection",
+        "dataTypeName" : "money",
+        "fieldName" : "_2005_06_projection",
+        "position" : 7,
+        "renderTypeName" : "money",
+        "tableColumnId" : 20022756,
+        "width" : 316,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "-265800000.00",
+          "sum" : "-730500000.00",
+          "null" : 11,
+          "average" : "-182625000.00",
+          "largest" : "-63500000.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "-236100000.00"
+          }, {
+            "count" : 19,
+            "item" : "-265800000.00"
+          }, {
+            "count" : 18,
+            "item" : "-165100000.00"
+          }, {
+            "count" : 17,
+            "item" : "-63500000.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150665169,
+        "name" : "2006-07 Projection",
+        "dataTypeName" : "money",
+        "fieldName" : "_2006_07_projection",
+        "position" : 8,
+        "renderTypeName" : "money",
+        "tableColumnId" : 20022757,
+        "width" : 316,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "-264600000.00",
+          "sum" : "-660800000.00",
+          "null" : 11,
+          "average" : "-165200000.00",
+          "largest" : "-73700000.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "-264600000.00"
+          }, {
+            "count" : 19,
+            "item" : "-201100000.00"
+          }, {
+            "count" : 18,
+            "item" : "-121400000.00"
+          }, {
+            "count" : 17,
+            "item" : "-73700000.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150665170,
+        "name" : "2007-08 Projection",
+        "dataTypeName" : "money",
+        "fieldName" : "_2007_08_projection",
+        "position" : 9,
+        "renderTypeName" : "money",
+        "tableColumnId" : 20022758,
+        "width" : 316,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "20900000.00",
+          "sum" : "246800000.00",
+          "null" : 11,
+          "average" : "61700000.00",
+          "largest" : "86600000.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "20900000.00"
+          }, {
+            "count" : 19,
+            "item" : "70900000.00"
+          }, {
+            "count" : 18,
+            "item" : "68400000.00"
+          }, {
+            "count" : 17,
+            "item" : "86600000.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150665171,
+        "name" : "2008-09 Projection",
+        "dataTypeName" : "money",
+        "fieldName" : "_2008_09_projection",
+        "position" : 10,
+        "renderTypeName" : "money",
+        "tableColumnId" : 20022759,
+        "width" : 316,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "-342800000.00",
+          "sum" : "-635900000.00",
+          "null" : 13,
+          "average" : "-317950000.00",
+          "largest" : "-293100000.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "-293100000.00"
+          }, {
+            "count" : 19,
+            "item" : "-342800000.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150665172,
+        "name" : "2009-10 Projection",
+        "dataTypeName" : "money",
+        "fieldName" : "_2009_10_projection",
+        "position" : 11,
+        "renderTypeName" : "money",
+        "tableColumnId" : 20022760,
+        "width" : 316,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "-1198900000.00",
+          "sum" : "-2206300000.00",
+          "null" : 13,
+          "average" : "-1103150000.00",
+          "largest" : "-1007400000.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "-1007400000.00"
+          }, {
+            "count" : 19,
+            "item" : "-1198900000.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150665173,
+        "name" : "2010-11 Projection",
+        "dataTypeName" : "money",
+        "fieldName" : "_2010_11_projection",
+        "position" : 12,
+        "renderTypeName" : "money",
+        "tableColumnId" : 20022761,
+        "width" : 316,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "-472400000.00",
+          "sum" : "-1479500000.00",
+          "null" : 11,
+          "average" : "-369875000.00",
+          "largest" : "-233800000.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "-233800000.00"
+          }, {
+            "count" : 19,
+            "item" : "-341800000.00"
+          }, {
+            "count" : 18,
+            "item" : "-431500000.00"
+          }, {
+            "count" : 17,
+            "item" : "-472400000.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150665174,
+        "name" : "2011-12 Projection",
+        "dataTypeName" : "money",
+        "fieldName" : "_2011_12_projection",
+        "position" : 13,
+        "renderTypeName" : "money",
+        "tableColumnId" : 20022762,
+        "width" : 316,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "-310800000.00",
+          "sum" : "-1145700000.00",
+          "null" : 11,
+          "average" : "-286425000.00",
+          "largest" : "-249400000.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "-281000000.00"
+          }, {
+            "count" : 19,
+            "item" : "-304500000.00"
+          }, {
+            "count" : 18,
+            "item" : "-310800000.00"
+          }, {
+            "count" : 17,
+            "item" : "-249400000.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150665175,
+        "name" : "2012-13 Projection",
+        "dataTypeName" : "money",
+        "fieldName" : "_2012_13_projection",
+        "position" : 14,
+        "renderTypeName" : "money",
+        "tableColumnId" : 20022763,
+        "width" : 316,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "-315300000.00",
+          "sum" : "-1053800000.00",
+          "null" : 11,
+          "average" : "-263450000.00",
+          "largest" : "-199200000.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "-199200000.00"
+          }, {
+            "count" : 19,
+            "item" : "-315300000.00"
+          }, {
+            "count" : 18,
+            "item" : "-285900000.00"
+          }, {
+            "count" : 17,
+            "item" : "-253400000.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150665176,
+        "name" : "2013-14 Projection",
+        "dataTypeName" : "money",
+        "fieldName" : "_2013_14_projection",
+        "position" : 15,
+        "renderTypeName" : "money",
+        "tableColumnId" : 20022764,
+        "width" : 316,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "-241700000.00",
+          "sum" : "-710700000.00",
+          "null" : 11,
+          "average" : "-177675000.00",
+          "largest" : "-83100000.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "-241700000.00"
+          }, {
+            "count" : 19,
+            "item" : "-201100000.00"
+          }, {
+            "count" : 18,
+            "item" : "-184800000.00"
+          }, {
+            "count" : 17,
+            "item" : "-83100000.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150665177,
+        "name" : "2014-15 Projection",
+        "dataTypeName" : "money",
+        "fieldName" : "_2014_15_projection",
+        "position" : 16,
+        "renderTypeName" : "money",
+        "tableColumnId" : 20022765,
+        "width" : 316,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "-186800000.00",
+          "sum" : "-405000000.00",
+          "null" : 11,
+          "average" : "-101250000.00",
+          "largest" : "20900000.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "-165200000.00"
+          }, {
+            "count" : 19,
+            "item" : "-186800000.00"
+          }, {
+            "count" : 18,
+            "item" : "-73900000.00"
+          }, {
+            "count" : 17,
+            "item" : "20900000.00"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "tgn6-4379",
+        "displayName" : "Mayor's Office OpenData",
+        "profileImageUrlLarge" : "/images/profile/5324/8362/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5324/8362/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5324/8362/_City_Seal_tiny.jpg",
+        "roleName" : "administrator",
+        "screenName" : "Mayor's Office OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "tgn6-4379",
+        "displayName" : "Mayor's Office OpenData",
+        "profileImageUrlLarge" : "/images/profile/5324/8362/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5324/8362/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5324/8362/_City_Seal_tiny.jpg",
+        "roleName" : "administrator",
+        "screenName" : "Mayor's Office OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "7BCA11C8-00D9-461E-91EB-939CC797C5FD", 1, 1401492192, "865572", 1401492192, "865572", "{\n}", "2004-05", "2004-07-01T00:00:00", "144800000.00", "3.95", null, null, null, null, null, null, null, null, null, null, null ]
+, [ 2, "C1B39FC0-4E20-4699-BE26-2E3B1A82E0BA", 2, 1401492192, "865572", 1401492192, "865572", "{\n}", "2005-06", "2005-07-01T00:00:00", "158600000.00", "4.02", "-293800000.00", null, null, null, null, null, null, null, null, null, null ]
+, [ 3, "0C8571F3-D728-4A1C-9078-AD93E78CAB45", 3, 1401492192, "865572", 1401492192, "865572", "{\n}", "2006-07", "2006-07-01T00:00:00", "178800000.00", "4.12", "-237300000.00", "-236100000.00", null, null, null, null, null, null, null, null, null ]
+, [ 4, "06D8BC3B-0D0B-4FF5-A160-3EE4472EAB3C", 4, 1401492192, "865572", 1401492192, "865572", "{\n}", "2007-08", "2007-07-01T00:00:00", "113700000.00", "2.56", "-176800000.00", "-265800000.00", "-264600000.00", null, null, null, null, null, null, null, null ]
+, [ 5, "62E61F32-C062-409E-8D90-9660854551C9", 5, 1401492192, "865572", 1401492192, "865572", "{\n}", "2008-09", "2008-07-01T00:00:00", "166100000.00", "3.65", "-126500000.00", "-165100000.00", "-201100000.00", "20900000.00", null, null, null, null, null, null, null ]
+, [ 6, "ABACD82A-B6E6-42F9-AEE4-CEC1BF5449CA", 6, 1401492192, "865572", 1401492192, "865572", "{\n}", "2009-10", "2009-07-01T00:00:00", "151700000.00", "3.45", null, "-63500000.00", "-121400000.00", "70900000.00", "-293100000.00", null, null, null, null, null, null ]
+, [ 7, "FA3B723B-C5F2-490E-8FF6-21A0EA379280", 7, 1401492192, "865572", 1401492192, "865572", "{\n}", "2010-11", "2010-07-01T00:00:00", "171300000.00", "3.92", null, null, "-73700000.00", "68400000.00", "-342800000.00", "-1007400000.00", null, null, null, null, null ]
+, [ 8, "FB02DDE8-CE95-444C-861F-51EBE42A555D", 8, 1401492192, "865572", 1401492192, "865572", "{\n}", "2011-12", "2011-07-01T00:00:00", "200700000.00", "4.58", null, null, null, "86600000.00", null, "-1198900000.00", "-233800000.00", null, null, null, null ]
+, [ 9, "33222BCA-A0D0-4869-A2DC-48499F5488B5", 9, 1401492192, "865572", 1401492192, "865572", "{\n}", "2012-13", "2012-07-01T00:00:00", "233100000.00", "5.12", null, null, null, null, null, null, "-341800000.00", "-281000000.00", null, null, null ]
+, [ 10, "E7EB91B9-0A5F-4E47-8699-01AFE016A515", 10, 1401492192, "865572", 1401492192, "865572", "{\n}", "2013-14", "2013-07-01T00:00:00", "326700000.00", "6.71", null, null, null, null, null, null, "-431500000.00", "-304500000.00", "-199200000.00", null, null ]
+, [ 11, "95B564C3-2AF7-4F4D-AA50-DB39C9A61088", 11, 1401492192, "865572", 1401492192, "865572", "{\n}", "2014-15", "2014-07-01T00:00:00", "284100000.00", "5.52", null, null, null, null, null, null, "-472400000.00", "-310800000.00", "-315300000.00", "-241700000.00", null ]
+, [ 12, "5ED9BF1B-4195-4025-ABFF-7AD7F85E6549", 12, 1401492192, "865572", 1401492192, "865572", "{\n}", "2015-16", "2015-07-01T00:00:00", null, null, null, null, null, null, null, null, null, "-249400000.00", "-285900000.00", "-201100000.00", "-165200000.00" ]
+, [ 13, "32497988-7643-400B-BA8E-46BCD6AC1343", 13, 1401492192, "865572", 1401492192, "865572", "{\n}", "2016-17", "2016-07-01T00:00:00", null, null, null, null, null, null, null, null, null, null, "-253400000.00", "-184800000.00", "-186800000.00" ]
+, [ 14, "322593E4-BDA1-488B-B9BB-7DB216DA7375", 14, 1401492192, "865572", 1401492192, "865572", "{\n}", "2017-18", "2017-07-01T00:00:00", null, null, null, null, null, null, null, null, null, null, null, "-83100000.00", "-73900000.00" ]
+, [ 15, "DB504470-1F6A-4BB2-B62F-CF58251F7FD1", 15, 1401492192, "865572", 1401492192, "865572", "{\n}", "2018-19", "2018-07-01T00:00:00", null, null, null, null, null, null, null, null, null, null, null, null, "20900000.00" ]
+ ]
+}

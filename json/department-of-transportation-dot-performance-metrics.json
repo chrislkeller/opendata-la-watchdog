@@ -1,0 +1,1058 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "hqix-zyxk",
+      "name" : "Department Of Transportation (DOT) - Performance Metrics",
+      "attribution" : "Department of Transportation",
+      "averageRating" : 0,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1407787260,
+      "description" : "This dataset contains metrics that measure the operational performance of the Department of Transportation. These metrics are used on a regular basis by the department and the Mayor to evaluate progress and inform decision making. Performance management forms the foundation of a data-driven culture of innovation and excellence in the City of Los Angeles.",
+      "displayType" : "table",
+      "downloadCount" : 5,
+      "indexUpdatedAt" : 1414614323,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8629522,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1407787447,
+      "publicationGroup" : 1680398,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1407787285,
+      "rowsUpdatedBy" : "tyhz-nfmm",
+      "tableId" : 1680398,
+      "totalTimesRated" : 0,
+      "viewCount" : 39,
+      "viewLastModified" : 1407787525,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 161650781,
+        "name" : "Date Value",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date_value",
+        "position" : 2,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 21345522,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 39,
+          "smallest" : "2010-06-30T00:00:00",
+          "null" : 0,
+          "largest" : "2015-06-30T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2010-06-30T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2011-06-30T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2012-06-30T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2012-07-31T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2012-08-31T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2012-09-30T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2012-10-31T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2012-11-30T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2012-12-31T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2013-01-31T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2013-02-28T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2013-03-31T00:00:00"
+          }, {
+            "count" : 8,
+            "item" : "2013-04-30T00:00:00"
+          }, {
+            "count" : 7,
+            "item" : "2013-05-31T00:00:00"
+          }, {
+            "count" : 6,
+            "item" : "2013-06-30T00:00:00"
+          }, {
+            "count" : 5,
+            "item" : "2013-07-31T00:00:00"
+          }, {
+            "count" : 4,
+            "item" : "2013-08-31T00:00:00"
+          }, {
+            "count" : 3,
+            "item" : "2013-09-30T00:00:00"
+          }, {
+            "count" : 2,
+            "item" : "2013-10-31T00:00:00"
+          }, {
+            "count" : 1,
+            "item" : "2013-11-30T00:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 161650782,
+        "name" : "Month-Year",
+        "dataTypeName" : "text",
+        "fieldName" : "month_year",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21345523,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 39,
+          "smallest" : "Apr-13",
+          "null" : 0,
+          "largest" : "Sep-14",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Jun-10"
+          }, {
+            "count" : 19,
+            "item" : "Jun-11"
+          }, {
+            "count" : 18,
+            "item" : "Jun-12"
+          }, {
+            "count" : 17,
+            "item" : "Jul-12"
+          }, {
+            "count" : 16,
+            "item" : "Aug-12"
+          }, {
+            "count" : 15,
+            "item" : "Sep-12"
+          }, {
+            "count" : 14,
+            "item" : "Oct-12"
+          }, {
+            "count" : 13,
+            "item" : "Nov-12"
+          }, {
+            "count" : 12,
+            "item" : "Dec-12"
+          }, {
+            "count" : 11,
+            "item" : "Jan-13"
+          }, {
+            "count" : 10,
+            "item" : "Feb-13"
+          }, {
+            "count" : 9,
+            "item" : "Mar-13"
+          }, {
+            "count" : 8,
+            "item" : "Apr-13"
+          }, {
+            "count" : 7,
+            "item" : "May-13"
+          }, {
+            "count" : 6,
+            "item" : "Jun-13"
+          }, {
+            "count" : 5,
+            "item" : "Jul-13"
+          }, {
+            "count" : 4,
+            "item" : "Aug-13"
+          }, {
+            "count" : 3,
+            "item" : "Sep-13"
+          }, {
+            "count" : 2,
+            "item" : "Oct-13"
+          }, {
+            "count" : 1,
+            "item" : "Nov-13"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 161650783,
+        "name" : "Quarter-FY",
+        "dataTypeName" : "text",
+        "fieldName" : "quarter_fy",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21345524,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 15,
+          "smallest" : "Q1 FY13",
+          "null" : 24,
+          "largest" : "Q4 FY15",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Q4 FY10"
+          }, {
+            "count" : 19,
+            "item" : "Q4 FY11"
+          }, {
+            "count" : 18,
+            "item" : "Q4 FY12"
+          }, {
+            "count" : 17,
+            "item" : "Q1 FY13"
+          }, {
+            "count" : 16,
+            "item" : "Q2 FY13"
+          }, {
+            "count" : 15,
+            "item" : "Q3 FY13"
+          }, {
+            "count" : 14,
+            "item" : "Q4 FY13"
+          }, {
+            "count" : 13,
+            "item" : "Q1 FY14"
+          }, {
+            "count" : 12,
+            "item" : "Q2 FY14"
+          }, {
+            "count" : 11,
+            "item" : "Q3 FY14"
+          }, {
+            "count" : 10,
+            "item" : "Q4 FY14"
+          }, {
+            "count" : 9,
+            "item" : "Q1 FY15"
+          }, {
+            "count" : 8,
+            "item" : "Q2 FY15"
+          }, {
+            "count" : 7,
+            "item" : "Q3 FY15"
+          }, {
+            "count" : 6,
+            "item" : "Q4 FY15"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 161650784,
+        "name" : "Annual-FY",
+        "dataTypeName" : "text",
+        "fieldName" : "annual_fy",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21345525,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "FY 2010",
+          "null" : 33,
+          "largest" : "FY 2015",
+          "top" : [ {
+            "count" : 20,
+            "item" : "FY 2010"
+          }, {
+            "count" : 19,
+            "item" : "FY 2011"
+          }, {
+            "count" : 18,
+            "item" : "FY 2012"
+          }, {
+            "count" : 17,
+            "item" : "FY 2013"
+          }, {
+            "count" : 16,
+            "item" : "FY 2014"
+          }, {
+            "count" : 15,
+            "item" : "FY 2015"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 161650785,
+        "name" : "% of taxi dispatch trips responded to within 15 minutes (Annually FY)",
+        "dataTypeName" : "percent",
+        "fieldName" : "of_taxi_dispatch_trips_responded_to_within_15_minutes_annually_fy",
+        "position" : 6,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21345526,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "89.00",
+          "sum" : "454.00",
+          "null" : 34,
+          "average" : "90.80",
+          "largest" : "92.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "92.00"
+          }, {
+            "count" : 19,
+            "item" : "91.00"
+          }, {
+            "count" : 18,
+            "item" : "90.00"
+          }, {
+            "count" : 17,
+            "item" : "89.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 161650786,
+        "name" : "PROJECTED: % of taxi dispatch trips responded to within 15 minutes (Annually FY)",
+        "dataTypeName" : "percent",
+        "fieldName" : "projected_of_taxi_dispatch_trips_responded_to_within_15_minutes_annually_fy",
+        "position" : 7,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21345527,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "90.00",
+          "sum" : "180.00",
+          "null" : 37,
+          "average" : "90.00",
+          "largest" : "90.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "90.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 161650787,
+        "name" : "% of traffic studies completed within 90 business days (Annually FY)",
+        "dataTypeName" : "percent",
+        "fieldName" : "of_traffic_studies_completed_within_90_business_days_annually_fy",
+        "position" : 8,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21345528,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "86.00",
+          "sum" : "455.00",
+          "null" : 34,
+          "average" : "91.00",
+          "largest" : "95.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "95.00"
+          }, {
+            "count" : 19,
+            "item" : "89.00"
+          }, {
+            "count" : 18,
+            "item" : "86.00"
+          }, {
+            "count" : 17,
+            "item" : "94.00"
+          }, {
+            "count" : 16,
+            "item" : "91.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 161650788,
+        "name" : "PROJECTED: % of traffic studies completed within 90 business days (Annually FY)",
+        "dataTypeName" : "percent",
+        "fieldName" : "projected_of_traffic_studies_completed_within_90_business_days_annually_fy",
+        "position" : 9,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21345529,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "90.00",
+          "sum" : "90.00",
+          "null" : 38,
+          "average" : "90.00",
+          "largest" : "90.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "90.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 161650789,
+        "name" : "Cumulative # of Miles of Bike Lanes and Paths in the City FYTD",
+        "dataTypeName" : "number",
+        "fieldName" : "cumulative_of_miles_of_bike_lanes_and_paths_in_the_city_fytd",
+        "position" : 10,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21345530,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "276.54",
+          "sum" : "4291.54",
+          "null" : 29,
+          "average" : "429.154",
+          "largest" : "497.01",
+          "top" : [ {
+            "count" : 20,
+            "item" : "276.54"
+          }, {
+            "count" : 19,
+            "item" : "298.27"
+          }, {
+            "count" : 18,
+            "item" : "353.21"
+          }, {
+            "count" : 17,
+            "item" : "456.51"
+          }, {
+            "count" : 16,
+            "item" : "475.00"
+          }, {
+            "count" : 15,
+            "item" : "477.00"
+          }, {
+            "count" : 14,
+            "item" : "481.00"
+          }, {
+            "count" : 13,
+            "item" : "488.00"
+          }, {
+            "count" : 12,
+            "item" : "489.00"
+          }, {
+            "count" : 11,
+            "item" : "497.01"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 161650790,
+        "name" : "PROJECTED: Cumulative # of Miles of Bike Lanes and Paths in the City (Annually FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "projected_cumulative_of_miles_of_bike_lanes_and_paths_in_the_city_annually_fy",
+        "position" : 11,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21345531,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "496.51",
+          "sum" : "1035.02",
+          "null" : 37,
+          "average" : "517.51",
+          "largest" : "538.51",
+          "top" : [ {
+            "count" : 20,
+            "item" : "496.51"
+          }, {
+            "count" : 19,
+            "item" : "538.51"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 161650791,
+        "name" : "% of parking meter uptime (Annually FY)",
+        "dataTypeName" : "percent",
+        "fieldName" : "of_parking_meter_uptime_annually_fy",
+        "position" : 12,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21345532,
+        "width" : 568,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "93.60",
+          "sum" : "484.10",
+          "null" : 34,
+          "average" : "96.82",
+          "largest" : "99.70",
+          "top" : [ {
+            "count" : 20,
+            "item" : "93.60"
+          }, {
+            "count" : 19,
+            "item" : "99.50"
+          }, {
+            "count" : 18,
+            "item" : "97.70"
+          }, {
+            "count" : 17,
+            "item" : "99.70"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 161650792,
+        "name" : "PROJECTED: % of parking meter uptime (Annually FY)",
+        "dataTypeName" : "percent",
+        "fieldName" : "projected_of_parking_meter_uptime_annually_fy",
+        "position" : 13,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21345533,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "99.70",
+          "sum" : "99.70",
+          "null" : 38,
+          "average" : "99.70",
+          "largest" : "99.70",
+          "top" : [ {
+            "count" : 20,
+            "item" : "99.70"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 161650793,
+        "name" : "2 year parking ticket collection rate (Annually FY)",
+        "dataTypeName" : "percent",
+        "fieldName" : "_2_year_parking_ticket_collection_rate_annually_fy",
+        "position" : 14,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21345534,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "82.80",
+          "sum" : "423.39",
+          "null" : 34,
+          "average" : "84.678",
+          "largest" : "85.75",
+          "top" : [ {
+            "count" : 20,
+            "item" : "82.80"
+          }, {
+            "count" : 19,
+            "item" : "84.08"
+          }, {
+            "count" : 18,
+            "item" : "85.26"
+          }, {
+            "count" : 17,
+            "item" : "85.50"
+          }, {
+            "count" : 16,
+            "item" : "85.75"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 161650794,
+        "name" : "PROJECTED: 2 year parking ticket collection rate (Annually FY)",
+        "dataTypeName" : "percent",
+        "fieldName" : "projected_2_year_parking_ticket_collection_rate_annually_fy",
+        "position" : 15,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21345535,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "85.75",
+          "sum" : "85.75",
+          "null" : 38,
+          "average" : "85.75",
+          "largest" : "85.75",
+          "top" : [ {
+            "count" : 20,
+            "item" : "85.75"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 161650795,
+        "name" : "% resolution of parking citations- Total Paid and Total Dismissed",
+        "dataTypeName" : "percent",
+        "fieldName" : "resolution_of_parking_citations_total_paid_and_total_dismissed",
+        "position" : 16,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21345536,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "75.67",
+          "sum" : "323.56",
+          "null" : 35,
+          "average" : "80.89",
+          "largest" : "86.38",
+          "top" : [ {
+            "count" : 20,
+            "item" : "85.65"
+          }, {
+            "count" : 19,
+            "item" : "86.38"
+          }, {
+            "count" : 18,
+            "item" : "75.67"
+          }, {
+            "count" : 17,
+            "item" : "75.86"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 161650796,
+        "name" : "TARGET: % resolution of parking citations- Total Paid and Total Dismissed",
+        "dataTypeName" : "percent",
+        "fieldName" : "target_resolution_of_parking_citations_total_paid_and_total_dismissed",
+        "position" : 17,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21345537,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "75.86",
+          "sum" : "75.86",
+          "null" : 38,
+          "average" : "75.86",
+          "largest" : "75.86",
+          "top" : [ {
+            "count" : 20,
+            "item" : "75.86"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 161650797,
+        "name" : "Average # of days it takes to restripe streets after street preservation (In Development)",
+        "dataTypeName" : "number",
+        "fieldName" : "average_of_days_it_takes_to_restripe_streets_after_street_preservation_in_development",
+        "position" : 18,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21345538,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 0,
+          "sum" : "0",
+          "null" : 39
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 161650798,
+        "name" : "TARGET: Average # of days it takes to restripe streets after street preservation (In Development)",
+        "dataTypeName" : "number",
+        "fieldName" : "target_average_of_days_it_takes_to_restripe_streets_after_street_preservation_in_development",
+        "position" : 19,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21345539,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 0,
+          "sum" : "0",
+          "null" : 39
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 161650799,
+        "name" : "MyLADOT request average response time (In Development)",
+        "dataTypeName" : "number",
+        "fieldName" : "myladot_request_average_response_time_in_development",
+        "position" : 20,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21345540,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 0,
+          "sum" : "0",
+          "null" : 39
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 161650800,
+        "name" : "TARGET: MyLADOT request average response time (In Development)",
+        "dataTypeName" : "number",
+        "fieldName" : "target_myladot_request_average_response_time_in_development",
+        "position" : 21,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21345541,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 0,
+          "sum" : "0",
+          "null" : 39
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 161650801,
+        "name" : "% of traffic signal trouble calls responded to within an hour",
+        "dataTypeName" : "percent",
+        "fieldName" : "of_traffic_signal_trouble_calls_responded_to_within_an_hour",
+        "position" : 22,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21345542,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "50.00",
+          "sum" : "281.00",
+          "null" : 34,
+          "average" : "56.20",
+          "largest" : "65.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "65.00"
+          }, {
+            "count" : 19,
+            "item" : "62.00"
+          }, {
+            "count" : 18,
+            "item" : "54.00"
+          }, {
+            "count" : 17,
+            "item" : "50.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 161650802,
+        "name" : "PROJECTED: % of traffic signal trouble calls responded to within an hour",
+        "dataTypeName" : "percent",
+        "fieldName" : "projected_of_traffic_signal_trouble_calls_responded_to_within_an_hour",
+        "position" : 23,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21345543,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "50.00",
+          "sum" : "50.00",
+          "null" : 38,
+          "average" : "50.00",
+          "largest" : "50.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "50.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 161650803,
+        "name" : "% of LADOT Transit Arrivals On-Time (Annually FY)",
+        "dataTypeName" : "percent",
+        "fieldName" : "of_ladot_transit_arrivals_on_time_annually_fy",
+        "position" : 24,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21345544,
+        "width" : 688,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "85.00",
+          "sum" : "453.20",
+          "null" : 34,
+          "average" : "90.64",
+          "largest" : "95.60",
+          "top" : [ {
+            "count" : 20,
+            "item" : "86.50"
+          }, {
+            "count" : 19,
+            "item" : "93.00"
+          }, {
+            "count" : 18,
+            "item" : "95.60"
+          }, {
+            "count" : 17,
+            "item" : "93.10"
+          }, {
+            "count" : 16,
+            "item" : "85.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 161650804,
+        "name" : "PROJECTED: % of LADOT Transit Arrivals On-Time (Annually FY)",
+        "dataTypeName" : "percent",
+        "fieldName" : "projected_of_ladot_transit_arrivals_on_time_annually_fy",
+        "position" : 25,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21345545,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "83.00",
+          "sum" : "171.00",
+          "null" : 37,
+          "average" : "85.50",
+          "largest" : "88.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "83.00"
+          }, {
+            "count" : 19,
+            "item" : "88.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 161650805,
+        "name" : "% of Metro plans reviewed within 20 business days (Annually FY)",
+        "dataTypeName" : "percent",
+        "fieldName" : "of_metro_plans_reviewed_within_20_business_days_annually_fy",
+        "position" : 26,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21345546,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 0,
+          "sum" : "0",
+          "null" : 39
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 161650806,
+        "name" : "PROJECTED: % of Metro plan reviews within 20 business days (Annually FY)",
+        "dataTypeName" : "percent",
+        "fieldName" : "projected_of_metro_plan_reviews_within_20_business_days_annually_fy",
+        "position" : 27,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21345547,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "100.00",
+          "sum" : "100.00",
+          "null" : 38,
+          "average" : "100.00",
+          "largest" : "100.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "100.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 161650807,
+        "name" : "Emergency Preparedness events and exercises (Annually FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "emergency_preparedness_events_and_exercises_annually_fy",
+        "position" : 28,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21345548,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "10",
+          "sum" : "720",
+          "null" : 37,
+          "average" : "360",
+          "largest" : "710",
+          "top" : [ {
+            "count" : 20,
+            "item" : "10"
+          }, {
+            "count" : 19,
+            "item" : "710"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 161650808,
+        "name" : "PROJECTED: Emergency Preparedness events and exercises (Annually FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "projected_emergency_preparedness_events_and_exercises_annually_fy",
+        "position" : 29,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21345549,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 0,
+          "sum" : "0",
+          "null" : 39
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "8b8n-vh2w",
+        "displayName" : "LA DOT OpenData",
+        "profileImageUrlLarge" : "/images/profile/0814/0098/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0814/0098/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0814/0098/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LA DOT OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "8b8n-vh2w",
+        "displayName" : "LA DOT OpenData",
+        "profileImageUrlLarge" : "/images/profile/0814/0098/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0814/0098/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0814/0098/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LA DOT OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "department of transportation", "transportation", "dot", "performance", "metrics" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "387CC2DA-05E3-45B8-BA81-EBB9FF236877", 1, 1407787265, "865572", 1407787265, "865572", "{\n}", "2010-06-30T00:00:00", "Jun-10", "Q4 FY10", "FY 2010", "92.00", null, "95.00", null, "276.54", null, "93.60", null, "82.80", null, null, null, null, null, null, null, "65.00", null, "86.50", null, null, null, null, null ]
+, [ 2, "6D0E6927-35F9-4AEB-AD15-97E48DD9795C", 2, 1407787265, "865572", 1407787265, "865572", "{\n}", "2011-06-30T00:00:00", "Jun-11", "Q4 FY11", "FY 2011", "91.00", null, "89.00", null, "298.27", null, "93.60", null, "84.08", null, "85.65", null, null, null, null, null, "62.00", null, "93.00", null, null, null, null, null ]
+, [ 3, "2C186630-AB23-4085-81A7-9F5685A1FED5", 3, 1407787265, "865572", 1407787265, "865572", "{\n}", "2012-06-30T00:00:00", "Jun-12", "Q4 FY12", "FY 2012", "90.00", null, "86.00", null, "353.21", null, "99.50", null, "85.26", null, "86.38", null, null, null, null, null, "54.00", null, "95.60", null, null, null, "10", null ]
+, [ 4, "F98F1D82-EAC8-4E96-A06D-4F770ACCFC91", 4, 1407787265, "865572", 1407787265, "865572", "{\n}", "2012-07-31T00:00:00", "Jul-12", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 5, "1C365F3E-DB36-4641-AE57-99DFD791670D", 5, 1407787265, "865572", 1407787265, "865572", "{\n}", "2012-08-31T00:00:00", "Aug-12", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 6, "40E15D83-C985-4F41-A535-1CFC1CBE1458", 6, 1407787265, "865572", 1407787265, "865572", "{\n}", "2012-09-30T00:00:00", "Sep-12", "Q1 FY13", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 7, "C7ED223C-7B61-4D3F-B5D7-B187FC81764C", 7, 1407787265, "865572", 1407787265, "865572", "{\n}", "2012-10-31T00:00:00", "Oct-12", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 8, "D4BA5BFE-6457-4222-B008-93E3CA906A70", 8, 1407787265, "865572", 1407787265, "865572", "{\n}", "2012-11-30T00:00:00", "Nov-12", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 9, "0BF171AD-4074-4C36-8F4F-D95DDCF1A61D", 9, 1407787265, "865572", 1407787265, "865572", "{\n}", "2012-12-31T00:00:00", "Dec-12", "Q2 FY13", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 10, "3561C7D8-9878-4234-A4F5-5EC5A0A883A1", 10, 1407787265, "865572", 1407787265, "865572", "{\n}", "2013-01-31T00:00:00", "Jan-13", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 11, "154061A2-9989-4C72-98B4-75982B418C16", 11, 1407787265, "865572", 1407787265, "865572", "{\n}", "2013-02-28T00:00:00", "Feb-13", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 12, "105B52E5-21AB-490F-9475-9DC29DE82867", 12, 1407787265, "865572", 1407787265, "865572", "{\n}", "2013-03-31T00:00:00", "Mar-13", "Q3 FY13", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 13, "D0E1F1D8-A2E6-48EE-9E20-D9FD45EFEDA2", 13, 1407787265, "865572", 1407787265, "865572", "{\n}", "2013-04-30T00:00:00", "Apr-13", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 14, "4556F216-49FE-4D96-BCF3-593C62581FFD", 14, 1407787265, "865572", 1407787265, "865572", "{\n}", "2013-05-31T00:00:00", "May-13", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 15, "99A55940-87B8-4243-9363-FF73DC17A20B", 15, 1407787265, "865572", 1407787265, "865572", "{\n}", "2013-06-30T00:00:00", "Jun-13", "Q4 FY13", "FY 2013", "89.00", null, "94.00", null, "456.51", null, "97.70", null, "85.50", null, "75.67", null, null, null, null, null, "50.00", null, "93.10", null, null, null, "710", null ]
+, [ 16, "C85685E7-4283-4A95-824C-84A1DB899234", 16, 1407787265, "865572", 1407787265, "865572", "{\n}", "2013-07-31T00:00:00", "Jul-13", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 17, "4E48780C-1F3E-4D4C-AE7B-D5030C2DE412", 17, 1407787265, "865572", 1407787265, "865572", "{\n}", "2013-08-31T00:00:00", "Aug-13", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 18, "DD801532-5BB3-480B-95B4-902C3EC9AF15", 18, 1407787265, "865572", 1407787265, "865572", "{\n}", "2013-09-30T00:00:00", "Sep-13", "Q1 FY14", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 19, "BFC541D0-B068-4488-A69D-B8A509675C29", 19, 1407787265, "865572", 1407787265, "865572", "{\n}", "2013-10-31T00:00:00", "Oct-13", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 20, "C969382A-6B4C-4F1F-ADD4-7AA4BCCF365C", 20, 1407787265, "865572", 1407787265, "865572", "{\n}", "2013-11-30T00:00:00", "Nov-13", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 21, "93568BA3-814B-4336-A731-516BF33C00D7", 21, 1407787265, "865572", 1407787265, "865572", "{\n}", "2013-12-31T00:00:00", "Dec-13", "Q2 FY14", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 22, "DB3D94FB-A8C7-47EB-9911-2CA23C78460C", 22, 1407787265, "865572", 1407787265, "865572", "{\n}", "2014-01-31T00:00:00", "Jan-14", null, null, null, null, null, null, "475.00", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 23, "7732DCA6-FA9E-4283-B79C-D31FF1C971AD", 23, 1407787265, "865572", 1407787265, "865572", "{\n}", "2014-02-28T00:00:00", "Feb-14", null, null, null, null, null, null, "477.00", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 24, "273EBFEB-360A-464E-91B0-A54C3F204731", 24, 1407787265, "865572", 1407787265, "865572", "{\n}", "2014-03-31T00:00:00", "Mar-14", "Q3 FY14", null, null, null, null, null, "481.00", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 25, "7270F57D-1445-4752-8A86-E12DFF2DA9D0", 25, 1407787265, "865572", 1407787265, "865572", "{\n}", "2014-04-30T00:00:00", "Apr-14", null, null, null, null, null, null, "488.00", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 26, "54673685-97BD-4D9A-B66F-699C0005DFDF", 26, 1407787265, "865572", 1407787265, "865572", "{\n}", "2014-05-31T00:00:00", "May-14", null, null, null, null, null, null, "489.00", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 27, "58E76034-1FD3-4564-83E9-3EF9B0205ED8", 27, 1407787265, "865572", 1407787265, "865572", "{\n}", "2014-06-30T00:00:00", "Jun-14", "Q4 FY14", "FY 2014", "92.00", "90.00", "91.00", null, "497.01", "496.51", "99.70", null, "85.75", null, "75.86", null, null, null, null, null, "50.00", null, "85.00", "83.00", null, "100.00", null, null ]
+, [ 28, "A0507E2D-0ACD-4A90-8F2B-525DA5DF177B", 28, 1407787265, "865572", 1407787265, "865572", "{\n}", "2014-07-31T00:00:00", "Jul-14", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 29, "D85A96B7-221C-4C89-B991-1725E5A69759", 29, 1407787265, "865572", 1407787265, "865572", "{\n}", "2014-08-31T00:00:00", "Aug-14", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 30, "BF010210-95E3-45BB-B4A7-3863248D817D", 30, 1407787265, "865572", 1407787265, "865572", "{\n}", "2014-09-30T00:00:00", "Sep-14", "Q1 FY15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 31, "89914DBD-D376-4A3F-9336-49E4615CC7EF", 31, 1407787265, "865572", 1407787265, "865572", "{\n}", "2014-10-31T00:00:00", "Oct-14", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 32, "BD37565D-44F7-448A-ACD5-0453E835F6A4", 32, 1407787265, "865572", 1407787265, "865572", "{\n}", "2014-11-30T00:00:00", "Nov-14", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 33, "A081E2C7-22BA-4547-B3A7-B1EE736EC5C5", 33, 1407787265, "865572", 1407787265, "865572", "{\n}", "2014-12-31T00:00:00", "Dec-14", "Q2 FY15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 34, "8E411291-E1CA-456D-9F0A-F5280EC0E792", 34, 1407787265, "865572", 1407787265, "865572", "{\n}", "2015-01-31T00:00:00", "Jan-15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 35, "3D0D2526-EFCF-41E1-A34D-AC152DE1CF92", 35, 1407787265, "865572", 1407787265, "865572", "{\n}", "2015-02-28T00:00:00", "Feb-15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 36, "7343C165-D14D-4BAB-9070-0EF1F6851891", 36, 1407787265, "865572", 1407787265, "865572", "{\n}", "2015-03-31T00:00:00", "Mar-15", "Q3 FY15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 37, "90D10EC7-DC79-4B41-8ECB-2D6228FC18EB", 37, 1407787265, "865572", 1407787265, "865572", "{\n}", "2015-04-30T00:00:00", "Apr-15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 38, "FF0732A3-E371-4F6B-BE3A-6F497B7C43BE", 38, 1407787265, "865572", 1407787265, "865572", "{\n}", "2015-05-31T00:00:00", "May-15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 39, "8D1DE599-4B8E-4172-A61F-0AFF01648580", 39, 1407787265, "865572", 1407787265, "865572", "{\n}", "2015-06-30T00:00:00", "Jun-15", "Q4 FY15", "FY 2015", null, "90.00", null, "90.00", null, "538.51", null, "99.70", null, "85.75", null, "75.86", null, null, null, null, null, "50.00", null, "88.00", null, null, null, null ]
+ ]
+}

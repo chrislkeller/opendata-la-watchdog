@@ -1,0 +1,1121 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "7y6s-y8bd",
+      "name" : "Finance - Performance Metrics",
+      "attribution" : "Office of Finance",
+      "averageRating" : 0,
+      "category" : "A Well Run City",
+      "createdAt" : 1406682509,
+      "description" : "This dataset contains metrics that measure the operational performance of the office of Finance. These metrics are used on a regular basis by the department and the Mayor to evaluate progress and inform decision making.  Performance management forms the foundation of a data-driven culture of innovation and excellence in the City of Los Angeles.",
+      "displayType" : "table",
+      "downloadCount" : 4,
+      "indexUpdatedAt" : 1414613682,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 9087647,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1412966282,
+      "publicationGroup" : 1665378,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1412966236,
+      "rowsUpdatedBy" : "tyhz-nfmm",
+      "tableId" : 1781612,
+      "totalTimesRated" : 0,
+      "viewCount" : 136,
+      "viewLastModified" : 1412966283,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 170717360,
+        "name" : "Date",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date",
+        "position" : 1,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 21081093,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 51,
+          "smallest" : "2010-06-30T00:00:00",
+          "null" : 0,
+          "largest" : "2016-06-30T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2015-09-30T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2015-10-31T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2015-11-30T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2015-12-31T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2016-01-31T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2016-02-29T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2016-03-31T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2016-04-30T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2016-05-31T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2016-06-30T00:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170717361,
+        "name" : "Month-Year",
+        "dataTypeName" : "text",
+        "fieldName" : "month_year",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21081094,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 51,
+          "smallest" : "Apr-13",
+          "null" : 0,
+          "largest" : "Sep-15",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Sep-15"
+          }, {
+            "count" : 19,
+            "item" : "Oct-15"
+          }, {
+            "count" : 18,
+            "item" : "Nov-15"
+          }, {
+            "count" : 17,
+            "item" : "Dec-15"
+          }, {
+            "count" : 16,
+            "item" : "Jan-16"
+          }, {
+            "count" : 15,
+            "item" : "Feb-16"
+          }, {
+            "count" : 14,
+            "item" : "Mar-16"
+          }, {
+            "count" : 13,
+            "item" : "Apr-16"
+          }, {
+            "count" : 12,
+            "item" : "May-16"
+          }, {
+            "count" : 11,
+            "item" : "Jun-16"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170717362,
+        "name" : "Quarter-FY",
+        "dataTypeName" : "text",
+        "fieldName" : "quarter_fy",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21081095,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 19,
+          "smallest" : "Q1 FY13",
+          "null" : 32,
+          "largest" : "QF FY10",
+          "top" : [ {
+            "count" : 20,
+            "item" : "QF FY10"
+          }, {
+            "count" : 19,
+            "item" : "Q4 FY11"
+          }, {
+            "count" : 18,
+            "item" : "Q4 FY12"
+          }, {
+            "count" : 17,
+            "item" : "Q1 FY13"
+          }, {
+            "count" : 16,
+            "item" : "Q2 FY13"
+          }, {
+            "count" : 15,
+            "item" : "Q3 FY13"
+          }, {
+            "count" : 14,
+            "item" : "Q4 FY13"
+          }, {
+            "count" : 13,
+            "item" : "Q1 FY14"
+          }, {
+            "count" : 12,
+            "item" : "Q2 FY14"
+          }, {
+            "count" : 11,
+            "item" : "Q3 FY14"
+          }, {
+            "count" : 10,
+            "item" : "Q4 FY14"
+          }, {
+            "count" : 9,
+            "item" : "Q1 FY15"
+          }, {
+            "count" : 8,
+            "item" : "Q2 FY15"
+          }, {
+            "count" : 7,
+            "item" : "Q3 FY15"
+          }, {
+            "count" : 6,
+            "item" : "Q4 FY15"
+          }, {
+            "count" : 5,
+            "item" : "Q1 FY16"
+          }, {
+            "count" : 4,
+            "item" : "Q2 FY16"
+          }, {
+            "count" : 3,
+            "item" : "Q3 FY16"
+          }, {
+            "count" : 2,
+            "item" : "Q4 FY16"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170717363,
+        "name" : "Annual-FY",
+        "dataTypeName" : "text",
+        "fieldName" : "annual_fy",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21081096,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : "FY 2010",
+          "null" : 44,
+          "largest" : "FY 2016",
+          "top" : [ {
+            "count" : 20,
+            "item" : "FY 2010"
+          }, {
+            "count" : 19,
+            "item" : "FY 2011"
+          }, {
+            "count" : 18,
+            "item" : "FY 2012"
+          }, {
+            "count" : 17,
+            "item" : "FY 2013"
+          }, {
+            "count" : 16,
+            "item" : "FY 2014"
+          }, {
+            "count" : 15,
+            "item" : "FY 2015"
+          }, {
+            "count" : 14,
+            "item" : "FY 2016"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170717364,
+        "name" : "Audit penetration Rate FYTD (Monthly)",
+        "dataTypeName" : "percent",
+        "fieldName" : "audit_penetration_rate_fytd_monthly",
+        "position" : 5,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21081097,
+        "width" : 544,
+        "cachedContents" : {
+          "non_null" : 17,
+          "smallest" : "0.60",
+          "sum" : "60.83",
+          "null" : 34,
+          "average" : "3.578235294117647",
+          "largest" : "6.98",
+          "top" : [ {
+            "count" : 20,
+            "item" : "6.50"
+          }, {
+            "count" : 19,
+            "item" : "6.20"
+          }, {
+            "count" : 18,
+            "item" : "0.60"
+          }, {
+            "count" : 17,
+            "item" : "1.25"
+          }, {
+            "count" : 16,
+            "item" : "1.79"
+          }, {
+            "count" : 15,
+            "item" : "2.36"
+          }, {
+            "count" : 14,
+            "item" : "2.96"
+          }, {
+            "count" : 13,
+            "item" : "3.51"
+          }, {
+            "count" : 12,
+            "item" : "3.82"
+          }, {
+            "count" : 11,
+            "item" : "4.31"
+          }, {
+            "count" : 10,
+            "item" : "4.87"
+          }, {
+            "count" : 9,
+            "item" : "5.55"
+          }, {
+            "count" : 8,
+            "item" : "6.14"
+          }, {
+            "count" : 7,
+            "item" : "6.98"
+          }, {
+            "count" : 6,
+            "item" : "0.65"
+          }, {
+            "count" : 5,
+            "item" : "1.35"
+          }, {
+            "count" : 4,
+            "item" : "1.99"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170717365,
+        "name" : "TARGET: Audit Penetration Rate FYTD (Monthly)",
+        "dataTypeName" : "percent",
+        "fieldName" : "target_audit_penetration_rate_fytd_monthly",
+        "position" : 6,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21081098,
+        "width" : 640,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "0.54",
+          "sum" : "9.25",
+          "null" : 47,
+          "average" : "2.3125",
+          "largest" : "6",
+          "top" : [ {
+            "count" : 20,
+            "item" : "6"
+          }, {
+            "count" : 19,
+            "item" : "0.54"
+          }, {
+            "count" : 18,
+            "item" : "1.08"
+          }, {
+            "count" : 17,
+            "item" : "1.63"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170717366,
+        "name" : "% of lien cases resolved FYTD (Monthly)",
+        "dataTypeName" : "percent",
+        "fieldName" : "of_lien_cases_resolved_fytd_monthly",
+        "position" : 7,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21081099,
+        "width" : 568,
+        "cachedContents" : {
+          "non_null" : 17,
+          "smallest" : "24",
+          "sum" : "1070",
+          "null" : 34,
+          "average" : "62.94117647058824",
+          "largest" : "84",
+          "top" : [ {
+            "count" : 20,
+            "item" : "65"
+          }, {
+            "count" : 19,
+            "item" : "70"
+          }, {
+            "count" : 18,
+            "item" : "29"
+          }, {
+            "count" : 17,
+            "item" : "43"
+          }, {
+            "count" : 16,
+            "item" : "52"
+          }, {
+            "count" : 15,
+            "item" : "60"
+          }, {
+            "count" : 14,
+            "item" : "72"
+          }, {
+            "count" : 13,
+            "item" : "79"
+          }, {
+            "count" : 12,
+            "item" : "84"
+          }, {
+            "count" : 11,
+            "item" : "80"
+          }, {
+            "count" : 10,
+            "item" : "77"
+          }, {
+            "count" : 9,
+            "item" : "78"
+          }, {
+            "count" : 8,
+            "item" : "24"
+          }, {
+            "count" : 7,
+            "item" : "46"
+          }, {
+            "count" : 6,
+            "item" : "55"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170717367,
+        "name" : "TARGET: % of lien cases resolved FYTD  (Monthly)",
+        "dataTypeName" : "percent",
+        "fieldName" : "target_of_lien_cases_resolved_fytd_monthly",
+        "position" : 8,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21081100,
+        "width" : 676,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "6.25",
+          "sum" : "87.50",
+          "null" : 47,
+          "average" : "21.875",
+          "largest" : "50",
+          "top" : [ {
+            "count" : 20,
+            "item" : "50"
+          }, {
+            "count" : 19,
+            "item" : "6.25"
+          }, {
+            "count" : 18,
+            "item" : "12.5"
+          }, {
+            "count" : 17,
+            "item" : "18.75"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170717368,
+        "name" : "# of call center calls answered (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "of_call_center_calls_answered_monthly_2",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21540604,
+        "width" : 279,
+        "cachedContents" : {
+          "non_null" : 21,
+          "smallest" : "6988",
+          "sum" : "219211",
+          "null" : 30,
+          "average" : "10438.61904761905",
+          "largest" : "19146",
+          "top" : [ {
+            "count" : 20,
+            "item" : "13498"
+          }, {
+            "count" : 19,
+            "item" : "19146"
+          }, {
+            "count" : 18,
+            "item" : "9712"
+          }, {
+            "count" : 17,
+            "item" : "11382"
+          }, {
+            "count" : 16,
+            "item" : "10814"
+          }, {
+            "count" : 15,
+            "item" : "8253"
+          }, {
+            "count" : 14,
+            "item" : "7923"
+          }, {
+            "count" : 13,
+            "item" : "6988"
+          }, {
+            "count" : 12,
+            "item" : "9337"
+          }, {
+            "count" : 11,
+            "item" : "10748"
+          }, {
+            "count" : 10,
+            "item" : "8119"
+          }, {
+            "count" : 9,
+            "item" : "8187"
+          }, {
+            "count" : 8,
+            "item" : "13335"
+          }, {
+            "count" : 7,
+            "item" : "14804"
+          }, {
+            "count" : 6,
+            "item" : "8234"
+          }, {
+            "count" : 5,
+            "item" : "13621"
+          }, {
+            "count" : 4,
+            "item" : "10796"
+          }, {
+            "count" : 3,
+            "item" : "8946"
+          }, {
+            "count" : 2,
+            "item" : "8840"
+          }, {
+            "count" : 1,
+            "item" : "7599"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170717369,
+        "name" : "YOY BENCHMARK: # of call center calls answered (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "yoy_benchmark_of_call_center_calls_answered_monthly_2",
+        "position" : 10,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21540605,
+        "width" : 368,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "6988",
+          "sum" : "97053",
+          "null" : 42,
+          "average" : "10783.66666666667",
+          "largest" : "19146",
+          "top" : [ {
+            "count" : 20,
+            "item" : "13498"
+          }, {
+            "count" : 19,
+            "item" : "19146"
+          }, {
+            "count" : 18,
+            "item" : "9712"
+          }, {
+            "count" : 17,
+            "item" : "11382"
+          }, {
+            "count" : 16,
+            "item" : "10814"
+          }, {
+            "count" : 15,
+            "item" : "8253"
+          }, {
+            "count" : 14,
+            "item" : "7923"
+          }, {
+            "count" : 13,
+            "item" : "6988"
+          }, {
+            "count" : 12,
+            "item" : "9337"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170717370,
+        "name" : "% of call center calls answered (Monthly)",
+        "dataTypeName" : "percent",
+        "fieldName" : "of_call_center_calls_answered_monthly",
+        "position" : 11,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21081101,
+        "width" : 592,
+        "cachedContents" : {
+          "non_null" : 27,
+          "smallest" : "51",
+          "sum" : "2423",
+          "null" : 24,
+          "average" : "89.74074074074074",
+          "largest" : "100",
+          "top" : [ {
+            "count" : 20,
+            "item" : "100"
+          }, {
+            "count" : 19,
+            "item" : "98"
+          }, {
+            "count" : 18,
+            "item" : "76"
+          }, {
+            "count" : 17,
+            "item" : "64"
+          }, {
+            "count" : 16,
+            "item" : "86"
+          }, {
+            "count" : 15,
+            "item" : "60"
+          }, {
+            "count" : 14,
+            "item" : "75"
+          }, {
+            "count" : 13,
+            "item" : "97"
+          }, {
+            "count" : 12,
+            "item" : "99"
+          }, {
+            "count" : 11,
+            "item" : "96"
+          }, {
+            "count" : 10,
+            "item" : "51"
+          }, {
+            "count" : 9,
+            "item" : "79"
+          }, {
+            "count" : 8,
+            "item" : "63"
+          }, {
+            "count" : 7,
+            "item" : "91"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170717371,
+        "name" : "YOY BENCHMARK: % of call center calls answered (Monthly)",
+        "dataTypeName" : "percent",
+        "fieldName" : "yoy_benchmark_of_call_center_calls_answered_monthly",
+        "position" : 12,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21081102,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 15,
+          "smallest" : "60",
+          "sum" : "1352",
+          "null" : 36,
+          "average" : "90.13333333333333",
+          "largest" : "100",
+          "top" : [ {
+            "count" : 20,
+            "item" : "100"
+          }, {
+            "count" : 19,
+            "item" : "98"
+          }, {
+            "count" : 18,
+            "item" : "76"
+          }, {
+            "count" : 17,
+            "item" : "64"
+          }, {
+            "count" : 16,
+            "item" : "86"
+          }, {
+            "count" : 15,
+            "item" : "60"
+          }, {
+            "count" : 14,
+            "item" : "75"
+          }, {
+            "count" : 13,
+            "item" : "97"
+          }, {
+            "count" : 12,
+            "item" : "99"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170717372,
+        "name" : "Monthly Investment Report finding on Compliance (Monthly)",
+        "dataTypeName" : "text",
+        "fieldName" : "monthly_investment_report_finding_on_compliance_monthly",
+        "position" : 13,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21081103,
+        "width" : 417,
+        "cachedContents" : {
+          "non_null" : 15,
+          "smallest" : "compliant",
+          "null" : 36,
+          "largest" : "compliant",
+          "top" : [ {
+            "count" : 20,
+            "item" : "compliant"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170717373,
+        "name" : "TARGET: Monthly Investment Report finding on Compliance (Monthly)",
+        "dataTypeName" : "text",
+        "fieldName" : "target_monthly_investment_report_finding_on_compliance_monthly",
+        "position" : 14,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21081104,
+        "width" : 488,
+        "cachedContents" : {
+          "non_null" : 15,
+          "smallest" : "compliant",
+          "null" : 36,
+          "largest" : "compliant",
+          "top" : [ {
+            "count" : 20,
+            "item" : "compliant"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170717374,
+        "name" : "% of Business Tax renewal from web sources (Annual FY)",
+        "dataTypeName" : "percent",
+        "fieldName" : "of_business_tax_renewal_from_web_sources_annual_fy",
+        "position" : 15,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21081105,
+        "width" : 416,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "47",
+          "sum" : "305",
+          "null" : 46,
+          "average" : "61",
+          "largest" : "71",
+          "top" : [ {
+            "count" : 20,
+            "item" : "47"
+          }, {
+            "count" : 19,
+            "item" : "58"
+          }, {
+            "count" : 18,
+            "item" : "62"
+          }, {
+            "count" : 17,
+            "item" : "67"
+          }, {
+            "count" : 16,
+            "item" : "71"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170717375,
+        "name" : "TARGET: % of Business Tax renewal from web sources (Annual FY)",
+        "dataTypeName" : "percent",
+        "fieldName" : "target_of_business_tax_renewal_from_web_sources_annual_fy",
+        "position" : 16,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21081106,
+        "width" : 477,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "50",
+          "sum" : "50",
+          "null" : 50,
+          "average" : "50",
+          "largest" : "50",
+          "top" : [ {
+            "count" : 20,
+            "item" : "50"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170717376,
+        "name" : "Milestones: Paperless Program (Project)",
+        "dataTypeName" : "text",
+        "fieldName" : "milestones_paperless_program_project",
+        "position" : 17,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21081107,
+        "width" : 332,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "Conduct testing",
+          "null" : 45,
+          "largest" : "Waiting on Mayor's Office approval of letter",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Conduct testing"
+          }, {
+            "count" : 19,
+            "item" : "Implement Program"
+          }, {
+            "count" : 18,
+            "item" : "Issue News Release"
+          }, {
+            "count" : 17,
+            "item" : "Modify mailing envelopes to include program language"
+          }, {
+            "count" : 16,
+            "item" : "Modify website to prompt online users to enroll in program"
+          }, {
+            "count" : 15,
+            "item" : "Waiting on Mayor's Office approval of letter"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170717377,
+        "name" : "TARGET: Paperless Program",
+        "dataTypeName" : "text",
+        "fieldName" : "target_paperless_program",
+        "position" : 18,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21081108,
+        "width" : 342,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : "Conduct testing",
+          "null" : 44,
+          "largest" : "Modify website to prompt online users to enroll in program",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Conduct testing"
+          }, {
+            "count" : 19,
+            "item" : "Implement Program"
+          }, {
+            "count" : 18,
+            "item" : "Issue News Release"
+          }, {
+            "count" : 17,
+            "item" : "Modify mailing envelopes to include program language"
+          }, {
+            "count" : 16,
+            "item" : "Modify website to prompt online users to enroll in program"
+          }, {
+            "count" : 15,
+            "item" : "Continue outreach"
+          }, {
+            "count" : 14,
+            "item" : "Doubled FY 13-14 participation"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170717378,
+        "name" : "STATUS: Paperless Program",
+        "dataTypeName" : "text",
+        "fieldName" : "status_paperless_program",
+        "position" : 19,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21081109,
+        "width" : 246,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "As of August 2014, 5,358 participants have enrolled",
+          "null" : 41,
+          "largest" : "On Target",
+          "top" : [ {
+            "count" : 20,
+            "item" : "On Target"
+          }, {
+            "count" : 19,
+            "item" : "Exceeds Target"
+          }, {
+            "count" : 18,
+            "item" : "As of August 2014, 5,358 participants have enrolled"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170717379,
+        "name" : "Milestones: Customer Satisfaction Survey (Project)",
+        "dataTypeName" : "text",
+        "fieldName" : "milestones_customer_satisfaction_survey_project",
+        "position" : 20,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21081110,
+        "width" : 441,
+        "cachedContents" : {
+          "non_null" : 3,
+          "smallest" : "Develop template and survey questions",
+          "null" : 48,
+          "largest" : "Rolled out to staff. Encourage participation via Field/Counter staff",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Develop template and survey questions"
+          }, {
+            "count" : 19,
+            "item" : "Implement Survey"
+          }, {
+            "count" : 18,
+            "item" : "Rolled out to staff. Encourage participation via Field/Counter staff"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170717380,
+        "name" : "TARGET: Customer Satisfaction Survey",
+        "dataTypeName" : "text",
+        "fieldName" : "target_customer_satisfaction_survey",
+        "position" : 21,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21081111,
+        "width" : 532,
+        "cachedContents" : {
+          "non_null" : 3,
+          "smallest" : "Develop template and survey questions",
+          "null" : 48,
+          "largest" : "Select sample of taxpayers to request participation in on-line survey",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Develop template and survey questions"
+          }, {
+            "count" : 19,
+            "item" : "Implement Survey"
+          }, {
+            "count" : 18,
+            "item" : "Select sample of taxpayers to request participation in on-line survey"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170717381,
+        "name" : "STATUS: Customer Satisfaction Survey",
+        "dataTypeName" : "text",
+        "fieldName" : "status_customer_satisfaction_survey",
+        "position" : 22,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21081112,
+        "width" : 532,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "On Target",
+          "null" : 46,
+          "largest" : "On Target",
+          "top" : [ {
+            "count" : 20,
+            "item" : "On Target"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Finance"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "c255-4shb",
+        "displayName" : "Office of Finance OpenData",
+        "profileImageUrlLarge" : "/images/profile/6985/2090/City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/6985/2090/City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/6985/2090/City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Office of Finance OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "c255-4shb",
+        "displayName" : "Office of Finance OpenData",
+        "profileImageUrlLarge" : "/images/profile/6985/2090/City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/6985/2090/City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/6985/2090/City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Office of Finance OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "finance", "performance", "metrics" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "28CCC41F-E074-450E-8DDE-7B26A144CFC8", 1, 1412966209, "865572", 1412966209, "865572", "{\n}", "2010-06-30T00:00:00", "Jun-10", "QF FY10", "FY 2010", null, null, null, null, null, null, null, null, null, null, "47", null, null, null, null, null, null, null ]
+, [ 2, "40669C7A-322A-423E-813A-24AB19B56B20", 2, 1412966209, "865572", 1412966209, "865572", "{\n}", "2011-06-30T00:00:00", "Jun-11", "Q4 FY11", "FY 2011", null, null, null, null, null, null, null, null, null, null, "58", null, null, null, null, null, null, null ]
+, [ 3, "A71060C2-9621-4B27-AD32-7919D63A3193", 3, 1412966209, "865572", 1412966209, "865572", "{\n}", "2012-06-30T00:00:00", "Jun-12", "Q4 FY12", "FY 2012", "6.50", null, "65", null, null, null, null, null, null, null, "62", null, null, null, null, null, null, null ]
+, [ 4, "1344D5FE-A1D3-4DD8-B292-A61E972F78A8", 4, 1412966209, "865572", 1412966209, "865572", "{\n}", "2012-07-31T00:00:00", "Jul-12", null, null, null, null, null, null, null, null, "100", null, null, null, null, null, null, null, null, null, null, null ]
+, [ 5, "FDA452A5-978E-4AB9-841E-1D8839E5ED9E", 5, 1412966209, "865572", 1412966209, "865572", "{\n}", "2012-08-31T00:00:00", "Aug-12", null, null, null, null, null, null, null, null, "100", null, null, null, null, null, null, null, null, null, null, null ]
+, [ 6, "3AD615CE-B553-4ACF-AAC8-F9DF042B9B3D", 6, 1412966209, "865572", 1412966209, "865572", "{\n}", "2012-09-30T00:00:00", "Sep-12", "Q1 FY13", null, null, null, null, null, null, null, "100", null, null, null, null, null, null, null, null, null, null, null ]
+, [ 7, "C38A5F49-2119-42BE-9EDF-0C8B9D486A6E", 7, 1412966209, "865572", 1412966209, "865572", "{\n}", "2012-10-31T00:00:00", "Oct-12", null, null, null, null, null, null, null, null, "100", null, null, null, null, null, null, null, null, null, null, null ]
+, [ 8, "1CEA7179-6BBA-4DDF-83B8-F26D462998EA", 8, 1412966209, "865572", 1412966209, "865572", "{\n}", "2012-11-30T00:00:00", "Nov-12", null, null, null, null, null, null, null, null, "98", null, null, null, null, null, null, null, null, null, null, null ]
+, [ 9, "81D00414-6289-4A37-ABBC-9DF0E102B975", 9, 1412966209, "865572", 1412966209, "865572", "{\n}", "2012-12-31T00:00:00", "Dec-12", "Q2 FY13", null, null, null, null, null, null, null, "100", null, null, null, null, null, null, null, null, null, null, null ]
+, [ 10, "F6CE5210-1065-457E-A57C-2C0B96D56D47", 10, 1412966209, "865572", 1412966209, "865572", "{\n}", "2013-01-31T00:00:00", "Jan-13", null, null, null, null, null, null, "13498", null, "76", null, null, null, null, null, null, null, null, null, null, null ]
+, [ 11, "189BA2BF-AF87-463E-909E-CA6ACB8BE91E", 11, 1412966209, "865572", 1412966209, "865572", "{\n}", "2013-02-28T00:00:00", "Feb-13", null, null, null, null, null, null, "19146", null, "64", null, null, null, null, null, null, null, null, null, null, null ]
+, [ 12, "8377DC08-4B25-4AE3-9E0F-64DD80F9C427", 12, 1412966209, "865572", 1412966209, "865572", "{\n}", "2013-03-31T00:00:00", "Mar-13", "Q3 FY13", null, null, null, null, null, "9712", null, "86", null, null, null, null, null, null, null, null, null, null, null ]
+, [ 13, "6ABB5502-60B3-4B02-95CD-701A5E07577D", 13, 1412966209, "865572", 1412966209, "865572", "{\n}", "2013-04-30T00:00:00", "Apr-13", null, null, null, null, null, null, "11382", null, "60", null, null, null, null, null, null, null, null, null, null, null ]
+, [ 14, "F41EA61E-E930-44F4-A782-32331FD276CA", 14, 1412966209, "865572", 1412966209, "865572", "{\n}", "2013-05-31T00:00:00", "May-13", null, null, null, null, null, null, "10814", null, "75", null, null, null, null, null, null, null, null, null, null, null ]
+, [ 15, "F97C2DB2-AA59-4A4D-9C8B-E80864BF0D1A", 15, 1412966209, "865572", 1412966209, "865572", "{\n}", "2013-06-30T00:00:00", "Jun-13", "Q4 FY13", "FY 2013", "6.20", null, "70", null, "8253", null, "97", null, null, null, "67", null, null, null, null, null, null, null ]
+, [ 16, "4C9A72B2-9180-412B-BB43-253D431D1B41", 16, 1412966209, "865572", 1412966209, "865572", "{\n}", "2013-07-31T00:00:00", "Jul-13", null, null, "0.60", null, "29", null, "7923", null, "99", "100", "compliant", "compliant", null, null, null, null, null, null, null, null ]
+, [ 17, "9E3A2A34-80C1-4950-95ED-953509EBDCB3", 17, 1412966209, "865572", 1412966209, "865572", "{\n}", "2013-08-31T00:00:00", "Aug-13", null, null, "1.25", null, "43", null, "6988", null, "100", "100", "compliant", "compliant", null, null, null, null, null, null, null, null ]
+, [ 18, "2D06472D-FBC3-4F57-81A1-0C61E33DEF2A", 18, 1412966209, "865572", 1412966209, "865572", "{\n}", "2013-09-30T00:00:00", "Sep-13", "Q1 FY14", null, "1.79", null, "52", null, "9337", null, "98", "100", "compliant", "compliant", null, null, null, null, null, null, null, null ]
+, [ 19, "C731FE7A-8671-415D-A501-32DE7AAEAEF7", 19, 1412966209, "865572", 1412966209, "865572", "{\n}", "2013-10-31T00:00:00", "Oct-13", null, null, "2.36", null, "60", null, "10748", null, "98", "100", "compliant", "compliant", null, null, null, null, null, null, null, null ]
+, [ 20, "F27D4434-7331-4131-966A-32681298C773", 20, 1412966209, "865572", 1412966209, "865572", "{\n}", "2013-11-30T00:00:00", "Nov-13", null, null, "2.96", null, "72", null, "8119", null, "99", "98", "compliant", "compliant", null, null, "Conduct testing", "Conduct testing", "On Target", null, null, null ]
+, [ 21, "3166D464-DB82-4A0B-9668-0AAFB5A3C3A7", 21, 1412966209, "865572", 1412966209, "865572", "{\n}", "2013-12-31T00:00:00", "Dec-13", "Q2 FY14", null, "3.51", null, "79", null, "8187", null, "96", "100", "compliant", "compliant", null, null, null, null, "On Target", null, null, null ]
+, [ 22, "62A73FFF-66A1-46EA-A542-2421A991EFA5", 22, 1412966209, "865572", 1412966209, "865572", "{\n}", "2014-01-31T00:00:00", "Jan-14", null, null, "3.82", null, "84", null, "13335", "13498", "97", "76", "compliant", "compliant", null, null, "Implement Program", "Implement Program", "On Target", null, null, null ]
+, [ 23, "B81A9221-A57B-4975-96D0-F83DCB9CBE6C", 23, 1412966209, "865572", 1412966209, "865572", "{\n}", "2014-02-28T00:00:00", "Feb-14", null, null, "4.31", null, "80", null, "14804", "19146", "51", "64", "compliant", "compliant", null, null, "Issue News Release", "Issue News Release", "On Target", null, null, null ]
+, [ 24, "CF469974-3719-48AC-B9E2-FF373C36F7CB", 24, 1412966209, "865572", 1412966209, "865572", "{\n}", "2014-03-31T00:00:00", "Mar-14", "Q3 FY14", null, "4.87", null, "77", null, "8234", "9712", "79", "86", "compliant", "compliant", null, null, null, null, "On Target", null, null, null ]
+, [ 25, "A60AAB28-7C67-4742-932E-66CF872C14FF", 25, 1412966209, "865572", 1412966209, "865572", "{\n}", "2014-04-30T00:00:00", "Apr-14", null, null, "5.55", null, "79", null, "13621", "11382", "63", "60", "compliant", "compliant", null, null, "Modify mailing envelopes to include program language", "Modify mailing envelopes to include program language", "On Target", "Develop template and survey questions", "Develop template and survey questions", "On Target" ]
+, [ 26, "7ACDC10A-2FBE-4991-A4A5-0944E13ACAA6", 26, 1412966209, "865572", 1412966209, "865572", "{\n}", "2014-05-31T00:00:00", "May-14", null, null, "6.14", null, "77", null, "10796", "10814", "91", "75", "compliant", "compliant", null, null, "Modify website to prompt online users to enroll in program", null, "Exceeds Target", null, null, "On Target" ]
+, [ 27, "79814836-74AC-4123-AEC6-38F3F6CD8800", 27, 1412966209, "865572", 1412966209, "865572", "{\n}", "2014-06-30T00:00:00", "Jun-14", "Q4 FY14", "FY 2014", "6.98", "6", "78", "50", "8946", "8253", "98", "97", "compliant", "compliant", "71", "50", null, "Modify website to prompt online users to enroll in program", "Exceeds Target", "Implement Survey", "Implement Survey", "On Target" ]
+, [ 28, "26FDD77E-3BD2-47A0-A83D-E29068A3D823", 28, 1412966209, "865572", 1412966209, "865572", "{\n}", "2014-07-31T00:00:00", "Jul-14", null, null, "0.65", "0.54", "24", "6.25", "8840", "7923", "99", "99", "compliant", "compliant", null, null, "Waiting on Mayor's Office approval of letter", "Continue outreach", "Exceeds Target", "Rolled out to staff. Encourage participation via Field/Counter staff", null, "On Target" ]
+, [ 29, "1FDC0FF3-D9C5-4AE9-8068-1E64A3E6C404", 29, 1412966209, "865572", 1412966209, "865572", "{\n}", "2014-08-31T00:00:00", "Aug-14", null, null, "1.35", "1.08", "46", "12.5", "7599", "6988", "99", "99", "compliant", "compliant", null, null, null, "Doubled FY 13-14 participation", "As of August 2014, 5,358 participants have enrolled", null, "Select sample of taxpayers to request participation in on-line survey", null ]
+, [ 30, "DC364000-5DB9-4E7F-84AE-B7947A7A4241", 30, 1412966209, "865572", 1412966209, "865572", "{\n}", "2014-09-30T00:00:00", "Sep-14", "Q1 FY15", null, "1.99", "1.63", "55", "18.75", "8929", "9337", "100", "98", "compliant", "compliant", null, null, null, null, null, null, null, "On Target" ]
+, [ 31, "149CCC41-7794-4431-BED8-2E4DE19E8EFE", 31, 1412966209, "865572", 1412966209, "865572", "{\n}", "2014-10-31T00:00:00", "Oct-14", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 32, "2FEC6091-A995-4D85-BA80-B50776A90DE6", 32, 1412966209, "865572", 1412966209, "865572", "{\n}", "2014-11-30T00:00:00", "Nov-14", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 33, "C4D2A5A2-0737-43BB-A661-13E0A9919DA7", 33, 1412966209, "865572", 1412966209, "865572", "{\n}", "2014-12-31T00:00:00", "Dec-14", "Q2 FY15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 34, "C22190E0-40D3-4F3F-94E9-6023B1F53516", 34, 1412966209, "865572", 1412966209, "865572", "{\n}", "2015-01-31T00:00:00", "Jan-15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 35, "DCD0F012-1367-4838-8410-BC97366BF133", 35, 1412966209, "865572", 1412966209, "865572", "{\n}", "2015-02-28T00:00:00", "Feb-15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 36, "1407278E-8989-45CD-B940-C417D11A08AC", 36, 1412966209, "865572", 1412966209, "865572", "{\n}", "2015-03-31T00:00:00", "Mar-15", "Q3 FY15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 37, "9AD67AB9-E48A-4358-AECD-8BF479C14680", 37, 1412966209, "865572", 1412966209, "865572", "{\n}", "2015-04-30T00:00:00", "Apr-15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 38, "8411E945-84DC-49ED-878F-509DDE232887", 38, 1412966209, "865572", 1412966209, "865572", "{\n}", "2015-05-31T00:00:00", "May-15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 39, "159DC02D-02FB-4C02-8E49-4B5ED49D4101", 39, 1412966209, "865572", 1412966209, "865572", "{\n}", "2015-06-30T00:00:00", "Jun-15", "Q4 FY15", "FY 2015", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 40, "44B8DC97-641A-4F28-8360-FE1BB0D0CC22", 40, 1412966209, "865572", 1412966209, "865572", "{\n}", "2015-07-31T00:00:00", "Jul-15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 41, "62CF0F3E-188B-4844-BBEE-871F9387E0F5", 41, 1412966209, "865572", 1412966209, "865572", "{\n}", "2015-08-31T00:00:00", "Aug-15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 42, "D72283BA-337E-4911-A324-EF4D88742FF2", 42, 1412966209, "865572", 1412966209, "865572", "{\n}", "2015-09-30T00:00:00", "Sep-15", "Q1 FY16", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 43, "4FE219B0-CDF8-41B7-846C-3CA2EB632195", 43, 1412966209, "865572", 1412966209, "865572", "{\n}", "2015-10-31T00:00:00", "Oct-15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 44, "1BA816EA-23A2-4573-B292-C887085BC49A", 44, 1412966209, "865572", 1412966209, "865572", "{\n}", "2015-11-30T00:00:00", "Nov-15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 45, "55D13FE2-9166-4060-AC3D-71F2AF73A293", 45, 1412966209, "865572", 1412966209, "865572", "{\n}", "2015-12-31T00:00:00", "Dec-15", "Q2 FY16", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 46, "A330E69D-82F2-48C0-8784-E2556BA7430B", 46, 1412966209, "865572", 1412966209, "865572", "{\n}", "2016-01-31T00:00:00", "Jan-16", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 47, "D559255F-6064-474F-B874-FE6A67166E63", 47, 1412966209, "865572", 1412966209, "865572", "{\n}", "2016-02-29T00:00:00", "Feb-16", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 48, "5FC6619B-14F6-43E3-ACEB-689C3D5E9C44", 48, 1412966209, "865572", 1412966209, "865572", "{\n}", "2016-03-31T00:00:00", "Mar-16", "Q3 FY16", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 49, "9CCD9277-D6AF-4976-AB49-2C25201A594E", 49, 1412966209, "865572", 1412966209, "865572", "{\n}", "2016-04-30T00:00:00", "Apr-16", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 50, "61A09DF3-45C9-42A8-BD87-C67694754628", 50, 1412966209, "865572", 1412966209, "865572", "{\n}", "2016-05-31T00:00:00", "May-16", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 51, "106FEE93-07B0-43A7-897F-3FBD492A4152", 51, 1412966209, "865572", 1412966209, "865572", "{\n}", "2016-06-30T00:00:00", "Jun-16", "Q4 FY16", "FY 2016", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+ ]
+}

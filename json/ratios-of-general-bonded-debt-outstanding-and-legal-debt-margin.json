@@ -1,0 +1,783 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "is8h-jh3i",
+      "name" : "Ratios of General Bonded Debt Outstanding and Legal Debt Margin",
+      "attribution" : "Controller",
+      "attributionLink" : "http://controller.lacity.org/stellent/groups/ElectedOfficials/@CTR_Contributor/documents/Contributor_Web_Content/LACITYP_027750.pdf#page=398",
+      "averageRating" : 0,
+      "category" : "Liabilities and Assets",
+      "createdAt" : 1390690661,
+      "description" : "CAFR Pages 354-355.\r\n\r\nLast Ten Fiscal Years (amounts expressed in thousands, except per capita)",
+      "displayType" : "table",
+      "downloadCount" : 7,
+      "indexUpdatedAt" : 1414614311,
+      "licenseId" : "PUBLIC_DOMAIN",
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 7442692,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1393555526,
+      "publicationGroup" : 1454110,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1393555494,
+      "rowsUpdatedBy" : "7c7a-resi",
+      "tableId" : 1492328,
+      "totalTimesRated" : 0,
+      "viewCount" : 81,
+      "viewLastModified" : 1412743930,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 135633532,
+        "name" : "Fiscal Year",
+        "dataTypeName" : "number",
+        "fieldName" : "fiscal_year",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17786297,
+        "width" : 85,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "2004",
+          "sum" : "20085.0",
+          "null" : 0,
+          "average" : "2008.5",
+          "largest" : "2013",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2004"
+          }, {
+            "count" : 19,
+            "item" : "2005.0"
+          }, {
+            "count" : 18,
+            "item" : "2006.0"
+          }, {
+            "count" : 17,
+            "item" : "2007"
+          }, {
+            "count" : 16,
+            "item" : "2008"
+          }, {
+            "count" : 15,
+            "item" : "2009"
+          }, {
+            "count" : 14,
+            "item" : "2010"
+          }, {
+            "count" : 13,
+            "item" : "2011"
+          }, {
+            "count" : 12,
+            "item" : "2012"
+          }, {
+            "count" : 11,
+            "item" : "2013"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "true",
+          "align" : "right"
+        }
+      }, {
+        "id" : 135633533,
+        "name" : "Assessed Valuation Net of Homeowners' Exemptions",
+        "dataTypeName" : "number",
+        "fieldName" : "assessed_valuation_net_of_homeowners_exemptions",
+        "position" : 2,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17786298,
+        "width" : 103,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "263547493",
+          "sum" : "3634981738",
+          "null" : 0,
+          "average" : "363498173.8",
+          "largest" : "416539450",
+          "top" : [ {
+            "count" : 20,
+            "item" : "263547493"
+          }, {
+            "count" : 19,
+            "item" : "284468294"
+          }, {
+            "count" : 18,
+            "item" : "312668295"
+          }, {
+            "count" : 17,
+            "item" : "346982793"
+          }, {
+            "count" : 16,
+            "item" : "381153232"
+          }, {
+            "count" : 15,
+            "item" : "411135224"
+          }, {
+            "count" : 14,
+            "item" : "410756330"
+          }, {
+            "count" : 13,
+            "item" : "401273954"
+          }, {
+            "count" : 12,
+            "item" : "406456673"
+          }, {
+            "count" : 11,
+            "item" : "416539450"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 135633534,
+        "name" : "Homeowners' Exemptions",
+        "dataTypeName" : "number",
+        "fieldName" : "homeowners_exemptions",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17786299,
+        "width" : 94,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "2598874",
+          "sum" : "26580500",
+          "null" : 0,
+          "average" : "2658050",
+          "largest" : "2707745",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2598874"
+          }, {
+            "count" : 19,
+            "item" : "2641639"
+          }, {
+            "count" : 18,
+            "item" : "2642161"
+          }, {
+            "count" : 17,
+            "item" : "2637783"
+          }, {
+            "count" : 16,
+            "item" : "2664276"
+          }, {
+            "count" : 15,
+            "item" : "2688218"
+          }, {
+            "count" : 14,
+            "item" : "2707745"
+          }, {
+            "count" : 13,
+            "item" : "2696221"
+          }, {
+            "count" : 12,
+            "item" : "2674226"
+          }, {
+            "count" : 11,
+            "item" : "2629357"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 135633535,
+        "name" : "Gross Assessed Valuation",
+        "dataTypeName" : "number",
+        "fieldName" : "gross_assessed_valuation",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17786300,
+        "width" : 105,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "266146367",
+          "sum" : "3661562238",
+          "null" : 0,
+          "average" : "366156223.8",
+          "largest" : "419168807",
+          "top" : [ {
+            "count" : 20,
+            "item" : "266146367"
+          }, {
+            "count" : 19,
+            "item" : "287109933"
+          }, {
+            "count" : 18,
+            "item" : "315310456"
+          }, {
+            "count" : 17,
+            "item" : "349620576"
+          }, {
+            "count" : 16,
+            "item" : "383817508"
+          }, {
+            "count" : 15,
+            "item" : "413823442"
+          }, {
+            "count" : 14,
+            "item" : "413464075"
+          }, {
+            "count" : 13,
+            "item" : "403970175"
+          }, {
+            "count" : 12,
+            "item" : "409130899"
+          }, {
+            "count" : 11,
+            "item" : "419168807"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 135633536,
+        "name" : "Legal Debt Limit (15% of assessed value)",
+        "dataTypeName" : "number",
+        "fieldName" : "legal_debt_limit_15_of_assessed_value",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17786301,
+        "width" : 118,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "39921955",
+          "sum" : "549234333",
+          "null" : 0,
+          "average" : "54923433.3",
+          "largest" : "62875321",
+          "top" : [ {
+            "count" : 20,
+            "item" : "39921955"
+          }, {
+            "count" : 19,
+            "item" : "43066490"
+          }, {
+            "count" : 18,
+            "item" : "47296568"
+          }, {
+            "count" : 17,
+            "item" : "52443086"
+          }, {
+            "count" : 16,
+            "item" : "57572626"
+          }, {
+            "count" : 15,
+            "item" : "62073516"
+          }, {
+            "count" : 14,
+            "item" : "62019611"
+          }, {
+            "count" : 13,
+            "item" : "60595526"
+          }, {
+            "count" : 12,
+            "item" : "61369634"
+          }, {
+            "count" : 11,
+            "item" : "62875321"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 135633537,
+        "name" : "General Obligation Bonds Outstanding",
+        "dataTypeName" : "number",
+        "fieldName" : "general_obligation_bonds_outstanding",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17786302,
+        "width" : 105,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "1158863",
+          "sum" : "13351530",
+          "null" : 0,
+          "average" : "1335153",
+          "largest" : "1480010",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1158863"
+          }, {
+            "count" : 19,
+            "item" : "1451359"
+          }, {
+            "count" : 18,
+            "item" : "1480010"
+          }, {
+            "count" : 17,
+            "item" : "1446530"
+          }, {
+            "count" : 16,
+            "item" : "1336040"
+          }, {
+            "count" : 15,
+            "item" : "1331103"
+          }, {
+            "count" : 14,
+            "item" : "1404320"
+          }, {
+            "count" : 13,
+            "item" : "1288707"
+          }, {
+            "count" : 12,
+            "item" : "1288674"
+          }, {
+            "count" : 11,
+            "item" : "1165924"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 135633538,
+        "name" : "Legal Debt Margin",
+        "dataTypeName" : "number",
+        "fieldName" : "legal_debt_margin",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17786303,
+        "width" : 104,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "38763092",
+          "sum" : "535882803",
+          "null" : 0,
+          "average" : "53588280.3",
+          "largest" : "61709397",
+          "top" : [ {
+            "count" : 20,
+            "item" : "38763092"
+          }, {
+            "count" : 19,
+            "item" : "41615131"
+          }, {
+            "count" : 18,
+            "item" : "45816558"
+          }, {
+            "count" : 17,
+            "item" : "50996556"
+          }, {
+            "count" : 16,
+            "item" : "56236586"
+          }, {
+            "count" : 15,
+            "item" : "60742413"
+          }, {
+            "count" : 14,
+            "item" : "60615291"
+          }, {
+            "count" : 13,
+            "item" : "59306819"
+          }, {
+            "count" : 12,
+            "item" : "60080960"
+          }, {
+            "count" : 11,
+            "item" : "61709397"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 135633539,
+        "name" : "Legal Debt Margin as a Percentage of the Debt Limit",
+        "dataTypeName" : "percent",
+        "fieldName" : "legal_debt_margin_as_a_percentage_of_the_debt_limit",
+        "position" : 8,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 17786304,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "96.63",
+          "sum" : "975.04",
+          "null" : 0,
+          "average" : "97.504",
+          "largest" : "98.15",
+          "top" : [ {
+            "count" : 20,
+            "item" : "97.10"
+          }, {
+            "count" : 19,
+            "item" : "96.63"
+          }, {
+            "count" : 18,
+            "item" : "96.87"
+          }, {
+            "count" : 17,
+            "item" : "97.24"
+          }, {
+            "count" : 16,
+            "item" : "97.68"
+          }, {
+            "count" : 15,
+            "item" : "97.86"
+          }, {
+            "count" : 14,
+            "item" : "97.74"
+          }, {
+            "count" : 13,
+            "item" : "97.87"
+          }, {
+            "count" : 12,
+            "item" : "97.90"
+          }, {
+            "count" : 11,
+            "item" : "98.15"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 135633540,
+        "name" : "General Obligations Bonds Outstanding as a % of the Legal Debt Limit",
+        "dataTypeName" : "percent",
+        "fieldName" : "general_obligations_bonds_outstanding_as_a_of_the_legal_debt_limit",
+        "position" : 9,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 18351006,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "1.85",
+          "sum" : "24.96",
+          "null" : 0,
+          "average" : "2.496",
+          "largest" : "3.37",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2.90"
+          }, {
+            "count" : 19,
+            "item" : "3.37"
+          }, {
+            "count" : 18,
+            "item" : "3.13"
+          }, {
+            "count" : 17,
+            "item" : "2.76"
+          }, {
+            "count" : 16,
+            "item" : "2.32"
+          }, {
+            "count" : 15,
+            "item" : "2.14"
+          }, {
+            "count" : 14,
+            "item" : "2.26"
+          }, {
+            "count" : 13,
+            "item" : "2.13"
+          }, {
+            "count" : 12,
+            "item" : "2.10"
+          }, {
+            "count" : 11,
+            "item" : "1.85"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 135633541,
+        "name" : "General Obligation Bonds Outstanding as a Percentage of Assessed Value",
+        "dataTypeName" : "percent",
+        "fieldName" : "general_obligation_bonds_outstanding_as_a_percentage_of_assessed_value",
+        "position" : 10,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 17786305,
+        "width" : 92,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "0.28",
+          "sum" : "3.75",
+          "null" : 0,
+          "average" : "0.375",
+          "largest" : "0.51",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0.44"
+          }, {
+            "count" : 19,
+            "item" : "0.51"
+          }, {
+            "count" : 18,
+            "item" : "0.47"
+          }, {
+            "count" : 17,
+            "item" : "0.41"
+          }, {
+            "count" : 16,
+            "item" : "0.35"
+          }, {
+            "count" : 15,
+            "item" : "0.32"
+          }, {
+            "count" : 14,
+            "item" : "0.34"
+          }, {
+            "count" : 13,
+            "item" : "0.31"
+          }, {
+            "count" : 12,
+            "item" : "0.28"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 135633542,
+        "name" : "Population",
+        "dataTypeName" : "number",
+        "fieldName" : "population",
+        "position" : 11,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17786306,
+        "width" : 98,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "3764062",
+          "sum" : "37921877",
+          "null" : 0,
+          "average" : "3792187.7",
+          "largest" : "3863839",
+          "top" : [ {
+            "count" : 20,
+            "item" : "3773549"
+          }, {
+            "count" : 19,
+            "item" : "3769130"
+          }, {
+            "count" : 18,
+            "item" : "3768645"
+          }, {
+            "count" : 17,
+            "item" : "3764062"
+          }, {
+            "count" : 16,
+            "item" : "3774497"
+          }, {
+            "count" : 15,
+            "item" : "3781951"
+          }, {
+            "count" : 14,
+            "item" : "3792621"
+          }, {
+            "count" : 13,
+            "item" : "3806411"
+          }, {
+            "count" : 12,
+            "item" : "3827172"
+          }, {
+            "count" : 11,
+            "item" : "3863839"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 135633543,
+        "name" : "General Obligation Bonds Outstanding per Capita",
+        "dataTypeName" : "number",
+        "fieldName" : "general_obligation_bonds_outstanding_per_capita",
+        "position" : 12,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17786307,
+        "width" : 96,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "302",
+          "sum" : "3523",
+          "null" : 0,
+          "average" : "352.3",
+          "largest" : "393",
+          "top" : [ {
+            "count" : 20,
+            "item" : "307"
+          }, {
+            "count" : 19,
+            "item" : "385"
+          }, {
+            "count" : 18,
+            "item" : "393"
+          }, {
+            "count" : 17,
+            "item" : "384"
+          }, {
+            "count" : 16,
+            "item" : "354"
+          }, {
+            "count" : 15,
+            "item" : "352"
+          }, {
+            "count" : 14,
+            "item" : "370"
+          }, {
+            "count" : 13,
+            "item" : "339"
+          }, {
+            "count" : 12,
+            "item" : "337"
+          }, {
+            "count" : 11,
+            "item" : "302"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Public Domain"
+      },
+      "metadata" : {
+        "custom_fields" : {
+          "Department" : {
+            "Division" : "GAAP",
+            "Department" : "Controller",
+            "System" : "CAFR"
+          },
+          "Update Information" : {
+            "Update Cycle" : "Annual"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "jsonQuery" : {
+          "order" : [ {
+            "ascending" : true,
+            "columnFieldName" : "fiscal_year"
+          } ]
+        },
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "7c7a-resi",
+        "displayName" : "Controller's Office",
+        "roleName" : "administrator",
+        "screenName" : "Controller's Office",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+        "orderBys" : [ {
+          "ascending" : true,
+          "expression" : {
+            "columnId" : 135633532,
+            "type" : "column"
+          }
+        } ]
+      },
+      "rights" : [ "read" ],
+      "sortBys" : [ {
+        "id" : 0,
+        "viewColumnId" : 135633532,
+        "flags" : [ "asc" ]
+      } ],
+      "tableAuthor" : {
+        "id" : "7c7a-resi",
+        "displayName" : "Controller's Office",
+        "roleName" : "administrator",
+        "screenName" : "Controller's Office",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "tags" : [ "legal debt margin", "city of los angeles", "city of los angeles controller", "city of la", "city of la controller", "ron galperin", "comprehensive annual financial report", "cafr", "net position", "asset type", "asset type group", "activity type", "cafr statistical section" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "F90EF89B-8ADD-40CD-A43E-73D6F18835B3", 1, 1393548423, "862121", 1393548423, "862121", "{\n}", "2004", "263547493", "2598874", "266146367", "39921955", "1158863", "38763092", "97.10", "2.90", "0.44", "3773549", "307" ]
+, [ 2, "C5AAF846-E7EA-44C0-8EC5-574B2CF2ED54", 2, 1393548423, "862121", 1393548423, "862121", "{\n}", "2005.0", "284468294", "2641639", "287109933", "43066490", "1451359", "41615131", "96.63", "3.37", "0.51", "3769130", "385" ]
+, [ 3, "86B89EDA-AD5C-4AA6-9DE9-55A82F63EF95", 3, 1393548423, "862121", 1393548423, "862121", "{\n}", "2006.0", "312668295", "2642161", "315310456", "47296568", "1480010", "45816558", "96.87", "3.13", "0.47", "3768645", "393" ]
+, [ 4, "8326C033-0C1A-4E54-A8F2-6E2CD78D88E9", 4, 1393548423, "862121", 1393548423, "862121", "{\n}", "2007", "346982793", "2637783", "349620576", "52443086", "1446530", "50996556", "97.24", "2.76", "0.41", "3764062", "384" ]
+, [ 5, "7B3AC885-108F-4132-A311-C3A5701372D3", 5, 1393548423, "862121", 1393548423, "862121", "{\n}", "2008", "381153232", "2664276", "383817508", "57572626", "1336040", "56236586", "97.68", "2.32", "0.35", "3774497", "354" ]
+, [ 6, "F72CD2CE-BAB6-4085-81F7-D294903ED137", 6, 1393548423, "862121", 1393548423, "862121", "{\n}", "2009", "411135224", "2688218", "413823442", "62073516", "1331103", "60742413", "97.86", "2.14", "0.32", "3781951", "352" ]
+, [ 7, "475C9B73-D0BC-4895-A2EE-9F83C000DF30", 7, 1393548423, "862121", 1393548423, "862121", "{\n}", "2010", "410756330", "2707745", "413464075", "62019611", "1404320", "60615291", "97.74", "2.26", "0.34", "3792621", "370" ]
+, [ 8, "864786B1-29AD-401F-BB09-5E0718041DD5", 8, 1393548423, "862121", 1393548423, "862121", "{\n}", "2011", "401273954", "2696221", "403970175", "60595526", "1288707", "59306819", "97.87", "2.13", "0.32", "3806411", "339" ]
+, [ 9, "820FF9E6-3C94-4C78-8C66-FD5D2F9FF0CC", 9, 1393548423, "862121", 1393548423, "862121", "{\n}", "2012", "406456673", "2674226", "409130899", "61369634", "1288674", "60080960", "97.90", "2.10", "0.31", "3827172", "337" ]
+, [ 10, "1B938D9E-C416-42C1-BB92-A0B1F788E4D0", 10, 1393548423, "862121", 1393548423, "862121", "{\n}", "2013", "416539450", "2629357", "419168807", "62875321", "1165924", "61709397", "98.15", "1.85", "0.28", "3863839", "302" ]
+ ]
+}

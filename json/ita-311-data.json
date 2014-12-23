@@ -1,0 +1,579 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "bpyg-ytsg",
+      "name" : "ITA-311 Data",
+      "averageRating" : 0,
+      "createdAt" : 1401485582,
+      "description" : "This data shows the source of 311 requests and the wait time to speak to an agent when dialing 311.",
+      "displayType" : "table",
+      "downloadCount" : 12,
+      "indexUpdatedAt" : 1414617007,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8108788,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401485939,
+      "publicationGroup" : 1600562,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1401485594,
+      "rowsUpdatedBy" : "tyhz-nfmm",
+      "tableId" : 1600562,
+      "totalTimesRated" : 0,
+      "viewCount" : 101,
+      "viewLastModified" : 1402586427,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150661526,
+        "name" : "Date Name",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date_name",
+        "position" : 2,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 20021622,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "2013-01-01T00:00:00",
+          "null" : 0,
+          "largest" : "2014-04-01T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2013-01-01T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2013-02-01T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2013-03-01T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2013-04-01T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2013-05-01T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2013-06-01T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2013-07-01T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2013-08-01T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2013-09-01T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2013-10-01T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2013-11-01T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2013-12-01T00:00:00"
+          }, {
+            "count" : 8,
+            "item" : "2014-01-01T00:00:00"
+          }, {
+            "count" : 7,
+            "item" : "2014-02-01T00:00:00"
+          }, {
+            "count" : 6,
+            "item" : "2014-03-01T00:00:00"
+          }, {
+            "count" : 5,
+            "item" : "2014-04-01T00:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150661527,
+        "name" : "Date Value",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date_value",
+        "position" : 3,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 20021623,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "2013-01-31T00:00:00",
+          "null" : 0,
+          "largest" : "2014-04-30T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2013-01-31T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2013-02-28T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2013-03-31T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2013-04-30T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2013-05-31T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2013-06-30T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2013-07-31T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2013-08-31T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2013-09-30T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2013-10-31T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2013-11-30T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2013-12-31T00:00:00"
+          }, {
+            "count" : 8,
+            "item" : "2014-01-31T00:00:00"
+          }, {
+            "count" : 7,
+            "item" : "2014-02-28T00:00:00"
+          }, {
+            "count" : 6,
+            "item" : "2014-03-31T00:00:00"
+          }, {
+            "count" : 5,
+            "item" : "2014-04-30T00:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150661528,
+        "name" : "Total 311 Contacts",
+        "dataTypeName" : "number",
+        "fieldName" : "total_311_contacts",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20021624,
+        "width" : 316,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "82283",
+          "sum" : "1513129",
+          "null" : 0,
+          "average" : "94570.5625",
+          "largest" : "112257",
+          "top" : [ {
+            "count" : 20,
+            "item" : "101138"
+          }, {
+            "count" : 19,
+            "item" : "87039"
+          }, {
+            "count" : 18,
+            "item" : "88848"
+          }, {
+            "count" : 17,
+            "item" : "90185"
+          }, {
+            "count" : 16,
+            "item" : "95481"
+          }, {
+            "count" : 15,
+            "item" : "99806"
+          }, {
+            "count" : 14,
+            "item" : "112257"
+          }, {
+            "count" : 13,
+            "item" : "103262"
+          }, {
+            "count" : 12,
+            "item" : "99630"
+          }, {
+            "count" : 11,
+            "item" : "98963"
+          }, {
+            "count" : 10,
+            "item" : "82809"
+          }, {
+            "count" : 9,
+            "item" : "82283"
+          }, {
+            "count" : 8,
+            "item" : "93478"
+          }, {
+            "count" : 7,
+            "item" : "84167"
+          }, {
+            "count" : 6,
+            "item" : "94134"
+          }, {
+            "count" : 5,
+            "item" : "99649"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150661529,
+        "name" : "Total 311 Requests Using App/Web",
+        "dataTypeName" : "number",
+        "fieldName" : "total_311_requests_using_app_web",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20021625,
+        "width" : 484,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "0",
+          "sum" : "48872",
+          "null" : 0,
+          "average" : "3054.5",
+          "largest" : "5715",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0"
+          }, {
+            "count" : 19,
+            "item" : "89"
+          }, {
+            "count" : 18,
+            "item" : "2525"
+          }, {
+            "count" : 17,
+            "item" : "1910"
+          }, {
+            "count" : 16,
+            "item" : "2296"
+          }, {
+            "count" : 15,
+            "item" : "3368"
+          }, {
+            "count" : 14,
+            "item" : "4544"
+          }, {
+            "count" : 13,
+            "item" : "4683"
+          }, {
+            "count" : 12,
+            "item" : "3563"
+          }, {
+            "count" : 11,
+            "item" : "3478"
+          }, {
+            "count" : 10,
+            "item" : "3127"
+          }, {
+            "count" : 9,
+            "item" : "3313"
+          }, {
+            "count" : 8,
+            "item" : "4667"
+          }, {
+            "count" : 7,
+            "item" : "5594"
+          }, {
+            "count" : 6,
+            "item" : "5715"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150661530,
+        "name" : "% of 311 Requests by App/Web",
+        "dataTypeName" : "percent",
+        "fieldName" : "of_311_requests_by_app_web",
+        "position" : 6,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 20021626,
+        "width" : 436,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "0",
+          "sum" : "51.5",
+          "null" : 0,
+          "average" : "3.21875",
+          "largest" : "5.9",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0"
+          }, {
+            "count" : 19,
+            "item" : "0.1"
+          }, {
+            "count" : 18,
+            "item" : "2.8"
+          }, {
+            "count" : 17,
+            "item" : "2"
+          }, {
+            "count" : 16,
+            "item" : "2.3"
+          }, {
+            "count" : 15,
+            "item" : "3"
+          }, {
+            "count" : 14,
+            "item" : "4.4"
+          }, {
+            "count" : 13,
+            "item" : "4.7"
+          }, {
+            "count" : 12,
+            "item" : "3.6"
+          }, {
+            "count" : 11,
+            "item" : "4.2"
+          }, {
+            "count" : 10,
+            "item" : "3.8"
+          }, {
+            "count" : 9,
+            "item" : "3.5"
+          }, {
+            "count" : 8,
+            "item" : "5.5"
+          }, {
+            "count" : 7,
+            "item" : "5.9"
+          }, {
+            "count" : 6,
+            "item" : "5.7"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150661531,
+        "name" : "311 Avg Call Wait Times (seconds)",
+        "dataTypeName" : "number",
+        "fieldName" : "_311_avg_call_wait_times_seconds",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20021627,
+        "width" : 496,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "22",
+          "sum" : "1976",
+          "null" : 0,
+          "average" : "123.5",
+          "largest" : "354",
+          "top" : [ {
+            "count" : 20,
+            "item" : "306"
+          }, {
+            "count" : 19,
+            "item" : "354"
+          }, {
+            "count" : 18,
+            "item" : "222"
+          }, {
+            "count" : 17,
+            "item" : "60"
+          }, {
+            "count" : 16,
+            "item" : "210"
+          }, {
+            "count" : 15,
+            "item" : "84"
+          }, {
+            "count" : 14,
+            "item" : "96"
+          }, {
+            "count" : 13,
+            "item" : "90"
+          }, {
+            "count" : 12,
+            "item" : "72"
+          }, {
+            "count" : 11,
+            "item" : "36"
+          }, {
+            "count" : 10,
+            "item" : "70"
+          }, {
+            "count" : 9,
+            "item" : "22"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150661532,
+        "name" : "311 Avg. Call Wait Time Change YOY (seconds)",
+        "dataTypeName" : "number",
+        "fieldName" : "_311_avg_call_wait_time_change_yoy_seconds",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20021628,
+        "width" : 628,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "-318",
+          "sum" : "-778",
+          "null" : 12,
+          "average" : "-194.5",
+          "largest" : "-38",
+          "top" : [ {
+            "count" : 20,
+            "item" : "-236"
+          }, {
+            "count" : 19,
+            "item" : "-318"
+          }, {
+            "count" : 18,
+            "item" : "-186"
+          }, {
+            "count" : 17,
+            "item" : "-38"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "yb4r-dcys",
+        "displayName" : "ITA OpenData",
+        "profileImageUrlLarge" : "/images/profile/9462/4839/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9462/4839/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9462/4839/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "ITA OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "yb4r-dcys",
+        "displayName" : "ITA OpenData",
+        "profileImageUrlLarge" : "/images/profile/9462/4839/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9462/4839/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9462/4839/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "ITA OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "311", "myla311", "311 app" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "DBBFD27C-1FAF-4FB2-88E0-4779BFE5084F", 1, 1401485587, "865572", 1401485587, "865572", "{\n}", "2013-01-01T00:00:00", "2013-01-31T00:00:00", "101138", "0", "0", "306", null ]
+, [ 2, "6FA6FD69-0052-4094-8C08-0F9CC51E43C8", 2, 1401485587, "865572", 1401485587, "865572", "{\n}", "2013-02-01T00:00:00", "2013-02-28T00:00:00", "87039", "0", "0", "354", null ]
+, [ 3, "D2BE3ED2-7793-44FB-B6E6-F46155B6A9AF", 3, 1401485587, "865572", 1401485587, "865572", "{\n}", "2013-03-01T00:00:00", "2013-03-31T00:00:00", "88848", "89", "0.1", "222", null ]
+, [ 4, "294BED36-45B5-4C12-B4D4-7DFB1405EDD6", 4, 1401485587, "865572", 1401485587, "865572", "{\n}", "2013-04-01T00:00:00", "2013-04-30T00:00:00", "90185", "2525", "2.8", "60", null ]
+, [ 5, "EBA0B6F4-CE8C-4079-96B6-CD799B52A916", 5, 1401485587, "865572", 1401485587, "865572", "{\n}", "2013-05-01T00:00:00", "2013-05-31T00:00:00", "95481", "1910", "2", "60", null ]
+, [ 6, "D3FEA613-0B6B-4FD4-BECC-7652FEA36C77", 6, 1401485587, "865572", 1401485587, "865572", "{\n}", "2013-06-01T00:00:00", "2013-06-30T00:00:00", "99806", "2296", "2.3", "210", null ]
+, [ 7, "AF6E4257-6E96-416A-A71D-5A8704D5F0BA", 7, 1401485587, "865572", 1401485587, "865572", "{\n}", "2013-07-01T00:00:00", "2013-07-31T00:00:00", "112257", "3368", "3", "222", null ]
+, [ 8, "5D45058F-AF12-4C2B-9463-CC65306B6FD8", 8, 1401485587, "865572", 1401485587, "865572", "{\n}", "2013-08-01T00:00:00", "2013-08-31T00:00:00", "103262", "4544", "4.4", "84", null ]
+, [ 9, "8529A1A3-18D1-47BA-BE8E-E1591380A317", 9, 1401485587, "865572", 1401485587, "865572", "{\n}", "2013-09-01T00:00:00", "2013-09-30T00:00:00", "99630", "4683", "4.7", "96", null ]
+, [ 10, "B2547612-BA1C-4F97-9E90-44DE88B10713", 10, 1401485587, "865572", 1401485587, "865572", "{\n}", "2013-10-01T00:00:00", "2013-10-31T00:00:00", "98963", "3563", "3.6", "90", null ]
+, [ 11, "69E13A54-C84B-43E8-A67B-F19A4EC3E3B7", 11, 1401485587, "865572", 1401485587, "865572", "{\n}", "2013-11-01T00:00:00", "2013-11-30T00:00:00", "82809", "3478", "4.2", "72", null ]
+, [ 12, "1C1CDE45-D898-4F91-8D9E-F7963AAA4572", 12, 1401485587, "865572", 1401485587, "865572", "{\n}", "2013-12-01T00:00:00", "2013-12-31T00:00:00", "82283", "3127", "3.8", "36", null ]
+, [ 13, "A50AB84A-D0CB-4B95-ADE6-86E07D03AB14", 13, 1401485587, "865572", 1401485587, "865572", "{\n}", "2014-01-01T00:00:00", "2014-01-31T00:00:00", "93478", "3313", "3.5", "70", "-236" ]
+, [ 14, "3AD56654-D437-4A8E-946A-E11786C0272D", 14, 1401485587, "865572", 1401485587, "865572", "{\n}", "2014-02-01T00:00:00", "2014-02-28T00:00:00", "84167", "4667", "5.5", "36", "-318" ]
+, [ 15, "5E1C497F-98D3-45D6-89ED-CEC8C1AE7BE0", 15, 1401485587, "865572", 1401485587, "865572", "{\n}", "2014-03-01T00:00:00", "2014-03-31T00:00:00", "94134", "5594", "5.9", "36", "-186" ]
+, [ 16, "C29B75F1-51D9-463E-A99F-0A67A939CFD4", 16, 1401485587, "865572", 1401485587, "865572", "{\n}", "2014-04-01T00:00:00", "2014-04-30T00:00:00", "99649", "5715", "5.7", "22", "-38" ]
+ ]
+}

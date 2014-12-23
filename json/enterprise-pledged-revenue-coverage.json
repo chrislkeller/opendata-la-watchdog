@@ -1,0 +1,614 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "ppqu-esu9",
+      "name" : "Enterprise Pledged Revenue Coverage",
+      "attribution" : "Controller",
+      "attributionLink" : "http://controller.lacity.org/stellent/groups/ElectedOfficials/@CTR_Contributor/documents/Contributor_Web_Content/LACITYP_027750.pdf#page=400",
+      "averageRating" : 0,
+      "category" : "Budget",
+      "createdAt" : 1390691357,
+      "description" : "CAFR Pages 356-357.\r\n\r\nAirports, Harbor, Power, Sewers, and Water Enterprise Operations. Operating Revenues and Expenditures. Last Ten Fiscal Years. (amounts expressed in thousands)",
+      "displayType" : "table",
+      "downloadCount" : 71,
+      "indexUpdatedAt" : 1414613131,
+      "licenseId" : "PUBLIC_DOMAIN",
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 7442683,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1393555468,
+      "publicationGroup" : 1454121,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1393555444,
+      "rowsUpdatedBy" : "7c7a-resi",
+      "tableId" : 1492327,
+      "totalTimesRated" : 0,
+      "viewCount" : 65,
+      "viewLastModified" : 1412745351,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 135633451,
+        "name" : "Fiscal Year",
+        "dataTypeName" : "number",
+        "fieldName" : "fiscal_year",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17786414,
+        "width" : 92,
+        "cachedContents" : {
+          "non_null" : 50,
+          "smallest" : "2004",
+          "sum" : "100425",
+          "null" : 0,
+          "average" : "2008.5",
+          "largest" : "2013",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2004"
+          }, {
+            "count" : 19,
+            "item" : "2005"
+          }, {
+            "count" : 18,
+            "item" : "2006"
+          }, {
+            "count" : 17,
+            "item" : "2007"
+          }, {
+            "count" : 16,
+            "item" : "2008"
+          }, {
+            "count" : 15,
+            "item" : "2009"
+          }, {
+            "count" : 14,
+            "item" : "2010"
+          }, {
+            "count" : 13,
+            "item" : "2011"
+          }, {
+            "count" : 12,
+            "item" : "2012"
+          }, {
+            "count" : 11,
+            "item" : "2013"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "true"
+        }
+      }, {
+        "id" : 135633452,
+        "name" : "Type",
+        "dataTypeName" : "text",
+        "fieldName" : "type",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17786415,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 50,
+          "smallest" : "Airports Enterprise Fund Revenue Bonds and Notes",
+          "null" : 0,
+          "largest" : "Water Enterprise Fund Revenue Bonds and Notes",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Airports Enterprise Fund Revenue Bonds and Notes"
+          }, {
+            "count" : 19,
+            "item" : "Harbor Enterprise Fund Revenue Bonds and Notes"
+          }, {
+            "count" : 18,
+            "item" : "Power Enterprise Fund Revenue Bonds and Notes"
+          }, {
+            "count" : 17,
+            "item" : "Water Enterprise Fund Revenue Bonds and Notes"
+          }, {
+            "count" : 16,
+            "item" : "Sewer Enterprise Fund Revenue Bonds and Notes"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 135633453,
+        "name" : "Operating Revenues",
+        "dataTypeName" : "number",
+        "fieldName" : "operating_revenues",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17786416,
+        "width" : 107,
+        "cachedContents" : {
+          "non_null" : 50,
+          "smallest" : "337347",
+          "sum" : "54133835",
+          "null" : 0,
+          "average" : "1082676.7",
+          "largest" : "3387361",
+          "top" : [ {
+            "count" : 20,
+            "item" : "437411"
+          }, {
+            "count" : 19,
+            "item" : "492711"
+          }, {
+            "count" : 18,
+            "item" : "518393"
+          }, {
+            "count" : 17,
+            "item" : "543417"
+          }, {
+            "count" : 16,
+            "item" : "543318"
+          }, {
+            "count" : 15,
+            "item" : "543258"
+          }, {
+            "count" : 14,
+            "item" : "510214"
+          }, {
+            "count" : 13,
+            "item" : "520664"
+          }, {
+            "count" : 12,
+            "item" : "576552"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 135633454,
+        "name" : "Operating Expenses",
+        "dataTypeName" : "number",
+        "fieldName" : "operating_expenses",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17786417,
+        "width" : 134,
+        "cachedContents" : {
+          "non_null" : 50,
+          "smallest" : "130174",
+          "sum" : "36141685",
+          "null" : 0,
+          "average" : "722833.7",
+          "largest" : "2308188",
+          "top" : [ {
+            "count" : 20,
+            "item" : "212051"
+          }, {
+            "count" : 19,
+            "item" : "232971"
+          }, {
+            "count" : 18,
+            "item" : "240840"
+          }, {
+            "count" : 17,
+            "item" : "276508"
+          }, {
+            "count" : 16,
+            "item" : "287135"
+          }, {
+            "count" : 15,
+            "item" : "264072"
+          }, {
+            "count" : 14,
+            "item" : "256664"
+          }, {
+            "count" : 13,
+            "item" : "254980"
+          }, {
+            "count" : 12,
+            "item" : "279587"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 135633455,
+        "name" : "Net Available Revenue",
+        "dataTypeName" : "number",
+        "fieldName" : "net_available_revenue",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17786418,
+        "width" : 130,
+        "cachedContents" : {
+          "non_null" : 50,
+          "smallest" : "108716",
+          "sum" : "17992150",
+          "null" : 0,
+          "average" : "359843",
+          "largest" : "1099927",
+          "top" : [ {
+            "count" : 20,
+            "item" : "225360"
+          }, {
+            "count" : 19,
+            "item" : "259740"
+          }, {
+            "count" : 18,
+            "item" : "277553"
+          }, {
+            "count" : 17,
+            "item" : "266909"
+          }, {
+            "count" : 16,
+            "item" : "256183"
+          }, {
+            "count" : 15,
+            "item" : "279186"
+          }, {
+            "count" : 14,
+            "item" : "253550"
+          }, {
+            "count" : 13,
+            "item" : "265684"
+          }, {
+            "count" : 12,
+            "item" : "296965"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 135633456,
+        "name" : "Debt Service",
+        "dataTypeName" : "number",
+        "fieldName" : "debt_service",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17786419,
+        "width" : 116,
+        "cachedContents" : {
+          "non_null" : 50,
+          "smallest" : "28621",
+          "sum" : "7055744",
+          "null" : 0,
+          "average" : "141114.88",
+          "largest" : "426825",
+          "top" : [ {
+            "count" : 20,
+            "item" : "125309"
+          }, {
+            "count" : 19,
+            "item" : "143974"
+          }, {
+            "count" : 18,
+            "item" : "160005"
+          }, {
+            "count" : 17,
+            "item" : "170140"
+          }, {
+            "count" : 16,
+            "item" : "151996"
+          }, {
+            "count" : 15,
+            "item" : "170413"
+          }, {
+            "count" : 14,
+            "item" : "174804"
+          }, {
+            "count" : 13,
+            "item" : "177195"
+          }, {
+            "count" : 12,
+            "item" : "206965"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 135633457,
+        "name" : "Net Available Revenue Coverage",
+        "dataTypeName" : "number",
+        "fieldName" : "net_available_revenue_coverage",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17786420,
+        "width" : 122,
+        "cachedContents" : {
+          "non_null" : 50,
+          "smallest" : "1.43",
+          "sum" : "136.07",
+          "null" : 0,
+          "average" : "2.7214",
+          "largest" : "5.65",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1.80"
+          }, {
+            "count" : 19,
+            "item" : "1.73"
+          }, {
+            "count" : 18,
+            "item" : "1.57"
+          }, {
+            "count" : 17,
+            "item" : "1.69"
+          }, {
+            "count" : 16,
+            "item" : "1.64"
+          }, {
+            "count" : 15,
+            "item" : "1.45"
+          }, {
+            "count" : 14,
+            "item" : "1.50"
+          }, {
+            "count" : 13,
+            "item" : "1.43"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 135633458,
+        "name" : "Net Operating Cash Flow",
+        "dataTypeName" : "number",
+        "fieldName" : "net_operating_cash_flow",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17786421,
+        "width" : 152,
+        "cachedContents" : {
+          "non_null" : 50,
+          "smallest" : "33285",
+          "sum" : "14470629",
+          "null" : 0,
+          "average" : "289412.58",
+          "largest" : "851613",
+          "top" : [ {
+            "count" : 20,
+            "item" : "200550"
+          }, {
+            "count" : 19,
+            "item" : "206380"
+          }, {
+            "count" : 18,
+            "item" : "262994"
+          }, {
+            "count" : 17,
+            "item" : "248030"
+          }, {
+            "count" : 16,
+            "item" : "237586"
+          }, {
+            "count" : 15,
+            "item" : "265541"
+          }, {
+            "count" : 14,
+            "item" : "214662"
+          }, {
+            "count" : 13,
+            "item" : "236768"
+          }, {
+            "count" : 12,
+            "item" : "284783"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 135633459,
+        "name" : "Net Operating Cash Flow Coverage",
+        "dataTypeName" : "number",
+        "fieldName" : "net_operating_cash_flow_coverage",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17786422,
+        "width" : 120,
+        "cachedContents" : {
+          "non_null" : 50,
+          "smallest" : "0.74",
+          "sum" : "119.25",
+          "null" : 0,
+          "average" : "2.385",
+          "largest" : "7.67",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1.60"
+          }, {
+            "count" : 19,
+            "item" : "1.43"
+          }, {
+            "count" : 18,
+            "item" : "1.64"
+          }, {
+            "count" : 17,
+            "item" : "1.46"
+          }, {
+            "count" : 16,
+            "item" : "1.56"
+          }, {
+            "count" : 15,
+            "item" : "1.23"
+          }, {
+            "count" : 14,
+            "item" : "1.34"
+          }, {
+            "count" : 13,
+            "item" : "1.38"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Public Domain"
+      },
+      "metadata" : {
+        "custom_fields" : {
+          "Department" : {
+            "Division" : "GAAP",
+            "Department" : "Controller",
+            "System" : "CAFR"
+          },
+          "Update Information" : {
+            "Update Cycle" : "Annual"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "7c7a-resi",
+        "displayName" : "Controller's Office",
+        "roleName" : "administrator",
+        "screenName" : "Controller's Office",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "7c7a-resi",
+        "displayName" : "Controller's Office",
+        "roleName" : "administrator",
+        "screenName" : "Controller's Office",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "tags" : [ "revenue", "coverage", "city of los angeles", "city of los angeles controller", "city of la", "city of la controller", "ron galperin", "comprehensive annual financial report", "cafr", "net position", "asset type", "asset type group", "activity type", "cafr statistical section" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "3BD661B1-35E7-4D86-AA7A-732DDE4E34B2", 1, 1390691589, "862121", 1390691589, "862121", "{\n}", "2004", "Airports Enterprise Fund Revenue Bonds and Notes", "558602", "437127", "121475", "44826", "2.71", "33285", "0.74" ]
+, [ 2, "4781F684-2362-4D06-AC85-12601646279E", 2, 1390691589, "862121", 1390691589, "862121", "{\n}", "2005", "Airports Enterprise Fund Revenue Bonds and Notes", "585065", "476349", "108716", "43027", "2.53", "119760", "2.78" ]
+, [ 3, "E1B9E69B-AC2A-4BBC-987A-4C13F2B5793D", 3, 1390691589, "862121", 1390691589, "862121", "{\n}", "2006", "Airports Enterprise Fund Revenue Bonds and Notes", "630036", "520170", "109866", "41452", "2.65", "72531", "1.75" ]
+, [ 4, "42949C85-EBA8-441A-B261-1F3A1AEA58DA", 4, 1390691589, "862121", 1390691589, "862121", "{\n}", "2007", "Airports Enterprise Fund Revenue Bonds and Notes", "664304", "548167", "116137", "29116", "3.99", "223202", "7.67" ]
+, [ 5, "5A0518F9-BBCF-46B5-BA00-7224343BFBAC", 5, 1390691589, "862121", 1390691589, "862121", "{\n}", "2008", "Airports Enterprise Fund Revenue Bonds and Notes", "757015", "595408", "161607", "28621", "5.65", "196534", "6.87" ]
+, [ 6, "093ED90E-9CA3-4A82-B60B-AEF930BF7B36", 6, 1390691589, "862121", 1390691589, "862121", "{\n}", "2009", "Airports Enterprise Fund Revenue Bonds and Notes", "771364", "590960", "180404", "38730", "4.66", "40076", "1.03" ]
+, [ 7, "82F1B4D2-BD49-4A36-A7B7-3034113F8E63", 7, 1390691589, "862121", 1390691589, "862121", "{\n}", "2010", "Airports Enterprise Fund Revenue Bonds and Notes", "758594", "596802", "161792", "54948", "2.94", "122946", "2.24" ]
+, [ 8, "50B1BC9E-F270-4884-878B-BF11090532FE", 8, 1390691589, "862121", 1390691589, "862121", "{\n}", "2011", "Airports Enterprise Fund Revenue Bonds and Notes", "887762", "601964", "285798", "126331", "2.26", "215572", "1.71" ]
+, [ 9, "991437AD-C5FB-4418-8388-4DA584C20241", 9, 1390691589, "862121", 1390691589, "862121", "{\n}", "2012", "Airports Enterprise Fund Revenue Bonds and Notes", "952129", "639355", "312774", "138010", "2.27", "313774", "2.27" ]
+, [ 10, "74810844-311B-413C-84D6-FC942FB9D8FD", 10, 1390691589, "862121", 1390691589, "862121", "{\n}", "2013", "Airports Enterprise Fund Revenue Bonds and Notes", "981586", "648974", "332612", "136523", "2.44", "247540", "1.81" ]
+, [ 11, "0E1F032F-FA25-4325-AAE3-58B2F011E0AC", 11, 1390691589, "862121", 1390691589, "862121", "{\n}", "2004", "Harbor Enterprise Fund Revenue Bonds and Notes", "337347", "130174", "207173", "59023", "3.51", "208762", "3.54" ]
+, [ 12, "1DB3045C-82C6-41D6-BD57-4DFAA40E2879", 12, 1390691589, "862121", 1390691589, "862121", "{\n}", "2005", "Harbor Enterprise Fund Revenue Bonds and Notes", "366438", "170891", "195547", "60536", "3.23", "226037", "3.73" ]
+, [ 13, "203A382B-4F58-4D27-B0C8-1E5EFE5A2F37", 13, 1390691589, "862121", 1390691589, "862121", "{\n}", "2006", "Harbor Enterprise Fund Revenue Bonds and Notes", "406043", "184132", "221911", "61574", "3.60", "201575", "3.27" ]
+, [ 14, "0BB7BCD9-9DD6-45C2-82B2-6139CAE0C011", 14, 1390691589, "862121", 1390691589, "862121", "{\n}", "2007", "Harbor Enterprise Fund Revenue Bonds and Notes", "445609", "163775", "281834", "59085", "4.77", "246665", "4.17" ]
+, [ 15, "B1F2C479-4D6A-4BE2-97E0-EB025F1577E6", 15, 1390691589, "862121", 1390691589, "862121", "{\n}", "2008", "Harbor Enterprise Fund Revenue Bonds and Notes", "465648", "221752", "243896", "61318", "3.98", "252898", "4.12" ]
+, [ 16, "F6FD404D-A83F-48AC-9C5D-3B78C6AA2C77", 16, 1390691589, "862121", 1390691589, "862121", "{\n}", "2009", "Harbor Enterprise Fund Revenue Bonds and Notes", "424028", "254143", "169885", "61298", "2.77", "151264", "2.47" ]
+, [ 17, "5A9CF494-BF6E-4E7A-B583-6C7CF6567E4E", 17, 1390691589, "862121", 1390691589, "862121", "{\n}", "2010", "Harbor Enterprise Fund Revenue Bonds and Notes", "424306", "210235", "214071", "66851", "3.20", "185416", "2.77" ]
+, [ 18, "F92E80B2-3EB4-4FA7-A9B8-C6DE9478A0C9", 18, 1390691589, "862121", 1390691589, "862121", "{\n}", "2011", "Harbor Enterprise Fund Revenue Bonds and Notes", "412962", "209695", "203267", "72927", "2.79", "158228", "2.17" ]
+, [ 19, "8E7AA788-2B5C-4F4B-84D8-44A2003D16E9", 19, 1390691589, "862121", 1390691589, "862121", "{\n}", "2012", "Harbor Enterprise Fund Revenue Bonds and Notes", "435291", "199806", "235485", "71609", "3.29", "217113", "3.03" ]
+, [ 20, "230BFF44-7E69-4E90-BF80-FB7B7F0B99A1", 20, 1390691589, "862121", 1390691589, "862121", "{\n}", "2013", "Harbor Enterprise Fund Revenue Bonds and Notes", "416974", "205169", "211805", "72398", "2.93", "234234", "3.24" ]
+, [ 21, "8950123C-AA4A-4452-A63E-28DD1B58DB57", 21, 1390691589, "862121", 1390691589, "862121", "{\n}", "2004", "Power Enterprise Fund Revenue Bonds and Notes", "2437461", "1771230", "666231", "170466", "3.91", "505187", "2.96" ]
+, [ 22, "B95A3CFD-668A-4E6E-8906-913D29C2B7E6", 22, 1390691589, "862121", 1390691589, "862121", "{\n}", "2005", "Power Enterprise Fund Revenue Bonds and Notes", "2401458", "1835594", "565864", "189105", "2.99", "611579", "3.23" ]
+, [ 23, "762A9A19-CD95-485E-A743-2917CEDB13A5", 23, 1390691589, "862121", 1390691589, "862121", "{\n}", "2006", "Power Enterprise Fund Revenue Bonds and Notes", "2665535", "2016080", "649455", "223678", "2.90", "559157", "2.50" ]
+, [ 24, "D70D706E-3550-4213-A63A-FAC9EC442AA5", 24, 1390691589, "862121", 1390691589, "862121", "{\n}", "2007", "Power Enterprise Fund Revenue Bonds and Notes", "2799140", "1996649", "802491", "267144", "3.00", "507934", "1.90" ]
+, [ 25, "2396E518-7CF5-49C4-A3C3-96BFF4EF51E2", 25, 1390691589, "862121", 1390691589, "862121", "{\n}", "2008", "Power Enterprise Fund Revenue Bonds and Notes", "2989725", "2176056", "813669", "250484", "3.25", "469188", "1.87" ]
+, [ 26, "4E15AB34-0F99-43F7-AD9A-D0DE7F62B2D7", 26, 1390691589, "862121", 1390691589, "862121", "{\n}", "2009", "Power Enterprise Fund Revenue Bonds and Notes", "2924155", "2043192", "880963", "270357", "3.26", "427647", "1.58" ]
+, [ 27, "796AA8A0-DEE6-4E46-89AB-04AF00346E57", 27, 1390691589, "862121", 1390691589, "862121", "{\n}", "2010", "Power Enterprise Fund Revenue Bonds and Notes", "3387361", "2287434", "1099927", "309349", "3.56", "741881", "2.40" ]
+, [ 28, "A8151720-76A0-4958-99B4-DB193068CEF6", 28, 1390691589, "862121", 1390691589, "862121", "{\n}", "2011", "Power Enterprise Fund Revenue Bonds and Notes", "3288478", "2308188", "980290", "400846", "2.45", "666711", "1.66" ]
+, [ 29, "6E0C15CA-1D62-479C-9E44-0B5866F83A89", 29, 1390691589, "862121", 1390691589, "862121", "{\n}", "2012", "Power Enterprise Fund Revenue Bonds and Notes", "3267679", "2235522", "1032157", "343093", "3.01", "851613", "2.48" ]
+, [ 30, "5857F0E8-94CE-4B39-BEAB-B37FC7681CF8", 30, 1390691589, "862121", 1390691589, "862121", "{\n}", "2013", "Power Enterprise Fund Revenue Bonds and Notes", "3342586", "2266249", "1076337", "426825", "2.52", "761079", "1.78" ]
+, [ 31, "7466739D-CCB8-4382-A494-A52CE7ED234B", 31, 1390691589, "862121", 1390691589, "862121", "{\n}", "2004", "Water Enterprise Fund Revenue Bonds and Notes", "618589", "421634", "196955", "64135", "3.07", "282914", "4.41" ]
+, [ 32, "6640DAFF-3AD2-40BA-929C-16C77B70F4CD", 32, 1390691589, "862121", 1390691589, "862121", "{\n}", "2005", "Water Enterprise Fund Revenue Bonds and Notes", "590751", "387264", "203487", "71851", "2.83", "210129", "2.92" ]
+, [ 33, "157C3867-7D6D-46B5-8554-E9D531011DF9", 33, 1390691589, "862121", 1390691589, "862121", "{\n}", "2006", "Water Enterprise Fund Revenue Bonds and Notes", "625995", "394543", "231452", "95681", "2.42", "251198", "2.63" ]
+, [ 34, "0FD4F098-B008-49C6-AF5D-3CF27E90A7B7", 34, 1390691589, "862121", 1390691589, "862121", "{\n}", "2007", "Water Enterprise Fund Revenue Bonds and Notes", "717145", "442962", "274183", "122928", "2.23", "231297", "1.88" ]
+, [ 35, "D4CE5F5F-9013-481E-8097-146D7D9813B5", 35, 1390691589, "862121", 1390691589, "862121", "{\n}", "2008", "Water Enterprise Fund Revenue Bonds and Notes", "799706", "523657", "276049", "133354", "2.07", "132714", "1.00" ]
+, [ 36, "1BF07DDC-832F-4487-BF24-D27F14038713", 36, 1390691589, "862121", 1390691589, "862121", "{\n}", "2009", "Water Enterprise Fund Revenue Bonds and Notes", "825168", "581587", "243581", "116026", "2.10", "189718", "1.64" ]
+, [ 37, "8FEA98E2-148A-4965-823F-B50BC375DF28", 37, 1390691589, "862121", 1390691589, "862121", "{\n}", "2010", "Water Enterprise Fund Revenue Bonds and Notes", "858201", "584382", "273819", "134106", "2.04", "152044", "1.13" ]
+, [ 38, "E929D114-B00A-449A-BD8C-BB7C70BA668A", 38, 1390691589, "862121", 1390691589, "862121", "{\n}", "2011", "Water Enterprise Fund Revenue Bonds and Notes", "831771", "540041", "291730", "167371", "1.74", "290206", "1.73" ]
+, [ 39, "B03EB662-5966-4751-B117-D28F8A82D2E0", 39, 1390691589, "862121", 1390691589, "862121", "{\n}", "2012", "Water Enterprise Fund Revenue Bonds and Notes", "875909", "544824", "331085", "178468", "1.86", "238099", "1.33" ]
+, [ 40, "90BF5167-8E44-4EDB-90BE-BCF860C79521", 40, 1390691589, "862121", 1390691589, "862121", "{\n}", "2013", "Water Enterprise Fund Revenue Bonds and Notes", "1091710", "672462", "419248", "192885", "2.17", "347264", "1.80" ]
+, [ 41, "169DF4CA-6394-47B3-BC1F-480803843796", 41, 1390691589, "862121", 1390691589, "862121", "{\n}", "2004", "Sewer Enterprise Fund Revenue Bonds and Notes", "428271", "202279", "225992", "118588", "1.91", "218364", "1.84" ]
+, [ 42, "3C561CC2-DE3B-4201-9128-D9CBC06362BC", 42, 1390691589, "862121", 1390691589, "862121", "{\n}", "2005", "Sewer Enterprise Fund Revenue Bonds and Notes", "437411", "212051", "225360", "125309", "1.80", "200550", "1.60" ]
+, [ 43, "43D60CF6-CDC9-49F4-85E7-A4AFF738E7F9", 43, 1390691589, "862121", 1390691589, "862121", "{\n}", "2006", "Sewer Enterprise Fund Revenue Bonds and Notes", "492711", "232971", "259740", "143974", "1.80", "206380", "1.43" ]
+, [ 44, "6694D957-BAAA-4367-879A-40382F1040E0", 44, 1390691589, "862121", 1390691589, "862121", "{\n}", "2007", "Sewer Enterprise Fund Revenue Bonds and Notes", "518393", "240840", "277553", "160005", "1.73", "262994", "1.64" ]
+, [ 45, "26867AED-EC96-4571-86A9-8F32DE7A6F3A", 45, 1390691589, "862121", 1390691589, "862121", "{\n}", "2008", "Sewer Enterprise Fund Revenue Bonds and Notes", "543417", "276508", "266909", "170140", "1.57", "248030", "1.46" ]
+, [ 46, "C963754A-ADC2-45B5-A51C-704E1A224CD4", 46, 1390691589, "862121", 1390691589, "862121", "{\n}", "2009", "Sewer Enterprise Fund Revenue Bonds and Notes", "543318", "287135", "256183", "151996", "1.69", "237586", "1.56" ]
+, [ 47, "E4B6242D-263F-442A-A7EA-50127A776F42", 47, 1390691589, "862121", 1390691589, "862121", "{\n}", "2010", "Sewer Enterprise Fund Revenue Bonds and Notes", "543258", "264072", "279186", "170413", "1.64", "265541", "1.56" ]
+, [ 48, "9A352AF2-0C76-4F2C-8C83-266749C4C5C6", 48, 1390691589, "862121", 1390691589, "862121", "{\n}", "2011", "Sewer Enterprise Fund Revenue Bonds and Notes", "510214", "256664", "253550", "174804", "1.45", "214662", "1.23" ]
+, [ 49, "D093B14B-94BA-4CF6-B6BE-1DB751A10C4C", 49, 1390691589, "862121", 1390691589, "862121", "{\n}", "2012", "Sewer Enterprise Fund Revenue Bonds and Notes", "520664", "254980", "265684", "177195", "1.50", "236768", "1.34" ]
+, [ 50, "C2BAE306-05EC-41F0-8BE4-8D3DF74617C5", 50, 1390691589, "862121", 1390691589, "862121", "{\n}", "2013", "Sewer Enterprise Fund Revenue Bonds and Notes", "576552", "279587", "296965", "206965", "1.43", "284783", "1.38" ]
+ ]
+}

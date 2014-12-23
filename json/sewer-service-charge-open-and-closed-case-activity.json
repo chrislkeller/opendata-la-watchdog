@@ -1,0 +1,655 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "6pjg-abad",
+      "name" : "Sewer Service Charge:  Open and Closed Case Activity",
+      "attribution" : "Bureau of Sanitation-FMD",
+      "averageRating" : 0,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1401384750,
+      "description" : "Category of data was not applicable for those years where 0's appear.  Annually updated for FY.",
+      "displayType" : "table",
+      "downloadCount" : 3,
+      "indexUpdatedAt" : 1414613840,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8098561,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401384945,
+      "publicationGroup" : 1598858,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1401385054,
+      "rowsUpdatedBy" : "mc98-5kjj",
+      "state" : "normal",
+      "tableId" : 1598858,
+      "totalTimesRated" : 0,
+      "viewCount" : 64,
+      "viewLastModified" : 1402332441,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150442903,
+        "name" : "Sewer Service Charge",
+        "dataTypeName" : "text",
+        "fieldName" : "sewer_service_charge",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19996937,
+        "width" : 340,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "Cases completed and closed for commercial property sewer service adjustment requests",
+          "null" : 12,
+          "largest" : "Requests to make adjustments to residential property sewer service charges",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Requests to make adjustments to commercial property sewer service charges"
+          }, {
+            "count" : 19,
+            "item" : "Cases completed and closed for commercial property sewer service adjustment requests"
+          }, {
+            "count" : 18,
+            "item" : "Requests to make adjustments to residential property sewer service charges"
+          }, {
+            "count" : 17,
+            "item" : "Cases completed and closed for residential property sewer service adjustment requests"
+          }, {
+            "count" : 16,
+            "item" : "Public Entity Adjustments - New Requests"
+          }, {
+            "count" : 15,
+            "item" : "Public Entity Adjustments - Cases Closed"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150442904,
+        "name" : "ACTUAL 2000-01",
+        "dataTypeName" : "number",
+        "fieldName" : "actual_2000_01",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19996938,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "0",
+          "sum" : "1081",
+          "null" : 12,
+          "average" : "180.1666666666667",
+          "largest" : "616",
+          "top" : [ {
+            "count" : 20,
+            "item" : "616"
+          }, {
+            "count" : 19,
+            "item" : "465"
+          }, {
+            "count" : 18,
+            "item" : "0"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150442905,
+        "name" : "ACTUAL 2001-02",
+        "dataTypeName" : "number",
+        "fieldName" : "actual_2001_02",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19996939,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "0",
+          "sum" : "11102",
+          "null" : 12,
+          "average" : "1850.333333333333",
+          "largest" : "4796",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1229"
+          }, {
+            "count" : 19,
+            "item" : "1060"
+          }, {
+            "count" : 18,
+            "item" : "4017"
+          }, {
+            "count" : 17,
+            "item" : "4796"
+          }, {
+            "count" : 16,
+            "item" : "0"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150442906,
+        "name" : "ACTUAL 2002-03",
+        "dataTypeName" : "number",
+        "fieldName" : "actual_2002_03",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19996940,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "0",
+          "sum" : "10060",
+          "null" : 12,
+          "average" : "1676.666666666667",
+          "largest" : "4458",
+          "top" : [ {
+            "count" : 20,
+            "item" : "464"
+          }, {
+            "count" : 19,
+            "item" : "682"
+          }, {
+            "count" : 18,
+            "item" : "4456"
+          }, {
+            "count" : 17,
+            "item" : "4458"
+          }, {
+            "count" : 16,
+            "item" : "0"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150442907,
+        "name" : "ACTUAL 2003-04",
+        "dataTypeName" : "number",
+        "fieldName" : "actual_2003_04",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19996941,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "0",
+          "sum" : "9818",
+          "null" : 12,
+          "average" : "1636.333333333333",
+          "largest" : "4383",
+          "top" : [ {
+            "count" : 20,
+            "item" : "669"
+          }, {
+            "count" : 19,
+            "item" : "453"
+          }, {
+            "count" : 18,
+            "item" : "4313"
+          }, {
+            "count" : 17,
+            "item" : "4383"
+          }, {
+            "count" : 16,
+            "item" : "0"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150442908,
+        "name" : "ACTUAL 2004-05",
+        "dataTypeName" : "number",
+        "fieldName" : "actual_2004_05",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19996942,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "0",
+          "sum" : "12661",
+          "null" : 12,
+          "average" : "2110.166666666667",
+          "largest" : "5982",
+          "top" : [ {
+            "count" : 20,
+            "item" : "425"
+          }, {
+            "count" : 19,
+            "item" : "372"
+          }, {
+            "count" : 18,
+            "item" : "5982"
+          }, {
+            "count" : 17,
+            "item" : "5882"
+          }, {
+            "count" : 16,
+            "item" : "0"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150442909,
+        "name" : "ACTUAL 2005-06",
+        "dataTypeName" : "number",
+        "fieldName" : "actual_2005_06",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19996943,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "0",
+          "sum" : "12210",
+          "null" : 12,
+          "average" : "2035",
+          "largest" : "5574",
+          "top" : [ {
+            "count" : 20,
+            "item" : "686"
+          }, {
+            "count" : 19,
+            "item" : "683"
+          }, {
+            "count" : 18,
+            "item" : "5574"
+          }, {
+            "count" : 17,
+            "item" : "5267"
+          }, {
+            "count" : 16,
+            "item" : "0"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150442910,
+        "name" : "ACTUAL 2006-07",
+        "dataTypeName" : "number",
+        "fieldName" : "actual_2006_07",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19996944,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "0",
+          "sum" : "14262",
+          "null" : 12,
+          "average" : "2377",
+          "largest" : "6609",
+          "top" : [ {
+            "count" : 20,
+            "item" : "729"
+          }, {
+            "count" : 19,
+            "item" : "698"
+          }, {
+            "count" : 18,
+            "item" : "6609"
+          }, {
+            "count" : 17,
+            "item" : "6226"
+          }, {
+            "count" : 16,
+            "item" : "0"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150442911,
+        "name" : "ACTUAL 2007-08",
+        "dataTypeName" : "number",
+        "fieldName" : "actual_2007_08",
+        "position" : 10,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19996945,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "0",
+          "sum" : "12040",
+          "null" : 12,
+          "average" : "2006.666666666667",
+          "largest" : "5765",
+          "top" : [ {
+            "count" : 20,
+            "item" : "434"
+          }, {
+            "count" : 19,
+            "item" : "521"
+          }, {
+            "count" : 18,
+            "item" : "5320"
+          }, {
+            "count" : 17,
+            "item" : "5765"
+          }, {
+            "count" : 16,
+            "item" : "0"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150442912,
+        "name" : "ACTUAL 2008-09",
+        "dataTypeName" : "number",
+        "fieldName" : "actual_2008_09",
+        "position" : 11,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19996946,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "566",
+          "sum" : "15660",
+          "null" : 12,
+          "average" : "2610",
+          "largest" : "5146",
+          "top" : [ {
+            "count" : 20,
+            "item" : "592"
+          }, {
+            "count" : 19,
+            "item" : "566"
+          }, {
+            "count" : 18,
+            "item" : "5146"
+          }, {
+            "count" : 17,
+            "item" : "4474"
+          }, {
+            "count" : 16,
+            "item" : "2441"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150442913,
+        "name" : "ACTUAL 2009-10",
+        "dataTypeName" : "number",
+        "fieldName" : "actual_2009_10",
+        "position" : 12,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19996947,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "748",
+          "sum" : "16900",
+          "null" : 12,
+          "average" : "2816.666666666667",
+          "largest" : "5322",
+          "top" : [ {
+            "count" : 20,
+            "item" : "782"
+          }, {
+            "count" : 19,
+            "item" : "748"
+          }, {
+            "count" : 18,
+            "item" : "5322"
+          }, {
+            "count" : 17,
+            "item" : "5166"
+          }, {
+            "count" : 16,
+            "item" : "2441"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150442914,
+        "name" : "ACTUAL 2010-11",
+        "dataTypeName" : "number",
+        "fieldName" : "actual_2010_11",
+        "position" : 13,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19996948,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "1069",
+          "sum" : "15690",
+          "null" : 12,
+          "average" : "2615",
+          "largest" : "4251",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1180"
+          }, {
+            "count" : 19,
+            "item" : "1069"
+          }, {
+            "count" : 18,
+            "item" : "3978"
+          }, {
+            "count" : 17,
+            "item" : "4251"
+          }, {
+            "count" : 16,
+            "item" : "2606"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150442915,
+        "name" : "ACTUAL 2011-12",
+        "dataTypeName" : "number",
+        "fieldName" : "actual_2011_12",
+        "position" : 14,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19996949,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "864",
+          "sum" : "16566",
+          "null" : 12,
+          "average" : "2761",
+          "largest" : "5028",
+          "top" : [ {
+            "count" : 20,
+            "item" : "919"
+          }, {
+            "count" : 19,
+            "item" : "864"
+          }, {
+            "count" : 18,
+            "item" : "4529"
+          }, {
+            "count" : 17,
+            "item" : "5028"
+          }, {
+            "count" : 16,
+            "item" : "2613"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150442916,
+        "name" : "ACTUAL 2012-13",
+        "dataTypeName" : "number",
+        "fieldName" : "actual_2012_13",
+        "position" : 15,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19996950,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "3",
+          "sum" : "9672",
+          "null" : 12,
+          "average" : "1612",
+          "largest" : "4304",
+          "top" : [ {
+            "count" : 20,
+            "item" : "668"
+          }, {
+            "count" : 19,
+            "item" : "694"
+          }, {
+            "count" : 18,
+            "item" : "4304"
+          }, {
+            "count" : 17,
+            "item" : "3936"
+          }, {
+            "count" : 16,
+            "item" : "67"
+          }, {
+            "count" : 15,
+            "item" : "3"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Bureau of Sanitation"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "jwvk-b9mh",
+        "displayName" : "Public Works: Sanitation OpenData",
+        "profileImageUrlLarge" : "/images/profile/2352/4407/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/2352/4407/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/2352/4407/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Public Works: Sanitation OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "mc98-5kjj",
+        "displayName" : "sanodata",
+        "roleName" : "editor",
+        "screenName" : "sanodata",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "bureau of sanitation", "ssc", "sewer service charge", "ssc cases", "sewer service cases", "sewer cases", "sewer service" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 8, "CF35A274-D368-4C40-83E6-28D9437BBA8F", 8, 1401385048, "875560", 1401385048, "875560", null, "Requests to make adjustments to commercial property sewer service charges", "616", "1229", "464", "669", "425", "686", "729", "434", "592", "782", "1180", "919", "668" ]
+, [ 9, "8C312EB9-2209-4EB7-9B77-A1CC4A4205FB", 9, 1401385048, "875560", 1401385048, "875560", null, "Cases completed and closed for commercial property sewer service adjustment requests", "465", "1060", "682", "453", "372", "683", "698", "521", "566", "748", "1069", "864", "694" ]
+, [ 10, "B86A6C4A-C1D0-4840-AF3E-05FEC19F225E", 10, 1401385048, "875560", 1401385048, "875560", null, "Requests to make adjustments to residential property sewer service charges", "0", "4017", "4456", "4313", "5982", "5574", "6609", "5320", "5146", "5322", "3978", "4529", "4304" ]
+, [ 11, "1CEB30F0-4B8C-4022-AB4B-6293BD3C4401", 11, 1401385048, "875560", 1401385048, "875560", null, "Cases completed and closed for residential property sewer service adjustment requests", "0", "4796", "4458", "4383", "5882", "5267", "6226", "5765", "4474", "5166", "4251", "5028", "3936" ]
+, [ 12, "193B9AEC-FAE8-4F90-92DA-A9B17D54DB55", 12, 1401385048, "875560", 1401385048, "875560", null, "Public Entity Adjustments - New Requests", "0", "0", "0", "0", "0", "0", "0", "0", "2441", "2441", "2606", "2613", "67" ]
+, [ 13, "03F78F00-1F82-4E03-8289-F97B63146AFD", 13, 1401385048, "875560", 1401385048, "875560", null, "Public Entity Adjustments - Cases Closed", "0", "0", "0", "0", "0", "0", "0", "0", "2441", "2441", "2606", "2613", "3" ]
+, [ 14, "ECA74A37-7513-4DDC-A4AD-5E288877097E", 14, 1401385048, "875560", 1401385048, "875560", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 15, "3D97F677-B7BF-4382-BB0A-B19AFC3AFD0C", 15, 1401385048, "875560", 1401385048, "875560", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 16, "369DA7F2-9EF1-44E0-8286-A8795E5868D6", 16, 1401385048, "875560", 1401385048, "875560", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 17, "C37C3711-8E8C-46D1-94D5-3BA9048F1145", 17, 1401385048, "875560", 1401385048, "875560", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 18, "923A4B56-606B-4821-9CFA-E79276F8D2F2", 18, 1401385048, "875560", 1401385048, "875560", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 19, "8769E60B-805E-443D-B80F-D2E04E2DEA0D", 19, 1401385048, "875560", 1401385048, "875560", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 20, "541EB299-2B7D-4F9A-AF49-4C19A2CCFAE1", 20, 1401385048, "875560", 1401385048, "875560", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 21, "8A5B75BF-AACD-4BCF-AC7F-7A709EF364F9", 21, 1401385048, "875560", 1401385048, "875560", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 22, "BDD14272-E26B-4907-9333-DCBC8E65AC5B", 22, 1401385048, "875560", 1401385048, "875560", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 23, "862DEFD7-D9D6-4032-BB89-3A4AC8F4DA0B", 23, 1401385048, "875560", 1401385048, "875560", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 24, "2D2562BF-32F1-4532-8278-4023BFFBAC25", 24, 1401385048, "875560", 1401385048, "875560", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 25, "74DBBF12-EB2F-4275-8207-B0F3863F68D3", 25, 1401385048, "875560", 1401385048, "875560", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+ ]
+}

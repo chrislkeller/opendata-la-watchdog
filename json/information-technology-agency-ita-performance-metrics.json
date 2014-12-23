@@ -1,0 +1,3444 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "ub4i-fkh3",
+      "name" : "Information Technology Agency (ITA) - Performance Metrics",
+      "attribution" : "Information Technology Agency",
+      "averageRating" : 0,
+      "category" : "A Well Run City",
+      "createdAt" : 1407867305,
+      "description" : "This dataset contains metrics that measure the operational performance of the Information Technology Agency. These metrics are used on a regular basis by the department and the Mayor to evaluate progress and inform decision making. Performance management forms the foundation of a data-driven culture of innovation and excellence in the City of Los Angeles.",
+      "displayType" : "table",
+      "downloadCount" : 6,
+      "indexUpdatedAt" : 1413412714,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 9132347,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1413412684,
+      "publicationGroup" : 1681584,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1413412576,
+      "rowsUpdatedBy" : "tyhz-nfmm",
+      "tableId" : 1800809,
+      "totalTimesRated" : 0,
+      "viewCount" : 143,
+      "viewLastModified" : 1413412684,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 171389525,
+        "name" : "Date Value",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date_value",
+        "position" : 1,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 21366477,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 39,
+          "smallest" : "2010-06-30T00:00:00",
+          "null" : 9,
+          "largest" : "2015-06-30T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2010-06-30T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2011-06-30T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2012-06-30T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2012-07-31T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2012-08-31T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2012-09-30T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2012-10-31T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2012-11-30T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2012-12-31T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2013-01-31T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2013-02-28T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2013-03-31T00:00:00"
+          }, {
+            "count" : 8,
+            "item" : "2013-04-30T00:00:00"
+          }, {
+            "count" : 7,
+            "item" : "2013-05-31T00:00:00"
+          }, {
+            "count" : 6,
+            "item" : "2013-06-30T00:00:00"
+          }, {
+            "count" : 5,
+            "item" : "2013-07-31T00:00:00"
+          }, {
+            "count" : 4,
+            "item" : "2013-08-31T00:00:00"
+          }, {
+            "count" : 3,
+            "item" : "2013-09-30T00:00:00"
+          }, {
+            "count" : 2,
+            "item" : "2013-10-31T00:00:00"
+          }, {
+            "count" : 1,
+            "item" : "2013-11-30T00:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389526,
+        "name" : "Month-Year",
+        "dataTypeName" : "text",
+        "fieldName" : "month_year",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21366478,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 39,
+          "smallest" : "Apr-13",
+          "null" : 9,
+          "largest" : "Sep-14",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Jun-10"
+          }, {
+            "count" : 19,
+            "item" : "Jun-11"
+          }, {
+            "count" : 18,
+            "item" : "Jun-12"
+          }, {
+            "count" : 17,
+            "item" : "Jul-12"
+          }, {
+            "count" : 16,
+            "item" : "Aug-12"
+          }, {
+            "count" : 15,
+            "item" : "Sep-12"
+          }, {
+            "count" : 14,
+            "item" : "Oct-12"
+          }, {
+            "count" : 13,
+            "item" : "Nov-12"
+          }, {
+            "count" : 12,
+            "item" : "Dec-12"
+          }, {
+            "count" : 11,
+            "item" : "Jan-13"
+          }, {
+            "count" : 10,
+            "item" : "Feb-13"
+          }, {
+            "count" : 9,
+            "item" : "Mar-13"
+          }, {
+            "count" : 8,
+            "item" : "Apr-13"
+          }, {
+            "count" : 7,
+            "item" : "May-13"
+          }, {
+            "count" : 6,
+            "item" : "Jun-13"
+          }, {
+            "count" : 5,
+            "item" : "Jul-13"
+          }, {
+            "count" : 4,
+            "item" : "Aug-13"
+          }, {
+            "count" : 3,
+            "item" : "Sep-13"
+          }, {
+            "count" : 2,
+            "item" : "Oct-13"
+          }, {
+            "count" : 1,
+            "item" : "Nov-13"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389527,
+        "name" : "Quarter-FY",
+        "dataTypeName" : "text",
+        "fieldName" : "quarter_fy",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21366479,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 15,
+          "smallest" : "Q1 FY13",
+          "null" : 33,
+          "largest" : "Q4 FY15",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Q4 FY10"
+          }, {
+            "count" : 19,
+            "item" : "Q4 FY11"
+          }, {
+            "count" : 18,
+            "item" : "Q4 FY12"
+          }, {
+            "count" : 17,
+            "item" : "Q1 FY13"
+          }, {
+            "count" : 16,
+            "item" : "Q2 FY13"
+          }, {
+            "count" : 15,
+            "item" : "Q3 FY13"
+          }, {
+            "count" : 14,
+            "item" : "Q4 FY13"
+          }, {
+            "count" : 13,
+            "item" : "Q1 FY14"
+          }, {
+            "count" : 12,
+            "item" : "Q2 FY14"
+          }, {
+            "count" : 11,
+            "item" : "Q3 FY14"
+          }, {
+            "count" : 10,
+            "item" : "Q4 FY14"
+          }, {
+            "count" : 9,
+            "item" : "Q1 FY15"
+          }, {
+            "count" : 8,
+            "item" : "Q2 FY15"
+          }, {
+            "count" : 7,
+            "item" : "Q3 FY15"
+          }, {
+            "count" : 6,
+            "item" : "Q4 FY15"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389528,
+        "name" : "Annual-FY",
+        "dataTypeName" : "text",
+        "fieldName" : "annual_fy",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21366480,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "FY 2010",
+          "null" : 42,
+          "largest" : "FY 2015",
+          "top" : [ {
+            "count" : 20,
+            "item" : "FY 2010"
+          }, {
+            "count" : 19,
+            "item" : "FY 2011"
+          }, {
+            "count" : 18,
+            "item" : "FY 2012"
+          }, {
+            "count" : 17,
+            "item" : "FY 2013"
+          }, {
+            "count" : 16,
+            "item" : "FY 2014"
+          }, {
+            "count" : 15,
+            "item" : "FY 2015"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389529,
+        "name" : "Average 311 Call Wait (minutes) Actual (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "average_311_call_wait_minutes_actual_monthly",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21366485,
+        "width" : 676,
+        "cachedContents" : {
+          "non_null" : 22,
+          "smallest" : "0.0",
+          "sum" : "37.3",
+          "null" : 26,
+          "average" : "1.695454545454545",
+          "largest" : "5.9",
+          "top" : [ {
+            "count" : 20,
+            "item" : "5.1"
+          }, {
+            "count" : 19,
+            "item" : "5.9"
+          }, {
+            "count" : 18,
+            "item" : "3.7"
+          }, {
+            "count" : 17,
+            "item" : "1.0"
+          }, {
+            "count" : 16,
+            "item" : "3.5"
+          }, {
+            "count" : 15,
+            "item" : "1.4"
+          }, {
+            "count" : 14,
+            "item" : "1.6"
+          }, {
+            "count" : 13,
+            "item" : "1.5"
+          }, {
+            "count" : 12,
+            "item" : "1.2"
+          }, {
+            "count" : 11,
+            "item" : "0.6"
+          }, {
+            "count" : 10,
+            "item" : "1.1"
+          }, {
+            "count" : 9,
+            "item" : "0.4"
+          }, {
+            "count" : 8,
+            "item" : "0.5"
+          }, {
+            "count" : 7,
+            "item" : "0.9"
+          }, {
+            "count" : 6,
+            "item" : "0.7"
+          }, {
+            "count" : 5,
+            "item" : "1.3"
+          }, {
+            "count" : 4,
+            "item" : "0.0"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389530,
+        "name" : "TARGET: Average 311 Call Wait (minutes) (under) (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "target_average_311_call_wait_minutes_under_monthly",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21366486,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 30,
+          "smallest" : "0.0",
+          "sum" : "63.0",
+          "null" : 18,
+          "average" : "2.1",
+          "largest" : "3.0",
+          "top" : [ {
+            "count" : 20,
+            "item" : "3.0"
+          }, {
+            "count" : 19,
+            "item" : "0.0"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389531,
+        "name" : "% of 311 Calls Answered within 4 Minutes (Annual FY)",
+        "dataTypeName" : "percent",
+        "fieldName" : "of_311_calls_answered_within_4_minutes_annual_fy",
+        "position" : 7,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21366487,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "0.0",
+          "sum" : "419.0",
+          "null" : 42,
+          "average" : "69.83333333333333",
+          "largest" : "91.0",
+          "top" : [ {
+            "count" : 20,
+            "item" : "82.0"
+          }, {
+            "count" : 19,
+            "item" : "80.0"
+          }, {
+            "count" : 18,
+            "item" : "83.0"
+          }, {
+            "count" : 17,
+            "item" : "91.0"
+          }, {
+            "count" : 16,
+            "item" : "0.0"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389532,
+        "name" : "PROJECTED: % of 311 Calls Answered within 4 Minutes (Annual FY)",
+        "dataTypeName" : "percent",
+        "fieldName" : "projected_of_311_calls_answered_within_4_minutes_annual_fy",
+        "position" : 8,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21366488,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "0.0",
+          "sum" : "95.0",
+          "null" : 46,
+          "average" : "47.5",
+          "largest" : "95.0",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0.0"
+          }, {
+            "count" : 19,
+            "item" : "95.0"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389533,
+        "name" : "% of 311 Calls Answered within 2 Minutes (Quarterly)",
+        "dataTypeName" : "percent",
+        "fieldName" : "of_311_calls_answered_within_2_minutes_quarterly",
+        "position" : 9,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21522177,
+        "width" : 368,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "78.9",
+          "sum" : "432.7",
+          "null" : 43,
+          "average" : "86.54",
+          "largest" : "92.2",
+          "top" : [ {
+            "count" : 20,
+            "item" : "78.9"
+          }, {
+            "count" : 19,
+            "item" : "86.4"
+          }, {
+            "count" : 18,
+            "item" : "91.9"
+          }, {
+            "count" : 17,
+            "item" : "92.2"
+          }, {
+            "count" : 16,
+            "item" : "83.3"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389534,
+        "name" : "% of 311 Calls Answered within 2 Minutes (Monthly)",
+        "dataTypeName" : "percent",
+        "fieldName" : "of_311_calls_answered_within_2_minutes_monthly",
+        "position" : 10,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21522178,
+        "width" : 380,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "76.7",
+          "sum" : "808.7",
+          "null" : 39,
+          "average" : "89.85555555555556",
+          "largest" : "96.5",
+          "top" : [ {
+            "count" : 20,
+            "item" : "91.3"
+          }, {
+            "count" : 19,
+            "item" : "92.4"
+          }, {
+            "count" : 18,
+            "item" : "91.9"
+          }, {
+            "count" : 17,
+            "item" : "96.5"
+          }, {
+            "count" : 16,
+            "item" : "94.4"
+          }, {
+            "count" : 15,
+            "item" : "86.1"
+          }, {
+            "count" : 14,
+            "item" : "90.8"
+          }, {
+            "count" : 13,
+            "item" : "88.6"
+          }, {
+            "count" : 12,
+            "item" : "76.7"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389535,
+        "name" : "TARGET: % of 311 Calls Answered within 2 Minutes (Monthly)",
+        "dataTypeName" : "percent",
+        "fieldName" : "target_of_311_calls_answered_within_2_minutes_monthly",
+        "position" : 11,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21522179,
+        "width" : 360,
+        "cachedContents" : {
+          "non_null" : 18,
+          "smallest" : "0",
+          "sum" : "0.0",
+          "null" : 30,
+          "average" : "0.0",
+          "largest" : "0",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0"
+          }, {
+            "count" : 19,
+            "item" : "0.0"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389536,
+        "name" : "Response to Desktop Support Requests (Annual FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "response_to_desktop_support_requests_annual_fy",
+        "position" : 12,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21366489,
+        "width" : 676,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "0",
+          "sum" : "28473",
+          "null" : 42,
+          "average" : "4745.5",
+          "largest" : "6686",
+          "top" : [ {
+            "count" : 20,
+            "item" : "6531"
+          }, {
+            "count" : 19,
+            "item" : "6686"
+          }, {
+            "count" : 18,
+            "item" : "6324"
+          }, {
+            "count" : 17,
+            "item" : "5677"
+          }, {
+            "count" : 16,
+            "item" : "3255"
+          }, {
+            "count" : 15,
+            "item" : "0"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389537,
+        "name" : "PROJECTED: Response to Desktop Support Requests (Annual FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "projected_response_to_desktop_support_requests_annual_fy",
+        "position" : 13,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21366490,
+        "width" : 702,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "3300",
+          "sum" : "9870",
+          "null" : 46,
+          "average" : "4935",
+          "largest" : "6570",
+          "top" : [ {
+            "count" : 20,
+            "item" : "3300"
+          }, {
+            "count" : 19,
+            "item" : "6570"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389538,
+        "name" : "Response to Desktop Support Requests (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "response_to_desktop_support_requests_monthly",
+        "position" : 14,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21522189,
+        "width" : 327,
+        "cachedContents" : {
+          "non_null" : 12,
+          "smallest" : "0",
+          "sum" : "852",
+          "null" : 36,
+          "average" : "71",
+          "largest" : "319",
+          "top" : [ {
+            "count" : 20,
+            "item" : "289"
+          }, {
+            "count" : 19,
+            "item" : "319"
+          }, {
+            "count" : 18,
+            "item" : "244"
+          }, {
+            "count" : 17,
+            "item" : "0"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389539,
+        "name" : "PROJECTED: Response to Desktop Support Requests (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "projected_response_to_desktop_support_requests_monthly",
+        "position" : 15,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21522204,
+        "width" : 420,
+        "cachedContents" : {
+          "non_null" : 12,
+          "smallest" : "0",
+          "sum" : "7438",
+          "null" : 36,
+          "average" : "619.8333333333333",
+          "largest" : "6570",
+          "top" : [ {
+            "count" : 20,
+            "item" : "275"
+          }, {
+            "count" : 19,
+            "item" : "289"
+          }, {
+            "count" : 18,
+            "item" : "304"
+          }, {
+            "count" : 17,
+            "item" : "0"
+          }, {
+            "count" : 16,
+            "item" : "6570"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389540,
+        "name" : "% of Total 311 Calls Answered (Monthly)",
+        "dataTypeName" : "percent",
+        "fieldName" : "of_total_311_calls_answered_monthly",
+        "position" : 16,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21985212,
+        "width" : 443,
+        "cachedContents" : {
+          "non_null" : 29,
+          "smallest" : "0.0",
+          "sum" : "1719.1",
+          "null" : 19,
+          "average" : "59.27931034482759",
+          "largest" : "94.6",
+          "top" : [ {
+            "count" : 20,
+            "item" : "55.6"
+          }, {
+            "count" : 19,
+            "item" : "71.0"
+          }, {
+            "count" : 18,
+            "item" : "91.0"
+          }, {
+            "count" : 17,
+            "item" : "73.0"
+          }, {
+            "count" : 16,
+            "item" : "70.2"
+          }, {
+            "count" : 15,
+            "item" : "89.2"
+          }, {
+            "count" : 14,
+            "item" : "86.2"
+          }, {
+            "count" : 13,
+            "item" : "88.6"
+          }, {
+            "count" : 12,
+            "item" : "89.9"
+          }, {
+            "count" : 11,
+            "item" : "93.3"
+          }, {
+            "count" : 10,
+            "item" : "89.7"
+          }, {
+            "count" : 9,
+            "item" : "94.6"
+          }, {
+            "count" : 8,
+            "item" : "93.0"
+          }, {
+            "count" : 7,
+            "item" : "90.1"
+          }, {
+            "count" : 6,
+            "item" : "92.2"
+          }, {
+            "count" : 5,
+            "item" : "88.4"
+          }, {
+            "count" : 4,
+            "item" : "85.5"
+          }, {
+            "count" : 3,
+            "item" : "0.0"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389541,
+        "name" : "TARGET: % of Total 311 Calls Answered (Monthly)",
+        "dataTypeName" : "percent",
+        "fieldName" : "target_of_total_311_calls_answered_monthly",
+        "position" : 17,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21985213,
+        "width" : 334,
+        "cachedContents" : {
+          "non_null" : 19,
+          "smallest" : "95",
+          "sum" : "1805",
+          "null" : 29,
+          "average" : "95",
+          "largest" : "95",
+          "top" : [ {
+            "count" : 20,
+            "item" : "95"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389542,
+        "name" : "% of Satisfaction as Good to Excellent for Service Desk End User Satisfaction Survey",
+        "dataTypeName" : "percent",
+        "fieldName" : "of_satisfaction_as_good_to_excellent_for_service_desk_end_user_satisfaction_survey",
+        "position" : 18,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21985214,
+        "width" : 556,
+        "cachedContents" : {
+          "non_null" : 22,
+          "smallest" : "0.00",
+          "sum" : "368.47",
+          "null" : 26,
+          "average" : "16.74863636363636",
+          "largest" : "93.70",
+          "top" : [ {
+            "count" : 20,
+            "item" : "91.27"
+          }, {
+            "count" : 19,
+            "item" : "91.51"
+          }, {
+            "count" : 18,
+            "item" : "91.99"
+          }, {
+            "count" : 17,
+            "item" : "93.70"
+          }, {
+            "count" : 16,
+            "item" : "0.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389543,
+        "name" : "TARGET: % of Satisfaction as Good to Excellent for Service Desk End User Satisfaction Survey (Monthly)",
+        "dataTypeName" : "percent",
+        "fieldName" : "target_of_satisfaction_as_good_to_excellent_for_service_desk_end_user_satisfaction_survey_monthly",
+        "position" : 19,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21985215,
+        "width" : 657,
+        "cachedContents" : {
+          "non_null" : 13,
+          "smallest" : "0.00",
+          "sum" : "380.00",
+          "null" : 35,
+          "average" : "29.23076923076923",
+          "largest" : "95",
+          "top" : [ {
+            "count" : 20,
+            "item" : "95"
+          }, {
+            "count" : 19,
+            "item" : "95.00"
+          }, {
+            "count" : 18,
+            "item" : "0.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389544,
+        "name" : "Number of MyLA311 App Downloads (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "number_of_myla311_app_downloads_monthly",
+        "position" : 20,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21985216,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 29,
+          "smallest" : "0",
+          "sum" : "29306",
+          "null" : 19,
+          "average" : "1010.551724137931",
+          "largest" : "9592",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0"
+          }, {
+            "count" : 19,
+            "item" : "898"
+          }, {
+            "count" : 18,
+            "item" : "9592"
+          }, {
+            "count" : 17,
+            "item" : "820"
+          }, {
+            "count" : 16,
+            "item" : "1138"
+          }, {
+            "count" : 15,
+            "item" : "1933"
+          }, {
+            "count" : 14,
+            "item" : "1169"
+          }, {
+            "count" : 13,
+            "item" : "961"
+          }, {
+            "count" : 12,
+            "item" : "877"
+          }, {
+            "count" : 11,
+            "item" : "812"
+          }, {
+            "count" : 10,
+            "item" : "780"
+          }, {
+            "count" : 9,
+            "item" : "825"
+          }, {
+            "count" : 8,
+            "item" : "1092"
+          }, {
+            "count" : 7,
+            "item" : "1232"
+          }, {
+            "count" : 6,
+            "item" : "953"
+          }, {
+            "count" : 5,
+            "item" : "1199"
+          }, {
+            "count" : 4,
+            "item" : "1316"
+          }, {
+            "count" : 3,
+            "item" : "1035"
+          }, {
+            "count" : 2,
+            "item" : "1209"
+          }, {
+            "count" : 1,
+            "item" : "1465"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389545,
+        "name" : "TARGET: Number of MyLA311 App Downloads (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "target_number_of_myla311_app_downloads_monthly",
+        "position" : 21,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21985217,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "0",
+          "sum" : "0",
+          "null" : 38,
+          "average" : "0",
+          "largest" : "0",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389546,
+        "name" : "Number of MyLA311 requests submitted (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "number_of_myla311_requests_submitted_monthly",
+        "position" : 22,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21985218,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 19,
+          "smallest" : "0",
+          "sum" : "54511",
+          "null" : 29,
+          "average" : "2869",
+          "largest" : "6848",
+          "top" : [ {
+            "count" : 20,
+            "item" : "3126"
+          }, {
+            "count" : 19,
+            "item" : "3271"
+          }, {
+            "count" : 18,
+            "item" : "4629"
+          }, {
+            "count" : 17,
+            "item" : "5594"
+          }, {
+            "count" : 16,
+            "item" : "5715"
+          }, {
+            "count" : 15,
+            "item" : "5443"
+          }, {
+            "count" : 14,
+            "item" : "6390"
+          }, {
+            "count" : 13,
+            "item" : "6848"
+          }, {
+            "count" : 12,
+            "item" : "6814"
+          }, {
+            "count" : 11,
+            "item" : "6681"
+          }, {
+            "count" : 10,
+            "item" : "0"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389547,
+        "name" : "311 Request - Bulky Item Pick-Up (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "_311_request_bulky_item_pick_up_monthly",
+        "position" : 23,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21985219,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 29,
+          "smallest" : "0",
+          "sum" : "209302",
+          "null" : 19,
+          "average" : "7217.310344827586",
+          "largest" : "12806",
+          "top" : [ {
+            "count" : 20,
+            "item" : "6501"
+          }, {
+            "count" : 19,
+            "item" : "9088"
+          }, {
+            "count" : 18,
+            "item" : "9604"
+          }, {
+            "count" : 17,
+            "item" : "10113"
+          }, {
+            "count" : 16,
+            "item" : "9959"
+          }, {
+            "count" : 15,
+            "item" : "12068"
+          }, {
+            "count" : 14,
+            "item" : "12806"
+          }, {
+            "count" : 13,
+            "item" : "11529"
+          }, {
+            "count" : 12,
+            "item" : "11936"
+          }, {
+            "count" : 11,
+            "item" : "9509"
+          }, {
+            "count" : 10,
+            "item" : "9723"
+          }, {
+            "count" : 9,
+            "item" : "11034"
+          }, {
+            "count" : 8,
+            "item" : "8454"
+          }, {
+            "count" : 7,
+            "item" : "10107"
+          }, {
+            "count" : 6,
+            "item" : "10247"
+          }, {
+            "count" : 5,
+            "item" : "10408"
+          }, {
+            "count" : 4,
+            "item" : "10826"
+          }, {
+            "count" : 3,
+            "item" : "12520"
+          }, {
+            "count" : 2,
+            "item" : "11297"
+          }, {
+            "count" : 1,
+            "item" : "11573"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389548,
+        "name" : "311 Request - Online Request for Permit Inspection (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "_311_request_online_request_for_permit_inspection_monthly",
+        "position" : 24,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21985220,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 29,
+          "smallest" : "0",
+          "sum" : "156683",
+          "null" : 19,
+          "average" : "5402.862068965517",
+          "largest" : "10239",
+          "top" : [ {
+            "count" : 20,
+            "item" : "3944"
+          }, {
+            "count" : 19,
+            "item" : "5024"
+          }, {
+            "count" : 18,
+            "item" : "6984"
+          }, {
+            "count" : 17,
+            "item" : "7492"
+          }, {
+            "count" : 16,
+            "item" : "7560"
+          }, {
+            "count" : 15,
+            "item" : "7007"
+          }, {
+            "count" : 14,
+            "item" : "7219"
+          }, {
+            "count" : 13,
+            "item" : "6704"
+          }, {
+            "count" : 12,
+            "item" : "8458"
+          }, {
+            "count" : 11,
+            "item" : "7020"
+          }, {
+            "count" : 10,
+            "item" : "6742"
+          }, {
+            "count" : 9,
+            "item" : "8598"
+          }, {
+            "count" : 8,
+            "item" : "7349"
+          }, {
+            "count" : 7,
+            "item" : "7785"
+          }, {
+            "count" : 6,
+            "item" : "9302"
+          }, {
+            "count" : 5,
+            "item" : "9429"
+          }, {
+            "count" : 4,
+            "item" : "9773"
+          }, {
+            "count" : 3,
+            "item" : "9879"
+          }, {
+            "count" : 2,
+            "item" : "10239"
+          }, {
+            "count" : 1,
+            "item" : "10175"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389549,
+        "name" : "311 Request - Graffiti Removal - Community Beautification (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "_311_request_graffiti_removal_community_beautification_monthly",
+        "position" : 25,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21985237,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 29,
+          "smallest" : "0",
+          "sum" : "77069",
+          "null" : 19,
+          "average" : "2657.551724137931",
+          "largest" : "5528",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2299"
+          }, {
+            "count" : 19,
+            "item" : "2873"
+          }, {
+            "count" : 18,
+            "item" : "3230"
+          }, {
+            "count" : 17,
+            "item" : "3169"
+          }, {
+            "count" : 16,
+            "item" : "2615"
+          }, {
+            "count" : 15,
+            "item" : "2797"
+          }, {
+            "count" : 14,
+            "item" : "2831"
+          }, {
+            "count" : 13,
+            "item" : "2541"
+          }, {
+            "count" : 12,
+            "item" : "3629"
+          }, {
+            "count" : 11,
+            "item" : "3811"
+          }, {
+            "count" : 10,
+            "item" : "3906"
+          }, {
+            "count" : 9,
+            "item" : "4769"
+          }, {
+            "count" : 8,
+            "item" : "4268"
+          }, {
+            "count" : 7,
+            "item" : "4996"
+          }, {
+            "count" : 6,
+            "item" : "5528"
+          }, {
+            "count" : 5,
+            "item" : "5180"
+          }, {
+            "count" : 4,
+            "item" : "5270"
+          }, {
+            "count" : 3,
+            "item" : "4822"
+          }, {
+            "count" : 2,
+            "item" : "4565"
+          }, {
+            "count" : 1,
+            "item" : "3970"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389550,
+        "name" : "311 Request - Subject Specialty Group - LADBS (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "_311_request_subject_specialty_group_ladbs_monthly",
+        "position" : 26,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21985238,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 29,
+          "smallest" : "0",
+          "sum" : "65748",
+          "null" : 19,
+          "average" : "2267.172413793103",
+          "largest" : "5423",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1549"
+          }, {
+            "count" : 19,
+            "item" : "2337"
+          }, {
+            "count" : 18,
+            "item" : "2446"
+          }, {
+            "count" : 17,
+            "item" : "2705"
+          }, {
+            "count" : 16,
+            "item" : "2092"
+          }, {
+            "count" : 15,
+            "item" : "2633"
+          }, {
+            "count" : 14,
+            "item" : "2728"
+          }, {
+            "count" : 13,
+            "item" : "2501"
+          }, {
+            "count" : 12,
+            "item" : "1915"
+          }, {
+            "count" : 11,
+            "item" : "1917"
+          }, {
+            "count" : 10,
+            "item" : "2925"
+          }, {
+            "count" : 9,
+            "item" : "3522"
+          }, {
+            "count" : 8,
+            "item" : "3321"
+          }, {
+            "count" : 7,
+            "item" : "4284"
+          }, {
+            "count" : 6,
+            "item" : "5423"
+          }, {
+            "count" : 5,
+            "item" : "5021"
+          }, {
+            "count" : 4,
+            "item" : "4424"
+          }, {
+            "count" : 3,
+            "item" : "4577"
+          }, {
+            "count" : 2,
+            "item" : "4917"
+          }, {
+            "count" : 1,
+            "item" : "4511"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389551,
+        "name" : "311 Request - Report a Property Violation (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "_311_request_report_a_property_violation_monthly",
+        "position" : 27,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21985239,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 29,
+          "smallest" : "0",
+          "sum" : "50613",
+          "null" : 19,
+          "average" : "1745.275862068966",
+          "largest" : "3345",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1428"
+          }, {
+            "count" : 19,
+            "item" : "1721"
+          }, {
+            "count" : 18,
+            "item" : "2334"
+          }, {
+            "count" : 17,
+            "item" : "2270"
+          }, {
+            "count" : 16,
+            "item" : "1839"
+          }, {
+            "count" : 15,
+            "item" : "2064"
+          }, {
+            "count" : 14,
+            "item" : "2356"
+          }, {
+            "count" : 13,
+            "item" : "2155"
+          }, {
+            "count" : 12,
+            "item" : "2607"
+          }, {
+            "count" : 11,
+            "item" : "2525"
+          }, {
+            "count" : 10,
+            "item" : "2665"
+          }, {
+            "count" : 9,
+            "item" : "2514"
+          }, {
+            "count" : 8,
+            "item" : "2635"
+          }, {
+            "count" : 7,
+            "item" : "2991"
+          }, {
+            "count" : 6,
+            "item" : "2747"
+          }, {
+            "count" : 5,
+            "item" : "2949"
+          }, {
+            "count" : 4,
+            "item" : "3187"
+          }, {
+            "count" : 3,
+            "item" : "3345"
+          }, {
+            "count" : 2,
+            "item" : "3119"
+          }, {
+            "count" : 1,
+            "item" : "3162"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389552,
+        "name" : "311 Request - Pool Noise Inspection (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "_311_request_pool_noise_inspection_monthly",
+        "position" : 28,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21985240,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 29,
+          "smallest" : "0",
+          "sum" : "28523",
+          "null" : 19,
+          "average" : "983.5517241379310",
+          "largest" : "2825",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1444"
+          }, {
+            "count" : 19,
+            "item" : "2051"
+          }, {
+            "count" : 18,
+            "item" : "1730"
+          }, {
+            "count" : 17,
+            "item" : "1570"
+          }, {
+            "count" : 16,
+            "item" : "1513"
+          }, {
+            "count" : 15,
+            "item" : "1360"
+          }, {
+            "count" : 14,
+            "item" : "2079"
+          }, {
+            "count" : 13,
+            "item" : "2104"
+          }, {
+            "count" : 12,
+            "item" : "2825"
+          }, {
+            "count" : 11,
+            "item" : "988"
+          }, {
+            "count" : 10,
+            "item" : "1336"
+          }, {
+            "count" : 9,
+            "item" : "1324"
+          }, {
+            "count" : 8,
+            "item" : "1412"
+          }, {
+            "count" : 7,
+            "item" : "1228"
+          }, {
+            "count" : 6,
+            "item" : "875"
+          }, {
+            "count" : 5,
+            "item" : "1387"
+          }, {
+            "count" : 4,
+            "item" : "895"
+          }, {
+            "count" : 3,
+            "item" : "939"
+          }, {
+            "count" : 2,
+            "item" : "1215"
+          }, {
+            "count" : 1,
+            "item" : "248"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389553,
+        "name" : "311 Request - 877 ASK-LAPD - Non-Emergency Police Service (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "_311_request_877_ask_lapd_non_emergency_police_service_monthly",
+        "position" : 29,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21985241,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 29,
+          "smallest" : "0",
+          "sum" : "31687",
+          "null" : 19,
+          "average" : "1092.655172413793",
+          "largest" : "1908",
+          "top" : [ {
+            "count" : 20,
+            "item" : "865"
+          }, {
+            "count" : 19,
+            "item" : "1306"
+          }, {
+            "count" : 18,
+            "item" : "1726"
+          }, {
+            "count" : 17,
+            "item" : "1828"
+          }, {
+            "count" : 16,
+            "item" : "1431"
+          }, {
+            "count" : 15,
+            "item" : "1383"
+          }, {
+            "count" : 14,
+            "item" : "1735"
+          }, {
+            "count" : 13,
+            "item" : "1589"
+          }, {
+            "count" : 12,
+            "item" : "1611"
+          }, {
+            "count" : 11,
+            "item" : "1585"
+          }, {
+            "count" : 10,
+            "item" : "1362"
+          }, {
+            "count" : 9,
+            "item" : "1508"
+          }, {
+            "count" : 8,
+            "item" : "1473"
+          }, {
+            "count" : 7,
+            "item" : "1621"
+          }, {
+            "count" : 6,
+            "item" : "1531"
+          }, {
+            "count" : 5,
+            "item" : "1815"
+          }, {
+            "count" : 4,
+            "item" : "1755"
+          }, {
+            "count" : 3,
+            "item" : "1908"
+          }, {
+            "count" : 2,
+            "item" : "1821"
+          }, {
+            "count" : 1,
+            "item" : "1834"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389554,
+        "name" : "311 Request - Police Station Locations (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "_311_request_police_station_locations_monthly",
+        "position" : 30,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21985242,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 29,
+          "smallest" : "0",
+          "sum" : "23439",
+          "null" : 19,
+          "average" : "808.2413793103448",
+          "largest" : "1422",
+          "top" : [ {
+            "count" : 20,
+            "item" : "562"
+          }, {
+            "count" : 19,
+            "item" : "819"
+          }, {
+            "count" : 18,
+            "item" : "1346"
+          }, {
+            "count" : 17,
+            "item" : "1422"
+          }, {
+            "count" : 16,
+            "item" : "1139"
+          }, {
+            "count" : 15,
+            "item" : "1058"
+          }, {
+            "count" : 14,
+            "item" : "1350"
+          }, {
+            "count" : 13,
+            "item" : "1129"
+          }, {
+            "count" : 12,
+            "item" : "1261"
+          }, {
+            "count" : 11,
+            "item" : "1203"
+          }, {
+            "count" : 10,
+            "item" : "1027"
+          }, {
+            "count" : 9,
+            "item" : "1094"
+          }, {
+            "count" : 8,
+            "item" : "1061"
+          }, {
+            "count" : 7,
+            "item" : "1145"
+          }, {
+            "count" : 6,
+            "item" : "1287"
+          }, {
+            "count" : 5,
+            "item" : "1410"
+          }, {
+            "count" : 4,
+            "item" : "1301"
+          }, {
+            "count" : 3,
+            "item" : "1307"
+          }, {
+            "count" : 2,
+            "item" : "1252"
+          }, {
+            "count" : 1,
+            "item" : "1266"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389555,
+        "name" : "311 Request - Report Streetlight Outages (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "_311_request_report_streetlight_outages_monthly",
+        "position" : 31,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21985243,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 29,
+          "smallest" : "0",
+          "sum" : "20071",
+          "null" : 19,
+          "average" : "692.1034482758621",
+          "largest" : "1260",
+          "top" : [ {
+            "count" : 20,
+            "item" : "946"
+          }, {
+            "count" : 19,
+            "item" : "996"
+          }, {
+            "count" : 18,
+            "item" : "1162"
+          }, {
+            "count" : 17,
+            "item" : "1065"
+          }, {
+            "count" : 16,
+            "item" : "764"
+          }, {
+            "count" : 15,
+            "item" : "886"
+          }, {
+            "count" : 14,
+            "item" : "1080"
+          }, {
+            "count" : 13,
+            "item" : "1191"
+          }, {
+            "count" : 12,
+            "item" : "1181"
+          }, {
+            "count" : 11,
+            "item" : "1064"
+          }, {
+            "count" : 10,
+            "item" : "972"
+          }, {
+            "count" : 9,
+            "item" : "1091"
+          }, {
+            "count" : 8,
+            "item" : "917"
+          }, {
+            "count" : 7,
+            "item" : "1260"
+          }, {
+            "count" : 6,
+            "item" : "949"
+          }, {
+            "count" : 5,
+            "item" : "803"
+          }, {
+            "count" : 4,
+            "item" : "811"
+          }, {
+            "count" : 3,
+            "item" : "978"
+          }, {
+            "count" : 2,
+            "item" : "989"
+          }, {
+            "count" : 1,
+            "item" : "966"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389556,
+        "name" : "311 Request - Official Police Garage Tow (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "_311_request_official_police_garage_tow_monthly",
+        "position" : 32,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21985244,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 29,
+          "smallest" : "0",
+          "sum" : "21189",
+          "null" : 19,
+          "average" : "730.6551724137931",
+          "largest" : "1270",
+          "top" : [ {
+            "count" : 20,
+            "item" : "665"
+          }, {
+            "count" : 19,
+            "item" : "770"
+          }, {
+            "count" : 18,
+            "item" : "1095"
+          }, {
+            "count" : 17,
+            "item" : "1098"
+          }, {
+            "count" : 16,
+            "item" : "1047"
+          }, {
+            "count" : 15,
+            "item" : "890"
+          }, {
+            "count" : 14,
+            "item" : "1167"
+          }, {
+            "count" : 13,
+            "item" : "1128"
+          }, {
+            "count" : 12,
+            "item" : "1059"
+          }, {
+            "count" : 11,
+            "item" : "947"
+          }, {
+            "count" : 10,
+            "item" : "1022"
+          }, {
+            "count" : 9,
+            "item" : "1115"
+          }, {
+            "count" : 8,
+            "item" : "872"
+          }, {
+            "count" : 7,
+            "item" : "1117"
+          }, {
+            "count" : 6,
+            "item" : "1270"
+          }, {
+            "count" : 5,
+            "item" : "1200"
+          }, {
+            "count" : 4,
+            "item" : "1241"
+          }, {
+            "count" : 3,
+            "item" : "1201"
+          }, {
+            "count" : 2,
+            "item" : "1137"
+          }, {
+            "count" : 1,
+            "item" : "1148"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389557,
+        "name" : "% of Calls Abandoned (Hung Up) (Monthly)",
+        "dataTypeName" : "percent",
+        "fieldName" : "of_calls_abandoned_hung_up_monthly",
+        "position" : 33,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21985245,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 29,
+          "smallest" : "0",
+          "sum" : "247.8",
+          "null" : 19,
+          "average" : "8.544827586206897",
+          "largest" : "44",
+          "top" : [ {
+            "count" : 20,
+            "item" : "44"
+          }, {
+            "count" : 19,
+            "item" : "29"
+          }, {
+            "count" : 18,
+            "item" : "9"
+          }, {
+            "count" : 17,
+            "item" : "10"
+          }, {
+            "count" : 16,
+            "item" : "27"
+          }, {
+            "count" : 15,
+            "item" : "30"
+          }, {
+            "count" : 14,
+            "item" : "10.8"
+          }, {
+            "count" : 13,
+            "item" : "13.8"
+          }, {
+            "count" : 12,
+            "item" : "11.4"
+          }, {
+            "count" : 11,
+            "item" : "10.1"
+          }, {
+            "count" : 10,
+            "item" : "6.7"
+          }, {
+            "count" : 9,
+            "item" : "10.3"
+          }, {
+            "count" : 8,
+            "item" : "5.4"
+          }, {
+            "count" : 7,
+            "item" : "7.0"
+          }, {
+            "count" : 6,
+            "item" : "9.9"
+          }, {
+            "count" : 5,
+            "item" : "0"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389558,
+        "name" : "TARGET: % of Calls Abandoned (Hung Up) (Monthly)",
+        "dataTypeName" : "percent",
+        "fieldName" : "target_of_calls_abandoned_hung_up_monthly",
+        "position" : 34,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21985246,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 12,
+          "smallest" : "0",
+          "sum" : "0",
+          "null" : 36,
+          "average" : "0",
+          "largest" : "0",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389559,
+        "name" : "% of Calls - Spanish (Monthly)",
+        "dataTypeName" : "percent",
+        "fieldName" : "of_calls_spanish_monthly",
+        "position" : 35,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21985247,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 29,
+          "smallest" : "0",
+          "sum" : "129.3",
+          "null" : 19,
+          "average" : "4.458620689655172",
+          "largest" : "8.6",
+          "top" : [ {
+            "count" : 20,
+            "item" : "7.4"
+          }, {
+            "count" : 19,
+            "item" : "7.8"
+          }, {
+            "count" : 18,
+            "item" : "7.9"
+          }, {
+            "count" : 17,
+            "item" : "7.2"
+          }, {
+            "count" : 16,
+            "item" : "8.5"
+          }, {
+            "count" : 15,
+            "item" : "8.6"
+          }, {
+            "count" : 14,
+            "item" : "8.2"
+          }, {
+            "count" : 13,
+            "item" : "7.3"
+          }, {
+            "count" : 12,
+            "item" : "6.8"
+          }, {
+            "count" : 11,
+            "item" : "7.5"
+          }, {
+            "count" : 10,
+            "item" : "7.6"
+          }, {
+            "count" : 9,
+            "item" : "0"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389560,
+        "name" : "% of Total 311 Requests Using MyLA311 (Monthly)",
+        "dataTypeName" : "percent",
+        "fieldName" : "of_total_311_requests_using_myla311_monthly",
+        "position" : 36,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21985248,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 28,
+          "smallest" : "0",
+          "sum" : "52.6",
+          "null" : 20,
+          "average" : "1.878571428571429",
+          "largest" : "4.9",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0.1"
+          }, {
+            "count" : 19,
+            "item" : "2.8"
+          }, {
+            "count" : 18,
+            "item" : "1.8"
+          }, {
+            "count" : 17,
+            "item" : "2.1"
+          }, {
+            "count" : 16,
+            "item" : "2.5"
+          }, {
+            "count" : 15,
+            "item" : "3.8"
+          }, {
+            "count" : 14,
+            "item" : "4.1"
+          }, {
+            "count" : 13,
+            "item" : "3.1"
+          }, {
+            "count" : 12,
+            "item" : "3.7"
+          }, {
+            "count" : 11,
+            "item" : "3.2"
+          }, {
+            "count" : 10,
+            "item" : "2.7"
+          }, {
+            "count" : 9,
+            "item" : "4.5"
+          }, {
+            "count" : 8,
+            "item" : "4.7"
+          }, {
+            "count" : 7,
+            "item" : "4.6"
+          }, {
+            "count" : 6,
+            "item" : "4.0"
+          }, {
+            "count" : 5,
+            "item" : "4.9"
+          }, {
+            "count" : 4,
+            "item" : "0"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389561,
+        "name" : "% of Total 311 Requests Using LACity.org (Monthly)",
+        "dataTypeName" : "percent",
+        "fieldName" : "of_total_311_requests_using_lacity_org_monthly",
+        "position" : 37,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21985249,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 28,
+          "smallest" : "0.0",
+          "sum" : "10.1",
+          "null" : 20,
+          "average" : "0.3607142857142857",
+          "largest" : "1.2",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0.0"
+          }, {
+            "count" : 19,
+            "item" : "0.2"
+          }, {
+            "count" : 18,
+            "item" : "0.5"
+          }, {
+            "count" : 17,
+            "item" : "0.6"
+          }, {
+            "count" : 16,
+            "item" : "0.8"
+          }, {
+            "count" : 15,
+            "item" : "1.0"
+          }, {
+            "count" : 14,
+            "item" : "1.2"
+          }, {
+            "count" : 13,
+            "item" : "1.1"
+          }, {
+            "count" : 12,
+            "item" : "0"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389562,
+        "name" : "# of MyLA311 MyLA311 APP Downloads (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "of_myla311_myla311_app_downloads_monthly",
+        "position" : 38,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21985250,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 28,
+          "smallest" : "0",
+          "sum" : "29306",
+          "null" : 20,
+          "average" : "1046.642857142857",
+          "largest" : "9592",
+          "top" : [ {
+            "count" : 20,
+            "item" : "898"
+          }, {
+            "count" : 19,
+            "item" : "9592"
+          }, {
+            "count" : 18,
+            "item" : "820"
+          }, {
+            "count" : 17,
+            "item" : "1138"
+          }, {
+            "count" : 16,
+            "item" : "1933"
+          }, {
+            "count" : 15,
+            "item" : "1169"
+          }, {
+            "count" : 14,
+            "item" : "961"
+          }, {
+            "count" : 13,
+            "item" : "877"
+          }, {
+            "count" : 12,
+            "item" : "812"
+          }, {
+            "count" : 11,
+            "item" : "780"
+          }, {
+            "count" : 10,
+            "item" : "825"
+          }, {
+            "count" : 9,
+            "item" : "1092"
+          }, {
+            "count" : 8,
+            "item" : "1232"
+          }, {
+            "count" : 7,
+            "item" : "953"
+          }, {
+            "count" : 6,
+            "item" : "1199"
+          }, {
+            "count" : 5,
+            "item" : "1316"
+          }, {
+            "count" : 4,
+            "item" : "1035"
+          }, {
+            "count" : 3,
+            "item" : "1209"
+          }, {
+            "count" : 2,
+            "item" : "1465"
+          }, {
+            "count" : 1,
+            "item" : "0"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389563,
+        "name" : "Total # of 311 Requests (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "total_of_311_requests_monthly",
+        "position" : 39,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21985251,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 28,
+          "smallest" : "0",
+          "sum" : "1869098",
+          "null" : 20,
+          "average" : "66753.5",
+          "largest" : "113045",
+          "top" : [ {
+            "count" : 20,
+            "item" : "88489"
+          }, {
+            "count" : 19,
+            "item" : "90185"
+          }, {
+            "count" : 18,
+            "item" : "95481"
+          }, {
+            "count" : 17,
+            "item" : "99806"
+          }, {
+            "count" : 16,
+            "item" : "112257"
+          }, {
+            "count" : 15,
+            "item" : "103262"
+          }, {
+            "count" : 14,
+            "item" : "99630"
+          }, {
+            "count" : 13,
+            "item" : "98963"
+          }, {
+            "count" : 12,
+            "item" : "82809"
+          }, {
+            "count" : 11,
+            "item" : "82283"
+          }, {
+            "count" : 10,
+            "item" : "93478"
+          }, {
+            "count" : 9,
+            "item" : "84167"
+          }, {
+            "count" : 8,
+            "item" : "94134"
+          }, {
+            "count" : 7,
+            "item" : "99649"
+          }, {
+            "count" : 6,
+            "item" : "107892"
+          }, {
+            "count" : 5,
+            "item" : "106861"
+          }, {
+            "count" : 4,
+            "item" : "113045"
+          }, {
+            "count" : 3,
+            "item" : "106733"
+          }, {
+            "count" : 2,
+            "item" : "109974"
+          }, {
+            "count" : 1,
+            "item" : "0"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389564,
+        "name" : "# of Communications Equipment Installations and Repairs Completed (Annual FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "of_communications_equipment_installations_and_repairs_completed_annual_fy",
+        "position" : 40,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21366483,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "5434",
+          "sum" : "40011",
+          "null" : 43,
+          "average" : "8002.2",
+          "largest" : "15193",
+          "top" : [ {
+            "count" : 20,
+            "item" : "7327"
+          }, {
+            "count" : 19,
+            "item" : "6120"
+          }, {
+            "count" : 18,
+            "item" : "5937"
+          }, {
+            "count" : 17,
+            "item" : "5434"
+          }, {
+            "count" : 16,
+            "item" : "15193"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389565,
+        "name" : "PROJECTED: # of Communications Equipment Installations and Repairs Completed (Annual FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "projected_of_communications_equipment_installations_and_repairs_completed_annual_fy",
+        "position" : 41,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21366484,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "6000",
+          "sum" : "6000",
+          "null" : 47,
+          "average" : "6000",
+          "largest" : "6000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "6000"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389566,
+        "name" : "# of Communications Equipment Installations and Repairs Completed (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "of_communications_equipment_installations_and_repairs_completed_monthly",
+        "position" : 42,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21522123,
+        "width" : 533,
+        "cachedContents" : {
+          "non_null" : 12,
+          "smallest" : "0",
+          "sum" : "4870",
+          "null" : 36,
+          "average" : "405.8333333333333",
+          "largest" : "1680",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1680"
+          }, {
+            "count" : 19,
+            "item" : "1570"
+          }, {
+            "count" : 18,
+            "item" : "1620"
+          }, {
+            "count" : 17,
+            "item" : "0"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389567,
+        "name" : "TARGET: # of Communications Equipment Installations and Repairs Completed (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "target_of_communications_equipment_installations_and_repairs_completed_monthly",
+        "position" : 43,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21522124,
+        "width" : 546,
+        "cachedContents" : {
+          "non_null" : 12,
+          "smallest" : "0",
+          "sum" : "1800",
+          "null" : 36,
+          "average" : "150",
+          "largest" : "1800",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0"
+          }, {
+            "count" : 19,
+            "item" : "1800"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389568,
+        "name" : "Response to OPENED Network Maintenance Tickets (Annual FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "response_to_opened_network_maintenance_tickets_annual_fy",
+        "position" : 44,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21366499,
+        "width" : 698,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "0",
+          "sum" : "6722",
+          "null" : 42,
+          "average" : "1120.333333333333",
+          "largest" : "1758",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1758"
+          }, {
+            "count" : 19,
+            "item" : "1685"
+          }, {
+            "count" : 18,
+            "item" : "1587"
+          }, {
+            "count" : 17,
+            "item" : "1692"
+          }, {
+            "count" : 16,
+            "item" : "0"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389569,
+        "name" : "Response to OPENED Network Maintenance Tickets (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "response_to_opened_network_maintenance_tickets_monthly",
+        "position" : 45,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21522205,
+        "width" : 384,
+        "cachedContents" : {
+          "non_null" : 18,
+          "smallest" : "0",
+          "sum" : "9745",
+          "null" : 30,
+          "average" : "541.3888888888889",
+          "largest" : "1307",
+          "top" : [ {
+            "count" : 20,
+            "item" : "960"
+          }, {
+            "count" : 19,
+            "item" : "939"
+          }, {
+            "count" : 18,
+            "item" : "1045"
+          }, {
+            "count" : 17,
+            "item" : "1150"
+          }, {
+            "count" : 16,
+            "item" : "1106"
+          }, {
+            "count" : 15,
+            "item" : "1108"
+          }, {
+            "count" : 14,
+            "item" : "1307"
+          }, {
+            "count" : 13,
+            "item" : "1098"
+          }, {
+            "count" : 12,
+            "item" : "1032"
+          }, {
+            "count" : 11,
+            "item" : "0"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389570,
+        "name" : "Response to CLOSED Network Maintenance Tickets (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "response_to_closed_network_maintenance_tickets_annual_fy",
+        "position" : 46,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21366500,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 18,
+          "smallest" : "0",
+          "sum" : "6855",
+          "null" : 30,
+          "average" : "380.8333333333333",
+          "largest" : "983",
+          "top" : [ {
+            "count" : 20,
+            "item" : "632"
+          }, {
+            "count" : 19,
+            "item" : "558"
+          }, {
+            "count" : 18,
+            "item" : "705"
+          }, {
+            "count" : 17,
+            "item" : "713"
+          }, {
+            "count" : 16,
+            "item" : "724"
+          }, {
+            "count" : 15,
+            "item" : "728"
+          }, {
+            "count" : 14,
+            "item" : "983"
+          }, {
+            "count" : 13,
+            "item" : "895"
+          }, {
+            "count" : 12,
+            "item" : "917"
+          }, {
+            "count" : 11,
+            "item" : "0"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      }, {
+        "id" : 171389571,
+        "name" : "TARGET: Response to Network Maintenance Tickets (Annual FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "target_response_to_network_maintenance_tickets_annual_fy",
+        "position" : 47,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21366501,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "1200",
+          "sum" : "2948",
+          "null" : 46,
+          "average" : "1474",
+          "largest" : "1748",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1748"
+          }, {
+            "count" : 19,
+            "item" : "1200"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389572,
+        "name" : "Network Availability Actual (Monthly)",
+        "dataTypeName" : "percent",
+        "fieldName" : "network_availability_actual_monthly",
+        "position" : 48,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21366502,
+        "width" : 544,
+        "cachedContents" : {
+          "non_null" : 18,
+          "smallest" : "0.00",
+          "sum" : "820.83",
+          "null" : 30,
+          "average" : "45.60166666666667",
+          "largest" : "94.60",
+          "top" : [ {
+            "count" : 20,
+            "item" : "92.17"
+          }, {
+            "count" : 19,
+            "item" : "88.75"
+          }, {
+            "count" : 18,
+            "item" : "85.74"
+          }, {
+            "count" : 17,
+            "item" : "92.35"
+          }, {
+            "count" : 16,
+            "item" : "88.50"
+          }, {
+            "count" : 15,
+            "item" : "93.90"
+          }, {
+            "count" : 14,
+            "item" : "94.60"
+          }, {
+            "count" : 13,
+            "item" : "92.30"
+          }, {
+            "count" : 12,
+            "item" : "92.52"
+          }, {
+            "count" : 11,
+            "item" : "0.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389573,
+        "name" : "TARGET: Network Availability (Monthly)",
+        "dataTypeName" : "percent",
+        "fieldName" : "target_network_availability_monthly",
+        "position" : 49,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21366503,
+        "width" : 556,
+        "cachedContents" : {
+          "non_null" : 18,
+          "smallest" : "0.00",
+          "sum" : "895.95",
+          "null" : 30,
+          "average" : "49.775",
+          "largest" : "99.99",
+          "top" : [ {
+            "count" : 20,
+            "item" : "99.99"
+          }, {
+            "count" : 19,
+            "item" : "99.00"
+          }, {
+            "count" : 18,
+            "item" : "0.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389574,
+        "name" : "% of Public Safety System Availability (Monthly)",
+        "dataTypeName" : "percent",
+        "fieldName" : "of_public_safety_system_availability_annual_fy",
+        "position" : 50,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21366481,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 3,
+          "smallest" : "99.999",
+          "sum" : "299.999",
+          "null" : 45,
+          "average" : "99.99966666666667",
+          "largest" : "100.000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "100.000"
+          }, {
+            "count" : 19,
+            "item" : "99.999"
+          } ]
+        },
+        "format" : {
+          "view" : "percent_bar_and_text",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      }, {
+        "id" : 171389575,
+        "name" : "PROJECTED: % of Public Safety System Availability (Monthly)",
+        "dataTypeName" : "percent",
+        "fieldName" : "projected_of_public_safety_system_availability_annual_fy",
+        "position" : 51,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21366482,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 12,
+          "smallest" : "99.990",
+          "sum" : "1199.885",
+          "null" : 36,
+          "average" : "99.99041666666667",
+          "largest" : "99.995",
+          "top" : [ {
+            "count" : 20,
+            "item" : "99.990"
+          }, {
+            "count" : 19,
+            "item" : "99.995"
+          } ]
+        },
+        "format" : {
+          "view" : "percent_bar_and_text",
+          "align" : "right",
+          "noCommas" : "false"
+        }
+      }, {
+        "id" : 171389576,
+        "name" : "Responses to major systems support requests (Annual FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "responses_to_major_systems_support_requests_annual_fy",
+        "position" : 52,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21366491,
+        "width" : 701,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "0",
+          "sum" : "1318",
+          "null" : 46,
+          "average" : "659",
+          "largest" : "1318",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0"
+          }, {
+            "count" : 19,
+            "item" : "1318"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389577,
+        "name" : "PROJECTED: Responses to major systems support requests (Annual FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "projected_responses_to_major_systems_support_requests_annual_fy",
+        "position" : 53,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21366492,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "1545",
+          "sum" : "3127",
+          "null" : 46,
+          "average" : "1563.5",
+          "largest" : "1582",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1545"
+          }, {
+            "count" : 19,
+            "item" : "1582"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389578,
+        "name" : "Responses to Major Systems Support Requests (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "responses_to_major_systems_support_requests_monthly",
+        "position" : 54,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21366493,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 24,
+          "smallest" : "0",
+          "sum" : "2911",
+          "null" : 24,
+          "average" : "121.2916666666667",
+          "largest" : "454",
+          "top" : [ {
+            "count" : 20,
+            "item" : "165"
+          }, {
+            "count" : 19,
+            "item" : "118"
+          }, {
+            "count" : 18,
+            "item" : "89"
+          }, {
+            "count" : 17,
+            "item" : "103"
+          }, {
+            "count" : 16,
+            "item" : "92"
+          }, {
+            "count" : 15,
+            "item" : "88"
+          }, {
+            "count" : 14,
+            "item" : "157"
+          }, {
+            "count" : 13,
+            "item" : "130"
+          }, {
+            "count" : 12,
+            "item" : "145"
+          }, {
+            "count" : 11,
+            "item" : "137"
+          }, {
+            "count" : 10,
+            "item" : "206"
+          }, {
+            "count" : 9,
+            "item" : "163"
+          }, {
+            "count" : 8,
+            "item" : "454"
+          }, {
+            "count" : 7,
+            "item" : "418"
+          }, {
+            "count" : 6,
+            "item" : "446"
+          }, {
+            "count" : 5,
+            "item" : "0"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389579,
+        "name" : "TARGET: Responses to Major Systems Support Requests  (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "target_responses_to_major_systems_support_requests_monthly",
+        "position" : 55,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21366494,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 24,
+          "smallest" : "100",
+          "sum" : "11600",
+          "null" : 24,
+          "average" : "483.3333333333333",
+          "largest" : "1000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "200"
+          }, {
+            "count" : 19,
+            "item" : "100"
+          }, {
+            "count" : 18,
+            "item" : "1000"
+          }, {
+            "count" : 17,
+            "item" : "750"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389580,
+        "name" : "% of Data Center Servers That Are Virtualized (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "share_of_servers_that_are_virtual_annual_fy",
+        "position" : 56,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21366495,
+        "width" : 641,
+        "cachedContents" : {
+          "non_null" : 0,
+          "sum" : "0",
+          "null" : 48
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      }, {
+        "id" : 171389581,
+        "name" : "PROJECTED: Share of Servers That are Virtual (Annually-FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "projected_share_of_servers_that_are_virtual_annually_fy",
+        "position" : 57,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21366496,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "456",
+          "sum" : "971",
+          "null" : 46,
+          "average" : "485.5",
+          "largest" : "515",
+          "top" : [ {
+            "count" : 20,
+            "item" : "456"
+          }, {
+            "count" : 19,
+            "item" : "515"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389582,
+        "name" : "# of Servers in Data Center (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "share_of_servers_that_are_physical_annual_fy",
+        "position" : 58,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21366497,
+        "width" : 652,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "693",
+          "sum" : "6306",
+          "null" : 40,
+          "average" : "788.25",
+          "largest" : "835",
+          "top" : [ {
+            "count" : 20,
+            "item" : "693"
+          }, {
+            "count" : 19,
+            "item" : "729"
+          }, {
+            "count" : 18,
+            "item" : "784"
+          }, {
+            "count" : 17,
+            "item" : "810"
+          }, {
+            "count" : 16,
+            "item" : "831"
+          }, {
+            "count" : 15,
+            "item" : "800"
+          }, {
+            "count" : 14,
+            "item" : "835"
+          }, {
+            "count" : 13,
+            "item" : "824"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      }, {
+        "id" : 171389583,
+        "name" : "PROJECTED: Share of Servers That are Physical (Annually-FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "projected_share_of_servers_that_are_physical_annually_fy",
+        "position" : 59,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21366498,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 0,
+          "sum" : "0",
+          "null" : 48
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389584,
+        "name" : "City Datasets Available to Public (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "city_datasets_available_to_public_monthly",
+        "position" : 60,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21366504,
+        "width" : 616,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "123",
+          "sum" : "886",
+          "null" : 43,
+          "average" : "177.2",
+          "largest" : "215",
+          "top" : [ {
+            "count" : 20,
+            "item" : "123"
+          }, {
+            "count" : 19,
+            "item" : "176"
+          }, {
+            "count" : 18,
+            "item" : "174"
+          }, {
+            "count" : 17,
+            "item" : "198"
+          }, {
+            "count" : 16,
+            "item" : "215"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389585,
+        "name" : "TARGET: City Datasets Available to Public (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "target_city_datasets_available_to_public_monthly",
+        "position" : 61,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21366505,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 14,
+          "smallest" : "100",
+          "sum" : "2885",
+          "null" : 34,
+          "average" : "206.0714285714286",
+          "largest" : "275",
+          "top" : [ {
+            "count" : 20,
+            "item" : "100"
+          }, {
+            "count" : 19,
+            "item" : "125"
+          }, {
+            "count" : 18,
+            "item" : "150"
+          }, {
+            "count" : 17,
+            "item" : "175"
+          }, {
+            "count" : 16,
+            "item" : "200"
+          }, {
+            "count" : 15,
+            "item" : "210"
+          }, {
+            "count" : 14,
+            "item" : "225"
+          }, {
+            "count" : 13,
+            "item" : "250"
+          }, {
+            "count" : 12,
+            "item" : "275"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389586,
+        "name" : "Availability of lacity.org Actual (Monthly)",
+        "dataTypeName" : "percent",
+        "fieldName" : "availability_of_lacity_org_actual_monthly",
+        "position" : 62,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21985195,
+        "width" : 299,
+        "cachedContents" : {
+          "non_null" : 12,
+          "smallest" : "95.59",
+          "sum" : "1184.600",
+          "null" : 36,
+          "average" : "98.71666666666667",
+          "largest" : "99.97",
+          "top" : [ {
+            "count" : 20,
+            "item" : "96.10"
+          }, {
+            "count" : 19,
+            "item" : "99.63"
+          }, {
+            "count" : 18,
+            "item" : "99.69"
+          }, {
+            "count" : 17,
+            "item" : "99.97"
+          }, {
+            "count" : 16,
+            "item" : "98.93"
+          }, {
+            "count" : 15,
+            "item" : "99.79"
+          }, {
+            "count" : 14,
+            "item" : "99.50"
+          }, {
+            "count" : 13,
+            "item" : "99.85"
+          }, {
+            "count" : 12,
+            "item" : "95.59"
+          }, {
+            "count" : 11,
+            "item" : "98.050"
+          }, {
+            "count" : 10,
+            "item" : "98.700"
+          }, {
+            "count" : 9,
+            "item" : "98.800"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389587,
+        "name" : "TARGET: Availability of lacity.org (Annual FY)",
+        "dataTypeName" : "percent",
+        "fieldName" : "target_availability_of_lacity_org_annual_fy",
+        "position" : 63,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21985196,
+        "width" : 327,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "99",
+          "sum" : "198.000",
+          "null" : 46,
+          "average" : "99.000",
+          "largest" : "99",
+          "top" : [ {
+            "count" : 20,
+            "item" : "99"
+          }, {
+            "count" : 19,
+            "item" : "99.000"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389588,
+        "name" : "Number of Unique Visitors to City Sites (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "number_of_unique_visitors_to_city_sites_monthly",
+        "position" : 64,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21985197,
+        "width" : 344,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "191500",
+          "sum" : "2204711",
+          "null" : 38,
+          "average" : "220471.1",
+          "largest" : "317962",
+          "top" : [ {
+            "count" : 20,
+            "item" : "191500"
+          }, {
+            "count" : 19,
+            "item" : "228656"
+          }, {
+            "count" : 18,
+            "item" : "205835"
+          }, {
+            "count" : 17,
+            "item" : "218372"
+          }, {
+            "count" : 16,
+            "item" : "207649"
+          }, {
+            "count" : 15,
+            "item" : "211064"
+          }, {
+            "count" : 14,
+            "item" : "207623"
+          }, {
+            "count" : 13,
+            "item" : "217137"
+          }, {
+            "count" : 12,
+            "item" : "198913"
+          }, {
+            "count" : 11,
+            "item" : "317962"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389589,
+        "name" : "TARGET: Number of Unique Visitors to City Sites (Annual FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "target_number_of_unique_visitors_to_city_sites_annual_fy",
+        "position" : 65,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21985198,
+        "width" : 210,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "2500000",
+          "sum" : "2500000",
+          "null" : 47,
+          "average" : "2500000",
+          "largest" : "2500000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2500000"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 171389590,
+        "name" : "Total City Website Visits (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "total_city_website_visits_monthly",
+        "position" : 66,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21985252,
+        "width" : 204,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "244188.00",
+          "sum" : "4766584.00",
+          "null" : 32,
+          "average" : "297911.50",
+          "largest" : "366522.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "287242.00"
+          }, {
+            "count" : 19,
+            "item" : "321868.00"
+          }, {
+            "count" : 18,
+            "item" : "281923.00"
+          }, {
+            "count" : 17,
+            "item" : "299446.00"
+          }, {
+            "count" : 16,
+            "item" : "332959.00"
+          }, {
+            "count" : 15,
+            "item" : "301915.00"
+          }, {
+            "count" : 14,
+            "item" : "366522.00"
+          }, {
+            "count" : 13,
+            "item" : "323613.00"
+          }, {
+            "count" : 12,
+            "item" : "244188.00"
+          }, {
+            "count" : 11,
+            "item" : "308167.00"
+          }, {
+            "count" : 10,
+            "item" : "276076.00"
+          }, {
+            "count" : 9,
+            "item" : "286897.00"
+          }, {
+            "count" : 8,
+            "item" : "276838.00"
+          }, {
+            "count" : 7,
+            "item" : "278446.00"
+          }, {
+            "count" : 6,
+            "item" : "278569.00"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "false"
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Board of Public Works" : "",
+            "LAPD" : "",
+            "City Administrative Officer" : "",
+            "Personnel " : "",
+            "Bureau of Engineering" : "",
+            "City Attorney" : "",
+            "Employee Relations Board" : "",
+            "Transportation" : "",
+            "Housing and Community Investment" : "",
+            "Library" : "",
+            "Recreation and Parks " : "",
+            "Neighborhood Empowerment" : "",
+            "Controller's Office" : "",
+            "El Pueblo" : "",
+            "Other" : "",
+            "Bureau of Sanitation" : "",
+            "Disability, Department on" : "",
+            "LACERS" : "",
+            "Cultural Affairs" : "",
+            "Information Technology" : "",
+            "Fire and Police Pensions" : "",
+            "Emergency Management" : "",
+            "General Services" : "",
+            "Council District 12" : "",
+            "Council District 13" : "",
+            "Council District 14" : "",
+            "Project Restore" : "",
+            "Council District 15" : "",
+            "Council District 10" : "",
+            "Council District 11" : "",
+            "Aging" : "",
+            "Bureau of Street Lighting" : "",
+            "City Clerk" : "",
+            "Bureau of Contract Administration" : "",
+            "Planning" : "",
+            "Harbor " : "",
+            "LAWA" : "",
+            "Public Accountability, The Office of" : "",
+            "Office of Finance" : "",
+            "Council District 03" : "",
+            "Council District 04" : "",
+            "Council District 01" : "",
+            "Council District 02" : "",
+            "Bureau of Street Services" : "",
+            "Zoo" : "",
+            "Council District 09" : "",
+            "Council District 07" : "",
+            "Council District 08" : "",
+            "Council District 05" : "",
+            "Council District 06" : "",
+            "Economic and Workforce Development" : "",
+            "LAFD" : "",
+            "Animal Services" : "",
+            "Ethics Commission" : "",
+            "Mayor's Office" : "",
+            "Housing Authority" : "",
+            "Building and Safety" : "",
+            "LADWP" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "jsonQuery" : {
+          "order" : [ {
+            "ascending" : true,
+            "columnFieldName" : "date_value"
+          } ]
+        }
+      },
+      "owner" : {
+        "id" : "yb4r-dcys",
+        "displayName" : "ITA OpenData",
+        "profileImageUrlLarge" : "/images/profile/9462/4839/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9462/4839/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9462/4839/_City_Seal_tiny.jpg",
+        "screenName" : "ITA OpenData"
+      },
+      "query" : {
+        "orderBys" : [ {
+          "ascending" : true,
+          "expression" : {
+            "columnId" : 171389525,
+            "type" : "column"
+          }
+        } ]
+      },
+      "rights" : [ "read" ],
+      "sortBys" : [ {
+        "id" : 0,
+        "viewColumnId" : 171389525,
+        "flags" : [ "asc" ]
+      } ],
+      "tableAuthor" : {
+        "id" : "yb4r-dcys",
+        "displayName" : "ITA OpenData",
+        "profileImageUrlLarge" : "/images/profile/9462/4839/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9462/4839/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9462/4839/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "ITA OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "information technology agency", "information", "technology", "ita", "performance", "metrics" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 2, "B06B68BD-F0F8-491D-BA85-4C1742103D39", 2, 1413305247, "865572", 1413305247, "865572", "{\n  \"invalidCells\" : {\n    \"21366495\" : \"24.53%\",\n    \"21366498\" : \"25.00%\"\n  }\n}", "2010-06-30T00:00:00", "Jun-10", "Q4 FY10", "FY 2010", null, null, "82.0", null, null, null, null, "6531", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "7327", null, null, null, "1758", null, null, null, null, null, null, null, null, null, null, null, null, null, "693", null, null, null, null, null, null, null, null ]
+, [ 3, "2F66A14C-17DA-479F-9696-090C05B38BDA", 3, 1413305247, "865572", 1413305247, "865572", "{\n  \"invalidCells\" : {\n    \"21366495\" : \"36.21%\",\n    \"21366498\" : \"35.00%\"\n  }\n}", "2011-06-30T00:00:00", "Jun-11", "Q4 FY11", "FY 2011", null, null, "80.0", null, null, null, null, "6686", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "6120", null, null, null, "1685", null, null, null, null, null, null, null, null, null, null, null, null, null, "729", null, null, null, null, null, null, null, null ]
+, [ 4, "BDD35AE8-3F66-4CF3-AA03-9D31F7EDFE8E", 4, 1413305247, "865572", 1413305247, "865572", "{\n  \"invalidCells\" : {\n    \"21366495\" : \"41.33%\",\n    \"21366498\" : \"40.00%\"\n  }\n}", "2012-06-30T00:00:00", "Jun-12", "Q4 FY12", "FY 2012", null, null, "83.0", null, null, null, null, "6324", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "5937", null, null, null, "1587", null, null, null, null, null, null, null, null, null, null, null, null, null, "784", null, null, null, null, null, null, null, null ]
+, [ 5, "3D6C9B6B-97B9-4F60-9AA5-E3D2999F18BA", 5, 1413305247, "865572", 1413305247, "865572", "{\n}", "2012-07-31T00:00:00", "Jul-12", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 6, "D83085BB-FCDC-4D20-9A74-4643A2CE9D90", 6, 1413305247, "865572", 1413305247, "865572", "{\n}", "2012-08-31T00:00:00", "Aug-12", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 7, "5E039C71-E5A4-4686-BC25-53C64BDEEB38", 7, 1413305247, "865572", 1413305247, "865572", "{\n}", "2012-09-30T00:00:00", "Sep-12", "Q1 FY13", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 8, "8FDE2AA6-DF13-43E6-8CBF-E7ED8856829B", 8, 1413305247, "865572", 1413305247, "865572", "{\n}", "2012-10-31T00:00:00", "Oct-12", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 9, "08A7E404-6330-49D4-AF2D-C4C4C19B23C2", 9, 1413305247, "865572", 1413305247, "865572", "{\n}", "2012-11-30T00:00:00", "Nov-12", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 10, "DF4104C2-BA7E-43CA-A2A8-D3139392DE04", 10, 1413305247, "865572", 1413305247, "865572", "{\n}", "2012-12-31T00:00:00", "Dec-12", "Q2 FY13", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 11, "E153F498-3E1B-461E-8F62-E35B686D99A0", 11, 1413305247, "865572", 1413305247, "865572", "{\n}", "2013-01-31T00:00:00", "Jan-13", null, null, "5.1", "3.0", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 12, "91C83833-E4B8-4453-917F-FA8B39233136", 12, 1413305247, "865572", 1413305247, "865572", "{\n}", "2013-02-28T00:00:00", "Feb-13", null, null, "5.9", "3.0", null, null, null, null, null, null, null, null, null, "55.6", "95", null, null, "0", null, null, "6501", "3944", "2299", "1549", "1428", "1444", "865", "562", "946", "665", "44", null, "7.4", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 13, "57E2E7AB-6E48-4027-AD7D-17086F216EB1", 13, 1413305247, "865572", 1413305247, "865572", "{\n}", "2013-03-31T00:00:00", "Mar-13", "Q3 FY13", null, "3.7", "3.0", null, null, null, null, null, null, null, null, null, "71.0", "95", null, null, "898", null, null, "9088", "5024", "2873", "2337", "1721", "2051", "1306", "819", "996", "770", "29", null, "7.8", "0.1", "0.0", "898", "88489", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "287242.00" ]
+, [ 14, "095189C6-BA0F-4319-AFCB-6B758891F093", 14, 1413305247, "865572", 1413305247, "865572", "{\n}", "2013-04-30T00:00:00", "Apr-13", null, null, "1.0", "3.0", null, null, null, null, null, null, null, null, null, "91.0", "95", null, null, "9592", null, null, "9604", "6984", "3230", "2446", "2334", "1730", "1726", "1346", "1162", "1095", "9", null, "7.9", "2.8", "0.0", "9592", "90185", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "321868.00" ]
+, [ 15, "83846C10-BB19-4076-83BF-D47D490E76B5", 15, 1413305247, "865572", 1413305247, "865572", "{\n}", "2013-05-31T00:00:00", "May-13", null, null, "1.0", "3.0", null, null, null, null, null, null, null, null, null, "91.0", "95", null, null, "820", null, null, "10113", "7492", "3169", "2705", "2270", "1570", "1828", "1422", "1065", "1098", "10", null, "7.9", "1.8", "0.2", "820", "95481", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "281923.00" ]
+, [ 16, "A2AB7541-6A9C-4B3C-AE9A-596FA8E8AE4C", 16, 1413305247, "865572", 1413305247, "865572", "{\n  \"invalidCells\" : {\n    \"21366495\" : \"49.75%\",\n    \"21366498\" : \"45.00%\"\n  }\n}", "2013-06-30T00:00:00", "Jun-13", "Q4 FY13", "FY 2013", "3.5", "3.0", "83.0", null, null, null, null, "5677", null, null, null, "73.0", "95", null, null, "1138", null, null, "9959", "7560", "2615", "2092", "1839", "1513", "1431", "1139", "764", "1047", "27", null, "7.2", "2.1", "0.2", "1138", "99806", "5434", null, null, null, "1692", null, null, null, null, null, null, null, null, null, null, null, null, null, "810", null, null, null, null, null, null, null, "299446.00" ]
+, [ 17, "9A43B01D-8484-4C95-9DAD-E41D7E914A73", 17, 1413305247, "865572", 1413305247, "865572", "{\n}", "2013-07-31T00:00:00", "Jul-13", null, null, "3.7", "3.0", null, null, null, null, null, null, null, null, null, "70.2", "95", null, null, "1933", null, null, "12068", "7007", "2797", "2633", "2064", "1360", "1383", "1058", "886", "890", "30", null, "8.5", "2.5", "0.5", "1933", "112257", null, null, null, null, null, null, null, null, null, null, null, null, null, null, "165", "200", null, null, null, null, null, null, null, null, null, null, "332959.00" ]
+, [ 18, "5F9F725A-EFF0-48FA-B0F3-01165290127B", 18, 1413305247, "865572", 1413305247, "865572", "{\n}", "2013-08-31T00:00:00", "Aug-13", null, null, "1.4", "3.0", null, null, null, null, null, null, null, null, null, "89.2", "95", null, null, "1169", null, null, "12806", "7219", "2831", "2728", "2356", "2079", "1735", "1350", "1080", "1167", "10.8", null, "8.6", "3.8", "0.6", "1169", "103262", null, null, null, null, null, null, null, null, null, null, null, null, null, null, "118", "200", null, null, null, null, null, null, null, null, null, null, "301915.00" ]
+, [ 19, "A4613931-4934-49A0-BBD0-D79C631F37FE", 19, 1413305247, "865572", 1413305247, "865572", "{\n}", "2013-09-30T00:00:00", "Sep-13", "Q1 FY14", null, "1.6", "3.0", null, null, "78.9", null, null, null, null, null, null, "86.2", "95", null, null, "961", null, null, "11529", "6704", "2541", "2501", "2155", "2104", "1589", "1129", "1191", "1128", "13.8", null, "8.2", "4.1", "0.6", "961", "99630", null, null, null, null, null, null, null, null, null, null, null, null, null, null, "89", "100", null, null, null, null, null, null, "96.10", null, null, null, "301915.00" ]
+, [ 20, "6B679AD9-265F-4250-AC24-00C5CCDF6D1A", 20, 1413305247, "865572", 1413305247, "865572", "{\n}", "2013-10-31T00:00:00", "Oct-13", null, null, "1.5", "3.0", null, null, null, null, null, null, null, null, null, "88.6", "95", null, null, "877", null, null, "11936", "8458", "3629", "1915", "2607", "2825", "1611", "1261", "1181", "1059", "11.4", null, "7.2", "3.1", "0.6", "877", "98963", null, null, null, null, null, null, null, null, null, null, null, null, null, null, "103", "100", null, null, null, null, null, null, "99.63", null, null, null, "366522.00" ]
+, [ 21, "F8F4161C-6163-4A21-8A6E-77A791C7CF12", 21, 1413305247, "865572", 1413305247, "865572", "{\n}", "2013-11-30T00:00:00", "Nov-13", null, null, "1.2", "3.0", null, null, null, null, null, null, null, null, null, "89.9", "95", null, null, "812", null, null, "9509", "7020", "3811", "1917", "2525", "988", "1585", "1203", "1064", "947", "10.1", null, "7.3", "3.7", "0.6", "812", "82809", null, null, null, null, null, null, null, null, null, null, null, null, null, null, "92", "100", null, null, null, null, null, null, null, null, null, null, "323613.00" ]
+, [ 22, "42A07983-D7B9-4C65-BFAE-1384617EA0AC", 22, 1413305247, "865572", 1413305247, "865572", "{\n}", "2013-12-31T00:00:00", "Dec-13", "Q2 FY14", null, "0.6", "3.0", null, null, "86.4", null, null, null, null, null, null, "93.3", "95", null, null, "780", null, "3126", "9723", "6742", "3906", "2925", "2665", "1336", "1362", "1027", "972", "1022", "6.7", null, "6.8", "3.2", "0.6", "780", "82283", null, null, null, null, null, null, null, null, null, null, null, null, null, null, "88", "100", null, null, null, null, null, null, "99.69", null, "191500", null, "244188.00" ]
+, [ 23, "DFC6BB67-013A-4986-B5F1-058CCE741C07", 23, 1413305247, "865572", 1413323851, "865572", null, "2014-01-31T00:00:00", "Jan-14", null, null, "1.1", "3.0", null, null, null, "91.3", "0", null, null, null, null, "89.7", "95", null, null, "825", null, "3271", "11034", "8598", "4769", "3522", "2514", "1324", "1508", "1094", "1091", "1115", "10.3", null, "7.2", "2.7", "0.8", "825", "93478", null, null, null, null, null, "960", "632", null, "92.17", "99.99", null, null, null, null, "157", "100", null, null, null, null, null, null, "99.97", null, "228656", null, "308167.00" ]
+, [ 24, "6B1D1906-000E-4476-978A-AA19D44F2A83", 24, 1413305247, "865572", 1413305247, "865572", "{\n}", "2014-02-28T00:00:00", "Feb-14", null, null, "0.6", "3.0", null, null, null, "92.4", "0.0", null, null, null, null, "93.3", "95", null, null, "1092", null, "4629", "8454", "7349", "4268", "3321", "2635", "1412", "1473", "1061", "917", "872", "6.7", null, "7.3", "4.5", "1.0", "1092", "84167", null, null, null, null, null, "939", "558", null, "88.75", "99.99", null, null, null, null, "130", "100", null, null, null, null, null, null, "98.93", null, "205835", null, "276076.00" ]
+, [ 25, "72AED694-C745-4159-98C3-F4F9AF8CA3D7", 25, 1413305247, "865572", 1413305247, "865572", "{\n}", "2014-03-31T00:00:00", "Mar-14", "Q3 FY14", null, "0.6", "3.0", null, null, "91.9", "91.9", "0.0", null, null, null, null, "93.3", "95", null, null, "1232", null, "5594", "10107", "7785", "4996", "4284", "2991", "1228", "1621", "1145", "1260", "1117", "6.7", null, "7.4", "4.7", "1.2", "1232", "94134", null, null, null, null, null, "1045", "705", null, "85.74", "99.99", null, null, null, null, "145", "100", null, null, null, null, null, null, "99.79", null, "218372", null, "286897.00" ]
+, [ 26, "B1BCD2B6-2E35-47C4-8666-EBEE5776D035", 26, 1413305247, "865572", 1413305247, "865572", "{\n}", "2014-04-30T00:00:00", "Apr-14", null, null, "0.4", "3.0", null, null, null, "96.5", "0.0", null, null, null, null, "94.6", "95", null, null, "953", null, "5715", "10247", "9302", "5528", "5423", "2747", "875", "1531", "1287", "949", "1270", "5.4", null, "7.5", "4.6", "1.1", "953", "99649", null, null, null, null, null, "1150", "713", null, "92.35", "99.99", null, null, null, null, "137", "100", null, null, null, null, null, null, "99.50", null, "207649", null, "276838.00" ]
+, [ 27, "C7CF7019-DA7F-42BB-B744-69F14376ECB3", 27, 1413305247, "865572", 1413305247, "865572", "{\n}", "2014-05-31T00:00:00", "May-14", null, null, "0.5", "3.0", null, null, null, "94.4", "0.0", null, null, null, null, "93.0", "95", null, null, "1199", null, "5443", "10408", "9429", "5180", "5021", "2949", "1387", "1815", "1410", "803", "1200", "7.0", null, "7.6", "4.0", "1.0", "1199", "107892", null, null, null, null, null, "1106", "724", null, "88.50", "99.99", null, null, null, null, "206", "200", null, null, null, null, "123", "100", "99.85", null, "211064", null, "278446.00" ]
+, [ 28, "F2D17FE5-F647-4454-934C-3B7C189FF8D0", 28, 1413305247, "865572", 1413305247, "865572", "{\n  \"invalidCells\" : {\n    \"21366495\" : \"61.37%\",\n    \"21366498\" : \"56.00%\"\n  }\n}", "2014-06-30T00:00:00", "Jun-14", "Q4 FY14", "FY 2014", "0.9", "3.0", "91.0", "0.0", "92.2", "86.1", "0.0", "3255", "3300", null, null, "90.1", "95", "91.27", "95", "1316", null, "6390", "10826", "9773", "5270", "4424", "3187", "895", "1755", "1301", "811", "1241", "9.9", null, "7.5", "4.9", "1.1", "1316", "106861", "15193", null, null, null, "0", "1108", "728", "1748", "93.90", "99.00", null, null, "0", "1545", "163", "200", null, "456", "831", null, "176", "125", "95.59", "99", "207623", null, "278569.00" ]
+, [ 29, "6C299604-16B2-4A1B-8A94-E0F9FEF689A9", 29, 1413305247, "865572", 1413305247, "865572", "{\n  \"invalidCells\" : {\n    \"21366495\" : \"64.75%\"\n  }\n}", "2014-07-31T00:00:00", "Jul-14", null, null, "0.7", "3.0", null, null, null, "90.8", "0.0", null, null, "289", "275", "92.2", "95", "91.51", "95.00", "1035", null, "6848", "12520", "9879", "4822", "4577", "3345", "939", "1908", "1307", "978", "1201", "0", "0", "0", "0", "0", "1035", "113045", null, null, "1680", "0", null, "1307", "983", null, "94.60", "99.00", "100.000", "99.990", null, null, "454", "1000", null, null, "800", null, "174", "150", "98.050", null, "217137", null, null ]
+, [ 30, "F88F030B-7903-4A7E-B38C-DFB7070955E1", 30, 1413305247, "865572", 1413305247, "865572", "{\n  \"invalidCells\" : {\n    \"21366495\" : \"63.59%\"\n  }\n}", "2014-08-31T00:00:00", "Aug-14", null, null, "1.0", "3.0", null, null, null, "88.6", "0.0", null, null, "319", "289", "88.4", "95", "91.99", "95.00", "1209", null, "6814", "11297", "10239", "4565", "4917", "3119", "1215", "1821", "1252", "989", "1137", "0", "0", "0", "0", "0", "1209", "106733", null, null, "1570", "0", null, "1098", "895", null, "92.30", "99.00", "99.999", "99.990", null, null, "418", "1000", null, null, "835", null, "198", "175", "98.700", null, "198913", null, null ]
+, [ 31, "063CE557-FD8E-4D09-A26F-607440C7094D", 31, 1413305247, "865572", 1413305247, "865572", "{\n  \"invalidCells\" : {\n    \"21366495\" : \"65.41%\"\n  }\n}", "2014-09-30T00:00:00", "Sep-14", "Q1 FY15", null, "1.3", "3.0", null, null, "83.3", "76.7", "0.0", null, null, "244", "304", "85.5", null, "93.70", "95.00", "1465", "0", "6681", "11573", "10175", "3970", "4511", "3162", "248", "1834", "1266", "966", "1148", "0", "0", "0", "0", "0", "1465", "109974", null, null, "1620", "0", null, "1032", "917", null, "92.52", "99.00", "100.000", "99.990", null, null, "446", "750", null, null, "824", null, "215", "200", "98.800", null, "317962", null, null ]
+, [ 32, "04188F58-F2C6-463B-85D5-12075C667F5A", 32, 1413305247, "865572", 1413410518, "865572", null, "2014-10-31T00:00:00", "Oct-14", null, null, null, "0.0", null, null, null, null, "0.0", null, null, "0", "0", "0.0", null, "0.00", "0.00", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", null, null, "0", "0", null, "0", "0", null, "0.00", "0.00", null, "99.990", null, null, "0", "750", null, null, null, null, null, "200", null, null, null, null, null ]
+, [ 33, "1DEA4E85-C51D-49D7-8636-06CE18722393", 33, 1413305247, "865572", 1413410521, "865572", null, "2014-11-30T00:00:00", "Nov-14", null, null, null, "0.0", null, null, null, null, "0.0", null, null, "0", "0", "0.0", null, "0.00", "0.00", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", null, null, "0", "0", null, "0", "0", null, "0.00", "0.00", null, "99.990", null, null, "0", "750", null, null, null, null, null, "210", null, null, null, null, null ]
+, [ 34, "84A37520-8B2C-4D1C-A7BB-84A544E030D5", 34, 1413305247, "865572", 1413410523, "865572", null, "2014-12-31T00:00:00", "Dec-14", "Q2 FY15", null, null, "0.0", null, null, null, null, "0.0", null, null, "0", "0", "0.0", null, "0.00", "0.00", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", null, null, "0", "0", null, "0", "0", null, "0.00", "0.00", null, "99.990", null, null, "0", "750", null, null, null, null, null, "225", null, null, null, null, null ]
+, [ 35, "A3449E28-5636-45E2-B3B3-4194EAF61CE0", 35, 1413305247, "865572", 1413410524, "865572", null, "2015-01-31T00:00:00", "Jan-15", null, null, null, "0.0", null, null, null, null, "0.0", null, null, "0", "0", "0.0", null, "0.00", "0.00", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", null, null, "0", "0", null, "0", "0", null, "0.00", "0.00", null, "99.990", null, null, "0", "750", null, null, null, null, null, "225", null, null, null, null, null ]
+, [ 36, "FCB2DCD3-5D02-490D-A2D1-F44C7EFB5FCB", 36, 1413305247, "865572", 1413410526, "865572", null, "2015-02-28T00:00:00", "Feb-15", null, null, null, "0.0", null, null, null, null, "0.0", null, null, "0", "0", "0.0", null, "0.00", "0.00", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", null, null, "0", "0", null, "0", "0", null, "0.00", "0.00", null, "99.990", null, null, "0", "750", null, null, null, null, null, "225", null, null, null, null, null ]
+, [ 37, "EB0F7C13-4137-40EE-9402-07A0C591B3BC", 37, 1413305247, "865572", 1413410527, "865572", null, "2015-03-31T00:00:00", "Mar-15", "Q3 FY15", null, null, "0.0", null, null, null, null, "0.0", null, null, "0", "0", "0.0", null, "0.00", "0.00", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", null, null, "0", "0", null, "0", "0", null, "0.00", "0.00", null, "99.990", null, null, "0", "750", null, null, null, null, null, "250", null, null, null, null, null ]
+, [ 38, "A1FBA3AB-0502-4A38-AADF-5A5D9D899C18", 38, 1413305247, "865572", 1413410529, "865572", null, "2015-04-30T00:00:00", "Apr-15", null, null, null, "0.0", null, null, null, null, "0.0", null, null, "0", "0", "0.0", null, "0.00", "0.00", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", null, null, "0", "0", null, "0", "0", null, "0.00", "0.00", null, "99.990", null, null, "0", "750", null, null, null, null, null, "250", null, null, null, null, null ]
+, [ 39, "DC86E60F-9FD1-4A49-A7BD-D68150AC6748", 39, 1413305247, "865572", 1413410531, "865572", null, "2015-05-31T00:00:00", "May-15", null, null, null, "0.0", null, null, null, null, "0.0", null, null, "0", "0", "0.0", null, "0.00", "0.00", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", null, null, "0", "0", null, "0", "0", null, "0.00", "0.00", null, "99.990", null, null, "0", "1000", null, null, null, null, null, "275", null, null, null, null, null ]
+, [ 40, "57D5A517-76ED-4ED3-8CF3-444B6675B865", 40, 1413305247, "865572", 1413323834, "865572", "{\"invalidCells\":{}}", "2015-06-30T00:00:00", "Jun-15", "Q4 FY15", "FY 2015", "0.0", "0.0", "0.0", "95.0", null, null, "0.0", "0", "6570", "0", "6570", "0.0", null, "0.00", "0.00", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", null, "6000", "0", "1800", "0", "0", "0", "1200", "0.00", "0.00", null, "99.995", "1318", "1582", "0", "1000", null, "515", null, null, null, "275", null, "99.000", null, "2500000", null ]
+, [ 49, "175714A3-534B-4459-A0A1-742373A3D5EA", 49, 1413305247, "865572", 1413305247, "865572", "{\n}", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "0.00", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 48, "5146410F-6F63-4298-A34E-736F7A90E7EC", 48, 1413305247, "865572", 1413305247, "865572", "{\n}", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "0.00", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 47, "DC4F4A0B-DD8C-4C94-B59D-A2AB860E693F", 47, 1413305247, "865572", 1413305247, "865572", "{\n}", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "0.00", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 46, "6FDC0AB8-0C0D-4F4B-B13E-6E25DA43EA44", 46, 1413305247, "865572", 1413305247, "865572", "{\n}", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "0.00", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 45, "9E25C37E-D20D-4E2E-B9F6-31F158F4E795", 45, 1413305247, "865572", 1413305247, "865572", "{\n}", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "0.00", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 44, "3EF247EC-FD88-4164-BB7E-850615B5BB6B", 44, 1413305247, "865572", 1413305247, "865572", "{\n}", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "0.00", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 43, "8A844F53-6F75-4C5E-B1AF-86861D526A51", 43, 1413305247, "865572", 1413305247, "865572", "{\n}", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "0.00", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 42, "555D6B4E-E654-4717-B81D-E543603A3A41", 42, 1413305247, "865572", 1413305247, "865572", "{\n}", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "0.00", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 41, "789F3DBD-09D7-44ED-A63C-A52482B05BF1", 41, 1413305247, "865572", 1413305247, "865572", "{\n}", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "0.00", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+ ]
+}

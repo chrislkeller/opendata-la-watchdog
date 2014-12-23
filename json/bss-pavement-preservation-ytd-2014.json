@@ -1,0 +1,413 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "h63n-bpd9",
+      "name" : "BSS - Pavement Preservation YTD 2014",
+      "averageRating" : 0,
+      "createdAt" : 1401486864,
+      "description" : "Progress towards achieving 240 centerline miles in 2014",
+      "displayType" : "table",
+      "downloadCount" : 4,
+      "indexUpdatedAt" : 1414613589,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8108839,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401487203,
+      "publicationGroup" : 1600584,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1401487138,
+      "rowsUpdatedBy" : "ddg3-br68",
+      "tableId" : 1600589,
+      "totalTimesRated" : 0,
+      "viewCount" : 31,
+      "viewLastModified" : 1402609649,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150662153,
+        "name" : "Date",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date",
+        "position" : 1,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 20021847,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : "2013-12-31T00:00:00",
+          "null" : 0,
+          "largest" : "2014-06-30T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2013-12-31T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2014-01-31T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2014-02-28T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2014-03-31T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2014-04-30T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2014-05-31T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2014-06-30T00:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150662154,
+        "name" : "Date Name",
+        "dataTypeName" : "text",
+        "fieldName" : "date_name",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20021848,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : "Apr",
+          "null" : 0,
+          "largest" : "May",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Dec"
+          }, {
+            "count" : 19,
+            "item" : "Jan"
+          }, {
+            "count" : 18,
+            "item" : "Feb"
+          }, {
+            "count" : 17,
+            "item" : "Mar"
+          }, {
+            "count" : 16,
+            "item" : "Apr"
+          }, {
+            "count" : 15,
+            "item" : "May"
+          }, {
+            "count" : 14,
+            "item" : "Jun"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150662155,
+        "name" : "YTD Percent Complete",
+        "dataTypeName" : "percent",
+        "fieldName" : "ytd_percent_complete",
+        "position" : 3,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 20021849,
+        "width" : 340,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "47",
+          "sum" : "325",
+          "null" : 2,
+          "average" : "65",
+          "largest" : "87",
+          "top" : [ {
+            "count" : 20,
+            "item" : "47"
+          }, {
+            "count" : 19,
+            "item" : "54"
+          }, {
+            "count" : 18,
+            "item" : "63"
+          }, {
+            "count" : 17,
+            "item" : "74"
+          }, {
+            "count" : 16,
+            "item" : "87"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150662156,
+        "name" : "Planned Trajectory",
+        "dataTypeName" : "percent",
+        "fieldName" : "planned_trajectory",
+        "position" : 4,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 20021850,
+        "width" : 316,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : "50",
+          "sum" : "525",
+          "null" : 0,
+          "average" : "75",
+          "largest" : "100",
+          "top" : [ {
+            "count" : 20,
+            "item" : "50"
+          }, {
+            "count" : 19,
+            "item" : "58"
+          }, {
+            "count" : 18,
+            "item" : "67"
+          }, {
+            "count" : 17,
+            "item" : "75"
+          }, {
+            "count" : 16,
+            "item" : "83"
+          }, {
+            "count" : 15,
+            "item" : "92"
+          }, {
+            "count" : 14,
+            "item" : "100"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150662157,
+        "name" : "Deviation",
+        "dataTypeName" : "percent",
+        "fieldName" : "deviation",
+        "position" : 5,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 20021851,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "-4",
+          "sum" : "-8",
+          "null" : 2,
+          "average" : "-1.6",
+          "largest" : "4",
+          "top" : [ {
+            "count" : 20,
+            "item" : "-3"
+          }, {
+            "count" : 19,
+            "item" : "-4"
+          }, {
+            "count" : 18,
+            "item" : "-1"
+          }, {
+            "count" : 17,
+            "item" : "4"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150662158,
+        "name" : "Centerline Miles Completed",
+        "dataTypeName" : "number",
+        "fieldName" : "centerline_miles_completed",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20021852,
+        "width" : 412,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "115",
+          "sum" : "794",
+          "null" : 2,
+          "average" : "158.8",
+          "largest" : "212",
+          "top" : [ {
+            "count" : 20,
+            "item" : "115"
+          }, {
+            "count" : 19,
+            "item" : "132"
+          }, {
+            "count" : 18,
+            "item" : "154"
+          }, {
+            "count" : 17,
+            "item" : "181"
+          }, {
+            "count" : 16,
+            "item" : "212"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150662159,
+        "name" : "Target",
+        "dataTypeName" : "number",
+        "fieldName" : "target",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20021853,
+        "width" : 172,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : "123",
+          "sum" : "1286",
+          "null" : 0,
+          "average" : "183.7142857142857",
+          "largest" : "245",
+          "top" : [ {
+            "count" : 20,
+            "item" : "123"
+          }, {
+            "count" : 19,
+            "item" : "142"
+          }, {
+            "count" : 18,
+            "item" : "164"
+          }, {
+            "count" : 17,
+            "item" : "184"
+          }, {
+            "count" : 16,
+            "item" : "203"
+          }, {
+            "count" : 15,
+            "item" : "225"
+          }, {
+            "count" : 14,
+            "item" : "245"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "df4s-jhab",
+        "displayName" : "Public Works: Street Services OpenData",
+        "profileImageUrlLarge" : "/images/profile/6459/7718/bss_logo_notagline_large.png",
+        "profileImageUrlMedium" : "/images/profile/6459/7718/bss_logo_notagline_thumb.png",
+        "profileImageUrlSmall" : "/images/profile/6459/7718/bss_logo_notagline_tiny.png",
+        "roleName" : "editor",
+        "screenName" : "Public Works: Street Services OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "df4s-jhab",
+        "displayName" : "Public Works: Street Services OpenData",
+        "profileImageUrlLarge" : "/images/profile/6459/7718/bss_logo_notagline_large.png",
+        "profileImageUrlMedium" : "/images/profile/6459/7718/bss_logo_notagline_thumb.png",
+        "profileImageUrlSmall" : "/images/profile/6459/7718/bss_logo_notagline_tiny.png",
+        "roleName" : "editor",
+        "screenName" : "Public Works: Street Services OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "B5CFC94D-5D9D-45C7-ABC6-E9B0DAF79A4A", 1, 1401486870, "882858", 1401486870, "882858", "{\n}", "2013-12-31T00:00:00", "Dec", "47", "50", "-3", "115", "123" ]
+, [ 2, "3460C209-EFA1-4210-9C5C-A543DF2015F5", 2, 1401486870, "882858", 1401486870, "882858", "{\n}", "2014-01-31T00:00:00", "Jan", "54", "58", "-4", "132", "142" ]
+, [ 3, "2C361BB5-8C81-4913-A45C-F19AC616A527", 3, 1401486870, "882858", 1401486870, "882858", "{\n}", "2014-02-28T00:00:00", "Feb", "63", "67", "-4", "154", "164" ]
+, [ 4, "48180B0C-0959-4F44-A8B8-50CD46C2AD4B", 4, 1401486870, "882858", 1401486870, "882858", "{\n}", "2014-03-31T00:00:00", "Mar", "74", "75", "-1", "181", "184" ]
+, [ 5, "68A8A498-BFC7-492B-9596-A293EC7C8E8F", 5, 1401486870, "882858", 1401486870, "882858", "{\n}", "2014-04-30T00:00:00", "Apr", "87", "83", "4", "212", "203" ]
+, [ 6, "68ED922C-96FB-4FA4-95E9-43A5C77BF7B6", 6, 1401486870, "882858", 1401486870, "882858", "{\n}", "2014-05-31T00:00:00", "May", null, "92", null, null, "225" ]
+, [ 7, "E263BA14-9663-490D-AAB3-C42498812E66", 7, 1401486870, "882858", 1401486870, "882858", "{\n}", "2014-06-30T00:00:00", "Jun", null, "100", null, null, "245" ]
+ ]
+}

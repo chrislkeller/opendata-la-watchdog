@@ -1,0 +1,1030 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "9js5-j32d",
+      "name" : "Aging - Performance Metrics",
+      "attribution" : "Department of Aging",
+      "averageRating" : 0,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1409076027,
+      "description" : "This dataset contains metrics that measure the operational performance of the Department of Aging. These metrics are used on a regular basis by the department and the Mayor to evaluate progress and inform decision making.  Performance management forms the foundation of a data-driven culture of innovation and excellence in the City of Los Angeles.",
+      "displayType" : "table",
+      "downloadCount" : 7,
+      "indexUpdatedAt" : 1414613948,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 9057344,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1412745369,
+      "publicationGroup" : 1697141,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1412745331,
+      "rowsUpdatedBy" : "anbw-drra",
+      "tableId" : 1771321,
+      "totalTimesRated" : 0,
+      "viewCount" : 19,
+      "viewLastModified" : 1412745369,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 170187444,
+        "name" : "Date Value",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date_value",
+        "position" : 2,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 21621955,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 39,
+          "smallest" : "2010-06-30T00:00:00",
+          "null" : 0,
+          "largest" : "2015-06-30T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2010-06-30T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2011-06-30T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2012-06-30T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2012-07-31T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2012-08-31T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2012-09-30T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2012-10-31T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2012-11-30T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2012-12-31T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2013-01-31T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2013-02-28T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2013-03-31T00:00:00"
+          }, {
+            "count" : 8,
+            "item" : "2013-04-30T00:00:00"
+          }, {
+            "count" : 7,
+            "item" : "2013-05-31T00:00:00"
+          }, {
+            "count" : 6,
+            "item" : "2013-06-30T00:00:00"
+          }, {
+            "count" : 5,
+            "item" : "2013-07-31T00:00:00"
+          }, {
+            "count" : 4,
+            "item" : "2013-08-31T00:00:00"
+          }, {
+            "count" : 3,
+            "item" : "2013-09-30T00:00:00"
+          }, {
+            "count" : 2,
+            "item" : "2013-10-31T00:00:00"
+          }, {
+            "count" : 1,
+            "item" : "2013-11-30T00:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170187445,
+        "name" : "Month-Year",
+        "dataTypeName" : "text",
+        "fieldName" : "month_year",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21621956,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 39,
+          "smallest" : "Apr-13",
+          "null" : 0,
+          "largest" : "Sep-14",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Jun-10"
+          }, {
+            "count" : 19,
+            "item" : "Jun-11"
+          }, {
+            "count" : 18,
+            "item" : "Jun-12"
+          }, {
+            "count" : 17,
+            "item" : "Jul-12"
+          }, {
+            "count" : 16,
+            "item" : "Aug-12"
+          }, {
+            "count" : 15,
+            "item" : "Sep-12"
+          }, {
+            "count" : 14,
+            "item" : "Oct-12"
+          }, {
+            "count" : 13,
+            "item" : "Nov-12"
+          }, {
+            "count" : 12,
+            "item" : "Dec-12"
+          }, {
+            "count" : 11,
+            "item" : "Jan-13"
+          }, {
+            "count" : 10,
+            "item" : "Feb-13"
+          }, {
+            "count" : 9,
+            "item" : "Mar-13"
+          }, {
+            "count" : 8,
+            "item" : "Apr-13"
+          }, {
+            "count" : 7,
+            "item" : "May-13"
+          }, {
+            "count" : 6,
+            "item" : "Jun-13"
+          }, {
+            "count" : 5,
+            "item" : "Jul-13"
+          }, {
+            "count" : 4,
+            "item" : "Aug-13"
+          }, {
+            "count" : 3,
+            "item" : "Sep-13"
+          }, {
+            "count" : 2,
+            "item" : "Oct-13"
+          }, {
+            "count" : 1,
+            "item" : "Nov-13"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170187446,
+        "name" : "Quarter-FY",
+        "dataTypeName" : "text",
+        "fieldName" : "quarter_fy",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21621957,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 15,
+          "smallest" : "Q1 FY13",
+          "null" : 24,
+          "largest" : "Q4 FY15",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Q4 FY10"
+          }, {
+            "count" : 19,
+            "item" : "Q4 FY11"
+          }, {
+            "count" : 18,
+            "item" : "Q4 FY12"
+          }, {
+            "count" : 17,
+            "item" : "Q1 FY13"
+          }, {
+            "count" : 16,
+            "item" : "Q2 FY13"
+          }, {
+            "count" : 15,
+            "item" : "Q3 FY13"
+          }, {
+            "count" : 14,
+            "item" : "Q4 FY13"
+          }, {
+            "count" : 13,
+            "item" : "Q1 FY14"
+          }, {
+            "count" : 12,
+            "item" : "Q2 FY14"
+          }, {
+            "count" : 11,
+            "item" : "Q3 FY14"
+          }, {
+            "count" : 10,
+            "item" : "Q4 FY14"
+          }, {
+            "count" : 9,
+            "item" : "Q1 FY15"
+          }, {
+            "count" : 8,
+            "item" : "Q2 FY15"
+          }, {
+            "count" : 7,
+            "item" : "Q3 FY15"
+          }, {
+            "count" : 6,
+            "item" : "Q4 FY15"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170187447,
+        "name" : "Annual-FY",
+        "dataTypeName" : "text",
+        "fieldName" : "annual_fy",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21621958,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "FY 2010",
+          "null" : 33,
+          "largest" : "FY 2015",
+          "top" : [ {
+            "count" : 20,
+            "item" : "FY 2010"
+          }, {
+            "count" : 19,
+            "item" : "FY 2011"
+          }, {
+            "count" : 18,
+            "item" : "FY 2012"
+          }, {
+            "count" : 17,
+            "item" : "FY 2013"
+          }, {
+            "count" : 16,
+            "item" : "FY 2014"
+          }, {
+            "count" : 15,
+            "item" : "FY 2015"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170187448,
+        "name" : "# of Meals Given to Seniors (Annually FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "of_meals_given_to_seniors_annually_fy",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21621959,
+        "width" : 592,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "1310000",
+          "sum" : "6018000",
+          "null" : 35,
+          "average" : "1504500",
+          "largest" : "1621000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1310000"
+          }, {
+            "count" : 19,
+            "item" : "1621000"
+          }, {
+            "count" : 18,
+            "item" : "1570000"
+          }, {
+            "count" : 17,
+            "item" : "1517000"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170187449,
+        "name" : "PROJECTED: # of Meals Given to Seniors (Annually FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "projected_of_meals_given_to_seniors_annually_fy",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21621960,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "1442",
+          "sum" : "3094",
+          "null" : 37,
+          "average" : "1547",
+          "largest" : "1652",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1442"
+          }, {
+            "count" : 19,
+            "item" : "1652"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170187450,
+        "name" : "# of Home Delivered Meals - Cumulative FYTD (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "of_home_delivered_meals_cumulative_fytd_monthly",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21621961,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 12,
+          "smallest" : "67833",
+          "sum" : "4977315",
+          "null" : 27,
+          "average" : "414776.25",
+          "largest" : "748740",
+          "top" : [ {
+            "count" : 20,
+            "item" : "67833"
+          }, {
+            "count" : 19,
+            "item" : "136396"
+          }, {
+            "count" : 18,
+            "item" : "196315"
+          }, {
+            "count" : 17,
+            "item" : "264944"
+          }, {
+            "count" : 16,
+            "item" : "324489"
+          }, {
+            "count" : 15,
+            "item" : "388831"
+          }, {
+            "count" : 14,
+            "item" : "452692"
+          }, {
+            "count" : 13,
+            "item" : "509551"
+          }, {
+            "count" : 12,
+            "item" : "570882"
+          }, {
+            "count" : 11,
+            "item" : "627221"
+          }, {
+            "count" : 10,
+            "item" : "689421"
+          }, {
+            "count" : 9,
+            "item" : "748740"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170187451,
+        "name" : "TARGET: Number of Home Delivered Meals - Cumulative FYTD (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "target_number_of_home_delivered_meals_cumulative_fytd_monthly",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21621962,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 0,
+          "sum" : "0",
+          "null" : 39
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170187452,
+        "name" : "Number of Congregate Meals - Cumulative FYTD (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "number_of_congregate_meals_cumulative_fytd_monthly",
+        "position" : 10,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21621963,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 12,
+          "smallest" : "64182",
+          "sum" : "4671868",
+          "null" : 27,
+          "average" : "389322.3333333333",
+          "largest" : "707701",
+          "top" : [ {
+            "count" : 20,
+            "item" : "64182"
+          }, {
+            "count" : 19,
+            "item" : "129389"
+          }, {
+            "count" : 18,
+            "item" : "186006"
+          }, {
+            "count" : 17,
+            "item" : "251332"
+          }, {
+            "count" : 16,
+            "item" : "304413"
+          }, {
+            "count" : 15,
+            "item" : "362067"
+          }, {
+            "count" : 14,
+            "item" : "418589"
+          }, {
+            "count" : 13,
+            "item" : "474685"
+          }, {
+            "count" : 12,
+            "item" : "534330"
+          }, {
+            "count" : 11,
+            "item" : "589620"
+          }, {
+            "count" : 10,
+            "item" : "649554"
+          }, {
+            "count" : 9,
+            "item" : "707701"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170187453,
+        "name" : "TARGET: Number of Congregate Meals - Cumulative FYTD (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "target_number_of_congregate_meals_cumulative_fytd_monthly",
+        "position" : 11,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21621964,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 0,
+          "sum" : "0",
+          "null" : 39
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170187454,
+        "name" : "Total number of Meals - Cumulative FYTD (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "total_number_of_meals_cumulative_fytd_monthly",
+        "position" : 12,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21621965,
+        "width" : 688,
+        "cachedContents" : {
+          "non_null" : 12,
+          "smallest" : "132015",
+          "sum" : "9780897",
+          "null" : 27,
+          "average" : "815074.75",
+          "largest" : "1527254",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1399876"
+          }, {
+            "count" : 19,
+            "item" : "1527254"
+          }, {
+            "count" : 18,
+            "item" : "132015"
+          }, {
+            "count" : 17,
+            "item" : "265785"
+          }, {
+            "count" : 16,
+            "item" : "382321"
+          }, {
+            "count" : 15,
+            "item" : "516276"
+          }, {
+            "count" : 14,
+            "item" : "628902"
+          }, {
+            "count" : 13,
+            "item" : "750898"
+          }, {
+            "count" : 12,
+            "item" : "871281"
+          }, {
+            "count" : 11,
+            "item" : "984236"
+          }, {
+            "count" : 10,
+            "item" : "1105212"
+          }, {
+            "count" : 9,
+            "item" : "1216841"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170187455,
+        "name" : "TARGET: Total number of Meals - Cumulative FYTD (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "target_total_number_of_meals_cumulative_fytd_monthly",
+        "position" : 13,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21621966,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "1500000",
+          "sum" : "1500000",
+          "null" : 38,
+          "average" : "1500000",
+          "largest" : "1500000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1500000"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170187456,
+        "name" : "Percentage of seniors who say they \"always\" like the meals provided at congregate meal centers (Annually FY)",
+        "dataTypeName" : "percent",
+        "fieldName" : "percentage_of_seniors_who_say_they_always_like_the_meals_provided_at_congregate_meal_centers_annually_fy",
+        "position" : 14,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21621967,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "32.63",
+          "sum" : "66.99",
+          "null" : 37,
+          "average" : "33.495",
+          "largest" : "34.36",
+          "top" : [ {
+            "count" : 20,
+            "item" : "34.36"
+          }, {
+            "count" : 19,
+            "item" : "32.63"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170187457,
+        "name" : "TARGET: Percentage of Seniors who say they \"always\" like the meals provided at the congregated meal centers (Annually FY)",
+        "dataTypeName" : "percent",
+        "fieldName" : "target_percentage_of_seniors_who_say_they_always_like_the_meals_provided_at_the_congregated_meal_centers_annually_fy",
+        "position" : 15,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21621968,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "70",
+          "sum" : "70",
+          "null" : 38,
+          "average" : "70",
+          "largest" : "70",
+          "top" : [ {
+            "count" : 20,
+            "item" : "70"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170187458,
+        "name" : "Percentage of seniors who say they \"sometimes\" like the meal provided at congregate meals centers (Annually FY)",
+        "dataTypeName" : "percent",
+        "fieldName" : "percentage_of_seniors_who_say_they_sometimes_like_the_meal_provided_at_congregate_meals_centers_annually_fy",
+        "position" : 16,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21621969,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "56.77",
+          "sum" : "114.95",
+          "null" : 37,
+          "average" : "57.475",
+          "largest" : "58.18",
+          "top" : [ {
+            "count" : 20,
+            "item" : "56.77"
+          }, {
+            "count" : 19,
+            "item" : "58.18"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170187459,
+        "name" : "TARGET: Percentage of seniors who say they \"sometimes\" like the meal provided at congregated meals centers (Annually FY)",
+        "dataTypeName" : "percent",
+        "fieldName" : "target_percentage_of_seniors_who_say_they_sometimes_like_the_meal_provided_at_congregated_meals_centers_annually_fy",
+        "position" : 17,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21621970,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "70",
+          "sum" : "70",
+          "null" : 38,
+          "average" : "70",
+          "largest" : "70",
+          "top" : [ {
+            "count" : 20,
+            "item" : "70"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170187460,
+        "name" : "Percentage of seniors who say they \"never\" like the meal provided at congregate meals centers (Annually FY)",
+        "dataTypeName" : "percent",
+        "fieldName" : "percentage_of_seniors_who_say_they_never_like_the_meal_provided_at_congregate_meals_centers_annually_fy",
+        "position" : 18,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21621971,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "1.14",
+          "sum" : "2.38",
+          "null" : 37,
+          "average" : "1.19",
+          "largest" : "1.24",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1.14"
+          }, {
+            "count" : 19,
+            "item" : "1.24"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170187461,
+        "name" : "TARGET: Percentage of seniors who say they \"never\" like the meal provided at congregated meals centers (Annually FY)",
+        "dataTypeName" : "percent",
+        "fieldName" : "target_percentage_of_seniors_who_say_they_never_like_the_meal_provided_at_congregated_meals_centers_annually_fy",
+        "position" : 19,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21621972,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "70",
+          "sum" : "70",
+          "null" : 38,
+          "average" : "70",
+          "largest" : "70",
+          "top" : [ {
+            "count" : 20,
+            "item" : "70"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170187462,
+        "name" : "# of Participants in the Older Workers Program (Annually FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "of_participants_in_the_older_workers_program_annually_fy",
+        "position" : 20,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21621973,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "114",
+          "sum" : "727",
+          "null" : 35,
+          "average" : "181.75",
+          "largest" : "230",
+          "top" : [ {
+            "count" : 20,
+            "item" : "213"
+          }, {
+            "count" : 19,
+            "item" : "230"
+          }, {
+            "count" : 18,
+            "item" : "170"
+          }, {
+            "count" : 17,
+            "item" : "114"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170187463,
+        "name" : "PROJECTED: # of Participants in the Older Workers Program (Annually FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "projected_of_participants_in_the_older_workers_program_annually_fy",
+        "position" : 21,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21621974,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "150",
+          "sum" : "300",
+          "null" : 37,
+          "average" : "150",
+          "largest" : "150",
+          "top" : [ {
+            "count" : 20,
+            "item" : "150"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170187464,
+        "name" : "# of Participants in Caregiver Information Sessions (Annually FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "of_participants_in_caregiver_information_sessions_annually_fy",
+        "position" : 22,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21621975,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "7788",
+          "sum" : "48849",
+          "null" : 35,
+          "average" : "12212.25",
+          "largest" : "14623",
+          "top" : [ {
+            "count" : 20,
+            "item" : "13412"
+          }, {
+            "count" : 19,
+            "item" : "13026"
+          }, {
+            "count" : 18,
+            "item" : "14623"
+          }, {
+            "count" : 17,
+            "item" : "7788"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170187465,
+        "name" : "PROJECTED: # of Participants in Caregiver Information Sessions (Annually FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "projected_of_participants_in_caregiver_information_sessions_annually_fy",
+        "position" : 23,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21621976,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "7200",
+          "sum" : "14400",
+          "null" : 37,
+          "average" : "7200",
+          "largest" : "7200",
+          "top" : [ {
+            "count" : 20,
+            "item" : "7200"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Board of Public Works" : "",
+            "LAPD" : "",
+            "City Administrative Officer" : "",
+            "Personnel " : "",
+            "Bureau of Engineering" : "",
+            "City Attorney" : "",
+            "Employee Relations Board" : "",
+            "Transportation" : "",
+            "Housing and Community Investment" : "",
+            "Library" : "",
+            "Recreation and Parks " : "",
+            "Neighborhood Empowerment" : "",
+            "Controller's Office" : "",
+            "El Pueblo" : "",
+            "Other" : "",
+            "Bureau of Sanitation" : "",
+            "Disability, Department on" : "",
+            "LACERS" : "",
+            "Cultural Affairs" : "",
+            "Information Technology" : "",
+            "Fire and Police Pensions" : "",
+            "Emergency Management" : "",
+            "General Services" : "",
+            "Council District 12" : "",
+            "Council District 13" : "",
+            "Council District 14" : "",
+            "Project Restore" : "",
+            "Council District 15" : "",
+            "Council District 10" : "",
+            "Council District 11" : "",
+            "Aging" : "",
+            "Bureau of Street Lighting" : "",
+            "City Clerk" : "",
+            "Bureau of Contract Administration" : "",
+            "Planning" : "",
+            "Harbor " : "",
+            "LAWA" : "",
+            "Public Accountability, The Office of" : "",
+            "Office of Finance" : "",
+            "Council District 03" : "",
+            "Council District 04" : "",
+            "Council District 01" : "",
+            "Council District 02" : "",
+            "Bureau of Street Services" : "",
+            "Zoo" : "",
+            "Council District 09" : "",
+            "Council District 07" : "",
+            "Council District 08" : "",
+            "Council District 05" : "",
+            "Council District 06" : "",
+            "Economic and Workforce Development" : "",
+            "LAFD" : "",
+            "Animal Services" : "",
+            "Ethics Commission" : "",
+            "Mayor's Office" : "",
+            "Housing Authority" : "",
+            "Building and Safety" : "",
+            "LADWP" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "tyhz-nfmm",
+        "displayName" : "Miguel Sangalang",
+        "roleName" : "administrator",
+        "screenName" : "Miguel Sangalang",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "tyhz-nfmm",
+        "displayName" : "Miguel Sangalang",
+        "roleName" : "administrator",
+        "screenName" : "Miguel Sangalang",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "tags" : [ "aging", "department of aging" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "34FCC8B7-9568-4D4A-A5BB-06B1E1DCB6B8", 1, 1412745305, "881225", 1412745305, "881225", "{\n}", "2010-06-30T00:00:00", "Jun-10", "Q4 FY10", "FY 2010", "1310000", null, null, null, null, null, null, null, null, null, null, null, null, null, "213", null, "13412", null ]
+, [ 2, "D1D66058-4D5C-4579-BD02-005A14319B92", 2, 1412745305, "881225", 1412745305, "881225", "{\n}", "2011-06-30T00:00:00", "Jun-11", "Q4 FY11", "FY 2011", "1621000", null, null, null, null, null, null, null, null, null, null, null, null, null, "230", null, "13026", null ]
+, [ 3, "4969F778-75F8-4BDF-BC66-C0F5CA900682", 3, 1412745305, "881225", 1412745305, "881225", "{\n}", "2012-06-30T00:00:00", "Jun-12", "Q4 FY12", "FY 2012", "1570000", null, null, null, null, null, "1399876", null, "34.36", null, "56.77", null, "1.14", null, "170", null, "14623", null ]
+, [ 4, "FBAFA413-DEB5-4E58-AFF2-BC2AA2D82FA9", 4, 1412745305, "881225", 1412745305, "881225", "{\n}", "2012-07-31T00:00:00", "Jul-12", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 5, "C6D21A8A-43AF-43A6-8E06-4E9608BE7794", 5, 1412745305, "881225", 1412745305, "881225", "{\n}", "2012-08-31T00:00:00", "Aug-12", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 6, "4C10C64A-1552-4F2B-91F0-C12EFC9377A2", 6, 1412745305, "881225", 1412745305, "881225", "{\n}", "2012-09-30T00:00:00", "Sep-12", "Q1 FY13", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 7, "E5A2C545-965C-4291-8802-530163A0CF85", 7, 1412745305, "881225", 1412745305, "881225", "{\n}", "2012-10-31T00:00:00", "Oct-12", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 8, "3674B64B-FF66-4CAF-A3EF-31D9568C06EC", 8, 1412745305, "881225", 1412745305, "881225", "{\n}", "2012-11-30T00:00:00", "Nov-12", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 9, "D8B43B8C-C424-41AA-AA40-2BD4CB271359", 9, 1412745305, "881225", 1412745305, "881225", "{\n}", "2012-12-31T00:00:00", "Dec-12", "Q2 FY13", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 10, "4D7440F2-C13C-4A81-AF24-F192D64AAB23", 10, 1412745305, "881225", 1412745305, "881225", "{\n}", "2013-01-31T00:00:00", "Jan-13", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 11, "A0E08CFE-3A8E-41D4-A1A5-4C8FA2933386", 11, 1412745305, "881225", 1412745305, "881225", "{\n}", "2013-02-28T00:00:00", "Feb-13", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 12, "8F313C3A-7BCE-4801-8D7B-C9B6A386A7B5", 12, 1412745305, "881225", 1412745305, "881225", "{\n}", "2013-03-31T00:00:00", "Mar-13", "Q3 FY13", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 13, "CAD26B93-702E-4A94-A780-442B5E344FC2", 13, 1412745305, "881225", 1412745305, "881225", "{\n}", "2013-04-30T00:00:00", "Apr-13", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 14, "C021A960-D8B0-4A67-A662-C38A6C2EC9A6", 14, 1412745305, "881225", 1412745305, "881225", "{\n}", "2013-05-31T00:00:00", "May-13", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 15, "B8179644-DABD-4FC8-B667-9072C7309DE9", 15, 1412745305, "881225", 1412745305, "881225", "{\n}", "2013-06-30T00:00:00", "Jun-13", "Q4 FY13", "FY 2013", "1517000", null, null, null, null, null, "1527254", null, "32.63", null, "58.18", null, "1.24", null, "114", null, "7788", null ]
+, [ 16, "8A498E33-9CD4-4589-9398-8BCC02D45B65", 16, 1412745305, "881225", 1412745305, "881225", "{\n}", "2013-07-31T00:00:00", "Jul-13", null, null, null, null, "67833", null, "64182", null, "132015", null, null, null, null, null, null, null, null, null, null, null ]
+, [ 17, "860FD6FF-7648-48A8-8DC1-BFF14BF84039", 17, 1412745305, "881225", 1412745305, "881225", "{\n}", "2013-08-31T00:00:00", "Aug-13", null, null, null, null, "136396", null, "129389", null, "265785", null, null, null, null, null, null, null, null, null, null, null ]
+, [ 18, "04433D9B-1464-4AB7-B778-36679E1D5337", 18, 1412745305, "881225", 1412745305, "881225", "{\n}", "2013-09-30T00:00:00", "Sep-13", "Q1 FY14", null, null, null, "196315", null, "186006", null, "382321", null, null, null, null, null, null, null, null, null, null, null ]
+, [ 19, "DC6D65AA-743F-403B-BDE1-5CC3C1EA68EE", 19, 1412745305, "881225", 1412745305, "881225", "{\n}", "2013-10-31T00:00:00", "Oct-13", null, null, null, null, "264944", null, "251332", null, "516276", null, null, null, null, null, null, null, null, null, null, null ]
+, [ 20, "2E50F070-0215-42EB-89EE-45D559CCAFD9", 20, 1412745305, "881225", 1412745305, "881225", "{\n}", "2013-11-30T00:00:00", "Nov-13", null, null, null, null, "324489", null, "304413", null, "628902", null, null, null, null, null, null, null, null, null, null, null ]
+, [ 21, "BF5CA368-8D49-41CC-A708-7DE04ED6A024", 21, 1412745305, "881225", 1412745305, "881225", "{\n}", "2013-12-31T00:00:00", "Dec-13", "Q2 FY14", null, null, null, "388831", null, "362067", null, "750898", null, null, null, null, null, null, null, null, null, null, null ]
+, [ 22, "C306C2E7-9278-4EF1-BB7B-E0C7A92E2037", 22, 1412745305, "881225", 1412745305, "881225", "{\n}", "2014-01-31T00:00:00", "Jan-14", null, null, null, null, "452692", null, "418589", null, "871281", null, null, null, null, null, null, null, null, null, null, null ]
+, [ 23, "D2CEE399-8C2E-499B-820A-1AC873FA1473", 23, 1412745305, "881225", 1412745305, "881225", "{\n}", "2014-02-28T00:00:00", "Feb-14", null, null, null, null, "509551", null, "474685", null, "984236", null, null, null, null, null, null, null, null, null, null, null ]
+, [ 24, "8E879B91-BFB1-4AC2-99F9-601BC734F760", 24, 1412745305, "881225", 1412745305, "881225", "{\n}", "2014-03-31T00:00:00", "Mar-14", "Q3 FY14", null, null, null, "570882", null, "534330", null, "1105212", null, null, null, null, null, null, null, null, null, null, null ]
+, [ 25, "28409A7A-6CA4-4A97-9EC6-BA3A71696E4B", 25, 1412745305, "881225", 1412745305, "881225", "{\n}", "2014-04-30T00:00:00", "Apr-14", null, null, null, null, "627221", null, "589620", null, "1216841", null, null, null, null, null, null, null, null, null, null, null ]
+, [ 26, "BD1F0CC9-BB87-48D3-8AF0-AF96E3DFB900", 26, 1412745305, "881225", 1412745305, "881225", "{\n}", "2014-05-31T00:00:00", "May-14", null, null, null, null, "689421", null, "649554", null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 27, "5B0FCADC-9DBA-4D6D-A0B2-0ADA63EA081F", 27, 1412745305, "881225", 1412745305, "881225", "{\n}", "2014-06-30T00:00:00", "Jun-14", "Q4 FY14", "FY 2014", null, "1442", "748740", null, "707701", null, null, "1500000", null, "70", null, "70", null, "70", null, "150", null, "7200" ]
+, [ 28, "3A38F7BD-D97B-42BD-80FB-0EE46124FD60", 28, 1412745305, "881225", 1412745305, "881225", "{\n}", "2014-07-31T00:00:00", "Jul-14", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 29, "6FA27BB6-C65A-43D0-892A-32F7FB5A2193", 29, 1412745305, "881225", 1412745305, "881225", "{\n}", "2014-08-31T00:00:00", "Aug-14", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 30, "395CA6FF-959D-4E2C-ADFC-92D76914A4C9", 30, 1412745305, "881225", 1412745305, "881225", "{\n}", "2014-09-30T00:00:00", "Sep-14", "Q1 FY15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 31, "1F6A2380-CEEA-4D71-A062-75F5E58C6B23", 31, 1412745305, "881225", 1412745305, "881225", "{\n}", "2014-10-31T00:00:00", "Oct-14", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 32, "6A9767C3-98EB-45BE-8F01-E96910D02F2B", 32, 1412745305, "881225", 1412745305, "881225", "{\n}", "2014-11-30T00:00:00", "Nov-14", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 33, "F9D318DB-9038-4F85-A46E-4D4526644CCF", 33, 1412745305, "881225", 1412745305, "881225", "{\n}", "2014-12-31T00:00:00", "Dec-14", "Q2 FY15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 34, "84306FF9-68F6-4E67-B86C-4C142436E633", 34, 1412745305, "881225", 1412745305, "881225", "{\n}", "2015-01-31T00:00:00", "Jan-15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 35, "6123B098-D645-4392-9C6E-3E9FB877B011", 35, 1412745305, "881225", 1412745305, "881225", "{\n}", "2015-02-28T00:00:00", "Feb-15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 36, "86180637-B46B-4DEC-8F46-82DEFC97CA30", 36, 1412745305, "881225", 1412745305, "881225", "{\n}", "2015-03-31T00:00:00", "Mar-15", "Q3 FY15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 37, "0C88B874-0159-44BE-9D55-244DDA45A11A", 37, 1412745305, "881225", 1412745305, "881225", "{\n}", "2015-04-30T00:00:00", "Apr-15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 38, "0607560D-23D7-41E1-8294-47A75E874801", 38, 1412745305, "881225", 1412745305, "881225", "{\n}", "2015-05-31T00:00:00", "May-15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 39, "20733158-27CD-4315-98B0-6BC5B8FC500E", 39, 1412745305, "881225", 1412745305, "881225", "{\n}", "2015-06-30T00:00:00", "Jun-15", "Q4 FY15", "FY 2015", null, "1652", null, null, null, null, null, null, null, null, null, null, null, null, null, "150", null, "7200" ]
+ ]
+}

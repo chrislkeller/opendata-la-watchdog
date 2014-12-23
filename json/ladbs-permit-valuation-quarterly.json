@@ -1,0 +1,510 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "55x4-9gk6",
+      "name" : "LADBS Permit Valuation - Quarterly",
+      "averageRating" : 0,
+      "category" : "A Prosperous City",
+      "createdAt" : 1401484376,
+      "description" : "LADBS Permit Valuation, an estimate of the value of all work and capital associated with new applications for development permits",
+      "displayType" : "table",
+      "downloadCount" : 3,
+      "indexUpdatedAt" : 1414613191,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8109265,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401496738,
+      "publicationGroup" : 1600531,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1401496173,
+      "rowsUpdatedBy" : "anbw-drra",
+      "tableId" : 1600723,
+      "totalTimesRated" : 0,
+      "viewCount" : 59,
+      "viewLastModified" : 1402609692,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150666843,
+        "name" : "Date Name",
+        "dataTypeName" : "text",
+        "fieldName" : "date_name",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20021119,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 19,
+          "smallest" : "Q1 FY 2010",
+          "null" : 0,
+          "largest" : "Q4 FY 2013",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Q1 FY 2010"
+          }, {
+            "count" : 19,
+            "item" : "Q2 FY 2010"
+          }, {
+            "count" : 18,
+            "item" : "Q3 FY 2010"
+          }, {
+            "count" : 17,
+            "item" : "Q4 FY 2010"
+          }, {
+            "count" : 16,
+            "item" : "Q1 FY 2011"
+          }, {
+            "count" : 15,
+            "item" : "Q2 FY 2011"
+          }, {
+            "count" : 14,
+            "item" : "Q3 FY 2011"
+          }, {
+            "count" : 13,
+            "item" : "Q4 FY 2011"
+          }, {
+            "count" : 12,
+            "item" : "Q1 FY 2012"
+          }, {
+            "count" : 11,
+            "item" : "Q2 FY 2012"
+          }, {
+            "count" : 10,
+            "item" : "Q3 FY 2012"
+          }, {
+            "count" : 9,
+            "item" : "Q4 FY 2012"
+          }, {
+            "count" : 8,
+            "item" : "Q1 FY 2013"
+          }, {
+            "count" : 7,
+            "item" : "Q2 FY 2013"
+          }, {
+            "count" : 6,
+            "item" : "Q3 FY 2013"
+          }, {
+            "count" : 5,
+            "item" : "Q4 FY 2013"
+          }, {
+            "count" : 4,
+            "item" : "Q1 FY 2014"
+          }, {
+            "count" : 3,
+            "item" : "Q2 FY 2014"
+          }, {
+            "count" : 2,
+            "item" : "Q3 FY 2014"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150666844,
+        "name" : "Date Value",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date_value",
+        "position" : 3,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 20021120,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 19,
+          "smallest" : "2009-09-30T00:00:00",
+          "null" : 0,
+          "largest" : "2014-03-31T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2009-09-30T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2009-12-31T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2010-03-31T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2010-06-30T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2010-09-30T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2010-12-31T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2011-03-31T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2011-06-30T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2011-09-30T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2011-12-31T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2012-03-31T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2012-06-30T00:00:00"
+          }, {
+            "count" : 8,
+            "item" : "2012-09-30T00:00:00"
+          }, {
+            "count" : 7,
+            "item" : "2012-12-31T00:00:00"
+          }, {
+            "count" : 6,
+            "item" : "2013-03-31T00:00:00"
+          }, {
+            "count" : 5,
+            "item" : "2013-06-30T00:00:00"
+          }, {
+            "count" : 4,
+            "item" : "2013-09-30T00:00:00"
+          }, {
+            "count" : 3,
+            "item" : "2013-12-31T00:00:00"
+          }, {
+            "count" : 2,
+            "item" : "2014-03-31T00:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150666845,
+        "name" : "Building Permit Valuation",
+        "dataTypeName" : "money",
+        "fieldName" : "building_permit_valuation",
+        "position" : 4,
+        "renderTypeName" : "money",
+        "tableColumnId" : 20021121,
+        "width" : 400,
+        "cachedContents" : {
+          "non_null" : 19,
+          "smallest" : "500000000.00",
+          "sum" : "17000000000.00",
+          "null" : 0,
+          "average" : "894736842.1052632",
+          "largest" : "1300000000.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "500000000.00"
+          }, {
+            "count" : 19,
+            "item" : "600000000.00"
+          }, {
+            "count" : 18,
+            "item" : "800000000.00"
+          }, {
+            "count" : 17,
+            "item" : "1100000000.00"
+          }, {
+            "count" : 16,
+            "item" : "700000000.00"
+          }, {
+            "count" : 15,
+            "item" : "900000000.00"
+          }, {
+            "count" : 14,
+            "item" : "1000000000.00"
+          }, {
+            "count" : 13,
+            "item" : "1200000000.00"
+          }, {
+            "count" : 12,
+            "item" : "1300000000.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150666846,
+        "name" : "One Year Earlier",
+        "dataTypeName" : "money",
+        "fieldName" : "one_year_earlier",
+        "position" : 5,
+        "renderTypeName" : "money",
+        "tableColumnId" : 20021122,
+        "width" : 292,
+        "cachedContents" : {
+          "non_null" : 15,
+          "smallest" : "500000000.00",
+          "sum" : "12300000000.00",
+          "null" : 4,
+          "average" : "820000000.00",
+          "largest" : "1100000000.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "500000000.00"
+          }, {
+            "count" : 19,
+            "item" : "600000000.00"
+          }, {
+            "count" : 18,
+            "item" : "800000000.00"
+          }, {
+            "count" : 17,
+            "item" : "1100000000.00"
+          }, {
+            "count" : 16,
+            "item" : "700000000.00"
+          }, {
+            "count" : 15,
+            "item" : "900000000.00"
+          }, {
+            "count" : 14,
+            "item" : "1000000000.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150666847,
+        "name" : "Absolute Change YOY",
+        "dataTypeName" : "money",
+        "fieldName" : "absolute_change_yoy",
+        "position" : 6,
+        "renderTypeName" : "money",
+        "tableColumnId" : 20021123,
+        "width" : 328,
+        "cachedContents" : {
+          "non_null" : 15,
+          "smallest" : "-200000000.00",
+          "sum" : "1700000000.00",
+          "null" : 4,
+          "average" : "113333333.3333333",
+          "largest" : "500000000.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "200000000.00"
+          }, {
+            "count" : 19,
+            "item" : "100000000.00"
+          }, {
+            "count" : 18,
+            "item" : "-100000000.00"
+          }, {
+            "count" : 17,
+            "item" : "300000000.00"
+          }, {
+            "count" : 16,
+            "item" : "0.00"
+          }, {
+            "count" : 15,
+            "item" : "-200000000.00"
+          }, {
+            "count" : 14,
+            "item" : "500000000.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150666848,
+        "name" : "% Change YOY",
+        "dataTypeName" : "percent",
+        "fieldName" : "change_yoy",
+        "position" : 7,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 20021124,
+        "width" : 244,
+        "cachedContents" : {
+          "non_null" : 15,
+          "smallest" : "-20",
+          "sum" : "247",
+          "null" : 4,
+          "average" : "16.46666666666667",
+          "largest" : "63",
+          "top" : [ {
+            "count" : 20,
+            "item" : "40"
+          }, {
+            "count" : 19,
+            "item" : "17"
+          }, {
+            "count" : 18,
+            "item" : "13"
+          }, {
+            "count" : 17,
+            "item" : "-9"
+          }, {
+            "count" : 16,
+            "item" : "-14"
+          }, {
+            "count" : 15,
+            "item" : "29"
+          }, {
+            "count" : 14,
+            "item" : "11"
+          }, {
+            "count" : 13,
+            "item" : "-10"
+          }, {
+            "count" : 12,
+            "item" : "50"
+          }, {
+            "count" : 11,
+            "item" : "0"
+          }, {
+            "count" : 10,
+            "item" : "-20"
+          }, {
+            "count" : 9,
+            "item" : "33"
+          }, {
+            "count" : 8,
+            "item" : "22"
+          }, {
+            "count" : 7,
+            "item" : "63"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Building and Safety"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "tdwf-cih6",
+        "displayName" : "Building and Safety OpenData",
+        "profileImageUrlLarge" : "/images/profile/9651/4450/City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9651/4450/City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9651/4450/City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Building and Safety OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "tdwf-cih6",
+        "displayName" : "Building and Safety OpenData",
+        "profileImageUrlLarge" : "/images/profile/9651/4450/City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9651/4450/City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9651/4450/City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Building and Safety OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "development", "dbs", "quarterly" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "02E7A31E-68D7-4EB0-814E-211792056C26", 1, 1401484378, "882515", 1401484378, "882515", "{\n}", "Q1 FY 2010", "2009-09-30T00:00:00", "500000000.00", null, null, null ]
+, [ 2, "8FDD3447-C11E-46AE-A614-6EC48CEE221D", 2, 1401484378, "882515", 1401484378, "882515", "{\n}", "Q2 FY 2010", "2009-12-31T00:00:00", "600000000.00", null, null, null ]
+, [ 3, "9D764E60-1AB1-4B30-B327-A9EF11FA1AD3", 3, 1401484378, "882515", 1401484378, "882515", "{\n}", "Q3 FY 2010", "2010-03-31T00:00:00", "800000000.00", null, null, null ]
+, [ 4, "6B2C6709-A04E-4775-9A7B-EC2BF0224F95", 4, 1401484378, "882515", 1401484378, "882515", "{\n}", "Q4 FY 2010", "2010-06-30T00:00:00", "1100000000.00", null, null, null ]
+, [ 5, "BB136394-4FD1-4462-8DE2-DD3095C8DC6F", 5, 1401484378, "882515", 1401484378, "882515", "{\n}", "Q1 FY 2011", "2010-09-30T00:00:00", "700000000.00", "500000000.00", "200000000.00", "40" ]
+, [ 6, "27DF4004-C177-43C4-B3BE-EE52C967776C", 6, 1401484378, "882515", 1401484378, "882515", "{\n}", "Q2 FY 2011", "2010-12-31T00:00:00", "700000000.00", "600000000.00", "100000000.00", "17" ]
+, [ 7, "28D3CBAB-0F37-4E1A-A45E-86A816EB9554", 7, 1401484378, "882515", 1401484378, "882515", "{\n}", "Q3 FY 2011", "2011-03-31T00:00:00", "900000000.00", "800000000.00", "100000000.00", "13" ]
+, [ 8, "47F6D7F8-93E0-4D17-900E-8C30836F10E9", 8, 1401484378, "882515", 1401484378, "882515", "{\n}", "Q4 FY 2011", "2011-06-30T00:00:00", "1000000000.00", "1100000000.00", "-100000000.00", "-9" ]
+, [ 9, "55013193-54A1-488B-8660-870BBCC20DD6", 9, 1401484378, "882515", 1401484378, "882515", "{\n}", "Q1 FY 2012", "2011-09-30T00:00:00", "600000000.00", "700000000.00", "-100000000.00", "-14" ]
+, [ 10, "38F0A4F8-DD32-461D-8E2A-9A567D7B26CF", 10, 1401484378, "882515", 1401484378, "882515", "{\n}", "Q2 FY 2012", "2011-12-31T00:00:00", "900000000.00", "700000000.00", "200000000.00", "29" ]
+, [ 11, "89F1D8D0-69D1-4B88-BC1B-DD9163BB55D8", 11, 1401484378, "882515", 1401484378, "882515", "{\n}", "Q3 FY 2012", "2012-03-31T00:00:00", "1000000000.00", "900000000.00", "100000000.00", "11" ]
+, [ 12, "1BB23D48-4554-4AEB-980F-72645EFACF94", 12, 1401484378, "882515", 1401484378, "882515", "{\n}", "Q4 FY 2012", "2012-06-30T00:00:00", "900000000.00", "1000000000.00", "-100000000.00", "-10" ]
+, [ 13, "0BBA5B97-5C1A-4AB5-A850-AC14255B1D41", 13, 1401484378, "882515", 1401484378, "882515", "{\n}", "Q1 FY 2013", "2012-09-30T00:00:00", "900000000.00", "600000000.00", "300000000.00", "50" ]
+, [ 14, "2441BC6F-D996-4FA8-AD2D-86B0EB58594E", 14, 1401484378, "882515", 1401484378, "882515", "{\n}", "Q2 FY 2013", "2012-12-31T00:00:00", "900000000.00", "900000000.00", "0.00", "0" ]
+, [ 15, "205A7FEE-7826-44DB-BC30-4078460D2C75", 15, 1401484378, "882515", 1401484378, "882515", "{\n}", "Q3 FY 2013", "2013-03-31T00:00:00", "800000000.00", "1000000000.00", "-200000000.00", "-20" ]
+, [ 16, "0E30BCA0-32B5-474D-9F5E-E5E179FB176B", 16, 1401484378, "882515", 1401484378, "882515", "{\n}", "Q4 FY 2013", "2013-06-30T00:00:00", "1200000000.00", "900000000.00", "300000000.00", "33" ]
+, [ 17, "C8AA07DC-BDAD-424A-958A-CA0F45AF1D29", 17, 1401484378, "882515", 1401484378, "882515", "{\n}", "Q1 FY 2014", "2013-09-30T00:00:00", "1100000000.00", "900000000.00", "200000000.00", "22" ]
+, [ 18, "08AEA0CD-474D-40F2-A981-6E339810D03E", 18, 1401484378, "882515", 1401484378, "882515", "{\n}", "Q2 FY 2014", "2013-12-31T00:00:00", "1100000000.00", "900000000.00", "200000000.00", "22" ]
+, [ 19, "FF18DBEF-CFFE-4289-8D08-1CF49FE5218A", 19, 1401484378, "882515", 1401484378, "882515", "{\n}", "Q3 FY 2014", "2014-03-31T00:00:00", "1300000000.00", "800000000.00", "500000000.00", "63" ]
+ ]
+}

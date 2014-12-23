@@ -1,0 +1,327 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "pd86-g9ej",
+      "name" : "Home Page - Featured Datasets",
+      "averageRating" : 0,
+      "createdAt" : 1396396056,
+      "displayType" : "table",
+      "downloadCount" : 1,
+      "indexUpdatedAt" : 1401547884,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8114379,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401547879,
+      "publicationGroup" : 1531438,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1401547870,
+      "rowsUpdatedBy" : "nk38-m7ev",
+      "tableId" : 1601434,
+      "totalTimesRated" : 0,
+      "viewCount" : 94,
+      "viewLastModified" : 1401903814,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150770799,
+        "name" : "Sort",
+        "dataTypeName" : "number",
+        "fieldName" : "sort",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18952433,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "1",
+          "sum" : "10",
+          "null" : 0,
+          "average" : "2.5",
+          "largest" : "4",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          }, {
+            "count" : 19,
+            "item" : "2"
+          }, {
+            "count" : 18,
+            "item" : "3"
+          }, {
+            "count" : 17,
+            "item" : "4"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150770800,
+        "name" : "Title",
+        "dataTypeName" : "text",
+        "fieldName" : "title",
+        "position" : 2,
+        "rdfProperties" : "",
+        "renderTypeName" : "text",
+        "tableColumnId" : 18952434,
+        "width" : 350,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "California Open Data (data.CA.gov)",
+          "null" : 0,
+          "largest" : "US Open Data (data.gov)",
+          "top" : [ {
+            "count" : 20,
+            "item" : "US Open Data (data.gov)"
+          }, {
+            "count" : 19,
+            "item" : "California Open Data (data.CA.gov)"
+          }, {
+            "count" : 18,
+            "item" : "LA County Open Data"
+          }, {
+            "count" : 17,
+            "item" : "ControlPanel.LA"
+          } ]
+        },
+        "format" : {
+          "rdf" : "",
+          "align" : "left"
+        }
+      }, {
+        "id" : 150770801,
+        "name" : "Body",
+        "dataTypeName" : "text",
+        "fieldName" : "body",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18952461,
+        "width" : 453,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "Financial Data for the City of LA including salaries and expenditures from the Office of the Controller",
+          "null" : 0,
+          "largest" : "The State of California was one of the first states to launch an open data repository. Data.CA.gov was designed to provide a single source of raw data in the state. By posting state government data in raw, machine-readable formats, it can be reformatted and reused in different ways, allowing the public greater access to build custom applications in order to analyze and display the information. Data.CA.gov provides information and raw data on the economy, public health, transportation, environment, and more on this single website.",
+          "top" : [ {
+            "count" : 20,
+            "item" : "The home of the U.S. Government’s open data Here you will find data, tools, and resources to conduct research, develop web and mobile applications, design data visualizations, and more."
+          }, {
+            "count" : 19,
+            "item" : "The State of California was one of the first states to launch an open data repository. Data.CA.gov was designed to provide a single source of raw data in the state. By posting state government data in raw, machine-readable formats, it can be reformatted and reused in different ways, allowing the public greater access to build custom applications in order to analyze and display the information. Data.CA.gov provides information and raw data on the economy, public health, transportation, environment, and more on this single website."
+          }, {
+            "count" : 18,
+            "item" : "The LA County GIS Data Portal is a rapidly growing resource where you can download shapefiles and get information about the County’s data holdings."
+          }, {
+            "count" : 17,
+            "item" : "Financial Data for the City of LA including salaries and expenditures from the Office of the Controller"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150770802,
+        "name" : "Link",
+        "dataTypeName" : "url",
+        "fieldName" : "link",
+        "position" : 4,
+        "rdfProperties" : "",
+        "renderTypeName" : "url",
+        "tableColumnId" : 18952436,
+        "width" : 262,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : {
+            "description" : "California Data",
+            "url" : "http://data.ca.gov"
+          },
+          "null" : 0,
+          "largest" : {
+            "description" : "US Data",
+            "url" : "http://www.data.gov"
+          },
+          "top" : [ {
+            "count" : 20,
+            "item" : {
+              "description" : "US Data",
+              "url" : "http://www.data.gov"
+            }
+          }, {
+            "count" : 19,
+            "item" : {
+              "description" : "California Data",
+              "url" : "http://data.ca.gov"
+            }
+          }, {
+            "count" : 18,
+            "item" : {
+              "description" : "LA County Data",
+              "url" : "http://egis3.lacounty.gov/dataportal/"
+            }
+          }, {
+            "count" : 17,
+            "item" : {
+              "description" : "City of LA Financial Data",
+              "url" : "https://controllerdata.lacity.org/"
+            }
+          } ]
+        },
+        "format" : {
+          "rdf" : "",
+          "align" : "left"
+        },
+        "subColumnTypes" : [ "url", "description" ]
+      }, {
+        "id" : 150770803,
+        "name" : "Image",
+        "dataTypeName" : "photo",
+        "fieldName" : "image",
+        "position" : 5,
+        "renderTypeName" : "photo",
+        "tableColumnId" : 18952460,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 4,
+          "null" : 0
+        },
+        "format" : {
+          "size" : "medium"
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "jsonQuery" : {
+          "order" : [ {
+            "ascending" : false,
+            "columnFieldName" : "link"
+          } ]
+        }
+      },
+      "owner" : {
+        "id" : "vcvp-yass",
+        "displayName" : "Dylan",
+        "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+        "screenName" : "Dylan",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+        "flags" : [ "admin" ]
+      },
+      "query" : {
+        "orderBys" : [ {
+          "ascending" : false,
+          "expression" : {
+            "columnId" : 150770802,
+            "type" : "column"
+          }
+        } ]
+      },
+      "rights" : [ "read" ],
+      "sortBys" : [ {
+        "id" : 0,
+        "viewColumnId" : 150770802
+      } ],
+      "tableAuthor" : {
+        "id" : "vcvp-yass",
+        "displayName" : "Dylan",
+        "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+        "screenName" : "Dylan",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+        "flags" : [ "admin" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "8190D1C0-F720-4CF9-B846-D88A23A4653D", 1, 1396396059, "710611", 1401327803, "879598", null, "1", "US Open Data (data.gov)", "The home of the U.S. Government’s open data Here you will find data, tools, and resources to conduct research, develop web and mobile applications, design data visualizations, and more.", [ "http://www.data.gov", "US Data" ], "ZXIABkmyXkWfOhzR9QmEU3tjCuYNq9u1qSdHEdevRwY" ]
+, [ 8, "40DD9FAC-5A12-4710-9864-EBB11CDA578D", 8, 1401545957, "865627", 1401547870, "865627", null, "4", "ControlPanel.LA", "Financial Data for the City of LA including salaries and expenditures from the Office of the Controller", [ "https://controllerdata.lacity.org/", "City of LA Financial Data" ], "fFzBDnOXagqCWwB0eQ2R2Ir3yy1NpaobWz4MfuYWKbw" ]
+, [ 7, "4F892BC8-01B5-4D5E-AB56-CFB235C0B472", 7, 1400453809, "865627", 1401327825, "879598", null, "3", "LA County Open Data", "The LA County GIS Data Portal is a rapidly growing resource where you can download shapefiles and get information about the County’s data holdings.", [ "http://egis3.lacounty.gov/dataportal/", "LA County Data" ], "Hpp-hPbqvHMuYvVJm8OPQf5LeNHfHULvh_eVCvqf5d0" ]
+, [ 6, "65336DD7-FA81-4486-895F-E47C499707AB", 6, 1400452864, "865627", 1401327811, "879598", null, "2", "California Open Data (data.CA.gov)", "The State of California was one of the first states to launch an open data repository. Data.CA.gov was designed to provide a single source of raw data in the state. By posting state government data in raw, machine-readable formats, it can be reformatted and reused in different ways, allowing the public greater access to build custom applications in order to analyze and display the information. Data.CA.gov provides information and raw data on the economy, public health, transportation, environment, and more on this single website.", [ "http://data.ca.gov", "California Data" ], "eiB9A_DQv83d51yoNQgBPrVi21lamBvdwoLVSSjTUeQ" ]
+ ]
+}

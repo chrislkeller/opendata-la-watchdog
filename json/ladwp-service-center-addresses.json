@@ -1,0 +1,468 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "uh2b-55sv",
+      "name" : "LADWP Service Center Addresses",
+      "attribution" : "LADWP",
+      "averageRating" : 0,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1399936246,
+      "description" : "Location of LADWP Service Center",
+      "displayType" : "table",
+      "downloadCount" : 16,
+      "indexUpdatedAt" : 1414612897,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8100591,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401420579,
+      "publicationGroup" : 1579043,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1401420512,
+      "rowsUpdatedBy" : "tgn6-4379",
+      "tableId" : 1599460,
+      "totalTimesRated" : 0,
+      "viewCount" : 97,
+      "viewLastModified" : 1401420579,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150472077,
+        "name" : "LADWP Service Center",
+        "dataTypeName" : "text",
+        "fieldName" : "ladwp_service_center",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19693598,
+        "width" : 340,
+        "cachedContents" : {
+          "non_null" : 15,
+          "smallest" : "Boyle Heights CSC",
+          "null" : 1,
+          "largest" : "Wilmington CSC",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Boyle Heights CSC"
+          }, {
+            "count" : 19,
+            "item" : "Central CSC"
+          }, {
+            "count" : 18,
+            "item" : "Crenshaw CSC"
+          }, {
+            "count" : 17,
+            "item" : "JFB Lobby CSC"
+          }, {
+            "count" : 16,
+            "item" : "Hollywood CSC"
+          }, {
+            "count" : 15,
+            "item" : "Lincoln Heights CSC"
+          }, {
+            "count" : 14,
+            "item" : "Slauson/Vermont CSC"
+          }, {
+            "count" : 13,
+            "item" : "Watts CSC"
+          }, {
+            "count" : 12,
+            "item" : "San Pedro CSC"
+          }, {
+            "count" : 11,
+            "item" : "Wilmington CSC"
+          }, {
+            "count" : 10,
+            "item" : "Van Nuys CSC"
+          }, {
+            "count" : 9,
+            "item" : "Canoga Park CSC"
+          }, {
+            "count" : 8,
+            "item" : "Mission Hills CSC"
+          }, {
+            "count" : 7,
+            "item" : "West Los Angeles CSC"
+          }, {
+            "count" : 6,
+            "item" : "Owens Valley / Bishop CSC"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150472078,
+        "name" : "Street Address",
+        "dataTypeName" : "text",
+        "fieldName" : "street_address",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19693599,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 15,
+          "smallest" : "11100 Sepulveda Boulevard",
+          "null" : 1,
+          "largest" : "931 N. Avalon Boulevard",
+          "top" : [ {
+            "count" : 20,
+            "item" : "919 S. Soto Street #10"
+          }, {
+            "count" : 19,
+            "item" : "4619 S. Central Avenue"
+          }, {
+            "count" : 18,
+            "item" : "4030 Crenshaw Boulevard"
+          }, {
+            "count" : 17,
+            "item" : "111 N. Hope Street"
+          }, {
+            "count" : 16,
+            "item" : "6547-B Sunset Boulevard"
+          }, {
+            "count" : 15,
+            "item" : "2417 Daly Street"
+          }, {
+            "count" : 14,
+            "item" : "5928 S. Vermont Avenue"
+          }, {
+            "count" : 13,
+            "item" : "1686 E. 103rd Street"
+          }, {
+            "count" : 12,
+            "item" : "535 W. 9th Street"
+          }, {
+            "count" : 11,
+            "item" : "931 N. Avalon Boulevard"
+          }, {
+            "count" : 10,
+            "item" : "6550 Van Nuys Boulevard"
+          }, {
+            "count" : 9,
+            "item" : "7229 Winnetka Avenue"
+          }, {
+            "count" : 8,
+            "item" : "11100 Sepulveda Boulevard"
+          }, {
+            "count" : 7,
+            "item" : "1394 S. Sepulveda Boulevard"
+          }, {
+            "count" : 6,
+            "item" : "300 Mandich Street"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150472079,
+        "name" : "Location 1",
+        "dataTypeName" : "location",
+        "fieldName" : "location_1",
+        "position" : 3,
+        "renderTypeName" : "location",
+        "tableColumnId" : 19693600,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 15,
+          "smallest" : {
+            "longitude" : "-118.42240918399972",
+            "latitude" : "37.380663927000455",
+            "human_address" : "{\"address\":\"\",\"city\":\"Bishop\",\"state\":\"CA\",\"zip\":\"93514\"}"
+          },
+          "null" : 1,
+          "largest" : {
+            "longitude" : "-118.26266940199969",
+            "latitude" : "33.78372064300049",
+            "human_address" : "{\"address\":\"\",\"city\":\"Wilmington\",\"state\":\"CA\",\"zip\":\"90744\"}"
+          },
+          "top" : [ {
+            "count" : 20,
+            "item" : {
+              "longitude" : "-118.20195663999971",
+              "latitude" : "34.02418193800048",
+              "human_address" : "{\"address\":\"\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90023\"}"
+            }
+          }, {
+            "count" : 19,
+            "item" : {
+              "longitude" : "-118.25903697699971",
+              "latitude" : "34.00790120200048",
+              "human_address" : "{\"address\":\"\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90011\"}"
+            }
+          }, {
+            "count" : 18,
+            "item" : {
+              "longitude" : "-118.34158773599972",
+              "latitude" : "34.01097312100046",
+              "human_address" : "{\"address\":\"\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90008\"}"
+            }
+          }, {
+            "count" : 17,
+            "item" : {
+              "longitude" : "-118.24204800599972",
+              "latitude" : "34.059480762000476",
+              "human_address" : "{\"address\":\"\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90012\"}"
+            }
+          }, {
+            "count" : 16,
+            "item" : {
+              "longitude" : "-118.32821815499972",
+              "latitude" : "34.10072355400047",
+              "human_address" : "{\"address\":\"\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90028\"}"
+            }
+          }, {
+            "count" : 15,
+            "item" : {
+              "longitude" : "-118.2131059239997",
+              "latitude" : "34.07752122500045",
+              "human_address" : "{\"address\":\"\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90031\"}"
+            }
+          }, {
+            "count" : 14,
+            "item" : {
+              "longitude" : "-118.2919460489997",
+              "latitude" : "33.95386236800044",
+              "human_address" : "{\"address\":\"\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90044\"}"
+            }
+          }, {
+            "count" : 13,
+            "item" : {
+              "longitude" : "-118.24697958699971",
+              "latitude" : "33.94895251300045",
+              "human_address" : "{\"address\":\"\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90002\"}"
+            }
+          }, {
+            "count" : 12,
+            "item" : {
+              "longitude" : "-118.29229799399968",
+              "latitude" : "33.73272331400045",
+              "human_address" : "{\"address\":\"\",\"city\":\"San Pedro\",\"state\":\"CA\",\"zip\":\"90731\"}"
+            }
+          }, {
+            "count" : 11,
+            "item" : {
+              "longitude" : "-118.26266940199969",
+              "latitude" : "33.78372064300049",
+              "human_address" : "{\"address\":\"\",\"city\":\"Wilmington\",\"state\":\"CA\",\"zip\":\"90744\"}"
+            }
+          }, {
+            "count" : 10,
+            "item" : {
+              "longitude" : "-118.4348272089997",
+              "latitude" : "34.181153951000454",
+              "human_address" : "{\"address\":\"\",\"city\":\"Van Nuys\",\"state\":\"CA\",\"zip\":\"91401\"}"
+            }
+          }, {
+            "count" : 9,
+            "item" : {
+              "longitude" : "-118.5759399529997",
+              "latitude" : "34.208401481000465",
+              "human_address" : "{\"address\":\"\",\"city\":\"Canoga Park\",\"state\":\"CA\",\"zip\":\"91306\"}"
+            }
+          }, {
+            "count" : 8,
+            "item" : {
+              "longitude" : "-118.46175755399969",
+              "latitude" : "34.262123129000486",
+              "human_address" : "{\"address\":\"\",\"city\":\"Mission Hills\",\"state\":\"CA\",\"zip\":\"91345\"}"
+            }
+          }, {
+            "count" : 7,
+            "item" : {
+              "longitude" : "-118.45025632399972",
+              "latitude" : "34.04518134900047",
+              "human_address" : "{\"address\":\"\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90025\"}"
+            }
+          }, {
+            "count" : 6,
+            "item" : {
+              "longitude" : "-118.42240918399972",
+              "latitude" : "37.380663927000455",
+              "human_address" : "{\"address\":\"\",\"city\":\"Bishop\",\"state\":\"CA\",\"zip\":\"93514\"}"
+            }
+          } ]
+        },
+        "format" : {
+        },
+        "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+      }, {
+        "id" : 150472080,
+        "name" : "Residential CS Phone Number",
+        "dataTypeName" : "phone",
+        "fieldName" : "customer_service_phone_number",
+        "position" : 4,
+        "renderTypeName" : "phone",
+        "tableColumnId" : 20004028,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : {
+            "phone_number" : "1-800-342-5397"
+          },
+          "null" : 0,
+          "largest" : {
+            "phone_number" : "1-800-342-5397"
+          },
+          "top" : [ {
+            "count" : 20,
+            "item" : {
+              "phone_number" : "1-800-342-5397"
+            }
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        },
+        "subColumnTypes" : [ "phone_number", "phone_type" ]
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "LADWP"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "jsonQuery" : {
+          "order" : [ {
+            "ascending" : true,
+            "columnFieldName" : "customer_service_phone_number"
+          } ]
+        }
+      },
+      "owner" : {
+        "id" : "hb8e-gdsp",
+        "displayName" : "LA DWP OpenData",
+        "profileImageUrlLarge" : "/images/profile/5225/6660/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5225/6660/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5225/6660/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LA DWP OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+        "orderBys" : [ {
+          "ascending" : true,
+          "expression" : {
+            "columnId" : 150472080,
+            "type" : "column"
+          }
+        } ]
+      },
+      "rights" : [ "read" ],
+      "sortBys" : [ {
+        "id" : 0,
+        "viewColumnId" : 150472080,
+        "flags" : [ "asc" ]
+      } ],
+      "tableAuthor" : {
+        "id" : "hb8e-gdsp",
+        "displayName" : "LA DWP OpenData",
+        "profileImageUrlLarge" : "/images/profile/5225/6660/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5225/6660/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5225/6660/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LA DWP OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "ladwp service center", "customer center" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "8FC56A15-8888-4DE4-BAA6-5DC8491CC2E1", 1, 1399936249, "877550", 1401419734, "865572", null, "Boyle Heights CSC", "919 S. Soto Street #10", [ "{\"address\":\"\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90023\"}", "34.02418193800048", "-118.20195663999971", null, false ], [ "1-800-342-5397", null ] ]
+, [ 2, "27A604BB-F360-43E1-A3DC-5704B8E37E1C", 2, 1399936249, "877550", 1401419747, "865572", null, "Central CSC", "4619 S. Central Avenue", [ "{\"address\":\"\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90011\"}", "34.00790120200048", "-118.25903697699971", null, false ], [ "1-800-342-5397", null ] ]
+, [ 3, "C6B73E54-84BB-4390-896A-3C79022814E6", 3, 1399936249, "877550", 1401419750, "865572", null, "Crenshaw CSC", "4030 Crenshaw Boulevard", [ "{\"address\":\"\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90008\"}", "34.01097312100046", "-118.34158773599972", null, false ], [ "1-800-342-5397", null ] ]
+, [ 4, "73A16C8C-82DE-4B67-BE94-5DFCBBD4D9CC", 4, 1399936249, "877550", 1401419752, "865572", null, "JFB Lobby CSC", "111 N. Hope Street", [ "{\"address\":\"\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90012\"}", "34.059480762000476", "-118.24204800599972", null, false ], [ "1-800-342-5397", null ] ]
+, [ 5, "A084F64A-C9D9-439F-AFEA-3A747C5424AB", 5, 1399936249, "877550", 1401419754, "865572", null, "Hollywood CSC", "6547-B Sunset Boulevard", [ "{\"address\":\"\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90028\"}", "34.10072355400047", "-118.32821815499972", null, false ], [ "1-800-342-5397", null ] ]
+, [ 6, "AFD2F1F4-9865-41D9-9D55-02A7F40EA3C6", 6, 1399936249, "877550", 1401419755, "865572", null, "Lincoln Heights CSC", "2417 Daly Street", [ "{\"address\":\"\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90031\"}", "34.07752122500045", "-118.2131059239997", null, false ], [ "1-800-342-5397", null ] ]
+, [ 7, "DB2E1F43-3D22-473A-845F-2EC14F425FB8", 7, 1399936249, "877550", 1401419757, "865572", null, "Slauson/Vermont CSC", "5928 S. Vermont Avenue", [ "{\"address\":\"\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90044\"}", "33.95386236800044", "-118.2919460489997", null, false ], [ "1-800-342-5397", null ] ]
+, [ 8, "669E0CCB-EDF4-4A32-AE1F-E3DB51BD58D2", 8, 1399936249, "877550", 1401419758, "865572", null, "Watts CSC", "1686 E. 103rd Street", [ "{\"address\":\"\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90002\"}", "33.94895251300045", "-118.24697958699971", null, false ], [ "1-800-342-5397", null ] ]
+, [ 9, "72740A27-FE2A-4C3A-B4E1-7E8BCE6028C6", 9, 1399936249, "877550", 1401419759, "865572", null, "San Pedro CSC", "535 W. 9th Street", [ "{\"address\":\"\",\"city\":\"San Pedro\",\"state\":\"CA\",\"zip\":\"90731\"}", "33.73272331400045", "-118.29229799399968", null, false ], [ "1-800-342-5397", null ] ]
+, [ 10, "0B3DA740-9B7A-45EE-9148-ADE61C57879B", 10, 1399936249, "877550", 1401419760, "865572", null, "Wilmington CSC", "931 N. Avalon Boulevard", [ "{\"address\":\"\",\"city\":\"Wilmington\",\"state\":\"CA\",\"zip\":\"90744\"}", "33.78372064300049", "-118.26266940199969", null, false ], [ "1-800-342-5397", null ] ]
+, [ 11, "18ACE105-FE12-4143-AEEE-65B9DD8A7D1D", 11, 1399936249, "877550", 1401419761, "865572", null, "Van Nuys CSC", "6550 Van Nuys Boulevard", [ "{\"address\":\"\",\"city\":\"Van Nuys\",\"state\":\"CA\",\"zip\":\"91401\"}", "34.181153951000454", "-118.4348272089997", null, false ], [ "1-800-342-5397", null ] ]
+, [ 12, "7EB1C5F0-6196-4E72-9641-2CC25902377A", 12, 1399936249, "877550", 1401419762, "865572", null, "Canoga Park CSC", "7229 Winnetka Avenue", [ "{\"address\":\"\",\"city\":\"Canoga Park\",\"state\":\"CA\",\"zip\":\"91306\"}", "34.208401481000465", "-118.5759399529997", null, false ], [ "1-800-342-5397", null ] ]
+, [ 13, "0035B670-3F97-419B-ADAA-C767760CA226", 13, 1399936249, "877550", 1401419763, "865572", null, "Mission Hills CSC", "11100 Sepulveda Boulevard", [ "{\"address\":\"\",\"city\":\"Mission Hills\",\"state\":\"CA\",\"zip\":\"91345\"}", "34.262123129000486", "-118.46175755399969", null, false ], [ "1-800-342-5397", null ] ]
+, [ 14, "F498AD70-5A40-478A-A0EB-104E74E4E977", 14, 1399936249, "877550", 1401419765, "865572", null, "West Los Angeles CSC", "1394 S. Sepulveda Boulevard", [ "{\"address\":\"\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90025\"}", "34.04518134900047", "-118.45025632399972", null, false ], [ "1-800-342-5397", null ] ]
+, [ 15, "1AC038AF-3432-4675-AFE2-958067E4A8A7", 15, 1399936249, "877550", 1401419766, "865572", null, "Owens Valley / Bishop CSC", "300 Mandich Street", [ "{\"address\":\"\",\"city\":\"Bishop\",\"state\":\"CA\",\"zip\":\"93514\"}", "37.380663927000455", "-118.42240918399972", null, false ], [ "1-800-342-5397", null ] ]
+, [ 17, "83E4B96E-D894-473C-9237-79B3EDB92C58", 17, 1401419777, "865572", 1401419777, "865572", null, null, null, [ null, null, null, null, null ], [ "1-800-342-5397", null ] ]
+ ]
+}

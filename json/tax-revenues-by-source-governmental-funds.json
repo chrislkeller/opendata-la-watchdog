@@ -1,0 +1,342 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "c9g5-c8dy",
+      "name" : "Tax Revenues by Source - Governmental Funds",
+      "attribution" : "Controller",
+      "attributionLink" : "http://controller.lacity.org/stellent/groups/ElectedOfficials/@CTR_Contributor/documents/Contributor_Web_Content/LACITYP_027750.pdf#page=382",
+      "averageRating" : 0,
+      "category" : "Revenue",
+      "createdAt" : 1390250787,
+      "description" : "CAFR Pages 340-341.\r\n\r\nModified Accrual Basis of Accounting. Last Ten Fiscal Years.\r\n(amounts expressed in thousands of dollars)",
+      "displayType" : "table",
+      "downloadCount" : 11,
+      "indexUpdatedAt" : 1414616971,
+      "licenseId" : "PUBLIC_DOMAIN",
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 7328018,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1392069767,
+      "publicationGroup" : 1447675,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1392069713,
+      "rowsUpdatedBy" : "7c7a-resi",
+      "tableId" : 1472346,
+      "totalTimesRated" : 0,
+      "viewCount" : 88,
+      "viewLastModified" : 1412744000,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 132780872,
+        "name" : "Fiscal Year",
+        "dataTypeName" : "number",
+        "fieldName" : "fiscal_year",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17691587,
+        "width" : 90,
+        "cachedContents" : {
+          "non_null" : 50,
+          "smallest" : "2004",
+          "sum" : "100425",
+          "null" : 0,
+          "average" : "2008.5",
+          "largest" : "2013",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2004"
+          }, {
+            "count" : 19,
+            "item" : "2005"
+          }, {
+            "count" : 18,
+            "item" : "2006"
+          }, {
+            "count" : 17,
+            "item" : "2007"
+          }, {
+            "count" : 16,
+            "item" : "2008"
+          }, {
+            "count" : 15,
+            "item" : "2009"
+          }, {
+            "count" : 14,
+            "item" : "2010"
+          }, {
+            "count" : 13,
+            "item" : "2011"
+          }, {
+            "count" : 12,
+            "item" : "2012"
+          }, {
+            "count" : 11,
+            "item" : "2013"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "true"
+        }
+      }, {
+        "id" : 132780873,
+        "name" : "Type",
+        "dataTypeName" : "text",
+        "fieldName" : "type",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17691588,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 50,
+          "smallest" : "       Business Taxes",
+          "null" : 0,
+          "largest" : "       Utility Users' Taxes",
+          "top" : [ {
+            "count" : 20,
+            "item" : "       Property Taxes"
+          }, {
+            "count" : 19,
+            "item" : "       Sales Taxes"
+          }, {
+            "count" : 18,
+            "item" : "       Utility Users' Taxes"
+          }, {
+            "count" : 17,
+            "item" : "       Business Taxes"
+          }, {
+            "count" : 16,
+            "item" : "       Other Taxes"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 132780874,
+        "name" : "Amount in Thousands",
+        "dataTypeName" : "number",
+        "fieldName" : "amount_in_thousands",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17691589,
+        "width" : 175,
+        "cachedContents" : {
+          "non_null" : 50,
+          "smallest" : "300585",
+          "sum" : "33278955",
+          "null" : 0,
+          "average" : "665579.1",
+          "largest" : "1755813",
+          "top" : [ {
+            "count" : 20,
+            "item" : "328059"
+          }, {
+            "count" : 19,
+            "item" : "634629"
+          }, {
+            "count" : 18,
+            "item" : "438969"
+          }, {
+            "count" : 17,
+            "item" : "451881"
+          }, {
+            "count" : 16,
+            "item" : "1755813"
+          }, {
+            "count" : 15,
+            "item" : "343628"
+          }, {
+            "count" : 14,
+            "item" : "623794"
+          }, {
+            "count" : 13,
+            "item" : "447983"
+          }, {
+            "count" : 12,
+            "item" : "516458"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "false"
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Public Domain"
+      },
+      "metadata" : {
+        "custom_fields" : {
+          "Department" : {
+            "Division" : "GAAP",
+            "Department" : "Controller",
+            "System" : "CAFR"
+          },
+          "Update Information" : {
+            "Update Cycle" : "Annual"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "7c7a-resi",
+        "displayName" : "Controller's Office",
+        "roleName" : "administrator",
+        "screenName" : "Controller's Office",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "7c7a-resi",
+        "displayName" : "Controller's Office",
+        "roleName" : "administrator",
+        "screenName" : "Controller's Office",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "tags" : [ "revenue", "fund", "tax", "city of los angeles", "city of los angeles controller", "city of la", "city of la controller", "ron galperin", "comprehensive annual financial report", "cafr", "net position", "asset type", "asset type group", "activity type", "cafr statistical section" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "D2F802CB-3CBA-4A47-9417-434EF67C3B4E", 1, 1390250789, "862121", 1390250789, "862121", "{\n}", "2004", "       Property Taxes", "882531" ]
+, [ 2, "1CF9E76F-87A4-429E-BA77-5728BF638D35", 2, 1390250789, "862121", 1390250789, "862121", "{\n}", "2004", "       Sales Taxes", "381090" ]
+, [ 3, "4EFE88EA-DACF-44D4-86ED-610F7BFC88B6", 3, 1390250789, "862121", 1390250789, "862121", "{\n}", "2004", "       Utility Users' Taxes", "572018" ]
+, [ 4, "6D62CB29-DEE1-4B3D-9CD6-63BA43F3CE21", 4, 1390250789, "862121", 1390250789, "862121", "{\n}", "2004", "       Business Taxes", "372376" ]
+, [ 5, "E0071F69-1715-4CBD-B0E3-D1B76B7E606B", 5, 1390250789, "862121", 1390250789, "862121", "{\n}", "2004", "       Other Taxes", "417474" ]
+, [ 6, "695C3964-764D-4352-A580-5D3F644ABD9A", 6, 1390250789, "862121", 1390250789, "862121", "{\n}", "2005", "       Property Taxes", "1229381" ]
+, [ 7, "20816D6F-D82C-4B76-8FBE-4B7264D2376A", 7, 1390250789, "862121", 1390250789, "862121", "{\n}", "2005", "       Sales Taxes", "303954" ]
+, [ 8, "B045BAB5-76CC-4C3E-A712-654D2404D0E6", 8, 1390250789, "862121", 1390250789, "862121", "{\n}", "2005", "       Utility Users' Taxes", "578542" ]
+, [ 9, "475382CA-85AD-4999-B634-F0B3FE9C5A99", 9, 1390250789, "862121", 1390250789, "862121", "{\n}", "2005", "       Business Taxes", "396316" ]
+, [ 10, "F373B391-FDD8-4E7E-9547-B041A66E5FF7", 10, 1390250789, "862121", 1390250789, "862121", "{\n}", "2005", "       Other Taxes", "452428" ]
+, [ 11, "5FF09C46-4004-4A76-B34A-10E792935045", 11, 1390250789, "862121", 1390250789, "862121", "{\n}", "2006", "       Property Taxes", "1365860" ]
+, [ 12, "ACFFE563-2BB5-42FF-A575-8996ABD8168F", 12, 1390250789, "862121", 1390250789, "862121", "{\n}", "2006", "       Sales Taxes", "329169" ]
+, [ 13, "B1A86C43-3B22-4366-BAAB-AAA30931CF3A", 13, 1390250789, "862121", 1390250789, "862121", "{\n}", "2006", "       Utility Users' Taxes", "606617" ]
+, [ 14, "F6B8BA23-365D-4A44-BBA9-B0F2A93B63FD", 14, 1390250789, "862121", 1390250789, "862121", "{\n}", "2006", "       Business Taxes", "436621" ]
+, [ 15, "3A24B902-58B4-44BB-BC7D-35480866086E", 15, 1390250789, "862121", 1390250789, "862121", "{\n}", "2006", "       Other Taxes", "521451" ]
+, [ 16, "DE94570C-D73E-4BD7-ACDA-647D8EEE4688", 16, 1390250789, "862121", 1390250789, "862121", "{\n}", "2007", "       Property Taxes", "1490223" ]
+, [ 17, "97B8C358-5DCB-47E7-ADF8-E514C33D4AE8", 17, 1390250789, "862121", 1390250789, "862121", "{\n}", "2007", "       Sales Taxes", "333386" ]
+, [ 18, "D879989C-EBF1-4AF9-A605-26DEDA5D696F", 18, 1390250789, "862121", 1390250789, "862121", "{\n}", "2007", "       Utility Users' Taxes", "606624" ]
+, [ 19, "AF93FA69-0F18-4B8B-9223-7C761D2BCF4E", 19, 1390250789, "862121", 1390250789, "862121", "{\n}", "2007", "       Business Taxes", "465353" ]
+, [ 20, "1D1EF6E0-F698-4C3D-89F3-2D45D041D0F0", 20, 1390250789, "862121", 1390250789, "862121", "{\n}", "2007", "       Other Taxes", "512410" ]
+, [ 21, "5AF29A32-3E89-4BD6-9260-60992AC0575F", 21, 1390250789, "862121", 1390250789, "862121", "{\n}", "2008", "       Property Taxes", "1585229" ]
+, [ 22, "EA492FB4-7C0C-4922-9D3E-97B4ABF53F99", 22, 1390250789, "862121", 1390250789, "862121", "{\n}", "2008", "       Sales Taxes", "337313" ]
+, [ 23, "C867F348-DE70-4852-A6EF-E5046C4FC211", 23, 1390250789, "862121", 1390250789, "862121", "{\n}", "2008", "       Utility Users' Taxes", "617199" ]
+, [ 24, "5EE895EF-2B58-489E-8DDF-76832FE390A0", 24, 1390250789, "862121", 1390250789, "862121", "{\n}", "2008", "       Business Taxes", "465124" ]
+, [ 25, "CF97A8EC-D5C3-4713-8FA3-8F2F6896840C", 25, 1390250789, "862121", 1390250789, "862121", "{\n}", "2008", "       Other Taxes", "475431" ]
+, [ 26, "AB12295B-9811-46F0-BF98-9E8422CC9FC3", 26, 1390250789, "862121", 1390250789, "862121", "{\n}", "2009", "       Property Taxes", "1702884" ]
+, [ 27, "1B7A20C0-7F74-4A80-850C-A997F4496F15", 27, 1390250789, "862121", 1390250789, "862121", "{\n}", "2009", "       Sales Taxes", "300585" ]
+, [ 28, "460531B3-7515-4047-835D-8914B08CF093", 28, 1390250789, "862121", 1390250789, "862121", "{\n}", "2009", "       Utility Users' Taxes", "646256" ]
+, [ 29, "A15B4C3E-A9A2-466D-AC2B-936C967848A1", 29, 1390250789, "862121", 1390250789, "862121", "{\n}", "2009", "       Business Taxes", "461374" ]
+, [ 30, "B7885046-2D02-4F24-A0FB-69806C73A628", 30, 1390250789, "862121", 1390250789, "862121", "{\n}", "2009", "       Other Taxes", "394990" ]
+, [ 31, "5A720B9F-3717-4BF2-B8B6-4C100C1846F5", 31, 1390250789, "862121", 1390250789, "862121", "{\n}", "2010", "       Property Taxes", "1648490" ]
+, [ 32, "5F05472D-9331-48D4-9443-4467EDF1B98E", 32, 1390250789, "862121", 1390250789, "862121", "{\n}", "2010", "       Sales Taxes", "311520" ]
+, [ 33, "15BD4F5C-5EBA-4AFC-BC1A-A4F21B7CAB6E", 33, 1390250789, "862121", 1390250789, "862121", "{\n}", "2010", "       Utility Users' Taxes", "628484" ]
+, [ 34, "0315AACB-1920-4857-A8B4-19FF6642F70D", 34, 1390250789, "862121", 1390250789, "862121", "{\n}", "2010", "       Business Taxes", "412287" ]
+, [ 35, "00AF59B7-CF39-4FC3-A837-7125389BD0BD", 35, 1390250789, "862121", 1390250789, "862121", "{\n}", "2010", "       Other Taxes", "396869" ]
+, [ 36, "625D0D2C-DEC0-4927-9561-6ED1EA4DBEA5", 36, 1390250789, "862121", 1390250789, "862121", "{\n}", "2011", "       Property Taxes", "1643696" ]
+, [ 37, "5A42B76B-142D-4092-96EA-015D18D5480C", 37, 1390250789, "862121", 1390250789, "862121", "{\n}", "2011", "       Sales Taxes", "337360" ]
+, [ 38, "9B03ED93-D4CC-4461-B3FD-C36F2F907733", 38, 1390250789, "862121", 1390250789, "862121", "{\n}", "2011", "       Utility Users' Taxes", "618307" ]
+, [ 39, "241A6BC2-0FB2-4EF8-B686-6984E3FC46B1", 39, 1390250789, "862121", 1390250789, "862121", "{\n}", "2011", "       Business Taxes", "424762" ]
+, [ 40, "63D7D3D8-46CE-480C-A518-0F28B9AD6DD5", 40, 1390250789, "862121", 1390250789, "862121", "{\n}", "2011", "       Other Taxes", "410938" ]
+, [ 41, "1BAB9450-476C-4309-A8DC-76BC651A6AFE", 41, 1390250789, "862121", 1390250789, "862121", "{\n}", "2012", "       Property Taxes", "1664819" ]
+, [ 42, "4EECB3F2-24E2-4F43-8F7F-1E8E27B76226", 42, 1390250789, "862121", 1390250789, "862121", "{\n}", "2012", "       Sales Taxes", "328059" ]
+, [ 43, "4AB364E5-F403-43E4-9CDE-F29B14F4A512", 43, 1390250789, "862121", 1390250789, "862121", "{\n}", "2012", "       Utility Users' Taxes", "634629" ]
+, [ 44, "52327E53-AB9F-4840-B3DD-68BB8CF91A8C", 44, 1390250789, "862121", 1390250789, "862121", "{\n}", "2012", "       Business Taxes", "438969" ]
+, [ 45, "82D2AAF0-D008-41F6-B731-F94FFD99BDD1", 45, 1390250789, "862121", 1390250789, "862121", "{\n}", "2012", "       Other Taxes", "451881" ]
+, [ 46, "C2CF411E-475F-4287-83BE-839E7E29D1E7", 46, 1390250789, "862121", 1390250789, "862121", "{\n}", "2013", "       Property Taxes", "1755813" ]
+, [ 47, "E62C53A5-04C1-439F-9058-6C8BAE632673", 47, 1390250789, "862121", 1390250789, "862121", "{\n}", "2013", "       Sales Taxes", "343628" ]
+, [ 48, "5452381B-298D-49CD-A1E0-FFBE4D7AD7B1", 48, 1390250789, "862121", 1390250789, "862121", "{\n}", "2013", "       Utility Users' Taxes", "623794" ]
+, [ 49, "A7FC0699-D667-4B40-9E6F-FA8463C8E318", 49, 1390250789, "862121", 1390250789, "862121", "{\n}", "2013", "       Business Taxes", "447983" ]
+, [ 50, "5A54D073-96DC-4B6F-8656-099F215FF8B6", 50, 1390250789, "862121", 1390250789, "862121", "{\n}", "2013", "       Other Taxes", "516458" ]
+ ]
+}

@@ -1,0 +1,257 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "hmvt-bjfk",
+      "name" : "Home Page Featured Scrolling Stories",
+      "averageRating" : 0,
+      "category" : "Internal",
+      "createdAt" : 1380047576,
+      "displayType" : "table",
+      "downloadCount" : 502,
+      "indexUpdatedAt" : 1414612771,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8550962,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1406833416,
+      "publicationGroup" : 1181409,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1406833411,
+      "rowsUpdatedBy" : "yikh-b4h5",
+      "tableId" : 1667563,
+      "totalTimesRated" : 0,
+      "viewCount" : 207,
+      "viewLastModified" : 1406833416,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 159948857,
+        "name" : "Order",
+        "dataTypeName" : "number",
+        "fieldName" : "order",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21099361,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 0,
+          "sum" : "0",
+          "null" : 3
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 159948858,
+        "name" : "Image",
+        "dataTypeName" : "photo",
+        "fieldName" : "image",
+        "position" : 2,
+        "renderTypeName" : "photo",
+        "tableColumnId" : 14820745,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 3,
+          "null" : 0
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 159948859,
+        "name" : "Title",
+        "dataTypeName" : "text",
+        "fieldName" : "title",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 14514262,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 3,
+          "smallest" : "L.A. Streets: The Road to the Future <br/> Click here to view our infographic based on our latest streets report",
+          "null" : 0,
+          "largest" : "What's your street's grade? <br/> Click here to find your street and see how it rates. <br/> 86-100 is an A, 71-85 is a B, 56-70 is a C, 41-55 is a D, and 40 or below is an F.",
+          "top" : [ {
+            "count" : 20,
+            "item" : "What's your street's grade? <br/> Click here to find your street and see how it rates. <br/> 86-100 is an A, 71-85 is a B, 56-70 is a C, 41-55 is a D, and 40 or below is an F."
+          }, {
+            "count" : 19,
+            "item" : "L.A. Streets: The Road to the Future <br/> Click here to view our infographic based on our latest streets report"
+          }, {
+            "count" : 18,
+            "item" : "Read the Report <br/> Click here to read the full L.A. Streets: The Road to the Future report"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 159948860,
+        "name" : "Link",
+        "dataTypeName" : "text",
+        "fieldName" : "link",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 14514263,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 3,
+          "smallest" : "http://bss.lacity.org/NeighborhoodCouncils/Street_Assessment_Map/map.html",
+          "null" : 0,
+          "largest" : "https://magic.piktochart.com/output/2308111-streets-1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "http://bss.lacity.org/NeighborhoodCouncils/Street_Assessment_Map/map.html"
+          }, {
+            "count" : 19,
+            "item" : "https://magic.piktochart.com/output/2308111-streets-1"
+          }, {
+            "count" : 18,
+            "item" : "http://controller.lacity.org/stellent/groups/electedofficials/@ctr_contributor/documents/contributor_web_content/lacityp_028722.pdf"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 159948861,
+        "name" : "Dataset Id",
+        "dataTypeName" : "text",
+        "fieldName" : "dataset_id",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 14514264,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 0,
+          "null" : 3
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Department" : {
+            "Controller" : "",
+            "Other" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "jsonQuery" : {
+          "order" : [ {
+            "ascending" : true,
+            "columnFieldName" : "sort"
+          } ]
+        },
+        "rdfSubject" : "0"
+      },
+      "owner" : {
+        "id" : "vcvp-yass",
+        "displayName" : "Dylan",
+        "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+        "roleName" : "administrator",
+        "screenName" : "Dylan",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+        "flags" : [ "admin" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "vcvp-yass",
+        "displayName" : "Dylan",
+        "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+        "roleName" : "administrator",
+        "screenName" : "Dylan",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+        "flags" : [ "admin" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 24, "694E7FA4-C163-4CAA-A2CB-C9BC1B424417", 24, 1406767092, "849710", 1406818815, "849676", null, null, "atmJeAkSaE5iv71dd_Mj4BvZJi2nBvik4P3s1AxtEc0", "What's your street's grade? <br/> Click here to find your street and see how it rates. <br/> 86-100 is an A, 71-85 is a B, 56-70 is a C, 41-55 is a D, and 40 or below is an F.", "http://bss.lacity.org/NeighborhoodCouncils/Street_Assessment_Map/map.html", null ]
+, [ 25, "5F28F4F1-81E3-448D-A3B0-3AEFBFF4D861", 25, 1406824321, "849710", 1406833401, "849710", null, null, "GuCNcR2tQkfOpGmUjXttNng17MGXowHqTmaKnYxbBlY", "L.A. Streets: The Road to the Future <br/> Click here to view our infographic based on our latest streets report", "https://magic.piktochart.com/output/2308111-streets-1", null ]
+, [ 26, "CEAE5DBE-9257-4823-BA8B-75EA72B0245D", 26, 1406831808, "849710", 1406833411, "849710", null, null, "EXSQFfMN17Anw6eEJ6aUjHnK8enALQS6LuD4kyP1FkA", "Read the Report <br/> Click here to read the full L.A. Streets: The Road to the Future report", "http://controller.lacity.org/stellent/groups/electedofficials/@ctr_contributor/documents/contributor_web_content/lacityp_028722.pdf", null ]
+ ]
+}

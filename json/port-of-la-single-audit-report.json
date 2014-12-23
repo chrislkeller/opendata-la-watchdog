@@ -1,0 +1,704 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "xhx7-hr4h",
+      "name" : "Port of LA Single Audit Report",
+      "attribution" : "Port of Los Angeles",
+      "averageRating" : 0,
+      "category" : "A Well Run City",
+      "createdAt" : 1400260787,
+      "description" : "Port of Los Angeles Single Audit report details (Federal grant usage).",
+      "displayType" : "table",
+      "downloadCount" : 9,
+      "indexUpdatedAt" : 1414613691,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8030091,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1400533534,
+      "publicationGroup" : 1584086,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1400533527,
+      "rowsUpdatedBy" : "g9i9-z6y7",
+      "tableId" : 1587617,
+      "totalTimesRated" : 0,
+      "viewCount" : 216,
+      "viewLastModified" : 1401234714,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 149120047,
+        "name" : "Grant Project Description",
+        "dataTypeName" : "text",
+        "fieldName" : "grant_project_description",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19770265,
+        "width" : 439,
+        "cachedContents" : {
+          "non_null" : 42,
+          "smallest" : "A) Waterside Srvllanc System Enhan.(Detection)WO # 2469000 ] and B) Police Headquarters Surveillance Cameras   W.O.# 6829500  ]",
+          "null" : 0,
+          "largest" : "TWIC Deploy.& Equip Rio Tinto/US Borax WO#6828600 PASS THROUGH",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Fiduciary Agent Administration WO# 6824200"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149120048,
+        "name" : "Federal CFDA Number",
+        "dataTypeName" : "number",
+        "fieldName" : "federal_cfda_number",
+        "position" : 2,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19770266,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 42,
+          "smallest" : "20.205",
+          "sum" : "3368.847",
+          "null" : 0,
+          "average" : "80.21064285714286",
+          "largest" : "97.116",
+          "top" : [ {
+            "count" : 20,
+            "item" : "97.056"
+          }, {
+            "count" : 19,
+            "item" : "97.116"
+          }, {
+            "count" : 18,
+            "item" : "66.039"
+          }, {
+            "count" : 17,
+            "item" : "20.205"
+          }, {
+            "count" : 16,
+            "item" : "20.933"
+          }, {
+            "count" : 15,
+            "item" : "81.128"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149120049,
+        "name" : "Grant Number/ Pass-through Grantor's Number",
+        "dataTypeName" : "text",
+        "fieldName" : "grant_number_pass_through_grantor_s_number",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19770267,
+        "width" : 315,
+        "cachedContents" : {
+          "non_null" : 42,
+          "smallest" : "2006-GB-T6-0100",
+          "null" : 0,
+          "largest" : "LA0D391-HPP # 2885",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2006-GB-T6-0100"
+          }, {
+            "count" : 19,
+            "item" : "2007-GB-T7-K096"
+          }, {
+            "count" : 18,
+            "item" : "2007-GB-T7-K429"
+          }, {
+            "count" : 17,
+            "item" : "2008-GB-T8-K014"
+          }, {
+            "count" : 16,
+            "item" : "2009-PU-T9-K020"
+          }, {
+            "count" : 15,
+            "item" : "EMW-2012-PU-00151"
+          }, {
+            "count" : 14,
+            "item" : "DE-00T36801-0"
+          }, {
+            "count" : 13,
+            "item" : "DE-83467301-0"
+          }, {
+            "count" : 12,
+            "item" : "LA07-5006R-396-N"
+          }, {
+            "count" : 11,
+            "item" : "DTMA1G11003"
+          }, {
+            "count" : 10,
+            "item" : "CML 5006 724"
+          }, {
+            "count" : 9,
+            "item" : "LA0D391-HPP # 2885"
+          }, {
+            "count" : 8,
+            "item" : "LA0D390-HPP # 297"
+          }, {
+            "count" : 7,
+            "item" : "ESPL-5006-602"
+          }, {
+            "count" : 6,
+            "item" : "2A-00T13601-0"
+          }, {
+            "count" : 5,
+            "item" : "DE-EE0000869"
+          }, {
+            "count" : 4,
+            "item" : "2009-PU-R-10176"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149120050,
+        "name" : "Federal Entitlement Amount",
+        "dataTypeName" : "number",
+        "fieldName" : "federal_entitlement_amount",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19770268,
+        "width" : 205,
+        "cachedContents" : {
+          "non_null" : 41,
+          "smallest" : "141250",
+          "sum" : "145067827",
+          "null" : 1,
+          "average" : "3538239.682926829",
+          "largest" : "23333717",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1058706"
+          }, {
+            "count" : 19,
+            "item" : "3587711"
+          }, {
+            "count" : 18,
+            "item" : "2596022"
+          }, {
+            "count" : 17,
+            "item" : "2731830"
+          }, {
+            "count" : 16,
+            "item" : "1182011"
+          }, {
+            "count" : 15,
+            "item" : "241606"
+          }, {
+            "count" : 14,
+            "item" : "1610703"
+          }, {
+            "count" : 13,
+            "item" : "900000"
+          }, {
+            "count" : 12,
+            "item" : "2550600"
+          }, {
+            "count" : 11,
+            "item" : "200000"
+          }, {
+            "count" : 10,
+            "item" : "2000000"
+          }, {
+            "count" : 9,
+            "item" : "4000000"
+          }, {
+            "count" : 8,
+            "item" : "375000"
+          }, {
+            "count" : 7,
+            "item" : "2985000"
+          }, {
+            "count" : 6,
+            "item" : "600000"
+          }, {
+            "count" : 5,
+            "item" : "1118241"
+          }, {
+            "count" : 4,
+            "item" : "23333717"
+          }, {
+            "count" : 3,
+            "item" : "1144700"
+          }, {
+            "count" : 2,
+            "item" : "1875000"
+          }, {
+            "count" : 1,
+            "item" : "3000000"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149120051,
+        "name" : "Grant Receivable as of 7/1/2012",
+        "dataTypeName" : "text",
+        "fieldName" : "grant_receivable_as_of_7_1_2012",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19770269,
+        "width" : 229,
+        "cachedContents" : {
+          "non_null" : 41,
+          "smallest" : " - ",
+          "null" : 1,
+          "largest" : " 880,873 ",
+          "top" : [ {
+            "count" : 20,
+            "item" : " - "
+          }, {
+            "count" : 19,
+            "item" : " 604,270 "
+          }, {
+            "count" : 18,
+            "item" : " 115,879 "
+          }, {
+            "count" : 17,
+            "item" : " 1,093,138 "
+          }, {
+            "count" : 16,
+            "item" : " 2,000,000 "
+          }, {
+            "count" : 15,
+            "item" : " 121,325 "
+          }, {
+            "count" : 14,
+            "item" : " 1,882,948 "
+          }, {
+            "count" : 13,
+            "item" : " 17,513 "
+          }, {
+            "count" : 12,
+            "item" : " 271,019 "
+          }, {
+            "count" : 11,
+            "item" : " 798,145 "
+          }, {
+            "count" : 10,
+            "item" : " 639,498 "
+          }, {
+            "count" : 9,
+            "item" : " 880,873 "
+          }, {
+            "count" : 8,
+            "item" : " 1,505,574 "
+          }, {
+            "count" : 7,
+            "item" : " 190,597 "
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149120052,
+        "name" : "Grant Receivable Prior Year Adjustment",
+        "dataTypeName" : "text",
+        "fieldName" : "grant_receivable_prior_year_adjustment",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19770270,
+        "width" : 312,
+        "cachedContents" : {
+          "non_null" : 40,
+          "smallest" : " - ",
+          "null" : 2,
+          "largest" : " 870,033 ",
+          "top" : [ {
+            "count" : 20,
+            "item" : " - "
+          }, {
+            "count" : 19,
+            "item" : " 870,033 "
+          }, {
+            "count" : 18,
+            "item" : " 121,325 "
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149120053,
+        "name" : "Grant Revenue Received",
+        "dataTypeName" : "text",
+        "fieldName" : "grant_revenue_received",
+        "position" : 7,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19770271,
+        "width" : 256,
+        "cachedContents" : {
+          "non_null" : 41,
+          "smallest" : " - ",
+          "null" : 1,
+          "largest" : " 9,777,794 ",
+          "top" : [ {
+            "count" : 20,
+            "item" : " - "
+          }, {
+            "count" : 19,
+            "item" : " 604,270 "
+          }, {
+            "count" : 18,
+            "item" : " 115,879 "
+          }, {
+            "count" : 17,
+            "item" : " 412,464 "
+          }, {
+            "count" : 16,
+            "item" : " 223,105 "
+          }, {
+            "count" : 15,
+            "item" : " 1,260,764 "
+          }, {
+            "count" : 14,
+            "item" : " 200,000 "
+          }, {
+            "count" : 13,
+            "item" : " 2,000,000 "
+          }, {
+            "count" : 12,
+            "item" : " 9,777,794 "
+          }, {
+            "count" : 11,
+            "item" : " 1,212,838 "
+          }, {
+            "count" : 10,
+            "item" : " 224,990 "
+          }, {
+            "count" : 9,
+            "item" : " 5,624,983 "
+          }, {
+            "count" : 8,
+            "item" : " 228,515 "
+          }, {
+            "count" : 7,
+            "item" : " 360,810 "
+          }, {
+            "count" : 6,
+            "item" : " 494,747 "
+          }, {
+            "count" : 5,
+            "item" : " 385,436 "
+          }, {
+            "count" : 4,
+            "item" : " 188,020 "
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149120054,
+        "name" : "Federal Grant Expenditures",
+        "dataTypeName" : "text",
+        "fieldName" : "federal_grant_expenditures",
+        "position" : 8,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19770272,
+        "width" : 270,
+        "cachedContents" : {
+          "non_null" : 40,
+          "smallest" : " - ",
+          "null" : 2,
+          "largest" : " 9,777,794 ",
+          "top" : [ {
+            "count" : 20,
+            "item" : " - "
+          }, {
+            "count" : 19,
+            "item" : " 412,464 "
+          }, {
+            "count" : 18,
+            "item" : " 1,260,764 "
+          }, {
+            "count" : 17,
+            "item" : " 200,000 "
+          }, {
+            "count" : 16,
+            "item" : " 2,889,060 "
+          }, {
+            "count" : 15,
+            "item" : " 198,752 "
+          }, {
+            "count" : 14,
+            "item" : " 582,487 "
+          }, {
+            "count" : 13,
+            "item" : " 328,981 "
+          }, {
+            "count" : 12,
+            "item" : " 251,686 "
+          }, {
+            "count" : 11,
+            "item" : " 9,777,794 "
+          }, {
+            "count" : 10,
+            "item" : " 111,415 "
+          }, {
+            "count" : 9,
+            "item" : " 1,212,838 "
+          }, {
+            "count" : 8,
+            "item" : " 224,990 "
+          }, {
+            "count" : 7,
+            "item" : " 814,498 "
+          }, {
+            "count" : 6,
+            "item" : " 5,624,983 "
+          }, {
+            "count" : 5,
+            "item" : " 228,515 "
+          }, {
+            "count" : 4,
+            "item" : " 360,810 "
+          }, {
+            "count" : 3,
+            "item" : " (330,497)"
+          }, {
+            "count" : 2,
+            "item" : " 385,436 "
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149120055,
+        "name" : "Federal Grant Pass Through Liability",
+        "dataTypeName" : "text",
+        "fieldName" : "federal_grant_pass_through_liability",
+        "position" : 9,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19770273,
+        "width" : 336,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : " - ",
+          "null" : 37,
+          "largest" : " 2,937,851 ",
+          "top" : [ {
+            "count" : 20,
+            "item" : " - "
+          }, {
+            "count" : 19,
+            "item" : " 2,937,851 "
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149120056,
+        "name" : "Grant Receivable as  of 6/30/2013",
+        "dataTypeName" : "text",
+        "fieldName" : "grant_receivable_as_of_6_30_2013",
+        "position" : 10,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19770274,
+        "width" : 302,
+        "cachedContents" : {
+          "non_null" : 41,
+          "smallest" : " - ",
+          "null" : 1,
+          "largest" : " CLOSED ",
+          "top" : [ {
+            "count" : 20,
+            "item" : " CLOSED "
+          }, {
+            "count" : 19,
+            "item" : " - "
+          }, {
+            "count" : 18,
+            "item" : " (0)"
+          }, {
+            "count" : 17,
+            "item" : " 2,889,060 "
+          }, {
+            "count" : 16,
+            "item" : " 198,752 "
+          }, {
+            "count" : 15,
+            "item" : " 1,882,948 "
+          }, {
+            "count" : 14,
+            "item" : " 600,000 "
+          }, {
+            "count" : 13,
+            "item" : " 1,049,831 "
+          }, {
+            "count" : 12,
+            "item" : " 750,913 "
+          }, {
+            "count" : 11,
+            "item" : " 1,695,371 "
+          }, {
+            "count" : 10,
+            "item" : " 680,330 "
+          }, {
+            "count" : 9,
+            "item" : " 2,577 "
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Harbor"
+          }
+        },
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "2ib6-ssvz",
+        "displayName" : "Port of Los Angeles",
+        "profileImageUrlLarge" : "/images/profile/9654/0122/POLALogo2_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9654/0122/POLALogo2_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9654/0122/POLALogo2_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Port of Los Angeles",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "2ib6-ssvz",
+        "displayName" : "Port of Los Angeles",
+        "profileImageUrlLarge" : "/images/profile/9654/0122/POLALogo2_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9654/0122/POLALogo2_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9654/0122/POLALogo2_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Port of Los Angeles",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "single audit", "federal", "port", "pola" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "266DFC30-BB2B-4993-BB2E-EB6FD490E003", 1, 1400260790, "870164", 1400260790, "870164", "{\n}", "Transportation Workers Identification Credentialing (TWIC) W.O.#6821400", "97.056", "2006-GB-T6-0100", "1058706", " - ", null, " - ", " - ", null, " CLOSED " ]
+, [ 2, "5E7A58BA-3407-45ED-A2E4-7341A2013DA9", 2, 1400260790, "870164", 1400260790, "870164", "{\n}", "Transport. Workers Identi. Credent. WO#6821400 Pass Thru (Non-Operating)", "97.056", "2006-GB-T6-0100", "3587711", " - ", " - ", " - ", " - ", " - ", " CLOSED " ]
+, [ 3, "211FE723-F955-44E6-AC82-845A8CAD7136", 3, 1400260790, "870164", 1400260790, "870164", "{\n}", "A) Waterside Srvllanc System Enhan.(Detection)WO # 2469000 ] and B) Police Headquarters Surveillance Cameras   W.O.# 6829500  ]", "97.056", "2007-GB-T7-K096", "2596022", " - ", " - ", " - ", " - ", null, " CLOSED " ]
+, [ 4, "791981AE-4FC5-4DB9-8F10-3C637ECACF97", 4, 1400260790, "870164", 1400260790, "870164", "{\n}", "Integrated Command & Control Center System W.O.#2499900", "97.056", "2007-GB-T7-K096", "2731830", " - ", " - ", " - ", " - ", null, " CLOSED " ]
+, [ 5, "5EECEEB7-F36E-42C8-959F-47A3327AAA66", 5, 1400260790, "870164", 1400260790, "870164", "{\n}", "Interoperable Communications System Infrastructure WO#2500300", "97.056", "2007-GB-T7-K096", "1182011", " 604,270 ", " - ", " 604,270 ", " - ", null, " CLOSED " ]
+, [ 6, "5260EC8A-6C45-4265-B112-C94A3A3AFB1E", 6, 1400260790, "870164", 1400260790, "870164", "{\n}", "Fiduciary Agent Administration WO# 6824200", "97.056", "2007-GB-T7-K429", "241606", " 115,879 ", " - ", " 115,879 ", " - ", null, " - " ]
+, [ 7, "7AE498A5-C03A-46D7-9404-41A99ADBE8AF", 7, 1400260790, "870164", 1400260790, "870164", "{\n}", "Portwide Risk Mitigation Plan WO# 6824300", "97.056", "2007-GB-T7-K429", "1610703", " - ", " - ", " 412,464 ", " 412,464 ", null, " (0)" ]
+, [ 8, "3C426286-F4D6-431C-A427-CB35ECD7B4F1", 8, 1400260790, "870164", 1400260790, "870164", "{\n}", "Mobile Command Post WO# 6824800 ", "97.056", "2007-GB-T7-K429", "900000", " - ", " - ", " - ", " - ", null, " - " ]
+, [ 9, "AA03E2F0-E345-47F5-8740-50584F1882E1", 9, 1400260790, "870164", 1400260790, "870164", "{\n}", "Security System Maintenance W.O # 6829500 (Past #25035)", "97.056", "2007-GB-T7-K429", "2550600", " 1,093,138 ", " 870,033 ", " 223,105 ", " - ", null, " - " ]
+, [ 10, "39B620E3-CBE4-49B8-9D5A-65DDA6F455F3", 10, 1400260790, "870164", 1400260790, "870164", "{\n}", "Security Sys.Maint.Prog Port of L.B.WO#6828600 PASS THRU (Non-Operating)", "97.056", "2007-GB-T7-K429", "2550600", " - ", " - ", " 1,260,764 ", " 1,260,764 ", " - ", " - " ]
+, [ 11, "BD1FEE3C-9C65-4523-8D47-596DA2B0363C", 11, 1400260790, "870164", 1400260790, "870164", "{\n}", "TWIC Deploy.& Equip Rio Tinto/US Borax WO#6828600 PASS THROUGH", "97.056", "2007-GB-T7-K429", "200000", " - ", " - ", " 200,000 ", " 200,000 ", null, " - " ]
+, [ 12, "9C15657B-5F4C-4A62-8F6A-5707B1B3E751", 12, 1400260790, "870164", 1400260790, "870164", "{\n}", "Comp. Aided Dispatch/Records Mgmt System W.O.#2500000", "97.056", "2008-GB-T8-K014", "2000000", " 2,000,000 ", " - ", " 2,000,000 ", " - ", null, " - " ]
+, [ 13, "8E166CC4-75CF-4DE8-A573-49B8798E4B69", 13, 1400260790, "870164", 1400260790, "870164", "{\n}", "Tactical Radio Communication WO# 25002 (Previously W.O.#6824400)", "97.056", "2008-GB-T8-K014", "4000000", " - ", " - ", " - ", " 2,889,060 ", null, " 2,889,060 " ]
+, [ 14, "AC674F64-5F05-4A3C-90E5-60DEFDD88A18", 14, 1400260790, "870164", 1400260790, "870164", "{\n  \"invalidCells\" : {\n    \"19770268\" : \" - \"\n  }\n}", "Loudspeaker and Early Notification System W. O.# 2500400 -  Project Deleted", "97.056", "2008-GB-T8-K014", null, " 121,325 ", " 121,325 ", " - ", " - ", null, " - " ]
+, [ 15, "850C2CCA-5539-433E-B972-1694E161D550", 15, 1400260790, "870164", 1400260790, "870164", "{\n}", "Security Awareness Training WO# 6824500", "97.056", "2008-GB-T8-K014", "375000", " - ", " - ", " - ", " 198,752 ", null, " 198,752 " ]
+, [ 16, "E99A6A47-5DEF-4243-A90D-E56D89267421", 16, 1400260790, "870164", 1400260790, "870164", "{\n}", "Police Patrol & Dive Boats WO# 6824600 (May Use 13240)", "97.056", "2008-GB-T8-K014", "2985000", " 1,882,948 ", " - ", " - ", " - ", null, " 1,882,948 " ]
+, [ 17, "B9CEED31-0F97-461B-B9D3-7717E70F30DA", 17, 1400260790, "870164", 1400260790, "870164", "{\n}", "Surveillance Radar WO# 25133 (Previous #6824700)", "97.056", "2008-GB-T8-K014", "600000", " 17,513 ", " - ", " - ", " 582,487 ", null, " 600,000 " ]
+, [ 18, "637213E6-181D-4396-9A91-25B3D843F0C6", 18, 1400260790, "870164", 1400260790, "870164", "{\n}", "Canine Kennel WO# 25098 (Previously W.O.#6825000)", "97.056", "2008-GB-T8-K014", "600000", " 271,019 ", " - ", " - ", " 328,981 ", null, " 600,000 " ]
+, [ 19, "D4BFEDDD-5666-4B55-B571-B12DAA1E9DF3", 19, 1400260790, "870164", 1400260790, "870164", "{\n}", "Information Technology Data Storage Security Project WO#6829200", "97.056", "2008-GB-T8-K014", "2000000", " - ", " - ", " - ", " - ", null, " - " ]
+, [ 20, "36AB08E0-0480-4BC1-8864-8ACABD6A5470", 20, 1400260790, "870164", 1400260790, "870164", "{\n}", "MLETC Metal Sharks (5) Zodiac (2) Boats - W. O. # 2513500", "97.056", "2008-GB-T8-K014", "1118241", " 798,145 ", " - ", " - ", " 251,686 ", null, " 1,049,831 " ]
+, [ 21, "911B87BE-D988-47FE-AD1F-C65B627608C6", 21, 1400260790, "870164", 1400260790, "870164", "{\n}", "Fiduciary Agent Pass-thru Oblig.Old Proj.68287 NEW proj.#6831500 (PASS THRU)", "97.056", "2008-GB-T8-K014", "23333717", " - ", " - ", " 9,777,794 ", " 9,777,794 ", " 2,937,851 ", " - " ]
+, [ 22, "ABBE2FAA-E8F0-40F2-8784-74F47E915653", 22, 1400260790, "870164", 1400260790, "870164", "{\n}", "Fiduciary Agent Administration WO# 6824200", "97.056", "2008-GB-T8-K014", "1144700", " 639,498 ", " - ", " - ", " 111,415 ", null, " 750,913 " ]
+, [ 23, "FA23E368-7300-4C01-BFDF-848AA804C00B", 23, 1400260790, "870164", 1400260790, "870164", "{\n}", "Integrated Command & Cntrl Fiber Connectivity Old WO 25040 New WO#2513600", "97.116", "2009-PU-T9-K020", "4000000", " - ", " - ", " - ", " - ", null, " - " ]
+, [ 24, "3BDDA206-1B11-46B3-A11C-E1388C45C262", 24, 1400260790, "870164", 1400260790, "870164", "{\n}", "Port Police Marine Unit Vessel replacement Project # 68313", "97.056", "EMW-2012-PU-00151", "1875000", " - ", " - ", " - ", " - ", null, " - " ]
+, [ 25, "24B7FDD0-4BB0-4F1C-9A28-52B7FBBB1573", 25, 1400260790, "870164", 1400260790, "870164", "{\n}", "Security System Integration Maintenance And Repair Project # 68312", "97.056", "EMW-2012-PU-00151", "3000000", " - ", " - ", " - ", " - ", null, " - " ]
+, [ 26, "E55F7C70-5BCB-4077-A6F1-FED6E4A83C72", 26, 1400260790, "870164", 1400260790, "870164", "{\n}", "Port Police Kennel Facility Phase ll Project # 2509800", "97.056", "EMW-2012-PU-00151", "375000", null, null, null, null, null, null ]
+, [ 27, "274B7222-DE8C-4E7B-9253-059CA2889E8A", 27, 1400260790, "870164", 1400260790, "870164", "{\n}", "IT Cyber Security Improvement - Phase 1 Project # 2522000", "97.056", "EMW-2012-PU-00151", "1650000", " - ", " - ", " - ", " - ", null, " - " ]
+, [ 28, "FAFE060C-4228-4285-AF5A-04B70700E1CD", 28, 1400260790, "870164", 1400260790, "870164", "{\n}", "DERA Flex Grid (Old W.O. # 08289) NEW W.O. # 2500800", "66.039", "DE-00T36801-0", "1212838", " - ", " - ", " 1,212,838 ", " 1,212,838 ", null, " - " ]
+, [ 29, "B3E80C5B-A0AB-4F9E-AB70-2F9BB8FFEB9C", 29, 1400260790, "870164", 1400260790, "870164", "{\n}", "Clean Diesel Emerging Technologies Funding Assistance DERA - ECOCRANE project  (PASS THROUGH)  Non-Operating", "66.039", "DE-83467301-0", "731298", " - ", " - ", " 224,990 ", " 224,990 ", " - ", " - " ]
+, [ 30, "C940CAF6-2555-4C23-8558-64A3808A4EF9", 30, 1400260790, "870164", 1400260790, "870164", "{\n}", "Federal - ISTEA/CALTRANS Grant  Harry Bridges Blvd. Improvement Project - ISTEA Bill 2000-2004", "20.205", "LA07-5006R-396-N", "6500000", " 880,873 ", " - ", " - ", " 814,498 ", null, " 1,695,371 " ]
+, [ 31, "90327052-40CD-4BD0-A9E0-00A6664F2B5B", 31, 1400260790, "870164", 1400260790, "870164", "{\n}", "Federal - U. S. Department of Transportation - Maritime Administration TIGER II, West Basin Railyard -  (B200) WO# 2488500", "20.933", "DTMA1G11003", "16000000", " - ", " - ", " 5,624,983 ", " 5,624,983 ", null, " - " ]
+, [ 32, "C8F967C1-66EC-4E42-BA38-7A5AF527FF20", 32, 1400260790, "870164", 1400260790, "870164", "{\n}", "Regional Surface Transportation Program (RSTP)  Port Truck Traffic Reduction Program - West Basin Railyard Project# 2488500", "20.933", "CML 5006 724", "8584700", " - ", " - ", " 228,515 ", " 228,515 ", null, " - " ]
+, [ 33, "39FA9F01-2EF3-40E1-BA4E-8EBFAC574341", 33, 1400260790, "870164", 1400260790, "870164", "{\n}", "Pass Thru from US Dept. of Tran. To State of Calif. Trans.(Cal--Trans) Port Truck Traffic Reduction Program - West Basin Railyard Project# 2488500", "20.933", "CML 5006 724", "13553994", " - ", " - ", " 360,810 ", " 360,810 ", null, " - " ]
+, [ 34, "B1F5FD23-1988-4EA6-962A-3347028A5B13", 34, 1400260790, "870164", 1400260790, "870164", "{\n}", "Federal - SAFETEA-LU Transportation Legislation (FHWA)Vincent Thomas Bridge Studies - SAFETEA-LU Bill 2005-2009", "20.205", "LA0D391-HPP # 2885", "1600000", " - ", " - ", " - ", " - ", null, " - " ]
+, [ 35, "917DEBCD-8682-4866-9DA1-B3C0E5681353", 35, 1400260790, "870164", 1400260790, "870164", "{\n}", "Federal - SAFETEA-LU Transportation Legislation (FHWA) I -110/SR 47/Harbor Blvd Connector (John S. Gibson)  Phase I - SAFETEA-LU Bill 2005-2009 (US DOT - 60%)", "20.205", "LA0D390-HPP # 297", "3599600", " - ", " - ", " - ", " - ", null, " - " ]
+, [ 36, "AB50DF83-3C2F-4772-89DD-08B26377BE01", 36, 1400260790, "870164", 1400260790, "870164", "{\n}", "American Recovery & Reinvestment Act of 2009 Harry Bridges Blvd. Improvement Project WO#2369300", "20.205", "ESPL-5006-602", "15545200", " 1,505,574 ", " - ", " 494,747 ", " (330,497)", null, " 680,330 " ]
+, [ 37, "B03B10F3-F566-434B-A39D-0C60695E07C5", 37, 1400260790, "870164", 1400260790, "870164", "{\n}", "DERA Reduction for Equipment & Vessels W. O. # 6828100", "66.039", "2A-00T13601-0", "141250", " - ", " - ", " - ", " - ", null, " CLOSED " ]
+, [ 38, "65A4A645-D89D-41F5-BC89-EA98C9421FB5", 38, 1400260790, "870164", 1400260790, "870164", "{\n}", "DERA Equipment & Vessels Pass Thru W.O.#6828100(Non-Operating Pass Thru)", "66.039", "2A-00T13601-0", "1850500", " - ", " - ", " - ", " - ", " - ", " CLOSED " ]
+, [ 39, "235CD4A5-4B25-42B0-9545-D405C1B9FAB8", 39, 1400260790, "870164", 1400260790, "870164", "{\n}", "Environmental Affair/CDD ARRA Of 2009 Angelina II", "81.128", "DE-EE0000869", "580000", " - ", " - ", " - ", null, null, " - " ]
+, [ 40, "3D42F7B5-8352-45B1-9594-E559CB010F73", 40, 1400260790, "870164", 1400260790, "870164", "{\n}", "Environmental Affair/CDD ARRA Of 2009 Vision truck", "81.128", "DE-EE0000869", "280000", " - ", " - ", " - ", " - ", null, " - " ]
+, [ 41, "06495319-C199-4CD9-90EC-CEC6B40ED093", 41, 1400260790, "870164", 1400260790, "870164", "{\n}", "Environmental Affair/CDD ARRA Of 2009 Balqon Trucks", "81.128", "DE-EE0000869", "622000", " - ", " - ", " 385,436 ", " 385,436 ", null, " - " ]
+, [ 42, "255D13BF-FD2C-4D0E-BFF9-80D69F2714A7", 42, 1400260790, "870164", 1400260790, "870164", "{\n}", "American Recovery & Reinvestment Act of 2009 Portwide Fiber Optic Continuance WO # 2507200", "97.116", "2009-PU-R-10176", "6000000", " 190,597 ", " - ", " 188,020 ", " - ", null, " 2,577 " ]
+ ]
+}

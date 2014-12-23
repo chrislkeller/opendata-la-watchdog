@@ -1,0 +1,328 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "txn4-36ky",
+      "name" : "Active Conservation in the City of Los Angeles",
+      "attribution" : "LADWP",
+      "averageRating" : 0,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1399935855,
+      "description" : "Active Water Conservation by Acre Feet in the City of Los Angeles. An Acre Foot is a unit of volume equal to one foot water in depth spread across one Acre (325,853.38 gallons).",
+      "displayType" : "table",
+      "downloadCount" : 10,
+      "indexUpdatedAt" : 1414614302,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8029960,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1400531840,
+      "publicationGroup" : 1579041,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1400531837,
+      "rowsUpdatedBy" : "g9i9-z6y7",
+      "tableId" : 1587576,
+      "totalTimesRated" : 0,
+      "viewCount" : 44,
+      "viewLastModified" : 1401233355,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 149117006,
+        "name" : "Month",
+        "dataTypeName" : "text",
+        "fieldName" : "month",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19693591,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 32,
+          "smallest" : "Apr-12",
+          "null" : 0,
+          "largest" : "Sep-13",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Jul-11"
+          }, {
+            "count" : 19,
+            "item" : "Aug-11"
+          }, {
+            "count" : 18,
+            "item" : "Sep-11"
+          }, {
+            "count" : 17,
+            "item" : "Oct-11"
+          }, {
+            "count" : 16,
+            "item" : "Nov-11"
+          }, {
+            "count" : 15,
+            "item" : "Dec-11"
+          }, {
+            "count" : 14,
+            "item" : "Jan-12"
+          }, {
+            "count" : 13,
+            "item" : "Feb-12"
+          }, {
+            "count" : 12,
+            "item" : "Mar-12"
+          }, {
+            "count" : 11,
+            "item" : "Apr-12"
+          }, {
+            "count" : 10,
+            "item" : "May-12"
+          }, {
+            "count" : 9,
+            "item" : "Jun-12"
+          }, {
+            "count" : 8,
+            "item" : "Jul-12"
+          }, {
+            "count" : 7,
+            "item" : "Aug-12"
+          }, {
+            "count" : 6,
+            "item" : "Sep-12"
+          }, {
+            "count" : 5,
+            "item" : "Oct-12"
+          }, {
+            "count" : 4,
+            "item" : "Nov-12"
+          }, {
+            "count" : 3,
+            "item" : "Dec-12"
+          }, {
+            "count" : 2,
+            "item" : "Jan-13"
+          }, {
+            "count" : 1,
+            "item" : "Feb-13"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149117007,
+        "name" : "Monthly Active Water Conservation(Acre-Feet)",
+        "dataTypeName" : "number",
+        "fieldName" : "monthly_active_water_conservation_acre_feet",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19693592,
+        "width" : 628,
+        "cachedContents" : {
+          "non_null" : 32,
+          "smallest" : "54",
+          "sum" : "6678",
+          "null" : 0,
+          "average" : "208.6875",
+          "largest" : "512",
+          "top" : [ {
+            "count" : 20,
+            "item" : "288"
+          }, {
+            "count" : 19,
+            "item" : "141"
+          }, {
+            "count" : 18,
+            "item" : "101"
+          }, {
+            "count" : 17,
+            "item" : "103"
+          }, {
+            "count" : 16,
+            "item" : "180"
+          }, {
+            "count" : 15,
+            "item" : "175"
+          }, {
+            "count" : 14,
+            "item" : "126"
+          }, {
+            "count" : 13,
+            "item" : "174"
+          }, {
+            "count" : 12,
+            "item" : "184"
+          }, {
+            "count" : 11,
+            "item" : "173"
+          }, {
+            "count" : 10,
+            "item" : "152"
+          }, {
+            "count" : 9,
+            "item" : "196"
+          }, {
+            "count" : 8,
+            "item" : "87"
+          }, {
+            "count" : 7,
+            "item" : "107"
+          }, {
+            "count" : 6,
+            "item" : "97"
+          }, {
+            "count" : 5,
+            "item" : "128"
+          }, {
+            "count" : 4,
+            "item" : "54"
+          }, {
+            "count" : 3,
+            "item" : "68"
+          }, {
+            "count" : 2,
+            "item" : "188"
+          }, {
+            "count" : 1,
+            "item" : "392"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "LADWP"
+          }
+        }
+      },
+      "owner" : {
+        "id" : "hb8e-gdsp",
+        "displayName" : "LA DWP OpenData",
+        "profileImageUrlLarge" : "/images/profile/5225/6660/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5225/6660/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5225/6660/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LA DWP OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "7q7s-tyf3",
+        "displayName" : "Steve Baule",
+        "roleName" : "editor",
+        "screenName" : "Steve Baule",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "water", "conservation" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "AE44E402-D15C-4CD3-9949-91304A9C5080", 1, 1399935858, "877550", 1399935858, "877550", "{\n}", "Jul-11", "288" ]
+, [ 2, "DBAC12D1-4666-4256-9370-1A0BAB974722", 2, 1399935858, "877550", 1399935858, "877550", "{\n}", "Aug-11", "141" ]
+, [ 3, "27BD3977-87E9-497B-9DB0-CD3B8602F3B2", 3, 1399935858, "877550", 1399935858, "877550", "{\n}", "Sep-11", "101" ]
+, [ 4, "650C035D-6FCE-4394-9965-8017CF1402CC", 4, 1399935858, "877550", 1399935858, "877550", "{\n}", "Oct-11", "103" ]
+, [ 5, "609CA9ED-8FA3-4856-B96A-F500633AE073", 5, 1399935858, "877550", 1399935858, "877550", "{\n}", "Nov-11", "180" ]
+, [ 6, "0B270404-6E5F-4B61-B9BC-25E3BC3FE042", 6, 1399935858, "877550", 1399935858, "877550", "{\n}", "Dec-11", "175" ]
+, [ 7, "BA60D747-921B-4B86-904D-8931EAE91A75", 7, 1399935858, "877550", 1399935858, "877550", "{\n}", "Jan-12", "126" ]
+, [ 8, "DB86D02E-A1C2-4CA8-9BDB-D5D43186A6D0", 8, 1399935858, "877550", 1399935858, "877550", "{\n}", "Feb-12", "174" ]
+, [ 9, "55F71B37-C463-4D9E-9415-5646C6BFA903", 9, 1399935858, "877550", 1399935858, "877550", "{\n}", "Mar-12", "184" ]
+, [ 10, "A6179021-42A4-419F-89C8-2C2A3100D063", 10, 1399935858, "877550", 1399935858, "877550", "{\n}", "Apr-12", "173" ]
+, [ 11, "85109D28-CC7F-49C5-BFEE-BB3AE79E6115", 11, 1399935858, "877550", 1399935858, "877550", "{\n}", "May-12", "152" ]
+, [ 12, "9784B5FD-8D19-4E76-8F90-B4B8660C0D7E", 12, 1399935858, "877550", 1399935858, "877550", "{\n}", "Jun-12", "196" ]
+, [ 13, "A1958682-D8D9-4820-BA56-DB77C012848B", 13, 1399935858, "877550", 1399935858, "877550", "{\n}", "Jul-12", "87" ]
+, [ 14, "3D5EA417-C8D9-4297-862D-DF9F9B68983E", 14, 1399935858, "877550", 1399935858, "877550", "{\n}", "Aug-12", "107" ]
+, [ 15, "21C739FF-F3BC-4684-8855-86AD8643A284", 15, 1399935858, "877550", 1399935858, "877550", "{\n}", "Sep-12", "97" ]
+, [ 16, "818963B6-E87A-41C6-922F-4B98F7BE55A3", 16, 1399935858, "877550", 1399935858, "877550", "{\n}", "Oct-12", "128" ]
+, [ 17, "4C197254-08B6-42E6-801F-F5CA9F46910A", 17, 1399935858, "877550", 1399935858, "877550", "{\n}", "Nov-12", "54" ]
+, [ 18, "B2C54EB9-4A5D-4259-B52F-14F91C216344", 18, 1399935858, "877550", 1399935858, "877550", "{\n}", "Dec-12", "68" ]
+, [ 19, "48F3C753-E9A6-47E4-AAA9-09D2DDB5D560", 19, 1399935858, "877550", 1399935858, "877550", "{\n}", "Jan-13", "188" ]
+, [ 20, "13108777-6F39-4FC6-B9AA-D14683FA8283", 20, 1399935858, "877550", 1399935858, "877550", "{\n}", "Feb-13", "392" ]
+, [ 21, "6ECE70C2-E7D7-48F0-A875-DAC0D6B31BFC", 21, 1399935858, "877550", 1399935858, "877550", "{\n}", "Mar-13", "159" ]
+, [ 22, "6C12A04E-F0A4-4080-8C57-E4B75044F8ED", 22, 1399935858, "877550", 1399935858, "877550", "{\n}", "Apr-13", "321" ]
+, [ 23, "1B2E8DE8-0250-462F-B12D-E4A17E87F993", 23, 1399935858, "877550", 1399935858, "877550", "{\n}", "May-13", "309" ]
+, [ 24, "446E9508-9ADA-4338-9EAC-7976BD280632", 24, 1399935858, "877550", 1399935858, "877550", "{\n}", "Jun-13", "213" ]
+, [ 25, "00E5D734-19B2-4331-9FBD-2E464C8F965B", 25, 1399935858, "877550", 1399935858, "877550", "{\n}", "Jul-13", "512" ]
+, [ 26, "A3553118-BDFB-4D26-854F-E05191C3A011", 26, 1399935858, "877550", 1399935858, "877550", "{\n}", "Aug-13", "183" ]
+, [ 27, "67A60BB6-A2EC-4E4C-A139-3866BED81431", 27, 1399935858, "877550", 1399935858, "877550", "{\n}", "Sep-13", "329" ]
+, [ 28, "C24471F1-BDF9-42E2-A385-3A12421DBEE9", 28, 1399935858, "877550", 1399935858, "877550", "{\n}", "Oct-13", "185" ]
+, [ 29, "90D4CBF1-FB7E-4C2D-BCEB-9F2C377B4B18", 29, 1399935858, "877550", 1399935858, "877550", "{\n}", "Nov-13", "149" ]
+, [ 30, "B6B10893-61AA-4D0A-AAEF-EDF3FAE3F4A1", 30, 1399935858, "877550", 1399935858, "877550", "{\n}", "Dec-13", "387" ]
+, [ 31, "32095EA1-DAB1-4D83-BCF2-1BDA14088B76", 31, 1399935858, "877550", 1399935858, "877550", "{\n}", "Jan-14", "511" ]
+, [ 32, "E312181F-0764-4420-BBFA-1C2826A0027C", 32, 1399935858, "877550", 1399935858, "877550", "{\n}", "Feb-14", "306" ]
+ ]
+}

@@ -1,0 +1,348 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "38a8-tm7u",
+      "name" : "Port of Los Angeles - Historical TEU Statistics",
+      "attribution" : "Port of Los Angeles",
+      "averageRating" : 0,
+      "category" : "A Prosperous City",
+      "createdAt" : 1395689667,
+      "description" : "Port of Los Angeles - Historical TEU Statistics: A \"TEU\" is a \"twenty-foot equivalent unit,\" which is a standard measurement of shipping cargo based on a twenty-foot long shipping container.",
+      "displayType" : "table",
+      "downloadCount" : 2,
+      "indexUpdatedAt" : 1414616127,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8099583,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401396424,
+      "publicationGroup" : 1521906,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowIdentifierColumnId" : 150457662,
+      "rowsUpdatedAt" : 1401396374,
+      "rowsUpdatedBy" : "2ib6-ssvz",
+      "tableId" : 1599099,
+      "totalTimesRated" : 0,
+      "viewCount" : 59,
+      "viewLastModified" : 1401401187,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150457662,
+        "name" : "Year",
+        "dataTypeName" : "text",
+        "fieldName" : "year",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18809269,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 34,
+          "smallest" : "1980",
+          "null" : 0,
+          "largest" : "2013",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1980"
+          }, {
+            "count" : 19,
+            "item" : "1981"
+          }, {
+            "count" : 18,
+            "item" : "1982"
+          }, {
+            "count" : 17,
+            "item" : "1983"
+          }, {
+            "count" : 16,
+            "item" : "1984"
+          }, {
+            "count" : 15,
+            "item" : "1985"
+          }, {
+            "count" : 14,
+            "item" : "1986"
+          }, {
+            "count" : 13,
+            "item" : "1987"
+          }, {
+            "count" : 12,
+            "item" : "1988"
+          }, {
+            "count" : 11,
+            "item" : "1989"
+          }, {
+            "count" : 10,
+            "item" : "1990"
+          }, {
+            "count" : 9,
+            "item" : "1991"
+          }, {
+            "count" : 8,
+            "item" : "1992"
+          }, {
+            "count" : 7,
+            "item" : "1993"
+          }, {
+            "count" : 6,
+            "item" : "1994"
+          }, {
+            "count" : 5,
+            "item" : "1995"
+          }, {
+            "count" : 4,
+            "item" : "1996"
+          }, {
+            "count" : 3,
+            "item" : "1997"
+          }, {
+            "count" : 2,
+            "item" : "1998"
+          }, {
+            "count" : 1,
+            "item" : "1999"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      }, {
+        "id" : 150457663,
+        "name" : "TEUs in Million",
+        "dataTypeName" : "number",
+        "fieldName" : "teus_in_million",
+        "position" : 2,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18809270,
+        "width" : 280,
+        "cachedContents" : {
+          "non_null" : 34,
+          "smallest" : "0.476",
+          "sum" : "138.857",
+          "null" : 0,
+          "average" : "4.084029411764706",
+          "largest" : "8.5",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0.633"
+          }, {
+            "count" : 19,
+            "item" : "0.476"
+          }, {
+            "count" : 18,
+            "item" : "0.606"
+          }, {
+            "count" : 17,
+            "item" : "0.734"
+          }, {
+            "count" : 16,
+            "item" : "0.908"
+          }, {
+            "count" : 15,
+            "item" : "1.1"
+          }, {
+            "count" : 14,
+            "item" : "1.3"
+          }, {
+            "count" : 13,
+            "item" : "1.6"
+          }, {
+            "count" : 12,
+            "item" : "1.7"
+          }, {
+            "count" : 11,
+            "item" : "2.1"
+          }, {
+            "count" : 10,
+            "item" : "2"
+          }, {
+            "count" : 9,
+            "item" : "2.3"
+          }, {
+            "count" : 8,
+            "item" : "2.5"
+          }, {
+            "count" : 7,
+            "item" : "2.7"
+          }, {
+            "count" : 6,
+            "item" : "2.9"
+          }, {
+            "count" : 5,
+            "item" : "3.4"
+          }, {
+            "count" : 4,
+            "item" : "3.8"
+          }, {
+            "count" : 3,
+            "item" : "4.9"
+          }, {
+            "count" : 2,
+            "item" : "5.2"
+          }, {
+            "count" : 1,
+            "item" : "6.1"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Harbor"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "page" : true,
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "150457662",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "2ib6-ssvz",
+        "displayName" : "Port of Los Angeles",
+        "profileImageUrlLarge" : "/images/profile/9654/0122/POLALogo2_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9654/0122/POLALogo2_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9654/0122/POLALogo2_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Port of Los Angeles",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "2ib6-ssvz",
+        "displayName" : "Port of Los Angeles",
+        "profileImageUrlLarge" : "/images/profile/9654/0122/POLALogo2_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9654/0122/POLALogo2_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9654/0122/POLALogo2_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Port of Los Angeles",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "jobs", "economy", "business", "port", "historic teu", "teu" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 392, "00ED2C25-6AF1-4D02-9E41-F4410E142A8C", 392, 1395784728, "870164", 1395785410, "870164", null, "1980", "0.633" ]
+, [ 393, "2C29E8FB-8D16-4F4F-AC3B-B1CA5C8C4190", 393, 1395784728, "870164", 1395785410, "870164", null, "1981", "0.476" ]
+, [ 394, "A1CF503D-6B4C-48D3-8F10-FD9D623608A4", 394, 1395784728, "870164", 1395785410, "870164", null, "1982", "0.606" ]
+, [ 395, "2DB12672-31B1-4EF3-9894-2C6C28FB11DB", 395, 1395784728, "870164", 1395785410, "870164", null, "1983", "0.734" ]
+, [ 396, "D025CAB8-2D58-4162-A58C-7000285F476A", 396, 1395784728, "870164", 1395785410, "870164", null, "1984", "0.908" ]
+, [ 397, "5FEFA49A-E504-47FB-9297-EDD6C4AEAFD5", 397, 1395784728, "870164", 1395785410, "870164", null, "1985", "1.1" ]
+, [ 398, "6C0C997C-0888-4FC7-82C9-F8E51DF8B961", 398, 1395784728, "870164", 1395785410, "870164", null, "1986", "1.3" ]
+, [ 399, "DF10B2F6-86D1-42CB-8E96-9873D76B3E64", 399, 1395784728, "870164", 1395785410, "870164", null, "1987", "1.6" ]
+, [ 400, "DE21889B-D77B-4045-86F6-039ACF0174A4", 400, 1395784728, "870164", 1395785410, "870164", null, "1988", "1.7" ]
+, [ 401, "71A2C60C-8F30-45C2-880B-1C19C247BBB7", 401, 1395784728, "870164", 1395785410, "870164", null, "1989", "2.1" ]
+, [ 402, "7F980631-3CCD-4AF2-BF05-46BC6F50BF33", 402, 1395784728, "870164", 1395785410, "870164", null, "1990", "2.1" ]
+, [ 403, "7B09D5CE-DF16-4B04-B6F1-2A48F8D19053", 403, 1395784728, "870164", 1395785410, "870164", null, "1991", "2" ]
+, [ 404, "F73718A6-A233-45B0-AFBD-286A43881097", 404, 1395784728, "870164", 1395785410, "870164", null, "1992", "2.3" ]
+, [ 405, "CAA96A9D-F414-4D7F-BCFD-CA64E2189C1A", 405, 1395784728, "870164", 1395785410, "870164", null, "1993", "2.3" ]
+, [ 406, "66ABE052-5AD8-4D85-95CE-4A0665E1A720", 406, 1395784728, "870164", 1395785410, "870164", null, "1994", "2.5" ]
+, [ 407, "BB505FC6-9C2D-43B0-85AA-9FD708260935", 407, 1395784728, "870164", 1395785410, "870164", null, "1995", "2.5" ]
+, [ 408, "5B4CBF64-6F11-4AD9-BE57-6DDD5ED465C1", 408, 1395784728, "870164", 1395785410, "870164", null, "1996", "2.7" ]
+, [ 409, "6139FD65-839D-4440-9891-EE4911DADE57", 409, 1395784728, "870164", 1395785410, "870164", null, "1997", "2.9" ]
+, [ 410, "A177605F-E57F-45CE-B884-ABA33798527F", 410, 1395784728, "870164", 1395785410, "870164", null, "1998", "3.4" ]
+, [ 411, "5D736BD1-8D44-43C0-BD5F-571271703AD3", 411, 1395784728, "870164", 1395785410, "870164", null, "1999", "3.8" ]
+, [ 412, "6FC4F80E-7F16-42EE-AA3D-FAAF41BD4E53", 412, 1395784728, "870164", 1395785410, "870164", null, "2000", "4.9" ]
+, [ 413, "77D1720B-A02A-413E-ACC0-80201588AB37", 413, 1395784728, "870164", 1395785410, "870164", null, "2001", "5.2" ]
+, [ 414, "31788801-12DD-4154-B55B-3BDEC908227B", 414, 1395784728, "870164", 1395785410, "870164", null, "2002", "6.1" ]
+, [ 415, "159E24E2-EC34-4967-825C-16754131BAFE", 415, 1395784728, "870164", 1395785410, "870164", null, "2003", "7.1" ]
+, [ 416, "8276C013-6A61-49A9-BB16-A91018547460", 416, 1395784728, "870164", 1395785410, "870164", null, "2004", "7.3" ]
+, [ 417, "6C157552-87BF-4E9D-86CD-ECFDA7054562", 417, 1395784728, "870164", 1395785410, "870164", null, "2005", "7.5" ]
+, [ 418, "CBE97D52-50EF-46D5-A6B4-058C270F93F3", 418, 1395784728, "870164", 1395785410, "870164", null, "2006", "8.5" ]
+, [ 419, "DBA5C488-18CB-436C-8025-77369AFBA95F", 419, 1395784728, "870164", 1395785410, "870164", null, "2007", "8.4" ]
+, [ 420, "3CA0F1FD-76DF-4BA9-9C91-83BE3CC6BA52", 420, 1395784728, "870164", 1395785410, "870164", null, "2008", "7.8" ]
+, [ 421, "2E3ADC16-36FC-4694-86BA-5D655E635512", 421, 1395784728, "870164", 1395785410, "870164", null, "2009", "6.7" ]
+, [ 422, "563D033C-B9FA-441A-A933-49D0E5107B1D", 422, 1395784728, "870164", 1395785410, "870164", null, "2010", "7.8" ]
+, [ 423, "0BE4ED40-5480-499B-A53E-C8F8A863DD43", 423, 1395784728, "870164", 1395785410, "870164", null, "2011", "7.9" ]
+, [ 424, "61A124B2-D569-4C8A-A09E-AC2F5AAB758F", 424, 1395784728, "870164", 1395785410, "870164", null, "2012", "8.1" ]
+, [ 425, "16348440-6545-436C-BE47-1746ABC55103", 425, 1395784728, "870164", 1395785410, "870164", null, "2013", "7.9" ]
+ ]
+}

@@ -1,0 +1,367 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "9et4-6fpi",
+      "name" : "EWDD - Day Labor Program",
+      "attribution" : "May Smith",
+      "averageRating" : 0,
+      "category" : "A Prosperous City",
+      "createdAt" : 1401402973,
+      "description" : "The Day Labor program, funded through CDBG, provides short-term employment and support services to unemployed Angelenos.  Goals for the program are established by federal regulations and local measures.",
+      "displayType" : "table",
+      "downloadCount" : 3,
+      "indexUpdatedAt" : 1414613801,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8100033,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401403085,
+      "publicationGroup" : 1599273,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1401402982,
+      "rowsUpdatedBy" : "utpt-bj92",
+      "tableId" : 1599273,
+      "totalTimesRated" : 0,
+      "viewCount" : 35,
+      "viewLastModified" : 1401403085,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150464843,
+        "name" : "Metric Nbr",
+        "dataTypeName" : "number",
+        "fieldName" : "metric_nbr",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20001941,
+        "width" : 73,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "1.1",
+          "sum" : "5.0",
+          "null" : 0,
+          "average" : "1.25",
+          "largest" : "1.4",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1.1"
+          }, {
+            "count" : 19,
+            "item" : "1.2"
+          }, {
+            "count" : 18,
+            "item" : "1.3"
+          }, {
+            "count" : 17,
+            "item" : "1.4"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150464844,
+        "name" : "Metric",
+        "dataTypeName" : "text",
+        "fieldName" : "metric",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20001942,
+        "width" : 343,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "Increase Day Labor Income through Short-term Jobs",
+          "null" : 0,
+          "largest" : "Number of Single-Day (short-term) Jobs Obtained",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Number of Single-Day (short-term) Jobs Obtained"
+          }, {
+            "count" : 19,
+            "item" : "Number of Day Labor Center client visits for job placement"
+          }, {
+            "count" : 18,
+            "item" : "Number of Additional Services Provided"
+          }, {
+            "count" : 17,
+            "item" : "Increase Day Labor Income through Short-term Jobs"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150464845,
+        "name" : "Annual Goal",
+        "dataTypeName" : "number",
+        "fieldName" : "annual_goal",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20001943,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 3,
+          "smallest" : "10920",
+          "sum" : "114720",
+          "null" : 1,
+          "average" : "38240",
+          "largest" : "86800",
+          "top" : [ {
+            "count" : 20,
+            "item" : "17000"
+          }, {
+            "count" : 19,
+            "item" : "86800"
+          }, {
+            "count" : 18,
+            "item" : "10920"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150464846,
+        "name" : "3 Quarter Cumulative Goal: Apr 1 - Dec 31 ",
+        "dataTypeName" : "number",
+        "fieldName" : "_3_quarter_cumulative_goal_apr_1_dec_31",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20001944,
+        "width" : 185,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "8190",
+          "sum" : "1211040",
+          "null" : 0,
+          "average" : "302760",
+          "largest" : "1125000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "12750"
+          }, {
+            "count" : 19,
+            "item" : "65100"
+          }, {
+            "count" : 18,
+            "item" : "8190"
+          }, {
+            "count" : 17,
+            "item" : "1125000"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150464847,
+        "name" : "3 Quarter Cumulative Actual:Apr 1 - Dec 31",
+        "dataTypeName" : "number",
+        "fieldName" : "_3_quarter_cumulative_actual_apr_1_dec_31",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20001945,
+        "width" : 183,
+        "cachedContents" : {
+          "non_null" : 3,
+          "smallest" : "20653",
+          "sum" : "118374",
+          "null" : 1,
+          "average" : "39458",
+          "largest" : "71127",
+          "top" : [ {
+            "count" : 20,
+            "item" : "20653"
+          }, {
+            "count" : 19,
+            "item" : "71127"
+          }, {
+            "count" : 18,
+            "item" : "26594"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150464848,
+        "name" : "Percentage of 3 Quarter Goal",
+        "dataTypeName" : "percent",
+        "fieldName" : "percentage_of_3_quarter_goal",
+        "position" : 6,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 20001946,
+        "width" : 222,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "109",
+          "sum" : "735",
+          "null" : 0,
+          "average" : "183.75",
+          "largest" : "325",
+          "top" : [ {
+            "count" : 20,
+            "item" : "162"
+          }, {
+            "count" : 19,
+            "item" : "109"
+          }, {
+            "count" : 18,
+            "item" : "325"
+          }, {
+            "count" : 17,
+            "item" : "139"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150464849,
+        "name" : "% of Annual Goal Completed",
+        "dataTypeName" : "percent",
+        "fieldName" : "of_annual_goal_completed",
+        "position" : 7,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 20001947,
+        "width" : 282,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "82",
+          "sum" : "552",
+          "null" : 0,
+          "average" : "138",
+          "largest" : "244",
+          "top" : [ {
+            "count" : 20,
+            "item" : "121"
+          }, {
+            "count" : 19,
+            "item" : "82"
+          }, {
+            "count" : 18,
+            "item" : "244"
+          }, {
+            "count" : 17,
+            "item" : "105"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Economic and Workforce Development"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "utpt-bj92",
+        "displayName" : "Economic and Workforce Dev OpenData",
+        "profileImageUrlLarge" : "/images/profile/0818/3245/City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0818/3245/City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0818/3245/City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Economic and Workforce Dev OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "utpt-bj92",
+        "displayName" : "Economic and Workforce Dev OpenData",
+        "profileImageUrlLarge" : "/images/profile/0818/3245/City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0818/3245/City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0818/3245/City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Economic and Workforce Dev OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "ewdd", "day labor", "program performance", "outcomes" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "4D7CACB4-1B5C-42B3-846A-B614D6E606B7", 1, 1401402977, "883727", 1401402977, "883727", "{\n}", "1.1", "Number of Single-Day (short-term) Jobs Obtained", "17000", "12750", "20653", "162", "121" ]
+, [ 2, "1469B6C0-F39A-4E9F-9C27-00131A0E9DF7", 2, 1401402977, "883727", 1401402977, "883727", "{\n}", "1.2", "Number of Day Labor Center client visits for job placement", "86800", "65100", "71127", "109", "82" ]
+, [ 3, "2AB5C514-C77C-447E-A59E-0DBAC3EB95B4", 3, 1401402977, "883727", 1401402977, "883727", "{\n}", "1.3", "Number of Additional Services Provided", "10920", "8190", "26594", "325", "244" ]
+, [ 4, "8D12ABF0-CDF8-4227-82FA-5453B886CEB5", 4, 1401402977, "883727", 1401402977, "883727", "{\n  \"invalidCells\" : {\n    \"20001943\" : \"$1,500,000\",\n    \"20001945\" : \"$1,569,213\"\n  }\n}", "1.4", "Increase Day Labor Income through Short-term Jobs", null, "1125000", null, "139", "105" ]
+ ]
+}

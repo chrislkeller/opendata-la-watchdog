@@ -1,0 +1,645 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "xuce-e6ip",
+      "name" : "Renewable Projects Since 2003",
+      "attribution" : "LADWP",
+      "averageRating" : 80,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1400118260,
+      "description" : "LADWP Renewable Projects since 2003",
+      "displayType" : "table",
+      "downloadCount" : 10,
+      "indexUpdatedAt" : 1414613695,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8029956,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1400531807,
+      "publicationGroup" : 1581707,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1400531799,
+      "rowsUpdatedBy" : "g9i9-z6y7",
+      "tableId" : 1587572,
+      "totalTimesRated" : 1,
+      "viewCount" : 34,
+      "viewLastModified" : 1401236718,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 149116982,
+        "name" : "Project Name",
+        "dataTypeName" : "text",
+        "fieldName" : "project_name",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19731865,
+        "width" : 244,
+        "cachedContents" : {
+          "non_null" : 40,
+          "smallest" : "Adelanto Solar Facility",
+          "null" : 0,
+          "largest" : "WM Bradley",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Small Hydro"
+          }, {
+            "count" : 19,
+            "item" : "Hyperion Digester Gas"
+          }, {
+            "count" : 18,
+            "item" : "Lopez Microturbine"
+          }, {
+            "count" : 17,
+            "item" : "WM Bradley"
+          }, {
+            "count" : 16,
+            "item" : "DWP Built Solar "
+          }, {
+            "count" : 15,
+            "item" : "Solar CNM (SB1)"
+          }, {
+            "count" : 14,
+            "item" : "PPM SW Wyoming"
+          }, {
+            "count" : 13,
+            "item" : "PPM Pebble Springs"
+          }, {
+            "count" : 12,
+            "item" : "MWD Sepulveda"
+          }, {
+            "count" : 11,
+            "item" : "Willow Creek"
+          }, {
+            "count" : 10,
+            "item" : "Pine Tree Wind Power Project"
+          }, {
+            "count" : 9,
+            "item" : "Shell Energy Landfill Gas"
+          }, {
+            "count" : 8,
+            "item" : "Atmos Energy Landfill Gas"
+          }, {
+            "count" : 7,
+            "item" : "Milford Wind Phase I"
+          }, {
+            "count" : 6,
+            "item" : "Milford Wind Phase II1"
+          }, {
+            "count" : 5,
+            "item" : "Windy Point Phase II"
+          }, {
+            "count" : 4,
+            "item" : "Toyon Power Plant"
+          }, {
+            "count" : 3,
+            "item" : "Linden"
+          }, {
+            "count" : 2,
+            "item" : "North Hollywood PS Power Plant"
+          }, {
+            "count" : 1,
+            "item" : "Shell Renewable Biomethane"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149116983,
+        "name" : "Project Status",
+        "dataTypeName" : "text",
+        "fieldName" : "project_status",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19731866,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 40,
+          "smallest" : "Potential Projects",
+          "null" : 0,
+          "largest" : "Project Under Construction",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Project In-service"
+          }, {
+            "count" : 19,
+            "item" : "Project Under Construction"
+          }, {
+            "count" : 18,
+            "item" : "Projects Planned"
+          }, {
+            "count" : 17,
+            "item" : "Potential Projects"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149116984,
+        "name" : "Technology",
+        "dataTypeName" : "text",
+        "fieldName" : "technology",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19731867,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 40,
+          "smallest" : "Biomass Digester",
+          "null" : 0,
+          "largest" : "Wind",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Small Hydro"
+          }, {
+            "count" : 19,
+            "item" : "Biomass Digester"
+          }, {
+            "count" : 18,
+            "item" : "Biomass Landfill Gas"
+          }, {
+            "count" : 17,
+            "item" : "Solar Photovoltaic"
+          }, {
+            "count" : 16,
+            "item" : "Wind"
+          }, {
+            "count" : 15,
+            "item" : "Biomethane"
+          }, {
+            "count" : 14,
+            "item" : "Geothermal"
+          }, {
+            "count" : 13,
+            "item" : "Hydro"
+          }, {
+            "count" : 12,
+            "item" : "Solar"
+          }, {
+            "count" : 11,
+            "item" : "Various Types"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149116985,
+        "name" : "PPA/Own",
+        "dataTypeName" : "text",
+        "fieldName" : "ppa_own",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19731868,
+        "width" : 184,
+        "cachedContents" : {
+          "non_null" : 40,
+          "smallest" : "Own",
+          "null" : 0,
+          "largest" : "PPA/Own",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Own"
+          }, {
+            "count" : 19,
+            "item" : "PPA"
+          }, {
+            "count" : 18,
+            "item" : "Own (REC's only)"
+          }, {
+            "count" : 17,
+            "item" : "PPA "
+          }, {
+            "count" : 16,
+            "item" : "PPA/Own"
+          }, {
+            "count" : 15,
+            "item" : "Owned"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149116986,
+        "name" : "COD",
+        "dataTypeName" : "text",
+        "fieldName" : "cod",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19731869,
+        "width" : 136,
+        "cachedContents" : {
+          "non_null" : 40,
+          "smallest" : "1/1/12",
+          "null" : 0,
+          "largest" : "In service",
+          "top" : [ {
+            "count" : 20,
+            "item" : "In service"
+          }, {
+            "count" : 19,
+            "item" : "7/1/06"
+          }, {
+            "count" : 18,
+            "item" : "1/30/09"
+          }, {
+            "count" : 17,
+            "item" : "12/1/08"
+          }, {
+            "count" : 16,
+            "item" : "6/1/10"
+          }, {
+            "count" : 15,
+            "item" : "8/1/09"
+          }, {
+            "count" : 14,
+            "item" : "9/1/09"
+          }, {
+            "count" : 13,
+            "item" : "11/16/09"
+          }, {
+            "count" : 12,
+            "item" : "5/2/11"
+          }, {
+            "count" : 11,
+            "item" : "1/31/10"
+          }, {
+            "count" : 10,
+            "item" : "6/30/10"
+          }, {
+            "count" : 9,
+            "item" : "1/1/12"
+          }, {
+            "count" : 8,
+            "item" : "6/30/12"
+          }, {
+            "count" : 7,
+            "item" : "3/15/13"
+          }, {
+            "count" : 6,
+            "item" : "12/20/12"
+          }, {
+            "count" : 5,
+            "item" : "12/06/133"
+          }, {
+            "count" : 4,
+            "item" : "2014-2031"
+          }, {
+            "count" : 3,
+            "item" : "2014-2030"
+          }, {
+            "count" : 2,
+            "item" : "2014-2016"
+          }, {
+            "count" : 1,
+            "item" : "12/31/15"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149116987,
+        "name" : "Ownership Option date",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "ownership_option_date",
+        "position" : 7,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 19731870,
+        "width" : 352,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "2016-01-31T00:00:00",
+          "null" : 36,
+          "largest" : "2021-12-31T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2019-11-16T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2018-07-01T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2016-01-31T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2021-12-31T00:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149116988,
+        "name" : " LA's Share of MW",
+        "dataTypeName" : "number",
+        "fieldName" : "la_s_share_of_mw",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19731871,
+        "width" : 304,
+        "cachedContents" : {
+          "non_null" : 37,
+          "smallest" : "0",
+          "sum" : "2935.71",
+          "null" : 3,
+          "average" : "79.34351351351351",
+          "largest" : "262.2",
+          "top" : [ {
+            "count" : 20,
+            "item" : "208"
+          }, {
+            "count" : 19,
+            "item" : "16"
+          }, {
+            "count" : 18,
+            "item" : "1.5"
+          }, {
+            "count" : 17,
+            "item" : "6.4"
+          }, {
+            "count" : 16,
+            "item" : "2.8"
+          }, {
+            "count" : 15,
+            "item" : "96.9"
+          }, {
+            "count" : 14,
+            "item" : "82.2"
+          }, {
+            "count" : 13,
+            "item" : "68.7"
+          }, {
+            "count" : 12,
+            "item" : "8.5"
+          }, {
+            "count" : 11,
+            "item" : "72"
+          }, {
+            "count" : 10,
+            "item" : "135"
+          }, {
+            "count" : 9,
+            "item" : "185"
+          }, {
+            "count" : 8,
+            "item" : "102"
+          }, {
+            "count" : 7,
+            "item" : "262.2"
+          }, {
+            "count" : 6,
+            "item" : "3.6"
+          }, {
+            "count" : 5,
+            "item" : "50"
+          }, {
+            "count" : 4,
+            "item" : "1"
+          }, {
+            "count" : 3,
+            "item" : "10.0"
+          }, {
+            "count" : 2,
+            "item" : "39"
+          }, {
+            "count" : 1,
+            "item" : "13.71"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149116989,
+        "name" : "LA's Share of GWh",
+        "dataTypeName" : "number",
+        "fieldName" : "la_s_share_of_gwh",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19731872,
+        "width" : 304,
+        "cachedContents" : {
+          "non_null" : 40,
+          "smallest" : "0",
+          "sum" : "8527.3",
+          "null" : 0,
+          "average" : "213.1825",
+          "largest" : "693.9",
+          "top" : [ {
+            "count" : 20,
+            "item" : "569"
+          }, {
+            "count" : 19,
+            "item" : "131"
+          }, {
+            "count" : 18,
+            "item" : "0"
+          }, {
+            "count" : 17,
+            "item" : "4.9"
+          }, {
+            "count" : 16,
+            "item" : "92.0"
+          }, {
+            "count" : 15,
+            "item" : "171.5"
+          }, {
+            "count" : 14,
+            "item" : "192.6"
+          }, {
+            "count" : 13,
+            "item" : "33"
+          }, {
+            "count" : 12,
+            "item" : "197.3"
+          }, {
+            "count" : 11,
+            "item" : "381.5"
+          }, {
+            "count" : 10,
+            "item" : "232"
+          }, {
+            "count" : 9,
+            "item" : "138"
+          }, {
+            "count" : 8,
+            "item" : "434.3"
+          }, {
+            "count" : 7,
+            "item" : "231"
+          }, {
+            "count" : 6,
+            "item" : "693.9"
+          }, {
+            "count" : 5,
+            "item" : "7.4"
+          }, {
+            "count" : 4,
+            "item" : "145.4"
+          }, {
+            "count" : 3,
+            "item" : "5.3"
+          }, {
+            "count" : 2,
+            "item" : "520"
+          }, {
+            "count" : 1,
+            "item" : "20"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "LADWP"
+          }
+        },
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "hb8e-gdsp",
+        "displayName" : "LA DWP OpenData",
+        "profileImageUrlLarge" : "/images/profile/5225/6660/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5225/6660/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5225/6660/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LA DWP OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "ratings" : {
+        "rating" : 80
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "7q7s-tyf3",
+        "displayName" : "Steve Baule",
+        "roleName" : "editor",
+        "screenName" : "Steve Baule",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "renewables" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "0A67232F-A260-45A8-A9FB-20D321A4DCEC", 1, 1400118264, "877550", 1400118264, "877550", "{\n}", "Small Hydro", "Project In-service", "Small Hydro", "Own", "In service", null, "208", "569" ]
+, [ 2, "CD63EB0C-B848-482F-9679-A4EABC0B1270", 2, 1400118264, "877550", 1400118264, "877550", "{\n}", "Hyperion Digester Gas", "Project In-service", "Biomass Digester", "Own", "In service", null, "16", "131" ]
+, [ 3, "8D1CEE83-8616-4D9B-883C-CD401AE73183", 3, 1400118264, "877550", 1400118264, "877550", "{\n}", "Lopez Microturbine", "Project In-service", "Biomass Landfill Gas", "Own", "In service", null, "1.5", "0" ]
+, [ 4, "A07B38F0-9D24-44B1-A82F-596CA4C9589D", 4, 1400118264, "877550", 1400118264, "877550", "{\n}", "WM Bradley", "Project In-service", "Biomass Landfill Gas", "PPA", "In service", null, "6.4", "0" ]
+, [ 5, "9E2A26F9-A9BC-4745-A099-18D6C935764F", 5, 1400118264, "877550", 1400118264, "877550", "{\n}", "DWP Built Solar ", "Project In-service", "Solar Photovoltaic", "Own", "In service", null, "2.8", "4.9" ]
+, [ 6, "FD41103A-988C-47F4-B474-9818E561C208", 6, 1400118264, "877550", 1400118264, "877550", "{\n}", "Solar CNM (SB1)", "Project In-service", "Solar Photovoltaic", "Own (REC's only)", "In service", null, "96.9", "92.0" ]
+, [ 7, "DB8A2662-54CA-46EC-BA31-FA93FE1D5895", 7, 1400118264, "877550", 1400118264, "877550", "{\n}", "PPM SW Wyoming", "Project In-service", "Wind", "PPA ", "7/1/06", null, "82.2", "171.5" ]
+, [ 8, "4AF39035-6F24-4420-ADFD-32BC0A735342", 8, 1400118264, "877550", 1400118264, "877550", "{\n}", "PPM Pebble Springs", "Project In-service", "Wind", "PPA", "1/30/09", null, "68.7", "192.6" ]
+, [ 9, "4EB4FDED-097D-42B5-8B9A-AEC111153D73", 9, 1400118264, "877550", 1400118264, "877550", "{\n}", "MWD Sepulveda", "Project In-service", "Small Hydro", "PPA", "In service", null, "8.5", "33" ]
+, [ 10, "EEF4A8B9-E7AB-4FE3-AE14-BE23FBB32CFB", 10, 1400118264, "877550", 1400118264, "877550", "{\n}", "Willow Creek", "Project In-service", "Wind", "PPA", "12/1/08", null, "72", "197.3" ]
+, [ 11, "4FC1895F-3E63-410F-A766-A4DF11E369E3", 11, 1400118264, "877550", 1400118264, "877550", "{\n}", "Pine Tree Wind Power Project", "Project In-service", "Wind", "Own", "6/1/10", null, "135", "381.5" ]
+, [ 12, "B8762FC1-1FDA-46BD-B086-0BA3A76A78F7", 12, 1400118264, "877550", 1400118264, "877550", "{\n  \"invalidCells\" : {\n    \"19731871\" : \"n/a\"\n  }\n}", "Shell Energy Landfill Gas", "Project In-service", "Biomethane", "PPA", "8/1/09", null, null, "232" ]
+, [ 13, "AB9565E3-3D7A-44AB-8B7E-0F6AF65E3DBF", 13, 1400118264, "877550", 1400118264, "877550", "{\n  \"invalidCells\" : {\n    \"19731871\" : \"n/a\"\n  }\n}", "Atmos Energy Landfill Gas", "Project In-service", "Biomethane", "PPA", "9/1/09", null, null, "138" ]
+, [ 14, "36DA65A9-EDC3-48D3-B274-DBAFCC2B804A", 14, 1400118264, "877550", 1400118264, "877550", "{\n}", "Milford Wind Phase I", "Project In-service", "Wind", "PPA/Own", "11/16/09", "2019-11-16T00:00:00", "185", "434.3" ]
+, [ 15, "8E880129-CCEC-4C60-895F-ED29282B2901", 15, 1400118264, "877550", 1400118264, "877550", "{\n}", "Milford Wind Phase II1", "Project In-service", "Wind", "PPA/Own", "5/2/11", "2018-07-01T00:00:00", "102", "231" ]
+, [ 16, "4E5F5339-40C4-4D58-87DB-8E6551517501", 16, 1400118264, "877550", 1400118264, "877550", "{\n}", "Windy Point Phase II", "Project In-service", "Wind", "PPA/Own", "1/31/10", "2016-01-31T00:00:00", "262.2", "693.9" ]
+, [ 17, "5507C30F-0B74-489E-BC0D-65C5DDEEC159", 17, 1400118264, "877550", 1400118264, "877550", "{\n}", "Toyon Power Plant", "Project In-service", "Biomass Landfill Gas", "PPA", "In service", null, "3.6", "7.4" ]
+, [ 18, "9BCCB4F4-5625-4EC4-9D30-89410D955CB7", 18, 1400118264, "877550", 1400118264, "877550", "{\n}", "Linden", "Project In-service", "Wind", "Own", "6/30/10", null, "50", "145.4" ]
+, [ 19, "6EFAD882-3F3C-4A1E-979C-FD5A40D11BD0", 19, 1400118264, "877550", 1400118264, "877550", "{\n}", "North Hollywood PS Power Plant", "Project In-service", "Small Hydro", "Own", "In service", null, "1", "5.3" ]
+, [ 20, "17C6966E-0877-44B9-938C-83E4337BB7DC", 20, 1400118264, "877550", 1400118264, "877550", "{\n  \"invalidCells\" : {\n    \"19731871\" : \"n/a\"\n  }\n}", "Shell Renewable Biomethane", "Project In-service", "Biomethane", "PPA", "1/1/12", "2021-12-31T00:00:00", null, "520" ]
+, [ 21, "90226A65-5028-4733-9BE6-9D968AB1AEC0", 21, 1400118264, "877550", 1400118264, "877550", "{\n}", "Adelanto Solar Facility", "Project In-service", "Solar Photovoltaic", "Own", "6/30/12", null, "10.0", "20" ]
+, [ 22, "FF52F1A2-0DF4-4DAD-9C0E-68DEC0553B2B", 22, 1400118264, "877550", 1400118264, "877550", "{\n}", "Pine Tree Solar Facility", "Project In-service", "Solar Photovoltaic", "Own", "3/15/13", null, "8.5", "17" ]
+, [ 23, "459D26E2-905D-46CB-99DB-596BE7AC0D48", 23, 1400118264, "877550", 1400118264, "877550", "{\n}", "Manzana Wind", "Project In-service", "Wind", "PPA", "12/20/12", null, "39", "104" ]
+, [ 24, "D7B070CB-7545-4C8D-8DC0-061F4C5E79F9", 24, 1400118264, "877550", 1400118264, "877550", "{\n}", "Don Campbell Geothermal", "Project In-service", "Geothermal", "PPA", "12/06/133", null, "13.71", "114" ]
+, [ 25, "5CD417F9-1951-4A33-8CC7-57B54A316011", 25, 1400118264, "877550", 1400118264, "877550", "{\n}", "Solar Feed-In-Tariff", "Project In-service", "Solar Photovoltaic", "PPA", "In service", null, "0.7", "1.2" ]
+, [ 26, "B8FB6511-6982-46E0-96EF-AF074BF7C518", 26, 1400118264, "877550", 1400118264, "877550", "{\n}", "DWP Built Solar (In-Basin)", "Project Under Construction", "Solar Photovoltaic", "Own", "2014-2031", null, "100", "173" ]
+, [ 27, "0647CACE-A3D0-4E51-AF55-E027D982005F", 27, 1400118264, "877550", 1400118264, "877550", "{\n}", "Solar Customer Net Metered", "Project Under Construction", "Solar Photovoltaic", "Own (REC's only)", "2014-2030", null, "79.0", "117" ]
+, [ 28, "2077518E-AD60-4E5D-84E8-5613182DDCBB", 28, 1400118264, "877550", 1400118264, "877550", "{\n}", "Solar Feed-In-Tariff", "Project Under Construction", "Solar Photovoltaic", "PPA", "2014-2016", null, "150", "263" ]
+, [ 29, "DF3BB198-A802-4CAA-868B-4E586F0B5534", 29, 1400118264, "877550", 1400118264, "877550", "{\n}", "Sempra Copper Mountain 3 Solar", "Project Under Construction", "Solar Photovoltaic", "PPA/Own", "12/31/15", null, "210", "453" ]
+, [ 30, "356AF5E8-A974-49CE-891E-E4D9410478F6", 30, 1400118264, "877550", 1400118264, "877550", "{\n}", "K Road Moapa Solar ", "Project Under Construction", "Solar Photovoltaic", "PPA/Own", "6/30/16", null, "250", "557" ]
+, [ 31, "E5F3DFE6-E2FE-4AE8-8C59-06D0846CBA4F", 31, 1400118264, "877550", 1400118264, "877550", "{\n}", "Aqueduct PP Improvements", "Projects Planned", "Hydro", "Own", "7/1/16", null, "4", "30" ]
+, [ 32, "5C940CF4-A1B3-444C-A61C-1E9D96030244", 32, 1400118264, "877550", 1400118264, "877550", "{\n}", "Water System Hydro", "Projects Planned", "Small Hydro", "Own", "7/1/16", null, "4", "22" ]
+, [ 33, "8310EE95-3F14-4F7B-B52E-A47E7130837A", 33, 1400118264, "877550", 1400118264, "877550", "{\n}", "Ormat Heber 1 Geothermal", "Projects Planned", "Geothermal", "PPA", "2016-2025", null, "35", "291" ]
+, [ 34, "465B1246-AFBD-4266-A0E0-8CF244F42093", 34, 1400118264, "877550", 1400118264, "877550", "{\n}", "Imperial County Geothermal Project -1,2,3,4", "Potential Projects", "Geothermal", "Owned", "2020-2025", null, "50", "400" ]
+, [ 35, "A8B7F279-F877-4CF9-B2AB-A368317EC0CB", 35, 1400118264, "877550", 1400118264, "877550", "{\n}", "Solar PPA 2015 R", "Potential Projects", "Solar", "PPA/Own", "12/31/15", null, "60", "182" ]
+, [ 36, "0D28E97E-A2C2-4900-A0F8-B75382187480", 36, 1400118264, "877550", 1400118264, "877550", "{\n}", "Solar PPA 2016 S", "Potential Projects", "Solar", "PPA/Own", "12/31/16", null, "100", "271" ]
+, [ 37, "76DA7B2F-E3D5-4D1B-AB93-147314F5E583", 37, 1400118264, "877550", 1400118264, "877550", "{\n}", "Beacon Solar Project", "Potential Projects", "Solar", "PPA/Own", "1/1/16", null, "250", "675" ]
+, [ 38, "8AC650B4-3245-4418-B1A7-3E5A9971FCFC", 38, 1400118264, "877550", 1400118264, "877550", "{\n}", "Southern Owens Valley Solar Ranch (SOVSR) ", "Potential Projects", "Solar Photovoltaic", "Own", "2017-2020", null, "200", "430" ]
+, [ 39, "3461D5A2-F558-4F69-83B1-157818683DB7", 39, 1400118264, "877550", 1400118264, "877550", "{\n}", "Pine Canyon Wind Project", "Potential Projects", "Wind", "Own", "12/31/18", null, "70", "227" ]
+, [ 40, "0E3467CF-A152-4368-8D5E-DEEE6BA1CCD9", 40, 1400118264, "877550", 1400118264, "877550", "{\n}", "Short-Term Market Purchases ", "Potential Projects", "Various Types", "PPA", "2014", null, "0", "0" ]
+ ]
+}

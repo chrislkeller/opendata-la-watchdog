@@ -1,0 +1,678 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "geed-7eey",
+      "name" : "Port of Los Angeles - Film Permit Tracking 2014",
+      "attribution" : "Port of Los Angeles",
+      "averageRating" : 0,
+      "category" : "A Prosperous City",
+      "createdAt" : 1395678422,
+      "description" : "Port of Los Angeles - Film Permit Tracking 2014",
+      "displayType" : "table",
+      "downloadCount" : 7,
+      "indexUpdatedAt" : 1414613231,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 7613669,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1395678463,
+      "publicationGroup" : 1521709,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1395678429,
+      "rowsUpdatedBy" : "2ib6-ssvz",
+      "tableId" : 1521709,
+      "totalTimesRated" : 0,
+      "viewCount" : 46,
+      "viewLastModified" : 1401387213,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 139542911,
+        "name" : "HARBOR TRACKING NO.",
+        "dataTypeName" : "text",
+        "fieldName" : "harbor_tracking_no",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18805757,
+        "width" : 328,
+        "cachedContents" : {
+          "non_null" : 22,
+          "smallest" : "14-001",
+          "null" : 0,
+          "largest" : "14-022",
+          "top" : [ {
+            "count" : 20,
+            "item" : "14-001"
+          }, {
+            "count" : 19,
+            "item" : "14-002"
+          }, {
+            "count" : 18,
+            "item" : "14-003"
+          }, {
+            "count" : 17,
+            "item" : "14-004"
+          }, {
+            "count" : 16,
+            "item" : "14-005"
+          }, {
+            "count" : 15,
+            "item" : "14-006"
+          }, {
+            "count" : 14,
+            "item" : "14-007"
+          }, {
+            "count" : 13,
+            "item" : "14-008"
+          }, {
+            "count" : 12,
+            "item" : "14-009"
+          }, {
+            "count" : 11,
+            "item" : "14-010"
+          }, {
+            "count" : 10,
+            "item" : "14-011"
+          }, {
+            "count" : 9,
+            "item" : "14-012"
+          }, {
+            "count" : 8,
+            "item" : "14-013"
+          }, {
+            "count" : 7,
+            "item" : "14-014"
+          }, {
+            "count" : 6,
+            "item" : "14-015"
+          }, {
+            "count" : 5,
+            "item" : "14-016"
+          }, {
+            "count" : 4,
+            "item" : "14-017"
+          }, {
+            "count" : 3,
+            "item" : "14-018"
+          }, {
+            "count" : 2,
+            "item" : "14-019"
+          }, {
+            "count" : 1,
+            "item" : "14-020"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 139542912,
+        "name" : "FILM LA #.",
+        "dataTypeName" : "text",
+        "fieldName" : "film_la",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18805758,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 22,
+          "smallest" : "F00072495-C",
+          "null" : 0,
+          "largest" : "S00074789-A",
+          "top" : [ {
+            "count" : 20,
+            "item" : "F00073400"
+          }, {
+            "count" : 19,
+            "item" : "F00073358"
+          }, {
+            "count" : 18,
+            "item" : "S00073495"
+          }, {
+            "count" : 17,
+            "item" : "F00073447"
+          }, {
+            "count" : 16,
+            "item" : "F00073432"
+          }, {
+            "count" : 15,
+            "item" : "F00073539"
+          }, {
+            "count" : 14,
+            "item" : "F00073459"
+          }, {
+            "count" : 13,
+            "item" : "F00073459-A"
+          }, {
+            "count" : 12,
+            "item" : "F00073242-A"
+          }, {
+            "count" : 11,
+            "item" : "F00072495-C"
+          }, {
+            "count" : 10,
+            "item" : "F00073134"
+          }, {
+            "count" : 9,
+            "item" : "F00073739"
+          }, {
+            "count" : 8,
+            "item" : "S00074032"
+          }, {
+            "count" : 7,
+            "item" : "F00074079"
+          }, {
+            "count" : 6,
+            "item" : "F00074079-A"
+          }, {
+            "count" : 5,
+            "item" : "F00073766-A"
+          }, {
+            "count" : 4,
+            "item" : "F00074432"
+          }, {
+            "count" : 3,
+            "item" : "F00074017"
+          }, {
+            "count" : 2,
+            "item" : "F00073284"
+          }, {
+            "count" : 1,
+            "item" : "S00074476"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 139542913,
+        "name" : "FILMING DATES",
+        "dataTypeName" : "text",
+        "fieldName" : "filming_dates",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18805759,
+        "width" : 256,
+        "cachedContents" : {
+          "non_null" : 22,
+          "smallest" : "1/10/14",
+          "null" : 0,
+          "largest" : "2/9/14",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1/9/14"
+          }, {
+            "count" : 19,
+            "item" : "1/10/14"
+          }, {
+            "count" : 18,
+            "item" : "1/13/14"
+          }, {
+            "count" : 17,
+            "item" : "1/13/14 1/14/14"
+          }, {
+            "count" : 16,
+            "item" : "1/15/14 - 1/16/14"
+          }, {
+            "count" : 15,
+            "item" : "1/14/14"
+          }, {
+            "count" : 14,
+            "item" : "1/14/14 - 1/16/14"
+          }, {
+            "count" : 13,
+            "item" : "1/22/14"
+          }, {
+            "count" : 12,
+            "item" : "1/25/14 - 1/28/14"
+          }, {
+            "count" : 11,
+            "item" : "1/30/14"
+          }, {
+            "count" : 10,
+            "item" : "2/2/14"
+          }, {
+            "count" : 9,
+            "item" : "2/5/14"
+          }, {
+            "count" : 8,
+            "item" : "2/10/14"
+          }, {
+            "count" : 7,
+            "item" : "2/9/14"
+          }, {
+            "count" : 6,
+            "item" : "2/12/14"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 139542914,
+        "name" : "HARBOR FEES",
+        "dataTypeName" : "money",
+        "fieldName" : "harbor_fees",
+        "position" : 5,
+        "renderTypeName" : "money",
+        "tableColumnId" : 18805760,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 18,
+          "smallest" : "50.00",
+          "sum" : "30424.00",
+          "null" : 4,
+          "average" : "1690.222222222222",
+          "largest" : "6936.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "300.00"
+          }, {
+            "count" : 19,
+            "item" : "600.00"
+          }, {
+            "count" : 18,
+            "item" : "50.00"
+          }, {
+            "count" : 17,
+            "item" : "2988.00"
+          }, {
+            "count" : 16,
+            "item" : "1456.00"
+          }, {
+            "count" : 15,
+            "item" : "5008.00"
+          }, {
+            "count" : 14,
+            "item" : "3162.00"
+          }, {
+            "count" : 13,
+            "item" : "6936.00"
+          }, {
+            "count" : 12,
+            "item" : "916.00"
+          }, {
+            "count" : 11,
+            "item" : "1400.00"
+          }, {
+            "count" : 10,
+            "item" : "750.00"
+          }, {
+            "count" : 9,
+            "item" : "1308.00"
+          }, {
+            "count" : 8,
+            "item" : "2356.00"
+          }, {
+            "count" : 7,
+            "item" : "200.00"
+          }, {
+            "count" : 6,
+            "item" : "2094.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 139542915,
+        "name" : "LOCATION(S)",
+        "dataTypeName" : "text",
+        "fieldName" : "location_s",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18805761,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 22,
+          "smallest" : "22nd Street Landing-Sportfishing 141 W. 22nd Street; Harbor lot at 22nd/Sampson; 22nd Street Park parking lot (limited spaces)",
+          "null" : 0,
+          "largest" : "Warehouse 1, 2500 Signal Street; west side of Signal Street",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Ports O' Call Village"
+          }, {
+            "count" : 19,
+            "item" : "Knoll Hill; POC overflow lot"
+          }, {
+            "count" : 18,
+            "item" : "Gateway Plaza Fanfare Fountain"
+          }, {
+            "count" : 17,
+            "item" : "Berth 60, U.S. Water Taxi; west side Signal Street"
+          }, {
+            "count" : 16,
+            "item" : "Berth 95, Parking Concepts Inc."
+          }, {
+            "count" : 15,
+            "item" : "Berth 73; outside breakwater; Al Larson Boat Shop; Port vacant lot on Canner Street"
+          }, {
+            "count" : 14,
+            "item" : "Berth 49, Lane Victory; Outer Harbor; Berth 46 parking lot; west side Signal Street; Cal Yacht Marina, 24 Whaler's Walk"
+          }, {
+            "count" : 13,
+            "item" : "Crafted at the Port of LA, 112 E. 22nd Street; USS Iowa, 250 S. Harbor Blvd; "
+          }, {
+            "count" : 12,
+            "item" : "Warehouse 1, 2500 Signal Street; west side of Signal Street"
+          }, {
+            "count" : 11,
+            "item" : "U.S. Water Taxi, Berth 60; 22nd/Sampson parking lot"
+          }, {
+            "count" : 10,
+            "item" : "Pier 400 Triangular Lot"
+          }, {
+            "count" : 9,
+            "item" : "U.S. Water Taxi, Berth 60; Signal Street"
+          }, {
+            "count" : 8,
+            "item" : "Terminal Island Water Treatment Plant, 445 Ferry Street"
+          }, {
+            "count" : 7,
+            "item" : "Knoll Hill; Knoll Drive; Front Street near r/r tracks; San Clemente/Hermosa St; Fries/La Paloma; 200 blockAvalon Blvd; 400 block N. Henry Ford Ave"
+          }, {
+            "count" : 6,
+            "item" : "U.S. Water Taxi Berth 60; west side of Signal Street"
+          }, {
+            "count" : 5,
+            "item" : "22nd Street Landing-Sportfishing 141 W. 22nd Street; Harbor lot at 22nd/Sampson; 22nd Street Park parking lot (limited spaces)"
+          }, {
+            "count" : 4,
+            "item" : "Berth 95 Catalina Channel Express"
+          }, {
+            "count" : 3,
+            "item" : "Al Larson Boat Shop 1046 S. Seaside Ave.; Ways Street b/w Cannery & Sardine; Cannery S. Seaside & Barracuda; vacant dirt lot on Cannery; Barracuda street"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 139542916,
+        "name" : "PRODUCTION CO./ TITLE",
+        "dataTypeName" : "text",
+        "fieldName" : "production_co_title",
+        "position" : 7,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18805762,
+        "width" : 352,
+        "cachedContents" : {
+          "non_null" : 22,
+          "smallest" : "ABC Studios/Revenge",
+          "null" : 0,
+          "largest" : "Turner North Center Productions/The Last Ship",
+          "top" : [ {
+            "count" : 20,
+            "item" : "AM Stock Cameo Film Library"
+          }, {
+            "count" : 19,
+            "item" : "Chelsea Pictures/Project Q."
+          }, {
+            "count" : 18,
+            "item" : "Innerspin Marketing, LLC"
+          }, {
+            "count" : 17,
+            "item" : "MJZ/GE"
+          }, {
+            "count" : 16,
+            "item" : "Brown Hills Productions, LLC"
+          }, {
+            "count" : 15,
+            "item" : "Turner North Center Productions/The Last Ship"
+          }, {
+            "count" : 14,
+            "item" : "ABC Studios/Revenge"
+          }, {
+            "count" : 13,
+            "item" : "Muffin Magic Productions LLC/The Brink"
+          }, {
+            "count" : 12,
+            "item" : "Founding Fathers' Films LLC/The Zone"
+          }, {
+            "count" : 11,
+            "item" : "O Positive LLC/BMW"
+          }, {
+            "count" : 10,
+            "item" : "First Shot Productions/Hyundai"
+          }, {
+            "count" : 9,
+            "item" : "Downtown Reel Productions, Inc./Peach Boy"
+          }, {
+            "count" : 8,
+            "item" : "Tiki Terrors LLC/Dead Water"
+          }, {
+            "count" : 7,
+            "item" : "Sakai & Associates DBA Contagious L.A./Scholarship"
+          }, {
+            "count" : 6,
+            "item" : "Master Key Productions LLC/Revolution"
+          }, {
+            "count" : 5,
+            "item" : "Paramount Pictures Corporation/Los Altos"
+          }, {
+            "count" : 4,
+            "item" : "Ink and Oranges/Razor"
+          }, {
+            "count" : 3,
+            "item" : "Bau Da Design/Mac Truck"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 139542917,
+        "name" : "COMMENTS",
+        "dataTypeName" : "text",
+        "fieldName" : "comments",
+        "position" : 8,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18805763,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 22,
+          "smallest" : "1/13: F/V Day Island departing from dock, filming at sea; 1/14: filming F/V Day Island at dock; basecamp/crew parking o west side Signal street, fees collected under rider A. One Port Police officer assigned 0600-1900(13hrs) $1,456",
+          "null" : 0,
+          "largest" : "Yacht Reverie tied to dock; exterior dialogue; One Port Police office assigned (1200-1730) 5.5 hours $616; basecamp at harbor lot",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Exterior establishing shots; camera with tripod; cast/crew of 12."
+          }, {
+            "count" : 19,
+            "item" : "Exterior dialogue; BMX bike rider; child walks on piece of wood keeping balanced; rolling back section of chain link fence and restoring. Cast of 5/crew 45; parking at POC overflow."
+          }, {
+            "count" : 18,
+            "item" : "Still photos; cast/crew of 8."
+          }, {
+            "count" : 17,
+            "item" : "Exterior dialogue; filming on 50' fish boat up to 300' feet away; lighting on floating barge and support boats; basecamp on Signal Street; requested lights at southern Signal street and Berth 49/Miner St palm tree/street lights to be turn off 1/10, service request submitted to PEMs Port Police Marine Unit assigned 3pm to 3am (12hrs) $2,688"
+          }, {
+            "count" : 16,
+            "item" : "Not filming on Port property; basecamp only."
+          }, {
+            "count" : 15,
+            "item" : "Boarding equipment/crew at Berth 73 onto F/V Santa Maria - filming at sea. Al Larson: Exterior dialogue; diver jumps in water off of dock; basecamp at Cannery lot"
+          }, {
+            "count" : 14,
+            "item" : "1/13: F/V Day Island departing from dock, filming at sea; 1/14: filming F/V Day Island at dock; basecamp/crew parking o west side Signal street, fees collected under rider A. One Port Police officer assigned 0600-1900(13hrs) $1,456"
+          }, {
+            "count" : 13,
+            "item" : "Smoke effects; brandish weapons; vessels in water adjacent to Lane Victory; 4 camera boats;  trucks/lighting at Berth 46 parking lot;special effects on barge; request to turn off lights in area 1/14-1/15 service request submitted to PEMs; Tom Welch at Westrec accomodated request to turn off parking lot lights; film company paid Westrec for extra security; Cal Yacht Marina-picnic scene on grass. Port Police Marine unit assigned 1/15 (noon) to 1/16 5am (17hrs) $3,808"
+          }, {
+            "count" : 12,
+            "item" : "Prep 1/10; 1/13; Film 1/14; strike 1/15;set dress windows; banners; pop-up tents, \"art walk\" scene; closure of southern end Nagoya way with detour;  Filming POC restaurant; and public area adjacent; requested sprinklers to be turned off 1/10 - 1/15 service request submitted; large cast/crew/extras total 225. Two Port Police officers assigned 1/14 7am to 11pm (16hrs) $3,584 NOTE: actual hours were 13.5 for ONE officer $1,512; requested refund for $2,072"
+          }, {
+            "count" : 11,
+            "item" : "Crafted 1/14-1/16: interior/exterior dialogue; cast/crew of 86; basecamp/parking on location; Iowa 1/16: Interior/exterior dialogue; basecamp in PCI lot "
+          }, {
+            "count" : 10,
+            "item" : "Prep 1/19 & 1/21; film 1/22; strike 1/23; Gen Eng Permit Issued No 3-2014 for minor modifications; Port Police officer assigned for entire duration of prep/film/strike 64 hrs=$7,168; NOTE: actual hours were 53 =$5,936; requested credit of $1,232 to film company.basecamp on Signal Street."
+          }, {
+            "count" : 9,
+            "item" : "Yacht Reverie tied to dock; exterior dialogue; One Port Police office assigned (1200-1730) 5.5 hours $616; basecamp at harbor lot"
+          }, {
+            "count" : 8,
+            "item" : "Exterior shots of picture cars and models against scenery; cast/crew of 14."
+          }, {
+            "count" : 7,
+            "item" : "Staging boats at US Water Taxi; suppose to film outside breakwater; 4 talent in water M/V Pacific Star; basecamp 40 vehicles on Signal Street"
+          }, {
+            "count" : 6,
+            "item" : "Production had to return for another day of shooting. Same activity as above."
+          }, {
+            "count" : 5,
+            "item" : "Interior/exterior dialogue; water effects; all parking on property."
+          }, {
+            "count" : 4,
+            "item" : "Primary location is Knoll Hill: one car in dirt lot/exterior dialogue; at all other locations for approx. 30 minutes for exterior dialogue on curblane; cast/crew of 17"
+          }, {
+            "count" : 3,
+            "item" : "Sail boat tied to dock; talent on boat; interior/exterior dialogue; One Port Police officer assigned 0600-1500 (9hrs) $1,008; Basecamp on west side of Signal Street"
+          }, {
+            "count" : 2,
+            "item" : "Filming at Berth 36; boat tied to dock; Port Police officer assigned 0600-1900(13hrs) $1,456; 2 days basecamp at 22nd/Sampson 2 days crew parking at 22nd st. park"
+          }, {
+            "count" : 1,
+            "item" : "Exterior models against scenery; cast/crw of 15."
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Harbor"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "2ib6-ssvz",
+        "displayName" : "Port of Los Angeles",
+        "profileImageUrlLarge" : "/images/profile/9654/0122/POLALogo2_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9654/0122/POLALogo2_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9654/0122/POLALogo2_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Port of Los Angeles",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "2ib6-ssvz",
+        "displayName" : "Port of Los Angeles",
+        "profileImageUrlLarge" : "/images/profile/9654/0122/POLALogo2_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9654/0122/POLALogo2_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9654/0122/POLALogo2_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Port of Los Angeles",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "CFC1C195-9D78-4475-AFCE-BCE480FAD729", 1, 1395678425, "870164", 1395678425, "870164", "{\n}", "14-001", "F00073400", "1/9/14", "300.00", "Ports O' Call Village", "AM Stock Cameo Film Library", "Exterior establishing shots; camera with tripod; cast/crew of 12." ]
+, [ 2, "F92DAA1D-E71F-4251-914C-80BBACEA3F1F", 2, 1395678425, "870164", 1395678425, "870164", "{\n}", "14-002", "F00073358", "1/9/14", "600.00", "Knoll Hill; POC overflow lot", "Chelsea Pictures/Project Q.", "Exterior dialogue; BMX bike rider; child walks on piece of wood keeping balanced; rolling back section of chain link fence and restoring. Cast of 5/crew 45; parking at POC overflow." ]
+, [ 3, "58FCD9D2-E4FD-4705-AD16-BD1CE8ED2397", 3, 1395678425, "870164", 1395678425, "870164", "{\n}", "14-003", "S00073495", "1/10/14", "50.00", "Gateway Plaza Fanfare Fountain", "Innerspin Marketing, LLC", "Still photos; cast/crew of 8." ]
+, [ 4, "C79C92BC-730E-4042-9D27-91B308A020E7", 4, 1395678425, "870164", 1395678425, "870164", "{\n}", "14-004", "F00073447", "1/10/14", "2988.00", "Berth 60, U.S. Water Taxi; west side Signal Street", "MJZ/GE", "Exterior dialogue; filming on 50' fish boat up to 300' feet away; lighting on floating barge and support boats; basecamp on Signal Street; requested lights at southern Signal street and Berth 49/Miner St palm tree/street lights to be turn off 1/10, service request submitted to PEMs Port Police Marine Unit assigned 3pm to 3am (12hrs) $2,688" ]
+, [ 5, "A2233F3B-894E-492E-AE42-7F09BF3DB6F1", 5, 1395678425, "870164", 1395678425, "870164", "{\n  \"invalidCells\" : {\n    \"18805760\" : \"none\"\n  }\n}", "14-005", "F00073432", "1/13/14", null, "Berth 95, Parking Concepts Inc.", "Brown Hills Productions, LLC", "Not filming on Port property; basecamp only." ]
+, [ 6, "BA97B50C-C2C4-4E89-ABD4-6D98BE8C6A2B", 6, 1395678425, "870164", 1395678425, "870164", "{\n}", "14-006", "F00073539", "1/13/14", "300.00", "Berth 73; outside breakwater; Al Larson Boat Shop; Port vacant lot on Canner Street", "Chelsea Pictures/Project Q.", "Boarding equipment/crew at Berth 73 onto F/V Santa Maria - filming at sea. Al Larson: Exterior dialogue; diver jumps in water off of dock; basecamp at Cannery lot" ]
+, [ 7, "88698102-28D6-4939-9611-EC58D5EF9B06", 7, 1395678425, "870164", 1395678425, "870164", "{\n}", "14-007", "F00073459", "1/13/14 1/14/14", "1456.00", "Berth 60, U.S. Water Taxi; west side Signal Street", "Turner North Center Productions/The Last Ship", "1/13: F/V Day Island departing from dock, filming at sea; 1/14: filming F/V Day Island at dock; basecamp/crew parking o west side Signal street, fees collected under rider A. One Port Police officer assigned 0600-1900(13hrs) $1,456" ]
+, [ 8, "7D508654-AD13-4F62-840A-4768B63872CD", 8, 1395678425, "870164", 1395678425, "870164", "{\n}", "14-008", "F00073459-A", "1/15/14 - 1/16/14", "5008.00", "Berth 49, Lane Victory; Outer Harbor; Berth 46 parking lot; west side Signal Street; Cal Yacht Marina, 24 Whaler's Walk", "Turner North Center Productions/The Last Ship", "Smoke effects; brandish weapons; vessels in water adjacent to Lane Victory; 4 camera boats;  trucks/lighting at Berth 46 parking lot;special effects on barge; request to turn off lights in area 1/14-1/15 service request submitted to PEMs; Tom Welch at Westrec accomodated request to turn off parking lot lights; film company paid Westrec for extra security; Cal Yacht Marina-picnic scene on grass. Port Police Marine unit assigned 1/15 (noon) to 1/16 5am (17hrs) $3,808" ]
+, [ 9, "72EC9BA6-5673-42FC-9BDB-80C3EFB6F580", 9, 1395678425, "870164", 1395678425, "870164", "{\n}", "14-009", "F00073242-A", "1/14/14", "3162.00", "Ports O' Call Village", "ABC Studios/Revenge", "Prep 1/10; 1/13; Film 1/14; strike 1/15;set dress windows; banners; pop-up tents, \"art walk\" scene; closure of southern end Nagoya way with detour;  Filming POC restaurant; and public area adjacent; requested sprinklers to be turned off 1/10 - 1/15 service request submitted; large cast/crew/extras total 225. Two Port Police officers assigned 1/14 7am to 11pm (16hrs) $3,584 NOTE: actual hours were 13.5 for ONE officer $1,512; requested refund for $2,072" ]
+, [ 10, "1FABEC9F-5658-45F0-A4D3-03399DA9F733", 10, 1395678425, "870164", 1395678425, "870164", "{\n  \"invalidCells\" : {\n    \"18805760\" : \"none\"\n  }\n}", "14-010", "F00072495-C", "1/14/14 - 1/16/14", null, "Crafted at the Port of LA, 112 E. 22nd Street; USS Iowa, 250 S. Harbor Blvd; ", "Muffin Magic Productions LLC/The Brink", "Crafted 1/14-1/16: interior/exterior dialogue; cast/crew of 86; basecamp/parking on location; Iowa 1/16: Interior/exterior dialogue; basecamp in PCI lot " ]
+, [ 11, "A54BA166-9D40-4CE6-A60D-39B3F5B492D7", 11, 1395678425, "870164", 1395678425, "870164", "{\n}", "14-011", "F00073134", "1/22/14", "6936.00", "Warehouse 1, 2500 Signal Street; west side of Signal Street", "Founding Fathers' Films LLC/The Zone", "Prep 1/19 & 1/21; film 1/22; strike 1/23; Gen Eng Permit Issued No 3-2014 for minor modifications; Port Police officer assigned for entire duration of prep/film/strike 64 hrs=$7,168; NOTE: actual hours were 53 =$5,936; requested credit of $1,232 to film company.basecamp on Signal Street." ]
+, [ 12, "DF1898B4-4F9F-4CF7-A396-E7052C609B96", 12, 1395678425, "870164", 1395678425, "870164", "{\n}", "14-012", "F00073739", "1/22/14", "916.00", "U.S. Water Taxi, Berth 60; 22nd/Sampson parking lot", "O Positive LLC/BMW", "Yacht Reverie tied to dock; exterior dialogue; One Port Police office assigned (1200-1730) 5.5 hours $616; basecamp at harbor lot" ]
+, [ 13, "1AB457C4-0BFF-43E1-9CA6-4F5CB3657374", 13, 1395678425, "870164", 1395678425, "870164", "{\n}", "14-013", "S00074032", "1/25/14 - 1/28/14", "1400.00", "Pier 400 Triangular Lot", "First Shot Productions/Hyundai", "Exterior shots of picture cars and models against scenery; cast/crew of 14." ]
+, [ 14, "168D275C-A1AC-4109-B791-BD191DCC716F", 14, 1395678425, "870164", 1395678425, "870164", "{\n}", "14-014", "F00074079", "1/30/14", "300.00", "U.S. Water Taxi, Berth 60; Signal Street", "Downtown Reel Productions, Inc./Peach Boy", "Staging boats at US Water Taxi; suppose to film outside breakwater; 4 talent in water M/V Pacific Star; basecamp 40 vehicles on Signal Street" ]
+, [ 15, "96BD2E31-00A6-48D4-9DFD-7DE9213AFFCD", 15, 1395678425, "870164", 1395678425, "870164", "{\n}", "14-015", "F00074079-A", "2/2/14", "300.00", "U.S. Water Taxi, Berth 60; Signal Street", "Downtown Reel Productions, Inc./Peach Boy", "Production had to return for another day of shooting. Same activity as above." ]
+, [ 16, "F4747125-79D1-4DA8-AAE2-181D17145229", 16, 1395678425, "870164", 1395678425, "870164", "{\n  \"invalidCells\" : {\n    \"18805760\" : \"none\"\n  }\n}", "14-016", "F00073766-A", "2/2/14", null, "Terminal Island Water Treatment Plant, 445 Ferry Street", "Tiki Terrors LLC/Dead Water", "Interior/exterior dialogue; water effects; all parking on property." ]
+, [ 17, "1AE4F84B-38AD-4B39-9C15-16AABAA42661", 17, 1395678425, "870164", 1395678425, "870164", "{\n}", "14-017", "F00074432", "2/5/14", "750.00", "Knoll Hill; Knoll Drive; Front Street near r/r tracks; San Clemente/Hermosa St; Fries/La Paloma; 200 blockAvalon Blvd; 400 block N. Henry Ford Ave", "Sakai & Associates DBA Contagious L.A./Scholarship", "Primary location is Knoll Hill: one car in dirt lot/exterior dialogue; at all other locations for approx. 30 minutes for exterior dialogue on curblane; cast/crew of 17" ]
+, [ 18, "6363B889-3DFA-4460-BB88-7C69EBCA8754", 18, 1395678425, "870164", 1395678425, "870164", "{\n}", "14-018", "F00074017", "2/5/14", "1308.00", "U.S. Water Taxi Berth 60; west side of Signal Street", "Master Key Productions LLC/Revolution", "Sail boat tied to dock; talent on boat; interior/exterior dialogue; One Port Police officer assigned 0600-1500 (9hrs) $1,008; Basecamp on west side of Signal Street" ]
+, [ 19, "6BBBA56F-4222-4A64-98CC-824F64752A11", 19, 1395678425, "870164", 1395678425, "870164", "{\n}", "14-019", "F00073284", "2/10/14", "2356.00", "22nd Street Landing-Sportfishing 141 W. 22nd Street; Harbor lot at 22nd/Sampson; 22nd Street Park parking lot (limited spaces)", "Paramount Pictures Corporation/Los Altos", "Filming at Berth 36; boat tied to dock; Port Police officer assigned 0600-1900(13hrs) $1,456; 2 days basecamp at 22nd/Sampson 2 days crew parking at 22nd st. park" ]
+, [ 20, "4A052337-84E5-4D33-9042-58F2BFC38C68", 20, 1395678425, "870164", 1395678425, "870164", "{\n}", "14-020", "S00074476", "2/9/14", "200.00", "Pier 400 Triangular Lot", "Ink and Oranges/Razor", "Exterior models against scenery; cast/crw of 15." ]
+, [ 21, "F9D14A6C-6361-4485-952A-A8B07331E0EB", 21, 1395678425, "870164", 1395678425, "870164", "{\n  \"invalidCells\" : {\n    \"18805760\" : \"none\"\n  }\n}", "14-021", "S00074789-A", "2/12/14", null, "Berth 95 Catalina Channel Express", "Bau Da Design/Mac Truck", "Exterior models against scenery; cast/crw of 14." ]
+, [ 22, "5ABDCA95-BC7F-449E-9E99-40C61354F361", 22, 1395678425, "870164", 1395678425, "870164", "{\n}", "14-022", "F00074607", "2/12/14", "2094.00", "Al Larson Boat Shop 1046 S. Seaside Ave.; Ways Street b/w Cannery & Sardine; Cannery S. Seaside & Barracuda; vacant dirt lot on Cannery; Barracuda street", "Turner North Center Productions/The Last Ship", "Filming at Al Larson: boat at dock/exterior filming/camera boat; brandish weapons Port Police officer assigned 0600-1800(12hrs) $1,344; Ways: overturned car on side of road/exterior dialogue; emergency vehicles with flashing lights ITC/IPC;  S. Seaside/Cannery: driving shots with process trailer; basecamp on Barracuda; crew parking in dirt lot" ]
+ ]
+}

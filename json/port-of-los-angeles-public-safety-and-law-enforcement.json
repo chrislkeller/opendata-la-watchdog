@@ -1,0 +1,1609 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "r5zp-atgu",
+      "name" : "Port of Los Angeles - Public Safety and Law Enforcement",
+      "attribution" : "Port of Los Angeles",
+      "averageRating" : 0,
+      "category" : "A Safe City",
+      "createdAt" : 1398284331,
+      "description" : "Port of Los Angeles - Public Safety and Law Enforcement",
+      "displayType" : "table",
+      "downloadCount" : 3,
+      "indexUpdatedAt" : 1414614286,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 9064632,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1412799133,
+      "publicationGroup" : 1555695,
+      "publicationStage" : "published",
+      "rowIdentifierColumnId" : 170306934,
+      "rowsUpdatedAt" : 1412805670,
+      "rowsUpdatedBy" : "n2rz-rkqx",
+      "state" : "normal",
+      "tableId" : 1773803,
+      "totalTimesRated" : 0,
+      "viewCount" : 96,
+      "viewLastModified" : 1412799973,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 170306934,
+        "name" : "Reporting Period",
+        "dataTypeName" : "text",
+        "fieldName" : "reporting_period",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19337625,
+        "width" : 292,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "14-Apr",
+          "null" : 0,
+          "largest" : "14-Sep",
+          "top" : [ {
+            "count" : 20,
+            "item" : "14-Jan"
+          }, {
+            "count" : 19,
+            "item" : "14-Feb"
+          }, {
+            "count" : 18,
+            "item" : "14-Mar"
+          }, {
+            "count" : 17,
+            "item" : "14-Apr"
+          }, {
+            "count" : 16,
+            "item" : "14-May"
+          }, {
+            "count" : 15,
+            "item" : "14-Jun"
+          }, {
+            "count" : 14,
+            "item" : "14-Jul"
+          }, {
+            "count" : 13,
+            "item" : "14-Aug"
+          }, {
+            "count" : 12,
+            "item" : "14-Sep"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170306935,
+        "name" : "Arrests (all)",
+        "dataTypeName" : "number",
+        "fieldName" : "arrests_all",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19337626,
+        "width" : 256,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "23",
+          "sum" : "411",
+          "null" : 0,
+          "average" : "45.66666666666667",
+          "largest" : "92",
+          "top" : [ {
+            "count" : 20,
+            "item" : "28"
+          }, {
+            "count" : 19,
+            "item" : "35"
+          }, {
+            "count" : 18,
+            "item" : "32"
+          }, {
+            "count" : 17,
+            "item" : "30"
+          }, {
+            "count" : 16,
+            "item" : "23"
+          }, {
+            "count" : 15,
+            "item" : "45"
+          }, {
+            "count" : 14,
+            "item" : "58"
+          }, {
+            "count" : 13,
+            "item" : "92"
+          }, {
+            "count" : 12,
+            "item" : "68"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170306936,
+        "name" : "Article Sniffs (K9)",
+        "dataTypeName" : "number",
+        "fieldName" : "article_sniffs_k9",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19337627,
+        "width" : 328,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "0",
+          "sum" : "885",
+          "null" : 0,
+          "average" : "98.33333333333333",
+          "largest" : "536",
+          "top" : [ {
+            "count" : 20,
+            "item" : "89"
+          }, {
+            "count" : 19,
+            "item" : "50"
+          }, {
+            "count" : 18,
+            "item" : "536"
+          }, {
+            "count" : 17,
+            "item" : "119"
+          }, {
+            "count" : 16,
+            "item" : "1"
+          }, {
+            "count" : 15,
+            "item" : "0"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170306937,
+        "name" : "Boardings",
+        "dataTypeName" : "number",
+        "fieldName" : "boardings",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19337628,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "0",
+          "sum" : "60",
+          "null" : 0,
+          "average" : "6.666666666666667",
+          "largest" : "17",
+          "top" : [ {
+            "count" : 20,
+            "item" : "17"
+          }, {
+            "count" : 19,
+            "item" : "15"
+          }, {
+            "count" : 18,
+            "item" : "6"
+          }, {
+            "count" : 17,
+            "item" : "10"
+          }, {
+            "count" : 16,
+            "item" : "0"
+          }, {
+            "count" : 15,
+            "item" : "12"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170306938,
+        "name" : "Calls for Service",
+        "dataTypeName" : "number",
+        "fieldName" : "calls_for_service",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19337629,
+        "width" : 304,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "402",
+          "sum" : "4320",
+          "null" : 0,
+          "average" : "480",
+          "largest" : "560",
+          "top" : [ {
+            "count" : 20,
+            "item" : "473"
+          }, {
+            "count" : 19,
+            "item" : "402"
+          }, {
+            "count" : 18,
+            "item" : "458"
+          }, {
+            "count" : 17,
+            "item" : "428"
+          }, {
+            "count" : 16,
+            "item" : "499"
+          }, {
+            "count" : 15,
+            "item" : "471"
+          }, {
+            "count" : 14,
+            "item" : "544"
+          }, {
+            "count" : 13,
+            "item" : "560"
+          }, {
+            "count" : 12,
+            "item" : "485"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170306939,
+        "name" : "Container Terminal",
+        "dataTypeName" : "number",
+        "fieldName" : "container_terminal",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19337630,
+        "width" : 316,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "174",
+          "sum" : "1863",
+          "null" : 0,
+          "average" : "207",
+          "largest" : "268",
+          "top" : [ {
+            "count" : 20,
+            "item" : "268"
+          }, {
+            "count" : 19,
+            "item" : "212"
+          }, {
+            "count" : 18,
+            "item" : "211"
+          }, {
+            "count" : 17,
+            "item" : "237"
+          }, {
+            "count" : 16,
+            "item" : "177"
+          }, {
+            "count" : 15,
+            "item" : "174"
+          }, {
+            "count" : 14,
+            "item" : "195"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170306940,
+        "name" : "Dangerous Cargo",
+        "dataTypeName" : "number",
+        "fieldName" : "dangerous_cargo",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19337631,
+        "width" : 280,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "194",
+          "sum" : "2267",
+          "null" : 0,
+          "average" : "251.8888888888889",
+          "largest" : "326",
+          "top" : [ {
+            "count" : 20,
+            "item" : "326"
+          }, {
+            "count" : 19,
+            "item" : "263"
+          }, {
+            "count" : 18,
+            "item" : "244"
+          }, {
+            "count" : 17,
+            "item" : "251"
+          }, {
+            "count" : 16,
+            "item" : "262"
+          }, {
+            "count" : 15,
+            "item" : "217"
+          }, {
+            "count" : 14,
+            "item" : "247"
+          }, {
+            "count" : 13,
+            "item" : "194"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170306941,
+        "name" : "Dive Operations",
+        "dataTypeName" : "number",
+        "fieldName" : "dive_operations",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19337632,
+        "width" : 280,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "8",
+          "sum" : "118",
+          "null" : 0,
+          "average" : "13.11111111111111",
+          "largest" : "23",
+          "top" : [ {
+            "count" : 20,
+            "item" : "10"
+          }, {
+            "count" : 19,
+            "item" : "22"
+          }, {
+            "count" : 18,
+            "item" : "23"
+          }, {
+            "count" : 17,
+            "item" : "8"
+          }, {
+            "count" : 16,
+            "item" : "15"
+          }, {
+            "count" : 15,
+            "item" : "12"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170306942,
+        "name" : "FI's",
+        "dataTypeName" : "number",
+        "fieldName" : "fi_s",
+        "position" : 10,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19337633,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "93",
+          "sum" : "1207",
+          "null" : 0,
+          "average" : "134.1111111111111",
+          "largest" : "174",
+          "top" : [ {
+            "count" : 20,
+            "item" : "174"
+          }, {
+            "count" : 19,
+            "item" : "115"
+          }, {
+            "count" : 18,
+            "item" : "93"
+          }, {
+            "count" : 17,
+            "item" : "100"
+          }, {
+            "count" : 16,
+            "item" : "129"
+          }, {
+            "count" : 15,
+            "item" : "117"
+          }, {
+            "count" : 14,
+            "item" : "169"
+          }, {
+            "count" : 13,
+            "item" : "145"
+          }, {
+            "count" : 12,
+            "item" : "165"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170306943,
+        "name" : "HFIR",
+        "dataTypeName" : "number",
+        "fieldName" : "hfir",
+        "position" : 11,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19337634,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "175",
+          "sum" : "1749",
+          "null" : 0,
+          "average" : "194.3333333333333",
+          "largest" : "222",
+          "top" : [ {
+            "count" : 20,
+            "item" : "220"
+          }, {
+            "count" : 19,
+            "item" : "187"
+          }, {
+            "count" : 18,
+            "item" : "222"
+          }, {
+            "count" : 17,
+            "item" : "190"
+          }, {
+            "count" : 16,
+            "item" : "175"
+          }, {
+            "count" : 15,
+            "item" : "197"
+          }, {
+            "count" : 14,
+            "item" : "184"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170306944,
+        "name" : "Hot Works Insp.",
+        "dataTypeName" : "number",
+        "fieldName" : "hot_works_insp",
+        "position" : 12,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19337635,
+        "width" : 280,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "30",
+          "sum" : "413",
+          "null" : 0,
+          "average" : "45.88888888888889",
+          "largest" : "56",
+          "top" : [ {
+            "count" : 20,
+            "item" : "56"
+          }, {
+            "count" : 19,
+            "item" : "52"
+          }, {
+            "count" : 18,
+            "item" : "49"
+          }, {
+            "count" : 17,
+            "item" : "48"
+          }, {
+            "count" : 16,
+            "item" : "47"
+          }, {
+            "count" : 15,
+            "item" : "54"
+          }, {
+            "count" : 14,
+            "item" : "40"
+          }, {
+            "count" : 13,
+            "item" : "30"
+          }, {
+            "count" : 12,
+            "item" : "37"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170306945,
+        "name" : "Marina(s)",
+        "dataTypeName" : "number",
+        "fieldName" : "marina_s",
+        "position" : 13,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19337636,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "468",
+          "sum" : "4909",
+          "null" : 0,
+          "average" : "545.4444444444444",
+          "largest" : "609",
+          "top" : [ {
+            "count" : 20,
+            "item" : "609"
+          }, {
+            "count" : 19,
+            "item" : "468"
+          }, {
+            "count" : 18,
+            "item" : "491"
+          }, {
+            "count" : 17,
+            "item" : "554"
+          }, {
+            "count" : 16,
+            "item" : "582"
+          }, {
+            "count" : 15,
+            "item" : "545"
+          }, {
+            "count" : 14,
+            "item" : "605"
+          }, {
+            "count" : 13,
+            "item" : "539"
+          }, {
+            "count" : 12,
+            "item" : "516"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170306946,
+        "name" : "Oil Terminals",
+        "dataTypeName" : "number",
+        "fieldName" : "oil_terminals",
+        "position" : 14,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19337637,
+        "width" : 256,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "31",
+          "sum" : "622",
+          "null" : 0,
+          "average" : "69.11111111111111",
+          "largest" : "130",
+          "top" : [ {
+            "count" : 20,
+            "item" : "130"
+          }, {
+            "count" : 19,
+            "item" : "73"
+          }, {
+            "count" : 18,
+            "item" : "74"
+          }, {
+            "count" : 17,
+            "item" : "67"
+          }, {
+            "count" : 16,
+            "item" : "85"
+          }, {
+            "count" : 15,
+            "item" : "31"
+          }, {
+            "count" : 14,
+            "item" : "51"
+          }, {
+            "count" : 13,
+            "item" : "49"
+          }, {
+            "count" : 12,
+            "item" : "62"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170306947,
+        "name" : "Parking Citations",
+        "dataTypeName" : "number",
+        "fieldName" : "parking_citations",
+        "position" : 15,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19337638,
+        "width" : 304,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "60",
+          "sum" : "788",
+          "null" : 0,
+          "average" : "87.55555555555556",
+          "largest" : "131",
+          "top" : [ {
+            "count" : 20,
+            "item" : "94"
+          }, {
+            "count" : 19,
+            "item" : "71"
+          }, {
+            "count" : 18,
+            "item" : "68"
+          }, {
+            "count" : 17,
+            "item" : "60"
+          }, {
+            "count" : 16,
+            "item" : "90"
+          }, {
+            "count" : 15,
+            "item" : "80"
+          }, {
+            "count" : 14,
+            "item" : "69"
+          }, {
+            "count" : 13,
+            "item" : "131"
+          }, {
+            "count" : 12,
+            "item" : "125"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170306948,
+        "name" : "Per. Service Citations",
+        "dataTypeName" : "number",
+        "fieldName" : "per_service_citations",
+        "position" : 16,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19337639,
+        "width" : 364,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "244",
+          "sum" : "2767",
+          "null" : 0,
+          "average" : "307.4444444444444",
+          "largest" : "378",
+          "top" : [ {
+            "count" : 20,
+            "item" : "302"
+          }, {
+            "count" : 19,
+            "item" : "329"
+          }, {
+            "count" : 18,
+            "item" : "296"
+          }, {
+            "count" : 17,
+            "item" : "272"
+          }, {
+            "count" : 16,
+            "item" : "370"
+          }, {
+            "count" : 15,
+            "item" : "244"
+          }, {
+            "count" : 14,
+            "item" : "323"
+          }, {
+            "count" : 13,
+            "item" : "378"
+          }, {
+            "count" : 12,
+            "item" : "253"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170306949,
+        "name" : "PIR (IR's)",
+        "dataTypeName" : "number",
+        "fieldName" : "pir_ir_s",
+        "position" : 17,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19337640,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "12",
+          "sum" : "156",
+          "null" : 0,
+          "average" : "17.33333333333333",
+          "largest" : "27",
+          "top" : [ {
+            "count" : 20,
+            "item" : "17"
+          }, {
+            "count" : 19,
+            "item" : "16"
+          }, {
+            "count" : 18,
+            "item" : "18"
+          }, {
+            "count" : 17,
+            "item" : "27"
+          }, {
+            "count" : 16,
+            "item" : "21"
+          }, {
+            "count" : 15,
+            "item" : "14"
+          }, {
+            "count" : 14,
+            "item" : "12"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170306950,
+        "name" : "Security Sweeps (K9)",
+        "dataTypeName" : "number",
+        "fieldName" : "security_sweeps_k9",
+        "position" : 18,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19337641,
+        "width" : 340,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "154",
+          "sum" : "1893",
+          "null" : 0,
+          "average" : "210.3333333333333",
+          "largest" : "287",
+          "top" : [ {
+            "count" : 20,
+            "item" : "233"
+          }, {
+            "count" : 19,
+            "item" : "287"
+          }, {
+            "count" : 18,
+            "item" : "256"
+          }, {
+            "count" : 17,
+            "item" : "174"
+          }, {
+            "count" : 16,
+            "item" : "202"
+          }, {
+            "count" : 15,
+            "item" : "162"
+          }, {
+            "count" : 14,
+            "item" : "241"
+          }, {
+            "count" : 13,
+            "item" : "184"
+          }, {
+            "count" : 12,
+            "item" : "154"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170306951,
+        "name" : "Small Craft",
+        "dataTypeName" : "number",
+        "fieldName" : "small_craft",
+        "position" : 19,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19337642,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "6",
+          "sum" : "190",
+          "null" : 0,
+          "average" : "21.11111111111111",
+          "largest" : "65",
+          "top" : [ {
+            "count" : 20,
+            "item" : "6"
+          }, {
+            "count" : 19,
+            "item" : "10"
+          }, {
+            "count" : 18,
+            "item" : "65"
+          }, {
+            "count" : 17,
+            "item" : "16"
+          }, {
+            "count" : 16,
+            "item" : "34"
+          }, {
+            "count" : 15,
+            "item" : "22"
+          }, {
+            "count" : 14,
+            "item" : "11"
+          }, {
+            "count" : 13,
+            "item" : "18"
+          }, {
+            "count" : 12,
+            "item" : "8"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170306952,
+        "name" : "Tank Vessel Insp.",
+        "dataTypeName" : "number",
+        "fieldName" : "tank_vessel_insp",
+        "position" : 20,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19337643,
+        "width" : 304,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "8",
+          "sum" : "110",
+          "null" : 0,
+          "average" : "12.22222222222222",
+          "largest" : "19",
+          "top" : [ {
+            "count" : 20,
+            "item" : "19"
+          }, {
+            "count" : 19,
+            "item" : "12"
+          }, {
+            "count" : 18,
+            "item" : "9"
+          }, {
+            "count" : 17,
+            "item" : "10"
+          }, {
+            "count" : 16,
+            "item" : "15"
+          }, {
+            "count" : 15,
+            "item" : "13"
+          }, {
+            "count" : 14,
+            "item" : "8"
+          }, {
+            "count" : 13,
+            "item" : "11"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170306953,
+        "name" : "Tariff/Port Citations",
+        "dataTypeName" : "number",
+        "fieldName" : "tariff_port_citations",
+        "position" : 21,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19337644,
+        "width" : 352,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "1",
+          "sum" : "68",
+          "null" : 0,
+          "average" : "7.555555555555556",
+          "largest" : "15",
+          "top" : [ {
+            "count" : 20,
+            "item" : "11"
+          }, {
+            "count" : 19,
+            "item" : "1"
+          }, {
+            "count" : 18,
+            "item" : "15"
+          }, {
+            "count" : 17,
+            "item" : "5"
+          }, {
+            "count" : 16,
+            "item" : "14"
+          }, {
+            "count" : 15,
+            "item" : "3"
+          }, {
+            "count" : 14,
+            "item" : "7"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170306954,
+        "name" : "Traffic Control",
+        "dataTypeName" : "number",
+        "fieldName" : "traffic_control",
+        "position" : 22,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19337645,
+        "width" : 280,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "15",
+          "sum" : "164",
+          "null" : 0,
+          "average" : "18.22222222222222",
+          "largest" : "22",
+          "top" : [ {
+            "count" : 20,
+            "item" : "21"
+          }, {
+            "count" : 19,
+            "item" : "18"
+          }, {
+            "count" : 18,
+            "item" : "15"
+          }, {
+            "count" : 17,
+            "item" : "16"
+          }, {
+            "count" : 16,
+            "item" : "22"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170306955,
+        "name" : "Transit Shed",
+        "dataTypeName" : "number",
+        "fieldName" : "transit_shed",
+        "position" : 23,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19337646,
+        "width" : 244,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "5",
+          "sum" : "244",
+          "null" : 0,
+          "average" : "27.11111111111111",
+          "largest" : "88",
+          "top" : [ {
+            "count" : 20,
+            "item" : "88"
+          }, {
+            "count" : 19,
+            "item" : "37"
+          }, {
+            "count" : 18,
+            "item" : "17"
+          }, {
+            "count" : 17,
+            "item" : "11"
+          }, {
+            "count" : 16,
+            "item" : "21"
+          }, {
+            "count" : 15,
+            "item" : "33"
+          }, {
+            "count" : 14,
+            "item" : "25"
+          }, {
+            "count" : 13,
+            "item" : "5"
+          }, {
+            "count" : 12,
+            "item" : "7"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170306956,
+        "name" : "Truck Inspections",
+        "dataTypeName" : "number",
+        "fieldName" : "truck_inspections",
+        "position" : 24,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19337647,
+        "width" : 304,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "116",
+          "sum" : "1930",
+          "null" : 0,
+          "average" : "214.4444444444444",
+          "largest" : "304",
+          "top" : [ {
+            "count" : 20,
+            "item" : "289"
+          }, {
+            "count" : 19,
+            "item" : "304"
+          }, {
+            "count" : 18,
+            "item" : "272"
+          }, {
+            "count" : 17,
+            "item" : "256"
+          }, {
+            "count" : 16,
+            "item" : "263"
+          }, {
+            "count" : 15,
+            "item" : "143"
+          }, {
+            "count" : 14,
+            "item" : "138"
+          }, {
+            "count" : 13,
+            "item" : "149"
+          }, {
+            "count" : 12,
+            "item" : "116"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170306957,
+        "name" : "Unattended Luggage (K9)",
+        "dataTypeName" : "number",
+        "fieldName" : "unattended_luggage_k9",
+        "position" : 25,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19337648,
+        "width" : 376,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "1",
+          "sum" : "584",
+          "null" : 0,
+          "average" : "64.88888888888889",
+          "largest" : "210",
+          "top" : [ {
+            "count" : 20,
+            "item" : "176"
+          }, {
+            "count" : 19,
+            "item" : "22"
+          }, {
+            "count" : 18,
+            "item" : "90"
+          }, {
+            "count" : 17,
+            "item" : "210"
+          }, {
+            "count" : 16,
+            "item" : "36"
+          }, {
+            "count" : 15,
+            "item" : "1"
+          }, {
+            "count" : 14,
+            "item" : "3"
+          }, {
+            "count" : 13,
+            "item" : "4"
+          }, {
+            "count" : 12,
+            "item" : "42"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170306958,
+        "name" : "Vehicle Sweeps (K9)",
+        "dataTypeName" : "number",
+        "fieldName" : "vehicle_sweeps_k9",
+        "position" : 26,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19337649,
+        "width" : 328,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "49",
+          "sum" : "1681",
+          "null" : 0,
+          "average" : "186.7777777777778",
+          "largest" : "527",
+          "top" : [ {
+            "count" : 20,
+            "item" : "527"
+          }, {
+            "count" : 19,
+            "item" : "129"
+          }, {
+            "count" : 18,
+            "item" : "270"
+          }, {
+            "count" : 17,
+            "item" : "61"
+          }, {
+            "count" : 16,
+            "item" : "49"
+          }, {
+            "count" : 15,
+            "item" : "67"
+          }, {
+            "count" : 14,
+            "item" : "169"
+          }, {
+            "count" : 13,
+            "item" : "155"
+          }, {
+            "count" : 12,
+            "item" : "254"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170306959,
+        "name" : "Vehicles Impounded",
+        "dataTypeName" : "number",
+        "fieldName" : "vehicles_impounded",
+        "position" : 27,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19337650,
+        "width" : 316,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "8",
+          "sum" : "132",
+          "null" : 0,
+          "average" : "14.66666666666667",
+          "largest" : "21",
+          "top" : [ {
+            "count" : 20,
+            "item" : "13"
+          }, {
+            "count" : 19,
+            "item" : "18"
+          }, {
+            "count" : 18,
+            "item" : "15"
+          }, {
+            "count" : 17,
+            "item" : "8"
+          }, {
+            "count" : 16,
+            "item" : "21"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170306960,
+        "name" : "Vehicles Recovered",
+        "dataTypeName" : "number",
+        "fieldName" : "vehicles_recovered",
+        "position" : 28,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19337651,
+        "width" : 316,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "0",
+          "sum" : "26",
+          "null" : 0,
+          "average" : "2.888888888888889",
+          "largest" : "6",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2"
+          }, {
+            "count" : 19,
+            "item" : "6"
+          }, {
+            "count" : 18,
+            "item" : "4"
+          }, {
+            "count" : 17,
+            "item" : "0"
+          }, {
+            "count" : 16,
+            "item" : "5"
+          }, {
+            "count" : 15,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170306961,
+        "name" : "Vehicles Stolen",
+        "dataTypeName" : "number",
+        "fieldName" : "vehicles_stolen",
+        "position" : 29,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19337652,
+        "width" : 280,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "0",
+          "sum" : "14",
+          "null" : 0,
+          "average" : "1.555555555555556",
+          "largest" : "5",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0"
+          }, {
+            "count" : 19,
+            "item" : "3"
+          }, {
+            "count" : 18,
+            "item" : "2"
+          }, {
+            "count" : 17,
+            "item" : "1"
+          }, {
+            "count" : 16,
+            "item" : "5"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170306962,
+        "name" : "Vessel Escorts",
+        "dataTypeName" : "number",
+        "fieldName" : "vessel_escorts",
+        "position" : 30,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19337653,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "0",
+          "sum" : "190",
+          "null" : 0,
+          "average" : "21.11111111111111",
+          "largest" : "48",
+          "top" : [ {
+            "count" : 20,
+            "item" : "48"
+          }, {
+            "count" : 19,
+            "item" : "25"
+          }, {
+            "count" : 18,
+            "item" : "36"
+          }, {
+            "count" : 17,
+            "item" : "33"
+          }, {
+            "count" : 16,
+            "item" : "20"
+          }, {
+            "count" : 15,
+            "item" : "0"
+          }, {
+            "count" : 14,
+            "item" : "1"
+          }, {
+            "count" : 13,
+            "item" : "15"
+          }, {
+            "count" : 12,
+            "item" : "12"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170306963,
+        "name" : "Vessel Safety Insp.",
+        "dataTypeName" : "number",
+        "fieldName" : "vessel_safety_insp",
+        "position" : 31,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19337654,
+        "width" : 328,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "9",
+          "sum" : "245",
+          "null" : 0,
+          "average" : "27.22222222222222",
+          "largest" : "44",
+          "top" : [ {
+            "count" : 20,
+            "item" : "28"
+          }, {
+            "count" : 19,
+            "item" : "26"
+          }, {
+            "count" : 18,
+            "item" : "44"
+          }, {
+            "count" : 17,
+            "item" : "32"
+          }, {
+            "count" : 16,
+            "item" : "41"
+          }, {
+            "count" : 15,
+            "item" : "19"
+          }, {
+            "count" : 14,
+            "item" : "14"
+          }, {
+            "count" : 13,
+            "item" : "9"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170306964,
+        "name" : "Vessels Impounded",
+        "dataTypeName" : "number",
+        "fieldName" : "vessels_impounded",
+        "position" : 32,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19337655,
+        "width" : 304,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "0",
+          "sum" : "10",
+          "null" : 0,
+          "average" : "1.111111111111111",
+          "largest" : "3",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0"
+          }, {
+            "count" : 19,
+            "item" : "3"
+          }, {
+            "count" : 18,
+            "item" : "1"
+          }, {
+            "count" : 17,
+            "item" : "2"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170306965,
+        "name" : "Vessels Stolen",
+        "dataTypeName" : "number",
+        "fieldName" : "vessels_stolen",
+        "position" : 33,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19337656,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "0",
+          "sum" : "2",
+          "null" : 0,
+          "average" : "0.2222222222222222",
+          "largest" : "1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0"
+          }, {
+            "count" : 19,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170306966,
+        "name" : "Warehouse Inspections",
+        "dataTypeName" : "number",
+        "fieldName" : "warehouse_inspections",
+        "position" : 34,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19337657,
+        "width" : 352,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "26",
+          "sum" : "463",
+          "null" : 0,
+          "average" : "51.44444444444444",
+          "largest" : "128",
+          "top" : [ {
+            "count" : 20,
+            "item" : "128"
+          }, {
+            "count" : 19,
+            "item" : "65"
+          }, {
+            "count" : 18,
+            "item" : "30"
+          }, {
+            "count" : 17,
+            "item" : "55"
+          }, {
+            "count" : 16,
+            "item" : "54"
+          }, {
+            "count" : 15,
+            "item" : "36"
+          }, {
+            "count" : 14,
+            "item" : "38"
+          }, {
+            "count" : 13,
+            "item" : "26"
+          }, {
+            "count" : 12,
+            "item" : "31"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170306967,
+        "name" : "Xtra Patrol Req (Area Ck)",
+        "dataTypeName" : "number",
+        "fieldName" : "xtra_patrol_req_area_ck",
+        "position" : 35,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19337658,
+        "width" : 400,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "186",
+          "sum" : "3649",
+          "null" : 0,
+          "average" : "405.4444444444444",
+          "largest" : "566",
+          "top" : [ {
+            "count" : 20,
+            "item" : "566"
+          }, {
+            "count" : 19,
+            "item" : "481"
+          }, {
+            "count" : 18,
+            "item" : "367"
+          }, {
+            "count" : 17,
+            "item" : "458"
+          }, {
+            "count" : 16,
+            "item" : "491"
+          }, {
+            "count" : 15,
+            "item" : "450"
+          }, {
+            "count" : 14,
+            "item" : "370"
+          }, {
+            "count" : 13,
+            "item" : "280"
+          }, {
+            "count" : 12,
+            "item" : "186"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Harbor"
+          }
+        },
+        "rdfSubject" : "0",
+        "rowIdentifier" : 170306934
+      },
+      "owner" : {
+        "id" : "2ib6-ssvz",
+        "displayName" : "Port of Los Angeles",
+        "profileImageUrlLarge" : "/images/profile/9654/0122/POLALogo2_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9654/0122/POLALogo2_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9654/0122/POLALogo2_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Port of Los Angeles",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "2ib6-ssvz",
+        "displayName" : "Port of Los Angeles",
+        "profileImageUrlLarge" : "/images/profile/9654/0122/POLALogo2_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9654/0122/POLALogo2_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9654/0122/POLALogo2_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Port of Los Angeles",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "public safety" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 26, "30897489-7F84-4534-B883-C14D8AD5B45C", 26, 1400192317, "870164", 1412805663, "883480", null, "14-Jan", "28", "89", "17", "473", "268", "326", "10", "174", "220", "56", "609", "130", "94", "302", "17", "233", "6", "19", "11", "21", "88", "289", "176", "527", "13", "2", "0", "48", "28", "0", "0", "128", "566" ]
+, [ 27, "A5DF6013-F88C-4E41-ABC3-21F3091ACBB6", 27, 1400192317, "870164", 1412805664, "883480", null, "14-Feb", "35", "89", "15", "402", "212", "263", "22", "115", "187", "52", "468", "73", "71", "329", "16", "287", "10", "12", "1", "18", "37", "304", "22", "129", "18", "6", "3", "25", "26", "3", "0", "65", "481" ]
+, [ 28, "7F6874C2-EFB7-428E-89DE-4A8940AD3708", 28, 1400192317, "870164", 1412805664, "883480", null, "14-Mar", "32", "50", "6", "458", "212", "244", "23", "93", "187", "49", "491", "74", "68", "296", "18", "256", "65", "9", "15", "15", "17", "272", "90", "270", "15", "4", "0", "36", "44", "0", "0", "30", "367" ]
+, [ 29, "4834733C-6B63-4CFA-9555-8A5214DE0484", 29, 1400192317, "870164", 1412805664, "883480", null, "14-Apr", "30", "536", "10", "428", "211", "251", "8", "100", "187", "48", "554", "67", "60", "272", "27", "174", "16", "10", "5", "15", "11", "256", "210", "61", "8", "0", "2", "33", "32", "1", "0", "55", "458" ]
+, [ 31, "D5661DD7-95EE-4CFB-B7F9-4F8DD38626D3", 31, 1402075143, "870164", 1412805664, "883480", null, "14-May", "23", "119", "0", "499", "237", "262", "15", "129", "222", "47", "582", "85", "90", "370", "21", "202", "34", "15", "14", "16", "21", "263", "36", "49", "13", "4", "1", "20", "41", "2", "0", "54", "491" ]
+, [ 32, "F56CBA60-2046-4716-AA09-BA6E1C49BDD3", 32, 1405009622, "883480", 1412805664, "883480", null, "14-Jun", "45", "1", "0", "471", "177", "217", "8", "117", "190", "54", "545", "31", "80", "244", "17", "162", "22", "13", "3", "18", "33", "143", "1", "67", "18", "2", "2", "0", "32", "0", "0", "36", "450" ]
+, [ 33, "6EB13C9A-6099-4627-A329-1C140E2B3C3F", 33, 1408025258, "870164", 1412805664, "883480", null, "14-Jul", "58", "0", "0", "544", "174", "263", "12", "169", "175", "40", "605", "51", "69", "323", "14", "241", "11", "13", "11", "21", "25", "138", "3", "169", "21", "2", "1", "1", "19", "2", "1", "38", "370" ]
+, [ 34, "F8EBBC35-FC2F-4491-A173-AB4C9CB55B50", 34, 1410238767, "870164", 1412805664, "883480", null, "14-Aug", "92", "1", "0", "560", "195", "247", "10", "145", "197", "30", "539", "49", "131", "378", "14", "184", "18", "8", "7", "18", "5", "149", "4", "155", "13", "5", "5", "15", "14", "1", "1", "26", "280" ]
+, [ 35, "76B475B5-03A9-4D1C-8A7A-3BCC14F36233", 35, 1412799972, "883480", 1412800007, "883480", null, "14-Sep", "68", "0", "12", "485", "177", "194", "10", "165", "184", "37", "516", "62", "125", "253", "12", "154", "8", "11", "1", "22", "7", "116", "42", "254", "13", "1", "0", "12", "9", "1", "0", "31", "186" ]
+ ]
+}

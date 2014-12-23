@@ -1,0 +1,333 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "2t3h-my34",
+      "name" : "Port of Los Angeles - Emission from Port Operations",
+      "attribution" : "Port of Los Angeles",
+      "averageRating" : 0,
+      "createdAt" : 1395679325,
+      "description" : "Port of Los Angeles - Emission from Port Operations",
+      "displayType" : "table",
+      "downloadCount" : 8,
+      "indexUpdatedAt" : 1414613782,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8098829,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401387334,
+      "publicationGroup" : 1521725,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1401387324,
+      "rowsUpdatedBy" : "tgn6-4379",
+      "tableId" : 1598919,
+      "totalTimesRated" : 0,
+      "viewCount" : 24,
+      "viewLastModified" : 1401387334,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150446059,
+        "name" : "EI Year",
+        "dataTypeName" : "number",
+        "fieldName" : "ei_year",
+        "position" : 2,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18806232,
+        "width" : 184,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "2005",
+          "sum" : "16068",
+          "null" : 0,
+          "average" : "2008.5",
+          "largest" : "2012",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2005"
+          }, {
+            "count" : 19,
+            "item" : "2006"
+          }, {
+            "count" : 18,
+            "item" : "2007"
+          }, {
+            "count" : 17,
+            "item" : "2008"
+          }, {
+            "count" : 16,
+            "item" : "2009"
+          }, {
+            "count" : 15,
+            "item" : "2010"
+          }, {
+            "count" : 14,
+            "item" : "2011"
+          }, {
+            "count" : 13,
+            "item" : "2012"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "true",
+          "align" : "right"
+        }
+      }, {
+        "id" : 150446060,
+        "name" : "DPM (tpy)",
+        "dataTypeName" : "number",
+        "fieldName" : "dpm_tpy",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18806233,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "185",
+          "sum" : "4328",
+          "null" : 0,
+          "average" : "541",
+          "largest" : "947",
+          "top" : [ {
+            "count" : 20,
+            "item" : "891"
+          }, {
+            "count" : 19,
+            "item" : "947"
+          }, {
+            "count" : 18,
+            "item" : "627"
+          }, {
+            "count" : 17,
+            "item" : "694"
+          }, {
+            "count" : 16,
+            "item" : "448"
+          }, {
+            "count" : 15,
+            "item" : "277"
+          }, {
+            "count" : 14,
+            "item" : "259"
+          }, {
+            "count" : 13,
+            "item" : "185"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150446061,
+        "name" : "NOX (tpy)",
+        "dataTypeName" : "number",
+        "fieldName" : "nox_tpy",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18806234,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "7177",
+          "sum" : "100270",
+          "null" : 0,
+          "average" : "12533.75",
+          "largest" : "18491",
+          "top" : [ {
+            "count" : 20,
+            "item" : "16331"
+          }, {
+            "count" : 19,
+            "item" : "18491"
+          }, {
+            "count" : 18,
+            "item" : "16372"
+          }, {
+            "count" : 17,
+            "item" : "15022"
+          }, {
+            "count" : 16,
+            "item" : "10832"
+          }, {
+            "count" : 15,
+            "item" : "8138"
+          }, {
+            "count" : 14,
+            "item" : "7907"
+          }, {
+            "count" : 13,
+            "item" : "7177"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150446062,
+        "name" : "SOX (tpy)",
+        "dataTypeName" : "number",
+        "fieldName" : "sox_tpy",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18806235,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "631",
+          "sum" : "23871",
+          "null" : 0,
+          "average" : "2983.875",
+          "largest" : "5708",
+          "top" : [ {
+            "count" : 20,
+            "item" : "5306"
+          }, {
+            "count" : 19,
+            "item" : "5708"
+          }, {
+            "count" : 18,
+            "item" : "3386"
+          }, {
+            "count" : 17,
+            "item" : "3798"
+          }, {
+            "count" : 16,
+            "item" : "2435"
+          }, {
+            "count" : 15,
+            "item" : "1320"
+          }, {
+            "count" : 14,
+            "item" : "1287"
+          }, {
+            "count" : 13,
+            "item" : "631"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Harbor"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0"
+      },
+      "owner" : {
+        "id" : "2ib6-ssvz",
+        "displayName" : "Port of Los Angeles",
+        "profileImageUrlLarge" : "/images/profile/9654/0122/POLALogo2_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9654/0122/POLALogo2_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9654/0122/POLALogo2_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Port of Los Angeles",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "2ib6-ssvz",
+        "displayName" : "Port of Los Angeles",
+        "profileImageUrlLarge" : "/images/profile/9654/0122/POLALogo2_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9654/0122/POLALogo2_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9654/0122/POLALogo2_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Port of Los Angeles",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 11, "203A510B-F0C4-44B3-9712-E1BC88096B7C", 11, 1395698127, "870164", 1395698127, "870164", null, "2005", "891", "16331", "5306" ]
+, [ 12, "FC1334B7-7D6C-4610-8423-E7B1B0C24BAA", 12, 1395698127, "870164", 1395698127, "870164", null, "2006", "947", "18491", "5708" ]
+, [ 13, "F0367A95-8B49-426D-A593-923430F02575", 13, 1395698127, "870164", 1395698127, "870164", null, "2007", "627", "16372", "3386" ]
+, [ 14, "1882C1F8-016A-4B93-BDA9-9025AF6127FE", 14, 1395698127, "870164", 1395698127, "870164", null, "2008", "694", "15022", "3798" ]
+, [ 15, "63A1AB91-7721-43A1-A5E2-70E04EE598D0", 15, 1395698127, "870164", 1395698127, "870164", null, "2009", "448", "10832", "2435" ]
+, [ 16, "744D291D-C19B-4CA8-AD04-DCA1362B5B9C", 16, 1395698127, "870164", 1395698127, "870164", null, "2010", "277", "8138", "1320" ]
+, [ 17, "DB1B27D7-28B5-456D-BC34-82ACAC0F61E0", 17, 1395698127, "870164", 1395698127, "870164", null, "2011", "259", "7907", "1287" ]
+, [ 18, "94A7BF54-D831-4B89-AC51-925749450E47", 18, 1395698127, "870164", 1395698127, "870164", null, "2012", "185", "7177", "631" ]
+ ]
+}

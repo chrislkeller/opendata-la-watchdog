@@ -1,0 +1,193 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "skve-7mzv",
+      "name" : "Avg Monthly Service Pension",
+      "averageRating" : 0,
+      "category" : "A Well Run City",
+      "createdAt" : 1400884570,
+      "description" : "Avg Monthly Service Pension",
+      "displayType" : "table",
+      "downloadCount" : 11,
+      "indexUpdatedAt" : 1414613103,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8060147,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1400884620,
+      "publicationGroup" : 1593159,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1400884575,
+      "rowsUpdatedBy" : "sgjw-6a7f",
+      "tableId" : 1593159,
+      "totalTimesRated" : 0,
+      "viewCount" : 40,
+      "viewLastModified" : 1404149113,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 149728089,
+        "name" : "Month",
+        "dataTypeName" : "text",
+        "fieldName" : "month",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19909717,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "4/30/2014",
+          "null" : 0,
+          "largest" : "4/30/2014",
+          "top" : [ {
+            "count" : 20,
+            "item" : "4/30/2014"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149728090,
+        "name" : "Avg Monthly Service Pension",
+        "dataTypeName" : "text",
+        "fieldName" : "avg_monthly_service_pension",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19909718,
+        "width" : 424,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "$5,708.40",
+          "null" : 0,
+          "largest" : "$5,708.40",
+          "top" : [ {
+            "count" : 20,
+            "item" : "$5,708.40"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Fire and Police Pensions"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "sgjw-6a7f",
+        "displayName" : "Fire & Police Pensions OpenData",
+        "profileImageUrlLarge" : "/images/profile/6087/9135/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/6087/9135/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/6087/9135/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Fire & Police Pensions OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "sgjw-6a7f",
+        "displayName" : "Fire & Police Pensions OpenData",
+        "profileImageUrlLarge" : "/images/profile/6087/9135/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/6087/9135/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/6087/9135/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Fire & Police Pensions OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "service pension" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "4C0BAF53-1617-44E0-B898-7001B9B9511F", 1, 1400884572, "883864", 1400884572, "883864", "{\n}", "4/30/2014", "$5,708.40" ]
+ ]
+}

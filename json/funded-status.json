@@ -1,0 +1,216 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "e2fp-yzdz",
+      "name" : "Funded Status",
+      "averageRating" : 0,
+      "category" : "A Well Run City",
+      "createdAt" : 1400885067,
+      "description" : "Funded Status",
+      "displayType" : "table",
+      "downloadCount" : 1,
+      "indexUpdatedAt" : 1414615346,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8060158,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1400885100,
+      "publicationGroup" : 1593167,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1400885072,
+      "rowsUpdatedBy" : "sgjw-6a7f",
+      "tableId" : 1593167,
+      "totalTimesRated" : 0,
+      "viewCount" : 30,
+      "viewLastModified" : 1404149078,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 149728135,
+        "name" : "Fiscal Year Ending",
+        "dataTypeName" : "text",
+        "fieldName" : "fiscal_year_ending",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19909742,
+        "width" : 316,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "2010",
+          "null" : 0,
+          "largest" : "2013",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2010"
+          }, {
+            "count" : 19,
+            "item" : "2011"
+          }, {
+            "count" : 18,
+            "item" : "2012"
+          }, {
+            "count" : 17,
+            "item" : "2013"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149728136,
+        "name" : "Funded Status (Pension)",
+        "dataTypeName" : "percent",
+        "fieldName" : "funded_status_pension",
+        "position" : 3,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 19909743,
+        "width" : 376,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "83.10",
+          "sum" : "344.70",
+          "null" : 0,
+          "average" : "86.175",
+          "largest" : "91.60",
+          "top" : [ {
+            "count" : 20,
+            "item" : "91.60"
+          }, {
+            "count" : 19,
+            "item" : "86.30"
+          }, {
+            "count" : 18,
+            "item" : "83.70"
+          }, {
+            "count" : 17,
+            "item" : "83.10"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Fire and Police Pensions"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "sgjw-6a7f",
+        "displayName" : "Fire & Police Pensions OpenData",
+        "profileImageUrlLarge" : "/images/profile/6087/9135/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/6087/9135/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/6087/9135/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Fire & Police Pensions OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "sgjw-6a7f",
+        "displayName" : "Fire & Police Pensions OpenData",
+        "profileImageUrlLarge" : "/images/profile/6087/9135/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/6087/9135/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/6087/9135/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Fire & Police Pensions OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "funded status" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "45D8AD05-5A7C-4EF6-82AA-AE7CB090DB12", 1, 1400885069, "883864", 1400885069, "883864", "{\n}", "2010", "91.60" ]
+, [ 2, "EEEBDFBB-6B34-4ABA-8551-4245DFA06CC6", 2, 1400885069, "883864", 1400885069, "883864", "{\n}", "2011", "86.30" ]
+, [ 3, "A47FADCA-8C94-4E55-A151-0E5C57C64A1A", 3, 1400885069, "883864", 1400885069, "883864", "{\n}", "2012", "83.70" ]
+, [ 4, "2B9E84B8-A364-4A6B-AD9D-CD6CEA2DD9B2", 4, 1400885069, "883864", 1400885069, "883864", "{\n}", "2013", "83.10" ]
+ ]
+}

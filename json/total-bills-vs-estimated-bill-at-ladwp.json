@@ -1,0 +1,406 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "svt7-r3ww",
+      "name" : "Total Bills Vs Estimated Bill at LADWP",
+      "attribution" : "LADWP",
+      "averageRating" : 0,
+      "category" : "A Well Run City",
+      "createdAt" : 1400887919,
+      "description" : "Number of bills LADWP estimates versus total bills issued",
+      "displayType" : "table",
+      "downloadCount" : 2,
+      "indexUpdatedAt" : 1414614308,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8060288,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1400888197,
+      "publicationGroup" : 1593209,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1400888194,
+      "rowsUpdatedBy" : "7q7s-tyf3",
+      "tableId" : 1593209,
+      "totalTimesRated" : 0,
+      "viewCount" : 52,
+      "viewLastModified" : 1401231210,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 149729501,
+        "name" : "Month",
+        "dataTypeName" : "text",
+        "fieldName" : "month",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19910085,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 3,
+          "smallest" : "Estimated Bill Percentage",
+          "null" : 0,
+          "largest" : "Total Bills (including Est. Bills)",
+          "top" : [ {
+            "count" : 20,
+            "item" : "No. of Estimated Bills"
+          }, {
+            "count" : 19,
+            "item" : "Total Bills (including Est. Bills)"
+          }, {
+            "count" : 18,
+            "item" : "Estimated Bill Percentage"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149729502,
+        "name" : "Sep-13",
+        "dataTypeName" : "number",
+        "fieldName" : "sep_13",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19910086,
+        "width" : 172,
+        "cachedContents" : {
+          "non_null" : 3,
+          "smallest" : "0.153",
+          "sum" : "1033673.153",
+          "null" : 0,
+          "average" : "344557.7176666667",
+          "largest" : "896157",
+          "top" : [ {
+            "count" : 20,
+            "item" : "137516"
+          }, {
+            "count" : 19,
+            "item" : "896157"
+          }, {
+            "count" : 18,
+            "item" : "0.153"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149729503,
+        "name" : "Oct-13",
+        "dataTypeName" : "number",
+        "fieldName" : "oct_13",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19910087,
+        "width" : 172,
+        "cachedContents" : {
+          "non_null" : 3,
+          "smallest" : "0.194",
+          "sum" : "1158167.194",
+          "null" : 0,
+          "average" : "386055.7313333333",
+          "largest" : "969680",
+          "top" : [ {
+            "count" : 20,
+            "item" : "188487"
+          }, {
+            "count" : 19,
+            "item" : "969680"
+          }, {
+            "count" : 18,
+            "item" : "0.194"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149729504,
+        "name" : "Nov-13",
+        "dataTypeName" : "number",
+        "fieldName" : "nov_13",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19910088,
+        "width" : 172,
+        "cachedContents" : {
+          "non_null" : 3,
+          "smallest" : "0.213",
+          "sum" : "910374.213",
+          "null" : 0,
+          "average" : "303458.071",
+          "largest" : "750037",
+          "top" : [ {
+            "count" : 20,
+            "item" : "160337"
+          }, {
+            "count" : 19,
+            "item" : "750037"
+          }, {
+            "count" : 18,
+            "item" : "0.213"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149729505,
+        "name" : "Dec-13",
+        "dataTypeName" : "number",
+        "fieldName" : "dec_13",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19910089,
+        "width" : 172,
+        "cachedContents" : {
+          "non_null" : 3,
+          "smallest" : "0.257",
+          "sum" : "1079946.257",
+          "null" : 0,
+          "average" : "359982.0856666667",
+          "largest" : "858932",
+          "top" : [ {
+            "count" : 20,
+            "item" : "221014"
+          }, {
+            "count" : 19,
+            "item" : "858932"
+          }, {
+            "count" : 18,
+            "item" : "0.257"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149729506,
+        "name" : "Jan-14",
+        "dataTypeName" : "number",
+        "fieldName" : "jan_14",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19910090,
+        "width" : 172,
+        "cachedContents" : {
+          "non_null" : 3,
+          "smallest" : "0.201",
+          "sum" : "1098426.201",
+          "null" : 0,
+          "average" : "366142.067",
+          "largest" : "914146",
+          "top" : [ {
+            "count" : 20,
+            "item" : "184280"
+          }, {
+            "count" : 19,
+            "item" : "914146"
+          }, {
+            "count" : 18,
+            "item" : "0.201"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149729507,
+        "name" : "Feb-14",
+        "dataTypeName" : "number",
+        "fieldName" : "feb_14",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19910091,
+        "width" : 172,
+        "cachedContents" : {
+          "non_null" : 3,
+          "smallest" : "0.153",
+          "sum" : "946631.153",
+          "null" : 0,
+          "average" : "315543.7176666667",
+          "largest" : "820897",
+          "top" : [ {
+            "count" : 20,
+            "item" : "125734"
+          }, {
+            "count" : 19,
+            "item" : "820897"
+          }, {
+            "count" : 18,
+            "item" : "0.153"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149729508,
+        "name" : "Mar-14",
+        "dataTypeName" : "number",
+        "fieldName" : "mar_14",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19910092,
+        "width" : 172,
+        "cachedContents" : {
+          "non_null" : 3,
+          "smallest" : "0.097",
+          "sum" : "939810.097",
+          "null" : 0,
+          "average" : "313270.0323333333",
+          "largest" : "856093",
+          "top" : [ {
+            "count" : 20,
+            "item" : "83717"
+          }, {
+            "count" : 19,
+            "item" : "856093"
+          }, {
+            "count" : 18,
+            "item" : "0.097"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149729509,
+        "name" : "Apr-14",
+        "dataTypeName" : "number",
+        "fieldName" : "apr_14",
+        "position" : 10,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19910093,
+        "width" : 172,
+        "cachedContents" : {
+          "non_null" : 3,
+          "smallest" : "0.069",
+          "sum" : "1002383.069",
+          "null" : 0,
+          "average" : "334127.6896666667",
+          "largest" : "936881",
+          "top" : [ {
+            "count" : 20,
+            "item" : "65502"
+          }, {
+            "count" : 19,
+            "item" : "936881"
+          }, {
+            "count" : 18,
+            "item" : "0.069"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "LADWP"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "hb8e-gdsp",
+        "displayName" : "LA DWP OpenData",
+        "profileImageUrlLarge" : "/images/profile/5225/6660/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5225/6660/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5225/6660/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LA DWP OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "7q7s-tyf3",
+        "displayName" : "Steve Baule",
+        "roleName" : "editor",
+        "screenName" : "Steve Baule",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "customer bills" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "1A66599A-E49B-4C9D-8E95-7DE2D811FAAF", 1, 1400887922, "877550", 1400887922, "877550", "{\n}", "No. of Estimated Bills", "137516", "188487", "160337", "221014", "184280", "125734", "83717", "65502" ]
+, [ 2, "04E89FC8-8BEA-4D1A-8D81-DB18761521AD", 2, 1400887922, "877550", 1400887922, "877550", "{\n}", "Total Bills (including Est. Bills)", "896157", "969680", "750037", "858932", "914146", "820897", "856093", "936881" ]
+, [ 3, "E1ED83D6-59D3-421E-B0FD-D6ABB469F43A", 3, 1400887922, "877550", 1400888194, "877550", null, "Estimated Bill Percentage", "0.153", "0.194", "0.213", "0.257", "0.201", "0.153", "0.097", "0.069" ]
+ ]
+}

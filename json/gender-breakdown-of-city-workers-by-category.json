@@ -1,0 +1,765 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "fvfi-5kja",
+      "name" : "Gender Breakdown of City Workers by Category",
+      "attribution" : "Controller",
+      "attributionLink" : "http://controller.lacity.org",
+      "averageRating" : 0,
+      "category" : "Statistics",
+      "createdAt" : 1394160146,
+      "description" : "Analysis of 2013 full-time employee earnings by gender across the major employee categories in the City of Los Angeles.",
+      "displayType" : "table",
+      "downloadCount" : 42,
+      "indexUpdatedAt" : 1414612949,
+      "licenseId" : "PUBLIC_DOMAIN",
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 7637006,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1395943714,
+      "publicationGroup" : 1500604,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1395943574,
+      "rowsUpdatedBy" : "mnkj-bu52",
+      "tableId" : 1525709,
+      "totalTimesRated" : 0,
+      "viewCount" : 462,
+      "viewLastModified" : 1412745266,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 140075617,
+        "name" : "Year",
+        "dataTypeName" : "number",
+        "fieldName" : "year",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18476765,
+        "width" : 50,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "2013",
+          "sum" : "16104",
+          "null" : 0,
+          "average" : "2013",
+          "largest" : "2013",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2013"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "true"
+        }
+      }, {
+        "id" : 140075618,
+        "name" : "Category",
+        "dataTypeName" : "text",
+        "fieldName" : "category",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18476766,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "Administrative Support",
+          "null" : 0,
+          "largest" : "Technicians",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Paraprofessionals"
+          }, {
+            "count" : 19,
+            "item" : "Protective Services"
+          }, {
+            "count" : 18,
+            "item" : "Officials/Administrators"
+          }, {
+            "count" : 17,
+            "item" : "Skilled Craft"
+          }, {
+            "count" : 16,
+            "item" : "Administrative Support"
+          }, {
+            "count" : 15,
+            "item" : "Service/Maintenance"
+          }, {
+            "count" : 14,
+            "item" : "Professionals"
+          }, {
+            "count" : 13,
+            "item" : "Technicians"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 140075619,
+        "name" : "Employee Count",
+        "dataTypeName" : "number",
+        "fieldName" : "employee_count",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18476767,
+        "width" : 63,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "70",
+          "sum" : "34949",
+          "null" : 0,
+          "average" : "4368.625",
+          "largest" : "10927",
+          "top" : [ {
+            "count" : 20,
+            "item" : "70"
+          }, {
+            "count" : 19,
+            "item" : "10927"
+          }, {
+            "count" : 18,
+            "item" : "635"
+          }, {
+            "count" : 17,
+            "item" : "3757"
+          }, {
+            "count" : 16,
+            "item" : "4214"
+          }, {
+            "count" : 15,
+            "item" : "3541"
+          }, {
+            "count" : 14,
+            "item" : "7596"
+          }, {
+            "count" : 13,
+            "item" : "4209"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 140075620,
+        "name" : "Total Payroll",
+        "dataTypeName" : "money",
+        "fieldName" : "total_payroll",
+        "position" : 4,
+        "renderTypeName" : "money",
+        "tableColumnId" : 18476768,
+        "width" : 116,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "4815864.09",
+          "sum" : "3233241115.61",
+          "null" : 0,
+          "average" : "404155139.45125",
+          "largest" : "1056851343.36",
+          "top" : [ {
+            "count" : 20,
+            "item" : "4815864.09"
+          }, {
+            "count" : 19,
+            "item" : "1056851343.36"
+          }, {
+            "count" : 18,
+            "item" : "103278751.48"
+          }, {
+            "count" : 17,
+            "item" : "337775839.21"
+          }, {
+            "count" : 16,
+            "item" : "260799472.67"
+          }, {
+            "count" : 15,
+            "item" : "208461921.25"
+          }, {
+            "count" : 14,
+            "item" : "792438994.95"
+          }, {
+            "count" : 13,
+            "item" : "468818928.60"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 140075621,
+        "name" : "# Female",
+        "dataTypeName" : "number",
+        "fieldName" : "female_1",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18476769,
+        "width" : 76,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "24",
+          "sum" : "10579",
+          "null" : 0,
+          "average" : "1322.375",
+          "largest" : "3480",
+          "top" : [ {
+            "count" : 20,
+            "item" : "24"
+          }, {
+            "count" : 19,
+            "item" : "1821"
+          }, {
+            "count" : 18,
+            "item" : "219"
+          }, {
+            "count" : 17,
+            "item" : "98"
+          }, {
+            "count" : 16,
+            "item" : "3480"
+          }, {
+            "count" : 15,
+            "item" : "753"
+          }, {
+            "count" : 14,
+            "item" : "3279"
+          }, {
+            "count" : 13,
+            "item" : "905"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 140075622,
+        "name" : "# Male",
+        "dataTypeName" : "number",
+        "fieldName" : "male_1",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18476770,
+        "width" : 75,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "46",
+          "sum" : "24370",
+          "null" : 0,
+          "average" : "3046.25",
+          "largest" : "9106",
+          "top" : [ {
+            "count" : 20,
+            "item" : "46"
+          }, {
+            "count" : 19,
+            "item" : "9106"
+          }, {
+            "count" : 18,
+            "item" : "416"
+          }, {
+            "count" : 17,
+            "item" : "3659"
+          }, {
+            "count" : 16,
+            "item" : "734"
+          }, {
+            "count" : 15,
+            "item" : "2788"
+          }, {
+            "count" : 14,
+            "item" : "4317"
+          }, {
+            "count" : 13,
+            "item" : "3304"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 140075623,
+        "name" : "% Female",
+        "dataTypeName" : "percent",
+        "fieldName" : "female_2",
+        "position" : 7,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 18476771,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "2.61",
+          "sum" : "256.58",
+          "null" : 0,
+          "average" : "32.0725",
+          "largest" : "82.58",
+          "top" : [ {
+            "count" : 20,
+            "item" : "34.29"
+          }, {
+            "count" : 19,
+            "item" : "16.67"
+          }, {
+            "count" : 18,
+            "item" : "34.49"
+          }, {
+            "count" : 17,
+            "item" : "2.61"
+          }, {
+            "count" : 16,
+            "item" : "82.58"
+          }, {
+            "count" : 15,
+            "item" : "21.27"
+          }, {
+            "count" : 14,
+            "item" : "43.17"
+          }, {
+            "count" : 13,
+            "item" : "21.50"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 140075624,
+        "name" : "% Male",
+        "dataTypeName" : "percent",
+        "fieldName" : "male_2",
+        "position" : 8,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 18476772,
+        "width" : 172,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "17.42",
+          "sum" : "543.42",
+          "null" : 0,
+          "average" : "67.9275",
+          "largest" : "97.39",
+          "top" : [ {
+            "count" : 20,
+            "item" : "65.71"
+          }, {
+            "count" : 19,
+            "item" : "83.33"
+          }, {
+            "count" : 18,
+            "item" : "65.51"
+          }, {
+            "count" : 17,
+            "item" : "97.39"
+          }, {
+            "count" : 16,
+            "item" : "17.42"
+          }, {
+            "count" : 15,
+            "item" : "78.73"
+          }, {
+            "count" : 14,
+            "item" : "56.83"
+          }, {
+            "count" : 13,
+            "item" : "78.50"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 140075625,
+        "name" : "Female Total Salary",
+        "dataTypeName" : "money",
+        "fieldName" : "female_total_salary",
+        "position" : 9,
+        "renderTypeName" : "money",
+        "tableColumnId" : 18476773,
+        "width" : 110,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "1504881.38",
+          "sum" : "842003375.22",
+          "null" : 0,
+          "average" : "105250421.9025",
+          "largest" : "300102473.04",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1504881.38"
+          }, {
+            "count" : 19,
+            "item" : "152211773.47"
+          }, {
+            "count" : 18,
+            "item" : "34106518.19"
+          }, {
+            "count" : 17,
+            "item" : "8432683.64"
+          }, {
+            "count" : 16,
+            "item" : "216404766.47"
+          }, {
+            "count" : 15,
+            "item" : "38623732.92"
+          }, {
+            "count" : 14,
+            "item" : "300102473.04"
+          }, {
+            "count" : 13,
+            "item" : "90616546.11"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 140075626,
+        "name" : "Male Total Salary",
+        "dataTypeName" : "money",
+        "fieldName" : "male_total_salary",
+        "position" : 10,
+        "renderTypeName" : "money",
+        "tableColumnId" : 18476774,
+        "width" : 117,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "3310982.71",
+          "sum" : "2391237740.39",
+          "null" : 0,
+          "average" : "298904717.54875",
+          "largest" : "904639569.89",
+          "top" : [ {
+            "count" : 20,
+            "item" : "3310982.71"
+          }, {
+            "count" : 19,
+            "item" : "904639569.89"
+          }, {
+            "count" : 18,
+            "item" : "69172233.29"
+          }, {
+            "count" : 17,
+            "item" : "329343155.57"
+          }, {
+            "count" : 16,
+            "item" : "44394706.20"
+          }, {
+            "count" : 15,
+            "item" : "169838188.33"
+          }, {
+            "count" : 14,
+            "item" : "492336521.91"
+          }, {
+            "count" : 13,
+            "item" : "378202382.49"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 140075627,
+        "name" : "Female Average Salary",
+        "dataTypeName" : "money",
+        "fieldName" : "female_average_salary",
+        "position" : 11,
+        "renderTypeName" : "money",
+        "tableColumnId" : 18476775,
+        "width" : 106,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "51293.14",
+          "sum" : "693205.39",
+          "null" : 0,
+          "average" : "86650.67375",
+          "largest" : "155737.53",
+          "top" : [ {
+            "count" : 20,
+            "item" : "62703.39"
+          }, {
+            "count" : 19,
+            "item" : "83586.92"
+          }, {
+            "count" : 18,
+            "item" : "155737.53"
+          }, {
+            "count" : 17,
+            "item" : "86047.79"
+          }, {
+            "count" : 16,
+            "item" : "62185.28"
+          }, {
+            "count" : 15,
+            "item" : "51293.14"
+          }, {
+            "count" : 14,
+            "item" : "91522.56"
+          }, {
+            "count" : 13,
+            "item" : "100128.78"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 140075628,
+        "name" : "Male Average Salary",
+        "dataTypeName" : "money",
+        "fieldName" : "male_average_salary",
+        "position" : 12,
+        "renderTypeName" : "money",
+        "tableColumnId" : 18476776,
+        "width" : 113,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "60483.25",
+          "sum" : "777526.64",
+          "null" : 0,
+          "average" : "97190.83",
+          "largest" : "166279.41",
+          "top" : [ {
+            "count" : 20,
+            "item" : "71977.89"
+          }, {
+            "count" : 19,
+            "item" : "99345.44"
+          }, {
+            "count" : 18,
+            "item" : "166279.41"
+          }, {
+            "count" : 17,
+            "item" : "90009.06"
+          }, {
+            "count" : 16,
+            "item" : "60483.25"
+          }, {
+            "count" : 15,
+            "item" : "60917.57"
+          }, {
+            "count" : 14,
+            "item" : "114045.99"
+          }, {
+            "count" : 13,
+            "item" : "114468.03"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 140075629,
+        "name" : "% Payroll to Women",
+        "dataTypeName" : "percent",
+        "fieldName" : "payroll_to_women",
+        "position" : 13,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 18476777,
+        "width" : 179,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "2.50",
+          "sum" : "239.88",
+          "null" : 0,
+          "average" : "29.985",
+          "largest" : "82.98",
+          "top" : [ {
+            "count" : 20,
+            "item" : "31.25"
+          }, {
+            "count" : 19,
+            "item" : "14.40"
+          }, {
+            "count" : 18,
+            "item" : "33.02"
+          }, {
+            "count" : 17,
+            "item" : "2.50"
+          }, {
+            "count" : 16,
+            "item" : "82.98"
+          }, {
+            "count" : 15,
+            "item" : "18.53"
+          }, {
+            "count" : 14,
+            "item" : "37.87"
+          }, {
+            "count" : 13,
+            "item" : "19.33"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 140075630,
+        "name" : "% Payroll to Men",
+        "dataTypeName" : "percent",
+        "fieldName" : "payroll_to_men",
+        "position" : 14,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 18476778,
+        "width" : 154,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "17.02",
+          "sum" : "560.12",
+          "null" : 0,
+          "average" : "70.015",
+          "largest" : "97.50",
+          "top" : [ {
+            "count" : 20,
+            "item" : "68.75"
+          }, {
+            "count" : 19,
+            "item" : "85.60"
+          }, {
+            "count" : 18,
+            "item" : "66.98"
+          }, {
+            "count" : 17,
+            "item" : "97.50"
+          }, {
+            "count" : 16,
+            "item" : "17.02"
+          }, {
+            "count" : 15,
+            "item" : "81.47"
+          }, {
+            "count" : 14,
+            "item" : "62.13"
+          }, {
+            "count" : 13,
+            "item" : "80.67"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Public Domain"
+      },
+      "metadata" : {
+        "custom_fields" : {
+          "Department" : {
+            "Division" : "Payroll",
+            "Department" : "Controller",
+            "System" : "PaySR"
+          },
+          "Update Information" : {
+            "Update Cycle" : "Annual"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "mnkj-bu52",
+        "displayName" : "Controller's Office",
+        "profileImageUrlLarge" : "/images/profile/8081/8832/CONTROLLER_CITY_SEAL_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/8081/8832/CONTROLLER_CITY_SEAL_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/8081/8832/CONTROLLER_CITY_SEAL_tiny.jpg",
+        "roleName" : "administrator",
+        "screenName" : "Controller's Office",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "mnkj-bu52",
+        "displayName" : "Controller's Office",
+        "profileImageUrlLarge" : "/images/profile/8081/8832/CONTROLLER_CITY_SEAL_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/8081/8832/CONTROLLER_CITY_SEAL_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/8081/8832/CONTROLLER_CITY_SEAL_tiny.jpg",
+        "roleName" : "administrator",
+        "screenName" : "Controller's Office",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "tags" : [ "city profile", "demographic", "employees", "gender", "women", "equality", "wage gap" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "B15921DE-EEBF-4D15-8A22-5B10570E3332", 1, 1394160151, "849676", 1394160151, "849676", "{\n}", "2013", "Paraprofessionals", "70", "4815864.09", "24", "46", "34.29", "65.71", "1504881.38", "3310982.71", "62703.39", "71977.89", "31.25", "68.75" ]
+, [ 2, "A633ADC5-6821-42DA-9C78-91D1BFBDAAD6", 2, 1394160151, "849676", 1394160151, "849676", "{\n}", "2013", "Protective Services", "10927", "1056851343.36", "1821", "9106", "16.67", "83.33", "152211773.47", "904639569.89", "83586.92", "99345.44", "14.40", "85.60" ]
+, [ 3, "48D4D59F-ECAB-44AA-92AC-E4DEE123062D", 3, 1394160151, "849676", 1394160151, "849676", "{\n}", "2013", "Officials/Administrators", "635", "103278751.48", "219", "416", "34.49", "65.51", "34106518.19", "69172233.29", "155737.53", "166279.41", "33.02", "66.98" ]
+, [ 4, "BB541862-6BDF-436C-8D28-E9D73845CC43", 4, 1394160151, "849676", 1394160151, "849676", "{\n}", "2013", "Skilled Craft", "3757", "337775839.21", "98", "3659", "2.61", "97.39", "8432683.64", "329343155.57", "86047.79", "90009.06", "2.50", "97.50" ]
+, [ 5, "6C77F122-5B9F-404E-B4C8-9DB8E14EDC4F", 5, 1394160151, "849676", 1394160151, "849676", "{\n}", "2013", "Administrative Support", "4214", "260799472.67", "3480", "734", "82.58", "17.42", "216404766.47", "44394706.20", "62185.28", "60483.25", "82.98", "17.02" ]
+, [ 6, "22EA1B4D-0A87-4C61-8D3A-4F16E1B33AAA", 6, 1394160151, "849676", 1394160151, "849676", "{\n}", "2013", "Service/Maintenance", "3541", "208461921.25", "753", "2788", "21.27", "78.73", "38623732.92", "169838188.33", "51293.14", "60917.57", "18.53", "81.47" ]
+, [ 7, "89669697-0C94-4C72-9E66-CC2C0DE6F15F", 7, 1394160151, "849676", 1394160151, "849676", "{\n}", "2013", "Professionals", "7596", "792438994.95", "3279", "4317", "43.17", "56.83", "300102473.04", "492336521.91", "91522.56", "114045.99", "37.87", "62.13" ]
+, [ 8, "CAE9B4AD-5CBB-4979-9ED6-7E9A89F51285", 8, 1394160151, "849676", 1394160151, "849676", "{\n}", "2013", "Technicians", "4209", "468818928.60", "905", "3304", "21.50", "78.50", "90616546.11", "378202382.49", "100128.78", "114468.03", "19.33", "80.67" ]
+ ]
+}

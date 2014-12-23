@@ -1,0 +1,289 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "mnrz-a5vv",
+      "name" : "Comparison of Residential Power and Water Rates",
+      "averageRating" : 0,
+      "category" : "A Well Run City",
+      "createdAt" : 1400117169,
+      "description" : "Comparison of LADWP Residential Power and Water Rates. Bills compare a typical monthly bill (500kWh/month of power and 12 HCF of water). Data is from Summer of 2013.",
+      "displayType" : "table",
+      "downloadCount" : 14,
+      "indexUpdatedAt" : 1414613840,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8030090,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1400533551,
+      "publicationGroup" : 1581695,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1400533507,
+      "rowsUpdatedBy" : "7q7s-tyf3",
+      "tableId" : 1587616,
+      "totalTimesRated" : 0,
+      "viewCount" : 60,
+      "viewLastModified" : 1401229570,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 149120044,
+        "name" : "Type of Bill",
+        "dataTypeName" : "text",
+        "fieldName" : "type_of_bill",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19731739,
+        "width" : 244,
+        "cachedContents" : {
+          "non_null" : 14,
+          "smallest" : "Power",
+          "null" : 0,
+          "largest" : "Water",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Power"
+          }, {
+            "count" : 19,
+            "item" : "Water"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149120045,
+        "name" : "Agency",
+        "dataTypeName" : "text",
+        "fieldName" : "agency",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19731740,
+        "width" : 172,
+        "cachedContents" : {
+          "non_null" : 14,
+          "smallest" : "Burbank",
+          "null" : 0,
+          "largest" : "Simi Valley",
+          "top" : [ {
+            "count" : 20,
+            "item" : "LADWP"
+          }, {
+            "count" : 19,
+            "item" : "Pasadena"
+          }, {
+            "count" : 18,
+            "item" : "Glendale"
+          }, {
+            "count" : 17,
+            "item" : "Burbank"
+          }, {
+            "count" : 16,
+            "item" : "SC Edison"
+          }, {
+            "count" : 15,
+            "item" : "San Diego"
+          }, {
+            "count" : 14,
+            "item" : "Long Beach"
+          }, {
+            "count" : 13,
+            "item" : "Oakland"
+          }, {
+            "count" : 12,
+            "item" : "San Francisco"
+          }, {
+            "count" : 11,
+            "item" : "Simi Valley"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149120046,
+        "name" : "Typical Monthly Residential Bill",
+        "dataTypeName" : "money",
+        "fieldName" : "typical_monthly_residential_bill",
+        "position" : 4,
+        "renderTypeName" : "money",
+        "tableColumnId" : 19731741,
+        "width" : 484,
+        "cachedContents" : {
+          "non_null" : 14,
+          "smallest" : "40.59",
+          "sum" : "893.37",
+          "null" : 0,
+          "average" : "63.81214285714286",
+          "largest" : "88.67",
+          "top" : [ {
+            "count" : 20,
+            "item" : "70.43"
+          }, {
+            "count" : 19,
+            "item" : "83.84"
+          }, {
+            "count" : 18,
+            "item" : "71.66"
+          }, {
+            "count" : 17,
+            "item" : "74.78"
+          }, {
+            "count" : 16,
+            "item" : "86.22"
+          }, {
+            "count" : 15,
+            "item" : "88.67"
+          }, {
+            "count" : 14,
+            "item" : "40.59"
+          }, {
+            "count" : 13,
+            "item" : "41.83"
+          }, {
+            "count" : 12,
+            "item" : "43.92"
+          }, {
+            "count" : 11,
+            "item" : "45.31"
+          }, {
+            "count" : 10,
+            "item" : "48.59"
+          }, {
+            "count" : 9,
+            "item" : "64.20"
+          }, {
+            "count" : 8,
+            "item" : "66.40"
+          }, {
+            "count" : 7,
+            "item" : "66.93"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "LADWP"
+          }
+        },
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "hb8e-gdsp",
+        "displayName" : "LA DWP OpenData",
+        "profileImageUrlLarge" : "/images/profile/5225/6660/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5225/6660/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5225/6660/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LA DWP OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "7q7s-tyf3",
+        "displayName" : "Steve Baule",
+        "roleName" : "editor",
+        "screenName" : "Steve Baule",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "power", "water", "rates", "residential" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "44C1E08E-7068-4FC9-921A-F9EEF7369BAF", 1, 1400117172, "877550", 1400117172, "877550", "{\n}", "Power", "LADWP", "70.43" ]
+, [ 2, "EA06DD90-0D87-4120-A60C-268AC5FC328A", 2, 1400117172, "877550", 1400117172, "877550", "{\n}", "Power", "Pasadena", "83.84" ]
+, [ 3, "C645F659-BC87-4433-A5FF-744F53D08CC9", 3, 1400117172, "877550", 1400117172, "877550", "{\n}", "Power", "Glendale", "71.66" ]
+, [ 4, "45ED0DE8-A4C7-407D-BAA1-0AC82C19097A", 4, 1400117172, "877550", 1400117172, "877550", "{\n}", "Power", "Burbank", "74.78" ]
+, [ 5, "D6C001D6-F2C5-48C6-8EE6-7D982224C0E3", 5, 1400117172, "877550", 1400117172, "877550", "{\n}", "Power", "SC Edison", "86.22" ]
+, [ 6, "04DD8BF8-B7C5-4CCA-9BBA-FC5217970149", 6, 1400117172, "877550", 1400117172, "877550", "{\n}", "Power", "San Diego", "88.67" ]
+, [ 7, "7E624D2A-FE93-4B4E-99D2-EBC373B28278", 7, 1400117172, "877550", 1400117172, "877550", "{\n}", "Water", "Long Beach", "40.59" ]
+, [ 8, "A2E28A0B-E19E-4480-85B3-B78AE7CCC53C", 8, 1400117172, "877550", 1400117172, "877550", "{\n}", "Water", "Pasadena", "41.83" ]
+, [ 9, "915D1A5C-55B2-4C45-894E-DE8077FAA0C5", 9, 1400117172, "877550", 1400117172, "877550", "{\n}", "Water", "Glendale", "43.92" ]
+, [ 10, "FF4A3946-FD18-42AB-BB9D-DCCFB2E865DA", 10, 1400117172, "877550", 1400117172, "877550", "{\n}", "Water", "Oakland", "45.31" ]
+, [ 11, "0D4F3506-947D-41A8-8502-4A82B32A883E", 11, 1400117172, "877550", 1400117172, "877550", "{\n}", "Water", "LADWP", "48.59" ]
+, [ 12, "E6625167-CCCC-425B-B379-D9343114E470", 12, 1400117172, "877550", 1400117172, "877550", "{\n}", "Water", "San Diego", "64.20" ]
+, [ 13, "D648D3A5-BE1C-446D-82B9-797A28870D35", 13, 1400117172, "877550", 1400117172, "877550", "{\n}", "Water", "San Francisco", "66.40" ]
+, [ 14, "E6238E79-0DAC-4091-9BFD-9F08A5C837FF", 14, 1400117172, "877550", 1400117172, "877550", "{\n}", "Water", "Simi Valley", "66.93" ]
+ ]
+}

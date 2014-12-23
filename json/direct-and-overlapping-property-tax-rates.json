@@ -1,0 +1,408 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "pxmh-mw9a",
+      "name" : "Direct and Overlapping Property Tax Rates",
+      "attribution" : "Office of the Controller, City of Los Angeles",
+      "attributionLink" : "http://controller.lacity.org/stellent/groups/ElectedOfficials/@CTR_Contributor/documents/Contributor_Web_Content/LACITYP_027750.pdf#page=387",
+      "averageRating" : 0,
+      "category" : "Audits and Reports",
+      "createdAt" : 1390280864,
+      "description" : "CAFR Page 344.\r\n\r\nTax Rate Area No. 4(a). Last Ten Fiscal Years.\r\n(a) Tax Rate Area # 4 is used to illustrate the breakdown of a tax rate within the City and applies to most properties within the City of Los Angeles. Since each property is subject to taxation by a number of taxing entities, the County groups all properties subject to taxation by the same entities into Tax Rate Areas (TRAs). There are over 274 TRAs in the City.",
+      "displayType" : "table",
+      "downloadCount" : 73,
+      "indexUpdatedAt" : 1414613871,
+      "licenseId" : "PUBLIC_DOMAIN",
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 7442628,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1393554736,
+      "publicationGroup" : 1447950,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1393554707,
+      "rowsUpdatedBy" : "7c7a-resi",
+      "tableId" : 1492316,
+      "totalTimesRated" : 0,
+      "viewCount" : 217,
+      "viewLastModified" : 1410242729,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 135633087,
+        "name" : "Fiscal Year",
+        "dataTypeName" : "number",
+        "fieldName" : "fiscal_year",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17694884,
+        "width" : 75,
+        "cachedContents" : {
+          "non_null" : 60,
+          "smallest" : "2004",
+          "sum" : "120510",
+          "null" : 0,
+          "average" : "2008.5",
+          "largest" : "2013",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2004"
+          }, {
+            "count" : 19,
+            "item" : "2005"
+          }, {
+            "count" : 18,
+            "item" : "2006"
+          }, {
+            "count" : 17,
+            "item" : "2007"
+          }, {
+            "count" : 16,
+            "item" : "2008"
+          }, {
+            "count" : 15,
+            "item" : "2009"
+          }, {
+            "count" : 14,
+            "item" : "2010"
+          }, {
+            "count" : 13,
+            "item" : "2011"
+          }, {
+            "count" : 12,
+            "item" : "2012"
+          }, {
+            "count" : 11,
+            "item" : "2013"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "true",
+          "align" : "right"
+        }
+      }, {
+        "id" : 135633088,
+        "name" : "Direct/Overlapping",
+        "dataTypeName" : "text",
+        "fieldName" : "direct_overlapping",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17694885,
+        "width" : 118,
+        "cachedContents" : {
+          "non_null" : 60,
+          "smallest" : "Direct",
+          "null" : 0,
+          "largest" : "Overlapping",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Direct"
+          }, {
+            "count" : 19,
+            "item" : "Overlapping"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 135633089,
+        "name" : "Tax Type",
+        "dataTypeName" : "text",
+        "fieldName" : "tax_type",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17694886,
+        "width" : 175,
+        "cachedContents" : {
+          "non_null" : 60,
+          "smallest" : "Basic Rate",
+          "null" : 0,
+          "largest" : "Metropolitan Water District",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Basic Rate"
+          }, {
+            "count" : 19,
+            "item" : "General Obligation Debt Service"
+          }, {
+            "count" : 18,
+            "item" : "Los Angeles County"
+          }, {
+            "count" : 17,
+            "item" : "L.A. Unified School District"
+          }, {
+            "count" : 16,
+            "item" : "L.A. Unified Flood Control District"
+          }, {
+            "count" : 15,
+            "item" : "Metropolitan Water District"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 135633090,
+        "name" : "Rate",
+        "dataTypeName" : "number",
+        "fieldName" : "rate",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17694887,
+        "width" : 96,
+        "cachedContents" : {
+          "non_null" : 50,
+          "smallest" : "0.000000",
+          "sum" : "11.865724999999999970015",
+          "null" : 10,
+          "average" : "0.2373145000000000",
+          "largest" : "1.000000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1.000000"
+          }, {
+            "count" : 19,
+            "item" : "0.050574"
+          }, {
+            "count" : 18,
+            "item" : "0.055733"
+          }, {
+            "count" : 17,
+            "item" : "0.051289"
+          }, {
+            "count" : 16,
+            "item" : "0.045354"
+          }, {
+            "count" : 15,
+            "item" : "0.038051"
+          }, {
+            "count" : 14,
+            "item" : "0.038541"
+          }, {
+            "count" : 13,
+            "item" : "0.041220"
+          }, {
+            "count" : 12,
+            "item" : "0.038895"
+          }, {
+            "count" : 11,
+            "item" : "0.038666"
+          }, {
+            "count" : 10,
+            "item" : "0.037694"
+          }, {
+            "count" : 9,
+            "item" : "0.00099200000000000004"
+          }, {
+            "count" : 8,
+            "item" : "0.00092299999999999999"
+          }, {
+            "count" : 7,
+            "item" : "0.00079500000000000003"
+          }, {
+            "count" : 6,
+            "item" : "0.00066299999999999996"
+          }, {
+            "count" : 5,
+            "item" : "0.000000"
+          }, {
+            "count" : 4,
+            "item" : "0.141730"
+          }, {
+            "count" : 3,
+            "item" : "0.077145000000000005"
+          }, {
+            "count" : 2,
+            "item" : "0.088839000000000001"
+          }, {
+            "count" : 1,
+            "item" : "0.084346000000000004"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Public Domain"
+      },
+      "metadata" : {
+        "custom_fields" : {
+          "Department" : {
+            "Division" : "GAAP",
+            "Department" : "Controller",
+            "System" : "CAFR"
+          },
+          "Update Information" : {
+            "Update Cycle" : "Annual"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "7c7a-resi",
+        "displayName" : "Controller's Office",
+        "roleName" : "administrator",
+        "screenName" : "Controller's Office",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "7c7a-resi",
+        "displayName" : "Controller's Office",
+        "roleName" : "administrator",
+        "screenName" : "Controller's Office",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "tags" : [ "revenue", "city of los angeles", "city of los angeles controller", "city of la", "city of la controller", "ron galperin", "comprehensive annual financial report", "cafr", "net position", "asset type", "asset type group", "activity type", "cafr statistical section", "tax", "taxes" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "4E576DC3-C832-4764-B7D0-2399A07DD76B", 1, 1392836237, "862121", 1392836237, "862121", "{\n}", "2004", "Direct", "Basic Rate", "1.000000" ]
+, [ 2, "EEE5082B-131E-44BC-B412-B4965D7ED818", 2, 1392836237, "862121", 1392836237, "862121", "{\n}", "2005", "Direct", "Basic Rate", "1.000000" ]
+, [ 3, "2F204B11-C9E1-4754-8D3A-5E122CE8D2DD", 3, 1392836237, "862121", 1392836237, "862121", "{\n}", "2006", "Direct", "Basic Rate", "1.000000" ]
+, [ 4, "6993FE76-845C-4BE5-A293-8A7C41BEDAB4", 4, 1392836237, "862121", 1392836237, "862121", "{\n}", "2007", "Direct", "Basic Rate", "1.000000" ]
+, [ 5, "CDCF429C-FCFE-49BD-B4D5-5AF917FC59F7", 5, 1392836237, "862121", 1392836237, "862121", "{\n}", "2008", "Direct", "Basic Rate", "1.000000" ]
+, [ 6, "1383299B-87FD-4F39-A6DA-0FAE595031E4", 6, 1392836237, "862121", 1392836237, "862121", "{\n}", "2009", "Direct", "Basic Rate", "1.000000" ]
+, [ 7, "06AFBCF7-C76F-4310-A50A-9302E737A8D4", 7, 1392836237, "862121", 1392836237, "862121", "{\n}", "2010", "Direct", "Basic Rate", "1.000000" ]
+, [ 8, "36D548C0-A1B0-45F5-AFF7-E000169CE06B", 8, 1392836237, "862121", 1392836237, "862121", "{\n}", "2011", "Direct", "Basic Rate", "1.000000" ]
+, [ 9, "1E903E70-241D-497B-A074-3668B9058067", 9, 1392836237, "862121", 1392836237, "862121", "{\n}", "2012", "Direct", "Basic Rate", "1.000000" ]
+, [ 10, "1FA0FE8A-22E2-46A5-B58D-080DFBB65705", 10, 1392836237, "862121", 1392836237, "862121", "{\n}", "2013", "Direct", "Basic Rate", "1.000000" ]
+, [ 11, "8BE5F8DC-34C1-462A-A4FF-63EE99297907", 11, 1392836237, "862121", 1392836237, "862121", "{\n}", "2004", "Direct", "General Obligation Debt Service", "0.050574" ]
+, [ 12, "FD64C635-126A-43BB-B450-48D1E03F8681", 12, 1392836237, "862121", 1392836237, "862121", "{\n}", "2005", "Direct", "General Obligation Debt Service", "0.055733" ]
+, [ 13, "4938173A-B7E6-495E-A239-D7836B866070", 13, 1392836237, "862121", 1392836237, "862121", "{\n}", "2006", "Direct", "General Obligation Debt Service", "0.051289" ]
+, [ 14, "3E3CC168-2A97-43C2-B380-4644E474787D", 14, 1392836237, "862121", 1392836237, "862121", "{\n}", "2007", "Direct", "General Obligation Debt Service", "0.045354" ]
+, [ 15, "AF795DF3-945B-4810-8DCE-51A61AF8CB14", 15, 1392836237, "862121", 1392836237, "862121", "{\n}", "2008", "Direct", "General Obligation Debt Service", "0.038051" ]
+, [ 16, "1CE59C6F-7310-466A-A084-69E080ABCC04", 16, 1392836237, "862121", 1392836237, "862121", "{\n}", "2009", "Direct", "General Obligation Debt Service", "0.038541" ]
+, [ 17, "99BD2016-FABA-435C-80B4-3B7A7E936A5C", 17, 1392836237, "862121", 1392836237, "862121", "{\n}", "2010", "Direct", "General Obligation Debt Service", "0.041220" ]
+, [ 18, "97E93E67-8CB4-4CF4-BD70-4CFD48408AE1", 18, 1392836237, "862121", 1392836237, "862121", "{\n}", "2011", "Direct", "General Obligation Debt Service", "0.038895" ]
+, [ 19, "17106449-3263-42F8-B17C-32FA081B0361", 19, 1392836237, "862121", 1392836237, "862121", "{\n}", "2012", "Direct", "General Obligation Debt Service", "0.038666" ]
+, [ 20, "CC782F78-4006-42EC-BBAB-7F079D9847CD", 20, 1392836237, "862121", 1392836237, "862121", "{\n}", "2013", "Direct", "General Obligation Debt Service", "0.037694" ]
+, [ 21, "C8928619-A7BF-4D11-B048-344F437CB3DA", 21, 1392836237, "862121", 1392836237, "862121", "{\n}", "2004", "Overlapping", "Los Angeles County", "0.00099200000000000004" ]
+, [ 22, "86C7E786-C897-42DF-BB5E-F766FD8DCE3D", 22, 1392836237, "862121", 1392836237, "862121", "{\n}", "2005", "Overlapping", "Los Angeles County", "0.00092299999999999999" ]
+, [ 23, "996B8842-88FB-47B2-85CD-FE1E3A94CE83", 23, 1392836237, "862121", 1392836237, "862121", "{\n}", "2006", "Overlapping", "Los Angeles County", "0.00079500000000000003" ]
+, [ 24, "A1ED465D-78A3-4E91-B478-3068E76479F3", 24, 1392836237, "862121", 1392836237, "862121", "{\n}", "2007", "Overlapping", "Los Angeles County", "0.00066299999999999996" ]
+, [ 25, "59DE73E6-34A2-4755-A6E5-02662A2EF387", 25, 1392836237, "862121", 1392836237, "862121", "{\n}", "2008", "Overlapping", "Los Angeles County", "0.000000" ]
+, [ 26, "2C7D7F0C-560C-4931-837D-C3518919E8DE", 26, 1392836237, "862121", 1392836237, "862121", "{\n}", "2009", "Overlapping", "Los Angeles County", "0.141730" ]
+, [ 27, "8E8D8235-58B1-48CD-99BC-D94B8F2AA32C", 27, 1392836237, "862121", 1392836237, "862121", "{\n}", "2010", "Overlapping", "Los Angeles County", "0.000000" ]
+, [ 28, "EAFC4B51-E721-4CAF-B297-ECA1F88952B0", 28, 1392836237, "862121", 1392836237, "862121", "{\n}", "2011", "Overlapping", "Los Angeles County", "0.000000" ]
+, [ 29, "D6FE1B06-CBF7-4DB3-92F9-D0185DDCE8E1", 29, 1392836237, "862121", 1392836237, "862121", "{\n}", "2012", "Overlapping", "Los Angeles County", "0.000000" ]
+, [ 30, "3F7CB576-F817-4CEA-A53E-44DFD9292149", 30, 1392836237, "862121", 1392836237, "862121", "{\n}", "2013", "Overlapping", "Los Angeles County", "0.000000" ]
+, [ 31, "72BEF8CB-7D6C-4FF9-9EA0-68B8EF837C6E", 31, 1392836237, "862121", 1392836237, "862121", "{\n}", "2004", "Overlapping", "L.A. Unified School District", "0.077145000000000005" ]
+, [ 32, "3E81FA1B-257F-4849-94C6-866297F37E10", 32, 1392836237, "862121", 1392836237, "862121", "{\n}", "2005", "Overlapping", "L.A. Unified School District", "0.088839000000000001" ]
+, [ 33, "760DE46E-C879-4C34-8580-C90237D9174A", 33, 1392836237, "862121", 1392836237, "862121", "{\n}", "2006", "Overlapping", "L.A. Unified School District", "0.084346000000000004" ]
+, [ 34, "52AD18BE-E4B9-425D-A4D8-2AD42FA5FE01", 34, 1392836237, "862121", 1392836237, "862121", "{\n}", "2007", "Overlapping", "L.A. Unified School District", "0.106735" ]
+, [ 35, "026CB328-4002-4C83-99DD-7FC811D469E6", 35, 1392836237, "862121", 1392836237, "862121", "{\n}", "2008", "Overlapping", "L.A. Unified School District", "0.12330199999999999" ]
+, [ 36, "2141C480-D9B6-49F3-B64E-CB6F98AC13E4", 36, 1392836237, "862121", 1392836237, "862121", "{\n}", "2009", "Overlapping", "L.A. Unified School District", "0.124724" ]
+, [ 37, "9C32A6F9-4AE3-4533-8525-7C38DE17BF21", 37, 1392836237, "862121", 1392836237, "862121", "{\n}", "2010", "Overlapping", "L.A. Unified School District", "0.151809" ]
+, [ 38, "BC6173D9-C76E-4F37-B3D0-CA67AE9AE712", 38, 1392836237, "862121", 1392836237, "862121", "{\n}", "2011", "Overlapping", "L.A. Unified School District", "0.18695400000000001" ]
+, [ 39, "DA3CB5F3-7BE8-46E1-B97D-68D23A0B5043", 39, 1392836237, "862121", 1392836237, "862121", "{\n}", "2012", "Overlapping", "L.A. Unified School District", "0.168187" ]
+, [ 40, "993CEB30-37F0-4CAF-A3E4-E54E9AE4FDA8", 40, 1392836237, "862121", 1392836237, "862121", "{\n}", "2013", "Overlapping", "L.A. Unified School District", "0.17175599999999996" ]
+, [ 41, "EB3924A1-A5FA-40E6-9FB2-90B0F8EBD839", 41, 1392836237, "862121", 1392836237, "862121", "{\n}", "2004", "Overlapping", "L.A. Unified Flood Control District", "0.00046200000000000001" ]
+, [ 42, "7F6046B1-9F17-4493-A4F8-EE631D37EBBB", 42, 1392836237, "862121", 1392836237, "862121", "{\n}", "2005", "Overlapping", "L.A. Unified Flood Control District", "0.00024499999999999999" ]
+, [ 43, "53336D0B-76C5-483E-8C8F-074C4E15FDB0", 43, 1392836237, "862121", 1392836237, "862121", "{\n}", "2006", "Overlapping", "L.A. Unified Flood Control District", "0.000048999999999999998" ]
+, [ 44, "00094DEF-0930-4C11-8999-D5DEC99B8886", 44, 1392836237, "862121", 1392836237, "862121", "{\n}", "2007", "Overlapping", "L.A. Unified Flood Control District", "0.000051999999999999997" ]
+, [ 45, "344DE095-2ABF-4C13-8025-14CEA9A39245", 45, 1392836237, "862121", 1392836237, "862121", "{\n}", "2008", "Overlapping", "L.A. Unified Flood Control District", "0.000000" ]
+, [ 46, "936ED39C-D4AF-4374-89CB-DBD3DE767F12", 46, 1392836237, "862121", 1392836237, "862121", "{\n}", "2009", "Overlapping", "L.A. Unified Flood Control District", "0.000000" ]
+, [ 47, "AFE28AC5-6447-4360-A6C4-9A359BB26207", 47, 1392836237, "862121", 1392836237, "862121", "{\n}", "2010", "Overlapping", "L.A. Unified Flood Control District", "0.000000" ]
+, [ 48, "D47F7C02-E0A3-4CBD-8EC9-3D2A01DC91F9", 48, 1392836237, "862121", 1392836237, "862121", "{\n}", "2011", "Overlapping", "L.A. Unified Flood Control District", "0.000000" ]
+, [ 49, "2AA98715-0B90-42B4-8FCE-C99CB252D5A4", 49, 1392836237, "862121", 1392836237, "862121", "{\n}", "2012", "Overlapping", "L.A. Unified Flood Control District", "0.000000" ]
+, [ 50, "905404B5-E0E2-4863-8332-615D9316AA1A", 50, 1392836237, "862121", 1392836237, "862121", "{\n}", "2013", "Overlapping", "L.A. Unified Flood Control District", "0.000000" ]
+, [ 51, "892BF85D-A221-486B-BAAF-DC5AD3CDED29", 51, 1392836237, "862121", 1392836237, "862121", "{\n  \"invalidCells\" : {\n    \"17694887\" : \"* 0.006100\"\n  }\n}", "2004", "Overlapping", "Metropolitan Water District", null ]
+, [ 52, "544D3244-7271-4BC9-A0FE-BDBD4226DD9D", 52, 1392836237, "862121", 1392836237, "862121", "{\n  \"invalidCells\" : {\n    \"17694887\" : \"* 0.005800\"\n  }\n}", "2005", "Overlapping", "Metropolitan Water District", null ]
+, [ 53, "75390E86-00C0-4E6C-A9EA-F23EF1B57548", 53, 1392836237, "862121", 1392836237, "862121", "{\n  \"invalidCells\" : {\n    \"17694887\" : \"* 0.005200\"\n  }\n}", "2006", "Overlapping", "Metropolitan Water District", null ]
+, [ 54, "5B1FF120-6694-4CD1-A8D4-BA38C891528D", 54, 1392836237, "862121", 1392836237, "862121", "{\n  \"invalidCells\" : {\n    \"17694887\" : \"* 0.004700\"\n  }\n}", "2007", "Overlapping", "Metropolitan Water District", null ]
+, [ 55, "CAECD158-EF34-40DB-87BA-153038E740C5", 55, 1392836237, "862121", 1392836237, "862121", "{\n  \"invalidCells\" : {\n    \"17694887\" : \"* 0.004500\"\n  }\n}", "2008", "Overlapping", "Metropolitan Water District", null ]
+, [ 56, "D28A40C8-C7A3-4782-8C09-2A6D436E04E9", 56, 1392836237, "862121", 1392836237, "862121", "{\n  \"invalidCells\" : {\n    \"17694887\" : \"* 0.004300\"\n  }\n}", "2009", "Overlapping", "Metropolitan Water District", null ]
+, [ 57, "828E2E62-D411-42D6-92B4-46D45BAC86CF", 57, 1392836237, "862121", 1392836237, "862121", "{\n  \"invalidCells\" : {\n    \"17694887\" : \"* 0.004300\"\n  }\n}", "2010", "Overlapping", "Metropolitan Water District", null ]
+, [ 58, "01A8889D-321B-428C-AA37-560DE6A95CFC", 58, 1392836237, "862121", 1392836237, "862121", "{\n  \"invalidCells\" : {\n    \"17694887\" : \"* 0.003700\"\n  }\n}", "2011", "Overlapping", "Metropolitan Water District", null ]
+, [ 59, "133990C3-FB0B-4E73-8C15-A34D3669F9D2", 59, 1392836237, "862121", 1392836237, "862121", "{\n  \"invalidCells\" : {\n    \"17694887\" : \"* 0.003700\"\n  }\n}", "2012", "Overlapping", "Metropolitan Water District", null ]
+, [ 60, "5A549BB0-4B83-4BDD-B577-C310BCA3E6A8", 60, 1392836237, "862121", 1392836237, "862121", "{\n  \"invalidCells\" : {\n    \"17694887\" : \"* 0.003500\"\n  }\n}", "2013", "Overlapping", "Metropolitan Water District", null ]
+ ]
+}

@@ -1,0 +1,494 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "k6sn-s44c",
+      "name" : "Bureau of Sanitation:  Abandoned Waste Collected Activity",
+      "attribution" : "Bureau of Sanitation",
+      "averageRating" : 0,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1407425525,
+      "description" : "Abandoned waste collected is reported monthly by fiscal year",
+      "displayType" : "table",
+      "downloadCount" : 8,
+      "indexUpdatedAt" : 1415747818,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8853444,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1410554642,
+      "publicationGroup" : 1675716,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1415650816,
+      "rowsUpdatedBy" : "3qey-3zpp",
+      "state" : "normal",
+      "tableId" : 1716856,
+      "totalTimesRated" : 0,
+      "viewCount" : 82,
+      "viewLastModified" : 1410802934,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 166493605,
+        "name" : "Fiscal Year",
+        "dataTypeName" : "text",
+        "fieldName" : "fiscal_year",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21263175,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "2014",
+          "null" : 0,
+          "largest" : "2015",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2014"
+          }, {
+            "count" : 19,
+            "item" : "2015"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 166493606,
+        "name" : "Month",
+        "dataTypeName" : "text",
+        "fieldName" : "month",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21263176,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "Apr",
+          "null" : 0,
+          "largest" : "Sept",
+          "top" : [ {
+            "count" : 20,
+            "item" : "July"
+          }, {
+            "count" : 19,
+            "item" : "Aug"
+          }, {
+            "count" : 18,
+            "item" : "Sept"
+          }, {
+            "count" : 17,
+            "item" : "Oct"
+          }, {
+            "count" : 16,
+            "item" : "Nov"
+          }, {
+            "count" : 15,
+            "item" : "Dec"
+          }, {
+            "count" : 14,
+            "item" : "Jan"
+          }, {
+            "count" : 13,
+            "item" : "Feb"
+          }, {
+            "count" : 12,
+            "item" : "Mar"
+          }, {
+            "count" : 11,
+            "item" : "Apr"
+          }, {
+            "count" : 10,
+            "item" : "May"
+          }, {
+            "count" : 9,
+            "item" : "June"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 166493607,
+        "name" : "FYMonth",
+        "dataTypeName" : "number",
+        "fieldName" : "fymonth",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21263177,
+        "width" : 184,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "1",
+          "sum" : "88",
+          "null" : 0,
+          "average" : "5.5",
+          "largest" : "12",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          }, {
+            "count" : 19,
+            "item" : "2"
+          }, {
+            "count" : 18,
+            "item" : "3"
+          }, {
+            "count" : 17,
+            "item" : "4"
+          }, {
+            "count" : 16,
+            "item" : "5"
+          }, {
+            "count" : 15,
+            "item" : "6"
+          }, {
+            "count" : 14,
+            "item" : "7"
+          }, {
+            "count" : 13,
+            "item" : "8"
+          }, {
+            "count" : 12,
+            "item" : "9"
+          }, {
+            "count" : 11,
+            "item" : "10"
+          }, {
+            "count" : 10,
+            "item" : "11"
+          }, {
+            "count" : 9,
+            "item" : "12"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 166493608,
+        "name" : "Count of Abandoned Waste Collected within 48 hrs",
+        "dataTypeName" : "number",
+        "fieldName" : "count_of_abandoned_waste_collected_within_48_hrs",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21263178,
+        "width" : 688,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "370",
+          "sum" : "12331",
+          "null" : 0,
+          "average" : "770.6875",
+          "largest" : "1219",
+          "top" : [ {
+            "count" : 20,
+            "item" : "712"
+          }, {
+            "count" : 19,
+            "item" : "378"
+          }, {
+            "count" : 18,
+            "item" : "445"
+          }, {
+            "count" : 17,
+            "item" : "370"
+          }, {
+            "count" : 16,
+            "item" : "436"
+          }, {
+            "count" : 15,
+            "item" : "659"
+          }, {
+            "count" : 14,
+            "item" : "642"
+          }, {
+            "count" : 13,
+            "item" : "558"
+          }, {
+            "count" : 12,
+            "item" : "768"
+          }, {
+            "count" : 11,
+            "item" : "876"
+          }, {
+            "count" : 10,
+            "item" : "787"
+          }, {
+            "count" : 9,
+            "item" : "1219"
+          }, {
+            "count" : 8,
+            "item" : "1217"
+          }, {
+            "count" : 7,
+            "item" : "1064"
+          }, {
+            "count" : 6,
+            "item" : "1105"
+          }, {
+            "count" : 5,
+            "item" : "1095"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      }, {
+        "id" : 166493609,
+        "name" : "Total Abandoned Waste Calls",
+        "dataTypeName" : "number",
+        "fieldName" : "total_abandoned_waste_calls",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21263179,
+        "width" : 424,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "747",
+          "sum" : "26019",
+          "null" : 0,
+          "average" : "1626.1875",
+          "largest" : "2321",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1880"
+          }, {
+            "count" : 19,
+            "item" : "1610"
+          }, {
+            "count" : 18,
+            "item" : "955"
+          }, {
+            "count" : 17,
+            "item" : "747"
+          }, {
+            "count" : 16,
+            "item" : "2321"
+          }, {
+            "count" : 15,
+            "item" : "1609"
+          }, {
+            "count" : 14,
+            "item" : "2112"
+          }, {
+            "count" : 13,
+            "item" : "1728"
+          }, {
+            "count" : 12,
+            "item" : "2086"
+          }, {
+            "count" : 11,
+            "item" : "1675"
+          }, {
+            "count" : 10,
+            "item" : "1323"
+          }, {
+            "count" : 9,
+            "item" : "1551"
+          }, {
+            "count" : 8,
+            "item" : "1600"
+          }, {
+            "count" : 7,
+            "item" : "1524"
+          }, {
+            "count" : 6,
+            "item" : "1582"
+          }, {
+            "count" : 5,
+            "item" : "1716"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Board of Public Works" : "",
+            "LAPD" : "",
+            "City Administrative Officer" : "",
+            "Personnel " : "",
+            "Bureau of Engineering" : "",
+            "City Attorney" : "",
+            "Employee Relations Board" : "",
+            "Transportation" : "",
+            "Housing and Community Investment" : "",
+            "Library" : "",
+            "Recreation and Parks " : "",
+            "Neighborhood Empowerment" : "",
+            "Controller's Office" : "",
+            "El Pueblo" : "",
+            "Other" : "",
+            "Bureau of Sanitation" : "",
+            "LACERS" : "",
+            "Disability, Department on" : "",
+            "Cultural Affairs" : "",
+            "Information Technology" : "",
+            "Fire and Police Pensions" : "",
+            "General Services" : "",
+            "Emergency Management" : "",
+            "Council District 12" : "",
+            "Council District 13" : "",
+            "Council District 14" : "",
+            "Project Restore" : "",
+            "Council District 15" : "",
+            "Council District 10" : "",
+            "Council District 11" : "",
+            "Aging" : "",
+            "Bureau of Street Lighting" : "",
+            "City Clerk" : "",
+            "Bureau of Contract Administration" : "",
+            "Planning" : "",
+            "Harbor " : "",
+            "LAWA" : "",
+            "Public Accountability, The Office of" : "",
+            "Office of Finance" : "",
+            "Council District 03" : "",
+            "Council District 04" : "",
+            "Council District 01" : "",
+            "Council District 02" : "",
+            "Bureau of Street Services" : "",
+            "Zoo" : "",
+            "Council District 09" : "",
+            "Council District 07" : "",
+            "Council District 08" : "",
+            "Council District 05" : "",
+            "Council District 06" : "",
+            "LAFD" : "",
+            "Economic and Workforce Development" : "",
+            "Ethics Commission" : "",
+            "Animal Services" : "",
+            "Mayor's Office" : "",
+            "Housing Authority" : "",
+            "Building and Safety" : "",
+            "LADWP" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "jwvk-b9mh",
+        "displayName" : "Public Works: Sanitation OpenData",
+        "profileImageUrlLarge" : "/images/profile/2352/4407/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/2352/4407/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/2352/4407/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Public Works: Sanitation OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "jwvk-b9mh",
+        "displayName" : "Public Works: Sanitation OpenData",
+        "profileImageUrlLarge" : "/images/profile/2352/4407/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/2352/4407/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/2352/4407/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Public Works: Sanitation OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "bureau of sanitation", "refuse", "trash", "abandoned waste", "illegal dumping" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 29, "F15C64CB-8004-43A2-97BA-18749F217458", 29, 1414441639, "875560", 1414441639, "875560", null, "2014", "July", "1", "712", "1880" ]
+, [ 30, "662F0DD7-56F0-4705-9315-B7EF1802E586", 30, 1414441639, "875560", 1414441639, "875560", null, "2014", "Aug", "2", "378", "1610" ]
+, [ 31, "971AB1A5-215E-42B9-B4ED-C2973A86E555", 31, 1414441639, "875560", 1414441639, "875560", null, "2014", "Sept", "3", "445", "955" ]
+, [ 32, "3DFC1025-F8D7-4C86-8D1D-7C068FFDE817", 32, 1414441639, "875560", 1414441639, "875560", null, "2014", "Oct", "4", "370", "747" ]
+, [ 33, "8A42FC54-F30D-4070-A587-46C87220594F", 33, 1414441639, "875560", 1414441639, "875560", null, "2014", "Nov", "5", "436", "2321" ]
+, [ 34, "666423CA-97BF-41C1-9044-071FD3D71915", 34, 1414441639, "875560", 1414441639, "875560", null, "2014", "Dec", "6", "659", "1609" ]
+, [ 35, "7CA4773A-EF60-4233-A82C-3E9079F28426", 35, 1414441639, "875560", 1414441639, "875560", null, "2014", "Jan", "7", "642", "2112" ]
+, [ 36, "C95D6FC7-D2AA-4069-A113-4B254A1B142C", 36, 1414441639, "875560", 1414441639, "875560", null, "2014", "Feb", "8", "558", "1728" ]
+, [ 37, "C7804679-7926-46F8-B612-CE6F9E35353D", 37, 1414441639, "875560", 1414441639, "875560", null, "2014", "Mar", "9", "768", "2086" ]
+, [ 38, "4E9D6C05-8EF6-4269-9871-FC25D78DBF16", 38, 1414441639, "875560", 1414441639, "875560", null, "2014", "Apr", "10", "876", "1675" ]
+, [ 39, "5DDC5F64-C2C9-4744-8C48-73832BED36D9", 39, 1414441639, "875560", 1414441639, "875560", null, "2014", "May", "11", "787", "1323" ]
+, [ 40, "ECBECF36-9740-4979-99E7-08CD711C9AC4", 40, 1414441639, "875560", 1414441639, "875560", null, "2014", "June", "12", "1219", "1551" ]
+, [ 41, "96EA8457-846A-4779-B591-41AF93111AE7", 41, 1414441639, "875560", 1414441639, "875560", null, "2015", "July", "1", "1217", "1600" ]
+, [ 42, "F8478B79-02CF-47A8-BEDA-9638511D402F", 42, 1414441639, "875560", 1414441639, "875560", null, "2015", "Aug", "2", "1064", "1524" ]
+, [ 43, "48102F61-7217-4D9E-8414-8DB1D6751B77", 43, 1414441639, "875560", 1414441639, "875560", null, "2015", "Sept", "3", "1105", "1582" ]
+, [ 44, "B12E92CF-1DC7-452C-90CA-7BE6AB0A8F52", 44, 1415650814, "875544", 1415650814, "875544", null, "2015", "Oct", "4", "1095", "1716" ]
+ ]
+}

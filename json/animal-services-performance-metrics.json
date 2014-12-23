@@ -1,0 +1,861 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "vhck-efbw",
+      "name" : "Animal Services - Performance Metrics",
+      "attribution" : "Department of Animal Services",
+      "averageRating" : 0,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1407172502,
+      "description" : "This dataset contains metrics that measure the operational performance of the Department of Animal Services. These metrics are used on a regular basis by the department and the Mayor to evaluate progress and inform decision making. Performance management forms the foundation of a data-driven culture of innovation and excellence in the City of Los Angeles.",
+      "displayType" : "table",
+      "downloadCount" : 3,
+      "indexUpdatedAt" : 1414612892,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 9062811,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1412779457,
+      "publicationGroup" : 1671951,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1412779431,
+      "rowsUpdatedBy" : "anbw-drra",
+      "tableId" : 1772769,
+      "totalTimesRated" : 0,
+      "viewCount" : 68,
+      "viewLastModified" : 1412779457,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 170289701,
+        "name" : "Date Value",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date_value",
+        "position" : 1,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 21196324,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 99,
+          "smallest" : "2010-06-30T00:00:00",
+          "null" : 0,
+          "largest" : "2020-06-25T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2019-02-25T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2019-03-27T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2019-04-27T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2019-05-27T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2019-06-26T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2019-07-27T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2019-08-26T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2019-09-25T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2019-10-26T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2019-11-25T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2019-12-25T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2020-01-25T00:00:00"
+          }, {
+            "count" : 8,
+            "item" : "2020-02-24T00:00:00"
+          }, {
+            "count" : 7,
+            "item" : "2020-03-26T00:00:00"
+          }, {
+            "count" : 6,
+            "item" : "2020-04-25T00:00:00"
+          }, {
+            "count" : 5,
+            "item" : "2020-05-25T00:00:00"
+          }, {
+            "count" : 4,
+            "item" : "2020-06-25T00:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170289702,
+        "name" : "Month-Year",
+        "dataTypeName" : "text",
+        "fieldName" : "month_year",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21196325,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 99,
+          "smallest" : "Apr-13",
+          "null" : 0,
+          "largest" : "Sep-19",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Feb-19"
+          }, {
+            "count" : 19,
+            "item" : "Mar-19"
+          }, {
+            "count" : 18,
+            "item" : "Apr-19"
+          }, {
+            "count" : 17,
+            "item" : "May-19"
+          }, {
+            "count" : 16,
+            "item" : "Jun-19"
+          }, {
+            "count" : 15,
+            "item" : "Jul-19"
+          }, {
+            "count" : 14,
+            "item" : "Aug-19"
+          }, {
+            "count" : 13,
+            "item" : "Sep-19"
+          }, {
+            "count" : 12,
+            "item" : "Oct-19"
+          }, {
+            "count" : 11,
+            "item" : "Nov-19"
+          }, {
+            "count" : 10,
+            "item" : "Dec-19"
+          }, {
+            "count" : 9,
+            "item" : "Jan-20"
+          }, {
+            "count" : 8,
+            "item" : "Feb-20"
+          }, {
+            "count" : 7,
+            "item" : "Mar-20"
+          }, {
+            "count" : 6,
+            "item" : "Apr-20"
+          }, {
+            "count" : 5,
+            "item" : "May-20"
+          }, {
+            "count" : 4,
+            "item" : "Jun-20"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170289703,
+        "name" : "Quarter-FY",
+        "dataTypeName" : "text",
+        "fieldName" : "quarter_fy",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21196326,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 15,
+          "smallest" : "Q1 FY13",
+          "null" : 84,
+          "largest" : "Q4 FY15",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Q4 FY10"
+          }, {
+            "count" : 19,
+            "item" : "Q4 FY11"
+          }, {
+            "count" : 18,
+            "item" : "Q4 FY12"
+          }, {
+            "count" : 17,
+            "item" : "Q1 FY13"
+          }, {
+            "count" : 16,
+            "item" : "Q2 FY13"
+          }, {
+            "count" : 15,
+            "item" : "Q3 FY13"
+          }, {
+            "count" : 14,
+            "item" : "Q4 FY13"
+          }, {
+            "count" : 13,
+            "item" : "Q1 FY14"
+          }, {
+            "count" : 12,
+            "item" : "Q2 FY14"
+          }, {
+            "count" : 11,
+            "item" : "Q3 FY14"
+          }, {
+            "count" : 10,
+            "item" : "Q4 FY14"
+          }, {
+            "count" : 9,
+            "item" : "Q1 FY15"
+          }, {
+            "count" : 8,
+            "item" : "Q2 FY15"
+          }, {
+            "count" : 7,
+            "item" : "Q3 FY15"
+          }, {
+            "count" : 6,
+            "item" : "Q4 FY15"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170289704,
+        "name" : "Annual-FY",
+        "dataTypeName" : "text",
+        "fieldName" : "annual_fy",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21196327,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "FY 2010",
+          "null" : 90,
+          "largest" : "FY 2018",
+          "top" : [ {
+            "count" : 20,
+            "item" : "FY 2010"
+          }, {
+            "count" : 19,
+            "item" : "FY 2011"
+          }, {
+            "count" : 18,
+            "item" : "FY 2012"
+          }, {
+            "count" : 17,
+            "item" : "FY 2013"
+          }, {
+            "count" : 16,
+            "item" : "FY 2014"
+          }, {
+            "count" : 15,
+            "item" : "FY 2015"
+          }, {
+            "count" : 14,
+            "item" : "FY 2016"
+          }, {
+            "count" : 13,
+            "item" : "FY 2017"
+          }, {
+            "count" : 12,
+            "item" : "FY 2018"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170290049,
+        "name" : "# of Animal Licenses Sold  (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "of_animal_licenses_sold_monthly",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 22300257,
+        "width" : 212,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "8712",
+          "sum" : "19154",
+          "null" : 97,
+          "average" : "9577",
+          "largest" : "10442",
+          "top" : [ {
+            "count" : 20,
+            "item" : "10442"
+          }, {
+            "count" : 19,
+            "item" : "8712"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170289705,
+        "name" : "# of Animal Licenses Sold  (Annual-FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "of_animal_licenses_sold_annual_fy",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21196328,
+        "width" : 306,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "121817",
+          "sum" : "494119",
+          "null" : 95,
+          "average" : "123529.75",
+          "largest" : "126234",
+          "top" : [ {
+            "count" : 20,
+            "item" : "121817"
+          }, {
+            "count" : 19,
+            "item" : "123060"
+          }, {
+            "count" : 18,
+            "item" : "126234"
+          }, {
+            "count" : 17,
+            "item" : "123008"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170289706,
+        "name" : "PROJECTED: # of Animal Licenses Sold (Annual- FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "projected_of_animal_licenses_sold_annual_fy",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21196329,
+        "width" : 311,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "131540",
+          "sum" : "268540",
+          "null" : 97,
+          "average" : "134270",
+          "largest" : "137000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "131540"
+          }, {
+            "count" : 19,
+            "item" : "137000"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170290050,
+        "name" : "Animal Live/Save Rate (Monthly)",
+        "dataTypeName" : "percent",
+        "fieldName" : "animal_live_save_rate_monthly",
+        "position" : 8,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 22300258,
+        "width" : 194,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "61.79",
+          "sum" : "131.62",
+          "null" : 97,
+          "average" : "65.81",
+          "largest" : "69.83",
+          "top" : [ {
+            "count" : 20,
+            "item" : "61.79"
+          }, {
+            "count" : 19,
+            "item" : "69.83"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170289707,
+        "name" : "Animal Live/Save Rate (Annual-FY)",
+        "dataTypeName" : "percent",
+        "fieldName" : "animal_live_save_rate_annual_fy",
+        "position" : 9,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21196330,
+        "width" : 259,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "57.06",
+          "sum" : "248.66",
+          "null" : 95,
+          "average" : "62.165",
+          "largest" : "70.27",
+          "top" : [ {
+            "count" : 20,
+            "item" : "57.06"
+          }, {
+            "count" : 19,
+            "item" : "57.80"
+          }, {
+            "count" : 18,
+            "item" : "63.53"
+          }, {
+            "count" : 17,
+            "item" : "70.27"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170289708,
+        "name" : "PROJECTED: Animal Live/Save Rate (Annual-FY)",
+        "dataTypeName" : "percent",
+        "fieldName" : "projected_animal_live_save_rate_annual_fy",
+        "position" : 10,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21196331,
+        "width" : 368,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "73.00",
+          "sum" : "148.00",
+          "null" : 97,
+          "average" : "74.00",
+          "largest" : "75.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "73.00"
+          }, {
+            "count" : 19,
+            "item" : "75.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170290114,
+        "name" : "Range of # of Days to Receive New License - Low (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "range_of_of_days_to_receive_new_license_low_monthly",
+        "position" : 11,
+        "renderTypeName" : "number",
+        "tableColumnId" : 22300300,
+        "width" : 353,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "1",
+          "sum" : "2",
+          "null" : 97,
+          "average" : "1",
+          "largest" : "1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170289709,
+        "name" : "Range of # of Days to Recieve New License - Low (Annually FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "range_of_of_days_to_recieve_new_license_low_annually_fy",
+        "position" : 12,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21196332,
+        "width" : 448,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "1",
+          "sum" : "1",
+          "null" : 98,
+          "average" : "1",
+          "largest" : "1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170289710,
+        "name" : "PROJECTED: Range of # of Days to Recieve New License - Low (Annually FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "projected_range_of_of_days_to_recieve_new_license_low_annually_fy",
+        "position" : 13,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21196333,
+        "width" : 532,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "1",
+          "sum" : "16",
+          "null" : 97,
+          "average" : "8",
+          "largest" : "15",
+          "top" : [ {
+            "count" : 20,
+            "item" : "15"
+          }, {
+            "count" : 19,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170290113,
+        "name" : "Range of # of Days to Receive New License - High (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "range_of_of_days_to_receive_new_license_high_monthly",
+        "position" : 14,
+        "renderTypeName" : "number",
+        "tableColumnId" : 22300299,
+        "width" : 355,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "1",
+          "sum" : "2",
+          "null" : 97,
+          "average" : "1",
+          "largest" : "1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170289711,
+        "name" : "Range of # of Days to Recieve New License - High (Annually FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "range_of_of_days_to_recieve_new_license_high_annually_fy",
+        "position" : 15,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21196334,
+        "width" : 449,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "1",
+          "sum" : "1",
+          "null" : 98,
+          "average" : "1",
+          "largest" : "1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170289712,
+        "name" : "PROJECTED: Range of # of Days to Recieve New License - High (Annually FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "projected_range_of_of_days_to_recieve_new_license_high_annually_fy",
+        "position" : 16,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21196335,
+        "width" : 544,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "8",
+          "sum" : "53",
+          "null" : 97,
+          "average" : "26.5",
+          "largest" : "45",
+          "top" : [ {
+            "count" : 20,
+            "item" : "45"
+          }, {
+            "count" : 19,
+            "item" : "8"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Board of Public Works" : "",
+            "LAPD" : "",
+            "City Administrative Officer" : "",
+            "Personnel " : "",
+            "Bureau of Engineering" : "",
+            "City Attorney" : "",
+            "Employee Relations Board" : "",
+            "Transportation" : "",
+            "Housing and Community Investment" : "",
+            "Library" : "",
+            "Recreation and Parks " : "",
+            "Neighborhood Empowerment" : "",
+            "Controller's Office" : "",
+            "El Pueblo" : "",
+            "Other" : "",
+            "Bureau of Sanitation" : "",
+            "LACERS" : "",
+            "Disability, Department on" : "",
+            "Cultural Affairs" : "",
+            "Information Technology" : "",
+            "Fire and Police Pensions" : "",
+            "General Services" : "",
+            "Emergency Management" : "",
+            "Council District 12" : "",
+            "Council District 13" : "",
+            "Council District 14" : "",
+            "Project Restore" : "",
+            "Council District 15" : "",
+            "Council District 10" : "",
+            "Council District 11" : "",
+            "Aging" : "",
+            "Bureau of Street Lighting" : "",
+            "City Clerk" : "",
+            "Bureau of Contract Administration" : "",
+            "Planning" : "",
+            "Harbor " : "",
+            "LAWA" : "",
+            "Public Accountability, The Office of" : "",
+            "Office of Finance" : "",
+            "Council District 03" : "",
+            "Council District 04" : "",
+            "Council District 01" : "",
+            "Council District 02" : "",
+            "Bureau of Street Services" : "",
+            "Zoo" : "",
+            "Council District 09" : "",
+            "Council District 07" : "",
+            "Council District 08" : "",
+            "Council District 05" : "",
+            "Council District 06" : "",
+            "LAFD" : "",
+            "Economic and Workforce Development" : "",
+            "Ethics Commission" : "",
+            "Animal Services" : "",
+            "Mayor's Office" : "",
+            "Housing Authority" : "",
+            "Building and Safety" : "",
+            "LADWP" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "s8gh-rehm",
+        "displayName" : "Animal Services OpenData",
+        "profileImageUrlLarge" : "/images/profile/6612/6978/LAAS_logo_large_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/6612/6978/LAAS_logo_large_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/6612/6978/LAAS_logo_large_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Animal Services OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "s8gh-rehm",
+        "displayName" : "Animal Services OpenData",
+        "profileImageUrlLarge" : "/images/profile/6612/6978/LAAS_logo_large_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/6612/6978/LAAS_logo_large_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/6612/6978/LAAS_logo_large_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Animal Services OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "animal services", "performance", "metrics" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "131C0AB3-3752-41D3-94E0-71AAE50607A9", 1, 1412698592, "865572", 1412698592, "865572", "{\n  \"invalidCells\" : {\n    \"21196332\" : \"N/A\",\n    \"21196330\" : \"N/A\",\n    \"21196328\" : \"N/A\",\n    \"21196334\" : \"N/A\"\n  }\n}", "2010-06-30T00:00:00", "Jun-10", "Q4 FY10", "FY 2010", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 2, "ADB803F0-F68B-49BE-9D63-125971CFC81B", 2, 1412698592, "865572", 1412698592, "865572", "{\n  \"invalidCells\" : {\n    \"21196332\" : \"N/A\",\n    \"21196334\" : \"N/A\"\n  }\n}", "2011-06-30T00:00:00", "Jun-11", "Q4 FY11", "FY 2011", null, "121817", null, null, "57.06", null, null, null, null, null, null, null ]
+, [ 3, "074D6555-0A7C-497A-8724-B3CEE0C8A8FD", 3, 1412698592, "865572", 1412698592, "865572", "{\n  \"invalidCells\" : {\n    \"21196332\" : \"N/A\",\n    \"21196334\" : \"N/A\"\n  }\n}", "2012-06-30T00:00:00", "Jun-12", "Q4 FY12", "FY 2012", null, "123060", null, null, "57.80", null, null, null, null, null, null, null ]
+, [ 4, "48C6B398-BCDF-4940-90D0-789145A2896B", 4, 1412698592, "865572", 1412698592, "865572", "{\n}", "2012-07-31T00:00:00", "Jul-12", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 5, "5B035BC7-5640-4F46-8744-0A8B99341279", 5, 1412698592, "865572", 1412698592, "865572", "{\n}", "2012-08-31T00:00:00", "Aug-12", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 6, "5D3EB19F-F521-4A18-9172-094EF0A9E3EE", 6, 1412698592, "865572", 1412698592, "865572", "{\n}", "2012-09-30T00:00:00", "Sep-12", "Q1 FY13", null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 7, "9B807295-C57F-4744-8A75-C728549BE7DD", 7, 1412698592, "865572", 1412698592, "865572", "{\n}", "2012-10-31T00:00:00", "Oct-12", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 8, "188E0910-AF40-4D2E-A888-9457AC74257C", 8, 1412698592, "865572", 1412698592, "865572", "{\n}", "2012-11-30T00:00:00", "Nov-12", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 9, "8644B654-E0D5-4DF7-9B40-A9DEB444DB1B", 9, 1412698592, "865572", 1412698592, "865572", "{\n}", "2012-12-31T00:00:00", "Dec-12", "Q2 FY13", null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 10, "94B05AD2-384F-4AF3-B357-33D5F8D1071D", 10, 1412698592, "865572", 1412698592, "865572", "{\n}", "2013-01-31T00:00:00", "Jan-13", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 11, "E719D020-98E8-4DCA-B0DE-9EDFBDC26B9D", 11, 1412698592, "865572", 1412698592, "865572", "{\n}", "2013-02-28T00:00:00", "Feb-13", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 12, "665859D6-C660-4EA9-B603-D0BB367F6529", 12, 1412698592, "865572", 1412698592, "865572", "{\n}", "2013-03-31T00:00:00", "Mar-13", "Q3 FY13", null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 13, "22E098E4-72FF-4DA0-9133-A8F196CFD372", 13, 1412698592, "865572", 1412698592, "865572", "{\n}", "2013-04-30T00:00:00", "Apr-13", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 14, "D04552B5-EDBE-40C9-A255-2635068E4F17", 14, 1412698592, "865572", 1412698592, "865572", "{\n}", "2013-05-31T00:00:00", "May-13", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 15, "B9F6FBE6-AE0C-43DF-A7A9-F921B0A4FD26", 15, 1412698592, "865572", 1412698592, "865572", "{\n  \"invalidCells\" : {\n    \"21196332\" : \"N/A\",\n    \"21196334\" : \"N/A\"\n  }\n}", "2013-06-30T00:00:00", "Jun-13", "Q4 FY13", "FY 2013", null, "126234", null, null, "63.53", null, null, null, null, null, null, null ]
+, [ 16, "CAFAF121-E257-4C32-8F45-872768DE2402", 16, 1412698592, "865572", 1412698592, "865572", "{\n}", "2013-07-31T00:00:00", "Jul-13", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 17, "22E57C97-08F5-4E01-ACF3-7590F2DD46AE", 17, 1412698592, "865572", 1412698592, "865572", "{\n}", "2013-08-31T00:00:00", "Aug-13", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 18, "F8FA7C84-160B-45F3-B99B-CFAB20438BD6", 18, 1412698592, "865572", 1412698592, "865572", "{\n}", "2013-09-30T00:00:00", "Sep-13", "Q1 FY14", null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 19, "CE24F8D7-0E36-4B05-8BEA-AEF8CFC05E51", 19, 1412698592, "865572", 1412698592, "865572", "{\n}", "2013-10-31T00:00:00", "Oct-13", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 20, "24CCAEED-C2B9-4C65-A49C-65F92E893B02", 20, 1412698592, "865572", 1412698592, "865572", "{\n}", "2013-11-30T00:00:00", "Nov-13", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 21, "5E17B250-7598-4BD9-B8A2-E58F3543E830", 21, 1412698592, "865572", 1412698592, "865572", "{\n}", "2013-12-31T00:00:00", "Dec-13", "Q2 FY14", null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 22, "79C21A56-76D4-49FD-8732-CAED8D28BEDC", 22, 1412698592, "865572", 1412698592, "865572", "{\n}", "2014-01-31T00:00:00", "Jan-14", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 23, "B579CC26-5DF5-4995-A245-2E0550744376", 23, 1412698592, "865572", 1412698592, "865572", "{\n}", "2014-02-28T00:00:00", "Feb-14", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 24, "C110454D-9EF0-47E4-9AB6-03F317EEDD49", 24, 1412698592, "865572", 1412698592, "865572", "{\n}", "2014-03-31T00:00:00", "Mar-14", "Q3 FY14", null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 25, "0A066662-4001-4F14-A9F8-D0244D430B6B", 25, 1412698592, "865572", 1412698592, "865572", "{\n}", "2014-04-30T00:00:00", "Apr-14", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 26, "55A0A202-D605-4356-A8D9-F40790ED0566", 26, 1412698592, "865572", 1412698592, "865572", "{\n}", "2014-05-31T00:00:00", "May-14", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 27, "C91440A2-982C-44D5-9437-2C5C4B0A385D", 27, 1412698592, "865572", 1412698592, "865572", "{\n}", "2014-06-30T00:00:00", "Jun-14", "Q4 FY14", "FY 2014", null, "123008", "131540", null, "70.27", "73.00", null, "1", "15", null, "1", "45" ]
+, [ 28, "A94F548B-7DE7-4314-AC94-6D1CB15F24A7", 28, 1412698592, "865572", 1412779430, "881225", "{\n}", "2014-07-31T00:00:00", "Jul-14", null, null, "10442", null, null, "61.79", null, null, "1", null, null, "1", null, null ]
+, [ 29, "ECC328FB-A05A-4337-96B1-58D9DE360CFC", 29, 1412698592, "865572", 1412779428, "881225", "{\n}", "2014-08-31T00:00:00", "Aug-14", null, null, "8712", null, null, "69.83", null, null, "1", null, null, "1", null, null ]
+, [ 30, "F01F026A-F1AD-4A40-B17E-CE2CCFA17554", 30, 1412698592, "865572", 1412698592, "865572", "{\n}", "2014-09-30T00:00:00", "Sep-14", "Q1 FY15", null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 31, "ED0E0CAA-F572-41A7-A4A4-24B1F14E0A69", 31, 1412698592, "865572", 1412698592, "865572", "{\n}", "2014-10-31T00:00:00", "Oct-14", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 32, "1A400DC8-EAA0-4E9B-B1F9-7A5332BD0E59", 32, 1412698592, "865572", 1412698592, "865572", "{\n}", "2014-11-30T00:00:00", "Nov-14", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 33, "E0C7D469-5A27-40D7-B172-49DACD9DE479", 33, 1412698592, "865572", 1412698592, "865572", "{\n}", "2014-12-31T00:00:00", "Dec-14", "Q2 FY15", null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 34, "3E52835C-3BE0-4426-B6EA-C2FE8FA46AFF", 34, 1412698592, "865572", 1412698592, "865572", "{\n}", "2015-01-31T00:00:00", "Jan-15", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 35, "C1D39D5C-CABD-4097-AB3B-8B7E0BF96DFC", 35, 1412698592, "865572", 1412698592, "865572", "{\n}", "2015-02-28T00:00:00", "Feb-15", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 36, "00307BC7-95B0-49DB-826B-72ECC8712722", 36, 1412698592, "865572", 1412698592, "865572", "{\n}", "2015-03-31T00:00:00", "Mar-15", "Q3 FY15", null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 37, "B0A5DCD8-0623-488D-90A7-1DFBCEAD0DED", 37, 1412698592, "865572", 1412698592, "865572", "{\n}", "2015-04-30T00:00:00", "Apr-15", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 38, "7F29C754-8814-459C-8BC4-A7D1A74A8830", 38, 1412698592, "865572", 1412698592, "865572", "{\n}", "2015-05-31T00:00:00", "May-15", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 39, "4E2BFCD5-C859-4B34-A473-A676F9EBA527", 39, 1412698592, "865572", 1412698592, "865572", "{\n}", "2015-06-30T00:00:00", "Jun-15", "Q4 FY15", "FY 2015", null, null, "137000", null, null, "75.00", null, null, "1", null, null, "8" ]
+, [ 40, "08F34391-34EC-4A30-8434-06BF3CB43FF9", 40, 1412698592, "865572", 1412698592, "865572", "{\n}", "2015-07-30T00:00:00", "Jul-15", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 41, "369439E9-7B21-4B4A-8B99-8677103ADE64", 41, 1412698592, "865572", 1412698592, "865572", "{\n}", "2015-08-30T00:00:00", "Aug-15", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 42, "C1FA05B7-FA07-49CB-AECE-CFCC5BE1ECFA", 42, 1412698592, "865572", 1412698592, "865572", "{\n}", "2015-09-29T00:00:00", "Sep-15", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 43, "CFB828FA-F16A-48F0-8F62-2E1D2373A82A", 43, 1412698592, "865572", 1412698592, "865572", "{\n}", "2015-10-29T00:00:00", "Oct-15", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 44, "75713C15-8C22-48BF-81FC-E985998E1080", 44, 1412698592, "865572", 1412698592, "865572", "{\n}", "2015-11-29T00:00:00", "Nov-15", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 45, "4A4E729F-E683-47D2-8C35-74F7295DE07A", 45, 1412698592, "865572", 1412698592, "865572", "{\n}", "2015-12-29T00:00:00", "Dec-15", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 46, "36D06C89-F045-4A29-AA84-3050F3F3872E", 46, 1412698592, "865572", 1412698592, "865572", "{\n}", "2016-01-28T00:00:00", "Jan-16", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 47, "7C5D027A-07E1-4A34-BD95-117D573A19C6", 47, 1412698592, "865572", 1412698592, "865572", "{\n}", "2016-02-28T00:00:00", "Feb-16", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 48, "6CCE5608-3B2B-49A6-926E-E61813263454", 48, 1412698592, "865572", 1412698592, "865572", "{\n}", "2016-03-29T00:00:00", "Mar-16", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 49, "F6DD1E2C-94F4-45DB-9E05-2BD223376C9A", 49, 1412698592, "865572", 1412698592, "865572", "{\n}", "2016-04-28T00:00:00", "Apr-16", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 50, "1217A11F-F0CF-47EA-9FE5-793A3AC4CB0E", 50, 1412698592, "865572", 1412698592, "865572", "{\n}", "2016-05-29T00:00:00", "May-16", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 51, "B28EB09D-12ED-4DFE-833C-C7DABA9E7BD9", 51, 1412698592, "865572", 1412698592, "865572", "{\n}", "2016-06-28T00:00:00", "Jun-16", null, "FY 2016", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 52, "D952EFB3-66C1-4572-AC11-08142F2A13C1", 52, 1412698592, "865572", 1412698592, "865572", "{\n}", "2016-07-29T00:00:00", "Jul-16", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 53, "7FFCF95B-A786-475A-AD55-98301897C7C7", 53, 1412698592, "865572", 1412698592, "865572", "{\n}", "2016-08-28T00:00:00", "Aug-16", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 54, "D6D2F842-0790-424C-9B7C-BA43B86B9B53", 54, 1412698592, "865572", 1412698592, "865572", "{\n}", "2016-09-27T00:00:00", "Sep-16", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 55, "A67D519F-C653-45F0-9C9D-268C11126D8F", 55, 1412698592, "865572", 1412698592, "865572", "{\n}", "2016-10-28T00:00:00", "Oct-16", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 56, "6565B178-DCEC-49F1-8903-7B8DFF1188AD", 56, 1412698592, "865572", 1412698592, "865572", "{\n}", "2016-11-27T00:00:00", "Nov-16", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 57, "3881C60C-237F-4390-9567-9F35B01DB2AA", 57, 1412698592, "865572", 1412698592, "865572", "{\n}", "2016-12-27T00:00:00", "Dec-16", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 58, "5FA4A87F-53DC-4669-AD2F-7432E98ED897", 58, 1412698592, "865572", 1412698592, "865572", "{\n}", "2017-01-27T00:00:00", "Jan-17", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 59, "90246AB8-0154-433B-9EAB-956B67FFF95F", 59, 1412698592, "865572", 1412698592, "865572", "{\n}", "2017-02-26T00:00:00", "Feb-17", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 60, "0EE20EF5-ED88-4326-883D-3BD5BF7314C1", 60, 1412698592, "865572", 1412698592, "865572", "{\n}", "2017-03-28T00:00:00", "Mar-17", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 61, "1E29800A-05DB-4B4D-93A4-82E242DC08AF", 61, 1412698592, "865572", 1412698592, "865572", "{\n}", "2017-04-28T00:00:00", "Apr-17", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 62, "0C299FF3-CE5C-4C4E-AABF-80B054C9627C", 62, 1412698592, "865572", 1412698592, "865572", "{\n}", "2017-05-28T00:00:00", "May-17", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 63, "E7362332-00A0-4812-9073-AA44B53EF5CD", 63, 1412698592, "865572", 1412698592, "865572", "{\n}", "2017-06-28T00:00:00", "Jun-17", null, "FY 2017", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 64, "43A43E68-0C66-4F0C-AD88-B66EE59342F3", 64, 1412698592, "865572", 1412698592, "865572", "{\n}", "2017-07-28T00:00:00", "Jul-17", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 65, "CC01DCD9-D7E6-4E98-B6BB-0BBC648E80A6", 65, 1412698592, "865572", 1412698592, "865572", "{\n}", "2017-08-27T00:00:00", "Aug-17", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 66, "D6E8C665-2DEC-4A0F-803B-C6B7F88D8544", 66, 1412698592, "865572", 1412698592, "865572", "{\n}", "2017-09-27T00:00:00", "Sep-17", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 67, "2F091C0B-ABEF-4B58-AB5B-BD38E569F9B7", 67, 1412698592, "865572", 1412698592, "865572", "{\n}", "2017-10-27T00:00:00", "Oct-17", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 68, "9E19F3F4-3E31-4444-ADFC-DE6474778153", 68, 1412698592, "865572", 1412698592, "865572", "{\n}", "2017-11-26T00:00:00", "Nov-17", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 69, "6DC03926-3288-4173-9133-720528BF1F30", 69, 1412698592, "865572", 1412698592, "865572", "{\n}", "2017-12-27T00:00:00", "Dec-17", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 70, "F7FB6A85-61B1-4BF0-9D63-57899BC41B26", 70, 1412698592, "865572", 1412698592, "865572", "{\n}", "2018-01-26T00:00:00", "Jan-18", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 71, "AEA74027-9A29-473F-8CAE-41FE7F5754B7", 71, 1412698592, "865572", 1412698592, "865572", "{\n}", "2018-02-25T00:00:00", "Feb-18", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 72, "1C151192-E1B0-4E97-95D2-7FEA5C366CD3", 72, 1412698592, "865572", 1412698592, "865572", "{\n}", "2018-03-28T00:00:00", "Mar-18", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 73, "16063F44-1567-401B-B75D-9A606266D91D", 73, 1412698592, "865572", 1412698592, "865572", "{\n}", "2018-04-27T00:00:00", "Apr-18", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 74, "8C4E7D5C-9DB2-4A45-9C90-CE8E963E9074", 74, 1412698592, "865572", 1412698592, "865572", "{\n}", "2018-05-28T00:00:00", "May-18", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 75, "67179C0B-1502-4F5C-871E-D1046D914743", 75, 1412698592, "865572", 1412698592, "865572", "{\n}", "2018-06-27T00:00:00", "Jun-18", null, "FY 2018", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 76, "B9E6B94E-D7C4-4780-B84E-26CEA009EA53", 76, 1412698592, "865572", 1412698592, "865572", "{\n}", "2018-07-27T00:00:00", "Jul-18", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 77, "A3BB71CE-EE96-4061-9C58-1B6F4757A019", 77, 1412698592, "865572", 1412698592, "865572", "{\n}", "2018-08-27T00:00:00", "Aug-18", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 78, "F5FA7F7B-A70B-4A92-B68A-4D082DDFBB3E", 78, 1412698592, "865572", 1412698592, "865572", "{\n}", "2018-09-26T00:00:00", "Sep-18", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 79, "F37CCC45-4AFB-4CBE-8E5E-18A138149639", 79, 1412698592, "865572", 1412698592, "865572", "{\n}", "2018-10-26T00:00:00", "Oct-18", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 80, "9A92ABF8-E8DA-45C3-A917-BDBAFD8DE3A9", 80, 1412698592, "865572", 1412698592, "865572", "{\n}", "2018-11-26T00:00:00", "Nov-18", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 81, "E70D697B-D7A7-43B4-8B5B-B56B90831F6A", 81, 1412698592, "865572", 1412698592, "865572", "{\n}", "2018-12-26T00:00:00", "Dec-18", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 82, "30CFC64C-A9E3-4ADB-99D7-1DFAF07B3AA7", 82, 1412698592, "865572", 1412698592, "865572", "{\n}", "2019-01-25T00:00:00", "Jan-19", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 83, "98C47BDE-37DE-4A17-88C3-25DFE33B65BF", 83, 1412698592, "865572", 1412698592, "865572", "{\n}", "2019-02-25T00:00:00", "Feb-19", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 84, "0ACF5FDB-832C-4B6C-A76A-0859782DD512", 84, 1412698592, "865572", 1412698592, "865572", "{\n}", "2019-03-27T00:00:00", "Mar-19", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 85, "FECEBA37-046C-4472-A27A-508E9D3C9A74", 85, 1412698592, "865572", 1412698592, "865572", "{\n}", "2019-04-27T00:00:00", "Apr-19", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 86, "EB55A268-B602-494E-8FC3-9235AB962442", 86, 1412698592, "865572", 1412698592, "865572", "{\n}", "2019-05-27T00:00:00", "May-19", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 87, "8664EE38-D69E-49B3-B88C-8DC57EE8DA49", 87, 1412698592, "865572", 1412698592, "865572", "{\n}", "2019-06-26T00:00:00", "Jun-19", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 88, "1EAEDD36-897D-4928-823F-F06594A6D5E3", 88, 1412698592, "865572", 1412698592, "865572", "{\n}", "2019-07-27T00:00:00", "Jul-19", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 89, "18B1B043-C44A-4A6E-810E-7040E963A1AD", 89, 1412698592, "865572", 1412698592, "865572", "{\n}", "2019-08-26T00:00:00", "Aug-19", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 90, "87556A5F-7A11-4655-83B4-62774FCB255A", 90, 1412698592, "865572", 1412698592, "865572", "{\n}", "2019-09-25T00:00:00", "Sep-19", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 91, "933BB575-FE68-4E65-A08E-8C70420B5F21", 91, 1412698592, "865572", 1412698592, "865572", "{\n}", "2019-10-26T00:00:00", "Oct-19", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 92, "A20EC981-53BE-4233-B6BE-7D6AC1DD4AF7", 92, 1412698592, "865572", 1412698592, "865572", "{\n}", "2019-11-25T00:00:00", "Nov-19", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 93, "BDA12C39-5733-4A64-B1A3-1344D9BE249F", 93, 1412698592, "865572", 1412698592, "865572", "{\n}", "2019-12-25T00:00:00", "Dec-19", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 94, "08DDC0A7-3011-402A-9EA6-AD397A31C1BD", 94, 1412698592, "865572", 1412698592, "865572", "{\n}", "2020-01-25T00:00:00", "Jan-20", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 95, "9DE61E1B-219D-484A-AED0-18697B706A3D", 95, 1412698592, "865572", 1412698592, "865572", "{\n}", "2020-02-24T00:00:00", "Feb-20", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 96, "6BB352C6-950F-41ED-9995-1B9F9D61CB65", 96, 1412698592, "865572", 1412698592, "865572", "{\n}", "2020-03-26T00:00:00", "Mar-20", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 97, "798C5C2B-C484-46E1-9FEE-35D6FD11F709", 97, 1412698592, "865572", 1412698592, "865572", "{\n}", "2020-04-25T00:00:00", "Apr-20", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 98, "310A46DB-9266-48F5-A28F-B73AB8107E6D", 98, 1412698592, "865572", 1412698592, "865572", "{\n}", "2020-05-25T00:00:00", "May-20", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 99, "AD5C408F-2340-43E3-A47B-5E09D973308F", 99, 1412698592, "865572", 1412698592, "865572", "{\n}", "2020-06-25T00:00:00", "Jun-20", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+ ]
+}

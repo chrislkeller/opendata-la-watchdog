@@ -1,0 +1,897 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "i6yd-dz6m",
+      "name" : "El Pueblo - Performance Metrics",
+      "attribution" : "El Pueblo",
+      "averageRating" : 0,
+      "createdAt" : 1409075223,
+      "description" : "This dataset contains metrics that measure the operational performance of the El Pueblo. These metrics are used on a regular basis by the department and the Mayor to evaluate progress and inform decision making.  Performance management forms the foundation of a data-driven culture of innovation and excellence in the City of Los Angeles.",
+      "displayType" : "table",
+      "downloadCount" : 4,
+      "indexUpdatedAt" : 1414613958,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 9063656,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1412788439,
+      "publicationGroup" : 1697123,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1412788383,
+      "rowsUpdatedBy" : "tyhz-nfmm",
+      "tableId" : 1773256,
+      "totalTimesRated" : 0,
+      "viewCount" : 42,
+      "viewLastModified" : 1412788439,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 170297526,
+        "name" : "Date Value",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date_value",
+        "position" : 1,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 21621679,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 28,
+          "smallest" : "2010-06-30T00:00:00",
+          "null" : 0,
+          "largest" : "2015-06-30T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2010-06-30T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2011-06-30T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2012-06-30T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2013-06-30T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2013-07-31T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2013-08-31T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2013-09-30T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2013-10-31T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2013-11-30T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2013-12-31T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2014-01-31T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2014-02-28T00:00:00"
+          }, {
+            "count" : 8,
+            "item" : "2014-03-31T00:00:00"
+          }, {
+            "count" : 7,
+            "item" : "2014-04-30T00:00:00"
+          }, {
+            "count" : 6,
+            "item" : "2014-05-31T00:00:00"
+          }, {
+            "count" : 5,
+            "item" : "2014-06-30T00:00:00"
+          }, {
+            "count" : 4,
+            "item" : "2014-07-31T00:00:00"
+          }, {
+            "count" : 3,
+            "item" : "2014-08-31T00:00:00"
+          }, {
+            "count" : 2,
+            "item" : "2014-09-30T00:00:00"
+          }, {
+            "count" : 1,
+            "item" : "2014-10-31T00:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170297527,
+        "name" : "Month-Year",
+        "dataTypeName" : "text",
+        "fieldName" : "month_year",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21621682,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 28,
+          "smallest" : "Apr-14",
+          "null" : 0,
+          "largest" : "Sep-14",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Jun-10"
+          }, {
+            "count" : 19,
+            "item" : "Jun-11"
+          }, {
+            "count" : 18,
+            "item" : "Jun-12"
+          }, {
+            "count" : 17,
+            "item" : "Jun-13"
+          }, {
+            "count" : 16,
+            "item" : "Jul-13"
+          }, {
+            "count" : 15,
+            "item" : "Aug-13"
+          }, {
+            "count" : 14,
+            "item" : "Sep-13"
+          }, {
+            "count" : 13,
+            "item" : "Oct-13"
+          }, {
+            "count" : 12,
+            "item" : "Nov-13"
+          }, {
+            "count" : 11,
+            "item" : "Dec-13"
+          }, {
+            "count" : 10,
+            "item" : "Jan-14"
+          }, {
+            "count" : 9,
+            "item" : "Feb-14"
+          }, {
+            "count" : 8,
+            "item" : "Mar-14"
+          }, {
+            "count" : 7,
+            "item" : "Apr-14"
+          }, {
+            "count" : 6,
+            "item" : "May-14"
+          }, {
+            "count" : 5,
+            "item" : "Jun-14"
+          }, {
+            "count" : 4,
+            "item" : "Jul-14"
+          }, {
+            "count" : 3,
+            "item" : "Aug-14"
+          }, {
+            "count" : 2,
+            "item" : "Sep-14"
+          }, {
+            "count" : 1,
+            "item" : "Oct-14"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170297528,
+        "name" : "Quarter-FY",
+        "dataTypeName" : "text",
+        "fieldName" : "quarter_fy",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21621684,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 12,
+          "smallest" : "Q1 FY14",
+          "null" : 16,
+          "largest" : "Q4 FY15",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Q4 FY10"
+          }, {
+            "count" : 19,
+            "item" : "Q4 FY11"
+          }, {
+            "count" : 18,
+            "item" : "Q4 FY12"
+          }, {
+            "count" : 17,
+            "item" : "Q4 FY13"
+          }, {
+            "count" : 16,
+            "item" : "Q1 FY14"
+          }, {
+            "count" : 15,
+            "item" : "Q2 FY14"
+          }, {
+            "count" : 14,
+            "item" : "Q3 FY14"
+          }, {
+            "count" : 13,
+            "item" : "Q4 FY14"
+          }, {
+            "count" : 12,
+            "item" : "Q1 FY15"
+          }, {
+            "count" : 11,
+            "item" : "Q2 FY15"
+          }, {
+            "count" : 10,
+            "item" : "Q3 FY15"
+          }, {
+            "count" : 9,
+            "item" : "Q4 FY15"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170297529,
+        "name" : "Annual-FY",
+        "dataTypeName" : "text",
+        "fieldName" : "annual_fy",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21621686,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "FY 2010",
+          "null" : 22,
+          "largest" : "FY 2015",
+          "top" : [ {
+            "count" : 20,
+            "item" : "FY 2010"
+          }, {
+            "count" : 19,
+            "item" : "FY 2011"
+          }, {
+            "count" : 18,
+            "item" : "FY 2012"
+          }, {
+            "count" : 17,
+            "item" : "FY 2013"
+          }, {
+            "count" : 16,
+            "item" : "FY 2014"
+          }, {
+            "count" : 15,
+            "item" : "FY 2015"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170297530,
+        "name" : "# of tourists who took tours at the El Pueblo Monument (Annually FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "of_tours_at_the_el_pueblo_monument_annually_fy",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21621688,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "10288",
+          "sum" : "21584",
+          "null" : 26,
+          "average" : "10792",
+          "largest" : "11296",
+          "top" : [ {
+            "count" : 20,
+            "item" : "11296"
+          }, {
+            "count" : 19,
+            "item" : "10288"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "false"
+        }
+      }, {
+        "id" : 170297531,
+        "name" : "PROJECTED: # of tourists who will take tours at the El Pueblo Monument (Annually FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "projected_of_tours_at_the_el_pueblo_monument_annually_fy",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21621692,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "10000",
+          "sum" : "20288",
+          "null" : 26,
+          "average" : "10144",
+          "largest" : "10288",
+          "top" : [ {
+            "count" : 20,
+            "item" : "10288"
+          }, {
+            "count" : 19,
+            "item" : "10000"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "false"
+        }
+      }, {
+        "id" : 170297532,
+        "name" : "Total # tourists who took tours of El Pueblo tours (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "total_of_el_pueblo_tours_monthly",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21621697,
+        "width" : 532,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "338",
+          "sum" : "8910",
+          "null" : 19,
+          "average" : "990",
+          "largest" : "2129",
+          "top" : [ {
+            "count" : 20,
+            "item" : "754"
+          }, {
+            "count" : 19,
+            "item" : "856"
+          }, {
+            "count" : 18,
+            "item" : "928"
+          }, {
+            "count" : 17,
+            "item" : "982"
+          }, {
+            "count" : 16,
+            "item" : "2129"
+          }, {
+            "count" : 15,
+            "item" : "1181"
+          }, {
+            "count" : 14,
+            "item" : "1185"
+          }, {
+            "count" : 13,
+            "item" : "557"
+          }, {
+            "count" : 12,
+            "item" : "338"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "false"
+        }
+      }, {
+        "id" : 170297533,
+        "name" : "TARGET: Total # of El Pueblo tours (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "target_total_of_el_pueblo_tours_monthly",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21621700,
+        "width" : 628,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "600",
+          "sum" : "2400",
+          "null" : 24,
+          "average" : "600",
+          "largest" : "600",
+          "top" : [ {
+            "count" : 20,
+            "item" : "600"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170297534,
+        "name" : "total # of museum visits (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "total_of_museum_visits_monthly",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21621702,
+        "width" : 508,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "33568",
+          "sum" : "458094",
+          "null" : 19,
+          "average" : "50899.33333333333",
+          "largest" : "70355",
+          "top" : [ {
+            "count" : 20,
+            "item" : "42612"
+          }, {
+            "count" : 19,
+            "item" : "33568"
+          }, {
+            "count" : 18,
+            "item" : "51177"
+          }, {
+            "count" : 17,
+            "item" : "45033"
+          }, {
+            "count" : 16,
+            "item" : "70355"
+          }, {
+            "count" : 15,
+            "item" : "51138"
+          }, {
+            "count" : 14,
+            "item" : "60535"
+          }, {
+            "count" : 13,
+            "item" : "59007"
+          }, {
+            "count" : 12,
+            "item" : "44669"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170297535,
+        "name" : "TARGET: # of museum visits (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "target_of_museum_visits_monthly",
+        "position" : 10,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21621703,
+        "width" : 532,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "600",
+          "sum" : "2400",
+          "null" : 24,
+          "average" : "600",
+          "largest" : "600",
+          "top" : [ {
+            "count" : 20,
+            "item" : "600"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170297536,
+        "name" : "# of cultural, traditional and informational events (Annually FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "of_cultural_traditional_and_informational_events_annually_fy",
+        "position" : 11,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21621704,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 3,
+          "smallest" : "20",
+          "sum" : "65",
+          "null" : 25,
+          "average" : "21.66666666666667",
+          "largest" : "25",
+          "top" : [ {
+            "count" : 20,
+            "item" : "20"
+          }, {
+            "count" : 19,
+            "item" : "25"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170297537,
+        "name" : "PROJECTED: # of cultural, traditional and informational events (Annually FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "projected_of_cultural_traditional_and_informational_events_annually_fy",
+        "position" : 12,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21621705,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "25",
+          "sum" : "50",
+          "null" : 26,
+          "average" : "25",
+          "largest" : "25",
+          "top" : [ {
+            "count" : 20,
+            "item" : "25"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170297538,
+        "name" : "# of cultural, traditional and informational events (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "of_cultural_traditional_and_informational_events_monthly",
+        "position" : 13,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21621706,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "6",
+          "sum" : "82",
+          "null" : 19,
+          "average" : "9.111111111111111",
+          "largest" : "12",
+          "top" : [ {
+            "count" : 20,
+            "item" : "6"
+          }, {
+            "count" : 19,
+            "item" : "8"
+          }, {
+            "count" : 18,
+            "item" : "10"
+          }, {
+            "count" : 17,
+            "item" : "12"
+          }, {
+            "count" : 16,
+            "item" : "9"
+          }, {
+            "count" : 15,
+            "item" : "11"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170297539,
+        "name" : "# of cultural, traditional and informational event attendees (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "of_cultural_traditional_and_informational_event_attendees_monthly",
+        "position" : 14,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21621707,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "1266",
+          "sum" : "106486",
+          "null" : 19,
+          "average" : "11831.77777777778",
+          "largest" : "57750",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1266"
+          }, {
+            "count" : 19,
+            "item" : "2727"
+          }, {
+            "count" : 18,
+            "item" : "5646"
+          }, {
+            "count" : 17,
+            "item" : "7900"
+          }, {
+            "count" : 16,
+            "item" : "14272"
+          }, {
+            "count" : 15,
+            "item" : "3765"
+          }, {
+            "count" : 14,
+            "item" : "4035"
+          }, {
+            "count" : 13,
+            "item" : "9125"
+          }, {
+            "count" : 12,
+            "item" : "57750"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170297540,
+        "name" : "# of Work Orders Completed (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "of_work_orders_completed_annually_fy",
+        "position" : 15,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21621708,
+        "width" : 580,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "19",
+          "sum" : "684",
+          "null" : 19,
+          "average" : "76",
+          "largest" : "420",
+          "top" : [ {
+            "count" : 20,
+            "item" : "420"
+          }, {
+            "count" : 19,
+            "item" : "35"
+          }, {
+            "count" : 18,
+            "item" : "38"
+          }, {
+            "count" : 17,
+            "item" : "42"
+          }, {
+            "count" : 16,
+            "item" : "24"
+          }, {
+            "count" : 15,
+            "item" : "44"
+          }, {
+            "count" : 14,
+            "item" : "31"
+          }, {
+            "count" : 13,
+            "item" : "19"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "false"
+        }
+      }, {
+        "id" : 170297541,
+        "name" : "PROJECTED: # of Work Orders Completed (Annually FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "projected_of_work_orders_completed_annually_fy",
+        "position" : 16,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21621709,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "301",
+          "sum" : "651",
+          "null" : 26,
+          "average" : "325.5",
+          "largest" : "350",
+          "top" : [ {
+            "count" : 20,
+            "item" : "301"
+          }, {
+            "count" : 19,
+            "item" : "350"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Board of Public Works" : "",
+            "LAPD" : "",
+            "City Administrative Officer" : "",
+            "Personnel " : "",
+            "Bureau of Engineering" : "",
+            "City Attorney" : "",
+            "Employee Relations Board" : "",
+            "Transportation" : "",
+            "Housing and Community Investment" : "",
+            "Library" : "",
+            "Recreation and Parks " : "",
+            "Neighborhood Empowerment" : "",
+            "Controller's Office" : "",
+            "El Pueblo" : "",
+            "Other" : "",
+            "Bureau of Sanitation" : "",
+            "Disability, Department on" : "",
+            "LACERS" : "",
+            "Cultural Affairs" : "",
+            "Information Technology" : "",
+            "Fire and Police Pensions" : "",
+            "Emergency Management" : "",
+            "General Services" : "",
+            "Council District 12" : "",
+            "Council District 13" : "",
+            "Council District 14" : "",
+            "Project Restore" : "",
+            "Council District 15" : "",
+            "Council District 10" : "",
+            "Council District 11" : "",
+            "Aging" : "",
+            "Bureau of Street Lighting" : "",
+            "City Clerk" : "",
+            "Bureau of Contract Administration" : "",
+            "Planning" : "",
+            "Harbor " : "",
+            "LAWA" : "",
+            "Public Accountability, The Office of" : "",
+            "Office of Finance" : "",
+            "Council District 03" : "",
+            "Council District 04" : "",
+            "Council District 01" : "",
+            "Council District 02" : "",
+            "Bureau of Street Services" : "",
+            "Zoo" : "",
+            "Council District 09" : "",
+            "Council District 07" : "",
+            "Council District 08" : "",
+            "Council District 05" : "",
+            "Council District 06" : "",
+            "Economic and Workforce Development" : "",
+            "LAFD" : "",
+            "Animal Services" : "",
+            "Ethics Commission" : "",
+            "Mayor's Office" : "",
+            "Housing Authority" : "",
+            "Building and Safety" : "",
+            "LADWP" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "jsonQuery" : {
+          "order" : [ {
+            "ascending" : true,
+            "columnFieldName" : "date_value"
+          } ]
+        }
+      },
+      "owner" : {
+        "id" : "tyhz-nfmm",
+        "displayName" : "Miguel Sangalang",
+        "roleName" : "administrator",
+        "screenName" : "Miguel Sangalang",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+        "orderBys" : [ {
+          "ascending" : true,
+          "expression" : {
+            "columnId" : 170297526,
+            "type" : "column"
+          }
+        } ]
+      },
+      "rights" : [ "read" ],
+      "sortBys" : [ {
+        "id" : 0,
+        "viewColumnId" : 170297526,
+        "flags" : [ "asc" ]
+      } ],
+      "tableAuthor" : {
+        "id" : "tyhz-nfmm",
+        "displayName" : "Miguel Sangalang",
+        "roleName" : "administrator",
+        "screenName" : "Miguel Sangalang",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "tags" : [ "el pueblo" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "286148AB-35CD-4440-A022-3E35B4A79B1C", 1, 1412788358, "865572", 1412788358, "865572", "{\n}", "2010-06-30T00:00:00", "Jun-10", "Q4 FY10", "FY 2010", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 2, "8EC65C19-0BFC-4FE5-B2A2-01A692E36770", 2, 1412788358, "865572", 1412788358, "865572", "{\n}", "2011-06-30T00:00:00", "Jun-11", "Q4 FY11", "FY 2011", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 3, "2985FC81-1731-41C4-90E2-C39D241D4316", 3, 1412788358, "865572", 1412788358, "865572", "{\n}", "2012-06-30T00:00:00", "Jun-12", "Q4 FY12", "FY 2012", null, null, null, null, null, null, "20", null, null, null, null, null ]
+, [ 4, "F43379AF-317F-41B4-967E-A0FF24939D25", 4, 1412788358, "865572", 1412788358, "865572", "{\n}", "2013-06-30T00:00:00", "Jun-13", "Q4 FY13", "FY 2013", "11296", null, null, null, null, null, "20", null, null, null, "420", null ]
+, [ 5, "036E90B3-48FD-40C2-85B2-4D875DC8CB90", 5, 1412788358, "865572", 1412788358, "865572", "{\n}", "2013-07-31T00:00:00", "Jul-13", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 6, "9668227B-522A-4805-911E-4EB4EF49AB63", 6, 1412788358, "865572", 1412788358, "865572", "{\n}", "2013-08-31T00:00:00", "Aug-13", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 7, "BF37BFEE-25C0-4C35-BDE0-6973E4CA62DB", 7, 1412788358, "865572", 1412788358, "865572", "{\n}", "2013-09-30T00:00:00", "Sep-13", "Q1 FY14", null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 8, "89E974D2-2A00-42B3-9557-493B1D33539A", 8, 1412788358, "865572", 1412788358, "865572", "{\n}", "2013-10-31T00:00:00", "Oct-13", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 9, "8CCAC878-A594-4F2D-8725-2A6083F70915", 9, 1412788358, "865572", 1412788358, "865572", "{\n}", "2013-11-30T00:00:00", "Nov-13", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 10, "820603DD-9832-45D2-AD23-403B02DE605F", 10, 1412788358, "865572", 1412788358, "865572", "{\n}", "2013-12-31T00:00:00", "Dec-13", "Q2 FY14", null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 11, "999B9DE2-8B17-4989-825D-6B0E0220BC4C", 11, 1412788358, "865572", 1412788358, "865572", "{\n}", "2014-01-31T00:00:00", "Jan-14", null, null, null, null, "754", null, "42612", null, null, null, "6", "1266", "35", null ]
+, [ 12, "C8171927-F8F6-45BB-A886-CCC9CC5CA4AA", 12, 1412788358, "865572", 1412788358, "865572", "{\n}", "2014-02-28T00:00:00", "Feb-14", null, null, null, null, "856", null, "33568", null, null, null, "8", "2727", "38", null ]
+, [ 13, "1A559BBF-0699-437A-8241-D2C8F72B870E", 13, 1412788358, "865572", 1412788358, "865572", "{\n}", "2014-03-31T00:00:00", "Mar-14", "Q3 FY14", null, null, null, "928", null, "51177", null, null, null, "6", "5646", "42", null ]
+, [ 14, "1512FCFC-DA75-4BDA-9059-4240AAC29C99", 14, 1412788358, "865572", 1412788358, "865572", "{\n}", "2014-04-30T00:00:00", "Apr-14", null, null, null, null, "982", null, "45033", null, null, null, "10", "7900", "24", null ]
+, [ 15, "C0D72C51-A322-4DCD-99D5-BA9F17414808", 15, 1412788358, "865572", 1412788358, "865572", "{\n}", "2014-05-31T00:00:00", "May-14", null, null, null, null, "2129", null, "70355", null, null, null, "10", "14272", "44", null ]
+, [ 16, "A5BEE9E9-7B14-4049-852D-DA73A9AF511E", 16, 1412788358, "865572", 1412788358, "865572", "{\n}", "2014-06-30T00:00:00", "Jun-14", "Q4 FY14", "FY 2014", "10288", "10288", "1181", "600", "51138", "600", "25", "25", "12", "3765", "31", "301" ]
+, [ 17, "024454E1-8126-47CB-9B0B-42231111E26A", 17, 1412788358, "865572", 1412788358, "865572", "{\n}", "2014-07-31T00:00:00", "Jul-14", null, null, null, null, "1185", "600", "60535", "600", null, null, "9", "4035", "31", null ]
+, [ 18, "887480C4-5DA1-4890-BB8C-3C5D24667E3F", 18, 1412788358, "865572", 1412788358, "865572", "{\n}", "2014-08-31T00:00:00", "Aug-14", null, null, null, null, "557", "600", "59007", "600", null, null, "10", "9125", "19", null ]
+, [ 19, "CAC960F7-F348-4E9F-9842-78FA943C4D2F", 19, 1412788358, "865572", 1412788358, "865572", "{\n}", "2014-09-30T00:00:00", "Sep-14", "Q1 FY15", null, null, null, "338", "600", "44669", "600", null, null, "11", "57750", null, null ]
+, [ 20, "A1287BC3-892B-4CCC-864F-54FA962D9F1B", 20, 1412788358, "865572", 1412788358, "865572", "{\n}", "2014-10-31T00:00:00", "Oct-14", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 21, "D4EEDDD7-9DAB-4399-9D25-6F4A91307CA9", 21, 1412788358, "865572", 1412788358, "865572", "{\n}", "2014-11-30T00:00:00", "Nov-14", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 22, "19295B7D-4F0D-497F-A36D-FB5769B50F58", 22, 1412788358, "865572", 1412788358, "865572", "{\n}", "2014-12-31T00:00:00", "Dec-14", "Q2 FY15", null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 23, "23E03EA3-EDA6-4ABA-BF58-F74A6DB482E0", 23, 1412788358, "865572", 1412788358, "865572", "{\n}", "2015-01-31T00:00:00", "Jan-15", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 24, "77B40A77-E0B0-49C0-8894-7A7CB09416C1", 24, 1412788358, "865572", 1412788358, "865572", "{\n}", "2015-02-28T00:00:00", "Feb-15", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 25, "A6E9F951-DF15-4498-9A4D-5207A6BD190F", 25, 1412788358, "865572", 1412788358, "865572", "{\n}", "2015-03-31T00:00:00", "Mar-15", "Q3 FY15", null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 26, "30EFAD51-5F31-4FA2-BFAF-F5C5958F4302", 26, 1412788358, "865572", 1412788358, "865572", "{\n}", "2015-04-30T00:00:00", "Apr-15", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 27, "ED93F724-B864-43DA-9F8F-18CB130E6E63", 27, 1412788358, "865572", 1412788358, "865572", "{\n}", "2015-05-31T00:00:00", "May-15", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 28, "C8076927-78A6-4A5B-ABB9-3AFAF02282D6", 28, 1412788358, "865572", 1412788358, "865572", "{\n}", "2015-06-30T00:00:00", "Jun-15", "Q4 FY15", "FY 2015", null, "10000", null, null, null, null, null, "25", null, null, null, "350" ]
+ ]
+}

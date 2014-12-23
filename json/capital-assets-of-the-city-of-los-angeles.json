@@ -1,0 +1,978 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "kmmx-wb4k",
+      "name" : "Capital Assets of the City of Los Angeles",
+      "attribution" : "Controller",
+      "attributionLink" : "http://controller.lacity.org/stellent/groups/ElectedOfficials/@CTR_Contributor/documents/Contributor_Web_Content/LACITYP_027750.pdf#page=424",
+      "averageRating" : 0,
+      "category" : "Liabilities and Assets",
+      "createdAt" : 1390695323,
+      "description" : "CAFR Pages 378-381.\r\n\r\n(1)\tIn fiscal year 2010, DWP took over possession, management and control over majority of the assets.\r\n(2)\tData changed to Department-owned generating units beginning fiscal year 2007.  The increase in generating units is due to renewables.\r\n(3)\tThe Airports operate LAX, ONT, VNY and PMD.  However, PMD is not currently certificated by the FAA.",
+      "displayType" : "table",
+      "downloadCount" : 64,
+      "indexUpdatedAt" : 1414613497,
+      "licenseId" : "PUBLIC_DOMAIN",
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 7442652,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1393555007,
+      "publicationGroup" : 1454156,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1393554965,
+      "rowsUpdatedBy" : "7c7a-resi",
+      "tableId" : 1492323,
+      "totalTimesRated" : 0,
+      "viewCount" : 132,
+      "viewLastModified" : 1412744547,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 135633301,
+        "name" : "Fiscal Year",
+        "dataTypeName" : "number",
+        "fieldName" : "fiscal_year",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17786865,
+        "width" : 85,
+        "cachedContents" : {
+          "non_null" : 550,
+          "smallest" : "2004",
+          "sum" : "1104675",
+          "null" : 0,
+          "average" : "2008.5",
+          "largest" : "2013",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2004"
+          }, {
+            "count" : 19,
+            "item" : "2005"
+          }, {
+            "count" : 18,
+            "item" : "2006"
+          }, {
+            "count" : 17,
+            "item" : "2007"
+          }, {
+            "count" : 16,
+            "item" : "2008"
+          }, {
+            "count" : 15,
+            "item" : "2009"
+          }, {
+            "count" : 14,
+            "item" : "2010"
+          }, {
+            "count" : 13,
+            "item" : "2011"
+          }, {
+            "count" : 12,
+            "item" : "2012"
+          }, {
+            "count" : 11,
+            "item" : "2013"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "true",
+          "align" : "right"
+        }
+      }, {
+        "id" : 135633302,
+        "name" : "Function/Program",
+        "dataTypeName" : "text",
+        "fieldName" : "function_program",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17786866,
+        "width" : 219,
+        "cachedContents" : {
+          "non_null" : 550,
+          "smallest" : "Airports",
+          "null" : 0,
+          "largest" : "Water ",
+          "top" : [ {
+            "count" : 20,
+            "item" : "General Government"
+          }, {
+            "count" : 19,
+            "item" : "Protection of Persons and Property"
+          }, {
+            "count" : 18,
+            "item" : "Public Works"
+          }, {
+            "count" : 17,
+            "item" : "Health and Sanitation"
+          }, {
+            "count" : 16,
+            "item" : "Transportation"
+          }, {
+            "count" : 15,
+            "item" : "Cultural and Recreational Services"
+          }, {
+            "count" : 14,
+            "item" : "Airports"
+          }, {
+            "count" : 13,
+            "item" : "Harbor"
+          }, {
+            "count" : 12,
+            "item" : "Power"
+          }, {
+            "count" : 11,
+            "item" : "Water "
+          }, {
+            "count" : 10,
+            "item" : "Wastewater"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 135633303,
+        "name" : "Asset",
+        "dataTypeName" : "text",
+        "fieldName" : "asset",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17786867,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 550,
+          "smallest" : "Acres of beach land",
+          "null" : 0,
+          "largest" : "Wedding sites",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Skate parks "
+          }, {
+            "count" : 19,
+            "item" : "Tennis courts"
+          }, {
+            "count" : 18,
+            "item" : "Therapeutic centers"
+          }, {
+            "count" : 17,
+            "item" : "Wedding sites"
+          }, {
+            "count" : 16,
+            "item" : "Number of airports"
+          }, {
+            "count" : 15,
+            "item" : "Number of major container terminals"
+          }, {
+            "count" : 14,
+            "item" : "Number of cargo terminals"
+          }, {
+            "count" : 13,
+            "item" : "Number of generating units(2)"
+          }, {
+            "count" : 12,
+            "item" : "Transmission lines (miles)"
+          }, {
+            "count" : 11,
+            "item" : "Overhead distribution lines (miles)"
+          }, {
+            "count" : 10,
+            "item" : "Underground distribution lines (miles)"
+          }, {
+            "count" : 9,
+            "item" : "Aqueduct (miles)"
+          }, {
+            "count" : 8,
+            "item" : "Number of storage reservoirs and tanks"
+          }, {
+            "count" : 7,
+            "item" : "Distribution pipe (miles)"
+          }, {
+            "count" : 6,
+            "item" : "Service connections"
+          }, {
+            "count" : 5,
+            "item" : "Sanitary sewers (miles)"
+          }, {
+            "count" : 4,
+            "item" : "Stormdrain pipe mainline (miles)"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 135633304,
+        "name" : "Amount",
+        "dataTypeName" : "number",
+        "fieldName" : "amount",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17786868,
+        "width" : 172,
+        "cachedContents" : {
+          "non_null" : 547,
+          "smallest" : "2",
+          "sum" : "9965706",
+          "null" : 3,
+          "average" : "18218.84095063985",
+          "largest" : "719154",
+          "top" : [ {
+            "count" : 20,
+            "item" : "6"
+          }, {
+            "count" : 19,
+            "item" : "3"
+          }, {
+            "count" : 18,
+            "item" : "7"
+          }, {
+            "count" : 17,
+            "item" : "9"
+          }, {
+            "count" : 16,
+            "item" : "12"
+          }, {
+            "count" : 15,
+            "item" : "6500"
+          }, {
+            "count" : 14,
+            "item" : "11"
+          }, {
+            "count" : 13,
+            "item" : "13"
+          }, {
+            "count" : 12,
+            "item" : "106"
+          }, {
+            "count" : 11,
+            "item" : "18"
+          }, {
+            "count" : 10,
+            "item" : "256"
+          }, {
+            "count" : 9,
+            "item" : "383"
+          }, {
+            "count" : 8,
+            "item" : "92"
+          }, {
+            "count" : 7,
+            "item" : "95"
+          }, {
+            "count" : 6,
+            "item" : "73"
+          }, {
+            "count" : 5,
+            "item" : "2"
+          }, {
+            "count" : 4,
+            "item" : "435"
+          }, {
+            "count" : 3,
+            "item" : "62"
+          }, {
+            "count" : 2,
+            "item" : "184"
+          }, {
+            "count" : 1,
+            "item" : "5"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Public Domain"
+      },
+      "metadata" : {
+        "custom_fields" : {
+          "Department" : {
+            "Division" : "GAAP",
+            "Department" : "Controller",
+            "System" : "CAFR"
+          },
+          "Update Information" : {
+            "Update Cycle" : "Annual"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "jsonQuery" : {
+          "order" : [ {
+            "ascending" : false,
+            "columnFieldName" : "fiscal_year"
+          } ]
+        },
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "7c7a-resi",
+        "displayName" : "Controller's Office",
+        "roleName" : "administrator",
+        "screenName" : "Controller's Office",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+        "orderBys" : [ {
+          "ascending" : false,
+          "expression" : {
+            "columnId" : 135633301,
+            "type" : "column"
+          }
+        } ]
+      },
+      "rights" : [ "read" ],
+      "sortBys" : [ {
+        "id" : 0,
+        "viewColumnId" : 135633301
+      } ],
+      "tableAuthor" : {
+        "id" : "7c7a-resi",
+        "displayName" : "Controller's Office",
+        "roleName" : "administrator",
+        "screenName" : "Controller's Office",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "tags" : [ "assets", "city of los angeles", "city of los angeles controller", "city of la", "city of la controller", "ron galperin", "comprehensive annual financial report", "cafr", "net position", "asset type", "asset type group", "activity type", "cafr statistical section" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 496, "0F25CC4F-E7A4-45CF-AD7A-629CD2636D7E", 496, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "General Government", "Fiber optic cabling (fiber miles)(1)", "150" ]
+, [ 550, "25C61281-0AB1-471B-A71B-3315D255C78D", 550, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Wastewater", "Stormdrain pipe mainline (miles)", "1200" ]
+, [ 549, "D42847E3-096B-436D-9EED-6025E99965C6", 549, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Wastewater", "Sanitary sewers (miles)", "6700" ]
+, [ 548, "70534C8D-7B48-4BC4-B79C-0B8883FCB331", 548, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Water ", "Service connections", "702485" ]
+, [ 547, "9A12E418-6051-4F58-908E-004E813898F6", 547, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Water ", "Distribution pipe (miles)", "7246" ]
+, [ 546, "9412E457-270F-4CF7-9DF5-27720E20FEED", 546, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Water ", "Number of storage reservoirs and tanks", "114" ]
+, [ 545, "5A0231FA-F700-433D-93EC-BC4BB0F6007F", 545, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Water ", "Aqueduct (miles)", "472" ]
+, [ 544, "A8B0BBFB-A908-456F-BC8E-9E5F89F42730", 544, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Power", "Underground distribution lines (miles)", "3561" ]
+, [ 543, "C588D25A-9B0E-47AE-B041-04195D81222C", 543, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Power", "Overhead distribution lines (miles)", "10220" ]
+, [ 542, "96D6AC6E-3526-44C7-AD78-2BFABDF734CA", 542, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Power", "Transmission lines (miles)", "3632" ]
+, [ 541, "431E0900-35B5-4947-B3D2-BDF7C7AFB9AB", 541, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Power", "Number of generating units(2)", "242" ]
+, [ 540, "176C4F61-84BC-41FF-9C65-ED5310063136", 540, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Harbor", "Number of cargo terminals", "24" ]
+, [ 539, "A21795CA-CC1D-4B83-A1BC-7C930477E59F", 539, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Harbor", "Number of major container terminals", "8" ]
+, [ 538, "5E7D046B-B82B-4D5F-9DEA-F871F29523A8", 538, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Airports", "Number of airports", "3" ]
+, [ 537, "18FCC24F-54AE-4936-BEDF-F8C68F3D43DA", 537, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Cultural and Recreational Services", "Wedding sites", "19" ]
+, [ 536, "F196BA0B-891E-4231-8033-4E9775790BC1", 536, 1390695326, "862121", 1390695326, "862121", "{\n  \"invalidCells\" : {\n    \"17786868\" : \"--\"\n  }\n}", "2013", "Cultural and Recreational Services", "Therapeutic centers", null ]
+, [ 535, "324B92E8-4261-41A6-84BD-80E4A70B3D52", 535, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Cultural and Recreational Services", "Tennis courts", "321" ]
+, [ 534, "6FE6BF8F-A715-4944-A82F-1C5755B05925", 534, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Cultural and Recreational Services", "Skate parks ", "21" ]
+, [ 533, "0B0F6709-DB80-44A3-850E-094125275254", 533, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Cultural and Recreational Services", "Senior citizen centers", "31" ]
+, [ 532, "B70DA57C-997C-4402-B7A5-FB2C8321E900", 532, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Cultural and Recreational Services", "Residential camps", "9" ]
+, [ 531, "4D521010-DABA-487A-94EF-90CF40B859DF", 531, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Cultural and Recreational Services", "Regional parks", "5" ]
+, [ 530, "46BD1DDA-28DF-40C7-9B4F-88DB4FDAACB5", 530, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Cultural and Recreational Services", "Recreational centers", "184" ]
+, [ 529, "D1ECEC66-0A57-461A-9850-1E13689DDDAB", 529, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Cultural and Recreational Services", "Pools", "62" ]
+, [ 528, "C54F5B67-40E7-43C5-9178-F59A5541B332", 528, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Cultural and Recreational Services", "Park sites", "435" ]
+, [ 527, "7B1F65E3-26EF-4C21-8936-5172AAD5690C", 527, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Cultural and Recreational Services", "Museums", "12" ]
+, [ 526, "DC824BEA-5223-40E8-80DE-9D9F43463E8A", 526, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Cultural and Recreational Services", "Licensed child-care centers", "2" ]
+, [ 525, "A83CF28C-6667-48BB-9C81-6B6AF6C13B61", 525, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Cultural and Recreational Services", "Libraries", "73" ]
+, [ 524, "E1431FEB-A1C4-40E3-BDB6-D779AC3C06AB", 524, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Cultural and Recreational Services", "Lakes", "13" ]
+, [ 523, "8977460F-5AE2-4699-8CF6-2F285B7ECF61", 523, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Cultural and Recreational Services", "Indoor gyms", "95" ]
+, [ 522, "1CC2A32C-116D-4878-A545-777DE3177FFC", 522, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Cultural and Recreational Services", "Horticulture centers", "6" ]
+, [ 521, "8427B5AE-9B46-4B41-B385-C9EB6F5C2ECC", 521, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Cultural and Recreational Services", "Historical sites", "11" ]
+, [ 520, "67F73F65-7221-46C3-8C76-ED3D857DC57A", 520, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Cultural and Recreational Services", "Hiking trails (miles)", "92" ]
+, [ 519, "A66EF10C-550B-434C-8AAF-7CEF4D85B8E2", 519, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Cultural and Recreational Services", "Golf courses", "13" ]
+, [ 518, "70332BEF-230A-4786-BBE4-06B0A91AF67B", 518, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Cultural and Recreational Services", "Dog parks", "9" ]
+, [ 517, "72D5E1AF-B005-4DA7-90C4-8A6F1EEB6364", 517, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Cultural and Recreational Services", "Children's play areas", "383" ]
+, [ 516, "7EF4C3EE-981E-452F-ACA3-7DB650E4A6BA", 516, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Cultural and Recreational Services", "Baseball/softball diamonds", "256" ]
+, [ 515, "80F6021F-CE15-47BA-9913-9FBABC2F5967", 515, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Cultural and Recreational Services", "Archery ranges", "3" ]
+, [ 514, "AEA4D1D0-4420-41F5-AC52-39162CAE3556", 514, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Cultural and Recreational Services", "Acres park land (incl. beaches)", "16001" ]
+, [ 513, "12D37223-410C-4AAE-BFC7-47C3E2C3D474", 513, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Cultural and Recreational Services", "Acres of beach land", "232" ]
+, [ 512, "87876D2C-0EA3-46BD-A19E-4AA8158B819A", 512, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Transportation", "Traffic signals", "4657" ]
+, [ 511, "4771C8D0-74E4-46B0-BC4D-F945FEA5BC11", 511, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Transportation", "Commuter buses", "371" ]
+, [ 510, "1CD6C1B6-CD28-439C-8E38-BD916DDBCD0B", 510, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Transportation", "Bike paths", "14" ]
+, [ 509, "3394B3C8-A949-43A6-AC65-C4E749B82C1D", 509, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Transportation", "Automated traffic signal and control systems", "48" ]
+, [ 508, "D896795C-DE0A-4137-85CE-1DF4CFA8030A", 508, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Health and Sanitation", "Refuse yards", "7" ]
+, [ 507, "1174ABD1-5F9C-4368-88C1-707D7BA5A90C", 507, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Health and Sanitation", "Refuse collection trucks", "750" ]
+, [ 506, "BDBBB75B-EB2B-41CF-A5FA-BEEF0468D01D", 506, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Public Works", "Streets (miles)", "6500" ]
+, [ 505, "B07916DC-B843-4DB1-9C73-8AFAE504A7FE", 505, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Public Works", "Street lights", "207384" ]
+, [ 504, "1200F3BD-0E3A-4BD3-AA91-56185AD17C55", 504, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Public Works", "Bridges", "514" ]
+, [ 503, "06CAEBA2-72A2-4A55-A273-E8771DBD7A44", 503, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Protection of Persons and Property", "Police training centers", "3" ]
+, [ 502, "E699F77F-9224-4CCA-8B28-B3ACB71A8C96", 502, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Protection of Persons and Property", "Police stations", "29" ]
+, [ 501, "F1E4A7A7-9594-4E9C-8B58-E13332106AFB", 501, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Protection of Persons and Property", "Patrol units", "1374" ]
+, [ 500, "E9B76286-4024-4E7F-BA8B-B6A76733EFEA", 500, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Protection of Persons and Property", "Fire trucks", "367" ]
+, [ 499, "5565BA16-FE74-451D-B0C7-EF3A85474E10", 499, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Protection of Persons and Property", "Fire stations", "106" ]
+, [ 498, "65302D9D-9132-4FDD-86A1-B0F4E6232B63", 498, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "Protection of Persons and Property", "Animal shelters", "6" ]
+, [ 497, "4B4994DD-6328-44C7-A055-AEBEE4BE50A4", 497, 1390695326, "862121", 1390695326, "862121", "{\n}", "2013", "General Government", "Public office buildings", "18" ]
+, [ 468, "AC771E23-00C5-4F1A-88BC-560B685A119A", 468, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Cultural and Recreational Services", "Indoor gyms", "95" ]
+, [ 495, "78CDEB61-7CBD-4858-A569-339B0ABD7221", 495, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Wastewater", "Stormdrain pipe mainline (miles)", "1200" ]
+, [ 494, "51F5C869-2CE8-4B61-A49E-CEAFF185B1F3", 494, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Wastewater", "Sanitary sewers (miles)", "6700" ]
+, [ 493, "A71EF5D0-872E-46A7-863E-CA1522710F2F", 493, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Water ", "Service connections", "701644" ]
+, [ 492, "DD27839A-6DB2-42B8-8105-578DC3E7A368", 492, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Water ", "Distribution pipe (miles)", "7225" ]
+, [ 491, "A4DD6048-634E-443A-8BF0-BC56E23A80F2", 491, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Water ", "Number of storage reservoirs and tanks", "114" ]
+, [ 490, "332AAE77-EE45-4290-A203-4D172D2D3E4D", 490, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Water ", "Aqueduct (miles)", "472" ]
+, [ 489, "AEBD8196-87F6-48BB-8FE8-24AC0609BC88", 489, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Power", "Underground distribution lines (miles)", "3594" ]
+, [ 488, "A78632ED-8B2A-4EE0-93F3-96CAB5D65879", 488, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Power", "Overhead distribution lines (miles)", "10220" ]
+, [ 487, "94F92DE1-610D-4A4C-8E1D-5C7CFCF73590", 487, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Power", "Transmission lines (miles)", "3626" ]
+, [ 486, "610A702A-17A1-4E69-A288-3F5E88ED65F1", 486, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Power", "Number of generating units(2)", "235" ]
+, [ 485, "BA4E55AA-0133-47ED-B912-5F71E705710A", 485, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Harbor", "Number of cargo terminals", "24" ]
+, [ 484, "0891DC97-8A8B-401E-B87B-8FE37E20138A", 484, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Harbor", "Number of major container terminals", "8" ]
+, [ 483, "5A6766C1-78F6-4342-98CD-D2E18E08563F", 483, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Airports", "Number of airports", "4" ]
+, [ 482, "E4F7FFAB-245D-4213-97DC-5B52CC9232EE", 482, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Cultural and Recreational Services", "Wedding sites", "19" ]
+, [ 481, "07777F6C-7F1B-47EE-B561-F2FE94A5F55D", 481, 1390695326, "862121", 1390695326, "862121", "{\n  \"invalidCells\" : {\n    \"17786868\" : \"--\"\n  }\n}", "2012", "Cultural and Recreational Services", "Therapeutic centers", null ]
+, [ 480, "6F3D12DA-7BE1-4370-8EB8-A35C1DF353D1", 480, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Cultural and Recreational Services", "Tennis courts", "321" ]
+, [ 479, "AA831FF6-B55E-44A8-98E5-84724031CAB8", 479, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Cultural and Recreational Services", "Skate parks ", "18" ]
+, [ 478, "AEC74372-49D3-4FC4-A198-DE901A8A19EF", 478, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Cultural and Recreational Services", "Senior citizen centers", "31" ]
+, [ 477, "A12268E1-11FE-4078-AA1C-84CCC1DE4964", 477, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Cultural and Recreational Services", "Residential camps", "7" ]
+, [ 476, "C1B1ED08-BDD4-4879-8B17-2C8010EC1761", 476, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Cultural and Recreational Services", "Regional parks", "5" ]
+, [ 475, "C4F217CA-4F70-405D-A2BF-017816BDA9DD", 475, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Cultural and Recreational Services", "Recreational centers", "184" ]
+, [ 474, "76DD2456-1DE2-41ED-8B4D-07585029195C", 474, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Cultural and Recreational Services", "Pools", "61" ]
+, [ 473, "0D36632F-D6C1-4AD9-91AA-FEC2E055D304", 473, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Cultural and Recreational Services", "Park sites", "427" ]
+, [ 472, "0E9B518B-3B83-481B-9C7C-54BCC9D3A2C3", 472, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Cultural and Recreational Services", "Museums", "12" ]
+, [ 471, "D0009C01-29EE-4A7B-B9AA-9FCA8ABB8310", 471, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Cultural and Recreational Services", "Licensed child-care centers", "2" ]
+, [ 470, "136B5F3F-8BEB-4E29-93DF-EEF329C40EE2", 470, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Cultural and Recreational Services", "Libraries", "73" ]
+, [ 469, "639D265E-15B4-4B40-BFEA-471EC0450BC1", 469, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Cultural and Recreational Services", "Lakes", "11" ]
+, [ 467, "84ED1A29-1651-4905-A5F2-05077E2B31DC", 467, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Cultural and Recreational Services", "Horticulture centers", "6" ]
+, [ 466, "7AFFA353-2536-43EB-976A-BF449CF4BCA4", 466, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Cultural and Recreational Services", "Historical sites", "11" ]
+, [ 465, "1FCA43D4-C0C0-44FD-9A66-2CE9D747069C", 465, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Cultural and Recreational Services", "Hiking trails (miles)", "92" ]
+, [ 464, "C302AB34-9E7D-4DBC-8EE0-95D99C895ACF", 464, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Cultural and Recreational Services", "Golf courses", "13" ]
+, [ 463, "D87C7076-1E79-4F63-A610-CCBFBCB1F547", 463, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Cultural and Recreational Services", "Dog parks", "9" ]
+, [ 462, "76350139-C39F-4A50-BFD7-5971E7F62A4C", 462, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Cultural and Recreational Services", "Children's play areas", "368" ]
+, [ 461, "1B4A7429-6B86-4B5C-81CE-6B5C426BF797", 461, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Cultural and Recreational Services", "Baseball/softball diamonds", "256" ]
+, [ 460, "BFBE9540-340A-42DE-B7AA-E4A5DC3A8955", 460, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Cultural and Recreational Services", "Archery ranges", "3" ]
+, [ 459, "B878E2C8-1F62-44DF-9A93-DBAE7FB42F72", 459, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Cultural and Recreational Services", "Acres park land (incl. beaches)", "15865" ]
+, [ 458, "A1D304FC-D735-429E-BCAB-A8E5751A4AB7", 458, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Cultural and Recreational Services", "Acres of beach land", "232" ]
+, [ 457, "02E1AA08-C84B-4B98-A676-E95B13473319", 457, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Transportation", "Traffic signals", "4625" ]
+, [ 456, "D0E57223-C2F2-4DE9-AB57-595DE77AEDCB", 456, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Transportation", "Commuter buses", "361" ]
+, [ 455, "A7704C7B-E236-4F81-97BF-23A71EE3181A", 455, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Transportation", "Bike paths", "13" ]
+, [ 454, "19EA1805-C663-446F-A037-FEDD95B9587D", 454, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Transportation", "Automated traffic signal and control systems", "48" ]
+, [ 453, "8E989090-4800-4363-B547-AFCC7CCD0D50", 453, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Health and Sanitation", "Refuse yards", "7" ]
+, [ 452, "F382E5A4-BF75-4A34-B445-A79AEF83E849", 452, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Health and Sanitation", "Refuse collection trucks", "750" ]
+, [ 451, "B22C49BA-6B2F-4303-B548-08EEABF74F94", 451, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Public Works", "Streets (miles)", "6500" ]
+, [ 450, "EADB7EB0-E91C-471C-9C5D-9BF22CD5F91E", 450, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Public Works", "Street lights", "206757" ]
+, [ 449, "501236A7-38E9-4868-A398-4DE44DFB143E", 449, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Public Works", "Bridges", "508" ]
+, [ 448, "70131FF7-2608-4BCD-A1B9-EFACDB42AD9D", 448, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Protection of Persons and Property", "Police training centers", "3" ]
+, [ 447, "B72479F4-1910-45D1-97E3-C0EF0171281F", 447, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Protection of Persons and Property", "Police stations", "29" ]
+, [ 446, "EA672BEC-D837-4E07-9883-1F0D6FD7A5E9", 446, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Protection of Persons and Property", "Patrol units", "1374" ]
+, [ 445, "46989BAE-C21D-43CA-AAC0-4958C4EB3A72", 445, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Protection of Persons and Property", "Fire trucks", "337" ]
+, [ 444, "777FB05A-27C2-4114-9A29-0D78AA7FF87E", 444, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Protection of Persons and Property", "Fire stations", "106" ]
+, [ 443, "14E48210-E871-47B0-9F13-FDE36CA85050", 443, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "Protection of Persons and Property", "Animal shelters", "6" ]
+, [ 442, "D9BF70AA-2D7B-45D4-904C-02FE99A1B9B4", 442, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "General Government", "Public office buildings", "18" ]
+, [ 441, "30D7CF97-15A6-4452-8F79-DEBF9FFDE96C", 441, 1390695326, "862121", 1390695326, "862121", "{\n}", "2012", "General Government", "Fiber optic cabling (fiber miles)(1)", "150" ]
+, [ 415, "D876303F-8890-47B2-8FA5-5B4600C5F2DC", 415, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Cultural and Recreational Services", "Libraries", "73" ]
+, [ 440, "CA03E295-D956-4230-99E2-9B49764AAD66", 440, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Wastewater", "Stormdrain pipe mainline (miles)", "1200" ]
+, [ 439, "022B2BCA-5A27-4864-921C-0BB5F9A611D2", 439, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Wastewater", "Sanitary sewers (miles)", "6700" ]
+, [ 438, "FA44DE3C-96DB-447C-8F23-4BA05BA2C15F", 438, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Water ", "Service connections", "719154" ]
+, [ 437, "339D0A9D-E100-4BFB-998B-7275D60FCDC6", 437, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Water ", "Distribution pipe (miles)", "7221" ]
+, [ 436, "41593847-1508-4D43-A9FD-F5A85E370265", 436, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Water ", "Number of storage reservoirs and tanks", "114" ]
+, [ 435, "D9E3A5B8-FAC7-43C4-8DEA-FF12D12A6DA2", 435, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Water ", "Aqueduct (miles)", "472" ]
+, [ 434, "DF8936EB-E045-494F-8FCC-4245C98B6ACE", 434, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Power", "Underground distribution lines (miles)", "3547" ]
+, [ 433, "AA974729-5475-4E00-8D6B-EA9699CA3777", 433, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Power", "Overhead distribution lines (miles)", "10186" ]
+, [ 432, "A3CF73D1-AFC0-4A6D-81F1-FEC4014395DE", 432, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Power", "Transmission lines (miles)", "3626" ]
+, [ 431, "F10B3630-5290-4232-872F-B5D88F78B18B", 431, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Power", "Number of generating units(2)", "235" ]
+, [ 430, "D34204FB-5D80-492D-AA39-C16044A36C90", 430, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Harbor", "Number of cargo terminals", "24" ]
+, [ 429, "F04A3D66-4396-4125-B276-CF7617A9C494", 429, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Harbor", "Number of major container terminals", "8" ]
+, [ 428, "BDCA7366-B561-444C-8582-8433F6EC89BB", 428, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Airports", "Number of airports", "4" ]
+, [ 427, "2AA1C58D-BD32-4200-8DA0-397E9D1B0F95", 427, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Cultural and Recreational Services", "Wedding sites", "12" ]
+, [ 426, "70C592E8-4063-442A-BCE8-816BAE9AD5DC", 426, 1390695326, "862121", 1390695326, "862121", "{\n  \"invalidCells\" : {\n    \"17786868\" : \"--\"\n  }\n}", "2011", "Cultural and Recreational Services", "Therapeutic centers", null ]
+, [ 425, "AFF890D7-9CB1-4D7B-9CDA-B56DB7C6D2C7", 425, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Cultural and Recreational Services", "Tennis courts", "321" ]
+, [ 424, "95BF49A3-11BD-43E5-A42A-2AAB45753C3C", 424, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Cultural and Recreational Services", "Skate parks ", "9" ]
+, [ 423, "3D8A3A09-EDAC-4B86-B356-D25FAAA06EBF", 423, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Cultural and Recreational Services", "Senior citizen centers", "31" ]
+, [ 422, "D1BCE08A-E3A3-436A-A3F8-66A99F1801FE", 422, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Cultural and Recreational Services", "Residential camps", "7" ]
+, [ 421, "FC04D400-E88A-49F9-BB9F-0369D527EC3A", 421, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Cultural and Recreational Services", "Regional parks", "5" ]
+, [ 420, "5F7320C4-C5AE-4153-BEE8-2BC6DC5008DD", 420, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Cultural and Recreational Services", "Recreational centers", "184" ]
+, [ 419, "A7EEB10D-0988-4CE9-AEBF-711425631AE0", 419, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Cultural and Recreational Services", "Pools", "61" ]
+, [ 418, "361D72CE-8465-4969-A7CD-DCD3943883AD", 418, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Cultural and Recreational Services", "Park sites", "427" ]
+, [ 417, "6BCB473C-8B48-48B6-B384-C6B3E9A39348", 417, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Cultural and Recreational Services", "Museums", "12" ]
+, [ 416, "95ED37A8-23F1-4305-B440-82637F74B25B", 416, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Cultural and Recreational Services", "Licensed child-care centers", "2" ]
+, [ 414, "70911DC7-8FAB-4E05-AC49-80F33BC9B334", 414, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Cultural and Recreational Services", "Lakes", "11" ]
+, [ 413, "3E13136A-E95E-4D64-8584-9FDDFF09A72F", 413, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Cultural and Recreational Services", "Indoor gyms", "95" ]
+, [ 412, "9286AF18-4158-4992-9649-28ADC2036B43", 412, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Cultural and Recreational Services", "Horticulture centers", "6" ]
+, [ 411, "59F02941-9468-481D-8A89-D66FDB67E261", 411, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Cultural and Recreational Services", "Historical sites", "11" ]
+, [ 410, "3E46B29A-01DA-4BF2-A426-17566B8FE1D1", 410, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Cultural and Recreational Services", "Hiking trails (miles)", "92" ]
+, [ 409, "78A0608D-1F25-4290-B32B-46BD16E5DC00", 409, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Cultural and Recreational Services", "Golf courses", "13" ]
+, [ 408, "8DAAB7C4-9AC2-4242-BF7B-3001307D392B", 408, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Cultural and Recreational Services", "Dog parks", "9" ]
+, [ 407, "D9F7F8AC-8634-4921-B8F7-B174265D4E9B", 407, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Cultural and Recreational Services", "Children's play areas", "368" ]
+, [ 406, "E2546A39-C00B-4551-AAEA-E833DEA91DAF", 406, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Cultural and Recreational Services", "Baseball/softball diamonds", "256" ]
+, [ 405, "3BE7C0A9-9543-4CCC-913E-DF37FD60A0C1", 405, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Cultural and Recreational Services", "Archery ranges", "3" ]
+, [ 404, "A0B22AA1-ABE5-4CD2-AE4A-F49439F04B85", 404, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Cultural and Recreational Services", "Acres park land (incl. beaches)", "15717" ]
+, [ 403, "D769B9E8-36D9-49D8-BB32-BBA4CD6E87AB", 403, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Cultural and Recreational Services", "Acres of beach land", "232" ]
+, [ 402, "B1758EBA-F2CB-4C1B-A3C7-7466300F8FA4", 402, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Transportation", "Traffic signals", "4607" ]
+, [ 401, "92DA7A32-1045-4B1E-B2B2-2E0EEBE5CEF2", 401, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Transportation", "Commuter buses", "407" ]
+, [ 400, "AA274C87-0F33-4F86-A08C-A84F4BD78B66", 400, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Transportation", "Bike paths", "13" ]
+, [ 399, "4B5E5663-F1CB-4924-8920-BD208BE072C1", 399, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Transportation", "Automated traffic signal and control systems", "48" ]
+, [ 398, "20D80668-F1A1-4F4D-AFF1-2B68014C859F", 398, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Health and Sanitation", "Refuse yards", "7" ]
+, [ 397, "8C35311F-444E-416F-9BCA-90A613103268", 397, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Health and Sanitation", "Refuse collection trucks", "732" ]
+, [ 396, "2238673E-8F9F-482C-951D-EFCFDB1EC149", 396, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Public Works", "Streets (miles)", "6500" ]
+, [ 395, "8A12C1FA-F42A-43C1-904F-4946DC452368", 395, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Public Works", "Street lights", "204750" ]
+, [ 394, "D1433767-FD3D-45F5-B27D-5EADA6573D4F", 394, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Public Works", "Bridges", "508" ]
+, [ 393, "E010B678-3917-4843-A756-95CACEF1D34B", 393, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Protection of Persons and Property", "Police training centers", "3" ]
+, [ 392, "73A2EA3E-0A99-46A8-98CB-BCD532E6DBA0", 392, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Protection of Persons and Property", "Police stations", "29" ]
+, [ 391, "D8933333-BA0A-44D2-89BA-A226D72FA28B", 391, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Protection of Persons and Property", "Patrol units", "1374" ]
+, [ 390, "87E4C10B-21A2-4B28-8D5B-6BB064D68F31", 390, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Protection of Persons and Property", "Fire trucks", "336" ]
+, [ 389, "F8EA5336-51F2-4445-8474-F16BE31A749A", 389, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Protection of Persons and Property", "Fire stations", "106" ]
+, [ 388, "72757054-47E4-4A60-8281-80ADA2F5436A", 388, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "Protection of Persons and Property", "Animal shelters", "6" ]
+, [ 387, "97BFE315-8BE3-4F3B-B3BF-1129212FF497", 387, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "General Government", "Public office buildings", "18" ]
+, [ 386, "EA6113E0-27A6-420C-9CF5-E8D26245017A", 386, 1390695326, "862121", 1390695326, "862121", "{\n}", "2011", "General Government", "Fiber optic cabling (fiber miles)(1)", "150" ]
+, [ 333, "C84D3D58-54FB-41ED-BE80-06722F1BCC79", 333, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Protection of Persons and Property", "Animal shelters", "6" ]
+, [ 385, "5A360050-B627-4903-ADDF-8833AF86CD3E", 385, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Wastewater", "Stormdrain pipe mainline (miles)", "1200" ]
+, [ 383, "167174DC-87C6-4F2F-9284-508E038FD2DE", 383, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Water ", "Service connections", "718511" ]
+, [ 382, "701BFFD4-7702-4EBE-A377-084B3AC17215", 382, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Water ", "Distribution pipe (miles)", "7273" ]
+, [ 381, "1E47FD65-F667-40EE-939A-DB226EF80462", 381, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Water ", "Number of storage reservoirs and tanks", "106" ]
+, [ 380, "48E5DDAA-384E-4BBB-96AD-C82F991D32DB", 380, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Water ", "Aqueduct (miles)", "390" ]
+, [ 379, "C86A61DA-DD9B-4022-A436-CF2BE4312212", 379, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Power", "Underground distribution lines (miles)", "3505" ]
+, [ 378, "EE408E5B-C2C8-4D7D-95D4-1DD76A7F2CBB", 378, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Power", "Overhead distribution lines (miles)", "10140" ]
+, [ 377, "C9828A53-F816-4B6E-9E3C-AB6DBCD80F57", 377, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Power", "Transmission lines (miles)", "3631" ]
+, [ 376, "2FA01158-5CD4-4E42-8069-C011AB585552", 376, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Power", "Number of generating units(2)", "51" ]
+, [ 375, "D54DAECE-872A-4E14-8A62-65473DDDB5D0", 375, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Harbor", "Number of cargo terminals", "24" ]
+, [ 374, "ABA515DC-74FE-4108-84C8-B5D7A197CC19", 374, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Harbor", "Number of major container terminals", "8" ]
+, [ 373, "89450825-1AF8-4E77-989F-5E2440AD3867", 373, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Airports", "Number of airports", "4" ]
+, [ 372, "540BA767-DC01-4769-BD36-63AF1E3FBBD0", 372, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Cultural and Recreational Services", "Wedding sites", "12" ]
+, [ 371, "05B07451-3AA5-40A8-B309-BA7A1C1AD86D", 371, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Cultural and Recreational Services", "Therapeutic centers", "3" ]
+, [ 370, "7281D830-AA49-407E-91DE-D23458FB791E", 370, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Cultural and Recreational Services", "Tennis courts", "321" ]
+, [ 369, "15109D9F-5C52-4C09-A69B-3AF580FE654C", 369, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Cultural and Recreational Services", "Skate parks ", "9" ]
+, [ 368, "5980097F-628A-4909-9C98-9BDD3C4F33E2", 368, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Cultural and Recreational Services", "Senior citizen centers", "31" ]
+, [ 367, "5DEDC3B4-18ED-4B01-893E-53538EA818A2", 367, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Cultural and Recreational Services", "Residential camps", "7" ]
+, [ 366, "C2637CC4-C36E-41AD-B6E7-6E7EE038805F", 366, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Cultural and Recreational Services", "Regional parks", "5" ]
+, [ 365, "D60AC502-A638-4625-95DE-560AC946089F", 365, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Cultural and Recreational Services", "Recreational centers", "184" ]
+, [ 364, "E4218679-2B62-4FBA-B808-67377386A181", 364, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Cultural and Recreational Services", "Pools", "61" ]
+, [ 363, "EC220973-2831-48DE-B9B8-A78FBF5078E6", 363, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Cultural and Recreational Services", "Park sites", "427" ]
+, [ 362, "FE7F9D41-1F1F-45FE-A1B6-5ECEFEEF1384", 362, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Cultural and Recreational Services", "Museums", "12" ]
+, [ 361, "B87B47D5-ADA9-45A5-BA35-339EC73F7764", 361, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Cultural and Recreational Services", "Licensed child-care centers", "2" ]
+, [ 360, "8E186822-28CF-4CE8-B1DC-EDEECDD731CB", 360, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Cultural and Recreational Services", "Libraries", "73" ]
+, [ 332, "045CE1D3-97A7-4D7C-8C0C-C6A29199C7A7", 332, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "General Government", "Public office buildings", "18" ]
+, [ 359, "539FC559-3566-47BB-AA1F-80347FFF6DE8", 359, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Cultural and Recreational Services", "Lakes", "11" ]
+, [ 358, "84265AEA-59A1-4E84-A1C7-727EA4E24F79", 358, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Cultural and Recreational Services", "Indoor gyms", "95" ]
+, [ 331, "3C757682-515F-420A-9568-AAD44061E251", 331, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "General Government", "Fiber optic cabling (fiber miles)(1)", "150" ]
+, [ 357, "782644E3-359E-44C6-B3E9-98AFF9889149", 357, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Cultural and Recreational Services", "Horticulture centers", "6" ]
+, [ 356, "9CA5C3D4-D5E7-46C4-BABA-0D44AB45E25C", 356, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Cultural and Recreational Services", "Historical sites", "11" ]
+, [ 355, "972BCB99-B9C5-4E4E-9CFF-866D50F9090A", 355, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Cultural and Recreational Services", "Hiking trails (miles)", "92" ]
+, [ 354, "7DD9031B-B563-4D37-87C8-35DE969ACB6E", 354, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Cultural and Recreational Services", "Golf courses", "13" ]
+, [ 353, "C3CBA26B-8E9D-4E8E-9246-A185BD843B2A", 353, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Cultural and Recreational Services", "Dog parks", "9" ]
+, [ 352, "F5A4F73A-E492-4B3A-AF5C-290302718CB1", 352, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Cultural and Recreational Services", "Children's play areas", "368" ]
+, [ 351, "EE698B58-5E45-4F37-9D98-34C082CD6BD7", 351, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Cultural and Recreational Services", "Baseball/softball diamonds", "256" ]
+, [ 350, "8B6E4FB3-EE23-4504-96F7-19787402B0C0", 350, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Cultural and Recreational Services", "Archery ranges", "3" ]
+, [ 349, "84A989C5-01EC-4937-9249-C6435AE27974", 349, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Cultural and Recreational Services", "Acres park land (incl. beaches)", "15717" ]
+, [ 348, "D93A2550-035C-4D9B-BEF7-13147F353A00", 348, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Cultural and Recreational Services", "Acres of beach land", "232" ]
+, [ 347, "F9EC99BE-9DE0-408E-ABFB-7F8B5F54FD02", 347, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Transportation", "Traffic signals", "4589" ]
+, [ 346, "7EA5B9B4-74F6-4156-89C9-4D0CC759F8E7", 346, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Transportation", "Commuter buses", "450" ]
+, [ 345, "F2BBC7A2-5A2B-42D5-B4AC-8664534AE723", 345, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Transportation", "Bike paths", "13" ]
+, [ 344, "8A94DE2B-9031-4F8D-9AF1-1C2280598376", 344, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Transportation", "Automated traffic signal and control systems", "48" ]
+, [ 343, "55BD9C65-ECC3-415A-B99F-30B93EB75CB0", 343, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Health and Sanitation", "Refuse yards", "7" ]
+, [ 342, "8AFCFF22-C83B-4B9D-987C-E68FF7C05ACA", 342, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Health and Sanitation", "Refuse collection trucks", "742" ]
+, [ 341, "A70DD981-AF02-49A2-B97B-C14A324CFD1B", 341, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Public Works", "Streets (miles)", "6500" ]
+, [ 340, "6064DB4B-8CBC-4235-9E3B-9A8D0644A98F", 340, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Public Works", "Street lights", "204000" ]
+, [ 339, "6D029416-F1FC-459A-A736-631123DEFFB3", 339, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Public Works", "Bridges", "508" ]
+, [ 338, "65A2F05D-5887-4EE3-9F87-6823917629D9", 338, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Protection of Persons and Property", "Police training centers", "3" ]
+, [ 337, "E3CC884A-AF7C-4A24-99A3-54CE38760CB3", 337, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Protection of Persons and Property", "Police stations", "28" ]
+, [ 336, "47338466-B678-44F7-BCB8-38C64784A6BA", 336, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Protection of Persons and Property", "Patrol units", "1374" ]
+, [ 384, "23DC6123-0E67-4FE9-A3A4-9F83C284D8C3", 384, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Wastewater", "Sanitary sewers (miles)", "6500" ]
+, [ 335, "E84AFE9F-26B5-4980-889E-09236643C3D5", 335, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Protection of Persons and Property", "Fire trucks", "362" ]
+, [ 334, "E4F2DFD0-3FF2-459F-8487-F776EBDDEAB0", 334, 1390695326, "862121", 1390695326, "862121", "{\n}", "2010", "Protection of Persons and Property", "Fire stations", "106" ]
+, [ 277, "FF8CD354-0968-49F3-9869-B9EEE10F888F", 277, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "General Government", "Public office buildings", "18" ]
+, [ 276, "6561C285-7012-4C30-AAEA-CFFE2E2EF762", 276, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "General Government", "Fiber optic cabling (fiber miles)(1)", "3426" ]
+, [ 278, "D30D8945-E399-40F0-A313-85AA629941F1", 278, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Protection of Persons and Property", "Animal shelters", "6" ]
+, [ 279, "5AE2EA0E-F29E-4F57-90A2-0CEDE33D176C", 279, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Protection of Persons and Property", "Fire stations", "106" ]
+, [ 280, "C6C1D2A2-AE4A-402F-8A71-C77A001E560A", 280, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Protection of Persons and Property", "Fire trucks", "362" ]
+, [ 281, "61CAF9B4-12D0-4A77-9875-A874D45C5763", 281, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Protection of Persons and Property", "Patrol units", "1374" ]
+, [ 282, "888C1139-CC43-4DA4-A0E6-B2B8E8BB5A26", 282, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Protection of Persons and Property", "Police stations", "26" ]
+, [ 283, "9B593B7C-A5BC-4D6E-8363-20F63A3B420C", 283, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Protection of Persons and Property", "Police training centers", "3" ]
+, [ 284, "461A468C-4FE9-4E78-A5A8-02EF5F186F1E", 284, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Public Works", "Bridges", "509" ]
+, [ 285, "C09452B8-67F2-48F3-B4F0-0CC3A03090F0", 285, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Public Works", "Street lights", "207000" ]
+, [ 286, "00922AA4-D848-4B6E-BCDC-BB5759EFC2A8", 286, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Public Works", "Streets (miles)", "6500" ]
+, [ 287, "0AA7F852-5F62-4CC7-9D6B-4F12564510BB", 287, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Health and Sanitation", "Refuse collection trucks", "744" ]
+, [ 288, "62BBD6E3-E58C-4C2C-BF62-7AEFD8F38384", 288, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Health and Sanitation", "Refuse yards", "7" ]
+, [ 289, "9C769226-888E-41A1-B524-C14A7C44B8A4", 289, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Transportation", "Automated traffic signal and control systems", "48" ]
+, [ 290, "C5F43708-A61E-4760-BEA3-F9FD169B3175", 290, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Transportation", "Bike paths", "12" ]
+, [ 291, "35DACC9D-7AD7-47FC-9E26-3CF469475226", 291, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Transportation", "Commuter buses", "468" ]
+, [ 292, "D6787376-0651-41C0-B81D-3C3EA81F096F", 292, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Transportation", "Traffic signals", "4530" ]
+, [ 293, "9CFDC0B7-2D2E-4C54-8556-6EA5310EF3D2", 293, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Cultural and Recreational Services", "Acres of beach land", "232" ]
+, [ 294, "CCCA1A22-F291-4542-B47F-859F8F220CCE", 294, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Cultural and Recreational Services", "Acres park land (incl. beaches)", "15786" ]
+, [ 295, "C35224D5-E145-4BD4-B82F-AFE47A43EEA3", 295, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Cultural and Recreational Services", "Archery ranges", "3" ]
+, [ 296, "5499271B-DACF-4C12-AC95-A241ED5370D8", 296, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Cultural and Recreational Services", "Baseball/softball diamonds", "256" ]
+, [ 297, "6A41909D-E620-410A-8D5B-34474125BF94", 297, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Cultural and Recreational Services", "Children's play areas", "368" ]
+, [ 298, "B2D5A38B-5239-4606-8EDC-D51809644BBC", 298, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Cultural and Recreational Services", "Dog parks", "9" ]
+, [ 299, "A327C254-02BF-4F55-842E-A5570FAA931C", 299, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Cultural and Recreational Services", "Golf courses", "13" ]
+, [ 300, "313AD074-0E83-49E5-8CF9-4ED79DE3C12C", 300, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Cultural and Recreational Services", "Hiking trails (miles)", "92" ]
+, [ 301, "B4DAAFEA-7B42-4F06-887B-A016A5F26821", 301, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Cultural and Recreational Services", "Historical sites", "11" ]
+, [ 302, "7C5B5254-2F38-4253-B049-7AA2F1150D97", 302, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Cultural and Recreational Services", "Horticulture centers", "6" ]
+, [ 303, "BAD38FBF-1525-4F74-8B4E-AE3A7EAB41A7", 303, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Cultural and Recreational Services", "Indoor gyms", "95" ]
+, [ 304, "B2DA6190-E4C6-44B5-BD9F-DFA5B6D3447A", 304, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Cultural and Recreational Services", "Lakes", "11" ]
+, [ 305, "054E9684-FE87-4253-907A-A793D3551407", 305, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Cultural and Recreational Services", "Libraries", "72" ]
+, [ 306, "696705AC-6E65-4E22-BC70-519FFF9191BA", 306, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Cultural and Recreational Services", "Licensed child-care centers", "26" ]
+, [ 307, "21016D08-0ED7-48E8-8AC9-502242027464", 307, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Cultural and Recreational Services", "Museums", "12" ]
+, [ 308, "A06FCED8-0A16-4BD1-AB3E-E4AAA5E79B28", 308, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Cultural and Recreational Services", "Park sites", "417" ]
+, [ 309, "684C7659-DFE8-4807-BDE8-341B668140BC", 309, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Cultural and Recreational Services", "Pools", "60" ]
+, [ 310, "2B74B58E-1918-4E65-82EC-F4146C719C0D", 310, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Cultural and Recreational Services", "Recreational centers", "183" ]
+, [ 311, "C9930A91-CF6D-4FD4-9C03-0E2D7D4617D0", 311, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Cultural and Recreational Services", "Regional parks", "5" ]
+, [ 312, "CBFF091F-E857-43C1-8DF6-C974AB99B0EE", 312, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Cultural and Recreational Services", "Residential camps", "7" ]
+, [ 313, "2459F532-EEB3-4F01-A945-4C7768725A06", 313, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Cultural and Recreational Services", "Senior citizen centers", "31" ]
+, [ 314, "DEA8CACA-32DD-484D-8BDB-903FC164E2C9", 314, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Cultural and Recreational Services", "Skate parks ", "9" ]
+, [ 315, "5F4AEC22-94EF-40B4-A92F-7246173EDD7D", 315, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Cultural and Recreational Services", "Tennis courts", "321" ]
+, [ 316, "B64CB2BB-FBBE-4A8F-BB79-5BF329BC6E8C", 316, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Cultural and Recreational Services", "Therapeutic centers", "3" ]
+, [ 317, "B1499243-517E-4CAC-88A0-A7C6A15E85A5", 317, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Cultural and Recreational Services", "Wedding sites", "12" ]
+, [ 318, "41C718AB-BE6F-45E5-AE22-9C915484168B", 318, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Airports", "Number of airports", "4" ]
+, [ 319, "A06565A7-C2DB-479F-972D-0E85237E3C89", 319, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Harbor", "Number of major container terminals", "8" ]
+, [ 320, "A1FB2184-177B-4B3A-BAE6-73145D258604", 320, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Harbor", "Number of cargo terminals", "25" ]
+, [ 321, "0CF9F5CC-2A4D-498C-A287-9ABEC6646D1D", 321, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Power", "Number of generating units(2)", "50" ]
+, [ 322, "1164EEB3-357A-4418-8A5E-00774419F578", 322, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Power", "Transmission lines (miles)", "3631" ]
+, [ 323, "EAF5CF55-DFAE-437A-AAE1-C6A04D8A6A61", 323, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Power", "Overhead distribution lines (miles)", "8782" ]
+, [ 324, "70F15F8A-2499-476E-9A28-33590A8C5F00", 324, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Power", "Underground distribution lines (miles)", "3235" ]
+, [ 325, "60440CBD-EE6A-4C21-8336-FC7A12DCF4DD", 325, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Water ", "Aqueduct (miles)", "367" ]
+, [ 326, "BFA20302-D2BA-4687-BA96-5576E9259B95", 326, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Water ", "Number of storage reservoirs and tanks", "114" ]
+, [ 327, "2FC0F3FE-5AD0-41B0-BC6D-A80028A13BA2", 327, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Water ", "Distribution pipe (miles)", "7248" ]
+, [ 328, "4E2AE58D-C475-472D-B939-8B96333A9B08", 328, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Water ", "Service connections", "716919" ]
+, [ 329, "0446BF16-67E4-453A-BD5F-0918A1956DF7", 329, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Wastewater", "Sanitary sewers (miles)", "6500" ]
+, [ 330, "520303E8-8BC5-46FC-B9D9-25DC1E0329F5", 330, 1390695326, "862121", 1390695326, "862121", "{\n}", "2009", "Wastewater", "Stormdrain pipe mainline (miles)", "1200" ]
+, [ 221, "2BF65CEF-CC16-4A2D-84D5-D294F3892CCA", 221, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "General Government", "Fiber optic cabling (fiber miles)(1)", "9876" ]
+, [ 274, "D88FDEAC-ADD2-4D83-9FCB-29BAC3AAE8A6", 274, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Wastewater", "Sanitary sewers (miles)", "6550" ]
+, [ 273, "2F40A853-2063-406D-8651-1D393DE1A49E", 273, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Water ", "Service connections", "715430" ]
+, [ 272, "A713D543-9F4C-472C-A23D-33BCA45BF75C", 272, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Water ", "Distribution pipe (miles)", "7227" ]
+, [ 271, "2940306D-71CC-4051-AB1F-121CE9361029", 271, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Water ", "Number of storage reservoirs and tanks", "104" ]
+, [ 270, "2BFC6785-617E-4E44-8E38-D3BC1C874007", 270, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Water ", "Aqueduct (miles)", "367" ]
+, [ 269, "DAB3784D-DBBE-44E0-A229-EAF1EC1CAC7A", 269, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Power", "Underground distribution lines (miles)", "6095" ]
+, [ 268, "2B96CF72-E8B8-4291-AC30-3A57C37BCFE0", 268, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Power", "Overhead distribution lines (miles)", "6947" ]
+, [ 267, "3B381DE1-7417-4F55-AECB-DBE58CD8B439", 267, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Power", "Transmission lines (miles)", "3643" ]
+, [ 266, "4D108540-DAFA-4D69-B287-6A80FB5D5C25", 266, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Power", "Number of generating units(2)", "51" ]
+, [ 265, "48B2E16A-6143-4381-97FE-51BA42399154", 265, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Harbor", "Number of cargo terminals", "25" ]
+, [ 264, "BB6F6A4E-82AE-4554-96B7-226BADC07FE0", 264, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Harbor", "Number of major container terminals", "8" ]
+, [ 263, "FDA1551C-2A0B-4F66-A251-3276D0002A5F", 263, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Airports", "Number of airports", "4" ]
+, [ 262, "16EDE8B3-9E94-4B57-A823-E06F55BA1C3F", 262, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Cultural and Recreational Services", "Wedding sites", "12" ]
+, [ 261, "C859AF6A-1687-47C7-AAF2-1784EB6717BD", 261, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Cultural and Recreational Services", "Therapeutic centers", "3" ]
+, [ 275, "31A8706B-6314-4891-9BC1-9CA191AEDE4A", 275, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Wastewater", "Stormdrain pipe mainline (miles)", "1200" ]
+, [ 260, "0E792676-2B06-4111-A4A4-16A84F458D67", 260, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Cultural and Recreational Services", "Tennis courts", "321" ]
+, [ 259, "8C1C284B-3057-4790-BBF5-D3535CD3FEEB", 259, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Cultural and Recreational Services", "Skate parks ", "9" ]
+, [ 258, "1E0791F3-5013-48E8-AB0B-E9B2E8B5915B", 258, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Cultural and Recreational Services", "Senior citizen centers", "31" ]
+, [ 257, "4E343DCD-0329-484A-81DA-A9BB90095039", 257, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Cultural and Recreational Services", "Residential camps", "7" ]
+, [ 256, "D27E9713-E211-439B-95D7-5B46B526E348", 256, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Cultural and Recreational Services", "Regional parks", "5" ]
+, [ 255, "A79B205C-A7CB-47B0-A657-68912B01AAE5", 255, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Cultural and Recreational Services", "Recreational centers", "183" ]
+, [ 254, "B6503366-3DDA-4DAE-BB70-3CFD0ED87C80", 254, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Cultural and Recreational Services", "Pools", "60" ]
+, [ 253, "5EB8973E-DB1C-44CB-AF21-945426BB2F5A", 253, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Cultural and Recreational Services", "Park sites", "404" ]
+, [ 252, "76B4071E-EFBD-41BD-9DAB-60DA54379C30", 252, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Cultural and Recreational Services", "Museums", "12" ]
+, [ 251, "88F6572A-90BE-43B5-A5CD-BD940A9051F6", 251, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Cultural and Recreational Services", "Licensed child-care centers", "26" ]
+, [ 250, "C5E9E52B-90E7-4907-9C92-50AF164B7355", 250, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Cultural and Recreational Services", "Libraries", "72" ]
+, [ 249, "2C8544AD-33ED-45FD-82AF-4B5D305E05BA", 249, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Cultural and Recreational Services", "Lakes", "11" ]
+, [ 248, "AD853544-705E-4BD3-9BC1-EF7CD4B08C35", 248, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Cultural and Recreational Services", "Indoor gyms", "95" ]
+, [ 247, "BFD56521-5325-4957-B4D8-B6EB4465FCC5", 247, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Cultural and Recreational Services", "Horticulture centers", "6" ]
+, [ 246, "A3A5F022-EF13-4FA6-B3F1-0699C83D7B42", 246, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Cultural and Recreational Services", "Historical sites", "11" ]
+, [ 245, "2A69878E-7B14-4B6A-8030-83D0F3A9164C", 245, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Cultural and Recreational Services", "Hiking trails (miles)", "92" ]
+, [ 244, "A7304238-761D-4407-B6A2-ECA09F365E38", 244, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Cultural and Recreational Services", "Golf courses", "13" ]
+, [ 243, "9FC7546D-9950-4D17-A8E9-36BB08FE4EB5", 243, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Cultural and Recreational Services", "Dog parks", "9" ]
+, [ 242, "528DC66E-D0F2-4F58-8C7B-9F8E0B619C48", 242, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Cultural and Recreational Services", "Children's play areas", "368" ]
+, [ 241, "D4A14D2C-B63F-4002-A474-062AC7F22B33", 241, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Cultural and Recreational Services", "Baseball/softball diamonds", "256" ]
+, [ 240, "B8FB41A2-3277-43F3-A83A-167C3437F838", 240, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Cultural and Recreational Services", "Archery ranges", "3" ]
+, [ 239, "D17A2DBC-D2E4-4932-9954-F662A34ECA8D", 239, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Cultural and Recreational Services", "Acres park land (incl. beaches)", "15710" ]
+, [ 238, "7F8F05A7-135E-4A69-9206-A4F811C6D50C", 238, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Cultural and Recreational Services", "Acres of beach land", "232" ]
+, [ 237, "825BDBD2-9A09-4D08-87D3-4DB4EABF1681", 237, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Transportation", "Traffic signals", "4515" ]
+, [ 236, "727AAD9D-84F1-4175-9C08-DA2095FDF8B7", 236, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Transportation", "Commuter buses", "440" ]
+, [ 235, "632662DA-BB2A-4F1F-84CB-F27EC1320B7C", 235, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Transportation", "Bike paths", "12" ]
+, [ 234, "45B8C85D-B40D-4740-969F-094DFA5C2881", 234, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Transportation", "Automated traffic signal and control systems", "46" ]
+, [ 233, "C13E9361-900C-423D-A762-AE8894EE1636", 233, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Health and Sanitation", "Refuse yards", "7" ]
+, [ 232, "A42D7481-067F-41D1-8861-B75B594A5FF1", 232, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Health and Sanitation", "Refuse collection trucks", "744" ]
+, [ 231, "C6103D71-3890-4B60-BDC2-88F3587D9095", 231, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Public Works", "Streets (miles)", "6500" ]
+, [ 230, "0C4D85E2-2735-4001-8372-F29BAEF6B0A4", 230, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Public Works", "Street lights", "206000" ]
+, [ 229, "4B6628A0-BC96-4C93-AD35-0CFD2DD84408", 229, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Public Works", "Bridges", "507" ]
+, [ 228, "ACF84E51-D93F-4856-BA08-4B860C7B62A8", 228, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Protection of Persons and Property", "Police training centers", "3" ]
+, [ 227, "A40C8189-24D6-4F90-BD67-489B53BED0E2", 227, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Protection of Persons and Property", "Police stations", "25" ]
+, [ 226, "13A39A25-F55A-4E4A-99F9-AAC54AA1F1B3", 226, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Protection of Persons and Property", "Patrol units", "1374" ]
+, [ 225, "289546A2-7DFF-4FDA-A54B-88D003C9F964", 225, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Protection of Persons and Property", "Fire trucks", "360" ]
+, [ 224, "B4F9614B-1EA5-475B-9537-FDF49C4A74B0", 224, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Protection of Persons and Property", "Fire stations", "105" ]
+, [ 223, "6FB975BD-33CB-4109-9CFF-42F6E1796654", 223, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "Protection of Persons and Property", "Animal shelters", "6" ]
+, [ 222, "5344BBA2-4CB4-48F8-B25B-06BEF63F96F4", 222, 1390695326, "862121", 1390695326, "862121", "{\n}", "2008", "General Government", "Public office buildings", "18" ]
+, [ 174, "EC810D4F-AAFE-491E-A610-C7174EB0072E", 174, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Public Works", "Bridges", "507" ]
+, [ 220, "1CE347E7-6C82-493D-970B-9B574BC9BF47", 220, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Wastewater", "Stormdrain pipe mainline (miles)", "1000" ]
+, [ 219, "417332F0-C6B3-449B-8815-45AB26E41AB3", 219, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Wastewater", "Sanitary sewers (miles)", "6500" ]
+, [ 218, "594B897C-C1AF-4863-B9A5-63339675EF4F", 218, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Water ", "Service connections", "712184" ]
+, [ 217, "BC2A6F9A-BE34-477D-8F03-77B625A4C886", 217, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Water ", "Distribution pipe (miles)", "7229" ]
+, [ 216, "29149E6D-463B-4F03-9B77-C62B83E3B1C9", 216, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Water ", "Number of storage reservoirs and tanks", "108" ]
+, [ 215, "016EF81E-42F5-49FE-992B-BDA73FE7C5B8", 215, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Water ", "Aqueduct (miles)", "340" ]
+, [ 214, "ED453A4F-0E23-4A42-AFEF-E92813628684", 214, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Power", "Underground distribution lines (miles)", "6061" ]
+, [ 213, "6B000025-4140-4331-B004-2619BF15075D", 213, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Power", "Overhead distribution lines (miles)", "6954" ]
+, [ 212, "D02A3700-6275-4C2A-B206-C9D32C7388D2", 212, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Power", "Transmission lines (miles)", "3643" ]
+, [ 211, "3F0BF0DF-6B54-48F5-B9CE-0C9BD8371BCF", 211, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Power", "Number of generating units(2)", "50" ]
+, [ 210, "04611FDC-3613-44B2-9AFF-11359FC37BF3", 210, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Harbor", "Number of cargo terminals", "25" ]
+, [ 209, "22E29DA8-A0B6-408E-A832-611386CD9F8F", 209, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Harbor", "Number of major container terminals", "8" ]
+, [ 208, "39643048-6767-4422-A50F-9AA769B90D25", 208, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Airports", "Number of airports", "4" ]
+, [ 207, "08868BBC-7D34-4F3F-BF29-C8654D31A5E3", 207, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Cultural and Recreational Services", "Wedding sites", "12" ]
+, [ 206, "DA622AB7-1F74-4361-A84D-826808C48F2D", 206, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Cultural and Recreational Services", "Therapeutic centers", "3" ]
+, [ 205, "EB7D86E5-C258-415B-9F2C-3A5ED35FF7C0", 205, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Cultural and Recreational Services", "Tennis courts", "287" ]
+, [ 204, "E562B2E4-74DB-493F-8B5C-C69EA61B3326", 204, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Cultural and Recreational Services", "Skate parks ", "7" ]
+, [ 203, "E33441B4-C173-4E7E-958E-23C814F6BD8A", 203, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Cultural and Recreational Services", "Senior citizen centers", "30" ]
+, [ 202, "55583ECF-D575-450F-BA24-5B11EBEB58BC", 202, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Cultural and Recreational Services", "Residential camps", "7" ]
+, [ 201, "64D46D7C-91B4-4B93-A717-B7BD10E603F5", 201, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Cultural and Recreational Services", "Regional parks", "5" ]
+, [ 200, "5273CC89-80C6-44E8-B6F2-22CF07B09994", 200, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Cultural and Recreational Services", "Recreational centers", "181" ]
+, [ 199, "54D0CBD8-B3CA-41CE-A625-E3ADBBEAA85C", 199, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Cultural and Recreational Services", "Pools", "60" ]
+, [ 198, "3FF9994A-15A8-4A7E-A31A-46D25B9B8A96", 198, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Cultural and Recreational Services", "Park sites", "398" ]
+, [ 197, "4D03A9C3-018F-4A52-95CD-CF2D82241412", 197, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Cultural and Recreational Services", "Museums", "7" ]
+, [ 196, "844AA239-0D8C-4656-BA12-FD8999EFF018", 196, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Cultural and Recreational Services", "Licensed child-care centers", "26" ]
+, [ 195, "0C1705CB-5471-4971-BFD4-A58D96EB0954", 195, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Cultural and Recreational Services", "Libraries", "72" ]
+, [ 194, "FF517B6D-0D44-4C13-89F9-E04710765F57", 194, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Cultural and Recreational Services", "Lakes", "9" ]
+, [ 193, "EB7CBB7F-1F8B-4073-94D4-E86088344897", 193, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Cultural and Recreational Services", "Indoor gyms", "95" ]
+, [ 192, "1AE36D40-54F0-4636-B7F4-6B6357349F2B", 192, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Cultural and Recreational Services", "Horticulture centers", "6" ]
+, [ 191, "2406A21C-15FA-4227-B130-3A17C75A4C20", 191, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Cultural and Recreational Services", "Historical sites", "11" ]
+, [ 190, "D761AFD8-3978-4C6E-8CD8-ADC79085F2BB", 190, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Cultural and Recreational Services", "Hiking trails (miles)", "92" ]
+, [ 189, "89E982B4-C30A-43F5-910D-1D7B5D4DEA0A", 189, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Cultural and Recreational Services", "Golf courses", "13" ]
+, [ 188, "E1AEC43D-D6B8-4C4A-875B-99CEE1E9268C", 188, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Cultural and Recreational Services", "Dog parks", "9" ]
+, [ 187, "1791E824-48D9-4CAF-ABDE-4AC5E77266C6", 187, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Cultural and Recreational Services", "Children's play areas", "377" ]
+, [ 186, "DCAA6DF4-9DD4-45EE-A1DC-4F14A4AB8B2C", 186, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Cultural and Recreational Services", "Baseball/softball diamonds", "255" ]
+, [ 185, "4D81AD45-4AE5-4C9F-91EB-35C625E9E495", 185, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Cultural and Recreational Services", "Archery ranges", "3" ]
+, [ 184, "92F6D353-D878-4828-BF7B-D4C5F2F19357", 184, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Cultural and Recreational Services", "Acres park land (incl. beaches)", "15944" ]
+, [ 183, "3CACEDC9-EA67-4037-91DD-2F52B19CE07D", 183, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Cultural and Recreational Services", "Acres of beach land", "232" ]
+, [ 182, "91B2AA0C-D5F5-48A5-8F67-8514A58130F6", 182, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Transportation", "Traffic signals", "4506" ]
+, [ 181, "5F4203AC-87C5-48BD-8791-FEBDE722D104", 181, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Transportation", "Commuter buses", "488" ]
+, [ 180, "52A880AE-696A-438D-AA41-194280E64334", 180, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Transportation", "Bike paths", "12" ]
+, [ 179, "8C753949-0F00-4AD9-ABB8-D540DF92A7A3", 179, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Transportation", "Automated traffic signal and control systems", "41" ]
+, [ 178, "603D3A4A-4DAD-4D84-82BC-616F117D2CBF", 178, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Health and Sanitation", "Refuse yards", "7" ]
+, [ 177, "D36A50DB-72CD-4D08-9C3F-8DDD288F572E", 177, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Health and Sanitation", "Refuse collection trucks", "725" ]
+, [ 176, "60D9B435-58B8-424E-802C-2B859E8CB10C", 176, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Public Works", "Streets (miles)", "6500" ]
+, [ 175, "48E3AA7D-2EA0-4EE8-AF02-F79AB3FDF2D3", 175, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Public Works", "Street lights", "231402" ]
+, [ 173, "A56E8A3D-3680-4999-9352-9376548E7F23", 173, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Protection of Persons and Property", "Police training centers", "3" ]
+, [ 172, "C8AEEB38-C00C-45C6-A6AF-A90BB2EC3020", 172, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Protection of Persons and Property", "Police stations", "21" ]
+, [ 171, "D8A0C6C1-6D10-47D8-80F3-9BA7D54D5912", 171, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Protection of Persons and Property", "Patrol units", "1374" ]
+, [ 170, "EAF8DB59-BCE4-49E3-845D-33AF44F40E49", 170, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Protection of Persons and Property", "Fire trucks", "360" ]
+, [ 169, "9969951F-D0C7-4A04-B2B7-1E46C9345B1B", 169, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Protection of Persons and Property", "Fire stations", "104" ]
+, [ 168, "218ED901-7CA2-4894-B05C-725C6E9B268B", 168, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "Protection of Persons and Property", "Animal shelters", "6" ]
+, [ 167, "42578977-0F7B-45EA-A1B5-C66542048762", 167, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "General Government", "Public office buildings", "17" ]
+, [ 166, "C749A758-CBE6-4440-9A86-5703B14D9B46", 166, 1390695326, "862121", 1390695326, "862121", "{\n}", "2007", "General Government", "Fiber optic cabling (fiber miles)(1)", "9870" ]
+, [ 111, "8DBC013A-D8F4-4B7E-B33E-82D8DD1345D1", 111, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "General Government", "Fiber optic cabling (fiber miles)(1)", "9870" ]
+, [ 165, "3BA4CEE5-0ABA-4C46-BB6D-BF60870CCF72", 165, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Wastewater", "Stormdrain pipe mainline (miles)", "1000" ]
+, [ 164, "9B88F999-9C99-4924-BFAB-363A01BAF52C", 164, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Wastewater", "Sanitary sewers (miles)", "6500" ]
+, [ 163, "CA0DCF6F-70C4-4712-BE3F-3A4CEECA1250", 163, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Water ", "Service connections", "709988" ]
+, [ 162, "09DC9957-F01E-4C54-9E70-279DA9FBEBF6", 162, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Water ", "Distribution pipe (miles)", "7137" ]
+, [ 161, "54CA2B1D-4323-43EC-BF12-2DE71577AF66", 161, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Water ", "Number of storage reservoirs and tanks", "107" ]
+, [ 160, "57301D68-478B-4783-B040-568E86D9A021", 160, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Water ", "Aqueduct (miles)", "571" ]
+, [ 159, "CE8D8BFF-1825-4DE1-B21F-88FFF5786445", 159, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Power", "Underground distribution lines (miles)", "6115" ]
+, [ 158, "38A90624-B3CD-48C8-915E-25CE637D89A4", 158, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Power", "Overhead distribution lines (miles)", "7268" ]
+, [ 157, "4BE19C7A-83E5-426F-965F-497193431BC3", 157, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Power", "Transmission lines (miles)", "3643" ]
+, [ 156, "7895B511-F69D-46A3-9E20-B440C1A19D4F", 156, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Power", "Number of generating units(2)", "67" ]
+, [ 155, "3E5A1AE1-C9E0-4275-A137-D5CB0AFF7FCB", 155, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Harbor", "Number of cargo terminals", "27" ]
+, [ 154, "71BF612B-84A0-4371-BC1C-2D151827EC27", 154, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Harbor", "Number of major container terminals", "8" ]
+, [ 153, "9123AB11-B04B-42C1-81B3-C0647E769730", 153, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Airports", "Number of airports", "4" ]
+, [ 152, "8A2D1A65-538B-4F22-9709-A1C85DD5FA6E", 152, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Cultural and Recreational Services", "Wedding sites", "12" ]
+, [ 151, "08B5AD47-B97A-453F-AD5B-EA7F4F12D4BC", 151, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Cultural and Recreational Services", "Therapeutic centers", "3" ]
+, [ 150, "4D1EA1A0-2B27-437A-B52B-1F4CED4CBB9E", 150, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Cultural and Recreational Services", "Tennis courts", "287" ]
+, [ 149, "48C2F9A4-280D-4602-863D-362627918695", 149, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Cultural and Recreational Services", "Skate parks ", "7" ]
+, [ 148, "1DDAAF8F-4FC4-40C2-B9BA-356CBC85F288", 148, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Cultural and Recreational Services", "Senior citizen centers", "30" ]
+, [ 147, "17565D37-103A-4DA1-9AE8-D5E9B7606284", 147, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Cultural and Recreational Services", "Residential camps", "7" ]
+, [ 146, "EE03F1D6-E463-4B01-9F21-A36220C7BED4", 146, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Cultural and Recreational Services", "Regional parks", "5" ]
+, [ 145, "FC1D46B3-BDE5-45B0-A781-2599B4B87436", 145, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Cultural and Recreational Services", "Recreational centers", "180" ]
+, [ 143, "CF44ECBE-592F-48FB-ACDE-4BFBCDBA0D27", 143, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Cultural and Recreational Services", "Park sites", "397" ]
+, [ 142, "0BF1F24E-016A-40B6-9546-25ED5DDAC6D9", 142, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Cultural and Recreational Services", "Museums", "7" ]
+, [ 141, "3F4AD799-E26C-48D4-9959-593C460FACBB", 141, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Cultural and Recreational Services", "Licensed child-care centers", "25" ]
+, [ 140, "AD8054F6-BD5F-436F-9ABE-3BF5B22FDA36", 140, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Cultural and Recreational Services", "Libraries", "72" ]
+, [ 139, "60F37EDD-E017-4533-ACD3-E3BD91C04685", 139, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Cultural and Recreational Services", "Lakes", "9" ]
+, [ 138, "5079AEC3-06E5-49EA-A089-51C8AAA011E9", 138, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Cultural and Recreational Services", "Indoor gyms", "95" ]
+, [ 137, "B5776AB2-C2A6-4367-A469-E58ACDEDC76E", 137, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Cultural and Recreational Services", "Horticulture centers", "6" ]
+, [ 136, "E74F8BBF-B05F-4070-AD92-F2845B9E975E", 136, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Cultural and Recreational Services", "Historical sites", "11" ]
+, [ 135, "115E4934-E73D-4DF4-A3B0-D247B052CAEB", 135, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Cultural and Recreational Services", "Hiking trails (miles)", "92" ]
+, [ 134, "7254D752-9E3A-48EF-9247-BAC409456FC9", 134, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Cultural and Recreational Services", "Golf courses", "13" ]
+, [ 133, "607B3A71-D769-40FC-93E8-016505F245A4", 133, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Cultural and Recreational Services", "Dog parks", "9" ]
+, [ 132, "0F7A3457-FF4A-4CA3-A97E-FD83C3AE38AC", 132, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Cultural and Recreational Services", "Children's play areas", "377" ]
+, [ 131, "EC778104-57D2-4AFE-ABA6-8E40767FCFDF", 131, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Cultural and Recreational Services", "Baseball/softball diamonds", "253" ]
+, [ 130, "7587E3F3-A8B6-4158-A23D-D5C1BBFCA6D4", 130, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Cultural and Recreational Services", "Archery ranges", "3" ]
+, [ 129, "60761527-C10D-4C65-8C6C-B33FF14B820C", 129, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Cultural and Recreational Services", "Acres park land (incl. beaches)", "15822" ]
+, [ 128, "60D871B4-0054-42EC-8FB2-ED5EE735D7DF", 128, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Cultural and Recreational Services", "Acres of beach land", "232" ]
+, [ 127, "73027F65-B52E-434B-BD71-F5070D3D5C09", 127, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Transportation", "Traffic signals", "4555" ]
+, [ 126, "2D06B35C-2096-4634-AF6B-410F1906FDEB", 126, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Transportation", "Commuter buses", "535" ]
+, [ 125, "05CB1520-275F-4DA1-87DC-F3D346756D68", 125, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Transportation", "Bike paths", "14" ]
+, [ 124, "C553BBE7-E03E-455A-A1CE-3C814A42537F", 124, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Transportation", "Automated traffic signal and control systems", "46" ]
+, [ 123, "2431475F-16A9-441E-AC9A-E046658CD2C3", 123, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Health and Sanitation", "Refuse yards", "7" ]
+, [ 122, "588D6003-4324-4FAE-B3FD-CA5A20FF9E12", 122, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Health and Sanitation", "Refuse collection trucks", "705" ]
+, [ 121, "67737B2E-CB67-42D7-9C09-CC734AAFD593", 121, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Public Works", "Streets (miles)", "6489" ]
+, [ 120, "A61B378D-841B-463A-8CB0-F4261DCF1BF4", 120, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Public Works", "Street lights", "221113" ]
+, [ 119, "3346E8E5-79BA-4DE6-B56E-072B8B81ED2E", 119, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Public Works", "Bridges", "533" ]
+, [ 144, "C4D73E08-9E7C-4689-8648-6F767D816203", 144, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Cultural and Recreational Services", "Pools", "60" ]
+, [ 118, "68ED7F3D-624B-4517-9240-DF82E587A82B", 118, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Protection of Persons and Property", "Police training centers", "3" ]
+, [ 117, "97F1ECED-7454-4919-81D3-E1BB7F9BBCBD", 117, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Protection of Persons and Property", "Police stations", "21" ]
+, [ 116, "81245E38-DACD-4088-AF55-CF4ADEA4BC69", 116, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Protection of Persons and Property", "Patrol units", "1276" ]
+, [ 115, "617A2E01-004C-4A1A-8BE2-779B952EA774", 115, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Protection of Persons and Property", "Fire trucks", "360" ]
+, [ 114, "0B4D09A4-CD35-4A33-94A2-6DFB98C9EAF6", 114, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Protection of Persons and Property", "Fire stations", "103" ]
+, [ 113, "CCCDA286-FAA1-4627-8ABB-2EE5A26F157C", 113, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "Protection of Persons and Property", "Animal shelters", "6" ]
+, [ 112, "E2ECB529-4C99-4639-A980-7BA3DDA47866", 112, 1390695326, "862121", 1390695326, "862121", "{\n}", "2006", "General Government", "Public office buildings", "17" ]
+, [ 70, "5A8C1C6E-EDB0-4812-9DA6-460CBD358055", 70, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Transportation", "Bike paths", "14" ]
+, [ 110, "E596DAC6-CF0B-420E-AB20-AE15B4187436", 110, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Wastewater", "Stormdrain pipe mainline (miles)", "1200" ]
+, [ 109, "EFF43D90-135A-4597-9DA6-A141C588A517", 109, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Wastewater", "Sanitary sewers (miles)", "6500" ]
+, [ 108, "B167E26A-ECD8-47A5-B3A5-6DFEF77A2DBA", 108, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Water ", "Service connections", "708167" ]
+, [ 107, "87D2EFE2-C286-402D-808D-1C35393B8175", 107, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Water ", "Distribution pipe (miles)", "7119" ]
+, [ 106, "3197189D-7E0C-404C-847F-10D2FAF7993F", 106, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Water ", "Number of storage reservoirs and tanks", "107" ]
+, [ 105, "600757C5-377A-4EBA-B438-7E43C6088F47", 105, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Water ", "Aqueduct (miles)", "571" ]
+, [ 104, "83125125-9E03-43D9-9CA1-6832B2C9D927", 104, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Power", "Underground distribution lines (miles)", "6115" ]
+, [ 103, "601F9873-0885-4556-8695-B2A29383C8A2", 103, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Power", "Overhead distribution lines (miles)", "7268" ]
+, [ 102, "C03B0008-36AA-4CA4-9EE0-13BA59DE5B62", 102, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Power", "Transmission lines (miles)", "3631" ]
+, [ 101, "2BB27B69-2291-443F-A777-899BCE1D6C52", 101, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Power", "Number of generating units(2)", "60" ]
+, [ 100, "F43BAAC6-B62B-4AA5-B0F0-7F0B020C6057", 100, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Harbor", "Number of cargo terminals", "26" ]
+, [ 99, "1C7EC167-0424-4B2C-895F-395600B76639", 99, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Harbor", "Number of major container terminals", "8" ]
+, [ 98, "818D6CF7-10EC-4146-A03A-B9080F641784", 98, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Airports", "Number of airports", "4" ]
+, [ 97, "C9CFEA7A-8C83-4C41-B5E9-DF74AE61D4E4", 97, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Cultural and Recreational Services", "Wedding sites", "12" ]
+, [ 96, "CB66445A-9032-443D-BCFF-1BA970D4E92F", 96, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Cultural and Recreational Services", "Therapeutic centers", "3" ]
+, [ 95, "13A8C53F-203F-4D6A-9A27-6498D5E6319A", 95, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Cultural and Recreational Services", "Tennis courts", "287" ]
+, [ 94, "DA466612-5DC2-4892-ADC5-B245D60BC425", 94, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Cultural and Recreational Services", "Skate parks ", "7" ]
+, [ 93, "68FFE7FB-30AC-4CC5-8B1D-8280AF0C3FCF", 93, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Cultural and Recreational Services", "Senior citizen centers", "30" ]
+, [ 92, "9D2E4E46-4DE1-403B-BD9A-6D661A23841F", 92, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Cultural and Recreational Services", "Residential camps", "7" ]
+, [ 91, "75A8B04C-FE0F-4E4C-B486-EC32B7B1AB01", 91, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Cultural and Recreational Services", "Regional parks", "5" ]
+, [ 90, "5CD5FA96-AF32-41D3-A267-6D9BF9422AEE", 90, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Cultural and Recreational Services", "Recreational centers", "179" ]
+, [ 89, "A8F9243D-7820-4A09-AD72-EDF4389D35F0", 89, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Cultural and Recreational Services", "Pools", "59" ]
+, [ 88, "664E9468-70BE-495E-96E8-1E003B9F4EB2", 88, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Cultural and Recreational Services", "Park sites", "396" ]
+, [ 87, "6B940A50-C76D-49F8-B12E-3E5775F0460A", 87, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Cultural and Recreational Services", "Museums", "7" ]
+, [ 86, "96F1F3E8-9253-4251-830C-6BE41AB6661B", 86, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Cultural and Recreational Services", "Licensed child-care centers", "24" ]
+, [ 85, "BFDD37D2-BFE5-469C-A4E2-1424E29C6303", 85, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Cultural and Recreational Services", "Libraries", "72" ]
+, [ 84, "09B7CEC7-BA13-46EE-8A1C-A5FC42EAC6B3", 84, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Cultural and Recreational Services", "Lakes", "9" ]
+, [ 83, "DD22D5F0-F8DA-40C3-8776-A18DE8AC53C3", 83, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Cultural and Recreational Services", "Indoor gyms", "95" ]
+, [ 82, "5D83D6D6-1DB9-4659-9AB8-7A5EE32054EC", 82, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Cultural and Recreational Services", "Horticulture centers", "6" ]
+, [ 81, "0E070C84-37CF-4271-A3A5-B21D906A2D5E", 81, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Cultural and Recreational Services", "Historical sites", "11" ]
+, [ 80, "B5A617E5-2703-49AC-90C1-BF0C82F33669", 80, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Cultural and Recreational Services", "Hiking trails (miles)", "92" ]
+, [ 79, "9E8B970B-F067-48B4-8EAF-CC9326626E0E", 79, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Cultural and Recreational Services", "Golf courses", "13" ]
+, [ 78, "C2A1C8D1-AC43-4DA7-B2FE-F4DF049C00DC", 78, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Cultural and Recreational Services", "Dog parks", "9" ]
+, [ 77, "2F89B711-4579-46AC-A4ED-6B113AEE1B31", 77, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Cultural and Recreational Services", "Children's play areas", "374" ]
+, [ 76, "94C845C4-5F4B-4181-89CA-4CF2DA81C894", 76, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Cultural and Recreational Services", "Baseball/softball diamonds", "253" ]
+, [ 75, "1F3A63A6-04CA-4435-8E26-F03660C49BBD", 75, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Cultural and Recreational Services", "Archery ranges", "3" ]
+, [ 74, "797DAF04-B43A-4E71-B8B7-FE50C2A50D9E", 74, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Cultural and Recreational Services", "Acres park land (incl. beaches)", "15704" ]
+, [ 73, "6506E24E-9E0D-45D9-BED6-A32E52B8DF28", 73, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Cultural and Recreational Services", "Acres of beach land", "232" ]
+, [ 72, "E748445C-65F3-4C87-B363-CB63AF86D0FC", 72, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Transportation", "Traffic signals", "4251" ]
+, [ 71, "1CDC45C5-E545-4211-B1E0-CD40AE6F4915", 71, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Transportation", "Commuter buses", "516" ]
+, [ 69, "B58B5D42-89A2-43C8-947E-2C3F1BD0EDC6", 69, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Transportation", "Automated traffic signal and control systems", "43" ]
+, [ 68, "80620ED6-C6F4-4CC4-BF33-2126A1EBC08C", 68, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Health and Sanitation", "Refuse yards", "7" ]
+, [ 67, "9B45EE15-E3DA-4418-88A3-1F84D7B1DCE1", 67, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Health and Sanitation", "Refuse collection trucks", "751" ]
+, [ 66, "3B96D242-4E61-4C1E-82BC-D366E960278A", 66, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Public Works", "Streets (miles)", "6493" ]
+, [ 65, "28A121A3-99B9-4222-9405-1D9618651645", 65, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Public Works", "Street lights", "218248" ]
+, [ 64, "02BE8798-EE1A-4596-A20B-33B6E63E8B26", 64, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Public Works", "Bridges", "533" ]
+, [ 63, "AA36A251-A3BA-429B-9A35-6ED99E65ECF5", 63, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Protection of Persons and Property", "Police training centers", "3" ]
+, [ 62, "455F71CE-C6F6-4E9B-BC81-EDA0E89D2BAC", 62, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Protection of Persons and Property", "Police stations", "21" ]
+, [ 61, "DEA5B84B-BAE0-45E2-8BAA-E315D8B4CFC5", 61, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Protection of Persons and Property", "Patrol units", "1276" ]
+, [ 60, "5FA01B8B-E76F-40AA-8B13-C42D00424C4C", 60, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Protection of Persons and Property", "Fire trucks", "360" ]
+, [ 59, "9652BA51-18A4-46AE-A4E6-87EC39207E98", 59, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Protection of Persons and Property", "Fire stations", "103" ]
+, [ 58, "E84F3E33-DC58-40E2-B443-B0462B98D116", 58, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "Protection of Persons and Property", "Animal shelters", "6" ]
+, [ 57, "F3BA97C6-78E6-41D1-8E82-9ACCF13CFD57", 57, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "General Government", "Public office buildings", "17" ]
+, [ 56, "C286A1CD-9A27-47AD-A7B7-4CC3FB77FCB8", 56, 1390695326, "862121", 1390695326, "862121", "{\n}", "2005", "General Government", "Fiber optic cabling (fiber miles)(1)", "9855" ]
+, [ 55, "2B392EAC-F901-47CD-B4D7-A6D55DAC2F27", 55, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Wastewater", "Stormdrain pipe mainline (miles)", "1500" ]
+, [ 10, "C0857BD3-7262-498D-A925-1ACBD4CD0973", 10, 1390695326, "862121", 1392688818, "862121", "{}", "2004", "Public Works", "Street lights", "242000" ]
+, [ 2, "2CF1122E-9336-40C3-ACD7-3A4AE356C8AE", 2, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "General Government", "Public office buildings", "16" ]
+, [ 3, "EF673AAC-1BEE-4760-A389-C0429E5AB946", 3, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Protection of Persons and Property", "Animal shelters", "6" ]
+, [ 4, "310D07A7-E1BF-43EB-A854-1D56BDA9332B", 4, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Protection of Persons and Property", "Fire stations", "103" ]
+, [ 5, "02A6392F-5462-4F49-9F06-64CF5C90AA37", 5, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Protection of Persons and Property", "Fire trucks", "360" ]
+, [ 6, "6FDFDE0D-CB13-4827-8DA6-13B9EDAB75D1", 6, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Protection of Persons and Property", "Patrol units", "1276" ]
+, [ 7, "8B650D81-3165-4924-BA8D-E7055B2E3937", 7, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Protection of Persons and Property", "Police stations", "20" ]
+, [ 8, "E83754A1-6E3E-4A21-8A30-0AF03A6A54A0", 8, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Protection of Persons and Property", "Police training centers", "3" ]
+, [ 9, "35FA12FB-CC13-4E52-9E80-FA87E32C1C9B", 9, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Public Works", "Bridges", "533" ]
+, [ 11, "D403B398-8735-42F4-8DEA-809F74252218", 11, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Public Works", "Streets (miles)", "7221" ]
+, [ 12, "DD6A3283-6C63-4EDC-9A7A-B1304A2EAFCB", 12, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Health and Sanitation", "Refuse collection trucks", "734" ]
+, [ 13, "05DE13AF-DD3B-4562-9EF5-751FA3387854", 13, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Health and Sanitation", "Refuse yards", "7" ]
+, [ 14, "63AC6B44-3F02-401B-B31A-54BB3BC5F2B1", 14, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Transportation", "Automated traffic signal and control systems", "42" ]
+, [ 15, "540A8803-9B10-4658-9FE3-48369DC7CF05", 15, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Transportation", "Bike paths", "14" ]
+, [ 16, "75290A17-C7F8-4A55-80EA-3DFBE902A6BD", 16, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Transportation", "Commuter buses", "513" ]
+, [ 17, "4731E4F7-226E-4355-B7C9-FA0A03E62255", 17, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Transportation", "Traffic signals", "3403" ]
+, [ 18, "DEC1FC36-1F83-419F-9C30-38D3338BFD1B", 18, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Cultural and Recreational Services", "Acres of beach land", "232" ]
+, [ 19, "D71F49BB-CD04-4F3C-BA50-A254167D4B95", 19, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Cultural and Recreational Services", "Acres park land (incl. beaches)", "15553" ]
+, [ 20, "9D8E8254-0FF8-4F9D-9C53-3ABE39D91284", 20, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Cultural and Recreational Services", "Archery ranges", "3" ]
+, [ 21, "CB2CC76B-FD82-49A1-92E3-778FBA313636", 21, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Cultural and Recreational Services", "Baseball/softball diamonds", "251" ]
+, [ 22, "8A51054F-445E-4B32-BC30-E2143881D432", 22, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Cultural and Recreational Services", "Children's play areas", "372" ]
+, [ 23, "9FDDAF34-4E26-4302-B1E5-9642D7DC07D3", 23, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Cultural and Recreational Services", "Dog parks", "8" ]
+, [ 24, "E82C1BB7-F4D7-4BDA-AF24-B9BB6DA7E69A", 24, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Cultural and Recreational Services", "Golf courses", "13" ]
+, [ 25, "9B8F5A6C-171F-490E-9BB1-904AE04A777F", 25, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Cultural and Recreational Services", "Hiking trails (miles)", "92" ]
+, [ 26, "36D7423F-5A65-448A-8C5A-045F401AB8C6", 26, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Cultural and Recreational Services", "Historical sites", "11" ]
+, [ 27, "39D5161A-EE11-48C4-B69E-42B147F444CB", 27, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Cultural and Recreational Services", "Horticulture centers", "6" ]
+, [ 28, "D40B07F7-BDE5-4DF3-A597-C0D096E0B196", 28, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Cultural and Recreational Services", "Indoor gyms", "95" ]
+, [ 29, "C1E3BFCD-0725-4DAE-9E43-76E6A1289B00", 29, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Cultural and Recreational Services", "Lakes", "9" ]
+, [ 30, "6A8D93A3-5D1E-456F-ADF5-E59D2EC8583A", 30, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Cultural and Recreational Services", "Libraries", "71" ]
+, [ 31, "2F19FEB6-3686-4FC6-8D47-FE7E3C969E4C", 31, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Cultural and Recreational Services", "Licensed child-care centers", "23" ]
+, [ 32, "B025D72E-DDAC-407E-8BBE-7B12F6979B54", 32, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Cultural and Recreational Services", "Museums", "7" ]
+, [ 33, "32C3F672-832A-4C5E-B8E4-14F05F2264F9", 33, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Cultural and Recreational Services", "Park sites", "394" ]
+, [ 34, "5601BA34-CA5D-476D-B251-82A09C5DB443", 34, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Cultural and Recreational Services", "Pools", "59" ]
+, [ 35, "32433592-8ACA-4036-ACED-4955C4BA5D02", 35, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Cultural and Recreational Services", "Recreational centers", "176" ]
+, [ 36, "ABC13F18-122D-41CC-AD4B-6B6993FA1D00", 36, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Cultural and Recreational Services", "Regional parks", "5" ]
+, [ 37, "90A1B38B-3D47-4020-B529-B82E4FEA4F1D", 37, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Cultural and Recreational Services", "Residential camps", "7" ]
+, [ 38, "59EEEDB5-5030-4B4A-93DA-A6D568741722", 38, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Cultural and Recreational Services", "Senior citizen centers", "27" ]
+, [ 39, "353F2CB4-5166-4E3D-A811-EBB2AB8E793C", 39, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Cultural and Recreational Services", "Skate parks ", "7" ]
+, [ 40, "5F5F281A-882F-4710-A4EB-EE3169892E2D", 40, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Cultural and Recreational Services", "Tennis courts", "287" ]
+, [ 41, "B2BFB700-E440-45C8-A511-63D0B6889D6A", 41, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Cultural and Recreational Services", "Therapeutic centers", "3" ]
+, [ 1, "4F5F1DD7-089A-4BB1-89F2-969A0B4B5001", 1, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "General Government", "Fiber optic cabling (fiber miles)(1)", "9843" ]
+, [ 42, "98AA9383-8CF4-44F1-95B2-2EC72969665C", 42, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Cultural and Recreational Services", "Wedding sites", "12" ]
+, [ 43, "E2B8FF49-D57F-4007-BD79-DFC6AF5FCC6E", 43, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Airports", "Number of airports", "4" ]
+, [ 44, "2B119836-5629-4E4A-80C9-90A1066B7E99", 44, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Harbor", "Number of major container terminals", "8" ]
+, [ 45, "026EC9B5-B0FE-4391-B9EC-B0C348C35A82", 45, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Harbor", "Number of cargo terminals", "26" ]
+, [ 46, "906B077F-4A1E-4799-BE83-EE915CA2B81C", 46, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Power", "Number of generating units(2)", "60" ]
+, [ 47, "85E07F4B-F95C-417B-AA31-7D338E40CDC3", 47, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Power", "Transmission lines (miles)", "3631" ]
+, [ 48, "5C4DF654-C479-40D5-B258-E88F5D1D183B", 48, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Power", "Overhead distribution lines (miles)", "6949" ]
+, [ 49, "F1CD2CA5-9330-449F-B1FE-3EF82D74F057", 49, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Power", "Underground distribution lines (miles)", "6257" ]
+, [ 50, "AE1EA1B3-61C7-4AB6-988B-05CA1B6DEEEA", 50, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Water ", "Aqueduct (miles)", "571" ]
+, [ 51, "CCAEE61B-BB25-480F-81EA-D35C43879A53", 51, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Water ", "Number of storage reservoirs and tanks", "109" ]
+, [ 52, "8852980B-4345-4B00-9A1F-706AD5ECDA1A", 52, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Water ", "Distribution pipe (miles)", "7108" ]
+, [ 53, "855FE6FC-FB98-425C-9278-D539D4E27302", 53, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Water ", "Service connections", "706789" ]
+, [ 54, "70FD0830-6E6C-4F3A-99EB-4A7CE0F807B2", 54, 1390695326, "862121", 1390695326, "862121", "{\n}", "2004", "Wastewater", "Sanitary sewers (miles)", "6500" ]
+ ]
+}

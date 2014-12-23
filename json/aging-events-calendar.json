@@ -1,0 +1,364 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "m7du-3p6a",
+      "name" : "Aging Events Calendar",
+      "averageRating" : 0,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1401474702,
+      "description" : "Upcoming Events for Older Americans",
+      "displayType" : "table",
+      "downloadCount" : 10,
+      "indexUpdatedAt" : 1414612805,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8107856,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401478485,
+      "publicationGroup" : 1600345,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1401476092,
+      "rowsUpdatedBy" : "hhg6-ygkh",
+      "tableId" : 1600345,
+      "totalTimesRated" : 0,
+      "viewCount" : 50,
+      "viewLastModified" : 1401478485,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150644144,
+        "name" : "Event",
+        "dataTypeName" : "text",
+        "description" : "Name of the Event",
+        "fieldName" : "event",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20018903,
+        "width" : 369,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "10th Annual Hoarding Forum",
+          "null" : 0,
+          "largest" : "The Oys & Joys of Aging",
+          "top" : [ {
+            "count" : 20,
+            "item" : "LA Department of Aging Go-Kit Presentation"
+          }, {
+            "count" : 19,
+            "item" : "Communities Actively Living Independent & Free (CALIF)"
+          }, {
+            "count" : 18,
+            "item" : "The Oys & Joys of Aging"
+          }, {
+            "count" : 17,
+            "item" : "10th Annual Hoarding Forum"
+          }, {
+            "count" : 16,
+            "item" : "LA Department of Aging Free 30-Minute Teleconference"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150644145,
+        "name" : "Location",
+        "dataTypeName" : "text",
+        "description" : "Location of the Event",
+        "fieldName" : "location",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20018904,
+        "width" : 464,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "Bernardi Senior Center, 6514 Sylmar Ave,, Van Nuys, CA  91401",
+          "null" : 0,
+          "largest" : "Steel Plaza Senior Housing, 1711 W. 3rd Street, Los Angeles, CA  90017",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Steel Plaza Senior Housing, 1711 W. 3rd Street, Los Angeles, CA  90017"
+          }, {
+            "count" : 19,
+            "item" : "Open House & Art Fest, 634 South Spring St., Los Angeles, CA  90014"
+          }, {
+            "count" : 18,
+            "item" : "Glassel Park Senior Club, 3750 Verduge Rd, Los Angeles, CA  90065"
+          }, {
+            "count" : 17,
+            "item" : "Bernardi Senior Center, 6514 Sylmar Ave,, Van Nuys, CA  91401"
+          }, {
+            "count" : 16,
+            "item" : "LA County Dept. of Mental Health, GENESIS, 1000 N. Alameda St., Los Angeles, CA 90012"
+          }, {
+            "count" : 15,
+            "item" : "Free 30-Minute Teleconference on Benefits of Adult Day Care"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150644155,
+        "name" : "Start Time",
+        "dataTypeName" : "calendar_date",
+        "description" : "Start time when the event will start.",
+        "fieldName" : "date",
+        "position" : 3,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 20018914,
+        "width" : 168,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "2014-06-05T10:00:00",
+          "null" : 0,
+          "largest" : "2014-06-25T14:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2014-06-05T10:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2014-06-05T11:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2014-06-06T10:30:00"
+          }, {
+            "count" : 17,
+            "item" : "2014-06-18T09:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2014-06-18T08:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2014-06-19T08:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2014-06-25T10:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2014-06-25T14:00:00"
+          } ]
+        },
+        "format" : {
+          "view" : "date_time",
+          "align" : "left"
+        }
+      }, {
+        "id" : 150644208,
+        "name" : "End Time",
+        "dataTypeName" : "calendar_date",
+        "description" : "Time when the event will end",
+        "fieldName" : "time",
+        "position" : 4,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 20018939,
+        "width" : 185,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "2012-06-05T16:00:00",
+          "null" : 0,
+          "largest" : "2014-06-25T14:30:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2014-06-05T11:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2012-06-05T16:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2014-06-06T11:30:00"
+          }, {
+            "count" : 17,
+            "item" : "2014-06-18T12:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2014-06-18T17:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2014-06-19T12:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2014-06-25T10:30:00"
+          }, {
+            "count" : 13,
+            "item" : "2014-06-25T14:30:00"
+          } ]
+        },
+        "format" : {
+          "view" : "date_time",
+          "align" : "left"
+        }
+      }, {
+        "id" : 150644237,
+        "name" : "Phone",
+        "dataTypeName" : "phone",
+        "description" : "Phone number for point of contact",
+        "fieldName" : "phone",
+        "position" : 5,
+        "renderTypeName" : "phone",
+        "tableColumnId" : 20018968,
+        "width" : 481,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : {
+            "phone_number" : "2133517284"
+          },
+          "null" : 0,
+          "largest" : {
+            "phone_number" : "8187557861"
+          },
+          "top" : [ {
+            "count" : 20,
+            "item" : {
+              "phone_number" : "2134131713"
+            }
+          }, {
+            "count" : 19,
+            "item" : {
+              "phone_number" : "2136270477"
+            }
+          }, {
+            "count" : 18,
+            "item" : {
+              "phone_number" : "2134827241"
+            }
+          }, {
+            "count" : 17,
+            "item" : {
+              "phone_number" : "8187557861"
+            }
+          }, {
+            "count" : 16,
+            "item" : {
+              "phone_number" : "2133517284"
+            }
+          } ]
+        },
+        "format" : {
+        },
+        "subColumnTypes" : [ "phone_number", "phone_type" ]
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Other"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "hhg6-ygkh",
+        "displayName" : "Aging OpenData",
+        "profileImageUrlLarge" : "/images/profile/8472/1449/City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/8472/1449/City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/8472/1449/City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Aging OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "hhg6-ygkh",
+        "displayName" : "Aging OpenData",
+        "profileImageUrlLarge" : "/images/profile/8472/1449/City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/8472/1449/City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/8472/1449/City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Aging OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "events", "calendar", "aging", "department of aging", "information" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "96E4F8F7-BAD9-40B9-9F40-863D77F55510", 1, 1401474954, "883705", 1401475054, "883705", null, "LA Department of Aging Go-Kit Presentation", "Steel Plaza Senior Housing, 1711 W. 3rd Street, Los Angeles, CA  90017", "2014-06-05T10:00:00", "2014-06-05T11:00:00", [ "2134131713", null ] ]
+, [ 2, "7466AF7D-19E1-4C32-BE17-40F8ED559285", 2, 1401475081, "883705", 1401475156, "883705", null, "Communities Actively Living Independent & Free (CALIF)", "Open House & Art Fest, 634 South Spring St., Los Angeles, CA  90014", "2014-06-05T11:00:00", "2012-06-05T16:00:00", [ "2136270477", null ] ]
+, [ 3, "E9008F6A-7B26-4AFB-B7E7-7448E5560447", 3, 1401475174, "883705", 1401475257, "883705", null, "LA Department of Aging Go-Kit Presentation", "Glassel Park Senior Club, 3750 Verduge Rd, Los Angeles, CA  90065", "2014-06-06T10:30:00", "2014-06-06T11:30:00", [ "2134827241", null ] ]
+, [ 4, "B6E2A2A1-343A-4A23-A72A-3F2406D404F1", 4, 1401475280, "883705", 1401475347, "883705", null, "The Oys & Joys of Aging", "Bernardi Senior Center, 6514 Sylmar Ave,, Van Nuys, CA  91401", "2014-06-18T09:00:00", "2014-06-18T12:00:00", [ "8187557861", null ] ]
+, [ 5, "E0CA92D7-1DF0-4EAC-946B-7C747DA3DDD2", 5, 1401475363, "883705", 1401475995, "883705", null, "10th Annual Hoarding Forum", "LA County Dept. of Mental Health, GENESIS, 1000 N. Alameda St., Los Angeles, CA 90012", "2014-06-18T08:00:00", "2014-06-18T17:00:00", [ "2133517284", null ] ]
+, [ 6, "1C4D393F-6EA4-41FE-8AC9-FFA05DC3EA4E", 6, 1401475460, "883705", 1401476009, "883705", null, "10th Annual Hoarding Forum", "LA County Dept. of Mental Health, GENESIS, 1000 N. Alameda St., Los Angeles, CA 90012", "2014-06-19T08:00:00", "2014-06-19T12:00:00", [ "2133517284", null ] ]
+, [ 7, "3CFFF413-5ADC-4E47-8829-9B9FB006C706", 7, 1401475878, "883705", 1401476088, "883705", null, "LA Department of Aging Free 30-Minute Teleconference", "Free 30-Minute Teleconference on Benefits of Adult Day Care", "2014-06-25T10:00:00", "2014-06-25T10:30:00", [ "2134827241", null ] ]
+, [ 8, "F51CAA87-F98E-40F9-A272-C3712FD20E58", 8, 1401475930, "883705", 1401476092, "883705", null, "LA Department of Aging Free 30-Minute Teleconference", "Free 30-Minute Teleconference on Benefits of Adult Day Care", "2014-06-25T14:00:00", "2014-06-25T14:30:00", [ "2134827241", null ] ]
+ ]
+}

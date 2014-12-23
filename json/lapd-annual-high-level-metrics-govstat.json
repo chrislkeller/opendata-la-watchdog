@@ -1,0 +1,545 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "t6kt-2yic",
+      "name" : "LAPD - Annual High Level Metrics - GOVSTAT",
+      "attribution" : "LAPD",
+      "averageRating" : 0,
+      "category" : "A Safe City",
+      "createdAt" : 1401337549,
+      "description" : "Contains rolled up annual",
+      "displayType" : "table",
+      "downloadCount" : 12,
+      "indexUpdatedAt" : 1414613842,
+      "licenseId" : "PUBLIC_DOMAIN",
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8100568,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401419496,
+      "publicationGroup" : 1598111,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1401419488,
+      "rowsUpdatedBy" : "anbw-drra",
+      "tableId" : 1599452,
+      "totalTimesRated" : 0,
+      "viewCount" : 254,
+      "viewLastModified" : 1401510463,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150471847,
+        "name" : "Priority Outcome",
+        "dataTypeName" : "text",
+        "fieldName" : "priority_outcome",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19984708,
+        "width" : 292,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "3. Public Safety",
+          "null" : 0,
+          "largest" : "3. Public Safety",
+          "top" : [ {
+            "count" : 20,
+            "item" : "3. Public Safety"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150471848,
+        "name" : "Final Report Date",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "final_report_date",
+        "position" : 3,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 19984709,
+        "width" : 304,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "2009-12-31T00:00:00",
+          "null" : 0,
+          "largest" : "2014-05-12T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2009-12-31T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2010-12-31T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2012-12-31T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2013-12-31T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2011-12-31T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2014-05-12T00:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150471849,
+        "name" : "Final Report Date Name",
+        "dataTypeName" : "text",
+        "fieldName" : "final_report_date_name",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19984710,
+        "width" : 364,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "Dec-09",
+          "null" : 0,
+          "largest" : "May-14 (YTD)",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Dec-09"
+          }, {
+            "count" : 19,
+            "item" : "Dec-10"
+          }, {
+            "count" : 18,
+            "item" : "Dec-12"
+          }, {
+            "count" : 17,
+            "item" : "Dec-13"
+          }, {
+            "count" : 16,
+            "item" : "Dec-11"
+          }, {
+            "count" : 15,
+            "item" : "May-14 (YTD)"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150471850,
+        "name" : "Part 1 Crimes",
+        "dataTypeName" : "number",
+        "fieldName" : "part_1_crimes",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19984711,
+        "width" : 256,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "32522",
+          "sum" : "574941",
+          "null" : 0,
+          "average" : "95823.5",
+          "largest" : "118310",
+          "top" : [ {
+            "count" : 20,
+            "item" : "118310"
+          }, {
+            "count" : 19,
+            "item" : "111188"
+          }, {
+            "count" : 18,
+            "item" : "106025"
+          }, {
+            "count" : 17,
+            "item" : "100521"
+          }, {
+            "count" : 16,
+            "item" : "106375"
+          }, {
+            "count" : 15,
+            "item" : "32522"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150471851,
+        "name" : "Gang Crimes",
+        "dataTypeName" : "number",
+        "fieldName" : "gang_crimes",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19984712,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "1042",
+          "sum" : "25426",
+          "null" : 0,
+          "average" : "4237.666666666667",
+          "largest" : "6170",
+          "top" : [ {
+            "count" : 20,
+            "item" : "6170"
+          }, {
+            "count" : 19,
+            "item" : "5545"
+          }, {
+            "count" : 18,
+            "item" : "4339"
+          }, {
+            "count" : 17,
+            "item" : "3576"
+          }, {
+            "count" : 16,
+            "item" : "4754"
+          }, {
+            "count" : 15,
+            "item" : "1042"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150471852,
+        "name" : "Homicides",
+        "dataTypeName" : "number",
+        "fieldName" : "homicides",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19984713,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "91",
+          "sum" : "1543",
+          "null" : 0,
+          "average" : "257.1666666666667",
+          "largest" : "312",
+          "top" : [ {
+            "count" : 20,
+            "item" : "312"
+          }, {
+            "count" : 19,
+            "item" : "293"
+          }, {
+            "count" : 18,
+            "item" : "299"
+          }, {
+            "count" : 17,
+            "item" : "251"
+          }, {
+            "count" : 16,
+            "item" : "297"
+          }, {
+            "count" : 15,
+            "item" : "91"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150471853,
+        "name" : "Sworn Officers",
+        "dataTypeName" : "number",
+        "fieldName" : "sworn_officers",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19984714,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "9869",
+          "sum" : "59608",
+          "null" : 0,
+          "average" : "9934.666666666667",
+          "largest" : "10001",
+          "top" : [ {
+            "count" : 20,
+            "item" : "9963"
+          }, {
+            "count" : 19,
+            "item" : "9937"
+          }, {
+            "count" : 18,
+            "item" : "9947"
+          }, {
+            "count" : 17,
+            "item" : "10001"
+          }, {
+            "count" : 16,
+            "item" : "9869"
+          }, {
+            "count" : 15,
+            "item" : "9891"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150471854,
+        "name" : "Sexual Assault Evidence kit backlog",
+        "dataTypeName" : "number",
+        "fieldName" : "sexual_assault_evidence_kit_backlog",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19984715,
+        "width" : 520,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "0",
+          "sum" : "7122",
+          "null" : 0,
+          "average" : "1187",
+          "largest" : "4875",
+          "top" : [ {
+            "count" : 20,
+            "item" : "4875"
+          }, {
+            "count" : 19,
+            "item" : "1664"
+          }, {
+            "count" : 18,
+            "item" : "38"
+          }, {
+            "count" : 17,
+            "item" : "0"
+          }, {
+            "count" : 16,
+            "item" : "545"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      }, {
+        "id" : 150471855,
+        "name" : "Collisions",
+        "dataTypeName" : "number",
+        "fieldName" : "collisions",
+        "position" : 10,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19984716,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "6492",
+          "sum" : "68302",
+          "null" : 2,
+          "average" : "17075.5",
+          "largest" : "21362",
+          "top" : [ {
+            "count" : 20,
+            "item" : "20208"
+          }, {
+            "count" : 19,
+            "item" : "21362"
+          }, {
+            "count" : 18,
+            "item" : "20240"
+          }, {
+            "count" : 17,
+            "item" : "6492"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150471856,
+        "name" : "911 Calls answered within 10 seconds",
+        "dataTypeName" : "percent",
+        "fieldName" : "_911_calls_answered_within_10_seconds",
+        "position" : 11,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 19984717,
+        "width" : 532,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "85.51",
+          "sum" : "544.42",
+          "null" : 0,
+          "average" : "90.73666666666667",
+          "largest" : "94.49",
+          "top" : [ {
+            "count" : 20,
+            "item" : "90.55"
+          }, {
+            "count" : 19,
+            "item" : "85.51"
+          }, {
+            "count" : 18,
+            "item" : "94.49"
+          }, {
+            "count" : 17,
+            "item" : "93.80"
+          }, {
+            "count" : 16,
+            "item" : "85.73"
+          }, {
+            "count" : 15,
+            "item" : "94.34"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150471857,
+        "name" : "Non-emergency calls answered within 20 seconds",
+        "dataTypeName" : "percent",
+        "fieldName" : "non_emergency_calls_answered_within_20_seconds",
+        "position" : 12,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 19984718,
+        "width" : 652,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "67.90",
+          "sum" : "432.01",
+          "null" : 0,
+          "average" : "72.00166666666667",
+          "largest" : "82.05",
+          "top" : [ {
+            "count" : 20,
+            "item" : "82.05"
+          }, {
+            "count" : 19,
+            "item" : "72.88"
+          }, {
+            "count" : 18,
+            "item" : "70.57"
+          }, {
+            "count" : 17,
+            "item" : "69.61"
+          }, {
+            "count" : 16,
+            "item" : "69.00"
+          }, {
+            "count" : 15,
+            "item" : "67.90"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Public Domain"
+      },
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "LAPD"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "tgn6-4379",
+        "displayName" : "Mayor's Office OpenData",
+        "profileImageUrlLarge" : "/images/profile/5324/8362/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5324/8362/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5324/8362/_City_Seal_tiny.jpg",
+        "roleName" : "administrator",
+        "screenName" : "Mayor's Office OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "tyhz-nfmm",
+        "displayName" : "Miguel Sangalang",
+        "roleName" : "administrator",
+        "screenName" : "Miguel Sangalang",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "tags" : [ "lapd", "police", "crime", "response", "response time" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "819D941D-2459-4084-A1DE-D567006ED017", 1, 1401337552, "865572", 1401337552, "865572", "{\n}", "3. Public Safety", "2009-12-31T00:00:00", "Dec-09", "118310", "6170", "312", "9963", "4875", null, "90.55", "82.05" ]
+, [ 2, "28950722-18DD-47E8-BB2C-E97156307856", 2, 1401337552, "865572", 1401337552, "865572", "{\n}", "3. Public Safety", "2010-12-31T00:00:00", "Dec-10", "111188", "5545", "293", "9937", "1664", null, "85.51", "72.88" ]
+, [ 3, "F0FD0D0A-99E3-4C41-BCA8-824C113E76F6", 3, 1401337552, "865572", 1401337552, "865572", "{\n}", "3. Public Safety", "2012-12-31T00:00:00", "Dec-12", "106025", "4339", "299", "9947", "38", "20208", "94.49", "70.57" ]
+, [ 4, "6A8B422E-B095-4FFD-8E3E-4AA824B02EC2", 4, 1401337552, "865572", 1401337552, "865572", "{\n}", "3. Public Safety", "2013-12-31T00:00:00", "Dec-13", "100521", "3576", "251", "10001", "0", "21362", "93.80", "69.61" ]
+, [ 5, "491C798C-CA6F-4C61-96F9-B15CBDCD6624", 5, 1401337552, "865572", 1401337552, "865572", "{\n}", "3. Public Safety", "2011-12-31T00:00:00", "Dec-11", "106375", "4754", "297", "9869", "545", "20240", "85.73", "69.00" ]
+, [ 6, "345097E0-7EFC-4B62-8E43-F2896E8CD81D", 6, 1401337552, "865572", 1401419488, "881225", null, "3. Public Safety", "2014-05-12T00:00:00", "May-14 (YTD)", "32522", "1042", "91", "9891", "0", "6492", "94.34", "67.90" ]
+ ]
+}

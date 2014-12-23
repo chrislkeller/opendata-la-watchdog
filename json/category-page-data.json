@@ -1,0 +1,267 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "vq5t-iz3j",
+      "name" : "Category Page Data",
+      "averageRating" : 0,
+      "createdAt" : 1396390368,
+      "displayType" : "table",
+      "downloadCount" : 2,
+      "indexUpdatedAt" : 1401419217,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8100055,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401403590,
+      "publicationGroup" : 1531387,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1401403579,
+      "rowsUpdatedBy" : "vcvp-yass",
+      "tableId" : 1599285,
+      "totalTimesRated" : 0,
+      "viewCount" : 58,
+      "viewLastModified" : 1401403590,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150465075,
+        "name" : "Sort",
+        "dataTypeName" : "number",
+        "fieldName" : "sort",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18951899,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "1",
+          "sum" : "15",
+          "null" : 0,
+          "average" : "3",
+          "largest" : "5",
+          "top" : [ {
+            "count" : 20,
+            "item" : "3"
+          }, {
+            "count" : 19,
+            "item" : "2"
+          }, {
+            "count" : 18,
+            "item" : "1"
+          }, {
+            "count" : 17,
+            "item" : "4"
+          }, {
+            "count" : 16,
+            "item" : "5"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150465076,
+        "name" : "Text",
+        "dataTypeName" : "text",
+        "fieldName" : "text",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18951900,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "Developer Resources",
+          "null" : 0,
+          "largest" : "Public Safety Data",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Economic Data"
+          }, {
+            "count" : 19,
+            "item" : "Livability Data"
+          }, {
+            "count" : 18,
+            "item" : "Public Safety Data"
+          }, {
+            "count" : 17,
+            "item" : "Government Efficiency Data"
+          }, {
+            "count" : 16,
+            "item" : "Developer Resources"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150465077,
+        "name" : "Icon",
+        "dataTypeName" : "photo",
+        "fieldName" : "icon",
+        "position" : 4,
+        "renderTypeName" : "photo",
+        "tableColumnId" : 18951903,
+        "width" : 101,
+        "cachedContents" : {
+          "non_null" : 5,
+          "null" : 0
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150465078,
+        "name" : "Link",
+        "dataTypeName" : "text",
+        "description" : "***don't change.. Needed to link to inner category pages",
+        "fieldName" : "link",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19976323,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "/A Livable and Sustainable City",
+          "null" : 0,
+          "largest" : "/developers",
+          "top" : [ {
+            "count" : 20,
+            "item" : "/A Prosperous City"
+          }, {
+            "count" : 19,
+            "item" : "/A Livable and Sustainable City"
+          }, {
+            "count" : 18,
+            "item" : "/A Safe City"
+          }, {
+            "count" : 17,
+            "item" : "/A Well Run City"
+          }, {
+            "count" : 16,
+            "item" : "/developers"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0"
+      },
+      "owner" : {
+        "id" : "vcvp-yass",
+        "displayName" : "Dylan",
+        "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+        "screenName" : "Dylan",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+        "flags" : [ "admin" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "vcvp-yass",
+        "displayName" : "Dylan",
+        "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+        "screenName" : "Dylan",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+        "flags" : [ "admin" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "AC3D0227-1469-4B49-936F-06059C204CEC", 1, 1396390371, "710611", 1401314169, "710611", null, "3", "Economic Data", "gKL4PRziRgxILqi-Eb8h-9o8zdTalZnkSCOpfiJoKxY", "/A Prosperous City" ]
+, [ 3, "446BC3C6-8227-4770-AFDC-1E8985394E04", 3, 1396390371, "710611", 1401314176, "710611", null, "2", "Livability Data", "0oG_CSNEBSR5QTkHJQRAeyztrbAw383dED_ncFkKVGs", "/A Livable and Sustainable City" ]
+, [ 7, "7C831113-4CBA-4627-B0D0-5A92D591D995", 7, 1396390494, "710611", 1401314181, "710611", null, "1", "Public Safety Data", "IclsUHXI600JVpxNiAEk9l1zh550k63KOgtuSSAfnJ0", "/A Safe City" ]
+, [ 9, "A319E727-4E94-43D2-B712-BBD1913DEB8E", 9, 1396390504, "710611", 1401314189, "710611", null, "4", "Government Efficiency Data", "zYWr0zDsQT1XGXZvRLMuW0Pxbhb5Si1rHSv9hPRYQ7E", "/A Well Run City" ]
+, [ 11, "FA7D8240-20BB-4DB7-9230-3345455B2D83", 11, 1396390527, "710611", 1401403579, "710611", null, "5", "Developer Resources", "hWt8FaxrBzo1QxKVMHrwhmzgLnJw3aVY07vNiPXU-k4", "/developers" ]
+ ]
+}

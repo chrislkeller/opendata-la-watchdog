@@ -1,0 +1,690 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "a4nt-4gca",
+      "name" : "Library Branches",
+      "attributionLink" : "http://www.lapl.org",
+      "averageRating" : 0,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1401218474,
+      "description" : "Name, Location, Council District, Phone Number and Email Address for all 72 library branches.",
+      "displayType" : "table",
+      "downloadCount" : 7,
+      "indexUpdatedAt" : 1414613667,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8082087,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401309034,
+      "publicationGroup" : 1596377,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1401218487,
+      "rowsUpdatedBy" : "ysts-hp3n",
+      "tableId" : 1596377,
+      "totalTimesRated" : 0,
+      "viewCount" : 48,
+      "viewLastModified" : 1401404129,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150132153,
+        "name" : "Branch Name",
+        "dataTypeName" : "text",
+        "fieldName" : "branch_name",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19960056,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 73,
+          "smallest" : "Alma Reaves Woods - Watts",
+          "null" : 0,
+          "largest" : "Woodland Hills",
+          "top" : [ {
+            "count" : 20,
+            "item" : "North Hollywood Regional"
+          }, {
+            "count" : 19,
+            "item" : "Northridge"
+          }, {
+            "count" : 18,
+            "item" : "Pacoima"
+          }, {
+            "count" : 17,
+            "item" : "Palisades"
+          }, {
+            "count" : 16,
+            "item" : "Palms - Rancho Park"
+          }, {
+            "count" : 15,
+            "item" : "Panorama City "
+          }, {
+            "count" : 14,
+            "item" : "Pico Union"
+          }, {
+            "count" : 13,
+            "item" : "Pio Pico - Koreatown"
+          }, {
+            "count" : 12,
+            "item" : "Platt"
+          }, {
+            "count" : 11,
+            "item" : "Playa Vista"
+          }, {
+            "count" : 10,
+            "item" : "Porter Ranch"
+          }, {
+            "count" : 9,
+            "item" : "Robert Louis Stevenson"
+          }, {
+            "count" : 8,
+            "item" : "Sherman Oaks"
+          }, {
+            "count" : 7,
+            "item" : "Studio City"
+          }, {
+            "count" : 6,
+            "item" : "Sun Valley"
+          }, {
+            "count" : 5,
+            "item" : "Sunland - Tujunga"
+          }, {
+            "count" : 4,
+            "item" : "Sylmar"
+          }, {
+            "count" : 3,
+            "item" : "Valley Plaza"
+          }, {
+            "count" : 2,
+            "item" : "Van Nuys "
+          }, {
+            "count" : 1,
+            "item" : "Venice - Abbot Kinney Memorial"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150132154,
+        "name" : "Phone Number",
+        "dataTypeName" : "text",
+        "fieldName" : "phone_number",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19960057,
+        "width" : 244,
+        "cachedContents" : {
+          "non_null" : 73,
+          "smallest" : "(213) 207-3000",
+          "null" : 0,
+          "largest" : "(818) 899-5203",
+          "top" : [ {
+            "count" : 20,
+            "item" : "(818) 766-7185"
+          }, {
+            "count" : 19,
+            "item" : "(818) 886-3640"
+          }, {
+            "count" : 18,
+            "item" : "(818) 899-5203"
+          }, {
+            "count" : 17,
+            "item" : "(310) 459-2754"
+          }, {
+            "count" : 16,
+            "item" : "(310) 840-2142"
+          }, {
+            "count" : 15,
+            "item" : "(818) 894-4071"
+          }, {
+            "count" : 14,
+            "item" : "(213) 368-7545"
+          }, {
+            "count" : 13,
+            "item" : "(213) 368-7647"
+          }, {
+            "count" : 12,
+            "item" : "(818) 340-9386"
+          }, {
+            "count" : 11,
+            "item" : "(310) 437-6680"
+          }, {
+            "count" : 10,
+            "item" : "(818) 360-5706"
+          }, {
+            "count" : 9,
+            "item" : "(323) 268-4710"
+          }, {
+            "count" : 8,
+            "item" : "(818) 205-9716"
+          }, {
+            "count" : 7,
+            "item" : "(818) 755-7873"
+          }, {
+            "count" : 6,
+            "item" : "(818) 764-1338"
+          }, {
+            "count" : 5,
+            "item" : "(818) 352-4481"
+          }, {
+            "count" : 4,
+            "item" : "(818) 367-6102"
+          }, {
+            "count" : 3,
+            "item" : "(818) 765-9251"
+          }, {
+            "count" : 2,
+            "item" : "(818) 756-8453"
+          }, {
+            "count" : 1,
+            "item" : "(310) 821-1769"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150132155,
+        "name" : "Email",
+        "dataTypeName" : "text",
+        "fieldName" : "email",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19960058,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 73,
+          "smallest" : "angmsa@lapl.org",
+          "null" : 0,
+          "largest" : "wwood@lapl.org",
+          "top" : [ {
+            "count" : 20,
+            "item" : "nohlwd@lapl.org"
+          }, {
+            "count" : 19,
+            "item" : "nrthrg@lapl.org"
+          }, {
+            "count" : 18,
+            "item" : "pcoima@lapl.org"
+          }, {
+            "count" : 17,
+            "item" : "palsds@lapl.org"
+          }, {
+            "count" : 16,
+            "item" : "prncho@lapl.org"
+          }, {
+            "count" : 15,
+            "item" : "pnoram@lapl.org"
+          }, {
+            "count" : 14,
+            "item" : "punion@lapl.org"
+          }, {
+            "count" : 13,
+            "item" : "piokor@lapl.org"
+          }, {
+            "count" : 12,
+            "item" : "platt@lapl.org"
+          }, {
+            "count" : 11,
+            "item" : "pvista@lapl.org"
+          }, {
+            "count" : 10,
+            "item" : "ptrran@lapl.org"
+          }, {
+            "count" : 9,
+            "item" : "rlstvn@lapl.org"
+          }, {
+            "count" : 8,
+            "item" : "shrmno@lapl.org"
+          }, {
+            "count" : 7,
+            "item" : "studio@lapl.org"
+          }, {
+            "count" : 6,
+            "item" : "sunval@lapl.org"
+          }, {
+            "count" : 5,
+            "item" : "snlndt@lapl.org"
+          }, {
+            "count" : 4,
+            "item" : "sylmar@lapl.org"
+          }, {
+            "count" : 3,
+            "item" : "valplz@lapl.org"
+          }, {
+            "count" : 2,
+            "item" : "vnnuys@lapl.org"
+          }, {
+            "count" : 1,
+            "item" : "venice@lapl.org"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150132156,
+        "name" : "Council District",
+        "dataTypeName" : "number",
+        "fieldName" : "council_district",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19960059,
+        "width" : 292,
+        "cachedContents" : {
+          "non_null" : 73,
+          "smallest" : "1",
+          "sum" : "590",
+          "null" : 0,
+          "average" : "8.082191780821918",
+          "largest" : "15",
+          "top" : [ {
+            "count" : 20,
+            "item" : "15"
+          }, {
+            "count" : 19,
+            "item" : "4"
+          }, {
+            "count" : 18,
+            "item" : "8"
+          }, {
+            "count" : 17,
+            "item" : "1"
+          }, {
+            "count" : 16,
+            "item" : "9"
+          }, {
+            "count" : 15,
+            "item" : "13"
+          }, {
+            "count" : 14,
+            "item" : "10"
+          }, {
+            "count" : 13,
+            "item" : "14"
+          }, {
+            "count" : 12,
+            "item" : "11"
+          }, {
+            "count" : 11,
+            "item" : "3"
+          }, {
+            "count" : 10,
+            "item" : "12"
+          }, {
+            "count" : 9,
+            "item" : "7"
+          }, {
+            "count" : 8,
+            "item" : "2"
+          }, {
+            "count" : 7,
+            "item" : "5"
+          }, {
+            "count" : 6,
+            "item" : "6"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150132157,
+        "name" : "Location",
+        "dataTypeName" : "location",
+        "fieldName" : "location",
+        "position" : 6,
+        "renderTypeName" : "location",
+        "tableColumnId" : 19960060,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 73,
+          "smallest" : {
+            "longitude" : "-118.292",
+            "latitude" : "33.981602",
+            "human_address" : "{\"address\":\"1005 W. 64th Street\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90044\"}"
+          },
+          "null" : 0,
+          "largest" : {
+            "longitude" : "-118.282852",
+            "latitude" : "33.948502",
+            "human_address" : "{\"address\":\"9621 S. Figueroa Street\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90003\"}"
+          },
+          "top" : [ {
+            "count" : 20,
+            "item" : {
+              "longitude" : "-118.37915",
+              "latitude" : "34.165699",
+              "human_address" : "{\"address\":\"5211 Tujunga Avenue\",\"city\":\"North Hollywood\",\"state\":\"CA\",\"zip\":\"91601\"}"
+            }
+          }, {
+            "count" : 19,
+            "item" : {
+              "longitude" : "-118.533997",
+              "latitude" : "34.234901",
+              "human_address" : "{\"address\":\"9051 Darby Avenue\",\"city\":\"Northridge\",\"state\":\"CA\",\"zip\":\"91325\"}"
+            }
+          }, {
+            "count" : 18,
+            "item" : {
+              "longitude" : "-118.429298",
+              "latitude" : "34.2612",
+              "human_address" : "{\"address\":\"13605 Van Nuys Boulevard\",\"city\":\"Pacoima\",\"state\":\"CA\",\"zip\":\"91331\"}"
+            }
+          }, {
+            "count" : 17,
+            "item" : {
+              "longitude" : "-118.525002",
+              "latitude" : "34.043999",
+              "human_address" : "{\"address\":\"861 Alma Real Drive\",\"city\":\"Pacific Palisades\",\"state\":\"CA\",\"zip\":\"90272\"}"
+            }
+          }, {
+            "count" : 16,
+            "item" : {
+              "longitude" : "-118.41835",
+              "latitude" : "34.033699",
+              "human_address" : "{\"address\":\"2920 Overland Avenue\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90064\"}"
+            }
+          }, {
+            "count" : 15,
+            "item" : {
+              "longitude" : "-118.446198",
+              "latitude" : "34.221748",
+              "human_address" : "{\"address\":\"14345 Roscoe Boulevard\",\"city\":\"Panorama City\",\"state\":\"CA\",\"zip\":\"91402\"}"
+            }
+          }, {
+            "count" : 14,
+            "item" : {
+              "longitude" : "-118.279701",
+              "latitude" : "34.051399",
+              "human_address" : "{\"address\":\"1030 S. Alvarado Street\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90006\"}"
+            }
+          }, {
+            "count" : 13,
+            "item" : {
+              "longitude" : "-118.307198",
+              "latitude" : "34.059898",
+              "human_address" : "{\"address\":\"694 S. Oxford Avenue\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90005\"}"
+            }
+          }, {
+            "count" : 12,
+            "item" : {
+              "longitude" : "-118.6418",
+              "latitude" : "34.186249",
+              "human_address" : "{\"address\":\"23600 Victory Boulevard\",\"city\":\"Woodland Hills\",\"state\":\"CA\",\"zip\":\"91367\"}"
+            }
+          }, {
+            "count" : 11,
+            "item" : {
+              "longitude" : "-118.427132",
+              "latitude" : "33.972317",
+              "human_address" : "{\"address\":\"6400 Playa Vista Dr.\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90094\"}"
+            }
+          }, {
+            "count" : 10,
+            "item" : {
+              "longitude" : "-118.559898",
+              "latitude" : "34.27755",
+              "human_address" : "{\"address\":\"11371 Tampa Avenue\",\"city\":\"Porter Ranch\",\"state\":\"CA\",\"zip\":\"91326\"}"
+            }
+          }, {
+            "count" : 9,
+            "item" : {
+              "longitude" : "-118.197998",
+              "latitude" : "34.027599",
+              "human_address" : "{\"address\":\"803 Spence Street\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90023\"}"
+            }
+          }, {
+            "count" : 8,
+            "item" : {
+              "longitude" : "-118.443802",
+              "latitude" : "34.151199",
+              "human_address" : "{\"address\":\"14245 Moorpark Street\",\"city\":\"Sherman Oaks\",\"state\":\"CA\",\"zip\":\"91423\"}"
+            }
+          }, {
+            "count" : 7,
+            "item" : {
+              "longitude" : "-118.405602",
+              "latitude" : "34.150501",
+              "human_address" : "{\"address\":\"12511 Moorpark Street\",\"city\":\"Studio City\",\"state\":\"CA\",\"zip\":\"91604\"}"
+            }
+          }, {
+            "count" : 6,
+            "item" : {
+              "longitude" : "-118.370598",
+              "latitude" : "34.214901",
+              "human_address" : "{\"address\":\"7935 Vineland Avenue\",\"city\":\"Sun Valley\",\"state\":\"CA\",\"zip\":\"91352\"}"
+            }
+          }, {
+            "count" : 5,
+            "item" : {
+              "longitude" : "-118.301498",
+              "latitude" : "34.258099",
+              "human_address" : "{\"address\":\"7771 Foothill Boulevard\",\"city\":\"Tujunga\",\"state\":\"CA\",\"zip\":\"91042\"}"
+            }
+          }, {
+            "count" : 4,
+            "item" : {
+              "longitude" : "-118.45015",
+              "latitude" : "34.30735",
+              "human_address" : "{\"address\":\"14561 Polk Street\",\"city\":\"Sylmar\",\"state\":\"CA\",\"zip\":\"91342\"}"
+            }
+          }, {
+            "count" : 3,
+            "item" : {
+              "longitude" : "-118.4011",
+              "latitude" : "34.194302",
+              "human_address" : "{\"address\":\"12311 Vanowen Street\",\"city\":\"North Hollywood\",\"state\":\"CA\",\"zip\":\"91605\"}"
+            }
+          }, {
+            "count" : 2,
+            "item" : {
+              "longitude" : "-118.446297",
+              "latitude" : "34.183899",
+              "human_address" : "{\"address\":\"6250 Sylmar Ave\",\"city\":\"Van Nuys\",\"state\":\"CA\",\"zip\":\"91401\"}"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "longitude" : "-118.465103",
+              "latitude" : "33.987598",
+              "human_address" : "{\"address\":\"501 S. Venice Boulevard\",\"city\":\"Venice\",\"state\":\"CA\",\"zip\":\"90291\"}"
+            }
+          } ]
+        },
+        "format" : {
+        },
+        "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Library"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "ysts-hp3n",
+        "displayName" : "Library OpenData",
+        "profileImageUrlLarge" : "/images/profile/4416/9936/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/4416/9936/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/4416/9936/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Library OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "ysts-hp3n",
+        "displayName" : "Library OpenData",
+        "profileImageUrlLarge" : "/images/profile/4416/9936/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/4416/9936/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/4416/9936/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Library OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "library branches", "contact information" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "763A2417-7F9C-41DA-8089-AA8BF8FC9704", 1, 1401218481, "883849", 1401218481, "883849", "{\n}", "Harbor City - Harbor Gateway", "(310) 534-9520", "harbor@lapl.org", "15", [ "{\"address\":\"24000 S. Western\",\"city\":\"Harbor City\",\"state\":\"CA\",\"zip\":\"90710\"}", "33.806801", "-118.307198", null, false ] ]
+, [ 2, "D58D8F6B-C7C9-437F-AD9F-A1F3185A3DD4", 2, 1401218481, "883849", 1401218481, "883849", "{\n}", "San Pedro Regional", "(310) 548-7779", "spedro@lapl.org", "15", [ "{\"address\":\"931 S. Gaffey Street\",\"city\":\"San Pedro\",\"state\":\"CA\",\"zip\":\"90731\"}", "33.735802", "-118.292702", null, false ] ]
+, [ 3, "14997E28-650A-4DE3-9EC9-24CE1E6BD3F1", 3, 1401218481, "883849", 1401218481, "883849", "{\n}", "Alma Reaves Woods - Watts", "(323) 789-2850", "wattsl@lapl.org", "15", [ "{\"address\":\"10205 Compton Avenue\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90002\"}", "33.944", "-118.246696", null, false ] ]
+, [ 4, "7D855A17-E112-40DB-B3CC-52D34F1BB938", 4, 1401218481, "883849", 1401218481, "883849", "{\n}", "Wilmington", "(310) 834-1082", "wmngtn@lapl.org", "15", [ "{\"address\":\"1300 N. Avalon Boulevard\",\"city\":\"Wilmington\",\"state\":\"CA\",\"zip\":\"90744\"}", "33.788898", "-118.263", null, false ] ]
+, [ 5, "58A12CEE-5BD6-4EA8-AEF2-28D836F4C320", 5, 1401218481, "883849", 1401218481, "883849", "{\n}", "John C. Fremont", "(323) 962-3521", "jcfrmt@lapl.org", "4", [ "{\"address\":\"6121 Melrose Avenue\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90038\"}", "34.083599", "-118.333801", null, false ] ]
+, [ 6, "CD3D6461-B61C-41BA-BEFC-1C7F49B651BA", 6, 1401218481, "883849", 1401218481, "883849", "{\n}", "Angeles Mesa", "(323) 292-4328", "angmsa@lapl.org", "8", [ "{\"address\":\"2700 W. 52nd Street\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90043\"}", "33.99485", "-118.322899", null, false ] ]
+, [ 7, "32D37199-85A1-45FA-98CA-C5BE0BCD6534", 7, 1401218481, "883849", 1401218481, "883849", "{\n}", "Arroyo Seco Regional", "(323) 255-0537", "ayosco@lapl.org", "1", [ "{\"address\":\"6145 N. Figueroa Street\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90042\"}", "34.113998", "-118.185997", null, false ] ]
+, [ 8, "741A901C-B6E7-428C-8AC8-C872F6C77546", 8, 1401218481, "883849", 1401218481, "883849", "{\n}", "Ascot ", "(323) 759-4817", "ascott@lapl.org", "9", [ "{\"address\":\"120 W. Florence Avenue\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90003\"}", "33.974548", "-118.274696", null, false ] ]
+, [ 9, "D19F5010-1802-4CAF-81F0-E751E98BB047", 9, 1401218481, "883849", 1401218481, "883849", "{\n}", "Atwater Village ", "(323) 664-1353", "atwatr@lapl.org", "13", [ "{\"address\":\"3379 Glendale Boulevard\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90039\"}", "34.1199", "-118.259102", null, false ] ]
+, [ 10, "55D6A281-2652-4EA7-B074-B259BF0A611F", 10, 1401218481, "883849", 1401218481, "883849", "{\n}", "Baldwin Hills", "(323) 733-1196", "bldhls@lapl.org", "10", [ "{\"address\":\"2906 S. La Brea Avenue\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90016\"}", "34.028149", "-118.352852", null, false ] ]
+, [ 11, "4DF22771-38B7-4F40-8FE2-674B4690F908", 11, 1401218481, "883849", 1401218481, "883849", "{\n}", "Benjamin Franklin", "(323) 263-6901", "bnfrnk@lapl.org", "14", [ "{\"address\":\"2200 E. 1st Street\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90033\"}", "34.044109", "-118.21225", null, false ] ]
+, [ 12, "EC4BDFB8-5222-443F-8220-6BABF1F3D0A2", 12, 1401218481, "883849", 1401218481, "883849", "{\n}", "Donald Bruce Kaufman - Brentwood", "(310) 575-8273", "brntwd@lapl.org", "11", [ "{\"address\":\"11820 San Vicente Boulevard\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90049\"}", "34.053001", "-118.468002", null, false ] ]
+, [ 13, "061401F5-3F47-487A-B43A-A22789A81F4E", 13, 1401218481, "883849", 1401218481, "883849", "{\n}", "Cahuenga ", "(323) 664-6418", "cahung@lapl.org", "13", [ "{\"address\":\"4591 Santa Monica Boulevard\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90029\"}", "34.09095", "-118.289001", null, false ] ]
+, [ 14, "CC563C40-E068-43EF-8089-0360165C35DD", 14, 1401218481, "883849", 1401218481, "883849", "{\n}", "Canoga Park ", "(818) 887-0320", "cngopk@lapl.org", "3", [ "{\"address\":\"20939 Sherman Way\",\"city\":\"Canoga Park\",\"state\":\"CA\",\"zip\":\"91303\"}", "34.201199", "-118.589996", null, false ] ]
+, [ 15, "DF0D8343-7026-43D4-AE65-CBF1ACB4027B", 15, 1401218481, "883849", 1401218481, "883849", "{\n}", "Chatsworth", "(818) 341-4276", "ctswrt@lapl.org", "12", [ "{\"address\":\"21052 Devonshire Street\",\"city\":\"Chatsworth\",\"state\":\"CA\",\"zip\":\"91311\"}", "34.25705", "-118.5924", null, false ] ]
+, [ 16, "C4774DFA-239B-4F93-9597-3F69915F3035", 16, 1401218481, "883849", 1401218481, "883849", "{\n}", "Chinatown", "(213) 620-0925", "cwtown@lapl.org", "1", [ "{\"address\":\"639 N. Hill Street\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90012\"}", "34.060501", "-118.240997", null, false ] ]
+, [ 17, "92399B32-7993-4342-9BA1-DD481716E398", 17, 1401218481, "883849", 1401218481, "883849", "{\n}", "Cypress Park ", "(323) 224-0039", "cypprk@lapl.org", "1", [ "{\"address\":\"1150 Cypress Avenue\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90065\"}", "34.094551", "-118.227402", null, false ] ]
+, [ 18, "988C8468-A651-4246-9ECC-6DABC1126ED2", 18, 1401218481, "883849", 1401218481, "883849", "{\n}", "Will & Ariel Durant", "(323) 876-2741", "durant@lapl.org", "4", [ "{\"address\":\"7140 W. Sunset Boulevard\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90046\"}", "34.097752", "-118.345703", null, false ] ]
+, [ 19, "336A03C3-0C89-4674-807B-3326C42902E7", 19, 1401218481, "883849", 1401218481, "883849", "{\n}", "Eagle Rock ", "(323) 258-8078", "eaglrk@lapl.org", "14", [ "{\"address\":\"5027 Caspar Avenue\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90041\"}", "34.137501", "-118.213348", null, false ] ]
+, [ 20, "7F19616B-F105-40E6-9632-D900936285B1", 20, 1401218481, "883849", 1401218481, "883849", "{\n}", "Echo Park ", "(213) 250-7808", "echopk@lapl.org", "1", [ "{\"address\":\"1410 W. Temple Street\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90026\"}", "34.0672", "-118.257301", null, false ] ]
+, [ 21, "5FEB3E6C-0226-4389-8968-8C065C19F187", 21, 1401218481, "883849", 1401218481, "883849", "{\n}", "Edendale ", "(213) 207-3000", "eden@lapl.org", "13", [ "{\"address\":\"2011 W. Sunset Boulevard\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90026\"}", "34.0779", "-118.262398", null, false ] ]
+, [ 22, "465DD78A-3F76-42D5-B92D-AB2B6966EC57", 22, 1401218481, "883849", 1401218481, "883849", "{\n}", "El Sereno ", "(323) 225-9201", "elsrno@lapl.org", "14", [ "{\"address\":\"5226 S. Huntington Drive\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90032\"}", "34.089298", "-118.1688", null, false ] ]
+, [ 23, "F9FF794F-A685-4005-8E45-25686E756B1B", 23, 1401218481, "883849", 1401218481, "883849", "{\n}", "Encino - Tarzana", "(818) 343-1983", "enctar@lapl.org", "3", [ "{\"address\":\"18231 Ventura Boulevard\",\"city\":\"Tarzana\",\"state\":\"CA\",\"zip\":\"91356\"}", "34.1665", "-118.529999", null, false ] ]
+, [ 24, "E4EDF669-D7C5-40B7-BDD9-2FA0F0CF9EE4", 24, 1401218481, "883849", 1401218481, "883849", "{\n}", "Exposition Park - Dr. Mary McLeod Bethune Regional", "(323) 290-3113", "expopk@lapl.org", "8", [ "{\"address\":\"3900 S. Western Ave\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90062\"}", "34.0144", "-118.308617", null, false ] ]
+, [ 25, "6E5EEFA5-A71A-46A7-905C-37506807FD05", 25, 1401218481, "883849", 1401218481, "883849", "{\n}", "Fairfax ", "(323) 936-6191", "fairfx@lapl.org", "4", [ "{\"address\":\"161 S. Gardner Street\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90036\"}", "34.071751", "-118.353401", null, false ] ]
+, [ 26, "7983855F-6FB7-4D73-AC56-5586382225A6", 26, 1401218481, "883849", 1401218481, "883849", "{\n}", "Felipe de Neve", "(213) 384-7676", "felipe@lapl.org", "10", [ "{\"address\":\"2820 W. 6th Street\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90057\"}", "34.063202", "-118.283997", null, false ] ]
+, [ 27, "71D9855E-CB38-4F8E-9356-3A7B15B6C2E9", 27, 1401218481, "883849", 1401218481, "883849", "{\n}", "Granada Hills", "(818) 368-5687", "grnhls@lapl.org", "12", [ "{\"address\":\"10640 Petit Avenue\",\"city\":\"Granada Hills\",\"state\":\"CA\",\"zip\":\"91344\"}", "34.264301", "-118.497803", null, false ] ]
+, [ 28, "9381DF9D-C8C1-4EB2-8A09-1BE6110EA70D", 28, 1401218481, "883849", 1401218481, "883849", "{\n}", "Frances Howard Goldwyn - Hollywood Regional", "(323) 856-8260", "holywd@lapl.org", "13", [ "{\"address\":\"1623 N. Ivar Avenue\",\"city\":\"Hollywood\",\"state\":\"CA\",\"zip\":\"90028\"}", "34.1003", "-118.3283", null, false ] ]
+, [ 29, "2E8D3EB6-423F-430D-B5B4-ACB0288A437A", 29, 1401218481, "883849", 1401218481, "883849", "{\n}", "Hyde Park - Miriam Matthews", "(323) 750-7241", "hydepk@lapl.org", "8", [ "{\"address\":\"2205 W. Florence Avenue\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90043\"}", "33.9748", "-118.318298", null, false ] ]
+, [ 30, "09B5915E-F8FA-43A0-B6D1-7B5198B07A4E", 30, 1401218481, "883849", 1401218481, "883849", "{\n}", "Jefferson", "(323) 734-8573", "jfrson@lapl.org", "10", [ "{\"address\":\"2211 W. Jefferson Boulevard\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90018\"}", "34.0257", "-118.319199", null, false ] ]
+, [ 31, "1F276C79-6FEE-4380-B03A-7BEB78F9EF33", 31, 1401218481, "883849", 1401218481, "883849", "{\n}", "John Muir ", "(323) 789-4800", "jnmuir@lapl.org", "8", [ "{\"address\":\"1005 W. 64th Street\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90044\"}", "33.981602", "-118.292", null, false ] ]
+, [ 32, "27F2CA91-3789-485E-B911-86B4E6C9989A", 32, 1401218481, "883849", 1401218481, "883849", "{\n}", "Junipero Serra", "(323) 234-1685", "jserra@lapl.org", "9", [ "{\"address\":\"4607 S. Main Street\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90037\"}", "34.00185", "-118.274147", null, false ] ]
+, [ 33, "13EE3EA5-93EC-4FBE-BDA1-0ADD63A2DB54", 33, 1401218481, "883849", 1401218481, "883849", "{\n}", "Lake View Terrace", "(818) 890-7404", "lkview@lapl.org", "7", [ "{\"address\":\"12002 Osborne Street\",\"city\":\"Sylmar\",\"state\":\"CA\",\"zip\":\"91342\"}", "34.272949", "-118.393852", null, false ] ]
+, [ 34, "7821EE62-2C61-4117-A0F4-B39578F98F8F", 34, 1401218481, "883849", 1401218481, "883849", "{\n}", "Lincoln Heights", "(323) 226-1692", "lcnhts@lapl.org", "1", [ "{\"address\":\"2530 Workman Street\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90031\"}", "34.076149", "-118.214104", null, false ] ]
+, [ 35, "1B74C170-29B3-4731-9A65-1D2452457EC5", 35, 1401218481, "883849", 1401218481, "883849", "{\n}", "Little Tokyo", "(213) 612-0525", "ltokyo@lapl.org", "14", [ "{\"address\":\"203 S. Los Angeles Street\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90012\"}", "34.050098", "-118.243797", null, false ] ]
+, [ 36, "F218FE49-7D7B-4BD1-97E0-4AAC48CBA675", 36, 1401218481, "883849", 1401218481, "883849", "{\n}", "Los Feliz", "(323) 913-4710", "lfeliz@lapl.org", "4", [ "{\"address\":\"1874 Hillhurst Avenue\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90027\"}", "34.105049", "-118.287201", null, false ] ]
+, [ 37, "5AA23779-7CB6-4FD4-AB17-500C7BC9733F", 37, 1401218481, "883849", 1401218481, "883849", "{\n}", "Malabar", "(323) 263-1497", "mlabar@lapl.org", "14", [ "{\"address\":\"2801 Wabash Avenue\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90033\"}", "34.050598", "-118.197952", null, false ] ]
+, [ 38, "B8070FF9-0DFC-42D1-8FE1-757C94953A2C", 38, 1401218481, "883849", 1401218481, "883849", "{\n}", "Mar Vista", "(310) 390-3454", "mrvsta@lapl.org", "11", [ "{\"address\":\"12006 Venice Boulevard\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90066\"}", "34.005901", "-118.429001", null, false ] ]
+, [ 39, "2042B895-16A1-4B24-979F-5A03D25656FD", 39, 1401218481, "883849", 1401218481, "883849", "{\n}", "Mark Twain", "(323) 755-4088", "mtwain@lapl.org", "8", [ "{\"address\":\"9621 S. Figueroa Street\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90003\"}", "33.948502", "-118.282852", null, false ] ]
+, [ 40, "886726B1-9F2E-4D2A-8669-77307CE734B3", 40, 1401218481, "883849", 1401218481, "883849", "{\n}", "Memorial", "(323) 938-2732", "mmrial@lapl.org", "4", [ "{\"address\":\"4625 W. Olympic Boulevard\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90019\"}", "34.056549", "-118.331902", null, false ] ]
+, [ 41, "0FF35974-B4B1-48E4-84DD-97FC1793531A", 41, 1401218481, "883849", 1401218481, "883849", "{\n}", "Mid-Valley Regional", "(818) 895-3650", "midval@lapl.org", "12", [ "{\"address\":\"16244 Nordhoff Street\",\"city\":\"North Hills\",\"state\":\"CA\",\"zip\":\"91343\"}", "34.235401", "-118.487503", null, false ] ]
+, [ 42, "56C75F02-BA66-445A-82C8-A8BC094DBCC9", 42, 1401218481, "883849", 1401218481, "883849", "{\n}", "North Hollywood Regional", "(818) 766-7185", "nohlwd@lapl.org", "2", [ "{\"address\":\"5211 Tujunga Avenue\",\"city\":\"North Hollywood\",\"state\":\"CA\",\"zip\":\"91601\"}", "34.165699", "-118.37915", null, false ] ]
+, [ 43, "474A510D-8E5A-4B39-8E10-67E03D8A6100", 43, 1401218481, "883849", 1401218481, "883849", "{\n}", "Northridge", "(818) 886-3640", "nrthrg@lapl.org", "12", [ "{\"address\":\"9051 Darby Avenue\",\"city\":\"Northridge\",\"state\":\"CA\",\"zip\":\"91325\"}", "34.234901", "-118.533997", null, false ] ]
+, [ 44, "69B1E85A-19F9-43C1-BC79-DA145FF2F150", 44, 1401218481, "883849", 1401218481, "883849", "{\n}", "Pacoima", "(818) 899-5203", "pcoima@lapl.org", "7", [ "{\"address\":\"13605 Van Nuys Boulevard\",\"city\":\"Pacoima\",\"state\":\"CA\",\"zip\":\"91331\"}", "34.2612", "-118.429298", null, false ] ]
+, [ 45, "EECEA9D5-C760-49AC-B566-8DF7129DA77F", 45, 1401218481, "883849", 1401218481, "883849", "{\n}", "Palisades", "(310) 459-2754", "palsds@lapl.org", "11", [ "{\"address\":\"861 Alma Real Drive\",\"city\":\"Pacific Palisades\",\"state\":\"CA\",\"zip\":\"90272\"}", "34.043999", "-118.525002", null, false ] ]
+, [ 46, "49D8E62C-5BAE-420D-9504-3F0071771B16", 46, 1401218481, "883849", 1401218481, "883849", "{\n}", "Palms - Rancho Park", "(310) 840-2142", "prncho@lapl.org", "5", [ "{\"address\":\"2920 Overland Avenue\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90064\"}", "34.033699", "-118.41835", null, false ] ]
+, [ 47, "68078608-7014-4253-A6B3-01FADDC365D3", 47, 1401218481, "883849", 1401218481, "883849", "{\n}", "Panorama City ", "(818) 894-4071", "pnoram@lapl.org", "6", [ "{\"address\":\"14345 Roscoe Boulevard\",\"city\":\"Panorama City\",\"state\":\"CA\",\"zip\":\"91402\"}", "34.221748", "-118.446198", null, false ] ]
+, [ 48, "E8715D5D-E85E-4382-94C4-94F6F8485BDD", 48, 1401218481, "883849", 1401218481, "883849", "{\n}", "Pico Union", "(213) 368-7545", "punion@lapl.org", "1", [ "{\"address\":\"1030 S. Alvarado Street\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90006\"}", "34.051399", "-118.279701", null, false ] ]
+, [ 49, "BC254B03-3DC0-4776-8DA5-187D0D8F112C", 49, 1401218481, "883849", 1401218481, "883849", "{\n}", "Pio Pico - Koreatown", "(213) 368-7647", "piokor@lapl.org", "10", [ "{\"address\":\"694 S. Oxford Avenue\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90005\"}", "34.059898", "-118.307198", null, false ] ]
+, [ 50, "420344D1-7844-43B3-BBD2-A16DB5EE4757", 50, 1401218481, "883849", 1401218481, "883849", "{\n}", "Platt", "(818) 340-9386", "platt@lapl.org", "3", [ "{\"address\":\"23600 Victory Boulevard\",\"city\":\"Woodland Hills\",\"state\":\"CA\",\"zip\":\"91367\"}", "34.186249", "-118.6418", null, false ] ]
+, [ 51, "9F2CC0A3-CA1E-40E7-8A08-E195BA3FC53B", 51, 1401218481, "883849", 1401218481, "883849", "{\n}", "Playa Vista", "(310) 437-6680", "pvista@lapl.org", "11", [ "{\"address\":\"6400 Playa Vista Dr.\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90094\"}", "33.972317", "-118.427132", null, false ] ]
+, [ 52, "14904856-6AB8-45E8-95B7-25F9FE769216", 52, 1401218481, "883849", 1401218481, "883849", "{\n}", "Porter Ranch", "(818) 360-5706", "ptrran@lapl.org", "12", [ "{\"address\":\"11371 Tampa Avenue\",\"city\":\"Porter Ranch\",\"state\":\"CA\",\"zip\":\"91326\"}", "34.27755", "-118.559898", null, false ] ]
+, [ 53, "C7041980-E91D-4D5E-84D7-E8C6B8D83293", 53, 1401218481, "883849", 1401218481, "883849", "{\n}", "Robert Louis Stevenson", "(323) 268-4710", "rlstvn@lapl.org", "14", [ "{\"address\":\"803 Spence Street\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90023\"}", "34.027599", "-118.197998", null, false ] ]
+, [ 54, "AFBFFCC4-A425-4687-B4CD-CEAE14D208AE", 54, 1401218481, "883849", 1401218481, "883849", "{\n}", "Sherman Oaks", "(818) 205-9716", "shrmno@lapl.org", "2", [ "{\"address\":\"14245 Moorpark Street\",\"city\":\"Sherman Oaks\",\"state\":\"CA\",\"zip\":\"91423\"}", "34.151199", "-118.443802", null, false ] ]
+, [ 55, "4BA332E2-BF2E-4DF4-9EB7-5BEC9F7AE307", 55, 1401218481, "883849", 1401218481, "883849", "{\n}", "Studio City", "(818) 755-7873", "studio@lapl.org", "2", [ "{\"address\":\"12511 Moorpark Street\",\"city\":\"Studio City\",\"state\":\"CA\",\"zip\":\"91604\"}", "34.150501", "-118.405602", null, false ] ]
+, [ 56, "77C9ABC0-0159-4DE4-96CB-7582E082E456", 56, 1401218481, "883849", 1401218481, "883849", "{\n}", "Sun Valley", "(818) 764-1338", "sunval@lapl.org", "6", [ "{\"address\":\"7935 Vineland Avenue\",\"city\":\"Sun Valley\",\"state\":\"CA\",\"zip\":\"91352\"}", "34.214901", "-118.370598", null, false ] ]
+, [ 57, "15BC50B1-CDD6-4D69-A61E-E6F0B47A9E4B", 57, 1401218481, "883849", 1401218481, "883849", "{\n}", "Sunland - Tujunga", "(818) 352-4481", "snlndt@lapl.org", "2", [ "{\"address\":\"7771 Foothill Boulevard\",\"city\":\"Tujunga\",\"state\":\"CA\",\"zip\":\"91042\"}", "34.258099", "-118.301498", null, false ] ]
+, [ 58, "C9C5CAB8-48D9-4BFC-8D44-67F8DE832774", 58, 1401218481, "883849", 1401218481, "883849", "{\n}", "Sylmar", "(818) 367-6102", "sylmar@lapl.org", "7", [ "{\"address\":\"14561 Polk Street\",\"city\":\"Sylmar\",\"state\":\"CA\",\"zip\":\"91342\"}", "34.30735", "-118.45015", null, false ] ]
+, [ 59, "885F595E-7352-4A72-AA89-577EEDA9DFD0", 59, 1401218481, "883849", 1401218481, "883849", "{\n}", "Valley Plaza", "(818) 765-9251", "valplz@lapl.org", "2", [ "{\"address\":\"12311 Vanowen Street\",\"city\":\"North Hollywood\",\"state\":\"CA\",\"zip\":\"91605\"}", "34.194302", "-118.4011", null, false ] ]
+, [ 60, "0981FB95-9E9E-4C6D-8DAB-4FCBDE7E84FC", 60, 1401218481, "883849", 1401218481, "883849", "{\n}", "Van Nuys ", "(818) 756-8453", "vnnuys@lapl.org", "6", [ "{\"address\":\"6250 Sylmar Ave\",\"city\":\"Van Nuys\",\"state\":\"CA\",\"zip\":\"91401\"}", "34.183899", "-118.446297", null, false ] ]
+, [ 61, "78DBA6FD-B59D-4411-A5F2-D86A643454D3", 61, 1401218481, "883849", 1401218481, "883849", "{\n}", "Venice - Abbot Kinney Memorial", "(310) 821-1769", "venice@lapl.org", "11", [ "{\"address\":\"501 S. Venice Boulevard\",\"city\":\"Venice\",\"state\":\"CA\",\"zip\":\"90291\"}", "33.987598", "-118.465103", null, false ] ]
+, [ 62, "14A4F627-498A-4B54-B724-50D9A344A373", 62, 1401218481, "883849", 1401218481, "883849", "{\n}", "Vermont Square", "(323) 290-7405", "vmtsqr@lapl.org", "9", [ "{\"address\":\"1201 W. 48th. Street\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90037\"}", "33.999699", "-118.295799", null, false ] ]
+, [ 63, "2F46EED7-06B5-4230-9903-DDFBEF7F2769", 63, 1401218481, "883849", 1401218481, "883849", "{\n}", "Vernon - Leon H. Washington Jr. Memorial ", "(323) 234-9106", "vrnonl@lapl.org", "9", [ "{\"address\":\"4504 S. Central Avenue\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90011\"}", "34.002701", "-118.256104", null, false ] ]
+, [ 64, "77692573-F7E2-4EF3-B660-BEB4BED7A445", 64, 1401218481, "883849", 1401218481, "883849", "{\n}", "Washington Irving", "(323) 734-6303", "wirvng@lapl.org", "10", [ "{\"address\":\"4117 W. Washington Boulevard\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90018\"}", "34.039951", "-118.329147", null, false ] ]
+, [ 65, "341EBDC9-5A05-404B-B9E8-D1FA7093BFFF", 65, 1401218481, "883849", 1401218481, "883849", "{\n}", "West Los Angeles Regional ", "(310) 575-8323", "westla@lapl.org", "11", [ "{\"address\":\"11360 Santa Monica Boulevard\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90025\"}", "34.0457", "-118.450302", null, false ] ]
+, [ 66, "EAB7CF4A-7941-409C-A48B-E067FEFC436F", 66, 1401218481, "883849", 1401218481, "883849", "{\n}", "West Valley Regional", "(818) 345-9806", "wvally@lapl.org", "3", [ "{\"address\":\"19036 Vanowen Street\",\"city\":\"Reseda\",\"state\":\"CA\",\"zip\":\"91335\"}", "34.193604", "-118.546898", null, false ] ]
+, [ 67, "780D8F1A-DA3B-4B7A-820C-3920EB24FE05", 67, 1401218481, "883849", 1401218481, "883849", "{\n}", "Westchester - Loyola Village ", "(310) 348-1096", "wstchs@lapl.org", "11", [ "{\"address\":\"7114 W. Manchester Avenue\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90045\"}", "33.95945", "-118.417999", null, false ] ]
+, [ 68, "E66103D8-A9C6-48CD-81FF-E3F76415FCC0", 68, 1401218481, "883849", 1401218481, "883849", "{\n}", "Westwood", "(310) 474-1739", "wwood@lapl.org", "5", [ "{\"address\":\"1246 Glendon Avenue\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90024\"}", "34.0583", "-118.442001", null, false ] ]
+, [ 69, "90740726-D4FB-4C0B-9270-063211AB800C", 69, 1401218481, "883849", 1401218481, "883849", "{\n}", "Wilshire", "(323) 957-4550", "wlshre@lapl.org", "4", [ "{\"address\":\"149 N. Saint Andrews Pl\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90004\"}", "34.074299", "-118.311501", null, false ] ]
+, [ 70, "7C1CC3DE-F75F-4CD7-A1E5-B494C72E4CBE", 70, 1401218481, "883849", 1401218481, "883849", "{\n}", "Woodland Hills", "(818) 226-0017", "woodln@lapl.org", "3", [ "{\"address\":\"22200 Ventura Boulevard\",\"city\":\"Woodland Hills\",\"state\":\"CA\",\"zip\":\"91364\"}", "34.168499", "-118.610603", null, false ] ]
+, [ 71, "E01932E8-6FAB-4D4F-8237-0C200979E106", 71, 1401218481, "883849", 1401218481, "883849", "{\n}", "Central Library", "(213) 228-7000", "infonow@lapl.org", "9", [ "{\"address\":\"630 W. 5th Street\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90071\"}", "34.050499", "-118.255302", null, false ] ]
+, [ 72, "AD9DF4C9-CE5D-4F46-9276-028425CA17F1", 72, 1401218481, "883849", 1401218481, "883849", "{\n}", "Robertson", "(310) 840-2147", "rbrtsn@lapl.org", "5", [ "{\"address\":\"1719 S. Robertson Boulevard\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90035\"}", "34.048401", "-118.386002", null, false ] ]
+, [ 73, "696C31EA-ABF6-402B-AA8B-284E094FF0FC", 73, 1401218481, "883849", 1401218481, "883849", "{\n}", "Silver Lake", "(323) 913-7451", "silver@lapl.org", "13", [ "{\"address\":\"2411 Glendale Blvd\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90039\"}", "34.100422", "-118.259598", null, false ] ]
+ ]
+}

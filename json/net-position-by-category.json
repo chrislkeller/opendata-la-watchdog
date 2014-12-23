@@ -1,0 +1,543 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "87im-rub8",
+      "name" : "Net Position by Category",
+      "attribution" : "Controller",
+      "attributionLink" : "http://controller.lacity.org/stellent/groups/ElectedOfficials/@CTR_Contributor/documents/Contributor_Web_Content/LACITYP_027750.pdf#page=372",
+      "averageRating" : 0,
+      "category" : "Liabilities and Assets",
+      "createdAt" : 1390241930,
+      "description" : "CAFR Pages 330-331.\r\n\r\nNet Position is the difference between the City’s assets and liabilities, including deferred outflows/inflows of resources. This data summarizes Net Position by Activity Types, Asset Type Groups, and Asset Types. This data is based on the following parameters: Accrual Basis of Accounting, Last Ten Fiscal Years and (amounts expressed in thousands).",
+      "displayType" : "table",
+      "downloadCount" : 68,
+      "indexUpdatedAt" : 1414612905,
+      "licenseId" : "PUBLIC_DOMAIN",
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 7428406,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1393364695,
+      "publicationGroup" : 1447584,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1393364341,
+      "rowsUpdatedBy" : "7c7a-resi",
+      "tableId" : 1489564,
+      "totalTimesRated" : 0,
+      "viewCount" : 152,
+      "viewLastModified" : 1412737227,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 135329291,
+        "name" : "Fiscal Year",
+        "dataTypeName" : "number",
+        "description" : "Fiscal Year (FY) is the time period for the City budget which begins on July 1 of a calendar year and ends on June 30 of the following year.",
+        "fieldName" : "fiscal_year",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17690634,
+        "width" : 82,
+        "cachedContents" : {
+          "non_null" : 150,
+          "smallest" : "2004",
+          "sum" : "301275",
+          "null" : 0,
+          "average" : "2008.5",
+          "largest" : "2013",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2004"
+          }, {
+            "count" : 19,
+            "item" : "2005"
+          }, {
+            "count" : 18,
+            "item" : "2006"
+          }, {
+            "count" : 17,
+            "item" : "2007"
+          }, {
+            "count" : 16,
+            "item" : "2008"
+          }, {
+            "count" : 15,
+            "item" : "2009"
+          }, {
+            "count" : 14,
+            "item" : "2010"
+          }, {
+            "count" : 13,
+            "item" : "2011"
+          }, {
+            "count" : 12,
+            "item" : "2012"
+          }, {
+            "count" : 11,
+            "item" : "2013"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "true"
+        }
+      }, {
+        "id" : 135329292,
+        "name" : "Activity Type",
+        "dataTypeName" : "text",
+        "description" : "Governmental Activities are functions principally supported by taxes and intergovernmental revenues. Business-Type Activities are functions intended to recover all (or in large part) costs through user fees and charges. Primary Government is a combination of Governmental and Business-Type Activities.",
+        "fieldName" : "activity_type",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17690635,
+        "width" : 213,
+        "cachedContents" : {
+          "non_null" : 150,
+          "smallest" : "Business-type Activities",
+          "null" : 0,
+          "largest" : "Primary Government",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Governmental Activities"
+          }, {
+            "count" : 19,
+            "item" : "Business-type Activities"
+          }, {
+            "count" : 18,
+            "item" : "Primary Government"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 135329293,
+        "name" : "Asset Type Group",
+        "dataTypeName" : "text",
+        "description" : "Grouping of Asset Types",
+        "fieldName" : "asset_type_group",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17690636,
+        "width" : 244,
+        "cachedContents" : {
+          "non_null" : 150,
+          "smallest" : "Net Investment in Capital Assets",
+          "null" : 0,
+          "largest" : "Unrestricted (Deficit)",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Net Investment in Capital Assets"
+          }, {
+            "count" : 19,
+            "item" : "Restricted"
+          }, {
+            "count" : 18,
+            "item" : "Unrestricted (Deficit)"
+          }, {
+            "count" : 17,
+            "item" : "Unrestricted"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 135329294,
+        "name" : "Asset Type",
+        "dataTypeName" : "text",
+        "description" : "Type of asset the City owns",
+        "fieldName" : "asset_type",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17690637,
+        "width" : 200,
+        "cachedContents" : {
+          "non_null" : 150,
+          "smallest" : "Net Investment in Capital Assets",
+          "null" : 0,
+          "largest" : "Unrestricted (Deficit)",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Net Investment in Capital Assets"
+          }, {
+            "count" : 19,
+            "item" : "Restricted for Capital Projects"
+          }, {
+            "count" : 18,
+            "item" : "Restricted for Debt Service"
+          }, {
+            "count" : 17,
+            "item" : "Restricted for Special Purposes"
+          }, {
+            "count" : 16,
+            "item" : "Unrestricted (Deficit)"
+          }, {
+            "count" : 15,
+            "item" : "Unrestricted"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 135329295,
+        "name" : "Amount in Thousands",
+        "dataTypeName" : "money",
+        "description" : "Net Position (Assets minus Liabilities) in Thousands of Dollars",
+        "fieldName" : "amount_in_thousands",
+        "position" : 5,
+        "renderTypeName" : "money",
+        "tableColumnId" : 17690638,
+        "width" : 163,
+        "cachedContents" : {
+          "non_null" : 150,
+          "smallest" : "-2429330.00",
+          "sum" : "367735014.00",
+          "null" : 0,
+          "average" : "2451566.76",
+          "largest" : "14587973.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1853933.00"
+          }, {
+            "count" : 19,
+            "item" : "-1782463.00"
+          }, {
+            "count" : 18,
+            "item" : "9940457.00"
+          }, {
+            "count" : 17,
+            "item" : "168924.00"
+          }, {
+            "count" : 16,
+            "item" : "1223993.00"
+          }, {
+            "count" : 15,
+            "item" : "2232788.00"
+          }, {
+            "count" : 14,
+            "item" : "3214165.00"
+          }, {
+            "count" : 13,
+            "item" : "14357391.00"
+          }, {
+            "count" : 12,
+            "item" : "243645.00"
+          }, {
+            "count" : 11,
+            "item" : "1381395.00"
+          }, {
+            "count" : 10,
+            "item" : "4086721.00"
+          }, {
+            "count" : 9,
+            "item" : "1431702.00"
+          }, {
+            "count" : 8,
+            "item" : "4452921.00"
+          }, {
+            "count" : 7,
+            "item" : "89055.00"
+          }, {
+            "count" : 6,
+            "item" : "154321.00"
+          }, {
+            "count" : 5,
+            "item" : "2193433.00"
+          }, {
+            "count" : 4,
+            "item" : "-2429330.00"
+          }, {
+            "count" : 3,
+            "item" : "10135052.00"
+          }, {
+            "count" : 2,
+            "item" : "249773.00"
+          }, {
+            "count" : 1,
+            "item" : "1147819.00"
+          } ]
+        },
+        "format" : {
+          "precision" : "0",
+          "humane" : "false",
+          "currency" : "USD",
+          "align" : "right"
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Public Domain"
+      },
+      "metadata" : {
+        "custom_fields" : {
+          "Department" : {
+            "Division" : "GAAP",
+            "Department" : "Controller",
+            "System" : "CAFR"
+          },
+          "Update Information" : {
+            "Update Cycle" : "Annual"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "7c7a-resi",
+        "displayName" : "Controller's Office",
+        "roleName" : "administrator",
+        "screenName" : "Controller's Office",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "7c7a-resi",
+        "displayName" : "Controller's Office",
+        "roleName" : "administrator",
+        "screenName" : "Controller's Office",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "tags" : [ "city of los angeles", "city of los angeles controller", "city of la", "city of la controller", "ron galperin", "comprehensive annual financial report", "cafr", "net position", "cafr pages 330-331", "asset type", "asset type group", "activity type" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "9065D4E4-4C2E-49F4-989F-DA6ECD6FD295", 1, 1392827788, "862121", 1392827788, "862121", "{\n}", "2004", "Governmental Activities", "Net Investment in Capital Assets", "Net Investment in Capital Assets", "1111107.00" ]
+, [ 2, "ABF3546B-05A8-40B2-951B-61E006F3133A", 2, 1392827788, "862121", 1392827788, "862121", "{\n}", "2004", "Governmental Activities", "Restricted", "Restricted for Capital Projects", "152433.00" ]
+, [ 3, "20A3736C-914A-4C79-BAF7-6E91141A28E5", 3, 1392827788, "862121", 1392827788, "862121", "{\n}", "2004", "Governmental Activities", "Restricted", "Restricted for Debt Service", "176584.00" ]
+, [ 4, "269B9D6A-163E-42F1-B690-1992FBCC675C", 4, 1392827788, "862121", 1392827788, "862121", "{\n}", "2004", "Governmental Activities", "Restricted", "Restricted for Special Purposes", "1229977.00" ]
+, [ 5, "87640A7D-9955-4996-AA1F-AC90102FC582", 5, 1392827788, "862121", 1392827788, "862121", "{\n}", "2004", "Governmental Activities", "Unrestricted (Deficit)", "Unrestricted (Deficit)", "-1061469.00" ]
+, [ 6, "74569349-5DD6-4096-80F9-638FB45BD789", 6, 1392827788, "862121", 1392827788, "862121", "{\n}", "2004", "Business-type Activities", "Net Investment in Capital Assets", "Net Investment in Capital Assets", "8317620.00" ]
+, [ 7, "58EB1C96-75C1-4C6F-AA9E-F3AB158E6DEF", 7, 1392827788, "862121", 1392827788, "862121", "{\n}", "2004", "Business-type Activities", "Restricted", "Restricted for Capital Projects", "135418.00" ]
+, [ 8, "F6E229AF-EE81-4BE2-98F3-0FFB84DEDBA8", 8, 1392827788, "862121", 1392827788, "862121", "{\n}", "2004", "Business-type Activities", "Restricted", "Restricted for Debt Service", "952828.00" ]
+, [ 9, "E7881E8C-2795-4955-ADA1-4FBA13A1D1C1", 9, 1392827788, "862121", 1392827788, "862121", "{\n}", "2004", "Business-type Activities", "Restricted", "Restricted for Special Purposes", "815979.00" ]
+, [ 10, "B5331D6E-8ACC-4651-A587-C30380A61A84", 10, 1392827788, "862121", 1392827788, "862121", "{\n}", "2004", "Business-type Activities", "Unrestricted", "Unrestricted", "2153319.00" ]
+, [ 11, "A53706E5-2EFB-4ED9-9B0F-6BFA9898F725", 11, 1392827788, "862121", 1392827788, "862121", "{\n}", "2004", "Primary Government", "Net Investment in Capital Assets", "Net Investment in Capital Assets", "9428727.00" ]
+, [ 12, "E73CC776-8B50-4909-BAF0-77C3D7C0407C", 12, 1392827788, "862121", 1392827788, "862121", "{\n}", "2004", "Primary Government", "Restricted", "Restricted for Capital Projects", "287851.00" ]
+, [ 13, "935C4A67-5FE8-4394-A2D0-39A2E2B26721", 13, 1392827788, "862121", 1392827788, "862121", "{\n}", "2004", "Primary Government", "Restricted", "Restricted for Debt Service", "1129412.00" ]
+, [ 14, "9584B71E-3560-45DB-B94A-8B9196BF0295", 14, 1392827788, "862121", 1392827788, "862121", "{\n}", "2004", "Primary Government", "Restricted", "Restricted for Special Purposes", "2045956.00" ]
+, [ 15, "135E8B3B-1499-475F-B7CD-DAD2940A6CE2", 15, 1392827788, "862121", 1392827788, "862121", "{\n}", "2004", "Primary Government", "Unrestricted", "Unrestricted", "1091850.00" ]
+, [ 16, "BD32D3DA-F5FF-4E33-AEBC-21B7AEBDEB64", 16, 1392827788, "862121", 1392827788, "862121", "{\n}", "2005", "Governmental Activities", "Net Investment in Capital Assets", "Net Investment in Capital Assets", "1562198.00" ]
+, [ 17, "76D5E711-4C71-48FB-AD5C-AAEBDCDD9134", 17, 1392827788, "862121", 1392827788, "862121", "{\n}", "2005", "Governmental Activities", "Restricted", "Restricted for Capital Projects", "94725.00" ]
+, [ 18, "B52E2B78-C967-45F8-A853-F977CEE12FD8", 18, 1392827788, "862121", 1392827788, "862121", "{\n}", "2005", "Governmental Activities", "Restricted", "Restricted for Debt Service", "195334.00" ]
+, [ 19, "F02852FA-BBEF-4E3B-890A-0D9CA387429F", 19, 1392827788, "862121", 1392827788, "862121", "{\n}", "2005", "Governmental Activities", "Restricted", "Restricted for Special Purposes", "1270095.00" ]
+, [ 20, "2A1D36BD-2D73-4A44-A3CB-49563A1208EA", 20, 1392827788, "862121", 1392827788, "862121", "{\n}", "2005", "Governmental Activities", "Unrestricted (Deficit)", "Unrestricted (Deficit)", "-1192219.00" ]
+, [ 21, "1AFA7AF1-D62F-4BE8-95D8-CE6A1F3E7AAC", 21, 1392827788, "862121", 1392827788, "862121", "{\n}", "2005", "Business-type Activities", "Net Investment in Capital Assets", "Net Investment in Capital Assets", "8405535.00" ]
+, [ 22, "72FCA961-F1A4-4CD3-8E4A-AB45BD6777E0", 22, 1392827788, "862121", 1392827788, "862121", "{\n}", "2005", "Business-type Activities", "Restricted", "Restricted for Capital Projects", "449970.00" ]
+, [ 23, "C6EA6542-9B8D-4E1D-87A6-93F7938AAC80", 23, 1392827788, "862121", 1392827788, "862121", "{\n}", "2005", "Business-type Activities", "Restricted", "Restricted for Debt Service", "917973.00" ]
+, [ 24, "A67C2326-A1A3-478D-9109-8E16A39FFA74", 24, 1392827788, "862121", 1392827788, "862121", "{\n}", "2005", "Business-type Activities", "Restricted", "Restricted for Special Purposes", "915466.00" ]
+, [ 25, "4E4C2323-BB5B-425D-97A9-E3A40403D306", 25, 1392827788, "862121", 1392827788, "862121", "{\n}", "2005", "Business-type Activities", "Unrestricted", "Unrestricted", "1936039.00" ]
+, [ 26, "03942D89-562E-418F-9BAB-6F3544E28493", 26, 1392827788, "862121", 1392827788, "862121", "{\n}", "2005", "Primary Government", "Net Investment in Capital Assets", "Net Investment in Capital Assets", "9967733.00" ]
+, [ 27, "9581225E-805B-4821-81E0-F583D80DFFEF", 27, 1392827788, "862121", 1392827788, "862121", "{\n}", "2005", "Primary Government", "Restricted", "Restricted for Capital Projects", "544695.00" ]
+, [ 28, "319AEE9F-4FD6-4201-A4AC-C5CA7AB63511", 28, 1392827788, "862121", 1392827788, "862121", "{\n}", "2005", "Primary Government", "Restricted", "Restricted for Debt Service", "1113307.00" ]
+, [ 29, "4414DEAD-8227-4727-8901-C97FE17A5ACC", 29, 1392827788, "862121", 1392827788, "862121", "{\n}", "2005", "Primary Government", "Restricted", "Restricted for Special Purposes", "2185561.00" ]
+, [ 30, "681CAFF8-18F4-4555-BEFC-471C65EDBB40", 30, 1392827788, "862121", 1392827788, "862121", "{\n}", "2005", "Primary Government", "Unrestricted", "Unrestricted", "743820.00" ]
+, [ 31, "962B6F61-94C5-457D-8996-D2B511E7DF98", 31, 1392827788, "862121", 1392827788, "862121", "{\n}", "2006", "Governmental Activities", "Net Investment in Capital Assets", "Net Investment in Capital Assets", "2946666.00" ]
+, [ 32, "1F0137EC-CEF8-44A1-828A-4773E68BAD26", 32, 1392827788, "862121", 1392827788, "862121", "{\n}", "2006", "Governmental Activities", "Restricted", "Restricted for Capital Projects", "104715.00" ]
+, [ 33, "730F6ED9-CAC6-400C-8EDF-483C34EFD392", 33, 1392827788, "862121", 1392827788, "862121", "{\n}", "2006", "Governmental Activities", "Restricted", "Restricted for Debt Service", "231421.00" ]
+, [ 34, "BE41474C-1349-4201-AAAF-5D8B32F82C89", 34, 1392827788, "862121", 1392827788, "862121", "{\n}", "2006", "Governmental Activities", "Restricted", "Restricted for Special Purposes", "1419754.00" ]
+, [ 35, "DC3996EF-9431-457A-B58C-E9DFE3877E5D", 35, 1392827788, "862121", 1392827788, "862121", "{\n}", "2006", "Governmental Activities", "Unrestricted (Deficit)", "Unrestricted (Deficit)", "-1019029.00" ]
+, [ 36, "C27D17E5-77DD-4792-817C-F735A672E875", 36, 1392827788, "862121", 1392827788, "862121", "{\n}", "2006", "Business-type Activities", "Net Investment in Capital Assets", "Net Investment in Capital Assets", "8777029.00" ]
+, [ 37, "B550ED48-4C0B-4EE3-81C0-4FD720CAB81A", 37, 1392827788, "862121", 1392827788, "862121", "{\n}", "2006", "Business-type Activities", "Restricted", "Restricted for Capital Projects", "163951.00" ]
+, [ 38, "42435E3A-9916-4BA2-ABD8-B3AD07DB81B9", 38, 1392827788, "862121", 1392827788, "862121", "{\n}", "2006", "Business-type Activities", "Restricted", "Restricted for Debt Service", "875761.00" ]
+, [ 39, "233A251F-8C8B-4B79-BC42-2C45A474D5ED", 39, 1392827788, "862121", 1392827788, "862121", "{\n}", "2006", "Business-type Activities", "Restricted", "Restricted for Special Purposes", "1102949.00" ]
+, [ 40, "F3787C9B-C572-41A3-AE77-88A5FF2AECE5", 40, 1392827788, "862121", 1392827788, "862121", "{\n}", "2006", "Business-type Activities", "Unrestricted", "Unrestricted", "2103362.00" ]
+, [ 41, "C6CE5F61-EA20-48C0-8433-F603C7CB56CA", 41, 1392827788, "862121", 1392827788, "862121", "{\n}", "2006", "Primary Government", "Net Investment in Capital Assets", "Net Investment in Capital Assets", "11723695.00" ]
+, [ 42, "3DFDEE3A-67BE-4923-A6A6-79B3052BDCE5", 42, 1392827788, "862121", 1392827788, "862121", "{\n}", "2006", "Primary Government", "Restricted", "Restricted for Capital Projects", "268666.00" ]
+, [ 43, "102EE463-D354-40FE-A0CF-FA376C5E982E", 43, 1392827788, "862121", 1392827788, "862121", "{\n}", "2006", "Primary Government", "Restricted", "Restricted for Debt Service", "1107182.00" ]
+, [ 44, "42D4D92B-39AD-41C3-B8B4-A1F4D85C86EB", 44, 1392827788, "862121", 1392827788, "862121", "{\n}", "2006", "Primary Government", "Restricted", "Restricted for Special Purposes", "2522703.00" ]
+, [ 45, "D724D48D-6456-40F5-9AC3-1371233B7489", 45, 1392827788, "862121", 1392827788, "862121", "{\n}", "2006", "Primary Government", "Unrestricted", "Unrestricted", "1084333.00" ]
+, [ 46, "9BFAA8E4-8EB8-4E12-8FEC-B9620B6D4BB6", 46, 1392827788, "862121", 1392827788, "862121", "{\n}", "2007", "Governmental Activities", "Net Investment in Capital Assets", "Net Investment in Capital Assets", "3189365.00" ]
+, [ 47, "57E566C8-2610-4494-80E7-872F2AB94941", 47, 1392827788, "862121", 1392827788, "862121", "{\n}", "2007", "Governmental Activities", "Restricted", "Restricted for Capital Projects", "123082.00" ]
+, [ 48, "ED22B611-A80A-47C6-BBB7-013D960D1A64", 48, 1392827788, "862121", 1392827788, "862121", "{\n}", "2007", "Governmental Activities", "Restricted", "Restricted for Debt Service", "237597.00" ]
+, [ 49, "8EDFF462-27EC-4538-A1E6-05A782F25B67", 49, 1392827788, "862121", 1392827788, "862121", "{\n}", "2007", "Governmental Activities", "Restricted", "Restricted for Special Purposes", "1582551.00" ]
+, [ 50, "DE403E33-B0B2-4762-AC7F-CA2464568B2D", 50, 1392827788, "862121", 1392827788, "862121", "{\n}", "2007", "Governmental Activities", "Unrestricted (Deficit)", "Unrestricted (Deficit)", "-1223123.00" ]
+, [ 51, "3211C3C1-F7B0-44F0-A1E7-1FA472B6A134", 51, 1392827788, "862121", 1392827788, "862121", "{\n}", "2007", "Business-type Activities", "Net Investment in Capital Assets", "Net Investment in Capital Assets", "8974991.00" ]
+, [ 52, "D96A9692-7C0C-4A92-9706-39C5639FA041", 52, 1392827788, "862121", 1392827788, "862121", "{\n}", "2007", "Business-type Activities", "Restricted", "Restricted for Capital Projects", "178955.00" ]
+, [ 53, "EDBE03A3-D8FD-4CA1-83CF-9901617A74B0", 53, 1392827788, "862121", 1392827788, "862121", "{\n}", "2007", "Business-type Activities", "Restricted", "Restricted for Debt Service", "837414.00" ]
+, [ 54, "14609E79-6031-43FA-8BC7-C42B2A6C4E7E", 54, 1392827788, "862121", 1392827788, "862121", "{\n}", "2007", "Business-type Activities", "Restricted", "Restricted for Special Purposes", "1375876.00" ]
+, [ 55, "E0489C24-E7D4-4201-8050-53EAC0A25005", 55, 1392827788, "862121", 1392827788, "862121", "{\n}", "2007", "Business-type Activities", "Unrestricted", "Unrestricted", "2311450.00" ]
+, [ 56, "C522AC12-A9F8-4A4F-A27C-07F816C4EED9", 56, 1392827788, "862121", 1392827788, "862121", "{\n}", "2007", "Primary Government", "Net Investment in Capital Assets", "Net Investment in Capital Assets", "12164356.00" ]
+, [ 57, "761A39AB-055D-4325-B321-9FDF6773F62B", 57, 1392827788, "862121", 1392827788, "862121", "{\n}", "2007", "Primary Government", "Restricted", "Restricted for Capital Projects", "302037.00" ]
+, [ 58, "1C731507-C988-45F0-8D44-F8E2A1DDF4C7", 58, 1392827788, "862121", 1392827788, "862121", "{\n}", "2007", "Primary Government", "Restricted", "Restricted for Debt Service", "1075011.00" ]
+, [ 59, "2EEEA13B-EE51-4CEE-9E6C-7DC3276A70FF", 59, 1392827788, "862121", 1392827788, "862121", "{\n}", "2007", "Primary Government", "Restricted", "Restricted for Special Purposes", "2958427.00" ]
+, [ 60, "0C2EE4A9-541E-47CE-914F-D4D9B14314F2", 60, 1392827788, "862121", 1392827788, "862121", "{\n}", "2007", "Primary Government", "Unrestricted", "Unrestricted", "1088327.00" ]
+, [ 61, "CD1DAA11-98E6-4332-99BB-9BAE176A97F0", 61, 1392827788, "862121", 1392827788, "862121", "{\n}", "2008", "Governmental Activities", "Net Investment in Capital Assets", "Net Investment in Capital Assets", "3415049.00" ]
+, [ 62, "EA8F2EEC-9323-445E-BDED-FCCEFD7AD539", 62, 1392827788, "862121", 1392827788, "862121", "{\n}", "2008", "Governmental Activities", "Restricted", "Restricted for Capital Projects", "132583.00" ]
+, [ 63, "59067D80-7100-4050-8CA2-D718EDD8EF1A", 63, 1392827788, "862121", 1392827788, "862121", "{\n}", "2008", "Governmental Activities", "Restricted", "Restricted for Debt Service", "209072.00" ]
+, [ 64, "A10F0D1C-D36B-48C9-8317-164205DF2EBF", 64, 1392827788, "862121", 1392827788, "862121", "{\n}", "2008", "Governmental Activities", "Restricted", "Restricted for Special Purposes", "1736490.00" ]
+, [ 65, "29985BBE-2D04-4343-9328-20E88EDDA1F5", 65, 1392827788, "862121", 1392827788, "862121", "{\n}", "2008", "Governmental Activities", "Unrestricted (Deficit)", "Unrestricted (Deficit)", "-1455537.00" ]
+, [ 66, "D08AC91E-4ADA-4104-98DF-3562C354D0AF", 66, 1392827788, "862121", 1392827788, "862121", "{\n}", "2008", "Business-type Activities", "Net Investment in Capital Assets", "Net Investment in Capital Assets", "9372493.00" ]
+, [ 67, "32869373-3F34-481A-AC81-404CAC849EE1", 67, 1392827788, "862121", 1392827788, "862121", "{\n}", "2008", "Business-type Activities", "Restricted", "Restricted for Capital Projects", "115428.00" ]
+, [ 68, "031E4670-E1A3-4A8E-AA3A-3AD2C4D59DEF", 68, 1392827788, "862121", 1392827788, "862121", "{\n}", "2008", "Business-type Activities", "Restricted", "Restricted for Debt Service", "758318.00" ]
+, [ 69, "FF640EC3-9ECC-446D-826B-9410FEAEDC17", 69, 1392827788, "862121", 1392827788, "862121", "{\n}", "2008", "Business-type Activities", "Restricted", "Restricted for Special Purposes", "1606749.00" ]
+, [ 70, "07AA3A5C-7C6F-4BFB-B720-0EFEB31C0F90", 70, 1392827788, "862121", 1392827788, "862121", "{\n}", "2008", "Business-type Activities", "Unrestricted", "Unrestricted", "2527916.00" ]
+, [ 71, "B8A165DB-ABBC-411F-A479-8D0B5F6107A2", 71, 1392827788, "862121", 1392827788, "862121", "{\n}", "2008", "Primary Government", "Net Investment in Capital Assets", "Net Investment in Capital Assets", "12787542.00" ]
+, [ 72, "E54C4299-5041-4C65-9A63-D356988C819B", 72, 1392827788, "862121", 1392827788, "862121", "{\n}", "2008", "Primary Government", "Restricted", "Restricted for Capital Projects", "248011.00" ]
+, [ 73, "0CE0B437-6F9D-4E78-8A21-6BABC9EE329B", 73, 1392827788, "862121", 1392827788, "862121", "{\n}", "2008", "Primary Government", "Restricted", "Restricted for Debt Service", "967390.00" ]
+, [ 74, "750B8BA7-6033-484D-9E0A-7F323DF80462", 74, 1392827788, "862121", 1392827788, "862121", "{\n}", "2008", "Primary Government", "Restricted", "Restricted for Special Purposes", "3343239.00" ]
+, [ 75, "A2891A3A-8D47-4C9D-AB18-71ADB7FF977A", 75, 1392827788, "862121", 1392827788, "862121", "{\n}", "2008", "Primary Government", "Unrestricted", "Unrestricted", "1072379.00" ]
+, [ 76, "1A570A59-0454-4A97-B4A9-E25CC0E2B950", 76, 1392827788, "862121", 1392827788, "862121", "{\n}", "2009", "Governmental Activities", "Net Investment in Capital Assets", "Net Investment in Capital Assets", "3633548.00" ]
+, [ 77, "96FB15E4-6CDA-49BB-AD4C-FF22C254C346", 77, 1392827788, "862121", 1392827788, "862121", "{\n}", "2009", "Governmental Activities", "Restricted", "Restricted for Capital Projects", "138237.00" ]
+, [ 78, "4D57F0A4-5025-4A71-8C45-727D19DBD6A9", 78, 1392827788, "862121", 1392827788, "862121", "{\n}", "2009", "Governmental Activities", "Restricted", "Restricted for Debt Service", "216751.00" ]
+, [ 79, "4354681D-3C82-400C-AF39-DC8BA2539E57", 79, 1392827788, "862121", 1392827788, "862121", "{\n}", "2009", "Governmental Activities", "Restricted", "Restricted for Special Purposes", "1639594.00" ]
+, [ 80, "A66012B3-6C02-4FFE-A6AC-27762EB6FB1F", 80, 1392827788, "862121", 1392827788, "862121", "{\n}", "2009", "Governmental Activities", "Unrestricted (Deficit)", "Unrestricted (Deficit)", "-1707447.00" ]
+, [ 81, "19934C21-D548-4053-9458-FE6D81021FA4", 81, 1392827788, "862121", 1392827788, "862121", "{\n}", "2009", "Business-type Activities", "Net Investment in Capital Assets", "Net Investment in Capital Assets", "9148381.00" ]
+, [ 82, "15F1353C-D287-434E-A08E-40D8536F7AAE", 82, 1392827788, "862121", 1392827788, "862121", "{\n}", "2009", "Business-type Activities", "Restricted", "Restricted for Capital Projects", "274711.00" ]
+, [ 83, "E2A4B2BD-A1AD-4B90-9A4F-BF4020284DE3", 83, 1392827788, "862121", 1392827788, "862121", "{\n}", "2009", "Business-type Activities", "Restricted", "Restricted for Debt Service", "1044956.00" ]
+, [ 84, "18CD7A1D-EEEF-4703-9BD3-A4329C1155D0", 84, 1392827788, "862121", 1392827788, "862121", "{\n}", "2009", "Business-type Activities", "Restricted", "Restricted for Special Purposes", "1750093.00" ]
+, [ 85, "C8D05849-4006-4E10-8D87-608E29621B52", 85, 1392827788, "862121", 1392827788, "862121", "{\n}", "2009", "Business-type Activities", "Unrestricted", "Unrestricted", "2657431.00" ]
+, [ 86, "58148F52-AC21-408E-BB43-7E8804981491", 86, 1392827788, "862121", 1392827788, "862121", "{\n}", "2009", "Primary Government", "Net Investment in Capital Assets", "Net Investment in Capital Assets", "12781929.00" ]
+, [ 87, "4C5EF6C9-A0AE-4F99-856C-3B9C0D3B4395", 87, 1392827788, "862121", 1392827788, "862121", "{\n}", "2009", "Primary Government", "Restricted", "Restricted for Capital Projects", "412948.00" ]
+, [ 88, "DDC5FFB6-656F-4F30-A75A-737B3F6632B6", 88, 1392827788, "862121", 1392827788, "862121", "{\n}", "2009", "Primary Government", "Restricted", "Restricted for Debt Service", "1261707.00" ]
+, [ 89, "7870E76A-820D-4FF7-BE13-63F56079C63E", 89, 1392827788, "862121", 1392827788, "862121", "{\n}", "2009", "Primary Government", "Restricted", "Restricted for Special Purposes", "3389687.00" ]
+, [ 90, "69C74457-0CE1-4F13-AC06-5C71797492D6", 90, 1392827788, "862121", 1392827788, "862121", "{\n}", "2009", "Primary Government", "Unrestricted", "Unrestricted", "949984.00" ]
+, [ 91, "D5571946-88C8-4AAD-82E0-B1B1BD8C761F", 91, 1392827788, "862121", 1392827788, "862121", "{\n}", "2010", "Governmental Activities", "Net Investment in Capital Assets", "Net Investment in Capital Assets", "3798442.00" ]
+, [ 92, "4BDE3C67-4445-4E07-9B58-11BB7A26BC40", 92, 1392827788, "862121", 1392827788, "862121", "{\n}", "2010", "Governmental Activities", "Restricted", "Restricted for Capital Projects", "158878.00" ]
+, [ 93, "49F8B47E-1906-4F65-8EF8-813ADDE43E4B", 93, 1392827788, "862121", 1392827788, "862121", "{\n}", "2010", "Governmental Activities", "Restricted", "Restricted for Debt Service", "228515.00" ]
+, [ 94, "63550628-EB74-41E6-A298-1838901B44B4", 94, 1392827788, "862121", 1392827788, "862121", "{\n}", "2010", "Governmental Activities", "Restricted", "Restricted for Special Purposes", "1679989.00" ]
+, [ 95, "BEB0B17D-0249-4E5D-9103-0E41CBF1121F", 95, 1392827788, "862121", 1392827788, "862121", "{\n}", "2010", "Governmental Activities", "Unrestricted (Deficit)", "Unrestricted (Deficit)", "-1564473.00" ]
+, [ 96, "9C6D5A88-2BE5-4AEE-B2E3-296B231E91D6", 96, 1392827788, "862121", 1392827788, "862121", "{\n}", "2010", "Business-type Activities", "Net Investment in Capital Assets", "Net Investment in Capital Assets", "9135266.00" ]
+, [ 97, "D79F1D43-D577-4214-A8FD-213F77DF271D", 97, 1392827788, "862121", 1392827788, "862121", "{\n}", "2010", "Business-type Activities", "Restricted", "Restricted for Capital Projects", "238467.00" ]
+, [ 98, "318E4878-EC6A-4BF2-9255-445A9C49E2E8", 98, 1392827788, "862121", 1392827788, "862121", "{\n}", "2010", "Business-type Activities", "Restricted", "Restricted for Debt Service", "1214521.00" ]
+, [ 99, "DBF42581-E6B9-4CE2-9834-8B1DDC181577", 99, 1392827788, "862121", 1392827788, "862121", "{\n}", "2010", "Business-type Activities", "Restricted", "Restricted for Special Purposes", "2026244.00" ]
+, [ 100, "B73E0F6C-349C-4D2D-BDCF-70F19A5F547E", 100, 1392827788, "862121", 1392827788, "862121", "{\n}", "2010", "Business-type Activities", "Unrestricted", "Unrestricted", "3038407.00" ]
+, [ 101, "80C5D551-0242-4DB0-8402-FED6AD2BF20F", 101, 1392827788, "862121", 1392827788, "862121", "{\n}", "2010", "Primary Government", "Net Investment in Capital Assets", "Net Investment in Capital Assets", "12933708.00" ]
+, [ 102, "15FA5B17-4C96-440B-99D5-2C7BCA047E47", 102, 1392827788, "862121", 1392827788, "862121", "{\n}", "2010", "Primary Government", "Restricted", "Restricted for Capital Projects", "397345.00" ]
+, [ 103, "5FC98632-4572-4E8F-B4F8-FA4244792F4A", 103, 1392827788, "862121", 1392827788, "862121", "{\n}", "2010", "Primary Government", "Restricted", "Restricted for Debt Service", "1443036.00" ]
+, [ 104, "B0ED9207-D71F-4CF1-8F4C-B6B1CD568B41", 104, 1392827788, "862121", 1392827788, "862121", "{\n}", "2010", "Primary Government", "Restricted", "Restricted for Special Purposes", "3706233.00" ]
+, [ 105, "77491660-6F86-4777-8013-AFDAA840B7BD", 105, 1392827788, "862121", 1392827788, "862121", "{\n}", "2010", "Primary Government", "Unrestricted", "Unrestricted", "1473934.00" ]
+, [ 106, "BF3BF9F1-2B27-4DAD-9D13-1D94CC9C794A", 106, 1392827788, "862121", 1392827788, "862121", "{\n}", "2011", "Governmental Activities", "Net Investment in Capital Assets", "Net Investment in Capital Assets", "4140258.00" ]
+, [ 107, "74ED0C5C-6406-4AF9-8523-60DB87D4F383", 107, 1392827788, "862121", 1392827788, "862121", "{\n}", "2011", "Governmental Activities", "Restricted", "Restricted for Capital Projects", "61090.00" ]
+, [ 108, "151C6C84-E810-411A-9EA3-61BE2BBE33C3", 108, 1392827788, "862121", 1392827788, "862121", "{\n}", "2011", "Governmental Activities", "Restricted", "Restricted for Debt Service", "215496.00" ]
+, [ 109, "35A61EA8-6297-42F4-913F-B884F6F42475", 109, 1392827788, "862121", 1392827788, "862121", "{\n}", "2011", "Governmental Activities", "Restricted", "Restricted for Special Purposes", "1753510.00" ]
+, [ 110, "7DE9F264-0229-46ED-B575-A360D8B997EC", 110, 1392827788, "862121", 1392827788, "862121", "{\n}", "2011", "Governmental Activities", "Unrestricted (Deficit)", "Unrestricted (Deficit)", "-1794315.00" ]
+, [ 111, "E333B76D-BC06-41D2-AF81-2A0F83B9C427", 111, 1392827788, "862121", 1392827788, "862121", "{\n}", "2011", "Business-type Activities", "Net Investment in Capital Assets", "Net Investment in Capital Assets", "9186620.00" ]
+, [ 112, "55B19446-DCFD-441B-9E78-80A1D3844DC9", 112, 1392827788, "862121", 1392827788, "862121", "{\n}", "2011", "Business-type Activities", "Restricted", "Restricted for Capital Projects", "237019.00" ]
+, [ 113, "25E44469-F62F-4333-A467-CC5BE3DB673C", 113, 1392827788, "862121", 1392827788, "862121", "{\n}", "2011", "Business-type Activities", "Restricted", "Restricted for Debt Service", "1262623.00" ]
+, [ 114, "CCA1A843-20A2-44CE-893D-77C6ECD4AF73", 114, 1392827788, "862121", 1392827788, "862121", "{\n}", "2011", "Business-type Activities", "Restricted", "Restricted for Special Purposes", "2086775.00" ]
+, [ 115, "7A35ADA4-A103-4145-8554-6463012852F6", 115, 1392827788, "862121", 1392827788, "862121", "{\n}", "2011", "Business-type Activities", "Unrestricted", "Unrestricted", "3336976.00" ]
+, [ 116, "C5692415-2AB1-473F-8B8E-04E73AD500EA", 116, 1392827788, "862121", 1392827788, "862121", "{\n}", "2011", "Primary Government", "Net Investment in Capital Assets", "Net Investment in Capital Assets", "13326878.00" ]
+, [ 117, "898F5C8F-EF37-4852-BA41-D163709F797E", 117, 1392827788, "862121", 1392827788, "862121", "{\n}", "2011", "Primary Government", "Restricted", "Restricted for Capital Projects", "298109.00" ]
+, [ 118, "D8CC2165-B74A-402E-A8F7-75A15BD68CAE", 118, 1392827788, "862121", 1392827788, "862121", "{\n}", "2011", "Primary Government", "Restricted", "Restricted for Debt Service", "1478119.00" ]
+, [ 119, "5CB05C10-3CD0-4E6B-82AE-1DF5E6238C87", 119, 1392827788, "862121", 1392827788, "862121", "{\n}", "2011", "Primary Government", "Restricted", "Restricted for Special Purposes", "3840285.00" ]
+, [ 120, "0C85DF91-13E8-4279-8961-F72D27F3196C", 120, 1392827788, "862121", 1392827788, "862121", "{\n}", "2011", "Primary Government", "Unrestricted", "Unrestricted", "1542661.00" ]
+, [ 121, "03E3E2FF-B296-405E-BB2F-D34650F72EAB", 121, 1392827788, "862121", 1392827788, "862121", "{\n}", "2012", "Governmental Activities", "Net Investment in Capital Assets", "Net Investment in Capital Assets", "4416934.00" ]
+, [ 122, "61CDC2C8-E105-4417-AB5C-3826C4DC1D77", 122, 1392827788, "862121", 1392827788, "862121", "{\n}", "2012", "Governmental Activities", "Restricted", "Restricted for Capital Projects", "74721.00" ]
+, [ 123, "C2C81571-6B52-4F5C-9AAB-468A3DC06B97", 123, 1392827788, "862121", 1392827788, "862121", "{\n}", "2012", "Governmental Activities", "Restricted", "Restricted for Debt Service", "157402.00" ]
+, [ 124, "EB202714-324C-43E7-9BD1-9D074D7A151C", 124, 1392827788, "862121", 1392827788, "862121", "{\n}", "2012", "Governmental Activities", "Restricted", "Restricted for Special Purposes", "1853933.00" ]
+, [ 125, "63A3BFBB-746B-44C2-ACFD-0AB256919731", 125, 1392827788, "862121", 1392827788, "862121", "{\n}", "2012", "Governmental Activities", "Unrestricted (Deficit)", "Unrestricted (Deficit)", "-1782463.00" ]
+, [ 126, "AB34E665-CE6E-4B81-A64C-5C2CA3A297A2", 126, 1392827788, "862121", 1392827788, "862121", "{\n}", "2012", "Business-type Activities", "Net Investment in Capital Assets", "Net Investment in Capital Assets", "9940457.00" ]
+, [ 127, "D7263100-991C-4907-96DF-DFAD351712A6", 127, 1392827788, "862121", 1392827788, "862121", "{\n}", "2012", "Business-type Activities", "Restricted", "Restricted for Capital Projects", "168924.00" ]
+, [ 128, "9B3303E7-3BA9-489B-B115-D59C6C380994", 128, 1392827788, "862121", 1392827788, "862121", "{\n}", "2012", "Business-type Activities", "Restricted", "Restricted for Debt Service", "1223993.00" ]
+, [ 129, "A214ABC7-9DCB-495A-8DF1-6E7101598612", 129, 1392827788, "862121", 1392827788, "862121", "{\n}", "2012", "Business-type Activities", "Restricted", "Restricted for Special Purposes", "2232788.00" ]
+, [ 130, "65D7499A-B3AE-4394-B1E6-95778ABBA251", 130, 1392827788, "862121", 1392827788, "862121", "{\n}", "2012", "Business-type Activities", "Unrestricted", "Unrestricted", "3214165.00" ]
+, [ 131, "3BCCFD6F-3F1B-42C8-AFCB-BFA88F2E20C2", 131, 1392827788, "862121", 1392827788, "862121", "{\n}", "2012", "Primary Government", "Net Investment in Capital Assets", "Net Investment in Capital Assets", "14357391.00" ]
+, [ 132, "1D79CA53-FE0A-4D08-901D-6542F710C390", 132, 1392827788, "862121", 1392827788, "862121", "{\n}", "2012", "Primary Government", "Restricted", "Restricted for Capital Projects", "243645.00" ]
+, [ 133, "E7879512-C702-40E7-96E5-F4AEB658EFAC", 133, 1392827788, "862121", 1392827788, "862121", "{\n}", "2012", "Primary Government", "Restricted", "Restricted for Debt Service", "1381395.00" ]
+, [ 134, "85152785-8E91-43C2-8644-47F8C9AA29CF", 134, 1392827788, "862121", 1392827788, "862121", "{\n}", "2012", "Primary Government", "Restricted", "Restricted for Special Purposes", "4086721.00" ]
+, [ 135, "557F16A2-00A4-43F4-992C-3249CB914886", 135, 1392827788, "862121", 1392827788, "862121", "{\n}", "2012", "Primary Government", "Unrestricted", "Unrestricted", "1431702.00" ]
+, [ 136, "7FF8CB7F-BC9E-496B-AA64-81A6D7A2C60C", 136, 1392827788, "862121", 1392827788, "862121", "{\n}", "2013", "Governmental Activities", "Net Investment in Capital Assets", "Net Investment in Capital Assets", "4452921.00" ]
+, [ 137, "D98DD6C1-583A-4771-AE7D-09ED0706A737", 137, 1392827788, "862121", 1392827788, "862121", "{\n}", "2013", "Governmental Activities", "Restricted", "Restricted for Capital Projects", "89055.00" ]
+, [ 138, "159CF7D6-4B7C-4E81-97F8-190A6451E5AB", 138, 1392827788, "862121", 1392827788, "862121", "{\n}", "2013", "Governmental Activities", "Restricted", "Restricted for Debt Service", "154321.00" ]
+, [ 139, "0724BBDF-1C7F-40AA-AA1B-24EEF49EC0BE", 139, 1392827788, "862121", 1392827788, "862121", "{\n}", "2013", "Governmental Activities", "Restricted", "Restricted for Special Purposes", "2193433.00" ]
+, [ 140, "D36B3449-F267-4D21-B207-7491B773118A", 140, 1392827788, "862121", 1392827788, "862121", "{\n}", "2013", "Governmental Activities", "Unrestricted (Deficit)", "Unrestricted (Deficit)", "-2429330.00" ]
+, [ 141, "13949595-CE9F-497D-AA56-BED6CE81033B", 141, 1392827788, "862121", 1392827788, "862121", "{\n}", "2013", "Business-type Activities", "Net Investment in Capital Assets", "Net Investment in Capital Assets", "10135052.00" ]
+, [ 142, "18CA5B14-E469-456D-A329-6079FEB893CD", 142, 1392827788, "862121", 1392827788, "862121", "{\n}", "2013", "Business-type Activities", "Restricted", "Restricted for Capital Projects", "249773.00" ]
+, [ 143, "0B041680-05E1-425B-AAC8-D934FC62789A", 143, 1392827788, "862121", 1392827788, "862121", "{\n}", "2013", "Business-type Activities", "Restricted", "Restricted for Debt Service", "1147819.00" ]
+, [ 144, "815B2EDD-3148-427E-8C0A-2654C85D47F1", 144, 1392827788, "862121", 1392827788, "862121", "{\n}", "2013", "Business-type Activities", "Restricted", "Restricted for Special Purposes", "2264948.00" ]
+, [ 145, "E490AB30-A2BD-4E97-B58C-2C755C5B1032", 145, 1392827788, "862121", 1392827788, "862121", "{\n}", "2013", "Business-type Activities", "Unrestricted", "Unrestricted", "3619888.00" ]
+, [ 146, "F95F7D83-EF32-4DD5-A4D2-F4F5FA8B0CFA", 146, 1392827788, "862121", 1392827788, "862121", "{\n}", "2013", "Primary Government", "Net Investment in Capital Assets", "Net Investment in Capital Assets", "14587973.00" ]
+, [ 147, "8EE3EFE8-95CF-48A0-A1A2-841B254CA474", 147, 1392827788, "862121", 1392827788, "862121", "{\n}", "2013", "Primary Government", "Restricted", "Restricted for Capital Projects", "338828.00" ]
+, [ 148, "F8D98D41-D3C4-43C0-B284-59752767F999", 148, 1392827788, "862121", 1392827788, "862121", "{\n}", "2013", "Primary Government", "Restricted", "Restricted for Debt Service", "1302140.00" ]
+, [ 149, "ECD4FCD4-6BFD-4EAA-BBF6-444959D8B582", 149, 1392827788, "862121", 1392827788, "862121", "{\n}", "2013", "Primary Government", "Restricted", "Restricted for Special Purposes", "4458381.00" ]
+, [ 150, "52B1C321-8BBC-4E97-9C6C-56FE16B73A4B", 150, 1392827788, "862121", 1392827788, "862121", "{\n}", "2013", "Primary Government", "Unrestricted", "Unrestricted", "1190558.00" ]
+ ]
+}

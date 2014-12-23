@@ -1,0 +1,461 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "7w5j-7jjp",
+      "name" : "EWDD - Worksource Center Program Performance Outcomes",
+      "attribution" : "May Smith",
+      "averageRating" : 0,
+      "category" : "A Prosperous City",
+      "createdAt" : 1401401804,
+      "description" : "The WSC program, funded through the Workforce Investment Act (WIA); National Emergency Grant (NEG) and other competitive grants, provides employment training and placement services for adults and dislocated workers, with a special emphasis on vulnerable populations, including persons with disabilities, veterans, homeless, English-language learners and older workers.  Annual goals are established by California Employment Development Department and the US Department of Labor.",
+      "displayType" : "table",
+      "downloadCount" : 3,
+      "indexUpdatedAt" : 1414616296,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8099985,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401402058,
+      "publicationGroup" : 1599245,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1401401979,
+      "rowsUpdatedBy" : "utpt-bj92",
+      "tableId" : 1599245,
+      "totalTimesRated" : 0,
+      "viewCount" : 46,
+      "viewLastModified" : 1401402058,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150464114,
+        "name" : "Metric Nbr",
+        "dataTypeName" : "number",
+        "fieldName" : "metric_nbr",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20001641,
+        "width" : 50,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "1.1",
+          "sum" : "15.5",
+          "null" : 0,
+          "average" : "1.55",
+          "largest" : "2.0",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1.1"
+          }, {
+            "count" : 19,
+            "item" : "1.2"
+          }, {
+            "count" : 18,
+            "item" : "1.3"
+          }, {
+            "count" : 17,
+            "item" : "1.4"
+          }, {
+            "count" : 16,
+            "item" : "1.5"
+          }, {
+            "count" : 15,
+            "item" : "1.6"
+          }, {
+            "count" : 14,
+            "item" : "1.7"
+          }, {
+            "count" : 13,
+            "item" : "1.8"
+          }, {
+            "count" : 12,
+            "item" : "1.9"
+          }, {
+            "count" : 11,
+            "item" : "2.0"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150464115,
+        "name" : "Metric",
+        "dataTypeName" : "text",
+        "fieldName" : "metric",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20001642,
+        "width" : 494,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "3Rapid Response Served ",
+          "null" : 0,
+          "largest" : "WorkSource Dislocated Worker Placements",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Universal Access Customers Served"
+          }, {
+            "count" : 19,
+            "item" : "WorkSource Adult Placements"
+          }, {
+            "count" : 18,
+            "item" : "WorkSource Average Wage at Placement"
+          }, {
+            "count" : 17,
+            "item" : "WorkSource Dislocated Worker Placements"
+          }, {
+            "count" : 16,
+            "item" : "WorkSource Dislocated Worker Average Wage at Placement"
+          }, {
+            "count" : 15,
+            "item" : "3Rapid Response Served "
+          }, {
+            "count" : 14,
+            "item" : "National Emergency Grant (NEG): Back2Work Placements (Phase II)"
+          }, {
+            "count" : 13,
+            "item" : "CA Disability Initiative Employment Placements"
+          }, {
+            "count" : 12,
+            "item" : "Veterans Employment Initiative"
+          }, {
+            "count" : 11,
+            "item" : "CDBG/Living Independently Through Employment (LITE) Program: Homeless Placements"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150464116,
+        "name" : "Annual Goal",
+        "dataTypeName" : "text",
+        "fieldName" : "annual_goal",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20001643,
+        "width" : 97,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "$11.78",
+          "null" : 0,
+          "largest" : "5,000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "150,000"
+          }, {
+            "count" : 19,
+            "item" : "1,586"
+          }, {
+            "count" : 18,
+            "item" : "$11.78"
+          }, {
+            "count" : 17,
+            "item" : "1,013"
+          }, {
+            "count" : 16,
+            "item" : "$13.33"
+          }, {
+            "count" : 15,
+            "item" : "5,000"
+          }, {
+            "count" : 14,
+            "item" : "2,000"
+          }, {
+            "count" : 13,
+            "item" : "158"
+          }, {
+            "count" : 12,
+            "item" : "10%"
+          }, {
+            "count" : 11,
+            "item" : "120"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150464117,
+        "name" : "2 Quarter Cumulative Goal: July 1 - Dec 31 ",
+        "dataTypeName" : "number",
+        "fieldName" : "_2_quarter_cumulative_goal_july_1_dec_31",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 20001644,
+        "width" : 275,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "79",
+          "sum" : "76669",
+          "null" : 4,
+          "average" : "12778.16666666667",
+          "largest" : "75000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "75000"
+          }, {
+            "count" : 19,
+            "item" : "793"
+          }, {
+            "count" : 18,
+            "item" : "507"
+          }, {
+            "count" : 17,
+            "item" : "200"
+          }, {
+            "count" : 16,
+            "item" : "79"
+          }, {
+            "count" : 15,
+            "item" : "90"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150464118,
+        "name" : "2 Quarter Cumulative Actual:July 1 - Dec 31",
+        "dataTypeName" : "money",
+        "fieldName" : "_2_quarter_cumulative_actual_july_1_dec_31",
+        "position" : 5,
+        "renderTypeName" : "money",
+        "tableColumnId" : 20001645,
+        "width" : 171,
+        "cachedContents" : {
+          "non_null" : 9,
+          "smallest" : "14.17",
+          "sum" : "87530.84",
+          "null" : 1,
+          "average" : "9725.648888888889",
+          "largest" : "85200",
+          "top" : [ {
+            "count" : 20,
+            "item" : "85200"
+          }, {
+            "count" : 19,
+            "item" : "767"
+          }, {
+            "count" : 18,
+            "item" : "14.17"
+          }, {
+            "count" : 17,
+            "item" : "358"
+          }, {
+            "count" : 16,
+            "item" : "17.67"
+          }, {
+            "count" : 15,
+            "item" : "793"
+          }, {
+            "count" : 14,
+            "item" : "49"
+          }, {
+            "count" : 13,
+            "item" : "229"
+          }, {
+            "count" : 12,
+            "item" : "103"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150464119,
+        "name" : "Percentage of 2 Quarter Goal",
+        "dataTypeName" : "percent",
+        "fieldName" : "percentage_of_2_quarter_goal",
+        "position" : 6,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 20001646,
+        "width" : 183,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "25",
+          "sum" : "711",
+          "null" : 4,
+          "average" : "118.5",
+          "largest" : "290",
+          "top" : [ {
+            "count" : 20,
+            "item" : "114"
+          }, {
+            "count" : 19,
+            "item" : "97"
+          }, {
+            "count" : 18,
+            "item" : "71"
+          }, {
+            "count" : 17,
+            "item" : "25"
+          }, {
+            "count" : 16,
+            "item" : "290"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150464120,
+        "name" : "% of Annual Goal Completed",
+        "dataTypeName" : "percent",
+        "fieldName" : "of_annual_goal_completed",
+        "position" : 7,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 20001647,
+        "width" : 221,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "2",
+          "sum" : "373",
+          "null" : 4,
+          "average" : "62.16666666666667",
+          "largest" : "145",
+          "top" : [ {
+            "count" : 20,
+            "item" : "57"
+          }, {
+            "count" : 19,
+            "item" : "48"
+          }, {
+            "count" : 18,
+            "item" : "35"
+          }, {
+            "count" : 17,
+            "item" : "2"
+          }, {
+            "count" : 16,
+            "item" : "145"
+          }, {
+            "count" : 15,
+            "item" : "86"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Economic and Workforce Development"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "utpt-bj92",
+        "displayName" : "Economic and Workforce Dev OpenData",
+        "profileImageUrlLarge" : "/images/profile/0818/3245/City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0818/3245/City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0818/3245/City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Economic and Workforce Dev OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "utpt-bj92",
+        "displayName" : "Economic and Workforce Dev OpenData",
+        "profileImageUrlLarge" : "/images/profile/0818/3245/City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0818/3245/City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0818/3245/City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Economic and Workforce Dev OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "ewdd", "worksource", "program performance", "outcomes" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "3C4BFEC7-76C1-45EF-928C-B5AA7D38C67B", 1, 1401401806, "883727", 1401401806, "883727", "{\n}", "1.1", "Universal Access Customers Served", "150,000", "75000", "85200", "114", "57" ]
+, [ 2, "6DE25C58-832E-46F8-99AE-DE1CF3F753E6", 2, 1401401806, "883727", 1401401806, "883727", "{\n}", "1.2", "WorkSource Adult Placements", "1,586", "793", "767", "97", "48" ]
+, [ 3, "8FF3E0CE-2B5E-4232-BE18-A72EA1CED1FF", 3, 1401401806, "883727", 1401401806, "883727", "{\n}", "1.3", "WorkSource Average Wage at Placement", "$11.78", null, "14.17", null, null ]
+, [ 4, "81D3E6BD-7846-47C4-8939-4C78B48CB287", 4, 1401401806, "883727", 1401401806, "883727", "{\n}", "1.4", "WorkSource Dislocated Worker Placements", "1,013", "507", "358", "71", "35" ]
+, [ 5, "0EC5806D-D4D3-4DC0-B03F-26208A58DD67", 5, 1401401806, "883727", 1401401806, "883727", "{\n}", "1.5", "WorkSource Dislocated Worker Average Wage at Placement", "$13.33", null, "17.67", null, null ]
+, [ 6, "42DAF862-B17D-4FAF-BE87-46B870AADC97", 6, 1401401806, "883727", 1401401806, "883727", "{\n}", "1.6", "3Rapid Response Served ", "5,000", null, "793", null, null ]
+, [ 7, "6F5CD74E-29F5-4DFE-B598-EA191F7C22F2", 7, 1401401806, "883727", 1401401806, "883727", "{\n}", "1.7", "National Emergency Grant (NEG): Back2Work Placements (Phase II)", "2,000", "200", "49", "25", "2" ]
+, [ 10, "780BF627-389B-4EA0-B074-D569A692EA97", 10, 1401401806, "883727", 1401401806, "883727", "{\n}", "1.8", "CA Disability Initiative Employment Placements", "158", "79", "229", "290", "145" ]
+, [ 11, "E2655404-ADB9-47B3-B4F9-2C1F4648EA26", 11, 1401401806, "883727", 1401401806, "883727", "{\n}", "1.9", "Veterans Employment Initiative", "10%", null, null, null, null ]
+, [ 12, "E483AB3F-9906-447B-9E5D-18BA9908A8B7", 12, 1401401806, "883727", 1401401806, "883727", "{\n}", "2.0", "CDBG/Living Independently Through Employment (LITE) Program: Homeless Placements", "120", "90", "103", "114", "86" ]
+ ]
+}

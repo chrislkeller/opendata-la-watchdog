@@ -1,0 +1,653 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "6xuk-a67v",
+      "name" : "Emergency Management Department - Community Outreach - First Quarter 2014",
+      "averageRating" : 0,
+      "category" : "A Safe City",
+      "createdAt" : 1401211217,
+      "description" : "Community Outreach conducted by the Emergency Management Department for the period of January - March 2014",
+      "displayType" : "table",
+      "downloadCount" : 3,
+      "indexUpdatedAt" : 1414613840,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8081472,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401404447,
+      "publicationGroup" : 1596239,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1401211787,
+      "rowsUpdatedBy" : "vnsa-hifw",
+      "tableId" : 1596239,
+      "totalTimesRated" : 0,
+      "viewCount" : 55,
+      "viewLastModified" : 1401404467,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150122174,
+        "name" : "Activity",
+        "dataTypeName" : "text",
+        "fieldName" : "activity",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19958297,
+        "width" : 484,
+        "cachedContents" : {
+          "non_null" : 33,
+          "smallest" : "AMSC Meeting",
+          "null" : 0,
+          "largest" : "USC Safety Task Force Meeting",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Brookins Community AME Church Emergency Preparedness Presentation"
+          }, {
+            "count" : 19,
+            "item" : "AMSC Meeting"
+          }, {
+            "count" : 18,
+            "item" : "SB CAER Meeting"
+          }, {
+            "count" : 17,
+            "item" : "USC Safety Task Force Meeting"
+          }, {
+            "count" : 16,
+            "item" : "Emergency Preparedness Presentation for St Paul's Presbyterian Church"
+          }, {
+            "count" : 15,
+            "item" : "Emergency Preparedness Presentation for Parents of the Center"
+          }, {
+            "count" : 14,
+            "item" : "EP Brochures for City Libraries"
+          }, {
+            "count" : 13,
+            "item" : "Tom LaBonge's Office"
+          }, {
+            "count" : 12,
+            "item" : "Presentation at CD 13"
+          }, {
+            "count" : 11,
+            "item" : "OAAB AFN Committee Meeting"
+          }, {
+            "count" : 10,
+            "item" : "Skid Row Disaster Planning Collaberative"
+          }, {
+            "count" : 9,
+            "item" : "Braille Institiue"
+          }, {
+            "count" : 8,
+            "item" : "Children in Disasters Meeting"
+          }, {
+            "count" : 7,
+            "item" : "LA Radio Reading Service"
+          }, {
+            "count" : 6,
+            "item" : "CD -12 Residents"
+          }, {
+            "count" : 5,
+            "item" : "Northridge 20 Year"
+          }, {
+            "count" : 4,
+            "item" : "United American Indian Involvement"
+          }, {
+            "count" : 3,
+            "item" : "Granada Hills NC"
+          }, {
+            "count" : 2,
+            "item" : "Consulate General of Canada"
+          }, {
+            "count" : 1,
+            "item" : "Storefront Senior Center"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150122175,
+        "name" : "Date",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date",
+        "position" : 2,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 19958298,
+        "width" : 89,
+        "cachedContents" : {
+          "non_null" : 31,
+          "smallest" : "2014-01-01T00:00:00",
+          "null" : 2,
+          "largest" : "2014-04-17T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2014-01-11T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2014-02-05T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2014-02-11T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2014-02-20T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2014-03-15T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2014-03-26T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2014-04-17T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2014-02-03T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2014-03-25T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2014-02-06T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2014-02-25T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2014-03-06T00:00:00"
+          }, {
+            "count" : 8,
+            "item" : "2014-03-12T00:00:00"
+          }, {
+            "count" : 7,
+            "item" : "2014-01-01T00:00:00"
+          }, {
+            "count" : 6,
+            "item" : "2014-01-16T00:00:00"
+          }, {
+            "count" : 5,
+            "item" : "2014-01-29T00:00:00"
+          }, {
+            "count" : 4,
+            "item" : "2014-02-04T00:00:00"
+          }, {
+            "count" : 3,
+            "item" : "2014-03-07T00:00:00"
+          }, {
+            "count" : 2,
+            "item" : "2014-03-14T00:00:00"
+          } ]
+        },
+        "format" : {
+          "view" : "date",
+          "align" : "left"
+        }
+      }, {
+        "id" : 150122176,
+        "name" : "Purpose",
+        "dataTypeName" : "text",
+        "fieldName" : "purpose",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19958299,
+        "width" : 437,
+        "cachedContents" : {
+          "non_null" : 33,
+          "smallest" : "Childrens' Emergency Preparedness Books - Spanish",
+          "null" : 0,
+          "largest" : "Tsunami Preparedness Brochures",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Conducted presentation with Emergency Preparedness Materials"
+          }, {
+            "count" : 19,
+            "item" : "Quarterly Meeting"
+          }, {
+            "count" : 18,
+            "item" : "Monthly Meeting"
+          }, {
+            "count" : 17,
+            "item" : "Family Emergency Preparedness Guides - Spanish"
+          }, {
+            "count" : 16,
+            "item" : "Childrens' Emergency Preparedness Books - Spanish"
+          }, {
+            "count" : 15,
+            "item" : "Tsunami Preparedness Brochures"
+          }, {
+            "count" : 14,
+            "item" : "Emergency Preparedness Checklist Information"
+          }, {
+            "count" : 13,
+            "item" : "Family Emergency Preparedness Guides"
+          }, {
+            "count" : 12,
+            "item" : "Meeting"
+          }, {
+            "count" : 11,
+            "item" : "Emergency Preparedness Brochures - Braille"
+          }, {
+            "count" : 10,
+            "item" : "Emergency Recovery \"Red\" Books"
+          }, {
+            "count" : 9,
+            "item" : "Emergency Preparedness Presentation"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150122177,
+        "name" : "Category",
+        "dataTypeName" : "text",
+        "fieldName" : "category",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19958300,
+        "width" : 150,
+        "cachedContents" : {
+          "non_null" : 33,
+          "smallest" : "Community Outreach",
+          "null" : 0,
+          "largest" : "Community Outreach",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Community Outreach"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150122178,
+        "name" : "Division",
+        "dataTypeName" : "text",
+        "fieldName" : "division",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19958301,
+        "width" : 252,
+        "cachedContents" : {
+          "non_null" : 33,
+          "smallest" : "Community Emergency Management",
+          "null" : 0,
+          "largest" : "Community Emergency Management",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Community Emergency Management"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150122179,
+        "name" : "Location or Council Distrct",
+        "dataTypeName" : "text",
+        "fieldName" : "location_or_council_distrct",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19958302,
+        "width" : 424,
+        "cachedContents" : {
+          "non_null" : 33,
+          "smallest" : "11139 Woodley Ave.,\nGranada Hills, 91344",
+          "null" : 0,
+          "largest" : "West DMD",
+          "top" : [ {
+            "count" : 20,
+            "item" : "4831 S. Gramercy Pl., 90062"
+          }, {
+            "count" : 19,
+            "item" : "Port of Long Beach Adminstration Building"
+          }, {
+            "count" : 18,
+            "item" : "Carson Community Center"
+          }, {
+            "count" : 17,
+            "item" : "USC Community House"
+          }, {
+            "count" : 16,
+            "item" : "St Paul's Presbyterian Church\n5100 Coliseum St., 90016"
+          }, {
+            "count" : 15,
+            "item" : "66th St. School Early Education Center, 407 E. 67th St., LA"
+          }, {
+            "count" : 14,
+            "item" : "South DMD"
+          }, {
+            "count" : 13,
+            "item" : "City Hall"
+          }, {
+            "count" : 12,
+            "item" : "Council District 13, Hollywood Field Office"
+          }, {
+            "count" : 11,
+            "item" : "West DMD"
+          }, {
+            "count" : 10,
+            "item" : "CEOC"
+          }, {
+            "count" : 9,
+            "item" : "St. Vincent Center"
+          }, {
+            "count" : 8,
+            "item" : "Braille Institue"
+          }, {
+            "count" : 7,
+            "item" : "Los Angeles Unified School District Emergency Operations Center"
+          }, {
+            "count" : 6,
+            "item" : "Central DMD"
+          }, {
+            "count" : 5,
+            "item" : "6216 Sylvia Ave,\nTarzana 91335"
+          }, {
+            "count" : 4,
+            "item" : "Council District 12"
+          }, {
+            "count" : 3,
+            "item" : "California State University, Northridge"
+          }, {
+            "count" : 2,
+            "item" : "UAII Community Center"
+          }, {
+            "count" : 1,
+            "item" : "11139 Woodley Ave.,\nGranada Hills, 91344"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150122180,
+        "name" : "Materials Distributed",
+        "dataTypeName" : "number",
+        "fieldName" : "materials_distributed",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19958303,
+        "width" : 119,
+        "cachedContents" : {
+          "non_null" : 17,
+          "smallest" : "20",
+          "sum" : "68010",
+          "null" : 16,
+          "average" : "4000.588235294118",
+          "largest" : "25000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "150"
+          }, {
+            "count" : 19,
+            "item" : "20"
+          }, {
+            "count" : 18,
+            "item" : "40"
+          }, {
+            "count" : 17,
+            "item" : "1225"
+          }, {
+            "count" : 16,
+            "item" : "2100"
+          }, {
+            "count" : 15,
+            "item" : "6600"
+          }, {
+            "count" : 14,
+            "item" : "3000"
+          }, {
+            "count" : 13,
+            "item" : "1500"
+          }, {
+            "count" : 12,
+            "item" : "13200"
+          }, {
+            "count" : 11,
+            "item" : "1400"
+          }, {
+            "count" : 10,
+            "item" : "2400"
+          }, {
+            "count" : 9,
+            "item" : "25000"
+          }, {
+            "count" : 8,
+            "item" : "875"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150122181,
+        "name" : "Meetings Held",
+        "dataTypeName" : "number",
+        "fieldName" : "meetings_held",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19958304,
+        "width" : 77,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "1",
+          "sum" : "6",
+          "null" : 27,
+          "average" : "1",
+          "largest" : "1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150122182,
+        "name" : "Antendees",
+        "dataTypeName" : "number",
+        "fieldName" : "antendees",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19958305,
+        "width" : 150,
+        "cachedContents" : {
+          "non_null" : 19,
+          "smallest" : "8",
+          "sum" : "1361",
+          "null" : 14,
+          "average" : "71.63157894736842",
+          "largest" : "500",
+          "top" : [ {
+            "count" : 20,
+            "item" : "150"
+          }, {
+            "count" : 19,
+            "item" : "50"
+          }, {
+            "count" : 18,
+            "item" : "10"
+          }, {
+            "count" : 17,
+            "item" : "15"
+          }, {
+            "count" : 16,
+            "item" : "20"
+          }, {
+            "count" : 15,
+            "item" : "40"
+          }, {
+            "count" : 14,
+            "item" : "100"
+          }, {
+            "count" : 13,
+            "item" : "25"
+          }, {
+            "count" : 12,
+            "item" : "8"
+          }, {
+            "count" : 11,
+            "item" : "90"
+          }, {
+            "count" : 10,
+            "item" : "75"
+          }, {
+            "count" : 9,
+            "item" : "500"
+          }, {
+            "count" : 8,
+            "item" : "60"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Emergency Management"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "vnsa-hifw",
+        "displayName" : "Emergency Management OpenData",
+        "profileImageUrlLarge" : "/images/profile/9814/2769/EMD_Logo_PC_EDITS_large.PNG",
+        "profileImageUrlMedium" : "/images/profile/9814/2769/EMD_Logo_PC_EDITS_thumb.PNG",
+        "profileImageUrlSmall" : "/images/profile/9814/2769/EMD_Logo_PC_EDITS_tiny.PNG",
+        "roleName" : "editor",
+        "screenName" : "Emergency Management OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "vnsa-hifw",
+        "displayName" : "Emergency Management OpenData",
+        "profileImageUrlLarge" : "/images/profile/9814/2769/EMD_Logo_PC_EDITS_large.PNG",
+        "profileImageUrlMedium" : "/images/profile/9814/2769/EMD_Logo_PC_EDITS_thumb.PNG",
+        "profileImageUrlSmall" : "/images/profile/9814/2769/EMD_Logo_PC_EDITS_tiny.PNG",
+        "roleName" : "editor",
+        "screenName" : "Emergency Management OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "emergency preparedness", "emergency management" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "973A3594-9E5A-43C4-841E-EA09129E742F", 1, 1401211220, "883728", 1401211220, "883728", "{\n}", "Brookins Community AME Church Emergency Preparedness Presentation", "2014-01-11T00:00:00", "Conducted presentation with Emergency Preparedness Materials", "Community Outreach", "Community Emergency Management", "4831 S. Gramercy Pl., 90062", "150", "1", "150" ]
+, [ 2, "17BE8D74-710E-45E2-856C-B137F7BDC16A", 2, 1401211220, "883728", 1401211220, "883728", "{\n}", "AMSC Meeting", "2014-02-05T00:00:00", "Quarterly Meeting", "Community Outreach", "Community Emergency Management", "Port of Long Beach Adminstration Building", null, "1", "50" ]
+, [ 3, "276A945D-0854-4E28-8B29-3C4C6A8835B2", 3, 1401211220, "883728", 1401211220, "883728", "{\n}", "SB CAER Meeting", "2014-02-11T00:00:00", "Monthly Meeting", "Community Outreach", "Community Emergency Management", "Carson Community Center", null, "1", "10" ]
+, [ 4, "F214CBF4-EFDE-4112-8441-B64848C6CF02", 4, 1401211220, "883728", 1401211220, "883728", "{\n}", "USC Safety Task Force Meeting", "2014-02-20T00:00:00", "Monthly Meeting", "Community Outreach", "Community Emergency Management", "USC Community House", null, "1", "15" ]
+, [ 5, "C5D1A8BA-4F63-4F45-AB1F-95FF0CA0B610", 5, 1401211220, "883728", 1401211220, "883728", "{\n}", "Emergency Preparedness Presentation for St Paul's Presbyterian Church", "2014-03-15T00:00:00", "Conducted presentation with Emergency Preparedness Materials", "Community Outreach", "Community Emergency Management", "St Paul's Presbyterian Church\n5100 Coliseum St., 90016", "20", "1", "20" ]
+, [ 6, "04CB4E19-8694-4EA6-866E-7040E1CBC6F2", 6, 1401211220, "883728", 1401211220, "883728", "{\n}", "Emergency Preparedness Presentation for Parents of the Center", "2014-03-26T00:00:00", "Conducted presentation with Emergency Preparedness Materials", "Community Outreach", "Community Emergency Management", "66th St. School Early Education Center, 407 E. 67th St., LA", "40", "1", "40" ]
+, [ 7, "84583D6E-36DC-4402-AD7F-883D15DCF6EF", 7, 1401211220, "883728", 1401211220, "883728", "{\n}", "EP Brochures for City Libraries", "2014-04-17T00:00:00", "Family Emergency Preparedness Guides - Spanish", "Community Outreach", "Community Emergency Management", "South DMD", "1225", null, null ]
+, [ 8, "24EB7CE3-805F-433D-A2C6-A95E5A3D0868", 8, 1401211220, "883728", 1401211220, "883728", "{\n}", "EP Brochures for City Libraries", "2014-04-17T00:00:00", "Childrens' Emergency Preparedness Books - Spanish", "Community Outreach", "Community Emergency Management", "South DMD", "2100", null, null ]
+, [ 9, "6B55101E-6D89-4129-85F4-2D1E61371901", 9, 1401211220, "883728", 1401211220, "883728", "{\n}", "EP Brochures for City Libraries", "2014-04-17T00:00:00", "Tsunami Preparedness Brochures", "Community Outreach", "Community Emergency Management", "South DMD", "6600", null, null ]
+, [ 10, "19036B17-C168-47BD-BCBD-ADB59EDCCFDA", 10, 1401211220, "883728", 1401211220, "883728", "{\n}", "EP Brochures for City Libraries", "2014-04-17T00:00:00", "Emergency Preparedness Checklist Information", "Community Outreach", "Community Emergency Management", "South DMD", "3000", null, null ]
+, [ 11, "DAA662DF-EFB2-4C85-AA22-2FE208B9E715", 11, 1401211220, "883728", 1401211220, "883728", "{\n}", "Tom LaBonge's Office", "2014-02-03T00:00:00", "Family Emergency Preparedness Guides", "Community Outreach", "Community Emergency Management", "City Hall", null, null, "100" ]
+, [ 12, "1EA47750-F4E8-40EB-BCFF-DE69B7AB5344", 12, 1401211220, "883728", 1401211787, "883728", "{\n}", "Presentation at CD 13", "2014-03-25T00:00:00", "Conducted presentation with Emergency Preparedness Materials", "Community Outreach", "Community Emergency Management", "Council District 13, Hollywood Field Office", null, null, "20" ]
+, [ 13, "FF2FA4C1-85C3-4182-8A14-617D934804C5", 13, 1401211220, "883728", 1401211220, "883728", "{\n}", "EP Brochures for City Libraries", "2014-04-17T00:00:00", "Childrens' Emergency Preparedness Books - Spanish", "Community Outreach", "Community Emergency Management", "West DMD", "1500", null, null ]
+, [ 14, "23C64EFB-CD70-441B-979D-4974B00A6F19", 14, 1401211220, "883728", 1401211220, "883728", "{\n}", "EP Brochures for City Libraries", "2014-04-17T00:00:00", "Tsunami Preparedness Brochures", "Community Outreach", "Community Emergency Management", "West DMD", "13200", null, null ]
+, [ 15, "A9F2189A-8D14-461D-96E2-9B849B9ABF8E", 15, 1401211220, "883728", 1401211220, "883728", "{\n}", "EP Brochures for City Libraries", "2014-04-17T00:00:00", "Emergency Preparedness Checklist Information", "Community Outreach", "Community Emergency Management", "West DMD", "3000", null, null ]
+, [ 16, "795F394D-A4C7-4C47-9463-B9655EA7AC69", 16, 1401211220, "883728", 1401211220, "883728", "{\n}", "OAAB AFN Committee Meeting", "2014-02-06T00:00:00", "Meeting", "Community Outreach", "Community Emergency Management", "CEOC", null, null, "25" ]
+, [ 17, "1A6A37C3-C6D0-435D-83BF-C6B21052B5D4", 17, 1401211220, "883728", 1401211220, "883728", "{\n}", "Skid Row Disaster Planning Collaberative", "2014-02-25T00:00:00", "Meeting", "Community Outreach", "Community Emergency Management", "St. Vincent Center", null, null, "8" ]
+, [ 18, "C958DC1A-4ACE-4CD6-A213-DC47E8CB6B35", 18, 1401211220, "883728", 1401211220, "883728", "{\n}", "OAAB AFN Committee Meeting", "2014-03-06T00:00:00", "Meeting", "Community Outreach", "Community Emergency Management", "CEOC", null, null, "25" ]
+, [ 19, "44AF3D85-B1F9-44AA-8315-EAA91B31B132", 19, 1401211220, "883728", 1401211220, "883728", "{\n}", "Braille Institiue", "2014-03-12T00:00:00", "Emergency Preparedness Brochures - Braille", "Community Outreach", "Community Emergency Management", "Braille Institue", null, null, "90" ]
+, [ 20, "2201BEF3-D50E-4942-BFB3-2E480AEBCF67", 20, 1401211220, "883728", 1401211755, "883728", "{\n}", "Children in Disasters Meeting", "2014-03-26T00:00:00", "Meeting", "Community Outreach", "Community Emergency Management", "Los Angeles Unified School District Emergency Operations Center", null, null, "8" ]
+, [ 21, "79DE4C26-E8D7-4FC0-8F92-E9F70C28E0D6", 21, 1401211220, "883728", 1401211220, "883728", "{\n}", "EP Brochures for City Libraries", null, "Emergency Preparedness Checklist Information", "Community Outreach", "Community Emergency Management", "Central DMD", "1400", null, null ]
+, [ 22, "5DADA1EA-229E-4C2A-AC2B-D27BCEB8B58C", 22, 1401211220, "883728", 1401211220, "883728", "{\n}", "EP Brochures for City Libraries", null, "Childrens' Emergency Preparedness Books - Spanish", "Community Outreach", "Community Emergency Management", "Central DMD", "2400", null, null ]
+, [ 23, "3CA866D9-7ABE-4622-9BA5-07BD64EBDAED", 23, 1401211220, "883728", 1401211220, "883728", "{\n}", "EP Brochures for City Libraries", "2014-04-17T00:00:00", "Emergency Preparedness Checklist Information", "Community Outreach", "Community Emergency Management", "Central DMD", "3000", null, null ]
+, [ 24, "76208E45-6C50-4596-AA7B-BB6A1ECB0444", 24, 1401211220, "883728", 1401211220, "883728", "{\n}", "LA Radio Reading Service", "2014-03-12T00:00:00", "Emergency Preparedness Brochures - Braille", "Community Outreach", "Community Emergency Management", "6216 Sylvia Ave,\nTarzana 91335", null, null, "75" ]
+, [ 25, "C963AAA9-1C3E-4E12-814E-9722853188B4", 25, 1401211220, "883728", 1401211694, "883728", "{\n}", "CD -12 Residents", "2014-01-01T00:00:00", "Emergency Recovery \"Red\" Books", "Community Outreach", "Community Emergency Management", "Council District 12", "25000", null, null ]
+, [ 26, "2CA5FD5E-8EB2-4E64-BC19-C6B248D824F9", 26, 1401211220, "883728", 1401211718, "883728", "{\n}", "Northridge 20 Year", "2014-01-16T00:00:00", "Family Emergency Preparedness Guides", "Community Outreach", "Community Emergency Management", "California State University, Northridge", null, null, "500" ]
+, [ 27, "BE9FA510-C5DE-44BF-B5A2-436B4F9036B1", 27, 1401211220, "883728", 1401211220, "883728", "{\n}", "United American Indian Involvement", "2014-01-29T00:00:00", "Emergency Preparedness Presentation", "Community Outreach", "Community Emergency Management", "UAII Community Center", null, null, "60" ]
+, [ 28, "A9A20BD3-F9CC-4AFD-90E9-9725DF36B56F", 28, 1401211220, "883728", 1401211220, "883728", "{\n}", "Granada Hills NC", "2014-02-04T00:00:00", "Emergency Preparedness Presentation", "Community Outreach", "Community Emergency Management", "11139 Woodley Ave.,\nGranada Hills, 91344", null, null, "50" ]
+, [ 29, "24D416A3-97E2-49F2-9DA2-BB99137C2903", 29, 1401211220, "883728", 1401211220, "883728", "{\n}", "Consulate General of Canada", "2014-03-07T00:00:00", "Emergency Preparedness Presentation", "Community Outreach", "Community Emergency Management", "550 South Hope St, 9th floor\nLos Angeles, California, USA 90071", null, null, "40" ]
+, [ 30, "FCB62BD3-B1CF-45CB-91F4-E1E08519D458", 30, 1401211220, "883728", 1401211220, "883728", "{\n}", "Storefront Senior Center", "2014-03-14T00:00:00", "Emergency Preparedness Presentation", "Community Outreach", "Community Emergency Management", "12821 Victory Blvd.\nNorth Hollywood, CA 91606", null, null, "75" ]
+, [ 31, "432AA91B-66CD-4A00-8AB5-002F08217767", 31, 1401211220, "883728", 1401211220, "883728", "{\n}", "EP Brochures for City Libraries", "2014-04-17T00:00:00", "Family Emergency Preparedness Guides - Spanish", "Community Outreach", "Community Emergency Management", "Valley DMD", "875", null, null ]
+, [ 32, "76DE5DF4-C39B-4240-87E5-BEDF5A1B6B37", 32, 1401211220, "883728", 1401211220, "883728", "{\n}", "EP Brochures for City Libraries", "2014-04-17T00:00:00", "Childrens' Emergency Preparedness Books - Spanish", "Community Outreach", "Community Emergency Management", "Valley DMD", "1500", null, null ]
+, [ 33, "2EEC52EE-02C4-4364-8C11-CA6706C8BE1B", 33, 1401211220, "883728", 1401211220, "883728", "{\n}", "EP Brochures for City Libraries", "2014-04-17T00:00:00", "Emergency Preparedness Checklist Information", "Community Outreach", "Community Emergency Management", "Valley DMD", "3000", null, null ]
+ ]
+}

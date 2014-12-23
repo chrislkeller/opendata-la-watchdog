@@ -1,0 +1,694 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "4ee5-wmby",
+      "name" : "Neighborhood Councils",
+      "averageRating" : 0,
+      "category" : "A Well Run City",
+      "createdAt" : 1394384345,
+      "description" : "Neighborhood Council Roster, with meeting locations and dates",
+      "displayType" : "table",
+      "downloadCount" : 10,
+      "indexUpdatedAt" : 1414616942,
+      "newBackend" : false,
+      "numberOfComments" : 9,
+      "oid" : 7528921,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1394659094,
+      "publicationGroup" : 1503199,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1394658996,
+      "rowsUpdatedBy" : "ujkb-kbnj",
+      "tableId" : 1507699,
+      "totalTimesRated" : 0,
+      "viewCount" : 190,
+      "viewLastModified" : 1401814805,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 137620233,
+        "name" : "Neighborhood Council Name",
+        "dataTypeName" : "text",
+        "fieldName" : "neighborhood_council_name",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18524255,
+        "width" : 400,
+        "cachedContents" : {
+          "non_null" : 97,
+          "smallest" : "Arleta",
+          "null" : 0,
+          "largest" : "Woodland Hills-Warner Center",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Reseda"
+          }, {
+            "count" : 19,
+            "item" : "Voices of 90037"
+          }, {
+            "count" : 18,
+            "item" : "Watts"
+          }, {
+            "count" : 17,
+            "item" : "West Adams"
+          }, {
+            "count" : 16,
+            "item" : "Westchester/Playa"
+          }, {
+            "count" : 15,
+            "item" : "West Hills"
+          }, {
+            "count" : 14,
+            "item" : "West Los Angeles"
+          }, {
+            "count" : 13,
+            "item" : "Westlake North"
+          }, {
+            "count" : 12,
+            "item" : "Westlake South"
+          }, {
+            "count" : 11,
+            "item" : "Westside"
+          }, {
+            "count" : 10,
+            "item" : "Westwood"
+          }, {
+            "count" : 9,
+            "item" : "Wilmington"
+          }, {
+            "count" : 8,
+            "item" : "Wilshire Center-Koreatown"
+          }, {
+            "count" : 7,
+            "item" : "Winnetka"
+          }, {
+            "count" : 6,
+            "item" : "Woodland Hills-Warner Center"
+          } ]
+        },
+        "format" : {
+          "aggregate" : "count",
+          "align" : "left"
+        }
+      }, {
+        "id" : 137620234,
+        "name" : "Meeting Date",
+        "dataTypeName" : "text",
+        "fieldName" : "meeting_date",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18524256,
+        "width" : 244,
+        "cachedContents" : {
+          "non_null" : 96,
+          "smallest" : "1st & 3rd Thursday",
+          "null" : 1,
+          "largest" : "Varies",
+          "top" : [ {
+            "count" : 20,
+            "item" : "3rd Tuesday"
+          }, {
+            "count" : 19,
+            "item" : "4th Monday"
+          }, {
+            "count" : 18,
+            "item" : "2nd Thursday"
+          }, {
+            "count" : 17,
+            "item" : "4th Wednesday"
+          }, {
+            "count" : 16,
+            "item" : "4th Thursday"
+          }, {
+            "count" : 15,
+            "item" : "2nd Monday"
+          }, {
+            "count" : 14,
+            "item" : "2nd Tuesday"
+          }, {
+            "count" : 13,
+            "item" : "1st Wednesday"
+          }, {
+            "count" : 12,
+            "item" : "3rd Monday"
+          }, {
+            "count" : 11,
+            "item" : "1st Tuesday"
+          }, {
+            "count" : 10,
+            "item" : "3rd Thursday"
+          }, {
+            "count" : 9,
+            "item" : "General: 4th Monday Planning: 1st Thursday"
+          }, {
+            "count" : 8,
+            "item" : "1st Thursday"
+          }, {
+            "count" : 7,
+            "item" : "4th Tuesday"
+          }, {
+            "count" : 6,
+            "item" : "Community Town Hall Meeting 1st Saturday"
+          }, {
+            "count" : 5,
+            "item" : "Board Meeting 3rd Monday"
+          }, {
+            "count" : 4,
+            "item" : "Last Monday"
+          }, {
+            "count" : 3,
+            "item" : "1st Monday"
+          }, {
+            "count" : 2,
+            "item" : "2nd Wednesday "
+          }, {
+            "count" : 1,
+            "item" : "3rd Wednesday"
+          } ]
+        },
+        "format" : {
+          "aggregate" : "count",
+          "align" : "left"
+        }
+      }, {
+        "id" : 137620235,
+        "name" : "Meeting Location",
+        "dataTypeName" : "text",
+        "fieldName" : "meeting_location",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18524257,
+        "width" : 292,
+        "cachedContents" : {
+          "non_null" : 96,
+          "smallest" : "135th St. Elementary School",
+          "null" : 1,
+          "largest" : "Young Oak Kim Academy",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Normandie Ave. Elementary"
+          }, {
+            "count" : 19,
+            "item" : "Watts Senior Citizen Center"
+          }, {
+            "count" : 18,
+            "item" : "Vineyard Recreation Center"
+          }, {
+            "count" : 17,
+            "item" : "Westchester Minicipal Bldg. , Council Community Room"
+          }, {
+            "count" : 16,
+            "item" : "Chaminade Preparatory School"
+          }, {
+            "count" : 15,
+            "item" : "WLANC Hearing Room 104-2"
+          }, {
+            "count" : 14,
+            "item" : "Rampart Police Station Community Room"
+          }, {
+            "count" : 13,
+            "item" : "Royal Palms Recovery Center"
+          }, {
+            "count" : 12,
+            "item" : "Westside Pavilion"
+          }, {
+            "count" : 11,
+            "item" : "Westwood Presbyterian Church, Hoffman Hall"
+          }, {
+            "count" : 10,
+            "item" : "Wilmington Senior Center"
+          }, {
+            "count" : 9,
+            "item" : "Young Oak Kim Academy"
+          }, {
+            "count" : 8,
+            "item" : "Valley Village Center"
+          }, {
+            "count" : 7,
+            "item" : "Woodland Hills Academy"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 137620236,
+        "name" : "Room ",
+        "dataTypeName" : "text",
+        "fieldName" : "room",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18524258,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "236",
+          "null" : 95,
+          "largest" : "Room A",
+          "top" : [ {
+            "count" : 20,
+            "item" : "236"
+          }, {
+            "count" : 19,
+            "item" : "Room A"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 137620237,
+        "name" : "Zip Code",
+        "dataTypeName" : "text",
+        "fieldName" : "zip_code",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18524259,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 96,
+          "smallest" : "90002",
+          "null" : 1,
+          "largest" : "91607",
+          "top" : [ {
+            "count" : 20,
+            "item" : "90065"
+          }, {
+            "count" : 19,
+            "item" : "90028"
+          }, {
+            "count" : 18,
+            "item" : "91326"
+          }, {
+            "count" : 17,
+            "item" : "90006"
+          }, {
+            "count" : 16,
+            "item" : "90026"
+          }, {
+            "count" : 15,
+            "item" : "91335"
+          }, {
+            "count" : 14,
+            "item" : "90057"
+          }, {
+            "count" : 13,
+            "item" : "90064"
+          }, {
+            "count" : 12,
+            "item" : "90024"
+          }, {
+            "count" : 11,
+            "item" : "90744"
+          }, {
+            "count" : 10,
+            "item" : "90005"
+          }, {
+            "count" : 9,
+            "item" : "91306"
+          }, {
+            "count" : 8,
+            "item" : "91367"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "aggregate" : "count",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      }, {
+        "id" : 137620238,
+        "name" : "Extended Zip Code",
+        "dataTypeName" : "text",
+        "fieldName" : "extended_zip_code",
+        "position" : 7,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18524260,
+        "width" : 304,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "5664",
+          "null" : 96,
+          "largest" : "5664",
+          "top" : [ {
+            "count" : 20,
+            "item" : "5664"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "aggregate" : "count",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      }, {
+        "id" : 137620239,
+        "name" : "Location 1",
+        "dataTypeName" : "location",
+        "fieldName" : "location_1",
+        "position" : 8,
+        "renderTypeName" : "location",
+        "tableColumnId" : 18524261,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 97,
+          "smallest" : {
+            "longitude" : "-120.99999889499969",
+            "latitude" : "37.638640488000476",
+            "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"CA\",\"zip\":\"\"}"
+          },
+          "null" : 0,
+          "largest" : {
+            "longitude" : "-118.28460989399969",
+            "latitude" : "33.73787228600048",
+            "human_address" : "{\"address\":\"Berth 28\",\"city\":\"San Pedro\",\"state\":\"CA\",\"zip\":\"\"}"
+          },
+          "top" : [ {
+            "count" : 20,
+            "item" : {
+              "longitude" : "-118.47220470099973",
+              "latitude" : "33.99211333100044",
+              "human_address" : "{\"address\":\"1010 Abbott Kinney Blvd\",\"city\":\"Venice\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 19,
+            "item" : {
+              "longitude" : "-118.29809294299969",
+              "latitude" : "34.00218081200046",
+              "human_address" : "{\"address\":\"4505 S Raymond Ave\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 18,
+            "item" : {
+              "longitude" : "-118.3060794159997",
+              "latitude" : "33.94549852400047",
+              "human_address" : "{\"address\":\"1657 E Century Blvd\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 17,
+            "item" : {
+              "longitude" : "-118.34660517299972",
+              "latitude" : "34.02832191500045",
+              "human_address" : "{\"address\":\"2942 Vineyard Ave\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 16,
+            "item" : {
+              "longitude" : "-118.41767922199972",
+              "latitude" : "33.95969367200047",
+              "human_address" : "{\"address\":\"7166 W Manchester Ave\",\"city\":\"Westchester\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 15,
+            "item" : {
+              "longitude" : "-118.6234393369997",
+              "latitude" : "34.20827180900045",
+              "human_address" : "{\"address\":\"23260 Saticoy St\",\"city\":\"West Hills\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 14,
+            "item" : {
+              "longitude" : "-118.44880313699969",
+              "latitude" : "34.045251866000456",
+              "human_address" : "{\"address\":\"1645 Corinth Ave\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 13,
+            "item" : {
+              "longitude" : "-118.30804959499972",
+              "latitude" : "33.73881476800045",
+              "human_address" : "{\"address\":\"1401 W 6th St\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 12,
+            "item" : {
+              "longitude" : "-118.27199038699968",
+              "latitude" : "34.06157859600046",
+              "human_address" : "{\"address\":\"350 S Westlake Ave\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 11,
+            "item" : {
+              "longitude" : "-118.42771709399972",
+              "latitude" : "34.040475142000446",
+              "human_address" : "{\"address\":\"10800 W Pico Blvd\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 10,
+            "item" : {
+              "longitude" : "-118.44108197099968",
+              "latitude" : "34.05951334100047",
+              "human_address" : "{\"address\":\"10822 Wilshire Blvd\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 9,
+            "item" : {
+              "longitude" : "-118.2562536799997",
+              "latitude" : "33.79115097800047",
+              "human_address" : "{\"address\":\"1371 Eubank Ave\",\"city\":\"Wilmington\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 8,
+            "item" : {
+              "longitude" : "-118.28992288499973",
+              "latitude" : "34.062970633000475",
+              "human_address" : "{\"address\":\"615 S Shatto Pl\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 7,
+            "item" : {
+              "longitude" : "-118.58719902499968",
+              "latitude" : "34.20097329700047",
+              "human_address" : "{\"address\":\"20830 Sherman Way\",\"city\":\"Winnetka\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 6,
+            "item" : {
+              "longitude" : "-118.58674894999967",
+              "latitude" : "34.171943419000456",
+              "human_address" : "{\"address\":\"20800 Burbank Blvd\",\"city\":\"Woodland Hills\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          } ]
+        },
+        "format" : {
+        },
+        "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Information Technology"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "yb4r-dcys",
+        "displayName" : "ITA OpenData",
+        "profileImageUrlLarge" : "/images/profile/9462/4839/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9462/4839/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9462/4839/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "ITA OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "yb4r-dcys",
+        "displayName" : "ITA OpenData",
+        "profileImageUrlLarge" : "/images/profile/9462/4839/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9462/4839/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9462/4839/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "ITA OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "neighborhood council" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "3C012790-1FC5-4C78-8E2B-5A02584685F7", 1, 1394384348, "862831", 1394384359, "862831", "{\n}", "Arleta", "3rd Tuesday", "Beachy Elementary School Auditorium", null, "91331", null, [ "{\"address\":\"9757 Beachy St\",\"city\":\"Arleta\",\"state\":\"CA\",\"zip\":\"\"}", "34.24849891500048", "-118.43876881899968", null, false ] ]
+, [ 2, "58475643-133D-4691-98F7-BEC12E01D504", 2, 1394384348, "862831", 1394384359, "862831", "{\n}", "Arroyo Seco", "4th Monday", "Ramona Hall", null, "90065", null, [ "{\"address\":\"4580 Figeroa\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "33.79726144300048", "-118.28290724999971", null, false ] ]
+, [ 3, "FBEC4A0C-948F-4F1F-9524-BA51E9F7AE97", 3, 1394384348, "862831", 1394384360, "862831", "{\n}", "Atwater Village", "2nd Thursday", "Christ’s Church of Griffith Park", null, "90039", null, [ "{\"address\":\"3852 Edenhurst Ave\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.12182157500047", "-118.26435266699968", null, false ] ]
+, [ 4, "88383583-0D5D-409D-BBAE-29A7D1916298", 4, 1394384348, "862831", 1394384359, "862831", "{\n}", "Bel Air-Beverly Crest", "4th Wednesday", "Community Magnet School", null, "90049", null, [ "{\"address\":\"11301 Bellagio Rd\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.08094286300047", "-118.46296867499967", null, false ] ]
+, [ 5, "F47DE7E5-48E5-4FA8-9D16-ACC0399F9037", 5, 1394384348, "862831", 1394384360, "862831", "{\n}", "Boyle Heights", "4th Wednesday", "Boyle Heights Senior Citizen Center", null, "90033", null, [ "{\"address\":\"2839 E 3rd St\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.03918561800049", "-118.20617927099971", null, false ] ]
+, [ 6, "C07226A8-B89A-4865-96B0-8A2EE9F0EAA3", 6, 1394384348, "862831", 1394384360, "862831", "{\n}", "CANNDU", "4th Thursday", "Los Angeles Ascot Public Library", null, "90003", null, [ "{\"address\":\"120 W Florence Ave\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "33.974652765000485", "-118.27482876999971", null, false ] ]
+, [ 7, "38C46B24-E2EF-4FC8-9A6E-2F5539F9FFBC", 7, 1394384348, "862831", 1394384359, "862831", "{\n}", "Canoga Park", "4th Wednesday", "Canoga Park Community Center", null, "91303", null, [ "{\"address\":\"7248 Owensmouth Ave\",\"city\":\"Canoga Park\",\"state\":\"CA\",\"zip\":\"\"}", "34.20252132100046", "-118.60153630199972", null, false ] ]
+, [ 8, "FFE2E74E-98B7-43D4-9476-D09E4403F96A", 8, 1394384348, "862831", 1394384360, "862831", "{\n}", "Central Alameda", "2nd Monday", "Fred Roberts Recreation Center", null, "90011", null, [ "{\"address\":\"4700 Honduras Ave\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.000771365000446", "-118.24406609999971", null, false ] ]
+, [ 9, "70D720F1-402D-47DB-B97B-FB47B39CCAB5", 9, 1394384348, "862831", 1394384359, "862831", "{\n}", "Central Hollywood", "4th Monday", "Hollywood Neighborhood City Hall", null, "90028", null, [ "{\"address\":\"6501 Fountain Ave\",\"city\":\"Hollywood\",\"state\":\"CA\",\"zip\":\"\"}", "34.09435748700048", "-118.33051970699972", null, false ] ]
+, [ 10, "2BB91AE8-D928-4A28-8253-15D489AF110A", 10, 1394384348, "862831", 1394384359, "862831", "{\n}", "Central San Pedro", "2nd Tuesday", "Port of Los Angeles High School", null, "90731", null, [ "{\"address\":\"250 W 5th St\",\"city\":\"San Pedro\",\"state\":\"CA\",\"zip\":\"\"}", "33.73977724300045", "-118.28289578299967", null, false ] ]
+, [ 11, "0840C766-FCB6-449A-A178-558728A37CB8", 11, 1394384348, "862831", 1394384359, "862831", "{\n}", "Chatsworth", "1st Wednesday", "Lawrence Middle School", null, "91311", null, [ "{\"address\":\"10100 Variel Ave\",\"city\":\"Chatsworth\",\"state\":\"CA\",\"zip\":\"\"}", "34.25526070900048", "-118.59290669499973", null, false ] ]
+, [ 12, "620F052F-47AF-4985-8E78-4E20C5F68783", 12, 1394384348, "862831", 1394384359, "862831", "{\n}", "Coastal San Pedro", "3rd Monday", "Cabrillo Marina Community Bldg.", null, "90731", null, [ "{\"address\":\"Berth 28\",\"city\":\"San Pedro\",\"state\":\"CA\",\"zip\":\"\"}", "33.73787228600048", "-118.28460989399969", null, false ] ]
+, [ 13, "6CF3CFCE-DC7C-4B84-A100-EEEC47E736C9", 13, 1394384348, "862831", 1394384359, "862831", "{\n}", "Del Rey", "2nd Thursday", "Del Rey Square", null, "90066", null, [ "{\"address\":\"11976 Culver Blvd\",\"city\":\"Del Rey\",\"state\":\"CA\",\"zip\":\"\"}", "33.957441764000464", "-118.45005790199968", null, false ] ]
+, [ 14, "7791163B-008F-4352-BACE-30FBE45A7BBE", 14, 1394384348, "862831", 1394384359, "862831", "{\n}", "Downtown Los Angeles", "2nd Tuesday", "Los Angeles Theatre", null, "90012", null, [ "{\"address\":\"615 S Broadway\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.04619857600045", "-118.2524402839997", null, false ] ]
+, [ 15, "10369701-A342-44CA-889E-93DFDC8197C1", 15, 1394384348, "862831", 1394384359, "862831", "{\n}", "Eagle Rock", "1st Tuesday", "Eagle Rock City Hall", null, "90041", null, [ "{\"address\":\"2035 Colorado Blvd\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.13929928200048", "-118.2109120349997", null, false ] ]
+, [ 16, "C5931FA4-6E1F-4526-BC6A-79B1C8044740", 16, 1394384348, "862831", 1394384360, "862831", "{\n}", "East Hollywood", "3rd Monday", "Armenian Youth Center", null, "90027", null, [ "{\"address\":\"1559 N Kenmore Ave\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.099880388000486", "-118.29731241699972", null, false ] ]
+, [ 17, "2CC7FAED-114F-43FE-A077-71C7F8222311", 17, 1394384348, "862831", 1394384359, "862831", "{\n}", "Elysian Valley Riverside", "3rd Thursday", "Dorris Place Elementary School (Auditorium)", null, "90031", null, [ "{\"address\":\"2225 Dorris Pl\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.09102337300044", "-118.23753881899972", null, false ] ]
+, [ 18, "C0342ACC-E392-4236-B179-0BD3A2C0907C", 18, 1394384348, "862831", 1394384360, "862831", "{\n}", "Empowerment Congress Central", "General: 4th Monday Planning: 1st Thursday", "Amistad Plaza Appt. Community Rm.", null, "90047", null, [ "{\"address\":\"6050 S Western Ave\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "33.98491245100047", "-118.30892709799969", null, false ] ]
+, [ 19, "3B3E0645-7D1F-499E-88F3-C117F5951628", 19, 1394384348, "862831", 1394384359, "862831", "{\n}", "Empowerment Congress North", "1st Thursday", "Martin Luther King, Jr. Park Rec Center", null, "90062", null, [ "{\"address\":\"3916 S Western Ave\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.01391002100047", "-118.3088864659997", null, false ] ]
+, [ 20, "A699482E-13B8-43FE-8FE7-83DCE1C0D25F", 20, 1394384348, "862831", 1394384359, "862831", "{\n}", "Empowerment Congress Southeast", "4th Tuesday", "Constituent Service Center", null, "90044", null, [ "{\"address\":\"8475 S Vermont Ave\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "33.96121829300046", "-118.29189489299972", null, false ] ]
+, [ 21, "EC58A50C-CF2A-4C3A-9819-E8A197E5C8F6", 21, 1394384348, "862831", 1394384360, "862831", "{\n}", "Empowerment Congress Southwest", "3rd Monday", "Constituent Service Center", null, "90044", null, [ "{\"address\":\"8475 S Vermont Ave\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "33.96121829300046", "-118.29189489299972", null, false ] ]
+, [ 22, "CD5DA5D0-10E6-43EA-A5CD-892F1243562F", 22, 1394384348, "862831", 1394384360, "862831", "{\n}", "Empowerment Congress West", "Community Town Hall Meeting 1st Saturday", "Crenshaw United Methodist Church Hall", null, "90008", null, [ "{\"address\":\"3740 Don Felipe\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.00692674200047", "-118.3405255989997", null, false ] ]
+, [ 23, "41E959B1-CEB0-4F0C-8AD2-A17959A596D0", 23, 1394384348, "862831", 1394384359, "862831", "{\n}", "Empowerment Congress West", "Board Meeting 3rd Monday", "DWP Crenshaw Office Community Room", null, "90008", null, [ "{\"address\":\"4030 Crenshaw Blvd\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.01151040600047", "-118.3350867909997", null, false ] ]
+, [ 24, "6BD06F3E-D8D0-49F5-B1E2-DB73C811AD52", 24, 1394384348, "862831", 1394384359, "862831", "{\n}", "Encino", "4th Wednesday", "Encino Community Center", null, "91316", null, [ "{\"address\":\"4935 Balboa\",\"city\":\"Encino\",\"state\":\"CA\",\"zip\":\"\"}", "34.160420298000474", "-118.50112205999972", null, false ] ]
+, [ 25, "71255756-72EE-4DD0-A6E7-23F18D79E493", 25, 1394384348, "862831", 1394384359, "862831", "{\n}", "Foothills Trails District", "3rd Thursday", "Lake View Terrace Recreation Center", null, "91342", null, [ "{\"address\":\"11075 Foothill Blvd\",\"city\":\"Lake View Terrace\",\"state\":\"CA\",\"zip\":\"\"}", "34.274534014000494", "-118.37280745899972", null, false ] ]
+, [ 26, "CFE3509C-4E42-4910-BAA0-4503D08400E5", 26, 1394384348, "862831", 1394384360, "862831", "{\n}", "Glassell Park", "3rd Tuesday", "Glassell Park Community Center", null, "90065", null, [ "{\"address\":\"3750 Verdugo Rd\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.11745230400044", "-118.2327524699997", null, false ] ]
+, [ 27, "50295181-B9F2-407B-B940-4E4A16B34B80", 27, 1394384348, "862831", 1394384359, "862831", "{\n}", "Granada Hills North", "Last Monday", "Bethlehem Lutheran Church", null, "91344", null, [ "{\"address\":\"12227 Balboa Blvd\",\"city\":\"Granada Hills\",\"state\":\"CA\",\"zip\":\"\"}", "34.29302560800045", "-118.50218210699973", null, false ] ]
+, [ 28, "C3879D68-C98C-4749-B617-B0B66F64E501", 28, 1394384348, "862831", 1394384360, "862831", "{\n}", "Granada Hills South", "1st Thursday", "Granada Hills Charter High School, Rawley Hall", null, "91344", null, [ "{\"address\":\"10535 Zelzah Ave\",\"city\":\"Granada Hills\",\"state\":\"CA\",\"zip\":\"\"}", "34.26257088500046", "-118.52339251399968", null, false ] ]
+, [ 29, "993A324D-3EA9-452B-AFC5-F424DB55B9B1", 29, 1394384348, "862831", 1394384359, "862831", "{\n}", "Greater Cypress Park", "3rd Tuesday", "Cypress Recreation Center", null, "90065", null, [ "{\"address\":\"2630 Pepper Ave\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.08961629500044", "-118.2256153679997", null, false ] ]
+, [ 30, "CC28FB27-079A-4E5D-A9AA-40A5D78A179C", 30, 1394384348, "862831", 1394384360, "862831", "{\n}", "Greater Echo Park Elysian", "4th Tuesday", "Cisneros Learning Academy Auditorium", null, "90026", null, [ "{\"address\":\"1018 Mohawk St\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.07678558600048", "-118.2653120389997", null, false ] ]
+, [ 31, "6E8A3910-EDC9-449A-9A93-67ADF1345AE6", 31, 1394384348, "862831", 1394384359, "862831", "{\n}", "Greater Toluca Lake", "3rd Tuesday", "Toluca Lake Elementary School Adtrm.", null, "91601", null, [ "{\"address\":\"4840 Cahuenga Blvd\",\"city\":\"North Hollywood\",\"state\":\"CA\",\"zip\":\"\"}", "34.15857025100047", "-118.3615157049997", null, false ] ]
+, [ 32, "E3AFDB98-D980-4BC8-A6D5-A7B2E350FBDE", 32, 1394384348, "862831", 1394384360, "862831", "{\n}", "Greater Valley Glen", "1st Monday", "Valley College Cafeteria/Conf. Rm.", null, "91401", null, [ "{\"address\":\"5800 Fulton Ave\",\"city\":\"Valley Glen\",\"state\":\"CA\",\"zip\":\"\"}", "37.72595375500049", "-120.93297982099972", null, false ] ]
+, [ 33, "A537C541-1BB7-4D61-B800-6A08C901C243", 33, 1394384348, "862831", 1394384359, "862831", "{\n}", "Greater Wilshire", "2nd Wednesday ", "Wilshire Ebell Theatre", null, "90005", null, [ "{\"address\":\"743 S Lucerne Blvd\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.06049640200047", "-118.3248167749997", null, false ] ]
+, [ 34, "B30001FC-4E6B-407A-8682-4C029B2EE195", 34, 1394384348, "862831", 1394384360, "862831", "{\n}", "Harbor City", "3rd Wednesday", "Harbor City/Harbor Gateway Library", null, "90710", null, [ "{\"address\":\"24000 Western Ave\",\"city\":\"Harbor City\",\"state\":\"CA\",\"zip\":\"\"}", "33.806634794000445", "-118.3074663599997", null, false ] ]
+, [ 35, "24CBA0D1-4BA4-4224-8537-29E5F151EF33", 35, 1394384348, "862831", 1394384359, "862831", "{\n}", "Harbor Gateway North", "2nd Tuesday, 4th Tuesday every 3rd month (January, April, July, and October) General Membership Meeting at 7 pm", "135th St. Elementary School", null, "90247", null, [ "{\"address\":\"801 W 135th St\",\"city\":\"Gardena\",\"state\":\"CA\",\"zip\":\"\"}", "33.90918808000049", "-118.28941003599971", null, false ] ]
+, [ 36, "8F235515-A8DA-4D50-B370-1115C5BA98ED", 36, 1394384348, "862831", 1394384359, "862831", "{\n}", "Harbor Gateway South", "2nd Thursday", "Halldale Ave. School Auditorium", null, "90501", null, [ "{\"address\":\"21514 Halldale Ave\",\"city\":\"Torrance\",\"state\":\"CA\",\"zip\":\"\"}", "33.83331125000046", "-118.30163669599972", null, false ] ]
+, [ 37, "4BBD8D79-6219-4222-AA5E-66B8F042E4CC", 37, 1394384348, "862831", 1394384359, "862831", "{\n}", "Historic Cultural", "2nd Tuesday", "Japanese American Cultural Community Center", null, "90012", null, [ "{\"address\":\"244 S San Pedro St\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.047929816000476", "-118.24224921599972", null, false ] ]
+, [ 38, "2DC4E66F-A19E-4446-BF4D-9FF0B7F4FC02", 38, 1394384348, "862831", 1394384359, "862831", "{\n}", "Historic Highland Park", "1st and 3rd Thursdays", "Highland Park Senior Center", null, "90042", null, [ "{\"address\":\"6152 N Figueroa\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.11434913500045", "-118.18544848699969", null, false ] ]
+, [ 39, "6FDA2553-72E4-4176-8B4B-D80BDDB23032", 39, 1394384348, "862831", 1394384359, "862831", "{\n}", "Hollywood Hills West", "Varies", "Women’s Club of Hollywood", null, "90046", null, [ "{\"address\":\"1749 N La Brea Ave\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.04280250700049", "-118.3466193859997", null, false ] ]
+, [ 40, "7F204224-AC8B-46D7-8736-3E7F20097688", 40, 1394384348, "862831", 1394384359, "862831", "{\n}", "Hollywood Studio District", "2nd Monday", "Assistance League of Southern California", null, "90028", null, [ "{\"address\":\"1370 N St Andrews Pl\",\"city\":\"Hollywood\",\"state\":\"CA\",\"zip\":\"\"}", "34.09658062300048", "-118.31093667999971", null, false ] ]
+, [ 41, "662798DE-9ACE-4FB8-B499-4AB39D68DCC4", 41, 1394384348, "862831", 1394384359, "862831", "{\n}", "Hollywood United", "3rd Monday", "Hollywood Seventh-day Adventist Church", null, "90028", null, [ "{\"address\":\"1711 Van Ness Ave\",\"city\":\"Hollywood\",\"state\":\"CA\",\"zip\":\"\"}", "34.10204193500044", "-118.3158827739997", null, false ] ]
+, [ 42, "70C9E91E-5316-41E2-9BAA-AA88152B783C", 42, 1394384348, "862831", 1394384359, "862831", "{\n}", "LA-32", "1st Wednesday", "El Sereno Senior Center", null, "90032", null, [ "{\"address\":\"4818 Klamath Pl\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.07564263100045", "-118.17929903199968", null, false ] ]
+, [ 43, "728E29DE-36E8-4BDA-A5DE-244AB3166F28", 43, 1394384348, "862831", 1394384359, "862831", "{\n}", "Lake Balboa", "1st Wednesday", "Gault Street Elementary School ", null, "91406", null, [ "{\"address\":\"17000 Gault St\",\"city\":\"Lake Balboa\",\"state\":\"CA\",\"zip\":\"\"}", "34.19935302500045", "-118.5034494249997", null, false ] ]
+, [ 44, "F0EA2C8C-0BBC-4AB1-AC0E-E3C0399187BA", 44, 1394384348, "862831", 1394384360, "862831", "{\n}", "Lincoln Heights", "1st & 3rd Thursday", "Lincoln Heights Library", null, "90031", null, [ "{\"address\":\"2530 Workman\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.07631182300048", "-118.21439664099972", null, false ] ]
+, [ 45, "0587DFBD-E6DC-466C-9CB0-7B62B989C546", 45, 1394384348, "862831", 1394384359, "862831", "{\n}", "Los Feliz", "3rd Tuesday", "Citibank Community Room, 2nd FL", null, "90027", null, [ "{\"address\":\"1964 Hillhurst Ave\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.10713540100045", "-118.28737840699972", null, false ] ]
+, [ 46, "DC4E2F42-9AFE-4DE7-957B-CBD54C49ACF3", 46, 1394384348, "862831", 1394384360, "862831", "{\n}", "MacArthur Park", "1st Wednesday", "The Seven Maples Community Room", null, "90057", null, [ "{\"address\":\"2618 W 7th St\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.05919473600045", "-118.2829313149997", null, false ] ]
+, [ 47, "CFFA14CC-8177-4BA8-AB9E-B2C28B3E4940", 47, 1394384348, "862831", 1394384360, "862831", "{\n}", "Mar Vista", "2nd Tuesday", "Mar Vista Recreation Ctr. Auditorium", null, "90066", null, [ "{\"address\":\"11430 Woodbine St\",\"city\":\"Mar Vista\",\"state\":\"CA\",\"zip\":\"\"}", "34.16270157300045", "-119.14417885799969", null, false ] ]
+, [ 48, "55EDBC18-838F-404F-B096-6B0F1466AC02", 48, 1394384348, "862831", 1394384359, "862831", "{\n}", "Mid City", "2nd Monday", "LAPD Wilshire Division – Community Room", null, "90019", "5664", [ "{\"address\":\"4849 Venice Blvd\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.04644812000049", "-118.34266345799972", null, false ] ]
+, [ 49, "ED54E9F4-F384-4F0A-A400-C0F05531F0FA", 49, 1394384348, "862831", 1394384360, "862831", "{\n}", "Mid-City West", "2nd Tuesday", "National Council of Jewish Women", null, "90036", null, [ "{\"address\":\"543 N Fairfax Ave\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.081121710000446", "-118.3615121519997", null, false ] ]
+, [ 50, "7E3FF6C5-2964-4A16-9398-7612CB8E8F3E", 50, 1394384348, "862831", 1394384359, "862831", "{\n}", "Mid-Town North Hollywood", "2nd Wednesday", "Senior Center in NoHo Park", null, "91601", null, [ "{\"address\":\"5301 Tujunga Blvd\",\"city\":\"North Hollywood\",\"state\":\"CA\",\"zip\":\"\"}", "34.167093311000485", "-118.37900110899972", null, false ] ]
+, [ 51, "C550EF8F-E07E-48CF-AE70-42199B3BCC4C", 51, 1394384348, "862831", 1394384360, "862831", "{\n}", "Mission Hills", "1st Monday", "Mission Community Police Station - Falco Room", null, "91345", null, [ "{\"address\":\"11121 Sepulveda Blvd\",\"city\":\"Mission Hills\",\"state\":\"CA\",\"zip\":\"\"}", "34.27272364400045", "-118.46760208499973", null, false ] ]
+, [ 52, "29CBB499-A88A-446C-B591-F497D84D0544", 52, 1394384348, "862831", 1394384359, "862831", "{\n}", "North Hills East", " 1st Thursday", "Penny Lane’s Rainbow Room", null, "91343", null, [ "{\"address\":\"15314 Rayen St\",\"city\":\"North Hills\",\"state\":\"CA\",\"zip\":\"\"}", "34.231853223000485", "-118.46615947399971", null, false ] ]
+, [ 53, "A060863A-CD3D-48BF-99DB-39D7C3CAC317", 53, 1394384348, "862831", 1394384359, "862831", "{\n}", "North Hills West", "3rd Thursday", "New Horizon Center", null, "91343", null, [ "{\"address\":\"15725 Parthenia St\",\"city\":\"North Hills\",\"state\":\"CA\",\"zip\":\"\"}", "34.22833789600048", "-118.47516927799973", null, false ] ]
+, [ 54, "6C09425B-1E3D-45B5-9EDD-F7EEE03B9847", 54, 1394384348, "862831", 1394384359, "862831", "{\n}", "North Hollywood North East", "3rd Thursday", "LA Fire Station 89", null, "91605", null, [ "{\"address\":\"7063 Laurel Canyon\",\"city\":\"North Hollywood\",\"state\":\"CA\",\"zip\":\"\"}", "34.19929972700049", "-118.3965422499997", null, false ] ]
+, [ 55, "6268526C-A65A-40F7-932E-86500872B7F9", 55, 1394384348, "862831", 1394384359, "862831", "{\n}", "North Hollywood West", "4th Wednesday", "Saticoy Elementary School Auditorium", null, "91605", null, [ "{\"address\":\"7850 Ethel Ave\",\"city\":\"North Hollywood\",\"state\":\"CA\",\"zip\":\"\"}", "34.21364292600049", "-118.41656824599971", null, false ] ]
+, [ 56, "C11BF16C-1731-400E-B170-2A5B596F6382", 56, 1394384348, "862831", 1394384360, "862831", "{\n}", "Northridge East", "3rd Wednesday", "Northridge Woman’s Club", null, "91325", null, [ "{\"address\":\"18401 Lassen St\",\"city\":\"Northridge\",\"state\":\"CA\",\"zip\":\"\"}", "34.250007853000454", "-118.53480903699972", null, false ] ]
+, [ 57, "BC9D8F96-B35F-4401-907E-7C2F5EFE98DB", 57, 1394384348, "862831", 1394384360, "862831", "{\n}", "Northridge South", "4rd Thursday (except Nov and Dec meetings)", "Northridge Middle School", null, "91326", null, [ "{\"address\":\"18901 Chatsworth St\",\"city\":\"Northridge\",\"state\":\"CA\",\"zip\":\"\"}", "37.903380565000475", "-122.11309789599972", null, false ] ]
+, [ 58, "226769C4-9A02-4D88-8E16-55825BC974EE", 58, 1394384348, "862831", 1394384359, "862831", "{\n}", "Northridge West", "2nd Tuesday", "Northridge Christian Church", null, "91326", null, [ "{\"address\":\"19130 Tulsa St\",\"city\":\"Northridge\",\"state\":\"CA\",\"zip\":\"\"}", "37.903380565000475", "-122.11309789599972", null, false ] ]
+, [ 59, "299FB9BD-D1ED-4793-8B44-C7981183B194", 59, 1394384348, "862831", 1394384359, "862831", "{\n}", "Northwest San Pedro", "2nd Monday", "Peck Park Auditorium", null, "90732", null, [ "{\"address\":\"560 N Western Ave\",\"city\":\"San Pedro\",\"state\":\"CA\",\"zip\":\"\"}", "33.74800533600046", "-118.3093969469997", null, false ] ]
+, [ 60, "4655B0E4-2AC7-40D3-A787-8EAA6E270CBF", 60, 1394384348, "862831", 1394384359, "862831", "{\n}", "Olympic Park", "1st Monday", "LAPD West Bureau Community Room", null, "90018", null, [ "{\"address\":\"4849 Venice Blvd\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.04644812000049", "-118.34266345799972", null, false ] ]
+, [ 61, "D2184C38-CD9C-4B6F-BC40-D7F147B77FE5", 61, 1394384348, "862831", 1394384360, "862831", "{\n}", "P.I.C.O.", "2nd Wednesday", "Saturn Elementary School", null, "90019", null, [ "{\"address\":\"5360 Saturn St\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.04678330700045", "-118.35620718199971", null, false ] ]
+, [ 62, "702022F1-0E74-4E09-A591-37FB04EEB44A", 62, 1394384348, "862831", 1394384359, "862831", "{\n}", "Pacoima", "3rd Wednesday", "Pacoima City Hall", null, "91331", null, [ "{\"address\":\"13520 Van Nuys Blvd\",\"city\":\"Pacoima\",\"state\":\"CA\",\"zip\":\"\"}", "34.262076987000455", "-118.42757259499967", null, false ] ]
+, [ 63, "9A115F2B-3D72-4D4D-9840-25DDB8E4C5D9", 63, 1394384348, "862831", 1394384359, "862831", "{\n}", "Palms", "1st Wednesday", "Iman Cultural Center", null, "90034", null, [ "{\"address\":\"3376 Motor Ave\",\"city\":\"Palms\",\"state\":\"CA\",\"zip\":\"\"}", "34.01979365000045", "-118.42109995699968", null, false ] ]
+, [ 64, "B7965E50-1E28-4BC6-85A2-DD2CF44D0CF5", 64, 1394384348, "862831", 1394384360, "862831", "{\n}", "Panorama City", "4th Thursday, (3rd in Nov & Dec)", "Mission Community Hospital - Medical Office, 2nd Floor", null, "91402", null, [ "{\"address\":\"14860 Roscoe Blvd\",\"city\":\"Panorama City\",\"state\":\"CA\",\"zip\":\"\"}", "34.22145480100045", "-118.45695046899971", null, false ] ]
+, [ 65, "7C54710A-AA4A-4568-AF5C-47F1EEF9CE66", 65, 1394384348, "862831", 1394384359, "862831", "{\n}", "Park Mesa Heights", "2nd Saturday", "Angeles Mesa Elementary Auditorium", null, "90043", null, [ "{\"address\":\"2611 W 52nd St\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "33.995048298000484", "-118.32153951399971", null, false ] ]
+, [ 66, "F8B907CA-83A3-405D-8646-5C951D048B0B", 66, 1394384348, "862831", 1394384360, "862831", "{\n}", "Pico Union", "1st Monday", "Pico Union Library", null, "90006", null, [ "{\"address\":\"1030 S Alvarado St\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.05090386900048", "-118.28034337999969", null, false ] ]
+, [ 67, "9FC01B1E-E4BD-4E48-A96C-EA532BAD7BD8", 67, 1394384348, "862831", 1394384359, "862831", "{\n}", "Porter Ranch", "1st Tuesday", "Shepherd of the Hills Church", null, "91326", null, [ "{\"address\":\"19700 Rinaldi St\",\"city\":\"Porter Ranch\",\"state\":\"CA\",\"zip\":\"\"}", "34.274812943000484", "-118.5645294259997", null, false ] ]
+, [ 68, "1EC22782-5F64-4D98-97D3-54C8D8C8A98C", 68, 1394384348, "862831", 1394384359, "862831", "{\n}", "Rampart Village", "3rd Tuesday", "St. Anne’s", "236", "90026", null, [ "{\"address\":\"155 N Occidental Blvd\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.07202662900045", "-118.27864612099972", null, false ] ]
+, [ 69, "08843B46-025A-4CC3-B974-22C6663B8DFC", 69, 1394384348, "862831", 1394384359, "862831", "{\n}", "Reseda", "1st Monday 3rd Monday", "City Councilmember Bob Blumenfield’s District 3 Field Office", null, "91335", null, [ "{\"address\":\"19040 Vanowen St\",\"city\":\"Reseda\",\"state\":\"CA\",\"zip\":\"\"}", "34.19381704200049", "-118.5478817509997", null, false ] ]
+, [ 70, "F018B5D3-943B-4426-BB6D-7BF842F15C02", 70, 1394384348, "862831", 1394384360, "862831", "{\n}", "Reseda", null, "American Legion Hall", null, "91335", null, [ "{\"address\":\"7338 Canby St\",\"city\":\"Reseda\",\"state\":\"CA\",\"zip\":\"\"}", "34.20398051300049", "-118.5347663979997", null, false ] ]
+, [ 71, "46209AAF-6EF6-4FB5-93BF-51140DCCBA50", 71, 1394384348, "862831", 1394384359, "862831", "{\n}", "Sherman Oaks", "2nd Monday", "Sherman Oaks Elementary School", null, "91403", null, [ "{\"address\":\"14755 Greenleaf St\",\"city\":\"Sherman Oaks\",\"state\":\"CA\",\"zip\":\"\"}", "34.14948819800048", "-118.45561585999968", null, false ] ]
+, [ 72, "9F2DD71E-47BD-4DE5-83CE-F7F938D892CE", 72, 1394384348, "862831", 1394384359, "862831", "{\n}", "Silver Lake", "1st Wednesday", "Micheltorena Street Elementary School", null, "90026", null, [ "{\"address\":\"1511 Micheltorena St\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.08872680300044", "-118.27514619099969", null, false ] ]
+, [ 73, "F8805E3C-9E42-43CB-A686-3BFCDA283CEB", 73, 1394384348, "862831", 1394384360, "862831", "{\n}", "South Central", "3rd Saturday (odd numbered months), 3rd Tuesday (even numbered months)", "All People Community Center", null, "90011", null, [ "{\"address\":\"822 E 20th St\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "33.726098497000464", "-118.29515915999968", null, false ] ]
+, [ 74, "A8737CAD-B689-4B1F-8438-BDFD538E65B3", 74, 1394384348, "862831", 1394384359, "862831", "{\n}", "South Robertson", "3rd Thursday", "Simon Wiesenthal Center", null, "90035", null, [ "{\"address\":\"1399 S Roxbury Dr\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.05413493700047", "-118.40231624599971", null, false ] ]
+, [ 75, "D462A2B8-A43C-4A46-BF8C-E4EED45DDF0F", 75, 1394384348, "862831", 1394384360, "862831", "{\n}", "Studio City", "3rd Wednesday", "BLDG. 8 MPR-3", null, "91604", null, [ "{\"address\":\"4024 Radford Ave\",\"city\":\"Studio City\",\"state\":\"CA\",\"zip\":\"\"}", "34.144352599000456", "-118.39267752099971", null, false ] ]
+, [ 76, "32FADD5D-C431-433B-964D-2A8FD6DA15E2", 76, 1394384348, "862831", 1394384359, "862831", "{\n}", "Sun Valley Area", "2nd Tuesday", "Villa Scalabrini Retirement Center", null, "91352", null, [ "{\"address\":\"10631 Vinedale St\",\"city\":\"Sun Valley\",\"state\":\"CA\",\"zip\":\"\"}", "34.22866834600046", "-118.36267879599967", null, false ] ]
+, [ 77, "B272839A-C248-4B00-B5B8-E6097257C22A", 77, 1394384348, "862831", 1394384360, "862831", "{\n}", "Sunland-Tujunga", "2nd Wednesday", "North Valley City Hall", null, "91042", null, [ "{\"address\":\"7747 Foothill Blvd\",\"city\":\"Tujunga\",\"state\":\"CA\",\"zip\":\"\"}", "34.25813171900046", "-118.3016982849997", null, false ] ]
+, [ 78, "312A8045-27B1-47AA-8256-B4D877B31602", 78, 1394384348, "862831", 1394384359, "862831", "{\n}", "Sylmar", "4th Thursday, Meetings rotate, please see SylmarNC.org or call (818) 833-8737", null, null, null, null, [ "{\"address\":\"\",\"city\":\"\",\"state\":\"CA\",\"zip\":\"\"}", "37.638640488000476", "-120.99999889499969", null, false ] ]
+, [ 79, "0CCDCEB4-056C-429E-A4E4-9C662FFD1C54", 79, 1394384348, "862831", 1394384359, "862831", "{\n}", "Tarzana", "4th Tuesday", "Providence Tarzana Medical Center, North Conference Rooms", null, "91356", null, [ "{\"address\":\"18321 Clark St\",\"city\":\"Tarzana\",\"state\":\"CA\",\"zip\":\"\"}", "34.16979845300045", "-118.53259892799969", null, false ] ]
+, [ 80, "085D1097-B1B4-4279-AC52-D8D941F21DD4", 80, 1394384348, "862831", 1394384359, "862831", "{\n}", "United Neighborhoods", "1st Thursday", "Council District 10 Field Office ", null, "90006", null, [ "{\"address\":\"1819 S Western Ave\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.04118934100046", "-118.30905228299969", null, false ] ]
+, [ 81, "CDFB0F6A-A84D-48BC-8E6B-5731734B26C5", 81, 1394384348, "862831", 1394384360, "862831", "{\n}", "Valley Village", "4th Wednesday", "Faith Presbyterian Church – Social Hall", null, "91607", null, [ "{\"address\":\"5000 Colfax Ave\",\"city\":\"Valley Village\",\"state\":\"CA\",\"zip\":\"\"}", "34.16488105500048", "-118.39767945799969", null, false ] ]
+, [ 82, "2D4AE4F8-D37D-4AB7-A942-F484EC28545B", 82, 1394384348, "862831", 1394384359, "862831", "{\n}", "Van Nuys", "2nd Wednesday", "Marvin Braude Constituent Center", null, "91401", null, [ "{\"address\":\"6262 Van Nuys Blvd\",\"city\":\"Van Nuys\",\"state\":\"CA\",\"zip\":\"\"}", "34.18409072300045", "-118.44872614999969", null, false ] ]
+, [ 83, "8FA3C506-506C-400F-840C-BC5FB1CDC57B", 83, 1394384348, "862831", 1394384359, "862831", "{\n}", "Venice", "3rd Tuesday", "Westminster Elementary Auditorium", null, "90291", null, [ "{\"address\":\"1010 Abbott Kinney Blvd\",\"city\":\"Venice\",\"state\":\"CA\",\"zip\":\"\"}", "33.99211333100044", "-118.47220470099973", null, false ] ]
+, [ 84, "E520459F-00C5-4479-9801-F4271F318E39", 84, 1394384348, "862831", 1394384360, "862831", "{\n}", "Voices of 90037", "2nd Tuesday", "Normandie Ave. Elementary", null, "90037", null, [ "{\"address\":\"4505 S Raymond Ave\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.00218081200046", "-118.29809294299969", null, false ] ]
+, [ 85, "9D25C51D-266B-44A1-A79D-8010EEC18B60", 85, 1394384348, "862831", 1394384359, "862831", "{\n}", "Watts", "2nd Tuesday", "Watts Senior Citizen Center", null, "90002", null, [ "{\"address\":\"1657 E Century Blvd\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "33.94549852400047", "-118.3060794159997", null, false ] ]
+, [ 86, "860E3E3B-CD23-447D-945B-EE7AFBD1F340", 86, 1394384348, "862831", 1394384359, "862831", "{\n}", "West Adams", "3rd Monday", "Vineyard Recreation Center", null, "90016", null, [ "{\"address\":\"2942 Vineyard Ave\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.02832191500045", "-118.34660517299972", null, false ] ]
+, [ 87, "3D66CF9C-8C87-46AC-9E9C-64E82DE30AB0", 87, 1394384348, "862831", 1394384359, "862831", "{\n}", "Westchester/Playa", "1st Tuesday", "Westchester Minicipal Bldg. , Council Community Room", null, "90045", null, [ "{\"address\":\"7166 W Manchester Ave\",\"city\":\"Westchester\",\"state\":\"CA\",\"zip\":\"\"}", "33.95969367200047", "-118.41767922199972", null, false ] ]
+, [ 88, "B247CC1B-3BAF-46DC-AEBD-83B1CDA292F3", 88, 1394384348, "862831", 1394384359, "862831", "{\n}", "West Hills", "1st Tuesday", "Chaminade Preparatory School", null, "91304", null, [ "{\"address\":\"23260 Saticoy St\",\"city\":\"West Hills\",\"state\":\"CA\",\"zip\":\"\"}", "34.20827180900045", "-118.6234393369997", null, false ] ]
+, [ 89, "C2BC62FF-4A1B-4C8E-8B7F-E4184A8ABC21", 89, 1394384348, "862831", 1394384360, "862831", "{\n}", "West Los Angeles", "4th Wednesday", "WLANC Hearing Room 104-2", null, "90025", null, [ "{\"address\":\"1645 Corinth Ave\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.045251866000456", "-118.44880313699969", null, false ] ]
+, [ 90, "CBF8D088-D746-4CE5-81DA-E53B37E552E9", 90, 1394384348, "862831", 1394384360, "862831", "{\n}", "Westlake North", "2nd Thursday", "Rampart Police Station Community Room", null, "90017", null, [ "{\"address\":\"1401 W 6th St\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "33.73881476800045", "-118.30804959499972", null, false ] ]
+, [ 91, "28BAA380-EA29-4513-A44B-7E1A163A4B15", 91, 1394384348, "862831", 1394384359, "862831", "{\n}", "Westlake South", "4th Monday", "Royal Palms Recovery Center", null, "90057", null, [ "{\"address\":\"350 S Westlake Ave\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.06157859600046", "-118.27199038699968", null, false ] ]
+, [ 92, "F290A27C-07B2-4206-8CCF-2E056D886C5E", 92, 1394384348, "862831", 1394384360, "862831", "{\n}", "Westside", "2nd Thursday", "Westside Pavilion", "Room A", "90064", null, [ "{\"address\":\"10800 W Pico Blvd\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.040475142000446", "-118.42771709399972", null, false ] ]
+, [ 93, "C4829EF4-76CF-437E-89AC-DA151D0E5B8C", 93, 1394384348, "862831", 1394384360, "862831", "{\n}", "Westwood", "2nd Wednesday", "Westwood Presbyterian Church, Hoffman Hall", null, "90024", null, [ "{\"address\":\"10822 Wilshire Blvd\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.05951334100047", "-118.44108197099968", null, false ] ]
+, [ 94, "AE4744A8-D036-472D-9BC5-EB6D041887F3", 94, 1394384348, "862831", 1394384359, "862831", "{\n}", "Wilmington", "4th Wednesday", "Wilmington Senior Center", null, "90744", null, [ "{\"address\":\"1371 Eubank Ave\",\"city\":\"Wilmington\",\"state\":\"CA\",\"zip\":\"\"}", "33.79115097800047", "-118.2562536799997", null, false ] ]
+, [ 95, "8C63C516-D650-4EF7-8F07-DD77EB1ADA10", 95, 1394384348, "862831", 1394384359, "862831", "{\n}", "Wilshire Center-Koreatown", "2nd Monday", "Young Oak Kim Academy", null, "90005", null, [ "{\"address\":\"615 S Shatto Pl\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.062970633000475", "-118.28992288499973", null, false ] ]
+, [ 96, "E9AADA11-0B1E-4FA7-BBE9-76423B09C2A7", 96, 1394384348, "862831", 1394384360, "862831", "{\n}", "Winnetka", "2nd Tuesday", "Valley Village Center", null, "91306", null, [ "{\"address\":\"20830 Sherman Way\",\"city\":\"Winnetka\",\"state\":\"CA\",\"zip\":\"\"}", "34.20097329700047", "-118.58719902499968", null, false ] ]
+, [ 97, "4B725F0B-72AB-4D73-B624-376D3B3540E7", 97, 1394384348, "862831", 1394384359, "862831", "{\n}", "Woodland Hills-Warner Center", "2nd Wednesday", "Woodland Hills Academy", null, "91367", null, [ "{\"address\":\"20800 Burbank Blvd\",\"city\":\"Woodland Hills\",\"state\":\"CA\",\"zip\":\"\"}", "34.171943419000456", "-118.58674894999967", null, false ] ]
+ ]
+}

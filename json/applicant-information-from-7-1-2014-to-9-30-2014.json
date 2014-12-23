@@ -1,0 +1,1238 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "mkf9-fagf",
+      "name" : "Applicant Information From 7-1-2014 To 9-30-2014",
+      "attribution" : "Personnel Department",
+      "averageRating" : 0,
+      "createdAt" : 1412964372,
+      "description" : "Job applicant information by gender and ethnicity",
+      "displayType" : "table",
+      "downloadCount" : 8,
+      "indexUpdatedAt" : 1414612950,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 9087524,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1412964515,
+      "publicationGroup" : 1781540,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1412964401,
+      "rowsUpdatedBy" : "agii-8fjm",
+      "tableId" : 1781540,
+      "totalTimesRated" : 0,
+      "viewCount" : 9,
+      "viewLastModified" : 1412964515,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 170715642,
+        "name" : "Job Number",
+        "dataTypeName" : "text",
+        "fieldName" : "job_number",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 22342558,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 38,
+          "smallest" : "1136 OP 2014/07/11-ARCHIVE",
+          "null" : 1,
+          "largest" : "9482 OP 2014/07/18-ARCHIVE",
+          "top" : [ {
+            "count" : 20,
+            "item" : "3774 OP 2014/07/18-ARCHIVE"
+          }, {
+            "count" : 19,
+            "item" : "4310 O 2014/07/18-ARCHIVE"
+          }, {
+            "count" : 18,
+            "item" : "7925 P 2014/07/18-ARCHIVE"
+          }, {
+            "count" : 17,
+            "item" : "2455 O 2014/07/25-ARCHIVE"
+          }, {
+            "count" : 16,
+            "item" : "4219 P 2014/07/25-ARCHIVE"
+          }, {
+            "count" : 15,
+            "item" : "3190 P 2014/07/25-ARCHIVE"
+          }, {
+            "count" : 14,
+            "item" : "7833 O 2014/07/25-ARCHIVE"
+          }, {
+            "count" : 13,
+            "item" : "1600 P 2014/07/25-ARCHIVE"
+          }, {
+            "count" : 12,
+            "item" : "1213 P 2014/07/25-ARCHIVE"
+          }, {
+            "count" : 11,
+            "item" : "7291 P 2014/07/04-ARCHIVE"
+          }, {
+            "count" : 10,
+            "item" : "1136 OP 2014/07/11-ARCHIVE"
+          }, {
+            "count" : 9,
+            "item" : "1568 OP 2014/07/11-ARCHIVE"
+          }, {
+            "count" : 8,
+            "item" : "3866 OP 2014/07/11-ARCHIVE"
+          }, {
+            "count" : 7,
+            "item" : "3860 O 2014/07/18-ARCHIVE"
+          }, {
+            "count" : 6,
+            "item" : "2112 O 2014/07/11-ARCHIVE"
+          }, {
+            "count" : 5,
+            "item" : "7214 O/P 20140718-ARCHIVE"
+          }, {
+            "count" : 4,
+            "item" : "1670 OP 2014/07/25-ARCHIVE"
+          }, {
+            "count" : 3,
+            "item" : "3843 OP 2014/07/25-ARCHIVE"
+          }, {
+            "count" : 2,
+            "item" : "3844 P 2014/07/25-ARCHIVE"
+          }, {
+            "count" : 1,
+            "item" : "9482 OP 2014/07/18-ARCHIVE"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170715643,
+        "name" : "Job Description",
+        "dataTypeName" : "text",
+        "fieldName" : "job_description",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 22342559,
+        "width" : 280,
+        "cachedContents" : {
+          "non_null" : 39,
+          "smallest" : "AIR CONDITIONING MECHANIC (3774) - ARCHIVE",
+          "null" : 0,
+          "largest" : "WORKERS' COMPENSATION ANALYST 1774 - ARCHIVE",
+          "top" : [ {
+            "count" : 20,
+            "item" : "AIR CONDITIONING MECHANIC (3774) - ARCHIVE"
+          }, {
+            "count" : 19,
+            "item" : "ANIMAL CARE TECHNICIAN 4310 - ARCHIVE"
+          }, {
+            "count" : 18,
+            "item" : "ARCHITECT 7925 - ARCHIVE"
+          }, {
+            "count" : 17,
+            "item" : "ARTS MANAGER 2455 - ARCHIVE"
+          }, {
+            "count" : 16,
+            "item" : "ASSISTANT DEPUTY SUPERINTENDENT OF BUILDING 4219 - ARCHIVE"
+          }, {
+            "count" : 15,
+            "item" : "BUILDING MAINTENANCE DISTRICT SUPERVISOR (3190) - ARCHIVE"
+          }, {
+            "count" : 14,
+            "item" : "CHEMIST 7833 - ARCHIVE"
+          }, {
+            "count" : 13,
+            "item" : "COMMERCIAL FIELD REPRESENTATIVE 1600 - ARCHIVE"
+          }, {
+            "count" : 12,
+            "item" : "COMMERCIAL SERVICE SUPERVISOR 1213 - ARCHIVE"
+          }, {
+            "count" : 11,
+            "item" : "CONSTRUCTION INSPECTOR 7291 - ARCHIVE"
+          }, {
+            "count" : 10,
+            "item" : "DATA PROCESSING TECHNICIAN (1136) - ARCHIVE"
+          }, {
+            "count" : 9,
+            "item" : "DIRECTOR OF HOUSING (1568) - ARCHIVE"
+          }, {
+            "count" : 8,
+            "item" : "ELEVATOR MECHANIC 3866 - ARCHIVE"
+          }, {
+            "count" : 7,
+            "item" : "ELEVATOR MECHANIC HELPER 3860 - ARCHIVE"
+          }, {
+            "count" : 6,
+            "item" : "Firefighter 2014 (Filing starts on July 22 at 8:00 a.m. and closes July 24 at midnight) - ARCHIVE"
+          }, {
+            "count" : 5,
+            "item" : "GEOGRAPHIC INFORMATION SYSTEMS SUPERVISOR 7214 - ARCHIVE"
+          }, {
+            "count" : 4,
+            "item" : "GRAPHICS DESIGNER 1670 - ARCHIVE"
+          }, {
+            "count" : 3,
+            "item" : "INSTRUMENT MECHANIC 3843 - ARCHIVE"
+          }, {
+            "count" : 2,
+            "item" : "INSTRUMENT MECHANIC SUPERVISOR 3844 - ARCHIVE"
+          }, {
+            "count" : 1,
+            "item" : "LEGISLATIVE REPRESENTATIVE 9482 - ARCHIVE"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170715644,
+        "name" : "Apps Received",
+        "dataTypeName" : "number",
+        "fieldName" : "apps_received",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 22342560,
+        "width" : 256,
+        "cachedContents" : {
+          "non_null" : 39,
+          "smallest" : "10",
+          "sum" : "34978",
+          "null" : 0,
+          "average" : "896.8717948717949",
+          "largest" : "17489",
+          "top" : [ {
+            "count" : 20,
+            "item" : "263"
+          }, {
+            "count" : 19,
+            "item" : "270"
+          }, {
+            "count" : 18,
+            "item" : "16"
+          }, {
+            "count" : 17,
+            "item" : "148"
+          }, {
+            "count" : 16,
+            "item" : "21"
+          }, {
+            "count" : 15,
+            "item" : "47"
+          }, {
+            "count" : 14,
+            "item" : "289"
+          }, {
+            "count" : 13,
+            "item" : "252"
+          }, {
+            "count" : 12,
+            "item" : "257"
+          }, {
+            "count" : 11,
+            "item" : "471"
+          }, {
+            "count" : 10,
+            "item" : "1175"
+          }, {
+            "count" : 9,
+            "item" : "59"
+          }, {
+            "count" : 8,
+            "item" : "30"
+          }, {
+            "count" : 7,
+            "item" : "203"
+          }, {
+            "count" : 6,
+            "item" : "10215"
+          }, {
+            "count" : 5,
+            "item" : "27"
+          }, {
+            "count" : 4,
+            "item" : "627"
+          }, {
+            "count" : 3,
+            "item" : "172"
+          }, {
+            "count" : 2,
+            "item" : "41"
+          }, {
+            "count" : 1,
+            "item" : "223"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170715645,
+        "name" : "Female",
+        "dataTypeName" : "number",
+        "fieldName" : "female",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 22342561,
+        "width" : 172,
+        "cachedContents" : {
+          "non_null" : 39,
+          "smallest" : "0",
+          "sum" : "5972",
+          "null" : 0,
+          "average" : "153.1282051282051",
+          "largest" : "2986",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          }, {
+            "count" : 19,
+            "item" : "118"
+          }, {
+            "count" : 18,
+            "item" : "4"
+          }, {
+            "count" : 17,
+            "item" : "57"
+          }, {
+            "count" : 16,
+            "item" : "0"
+          }, {
+            "count" : 15,
+            "item" : "122"
+          }, {
+            "count" : 14,
+            "item" : "113"
+          }, {
+            "count" : 13,
+            "item" : "189"
+          }, {
+            "count" : 12,
+            "item" : "17"
+          }, {
+            "count" : 11,
+            "item" : "657"
+          }, {
+            "count" : 10,
+            "item" : "34"
+          }, {
+            "count" : 9,
+            "item" : "2"
+          }, {
+            "count" : 8,
+            "item" : "531"
+          }, {
+            "count" : 7,
+            "item" : "7"
+          }, {
+            "count" : 6,
+            "item" : "252"
+          }, {
+            "count" : 5,
+            "item" : "15"
+          }, {
+            "count" : 4,
+            "item" : "3"
+          }, {
+            "count" : 3,
+            "item" : "5"
+          }, {
+            "count" : 2,
+            "item" : "33"
+          }, {
+            "count" : 1,
+            "item" : "26"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170715646,
+        "name" : "Male",
+        "dataTypeName" : "number",
+        "fieldName" : "male",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 22342562,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 39,
+          "smallest" : "4",
+          "sum" : "27826",
+          "null" : 0,
+          "average" : "713.4871794871795",
+          "largest" : "13913",
+          "top" : [ {
+            "count" : 20,
+            "item" : "259"
+          }, {
+            "count" : 19,
+            "item" : "147"
+          }, {
+            "count" : 18,
+            "item" : "12"
+          }, {
+            "count" : 17,
+            "item" : "84"
+          }, {
+            "count" : 16,
+            "item" : "20"
+          }, {
+            "count" : 15,
+            "item" : "45"
+          }, {
+            "count" : 14,
+            "item" : "155"
+          }, {
+            "count" : 13,
+            "item" : "131"
+          }, {
+            "count" : 12,
+            "item" : "58"
+          }, {
+            "count" : 11,
+            "item" : "443"
+          }, {
+            "count" : 10,
+            "item" : "471"
+          }, {
+            "count" : 9,
+            "item" : "23"
+          }, {
+            "count" : 8,
+            "item" : "30"
+          }, {
+            "count" : 7,
+            "item" : "195"
+          }, {
+            "count" : 6,
+            "item" : "9356"
+          }, {
+            "count" : 5,
+            "item" : "18"
+          }, {
+            "count" : 4,
+            "item" : "355"
+          }, {
+            "count" : 3,
+            "item" : "162"
+          }, {
+            "count" : 2,
+            "item" : "36"
+          }, {
+            "count" : 1,
+            "item" : "24"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170715647,
+        "name" : "Unknown_Gender",
+        "dataTypeName" : "number",
+        "fieldName" : "unknown_gender",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 22342563,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 39,
+          "smallest" : "0",
+          "sum" : "1180",
+          "null" : 0,
+          "average" : "30.25641025641026",
+          "largest" : "590",
+          "top" : [ {
+            "count" : 20,
+            "item" : "3"
+          }, {
+            "count" : 19,
+            "item" : "5"
+          }, {
+            "count" : 18,
+            "item" : "0"
+          }, {
+            "count" : 17,
+            "item" : "7"
+          }, {
+            "count" : 16,
+            "item" : "1"
+          }, {
+            "count" : 15,
+            "item" : "12"
+          }, {
+            "count" : 14,
+            "item" : "8"
+          }, {
+            "count" : 13,
+            "item" : "10"
+          }, {
+            "count" : 12,
+            "item" : "11"
+          }, {
+            "count" : 11,
+            "item" : "47"
+          }, {
+            "count" : 10,
+            "item" : "2"
+          }, {
+            "count" : 9,
+            "item" : "6"
+          }, {
+            "count" : 8,
+            "item" : "328"
+          }, {
+            "count" : 7,
+            "item" : "20"
+          }, {
+            "count" : 6,
+            "item" : "4"
+          }, {
+            "count" : 5,
+            "item" : "14"
+          }, {
+            "count" : 4,
+            "item" : "44"
+          }, {
+            "count" : 3,
+            "item" : "590"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170715648,
+        "name" : "Black",
+        "dataTypeName" : "number",
+        "fieldName" : "black",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 22342564,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 39,
+          "smallest" : "0",
+          "sum" : "4842",
+          "null" : 0,
+          "average" : "124.1538461538462",
+          "largest" : "2421",
+          "top" : [ {
+            "count" : 20,
+            "item" : "39"
+          }, {
+            "count" : 19,
+            "item" : "61"
+          }, {
+            "count" : 18,
+            "item" : "1"
+          }, {
+            "count" : 17,
+            "item" : "14"
+          }, {
+            "count" : 16,
+            "item" : "0"
+          }, {
+            "count" : 15,
+            "item" : "9"
+          }, {
+            "count" : 14,
+            "item" : "20"
+          }, {
+            "count" : 13,
+            "item" : "79"
+          }, {
+            "count" : 12,
+            "item" : "114"
+          }, {
+            "count" : 11,
+            "item" : "48"
+          }, {
+            "count" : 10,
+            "item" : "306"
+          }, {
+            "count" : 9,
+            "item" : "26"
+          }, {
+            "count" : 8,
+            "item" : "4"
+          }, {
+            "count" : 7,
+            "item" : "44"
+          }, {
+            "count" : 6,
+            "item" : "1067"
+          }, {
+            "count" : 5,
+            "item" : "40"
+          }, {
+            "count" : 4,
+            "item" : "15"
+          }, {
+            "count" : 3,
+            "item" : "10"
+          }, {
+            "count" : 2,
+            "item" : "29"
+          }, {
+            "count" : 1,
+            "item" : "3"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170715649,
+        "name" : "Hispanic",
+        "dataTypeName" : "number",
+        "fieldName" : "hispanic",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 22342565,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 39,
+          "smallest" : "0",
+          "sum" : "12450",
+          "null" : 0,
+          "average" : "319.2307692307692",
+          "largest" : "6225",
+          "top" : [ {
+            "count" : 20,
+            "item" : "125"
+          }, {
+            "count" : 19,
+            "item" : "111"
+          }, {
+            "count" : 18,
+            "item" : "2"
+          }, {
+            "count" : 17,
+            "item" : "41"
+          }, {
+            "count" : 16,
+            "item" : "16"
+          }, {
+            "count" : 15,
+            "item" : "46"
+          }, {
+            "count" : 14,
+            "item" : "101"
+          }, {
+            "count" : 13,
+            "item" : "83"
+          }, {
+            "count" : 12,
+            "item" : "144"
+          }, {
+            "count" : 11,
+            "item" : "461"
+          }, {
+            "count" : 10,
+            "item" : "13"
+          }, {
+            "count" : 9,
+            "item" : "95"
+          }, {
+            "count" : 8,
+            "item" : "3610"
+          }, {
+            "count" : 7,
+            "item" : "9"
+          }, {
+            "count" : 6,
+            "item" : "185"
+          }, {
+            "count" : 5,
+            "item" : "50"
+          }, {
+            "count" : 4,
+            "item" : "8"
+          }, {
+            "count" : 3,
+            "item" : "11"
+          }, {
+            "count" : 2,
+            "item" : "104"
+          }, {
+            "count" : 1,
+            "item" : "7"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170715650,
+        "name" : "Asian",
+        "dataTypeName" : "number",
+        "fieldName" : "asian",
+        "position" : 10,
+        "renderTypeName" : "number",
+        "tableColumnId" : 22342566,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 39,
+          "smallest" : "0",
+          "sum" : "2752",
+          "null" : 0,
+          "average" : "70.56410256410256",
+          "largest" : "1376",
+          "top" : [ {
+            "count" : 20,
+            "item" : "24"
+          }, {
+            "count" : 19,
+            "item" : "7"
+          }, {
+            "count" : 18,
+            "item" : "6"
+          }, {
+            "count" : 17,
+            "item" : "19"
+          }, {
+            "count" : 16,
+            "item" : "1"
+          }, {
+            "count" : 15,
+            "item" : "110"
+          }, {
+            "count" : 14,
+            "item" : "15"
+          }, {
+            "count" : 13,
+            "item" : "46"
+          }, {
+            "count" : 12,
+            "item" : "140"
+          }, {
+            "count" : 11,
+            "item" : "4"
+          }, {
+            "count" : 10,
+            "item" : "9"
+          }, {
+            "count" : 9,
+            "item" : "483"
+          }, {
+            "count" : 8,
+            "item" : "3"
+          }, {
+            "count" : 7,
+            "item" : "145"
+          }, {
+            "count" : 6,
+            "item" : "37"
+          }, {
+            "count" : 5,
+            "item" : "2"
+          }, {
+            "count" : 4,
+            "item" : "0"
+          }, {
+            "count" : 3,
+            "item" : "5"
+          }, {
+            "count" : 2,
+            "item" : "28"
+          }, {
+            "count" : 1,
+            "item" : "12"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170715651,
+        "name" : "Caucasian",
+        "dataTypeName" : "number",
+        "fieldName" : "caucasian",
+        "position" : 11,
+        "renderTypeName" : "number",
+        "tableColumnId" : 22342567,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 39,
+          "smallest" : "1",
+          "sum" : "10242",
+          "null" : 0,
+          "average" : "262.6153846153846",
+          "largest" : "5121",
+          "top" : [ {
+            "count" : 20,
+            "item" : "53"
+          }, {
+            "count" : 19,
+            "item" : "63"
+          }, {
+            "count" : 18,
+            "item" : "2"
+          }, {
+            "count" : 17,
+            "item" : "45"
+          }, {
+            "count" : 16,
+            "item" : "11"
+          }, {
+            "count" : 15,
+            "item" : "14"
+          }, {
+            "count" : 14,
+            "item" : "51"
+          }, {
+            "count" : 13,
+            "item" : "17"
+          }, {
+            "count" : 12,
+            "item" : "6"
+          }, {
+            "count" : 11,
+            "item" : "160"
+          }, {
+            "count" : 10,
+            "item" : "88"
+          }, {
+            "count" : 9,
+            "item" : "9"
+          }, {
+            "count" : 8,
+            "item" : "8"
+          }, {
+            "count" : 7,
+            "item" : "36"
+          }, {
+            "count" : 6,
+            "item" : "3843"
+          }, {
+            "count" : 5,
+            "item" : "7"
+          }, {
+            "count" : 4,
+            "item" : "148"
+          }, {
+            "count" : 3,
+            "item" : "31"
+          }, {
+            "count" : 2,
+            "item" : "75"
+          }, {
+            "count" : 1,
+            "item" : "4"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170715652,
+        "name" : "American Indian/ Alaskan Native",
+        "dataTypeName" : "number",
+        "fieldName" : "american_indian_alaskan_native",
+        "position" : 12,
+        "renderTypeName" : "number",
+        "tableColumnId" : 22342568,
+        "width" : 472,
+        "cachedContents" : {
+          "non_null" : 39,
+          "smallest" : "0",
+          "sum" : "418",
+          "null" : 0,
+          "average" : "10.71794871794872",
+          "largest" : "209",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2"
+          }, {
+            "count" : 19,
+            "item" : "5"
+          }, {
+            "count" : 18,
+            "item" : "0"
+          }, {
+            "count" : 17,
+            "item" : "4"
+          }, {
+            "count" : 16,
+            "item" : "7"
+          }, {
+            "count" : 15,
+            "item" : "153"
+          }, {
+            "count" : 14,
+            "item" : "1"
+          }, {
+            "count" : 13,
+            "item" : "209"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170715653,
+        "name" : "Filipino",
+        "dataTypeName" : "number",
+        "fieldName" : "filipino",
+        "position" : 13,
+        "renderTypeName" : "number",
+        "tableColumnId" : 22342569,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 39,
+          "smallest" : "0",
+          "sum" : "1350",
+          "null" : 0,
+          "average" : "34.61538461538462",
+          "largest" : "675",
+          "top" : [ {
+            "count" : 20,
+            "item" : "9"
+          }, {
+            "count" : 19,
+            "item" : "10"
+          }, {
+            "count" : 18,
+            "item" : "3"
+          }, {
+            "count" : 17,
+            "item" : "6"
+          }, {
+            "count" : 16,
+            "item" : "0"
+          }, {
+            "count" : 15,
+            "item" : "2"
+          }, {
+            "count" : 14,
+            "item" : "22"
+          }, {
+            "count" : 13,
+            "item" : "20"
+          }, {
+            "count" : 12,
+            "item" : "88"
+          }, {
+            "count" : 11,
+            "item" : "245"
+          }, {
+            "count" : 10,
+            "item" : "5"
+          }, {
+            "count" : 9,
+            "item" : "52"
+          }, {
+            "count" : 8,
+            "item" : "14"
+          }, {
+            "count" : 7,
+            "item" : "1"
+          }, {
+            "count" : 6,
+            "item" : "12"
+          }, {
+            "count" : 5,
+            "item" : "8"
+          }, {
+            "count" : 4,
+            "item" : "78"
+          }, {
+            "count" : 3,
+            "item" : "4"
+          }, {
+            "count" : 2,
+            "item" : "18"
+          }, {
+            "count" : 1,
+            "item" : "7"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 170715654,
+        "name" : "Unknown_Ethnicity",
+        "dataTypeName" : "number",
+        "fieldName" : "unknown_ethnicity",
+        "position" : 14,
+        "renderTypeName" : "number",
+        "tableColumnId" : 22342570,
+        "width" : 304,
+        "cachedContents" : {
+          "non_null" : 39,
+          "smallest" : "0",
+          "sum" : "2924",
+          "null" : 0,
+          "average" : "74.97435897435897",
+          "largest" : "1462",
+          "top" : [ {
+            "count" : 20,
+            "item" : "11"
+          }, {
+            "count" : 19,
+            "item" : "13"
+          }, {
+            "count" : 18,
+            "item" : "2"
+          }, {
+            "count" : 17,
+            "item" : "21"
+          }, {
+            "count" : 16,
+            "item" : "1"
+          }, {
+            "count" : 15,
+            "item" : "5"
+          }, {
+            "count" : 14,
+            "item" : "38"
+          }, {
+            "count" : 13,
+            "item" : "23"
+          }, {
+            "count" : 12,
+            "item" : "27"
+          }, {
+            "count" : 11,
+            "item" : "46"
+          }, {
+            "count" : 10,
+            "item" : "90"
+          }, {
+            "count" : 9,
+            "item" : "9"
+          }, {
+            "count" : 8,
+            "item" : "814"
+          }, {
+            "count" : 7,
+            "item" : "55"
+          }, {
+            "count" : 6,
+            "item" : "24"
+          }, {
+            "count" : 5,
+            "item" : "7"
+          }, {
+            "count" : 4,
+            "item" : "4"
+          }, {
+            "count" : 3,
+            "item" : "0"
+          }, {
+            "count" : 2,
+            "item" : "10"
+          }, {
+            "count" : 1,
+            "item" : "20"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Committed Update Frequency" : {
+            "Refresh rate" : "Semi-annual"
+          },
+          "Data Owner" : {
+            "Board of Public Works" : "",
+            "LAPD" : "",
+            "City Administrative Officer" : "",
+            "Personnel " : "",
+            "Bureau of Engineering" : "",
+            "City Attorney" : "",
+            "Employee Relations Board" : "",
+            "Transportation" : "",
+            "Housing and Community Investment" : "",
+            "Library" : "",
+            "Recreation and Parks " : "",
+            "Neighborhood Empowerment" : "",
+            "Controller's Office" : "",
+            "El Pueblo" : "",
+            "Other" : "",
+            "Bureau of Sanitation" : "",
+            "Disability, Department on" : "",
+            "LACERS" : "",
+            "Cultural Affairs" : "",
+            "Information Technology" : "",
+            "Fire and Police Pensions" : "",
+            "Emergency Management" : "",
+            "General Services" : "",
+            "Council District 12" : "",
+            "Council District 13" : "",
+            "Council District 14" : "",
+            "Project Restore" : "",
+            "Council District 15" : "",
+            "Council District 10" : "",
+            "Council District 11" : "",
+            "Aging" : "",
+            "Bureau of Street Lighting" : "",
+            "City Clerk" : "",
+            "Bureau of Contract Administration" : "",
+            "Planning" : "",
+            "Harbor " : "",
+            "LAWA" : "",
+            "Public Accountability, The Office of" : "",
+            "Office of Finance" : "",
+            "Council District 03" : "",
+            "Council District 04" : "",
+            "Council District 01" : "",
+            "Council District 02" : "",
+            "Bureau of Street Services" : "",
+            "Zoo" : "",
+            "Council District 09" : "",
+            "Council District 07" : "",
+            "Council District 08" : "",
+            "Council District 05" : "",
+            "Council District 06" : "",
+            "Economic and Workforce Development" : "",
+            "LAFD" : "",
+            "Animal Services" : "",
+            "Ethics Commission" : "",
+            "Mayor's Office" : "",
+            "Housing Authority" : "",
+            "Building and Safety" : "",
+            "LADWP" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "agii-8fjm",
+        "displayName" : "Personnel OpenData",
+        "profileImageUrlLarge" : "/images/profile/7195/0527/perlogo_Fade_large.gif",
+        "profileImageUrlMedium" : "/images/profile/7195/0527/perlogo_Fade_thumb.gif",
+        "profileImageUrlSmall" : "/images/profile/7195/0527/perlogo_Fade_tiny.gif",
+        "roleName" : "editor",
+        "screenName" : "Personnel OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "agii-8fjm",
+        "displayName" : "Personnel OpenData",
+        "profileImageUrlLarge" : "/images/profile/7195/0527/perlogo_Fade_large.gif",
+        "profileImageUrlMedium" : "/images/profile/7195/0527/perlogo_Fade_thumb.gif",
+        "profileImageUrlSmall" : "/images/profile/7195/0527/perlogo_Fade_tiny.gif",
+        "roleName" : "editor",
+        "screenName" : "Personnel OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "024674CC-7A2B-480D-964F-50475EB8547F", 1, 1412964378, "883850", 1412964378, "883850", "{\n}", "3774 OP 2014/07/18-ARCHIVE", "AIR CONDITIONING MECHANIC (3774) - ARCHIVE", "263", "1", "259", "3", "39", "125", "24", "53", "2", "9", "11" ]
+, [ 2, "F2EE8F52-FA3A-4280-842B-E65BC6D2F504", 2, 1412964378, "883850", 1412964378, "883850", "{\n}", "4310 O 2014/07/18-ARCHIVE", "ANIMAL CARE TECHNICIAN 4310 - ARCHIVE", "270", "118", "147", "5", "61", "111", "7", "63", "5", "10", "13" ]
+, [ 3, "E2607B1F-B1C0-43EE-A4E7-00C452943550", 3, 1412964378, "883850", 1412964378, "883850", "{\n}", "7925 P 2014/07/18-ARCHIVE", "ARCHITECT 7925 - ARCHIVE", "16", "4", "12", "0", "1", "2", "6", "2", "0", "3", "2" ]
+, [ 4, "75CE6CC4-9994-4FED-B9F6-E5423F721A5A", 4, 1412964378, "883850", 1412964378, "883850", "{\n}", "2455 O 2014/07/25-ARCHIVE", "ARTS MANAGER 2455 - ARCHIVE", "148", "57", "84", "7", "14", "41", "19", "45", "2", "6", "21" ]
+, [ 5, "258062DD-07BE-4CC5-9DC5-1953287192AB", 5, 1412964378, "883850", 1412964378, "883850", "{\n}", "4219 P 2014/07/25-ARCHIVE", "ASSISTANT DEPUTY SUPERINTENDENT OF BUILDING 4219 - ARCHIVE", "21", "0", "20", "1", "0", "2", "7", "11", "0", "0", "1" ]
+, [ 6, "78B081B5-6D37-480E-8C49-2A9A4D3832C1", 6, 1412964378, "883850", 1412964378, "883850", "{\n}", "3190 P 2014/07/25-ARCHIVE", "BUILDING MAINTENANCE DISTRICT SUPERVISOR (3190) - ARCHIVE", "47", "1", "45", "1", "9", "16", "1", "14", "0", "2", "5" ]
+, [ 7, "D8BC847E-E71F-43ED-A18F-7BAE4F707AF9", 7, 1412964378, "883850", 1412964378, "883850", "{\n}", "7833 O 2014/07/25-ARCHIVE", "CHEMIST 7833 - ARCHIVE", "289", "122", "155", "12", "20", "46", "110", "51", "2", "22", "38" ]
+, [ 8, "9F953DB6-87D2-431F-8E4F-07213FC5021B", 8, 1412964378, "883850", 1412964378, "883850", "{\n}", "1600 P 2014/07/25-ARCHIVE", "COMMERCIAL FIELD REPRESENTATIVE 1600 - ARCHIVE", "252", "113", "131", "8", "79", "101", "19", "17", "4", "9", "23" ]
+, [ 9, "4C657188-9D80-42B0-94B5-0CA5F060C2D0", 9, 1412964378, "883850", 1412964378, "883850", "{\n}", "1213 P 2014/07/25-ARCHIVE", "COMMERCIAL SERVICE SUPERVISOR 1213 - ARCHIVE", "257", "189", "58", "10", "114", "83", "15", "6", "2", "10", "27" ]
+, [ 10, "44FF4106-898E-4885-95A2-C1BF9DDFD5C6", 10, 1412964378, "883850", 1412964378, "883850", "{\n}", "7291 P 2014/07/04-ARCHIVE", "CONSTRUCTION INSPECTOR 7291 - ARCHIVE", "471", "17", "443", "11", "48", "144", "46", "160", "7", "20", "46" ]
+, [ 11, "FC01271D-E111-4E0D-A145-5C21A7A65E09", 11, 1412964378, "883850", 1412964378, "883850", "{\n}", "1136 OP 2014/07/11-ARCHIVE", "DATA PROCESSING TECHNICIAN (1136) - ARCHIVE", "1175", "657", "471", "47", "306", "461", "140", "88", "2", "88", "90" ]
+, [ 12, "2007C51B-CBE3-4655-8EFA-753855576867", 12, 1412964378, "883850", 1412964378, "883850", "{\n}", "1568 OP 2014/07/11-ARCHIVE", "DIRECTOR OF HOUSING (1568) - ARCHIVE", "59", "34", "23", "2", "26", "13", "4", "9", "2", "0", "5" ]
+, [ 13, "9CE02D62-C086-44FC-8831-5AF628B70FE1", 13, 1412964378, "883850", 1412964378, "883850", "{\n}", "3866 OP 2014/07/11-ARCHIVE", "ELEVATOR MECHANIC 3866 - ARCHIVE", "30", "0", "30", "0", "4", "16", "1", "8", "0", "0", "1" ]
+, [ 14, "E8EE26D0-AD0C-469B-B7B9-095C22647DD6", 14, 1412964378, "883850", 1412964378, "883850", "{\n}", "3860 O 2014/07/18-ARCHIVE", "ELEVATOR MECHANIC HELPER 3860 - ARCHIVE", "203", "2", "195", "6", "44", "95", "9", "36", "0", "10", "9" ]
+, [ 15, "79A9BBEE-773B-4171-A494-BB9A2ABA5BBF", 15, 1412964378, "883850", 1412964378, "883850", "{\n}", "2112 O 2014/07/11-ARCHIVE", "Firefighter 2014 (Filing starts on July 22 at 8:00 a.m. and closes July 24 at midnight) - ARCHIVE", "10215", "531", "9356", "328", "1067", "3610", "483", "3843", "153", "245", "814" ]
+, [ 16, "C6FED96A-716D-40C0-82A3-09E33B176DE2", 16, 1412964378, "883850", 1412964378, "883850", "{\n}", "7214 O/P 20140718-ARCHIVE", "GEOGRAPHIC INFORMATION SYSTEMS SUPERVISOR 7214 - ARCHIVE", "27", "7", "18", "2", "1", "9", "3", "7", "0", "5", "2" ]
+, [ 17, "E88B029B-E84C-4C8F-909E-49773EE2E0AF", 17, 1412964378, "883850", 1412964378, "883850", "{\n}", "1670 OP 2014/07/25-ARCHIVE", "GRAPHICS DESIGNER 1670 - ARCHIVE", "627", "252", "355", "20", "40", "185", "145", "148", "2", "52", "55" ]
+, [ 18, "16967D08-DA6B-44C3-994D-73D26E98E720", 18, 1412964378, "883850", 1412964378, "883850", "{\n}", "3843 OP 2014/07/25-ARCHIVE", "INSTRUMENT MECHANIC 3843 - ARCHIVE", "172", "4", "162", "6", "15", "50", "37", "31", "1", "14", "24" ]
+, [ 19, "F660EE5E-108E-494A-8294-64C2C5405D20", 19, 1412964378, "883850", 1412964378, "883850", "{\n}", "3844 P 2014/07/25-ARCHIVE", "INSTRUMENT MECHANIC SUPERVISOR 3844 - ARCHIVE", "41", "1", "36", "4", "4", "8", "7", "7", "0", "6", "9" ]
+, [ 20, "13AE22B8-4228-4B68-9345-88C99ACB37FE", 20, 1412964378, "883850", 1412964378, "883850", "{\n}", "9482 OP 2014/07/18-ARCHIVE", "LEGISLATIVE REPRESENTATIVE 9482 - ARCHIVE", "41", "15", "24", "2", "10", "11", "4", "9", "0", "0", "7" ]
+, [ 21, "5313FD93-6082-4C2D-B464-346470A173B2", 21, 1412964378, "883850", 1412964378, "883850", "{\n}", "3433 P 2014/07/18-ARCHIVE", "PIPEFITTER 3433 - ARCHIVE", "223", "3", "215", "5", "29", "104", "2", "75", "1", "5", "7" ]
+, [ 22, "D19989AB-B1BC-47B8-A5CF-F71012C4F79B", 22, 1412964378, "883850", 1412964378, "883850", "{\n}", "1458 P 2014/07/25-ARCHIVE", "PRINCIPAL COMMUNICATIONS OPERATOR 1458 - ARCHIVE", "22", "17", "4", "1", "10", "7", "0", "4", "0", "0", "1" ]
+, [ 23, "CAA4D13C-8BA0-40E1-AC5B-42D048DC5D6B", 23, 1412964378, "883850", 1412964378, "883850", "{\n}", "7875 P 2014/07/25/14-ARCHIVE", "PRINCIPAL ENVIRONMENTAL ENGINEER 7875 - ARCHIVE", "27", "4", "22", "1", "1", "5", "3", "12", "0", "2", "4" ]
+, [ 24, "5C62E680-2F83-43B4-B94A-4764A70C28D5", 24, 1412964378, "883850", 1412964378, "883850", "{\n}", "1777 P 2014/07/18-ARCHIVE", "PRINCIPAL WORKERS' COMPENSATION ANALYST (1777) - ARCHIVE", "10", "5", "5", "0", "3", "2", "3", "1", "0", "1", "0" ]
+, [ 25, "27E34BF7-B82A-4F57-A39D-9C4F5F791E53", 25, 1412964378, "883850", 1412964378, "883850", "{\n}", "3836 P 2014/07/18-ARCHIVE", "SENIOR ELECTRICAL MECHANIC SUPERVISOR 3836 - ARCHIVE", "50", "1", "47", "2", "3", "8", "3", "26", "0", "0", "10" ]
+, [ 26, "05D73710-3795-4F69-AECD-E592B693EEA4", 26, 1412964378, "883850", 1412964378, "883850", "{\n}", "3143 P 2014/07/25-ARCHIVE", "SENIOR GARDENER 3143 - ARCHIVE", "297", "33", "250", "14", "29", "192", "5", "34", "5", "9", "23" ]
+, [ 27, "45AEA790-31A7-4823-AA55-DB7A11E0E673", 27, 1412964378, "883850", 1412964378, "883850", "{\n}", "3815 P 2014/07/18-ARCHIVE", "SENIOR UNDERGROUND DISTRIBUTION CONSTRUCTION SUPERVISOR 3815 - ARCHIVE", "15", "0", "14", "1", "2", "4", "2", "5", "0", "0", "2" ]
+, [ 28, "163B7125-3642-4736-831E-45DE014AC819", 28, 1412964378, "883850", 1412964378, "883850", "{\n}", "1769 OP 2014/7/25-ARCHIVE", "SENIOR WORKERS' COMPENSATION ANALYST 1769 - ARCHIVE", "44", "26", "18", "0", "16", "14", "2", "7", "1", "3", "1" ]
+, [ 29, "D3E4E898-81CD-4850-84F4-2B78BC592AAA", 29, 1412964378, "883850", 1412964378, "883850", "{\n}", "1214 P 2014/07/18-ARCHIVE", "SMS PAYMENT CLERK 1214 - ARCHIVE", "150", "119", "23", "8", "40", "41", "28", "9", "0", "12", "20" ]
+, [ 30, "6D4CB5E5-A414-47D7-9C8F-479BCA38B649", 30, 1412964378, "883850", 1412964378, "883850", "{\n}", "3812 O/P 2014/07/25-ARCHIVE", "UNDERGROUND DISTRIBUTION CONSTRUCTION MECHANIC 3812 - ARCHIVE", "591", "7", "573", "11", "82", "331", "12", "124", "5", "8", "29" ]
+, [ 31, "3ACD8BEA-3CC9-4AC8-A661-C9A95E80B071", 31, 1412964378, "883850", 1412964378, "883850", "{\n}", "3814 P 2014/07/25-ARCHIVE", "UNDERGROUND DISTRIBUTION CONSTRUCTION SUPERVISOR 3814 - ARCHIVE", "51", "0", "49", "2", "12", "22", "0", "11", "1", "0", "5" ]
+, [ 32, "74E1269C-63FD-4B51-A95B-881C90F7BBC0", 32, 1412964378, "883850", 1412964378, "883850", "{\n}", "9106 P 2014/07/04-ARCHIVE", "UTILITY SERVICES MANAGER 9106 REVISED 07/15/14 - ARCHIVE", "68", "31", "30", "7", "13", "19", "5", "16", "0", "6", "9" ]
+, [ 33, "061E4C1E-D116-40B5-A843-59BB56583156", 33, 1412964378, "883850", 1412964378, "883850", "{\n}", "3755 P 2014/07/25-ARCHIVE", "UTILITY SERVICES SPECIALIST 3755 - ARCHIVE", "735", "409", "282", "44", "182", "163", "125", "81", "4", "78", "102" ]
+, [ 34, "25DD401E-B9F6-40A1-B19D-7173706A2AA5", 34, 1412964378, "883850", 1412964378, "883850", "{\n}", "7840 P 2014/7/25-ARCHIVE", "WASTEWATER TREATMENT LABORATORY MANAGER 7840 - ARCHIVE", "16", "6", "9", "1", "3", "0", "5", "7", "0", "0", "1" ]
+, [ 35, "8C6C7DB9-7F2F-4AE8-B824-FFB48262C3D4", 35, 1412964378, "883850", 1412964378, "883850", "{\n}", "4123 O 2014/07/04-ARCHIVE", "WASTEWATER TREATMENT OPERATOR 4123 - ARCHIVE", "125", "9", "113", "3", "29", "38", "10", "32", "7", "4", "5" ]
+, [ 36, "64975A80-3E7A-41EA-B576-7BA9EDC21146", 36, 1412964378, "883850", 1412964378, "883850", "{\n}", "7857 O 2014/7/18-ARCHIVE", "WATER MICROBIOLOGIST 7857 - ARCHIVE", "179", "89", "82", "8", "13", "37", "64", "25", "0", "18", "22" ]
+, [ 37, "ED862C6B-4250-4A96-9491-490B64439C27", 37, 1412964378, "883850", 1412964378, "883850", "{\n}", "3912/P/2014/07/25-ARCHIVE", "WATER UTILITY WORKER 3912 - ARCHIVE", "96", "2", "92", "2", "8", "48", "6", "23", "1", "7", "3" ]
+, [ 38, "16983190-3006-4E12-B9E3-D8237AFEE9CE", 38, 1412964378, "883850", 1412964378, "883850", "{\n}", "1774 OP 2014/7/18-ARCHIVE", "WORKERS' COMPENSATION ANALYST 1774 - ARCHIVE", "166", "100", "61", "5", "44", "61", "14", "21", "0", "11", "15" ]
+, [ 39, "5975186E-307E-41CF-98D4-EC81290FFC2A", 39, 1412964378, "883850", 1412964378, "883850", "{\n}", null, "TOTAL NUMBER OF APPLICATIONS BY CATEGORY", "17489", "2986", "13913", "590", "2421", "6225", "1376", "5121", "209", "675", "1462" ]
+ ]
+}

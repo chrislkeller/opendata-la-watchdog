@@ -1,0 +1,765 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "4k67-bwgi",
+      "name" : "Emergency Management Department – Community Outreach - Second Quarter 2014",
+      "averageRating" : 0,
+      "category" : "A Safe City",
+      "createdAt" : 1407451284,
+      "description" : "Community outreach conducted by the Emergency Management Department for the period of April - June 2014.",
+      "displayType" : "table",
+      "downloadCount" : 1,
+      "indexUpdatedAt" : 1414612867,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8600386,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1407452278,
+      "publicationGroup" : 1676153,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1407452140,
+      "rowsUpdatedBy" : "vnsa-hifw",
+      "tableId" : 1676153,
+      "totalTimesRated" : 0,
+      "viewCount" : 33,
+      "viewLastModified" : 1407452278,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 160991907,
+        "name" : "Activity",
+        "dataTypeName" : "text",
+        "fieldName" : "activity",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21269564,
+        "width" : 436,
+        "cachedContents" : {
+          "non_null" : 44,
+          "smallest" : "1700 Block Club of 42nd Pl",
+          "null" : 0,
+          "largest" : "United American Indian Involvement Expo",
+          "top" : [ {
+            "count" : 20,
+            "item" : "DMD:  South"
+          }, {
+            "count" : 19,
+            "item" : "SB CAER Meeting"
+          }, {
+            "count" : 18,
+            "item" : "Tsunami Pamphlets - all areas"
+          }, {
+            "count" : 17,
+            "item" : "Presentation for Miramonte Early Education Center"
+          }, {
+            "count" : 16,
+            "item" : "A Place Called Home Health & Garden Expo"
+          }, {
+            "count" : 15,
+            "item" : "Preparedness Materials Request"
+          }, {
+            "count" : 14,
+            "item" : "Congresswoman Hahn's Senior Exhibit Briefing"
+          }, {
+            "count" : 13,
+            "item" : "Area Maritime Security Committee (AMSC)"
+          }, {
+            "count" : 12,
+            "item" : "1700 Block Club of 42nd Pl"
+          }, {
+            "count" : 11,
+            "item" : "Manhattan HOA Block Club Emergency Preparedness Presentation"
+          }, {
+            "count" : 10,
+            "item" : "First AME Church Emergency Preparedness Meeting"
+          }, {
+            "count" : 9,
+            "item" : "Trinity Park Community Engagement Fair"
+          }, {
+            "count" : 8,
+            "item" : "Churches in Action - Los Angeles"
+          }, {
+            "count" : 7,
+            "item" : "The Revelation Network (TRN) / FBO Group"
+          }, {
+            "count" : 6,
+            "item" : "DMD: West"
+          }, {
+            "count" : 5,
+            "item" : "Mandeville Cyn Exercise"
+          }, {
+            "count" : 4,
+            "item" : "Intl. Lease Finance Corp employee mtg"
+          }, {
+            "count" : 3,
+            "item" : "Presentation at Sinai Temple Sisterhood"
+          }, {
+            "count" : 2,
+            "item" : "CD 10 Office"
+          }, {
+            "count" : 1,
+            "item" : "Brentwood HOA"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 160992284,
+        "name" : "Date",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date",
+        "position" : 2,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 21269565,
+        "width" : 80,
+        "cachedContents" : {
+          "non_null" : 40,
+          "smallest" : "2014-04-08T00:00:00",
+          "null" : 4,
+          "largest" : "2016-04-01T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2014-04-08T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2014-04-21T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2014-04-24T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2014-04-25T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2014-04-29T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2014-05-02T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2014-05-07T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2014-05-10T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2014-05-15T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2014-05-16T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2014-05-17T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2014-05-21T00:00:00"
+          }, {
+            "count" : 8,
+            "item" : "2014-05-22T00:00:00"
+          }, {
+            "count" : 7,
+            "item" : "2014-05-27T00:00:00"
+          }, {
+            "count" : 6,
+            "item" : "2014-06-03T00:00:00"
+          }, {
+            "count" : 5,
+            "item" : "2014-06-04T00:00:00"
+          }, {
+            "count" : 4,
+            "item" : "2014-06-05T00:00:00"
+          }, {
+            "count" : 3,
+            "item" : "2014-06-14T00:00:00"
+          }, {
+            "count" : 2,
+            "item" : "2014-06-18T00:00:00"
+          }, {
+            "count" : 1,
+            "item" : "2014-05-18T00:00:00"
+          } ]
+        },
+        "format" : {
+          "view" : "date",
+          "align" : "left"
+        }
+      }, {
+        "id" : 160991909,
+        "name" : "Purpose",
+        "dataTypeName" : "text",
+        "fieldName" : "purpose",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21269566,
+        "width" : 689,
+        "cachedContents" : {
+          "non_null" : 40,
+          "smallest" : "Attended First AME Church Emergncy Preparedness Meeting",
+          "null" : 4,
+          "largest" : "Publications",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Attended Monthly Meeting"
+          }, {
+            "count" : 19,
+            "item" : "Provided Tsunami pamphlets"
+          }, {
+            "count" : 18,
+            "item" : "Conducted presentation with Emergency Preparedness Materials"
+          }, {
+            "count" : 17,
+            "item" : "Provided Emergncy Preparedness Materials"
+          }, {
+            "count" : 16,
+            "item" : "Participated in Senior Fair with Emergncy Preparedness Materials"
+          }, {
+            "count" : 15,
+            "item" : "Attended Quarterly Meeting"
+          }, {
+            "count" : 14,
+            "item" : "Conducted presentation with Emergncy Preparedness Materials"
+          }, {
+            "count" : 13,
+            "item" : "Provided Children's Emergncy Preparedness Materials"
+          }, {
+            "count" : 12,
+            "item" : "Provided Emergncy Preparedness Materials - Spanish"
+          }, {
+            "count" : 11,
+            "item" : "Attended First AME Church Emergncy Preparedness Meeting"
+          }, {
+            "count" : 10,
+            "item" : "Participated in Community Fair with Emergncy Preparedness Materials"
+          }, {
+            "count" : 9,
+            "item" : "Attended Meeting to discuss EMD's \"Preparing Houses of Worship in LA for Disasters 3 Campaigns\" effort."
+          }, {
+            "count" : 8,
+            "item" : "Meet to discuss next steps for TRN in their communications role for the FBOs."
+          }, {
+            "count" : 7,
+            "item" : "Full Scale Exercise"
+          }, {
+            "count" : 6,
+            "item" : "Presentation"
+          }, {
+            "count" : 5,
+            "item" : "Brochures"
+          }, {
+            "count" : 4,
+            "item" : "Meeting"
+          }, {
+            "count" : 3,
+            "item" : "Business Outreach"
+          }, {
+            "count" : 2,
+            "item" : "Publications"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 160991910,
+        "name" : "Category",
+        "dataTypeName" : "text",
+        "fieldName" : "category",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21269567,
+        "width" : 147,
+        "cachedContents" : {
+          "non_null" : 40,
+          "smallest" : "Community Outreach",
+          "null" : 4,
+          "largest" : "Community Outreach",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Community Outreach"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 160991911,
+        "name" : "Division",
+        "dataTypeName" : "text",
+        "fieldName" : "division",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21269568,
+        "width" : 249,
+        "cachedContents" : {
+          "non_null" : 40,
+          "smallest" : "Community Emergency Management",
+          "null" : 4,
+          "largest" : "Community Emergency Management",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Community Emergency Management"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 160991912,
+        "name" : "Location or Council Distrct",
+        "dataTypeName" : "text",
+        "fieldName" : "location_or_council_distrct",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21269569,
+        "width" : 803,
+        "cachedContents" : {
+          "non_null" : 39,
+          "smallest" : "10250 Constellation Blvd., Suite 3400 Los Angeles, CA 90067",
+          "null" : 5,
+          "largest" : "West LA",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Carson Community Center"
+          }, {
+            "count" : 19,
+            "item" : "Miramonte Early Education Center,  1341 E.  70th St"
+          }, {
+            "count" : 18,
+            "item" : "2830 S. Central Ave., CA  90011"
+          }, {
+            "count" : 17,
+            "item" : "Faith Groups Citywide"
+          }, {
+            "count" : 16,
+            "item" : "Port of Los Angeles Admin Building"
+          }, {
+            "count" : 15,
+            "item" : "CD 8 - Private Residence"
+          }, {
+            "count" : 14,
+            "item" : "CD 15 - Private Residence"
+          }, {
+            "count" : 13,
+            "item" : "Jesse Owens Park"
+          }, {
+            "count" : 12,
+            "item" : "Baptist Minister's Conference"
+          }, {
+            "count" : 11,
+            "item" : "Moorish Science Temple, 3123 W Vernon Ave., LA 90008; in support of Pledge to Prepare Campaign for Houses of Worship"
+          }, {
+            "count" : 10,
+            "item" : "CD 8 - in support of Pledge to Prepare Campaign for Houses of Worship"
+          }, {
+            "count" : 9,
+            "item" : "2270 S Harvard Blvd., 90018"
+          }, {
+            "count" : 8,
+            "item" : "Just Detention International, 3325 Wilshire Blvd. Ste 340, LA"
+          }, {
+            "count" : 7,
+            "item" : "Trinity Park, 2415 S. Trinity St., LA"
+          }, {
+            "count" : 6,
+            "item" : "Iglesia Poder de Dios\n6900 S. Hoover St., LA, 90044"
+          }, {
+            "count" : 5,
+            "item" : "Philadelphia Community Fellowship Church of Gardena"
+          }, {
+            "count" : 4,
+            "item" : "Paul Revere Middle School"
+          }, {
+            "count" : 3,
+            "item" : "10250 Constellation Blvd., Suite 3400 Los Angeles, CA 90067"
+          }, {
+            "count" : 2,
+            "item" : "10400 Wilshire Blvd, Los Angeles CA 90024"
+          }, {
+            "count" : 1,
+            "item" : "City Hall"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 160991913,
+        "name" : "Materials Distributed",
+        "dataTypeName" : "number",
+        "fieldName" : "materials_distributed",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21269570,
+        "width" : 174,
+        "cachedContents" : {
+          "non_null" : 28,
+          "smallest" : "0",
+          "sum" : "24922",
+          "null" : 16,
+          "average" : "890.0714285714286",
+          "largest" : "10000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "4000"
+          }, {
+            "count" : 19,
+            "item" : "300"
+          }, {
+            "count" : 18,
+            "item" : "117"
+          }, {
+            "count" : 17,
+            "item" : "400"
+          }, {
+            "count" : 16,
+            "item" : "1000"
+          }, {
+            "count" : 15,
+            "item" : "500"
+          }, {
+            "count" : 14,
+            "item" : "30"
+          }, {
+            "count" : 13,
+            "item" : "600"
+          }, {
+            "count" : 12,
+            "item" : "100"
+          }, {
+            "count" : 11,
+            "item" : "50"
+          }, {
+            "count" : 10,
+            "item" : "250"
+          }, {
+            "count" : 9,
+            "item" : "200"
+          }, {
+            "count" : 8,
+            "item" : "0"
+          }, {
+            "count" : 7,
+            "item" : "3000"
+          }, {
+            "count" : 6,
+            "item" : "150"
+          }, {
+            "count" : 5,
+            "item" : "10000"
+          }, {
+            "count" : 4,
+            "item" : "75"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 160991914,
+        "name" : "Meetings Held",
+        "dataTypeName" : "number",
+        "fieldName" : "meetings_held",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21269571,
+        "width" : 161,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "1",
+          "sum" : "16",
+          "null" : 28,
+          "average" : "1",
+          "largest" : "1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 160991915,
+        "name" : "Antendees",
+        "dataTypeName" : "number",
+        "fieldName" : "antendees",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21269572,
+        "width" : 104,
+        "cachedContents" : {
+          "non_null" : 27,
+          "smallest" : "1",
+          "sum" : "5803",
+          "null" : 17,
+          "average" : "214.9259259259259",
+          "largest" : "3000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "15"
+          }, {
+            "count" : 19,
+            "item" : "40"
+          }, {
+            "count" : 18,
+            "item" : "900"
+          }, {
+            "count" : 17,
+            "item" : "75"
+          }, {
+            "count" : 16,
+            "item" : "20"
+          }, {
+            "count" : 15,
+            "item" : "30"
+          }, {
+            "count" : 14,
+            "item" : "50"
+          }, {
+            "count" : 13,
+            "item" : "4"
+          }, {
+            "count" : 12,
+            "item" : "500"
+          }, {
+            "count" : 11,
+            "item" : "25"
+          }, {
+            "count" : 10,
+            "item" : "1"
+          }, {
+            "count" : 9,
+            "item" : "300"
+          }, {
+            "count" : 8,
+            "item" : "200"
+          }, {
+            "count" : 7,
+            "item" : "10"
+          }, {
+            "count" : 6,
+            "item" : "100"
+          }, {
+            "count" : 5,
+            "item" : "55"
+          }, {
+            "count" : 4,
+            "item" : "3000"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Board of Public Works" : "",
+            "LAPD" : "",
+            "City Administrative Officer" : "",
+            "Personnel " : "",
+            "Bureau of Engineering" : "",
+            "City Attorney" : "",
+            "Employee Relations Board" : "",
+            "Transportation" : "",
+            "Housing and Community Investment" : "",
+            "Library" : "",
+            "Recreation and Parks " : "",
+            "Neighborhood Empowerment" : "",
+            "Controller's Office" : "",
+            "El Pueblo" : "",
+            "Other" : "",
+            "Bureau of Sanitation" : "",
+            "Disability, Department on" : "",
+            "LACERS" : "",
+            "Cultural Affairs" : "",
+            "Information Technology" : "",
+            "Fire and Police Pensions" : "",
+            "Emergency Management" : "",
+            "General Services" : "",
+            "Council District 12" : "",
+            "Council District 13" : "",
+            "Council District 14" : "",
+            "Project Restore" : "",
+            "Council District 15" : "",
+            "Council District 10" : "",
+            "Council District 11" : "",
+            "Aging" : "",
+            "Bureau of Street Lighting" : "",
+            "City Clerk" : "",
+            "Bureau of Contract Administration" : "",
+            "Planning" : "",
+            "Harbor " : "",
+            "LAWA" : "",
+            "Public Accountability, The Office of" : "",
+            "Office of Finance" : "",
+            "Council District 03" : "",
+            "Council District 04" : "",
+            "Council District 01" : "",
+            "Council District 02" : "",
+            "Bureau of Street Services" : "",
+            "Zoo" : "",
+            "Council District 09" : "",
+            "Council District 07" : "",
+            "Council District 08" : "",
+            "Council District 05" : "",
+            "Council District 06" : "",
+            "Economic and Workforce Development" : "",
+            "LAFD" : "",
+            "Animal Services" : "",
+            "Ethics Commission" : "",
+            "Mayor's Office" : "",
+            "Housing Authority" : "",
+            "Building and Safety" : "",
+            "LADWP" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "vnsa-hifw",
+        "displayName" : "Emergency Management OpenData",
+        "profileImageUrlLarge" : "/images/profile/9814/2769/EMD_Logo_PC_EDITS_large.PNG",
+        "profileImageUrlMedium" : "/images/profile/9814/2769/EMD_Logo_PC_EDITS_thumb.PNG",
+        "profileImageUrlSmall" : "/images/profile/9814/2769/EMD_Logo_PC_EDITS_tiny.PNG",
+        "roleName" : "editor",
+        "screenName" : "Emergency Management OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "vnsa-hifw",
+        "displayName" : "Emergency Management OpenData",
+        "profileImageUrlLarge" : "/images/profile/9814/2769/EMD_Logo_PC_EDITS_large.PNG",
+        "profileImageUrlMedium" : "/images/profile/9814/2769/EMD_Logo_PC_EDITS_thumb.PNG",
+        "profileImageUrlSmall" : "/images/profile/9814/2769/EMD_Logo_PC_EDITS_tiny.PNG",
+        "roleName" : "editor",
+        "screenName" : "Emergency Management OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "emergency preparedness", "emergency management" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "5B5DE1B3-1F38-4084-97B0-99E00B2912BF", 1, 1407451287, "883728", 1407451287, "883728", "{\n}", "DMD:  South", null, null, null, null, null, null, null, null ]
+, [ 2, "E2F3EAD8-164B-4551-B126-ACCD8B17EC78", 2, 1407451287, "883728", 1407451287, "883728", "{\n}", "SB CAER Meeting", "2014-04-08T00:00:00", "Attended Monthly Meeting", "Community Outreach", "Community Emergency Management", "Carson Community Center", null, "1", "15" ]
+, [ 3, "20E254F1-358F-4C7D-B924-75FA93398E4E", 3, 1407451287, "883728", 1407452140, "883728", "{\n}", "Tsunami Pamphlets - all areas", "2014-04-21T00:00:00", "Provided Tsunami pamphlets", "Community Outreach", "Community Emergency Management", null, "4000", null, null ]
+, [ 4, "5B569883-83CD-4980-8466-3CFA9B6F0874", 4, 1407451287, "883728", 1407451287, "883728", "{\n}", "Presentation for Miramonte Early Education Center", "2014-04-24T00:00:00", "Conducted presentation with Emergency Preparedness Materials", "Community Outreach", "Community Emergency Management", "Miramonte Early Education Center,  1341 E.  70th St", null, "1", "40" ]
+, [ 5, "A7579C52-0BF1-404A-92BF-405CB4BAD3F7", 5, 1407451287, "883728", 1407451287, "883728", "{\n}", "A Place Called Home Health & Garden Expo", "2014-04-25T00:00:00", "Provided Emergncy Preparedness Materials", "Community Outreach", "Community Emergency Management", "2830 S. Central Ave., CA  90011", "300", null, null ]
+, [ 6, "0AD0355B-6DE2-41EE-97B2-0A2B733C0DA2", 6, 1407451287, "883728", 1407451287, "883728", "{\n}", "Preparedness Materials Request", "2014-04-29T00:00:00", "Provided Emergncy Preparedness Materials", "Community Outreach", "Community Emergency Management", "Faith Groups Citywide", "117", null, null ]
+, [ 7, "E25A2700-1168-4A5B-A5C5-825802E17756", 7, 1407451287, "883728", 1407451287, "883728", "{\n}", "Congresswoman Hahn's Senior Exhibit Briefing", "2014-05-02T00:00:00", "Participated in Senior Fair with Emergncy Preparedness Materials", "Community Outreach", "Community Emergency Management", "Carson Community Center", null, null, "900" ]
+, [ 8, "9308A1B4-C3B8-4463-A08F-55829DC752DC", 8, 1407451287, "883728", 1407451287, "883728", "{\n}", "Area Maritime Security Committee (AMSC)", "2014-05-07T00:00:00", "Attended Quarterly Meeting", "Community Outreach", "Community Emergency Management", "Port of Los Angeles Admin Building", null, "1", "75" ]
+, [ 9, "C70AD998-DCAC-4AFB-8242-CE0EB9215097", 9, 1407451287, "883728", 1407451287, "883728", "{\n}", "1700 Block Club of 42nd Pl", "2014-05-10T00:00:00", "Conducted presentation with Emergncy Preparedness Materials", "Community Outreach", "Community Emergency Management", "CD 8 - Private Residence", null, "1", "20" ]
+, [ 10, "439A0128-3C1F-4154-8966-4C355603149E", 10, 1407451287, "883728", 1407451287, "883728", "{\n}", "Preparedness Materials Request", "2014-05-15T00:00:00", "Provided Emergncy Preparedness Materials", "Community Outreach", "Community Emergency Management", "CD 8 - Private Residence", null, null, "30" ]
+, [ 11, "F65C706D-6469-4A17-9734-007876AD8FFE", 11, 1407451287, "883728", 1407451287, "883728", "{\n}", "Preparedness Materials Request", "2014-05-16T00:00:00", "Provided Emergncy Preparedness Materials", "Community Outreach", "Community Emergency Management", "CD 15 - Private Residence", null, null, "50" ]
+, [ 12, "80E6F301-195B-4D31-B276-A52F1EA755ED", 12, 1407451287, "883728", 1407451287, "883728", "{\n}", "Manhattan HOA Block Club Emergency Preparedness Presentation", "2014-05-17T00:00:00", "Conducted presentation with Emergncy Preparedness Materials", "Community Outreach", "Community Emergency Management", "Jesse Owens Park", null, "1", "40" ]
+, [ 13, "94326555-C98C-440B-B382-0A2FF224D4C6", 13, 1407451287, "883728", 1407451287, "883728", "{\n}", "Preparedness Materials Request", "2014-05-21T00:00:00", "Provided Children's Emergncy Preparedness Materials", "Community Outreach", "Community Emergency Management", "Baptist Minister's Conference", "400", null, null ]
+, [ 14, "8CC02AFB-E7D4-43FA-BCB3-015530E03ACB", 14, 1407451287, "883728", 1407451287, "883728", "{\n}", "Preparedness Materials Request", "2014-05-22T00:00:00", "Provided Emergncy Preparedness Materials", "Community Outreach", "Community Emergency Management", "Moorish Science Temple, 3123 W Vernon Ave., LA 90008; in support of Pledge to Prepare Campaign for Houses of Worship", "1000", null, null ]
+, [ 15, "D51499C5-E2E9-40EB-8171-0B1D306C43DF", 15, 1407451287, "883728", 1407451287, "883728", "{\n}", "Preparedness Materials Request", "2014-05-22T00:00:00", "Provided Emergncy Preparedness Materials - Spanish", "Community Outreach", "Community Emergency Management", "CD 8 - in support of Pledge to Prepare Campaign for Houses of Worship", "500", null, null ]
+, [ 16, "DC58DDA8-B205-4AAA-9E1C-FCEAB67A5F3C", 16, 1407451287, "883728", 1407451287, "883728", "{\n}", "Preparedness Materials Request", "2014-05-27T00:00:00", "Provided Emergncy Preparedness Materials", "Community Outreach", "Community Emergency Management", "CD 8 - in support of Pledge to Prepare Campaign for Houses of Worship", "400", null, null ]
+, [ 17, "3525BE6D-60DC-434B-A64D-B4678C24E4A9", 17, 1407451287, "883728", 1407451287, "883728", "{\n}", "Preparedness Materials Request", "2014-06-03T00:00:00", "Provided Emergncy Preparedness Materials", "Community Outreach", "Community Emergency Management", "CD 15 - Private Residence", "30", null, null ]
+, [ 18, "3BD0D7DD-AC72-45F6-B846-26E3B09EA3E0", 18, 1407451287, "883728", 1407451287, "883728", "{\n}", "First AME Church Emergency Preparedness Meeting", "2014-06-04T00:00:00", "Attended First AME Church Emergncy Preparedness Meeting", "Community Outreach", "Community Emergency Management", "2270 S Harvard Blvd., 90018", null, "1", "15" ]
+, [ 19, "961F582A-FD95-442F-A4E8-A20FA07FF72A", 19, 1407451287, "883728", 1407451287, "883728", "{\n}", "Preparedness Materials Request", "2014-06-05T00:00:00", "Provided Emergncy Preparedness Materials", "Community Outreach", "Community Emergency Management", "Just Detention International, 3325 Wilshire Blvd. Ste 340, LA", "300", null, null ]
+, [ 20, "553D5E54-A383-4941-9EAB-33DA6B40B81C", 20, 1407451287, "883728", 1407451287, "883728", "{\n}", "Trinity Park Community Engagement Fair", "2014-06-14T00:00:00", "Participated in Community Fair with Emergncy Preparedness Materials", "Community Outreach", "Community Emergency Management", "Trinity Park, 2415 S. Trinity St., LA", null, null, "75" ]
+, [ 21, "D5AB2239-9F85-4E2F-9409-129F32D3870C", 21, 1407451287, "883728", 1407451287, "883728", "{\n}", "Churches in Action - Los Angeles", "2014-06-18T00:00:00", "Attended Meeting to discuss EMD's \"Preparing Houses of Worship in LA for Disasters 3 Campaigns\" effort.", "Community Outreach", "Community Emergency Management", "Iglesia Poder de Dios\n6900 S. Hoover St., LA, 90044", null, "1", "20" ]
+, [ 22, "9CCA4F19-ECB2-4C4C-920A-7362DF32E9AC", 22, 1407451287, "883728", 1407451287, "883728", "{\n}", "The Revelation Network (TRN) / FBO Group", "2014-06-18T00:00:00", "Meet to discuss next steps for TRN in their communications role for the FBOs.", "Community Outreach", "Community Emergency Management", "Philadelphia Community Fellowship Church of Gardena", null, "1", "4" ]
+, [ 23, "F4B2BC2B-4C0C-411D-846B-CED520B00CB3", 23, 1407451287, "883728", 1407451287, "883728", "{\n}", "DMD: West", null, null, null, null, null, null, null, null ]
+, [ 24, "32D3B8F5-5172-469B-986B-02B3DB65728D", 24, 1407451287, "883728", 1407451287, "883728", "{\n}", "Mandeville Cyn Exercise", "2014-05-18T00:00:00", "Full Scale Exercise", "Community Outreach", "Community Emergency Management", "Paul Revere Middle School", "600", "1", "500" ]
+, [ 25, "97BD21D9-1D70-4960-9550-2D0B10A440C5", 25, 1407451287, "883728", 1407451287, "883728", "{\n}", "Intl. Lease Finance Corp employee mtg", "2014-05-07T00:00:00", "Presentation", "Community Outreach", "Community Emergency Management", "10250 Constellation Blvd., Suite 3400 Los Angeles, CA 90067", "100", "1", "50" ]
+, [ 26, "DBC50F6D-6FA8-4B0F-94DD-D869BF5638A0", 26, 1407451287, "883728", 1407451287, "883728", "{\n}", "Presentation at Sinai Temple Sisterhood", "2014-05-06T00:00:00", "Presentation", "Community Outreach", "Community Emergency Management", "10400 Wilshire Blvd, Los Angeles CA 90024", "50", "1", "25" ]
+, [ 27, "C31C0CEE-EE52-4262-B1FC-34AD8035F1CB", 27, 1407451287, "883728", 1407451287, "883728", "{\n}", "CD 10 Office", "2014-04-21T00:00:00", "Brochures", "Community Outreach", "Community Emergency Management", "City Hall", "250", null, "1" ]
+, [ 28, "0C2B02C8-2948-4603-9BD1-3CB1BB6760F6", 28, 1407451287, "883728", 1407451287, "883728", "{\n}", "Brentwood HOA", "2014-04-16T00:00:00", "Brochures", "Community Outreach", "Community Emergency Management", "Brentwood", "200", null, "1" ]
+, [ 29, "4F6A6BCB-6F25-4A29-B3B5-976C29865EBD", 29, 1407451287, "883728", 1407451287, "883728", "{\n}", "Mitch O'Farrell's Field Office", "2016-04-01T00:00:00", "Brochures", "Community Outreach", "Community Emergency Management", "West LA", "500", null, "1" ]
+, [ 30, "6D78CEA2-5AE6-4CBB-8276-1A5404260E72", 30, 1407451287, "883728", 1407451287, "883728", "{\n}", "DMD: CENTRAL", null, null, null, null, null, null, null, null ]
+, [ 31, "1EBB1AB3-80D2-4389-A9E5-B43070E1D4A7", 31, 1407451287, "883728", 1407451287, "883728", "{\n}", "El Pueblo Health Expo", "2014-04-11T00:00:00", "Participated in Community Fair with Emergncy Preparedness Materials", "Community Outreach", "Community Emergency Management", "El Pueblo, Los Angeles", "600", null, "300" ]
+, [ 32, "0DB1DC56-612C-4CFF-93EE-4CEF1567989E", 32, 1407451287, "883728", 1407451287, "883728", "{\n}", "CBRE Employee Health & Safety Fair", "2014-04-30T00:00:00", "Participated in Community Fair with Emergncy Preparedness Materials", "Community Outreach", "Community Emergency Management", "400 S. Hope St., Los Angeles", "200", null, "200" ]
+, [ 33, "F2A49D83-5C3E-40E3-86ED-23E0BD2DAE0F", 33, 1407451287, "883728", 1407451287, "883728", "{\n}", "United American Indian Involvement Expo", "2014-05-27T00:00:00", "Participated in Community Fair with Emergncy Preparedness Materials", "Community Outreach", "Community Emergency Management", "1125 W. 6th Street, Los Angeles", "200", null, "200" ]
+, [ 34, "A14CB84D-A89A-4F30-8122-0D02592A4936", 34, 1407451287, "883728", 1407451287, "883728", "{\n}", "Skid Row Disaster Planning Collaborative", "2014-06-30T00:00:00", "Meeting", "Community Outreach", "Community Emergency Management", "Downtown Women's Center", "0", "1", "10" ]
+, [ 35, "2D504540-2A35-4101-B87E-D8825891FC42", 35, 1407451287, "883728", 1407451287, "883728", "{\n}", "ARC Disaster Symposium", "2014-06-03T00:00:00", "Business Outreach", "Community Outreach", "Community Emergency Management", "LA Times Building", "100", "1", "100" ]
+, [ 36, "C2211BA6-A3A7-4284-A52F-9A9E5F379378", 36, 1407451287, "883728", 1407451287, "883728", "{\n}", "DMD: Valley", null, null, null, null, null, null, null, null ]
+, [ 37, "F524E61E-5AEF-4777-AE06-F8D904ABF2AA", 37, 1407451287, "883728", 1407451287, "883728", "{\n}", "Community Presentation", "2014-04-22T00:00:00", "Presentation", "Community Outreach", "Community Emergency Management", "M Street Coffee: 13251 Moorpark St, Sherman Oaks, CA 91423", "300", "1", "75" ]
+, [ 38, "6C9638F9-0202-4626-B9D1-EA9E9DDCA8B5", 38, 1407451287, "883728", 1407451287, "883728", "{\n  \"invalidCells\" : {\n    \"21269572\" : \"N/A\"\n  }\n}", "EP Material Pick-up", "2014-04-25T00:00:00", "Publications", "Community Outreach", "Community Emergency Management", "Van Nuys / Mission Hills", "1000", null, null ]
+, [ 39, "78437FF8-253B-468E-B3EE-31E4AAE5FB3B", 39, 1407451287, "883728", 1407451287, "883728", "{\n  \"invalidCells\" : {\n    \"21269572\" : \"N/A\"\n  }\n}", "EP Material Pick-up", "2014-04-30T00:00:00", "Publications", "Community Outreach", "Community Emergency Management", "Council District 4", "3000", null, null ]
+, [ 40, "68F05979-8699-4850-9146-BD4F085C696B", 40, 1407451287, "883728", 1407451287, "883728", "{\n}", "Community Presentation", "2014-05-27T00:00:00", "Presentation", "Community Outreach", "Community Emergency Management", "United American Indian", "150", "1", "55" ]
+, [ 41, "801FE830-EADE-4664-9A4A-EF6B466EA569", 41, 1407451287, "883728", 1407451287, "883728", "{\n}", "Booth", "2014-06-21T00:00:00", "Publications", "Community Outreach", "Community Emergency Management", "Hansen Dam, Lake View Terrace", "10000", null, "3000" ]
+, [ 42, "1E8C8740-AB05-404F-B076-0B0AF771C213", 42, 1407451287, "883728", 1407451287, "883728", "{\n}", "SOS Survival Community Outreach Event", "2014-06-04T00:00:00", "Brochures", "Community Outreach", "Community Emergency Management", "15705 Strathern St, Van Nuys, CA 91406", "500", null, "1" ]
+, [ 43, "3CC4D22D-8EE9-493B-B7A3-923BD31AC24D", 43, 1407451287, "883728", 1407451287, "883728", "{\n}", "Emergency Prep Kit Checklist Brochures", "2014-05-07T00:00:00", "Brochures", "Community Outreach", "Community Emergency Management", "9300 Laurel Cyn, 2nd Floor", "75", null, null ]
+, [ 44, "E8D606D8-57DC-4F08-B75A-0BB5751C364B", 44, 1407451287, "883728", 1407451287, "883728", "{\n}", "Tarzana NC Meeting", "2014-06-24T00:00:00", "Presentation", "Community Outreach", "Community Emergency Management", "Sun Valley, CA 91352", "50", "1", null ]
+ ]
+}

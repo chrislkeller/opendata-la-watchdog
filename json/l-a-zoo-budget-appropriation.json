@@ -1,0 +1,222 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "jpdu-8y8k",
+      "name" : "L.A. Zoo Budget Appropriation",
+      "averageRating" : 0,
+      "createdAt" : 1401469297,
+      "description" : "L.A. Zoo budget appropriation for the last 5 years.",
+      "displayType" : "table",
+      "downloadCount" : 4,
+      "indexUpdatedAt" : 1414616114,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8108796,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401486403,
+      "publicationGroup" : 1600279,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1401486318,
+      "rowsUpdatedBy" : "uypn-9feh",
+      "tableId" : 1600569,
+      "totalTimesRated" : 0,
+      "viewCount" : 63,
+      "viewLastModified" : 1401486403,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150661624,
+        "name" : "Fiscal Year",
+        "dataTypeName" : "text",
+        "fieldName" : "fiscal_year",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20018276,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "2008-09",
+          "null" : 0,
+          "largest" : "2012-13",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2012-13"
+          }, {
+            "count" : 19,
+            "item" : "2011-12"
+          }, {
+            "count" : 18,
+            "item" : "2010-11"
+          }, {
+            "count" : 17,
+            "item" : "2009-10"
+          }, {
+            "count" : 16,
+            "item" : "2008-09"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150661625,
+        "name" : "Budget Appropriation",
+        "dataTypeName" : "money",
+        "fieldName" : "budget_appropriation",
+        "position" : 2,
+        "renderTypeName" : "money",
+        "tableColumnId" : 20018286,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "17483062",
+          "sum" : "90621206",
+          "null" : 0,
+          "average" : "18124241.2",
+          "largest" : "19329046",
+          "top" : [ {
+            "count" : 20,
+            "item" : "17561531"
+          }, {
+            "count" : 19,
+            "item" : "17986055"
+          }, {
+            "count" : 18,
+            "item" : "17483062"
+          }, {
+            "count" : 17,
+            "item" : "18261512"
+          }, {
+            "count" : 16,
+            "item" : "19329046"
+          } ]
+        },
+        "format" : {
+          "humane" : "false",
+          "currency" : "USD",
+          "align" : "right"
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Other"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "page" : true,
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "uypn-9feh",
+        "displayName" : "LA Zoo OpenData",
+        "profileImageUrlLarge" : "/images/profile/6521/9016/OpenData_Zoologo_220x220_large.gif",
+        "profileImageUrlMedium" : "/images/profile/6521/9016/OpenData_Zoologo_220x220_thumb.gif",
+        "profileImageUrlSmall" : "/images/profile/6521/9016/OpenData_Zoologo_220x220_tiny.gif",
+        "roleName" : "editor",
+        "screenName" : "LA Zoo OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "uypn-9feh",
+        "displayName" : "LA Zoo OpenData",
+        "profileImageUrlLarge" : "/images/profile/6521/9016/OpenData_Zoologo_220x220_large.gif",
+        "profileImageUrlMedium" : "/images/profile/6521/9016/OpenData_Zoologo_220x220_thumb.gif",
+        "profileImageUrlSmall" : "/images/profile/6521/9016/OpenData_Zoologo_220x220_tiny.gif",
+        "roleName" : "editor",
+        "screenName" : "LA Zoo OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "zoo", "attendance", "recreation", "attraction", "park", "animals", "visitor", "school", "camp", "membership", "ticket", "budget", "money", "appropriation" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "08B3A46A-8A04-44EB-99D5-923936173C46", 1, 1401469405, "883859", 1401486212, "883859", "{}", "2012-13", "17561531" ]
+, [ 2, "B915D0F0-5093-46E0-87EE-683C1622B5C8", 2, 1401469414, "883859", 1401486251, "883859", "{}", "2011-12", "17986055" ]
+, [ 3, "D54C2D80-EFBD-4F57-B187-3E274DF77CD2", 3, 1401469430, "883859", 1401486278, "883859", "{}", "2010-11", "17483062" ]
+, [ 4, "6C44FD60-CA78-4BFF-AA02-C2E501AC1737", 4, 1401469452, "883859", 1401486308, "883859", "{}", "2009-10", "18261512" ]
+, [ 5, "F3ED2BEB-E558-4C7E-B691-CB96C55D5360", 5, 1401469459, "883859", 1401486317, "883859", "{}", "2008-09", "19329046" ]
+ ]
+}

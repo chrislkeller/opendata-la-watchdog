@@ -1,0 +1,264 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "m5ec-bb8m",
+      "name" : "LADWP Solar Interconnection Time",
+      "attribution" : "LADWP",
+      "averageRating" : 0,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1400886951,
+      "description" : "The average amount of days to interconnect solar panels",
+      "displayType" : "table",
+      "downloadCount" : 10,
+      "indexUpdatedAt" : 1414615123,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8060245,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1400887123,
+      "publicationGroup" : 1593194,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1400886956,
+      "rowsUpdatedBy" : "7q7s-tyf3",
+      "tableId" : 1593194,
+      "totalTimesRated" : 0,
+      "viewCount" : 40,
+      "viewLastModified" : 1401233273,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 149729065,
+        "name" : "Quarter-Year",
+        "dataTypeName" : "text",
+        "fieldName" : "quarter_year",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19909970,
+        "width" : 244,
+        "cachedContents" : {
+          "non_null" : 13,
+          "smallest" : "Q1-2011",
+          "null" : 0,
+          "largest" : "Q4-2013",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Q1-2011"
+          }, {
+            "count" : 19,
+            "item" : "Q2-2011"
+          }, {
+            "count" : 18,
+            "item" : "Q3-2011"
+          }, {
+            "count" : 17,
+            "item" : "Q4-2011"
+          }, {
+            "count" : 16,
+            "item" : "Q1-2012"
+          }, {
+            "count" : 15,
+            "item" : "Q2-2012"
+          }, {
+            "count" : 14,
+            "item" : "Q3-2012"
+          }, {
+            "count" : 13,
+            "item" : "Q4-2012"
+          }, {
+            "count" : 12,
+            "item" : "Q1-2013"
+          }, {
+            "count" : 11,
+            "item" : "Q2-2013"
+          }, {
+            "count" : 10,
+            "item" : "Q3-2013"
+          }, {
+            "count" : 9,
+            "item" : "Q4-2013"
+          }, {
+            "count" : 8,
+            "item" : "Q1-2014"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149729066,
+        "name" : "Avg Interconnect Time (days)",
+        "dataTypeName" : "number",
+        "fieldName" : "avg_interconnect_time_days",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19909971,
+        "width" : 436,
+        "cachedContents" : {
+          "non_null" : 13,
+          "smallest" : "16",
+          "sum" : "416",
+          "null" : 0,
+          "average" : "32",
+          "largest" : "59",
+          "top" : [ {
+            "count" : 20,
+            "item" : "52"
+          }, {
+            "count" : 19,
+            "item" : "59"
+          }, {
+            "count" : 18,
+            "item" : "33"
+          }, {
+            "count" : 17,
+            "item" : "23"
+          }, {
+            "count" : 16,
+            "item" : "24"
+          }, {
+            "count" : 15,
+            "item" : "20"
+          }, {
+            "count" : 14,
+            "item" : "51"
+          }, {
+            "count" : 13,
+            "item" : "40"
+          }, {
+            "count" : 12,
+            "item" : "25"
+          }, {
+            "count" : 11,
+            "item" : "16"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "LADWP"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "hb8e-gdsp",
+        "displayName" : "LA DWP OpenData",
+        "profileImageUrlLarge" : "/images/profile/5225/6660/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5225/6660/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5225/6660/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LA DWP OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "7q7s-tyf3",
+        "displayName" : "Steve Baule",
+        "roleName" : "editor",
+        "screenName" : "Steve Baule",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "solar panels", "interconnection" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "0CC64D09-C3E8-41DF-8F8E-5EECDE5CBA21", 1, 1400886953, "877550", 1400886953, "877550", "{\n}", "Q1-2011", "52" ]
+, [ 2, "7B0074C0-31AD-4970-9B91-058AA33D5B9D", 2, 1400886953, "877550", 1400886953, "877550", "{\n}", "Q2-2011", "59" ]
+, [ 3, "924D5E29-50A5-4FB5-BAFE-FE2E7BA7F2D1", 3, 1400886953, "877550", 1400886953, "877550", "{\n}", "Q3-2011", "33" ]
+, [ 4, "53992BEA-B223-4668-927C-F71E4DFB265B", 4, 1400886953, "877550", 1400886953, "877550", "{\n}", "Q4-2011", "33" ]
+, [ 5, "51A753D6-9C00-48B4-B5E6-9CDC9A6780BA", 5, 1400886953, "877550", 1400886953, "877550", "{\n}", "Q1-2012", "23" ]
+, [ 6, "162BE412-4911-4FC1-B43F-ACDA2311BB58", 6, 1400886953, "877550", 1400886953, "877550", "{\n}", "Q2-2012", "24" ]
+, [ 7, "E84C18F2-A647-4A1C-8F3A-A24A452EAF7D", 7, 1400886953, "877550", 1400886953, "877550", "{\n}", "Q3-2012", "20" ]
+, [ 8, "AB35D98B-889E-42BE-BC24-D50F44C48C1C", 8, 1400886953, "877550", 1400886953, "877550", "{\n}", "Q4-2012", "51" ]
+, [ 9, "CEB3F3D2-57F3-4252-8FD8-10D5D0EBAA3A", 9, 1400886953, "877550", 1400886953, "877550", "{\n}", "Q1-2013", "40" ]
+, [ 10, "5EBE8F80-2C58-45BC-8DE0-FD0631FE3066", 10, 1400886953, "877550", 1400886953, "877550", "{\n}", "Q2-2013", "25" ]
+, [ 11, "0E3798B9-4356-4E52-A9CD-034E9CB9E5B7", 11, 1400886953, "877550", 1400886953, "877550", "{\n}", "Q3-2013", "20" ]
+, [ 12, "5860CC90-89B0-4B8D-AE24-13F5D8E729DE", 12, 1400886953, "877550", 1400886953, "877550", "{\n}", "Q4-2013", "20" ]
+, [ 13, "181EEB04-1C68-4669-B031-905F12F41097", 13, 1400886953, "877550", 1400886953, "877550", "{\n}", "Q1-2014", "16" ]
+ ]
+}

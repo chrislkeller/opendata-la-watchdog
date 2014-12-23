@@ -1,0 +1,258 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "a6cj-i5wu",
+      "name" : "Employer Contrib",
+      "averageRating" : 0,
+      "category" : "A Well Run City",
+      "createdAt" : 1400884678,
+      "description" : "Employer Contributions",
+      "displayType" : "table",
+      "downloadCount" : 10,
+      "indexUpdatedAt" : 1414616253,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8060149,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1400884728,
+      "publicationGroup" : 1593160,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1400884684,
+      "rowsUpdatedBy" : "sgjw-6a7f",
+      "tableId" : 1593160,
+      "totalTimesRated" : 0,
+      "viewCount" : 33,
+      "viewLastModified" : 1404149096,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 149728098,
+        "name" : "Fiscal Year Ending",
+        "dataTypeName" : "text",
+        "fieldName" : "fiscal_year_ending",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19909719,
+        "width" : 316,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "2010",
+          "null" : 0,
+          "largest" : "2014",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2010"
+          }, {
+            "count" : 19,
+            "item" : "2011"
+          }, {
+            "count" : 18,
+            "item" : "2012"
+          }, {
+            "count" : 17,
+            "item" : "2013"
+          }, {
+            "count" : 16,
+            "item" : "2014"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149728099,
+        "name" : "Employer Contributions ($)",
+        "dataTypeName" : "money",
+        "fieldName" : "employer_contributions_1",
+        "position" : 3,
+        "renderTypeName" : "money",
+        "tableColumnId" : 19909720,
+        "width" : 412,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "355406862.00",
+          "sum" : "2266125165.00",
+          "null" : 0,
+          "average" : "453225033.00",
+          "largest" : "575941380.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "355406862.00"
+          }, {
+            "count" : 19,
+            "item" : "387012932.00"
+          }, {
+            "count" : 18,
+            "item" : "441872717.00"
+          }, {
+            "count" : 17,
+            "item" : "505891274.00"
+          }, {
+            "count" : 16,
+            "item" : "575941380.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149728100,
+        "name" : "Employer Contributions (%)",
+        "dataTypeName" : "percent",
+        "fieldName" : "employer_contributions_2",
+        "position" : 4,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 19909721,
+        "width" : 412,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "28.30",
+          "sum" : "181.30",
+          "null" : 0,
+          "average" : "36.26",
+          "largest" : "44.40",
+          "top" : [ {
+            "count" : 20,
+            "item" : "28.30"
+          }, {
+            "count" : 19,
+            "item" : "31.20"
+          }, {
+            "count" : 18,
+            "item" : "37.50"
+          }, {
+            "count" : 17,
+            "item" : "39.90"
+          }, {
+            "count" : 16,
+            "item" : "44.40"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Fire and Police Pensions"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "sgjw-6a7f",
+        "displayName" : "Fire & Police Pensions OpenData",
+        "profileImageUrlLarge" : "/images/profile/6087/9135/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/6087/9135/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/6087/9135/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Fire & Police Pensions OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "sgjw-6a7f",
+        "displayName" : "Fire & Police Pensions OpenData",
+        "profileImageUrlLarge" : "/images/profile/6087/9135/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/6087/9135/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/6087/9135/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Fire & Police Pensions OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "employer contribution" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "53EF138B-DBBF-4181-8413-0EB92EB3DCCD", 1, 1400884681, "883864", 1400884681, "883864", "{\n}", "2010", "355406862.00", "28.30" ]
+, [ 2, "6734AC0E-0D99-42F2-B4C4-1F8FF1F9C7C0", 2, 1400884681, "883864", 1400884681, "883864", "{\n}", "2011", "387012932.00", "31.20" ]
+, [ 3, "BCBEE75B-573E-49CE-8E28-A3FA5A8921CE", 3, 1400884681, "883864", 1400884681, "883864", "{\n}", "2012", "441872717.00", "37.50" ]
+, [ 4, "08C427FA-6C75-4CEF-B328-E625C45C9A46", 4, 1400884681, "883864", 1400884681, "883864", "{\n}", "2013", "505891274.00", "39.90" ]
+, [ 5, "A9CAA38D-D0F9-4094-BB0E-1A34A422CC5B", 5, 1400884681, "883864", 1400884681, "883864", "{\n}", "2014", "575941380.00", "44.40" ]
+ ]
+}

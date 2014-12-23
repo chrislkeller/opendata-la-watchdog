@@ -1,0 +1,524 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "2xwp-pqjt",
+      "name" : "Property Tax Levies and Collections",
+      "attribution" : "Office of the Controller, City of Los Angeles",
+      "attributionLink" : "http://controller.lacity.org/stellent/groups/ElectedOfficials/@CTR_Contributor/documents/Contributor_Web_Content/LACITYP_027750.pdf#page=389",
+      "averageRating" : 0,
+      "category" : "Revenue",
+      "createdAt" : 1390283191,
+      "description" : "CAFR Page 346.\r\n\r\nLast Ten Fiscal Years (amounts expressed in thousands).",
+      "displayType" : "table",
+      "downloadCount" : 10,
+      "indexUpdatedAt" : 1414613954,
+      "licenseId" : "PUBLIC_DOMAIN",
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 7442610,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1393554551,
+      "publicationGroup" : 1447975,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1393554441,
+      "rowsUpdatedBy" : "7c7a-resi",
+      "tableId" : 1492311,
+      "totalTimesRated" : 0,
+      "viewCount" : 92,
+      "viewLastModified" : 1412745283,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 135632898,
+        "name" : "Fiscal Year",
+        "dataTypeName" : "number",
+        "fieldName" : "fiscal_year",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17695186,
+        "width" : 76,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "2004",
+          "sum" : "20085",
+          "null" : 0,
+          "average" : "2008.5",
+          "largest" : "2013",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2004"
+          }, {
+            "count" : 19,
+            "item" : "2005"
+          }, {
+            "count" : 18,
+            "item" : "2006"
+          }, {
+            "count" : 17,
+            "item" : "2007"
+          }, {
+            "count" : 16,
+            "item" : "2008"
+          }, {
+            "count" : 15,
+            "item" : "2009"
+          }, {
+            "count" : 14,
+            "item" : "2010"
+          }, {
+            "count" : 13,
+            "item" : "2011"
+          }, {
+            "count" : 12,
+            "item" : "2012"
+          }, {
+            "count" : 11,
+            "item" : "2013"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "true",
+          "align" : "right"
+        }
+      }, {
+        "id" : 135632899,
+        "name" : "Total Tax Levy for the Fiscal Year",
+        "dataTypeName" : "money",
+        "fieldName" : "total_tax_levy_for_the_fiscal_year",
+        "position" : 2,
+        "renderTypeName" : "money",
+        "tableColumnId" : 17695187,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "673417",
+          "sum" : "9015549",
+          "null" : 0,
+          "average" : "901554.9",
+          "largest" : "1025057",
+          "top" : [ {
+            "count" : 20,
+            "item" : "673417"
+          }, {
+            "count" : 19,
+            "item" : "730495"
+          }, {
+            "count" : 18,
+            "item" : "784864"
+          }, {
+            "count" : 17,
+            "item" : "862415"
+          }, {
+            "count" : 16,
+            "item" : "935881"
+          }, {
+            "count" : 15,
+            "item" : "1008578"
+          }, {
+            "count" : 14,
+            "item" : "1009256"
+          }, {
+            "count" : 13,
+            "item" : "984897"
+          }, {
+            "count" : 12,
+            "item" : "1000689"
+          }, {
+            "count" : 11,
+            "item" : "1025057"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 135632900,
+        "name" : "Amount Collected within the Fiscal Year",
+        "dataTypeName" : "money",
+        "fieldName" : "amount_collected_within_the_fiscal_year",
+        "position" : 3,
+        "renderTypeName" : "money",
+        "tableColumnId" : 17695188,
+        "width" : 166,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "645697",
+          "sum" : "8513457",
+          "null" : 0,
+          "average" : "851345.7",
+          "largest" : "1010830",
+          "top" : [ {
+            "count" : 20,
+            "item" : "645697"
+          }, {
+            "count" : 19,
+            "item" : "688993"
+          }, {
+            "count" : 18,
+            "item" : "708009"
+          }, {
+            "count" : 17,
+            "item" : "814880"
+          }, {
+            "count" : 16,
+            "item" : "872254"
+          }, {
+            "count" : 15,
+            "item" : "948294"
+          }, {
+            "count" : 14,
+            "item" : "947165"
+          }, {
+            "count" : 13,
+            "item" : "941070"
+          }, {
+            "count" : 12,
+            "item" : "936265"
+          }, {
+            "count" : 11,
+            "item" : "1010830"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 135632901,
+        "name" : "% Collected within the Fiscal Year",
+        "dataTypeName" : "percent",
+        "fieldName" : "pct_collected_within_the_fiscal_year",
+        "position" : 4,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 17695189,
+        "width" : 145,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "90.21",
+          "sum" : "943.69",
+          "null" : 0,
+          "average" : "94.369",
+          "largest" : "98.61",
+          "top" : [ {
+            "count" : 20,
+            "item" : "95.88"
+          }, {
+            "count" : 19,
+            "item" : "94.32"
+          }, {
+            "count" : 18,
+            "item" : "90.21"
+          }, {
+            "count" : 17,
+            "item" : "94.49"
+          }, {
+            "count" : 16,
+            "item" : "93.20"
+          }, {
+            "count" : 15,
+            "item" : "94.02"
+          }, {
+            "count" : 14,
+            "item" : "93.85"
+          }, {
+            "count" : 13,
+            "item" : "95.55"
+          }, {
+            "count" : 12,
+            "item" : "93.56"
+          }, {
+            "count" : 11,
+            "item" : "98.61"
+          } ]
+        },
+        "format" : {
+          "view" : "percent_bar_and_text",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      }, {
+        "id" : 135632902,
+        "name" : "Collections in Subsequent Years",
+        "dataTypeName" : "money",
+        "fieldName" : "collections_in_subsequent_years",
+        "position" : 5,
+        "renderTypeName" : "money",
+        "tableColumnId" : 17695190,
+        "width" : 109,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "27328",
+          "sum" : "611365",
+          "null" : 0,
+          "average" : "61136.5",
+          "largest" : "110519",
+          "top" : [ {
+            "count" : 20,
+            "item" : "27328"
+          }, {
+            "count" : 19,
+            "item" : "30932"
+          }, {
+            "count" : 18,
+            "item" : "45693"
+          }, {
+            "count" : 17,
+            "item" : "80748"
+          }, {
+            "count" : 16,
+            "item" : "64845"
+          }, {
+            "count" : 15,
+            "item" : "110519"
+          }, {
+            "count" : 14,
+            "item" : "86089"
+          }, {
+            "count" : 13,
+            "item" : "73905"
+          }, {
+            "count" : 12,
+            "item" : "30763"
+          }, {
+            "count" : 11,
+            "item" : "60543"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 135632903,
+        "name" : "Amount Collected to Date",
+        "dataTypeName" : "money",
+        "fieldName" : "amount_collected_to_date",
+        "position" : 6,
+        "renderTypeName" : "money",
+        "tableColumnId" : 17695191,
+        "width" : 125,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "673025",
+          "sum" : "9124822",
+          "null" : 0,
+          "average" : "912482.2",
+          "largest" : "1071373",
+          "top" : [ {
+            "count" : 20,
+            "item" : "673025"
+          }, {
+            "count" : 19,
+            "item" : "719925"
+          }, {
+            "count" : 18,
+            "item" : "753702"
+          }, {
+            "count" : 17,
+            "item" : "895628"
+          }, {
+            "count" : 16,
+            "item" : "937099"
+          }, {
+            "count" : 15,
+            "item" : "1058813"
+          }, {
+            "count" : 14,
+            "item" : "1033254"
+          }, {
+            "count" : 13,
+            "item" : "1014975"
+          }, {
+            "count" : 12,
+            "item" : "967028"
+          }, {
+            "count" : 11,
+            "item" : "1071373"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 135632904,
+        "name" : "% Collected to Date",
+        "dataTypeName" : "percent",
+        "fieldName" : "pct_collected_to_date",
+        "position" : 7,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 17695192,
+        "width" : 153,
+        "cachedContents" : {
+          "non_null" : 10,
+          "smallest" : "96.03",
+          "sum" : "1010.07",
+          "null" : 0,
+          "average" : "101.007",
+          "largest" : "104.98",
+          "top" : [ {
+            "count" : 20,
+            "item" : "99.94"
+          }, {
+            "count" : 19,
+            "item" : "98.55"
+          }, {
+            "count" : 18,
+            "item" : "96.03"
+          }, {
+            "count" : 17,
+            "item" : "103.85"
+          }, {
+            "count" : 16,
+            "item" : "100.13"
+          }, {
+            "count" : 15,
+            "item" : "104.98"
+          }, {
+            "count" : 14,
+            "item" : "102.38"
+          }, {
+            "count" : 13,
+            "item" : "103.05"
+          }, {
+            "count" : 12,
+            "item" : "96.64"
+          }, {
+            "count" : 11,
+            "item" : "104.52"
+          } ]
+        },
+        "format" : {
+          "view" : "percent_bar_and_text",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Public Domain"
+      },
+      "metadata" : {
+        "custom_fields" : {
+          "Department" : {
+            "Division" : "GAAP",
+            "Department" : "Controller",
+            "System" : "CAFR"
+          },
+          "Update Information" : {
+            "Update Cycle" : "Annual"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "7c7a-resi",
+        "displayName" : "Controller's Office",
+        "roleName" : "administrator",
+        "screenName" : "Controller's Office",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "7c7a-resi",
+        "displayName" : "Controller's Office",
+        "roleName" : "administrator",
+        "screenName" : "Controller's Office",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "tags" : [ "revenue", "taxes", "city of los angeles", "city of los angeles controller", "city of la", "city of la controller", "ron galperin", "comprehensive annual financial report", "cafr", "net position", "asset type", "asset type group", "activity type", "cafr statistical section" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "E921CA1D-F8F4-411E-90E0-4E5F9A03D4E0", 1, 1390283196, "862121", 1392837138, "862121", null, "2004", "673417", "645697", "95.88", "27328", "673025", "99.94" ]
+, [ 2, "02DA819F-F429-47B5-8EEF-2E8047E58DEC", 2, 1390283196, "862121", 1392837141, "862121", null, "2005", "730495", "688993", "94.32", "30932", "719925", "98.55" ]
+, [ 3, "7264C99E-59C0-41D9-8E25-AFC8E3EE1041", 3, 1390283196, "862121", 1392837144, "862121", null, "2006", "784864", "708009", "90.21", "45693", "753702", "96.03" ]
+, [ 4, "CA5F8C55-3381-4849-8B8E-3CDC4B55370F", 4, 1390283196, "862121", 1392837148, "862121", null, "2007", "862415", "814880", "94.49", "80748", "895628", "103.85" ]
+, [ 5, "7B768749-9FFB-4FDF-9240-09FC8B43ED34", 5, 1390283196, "862121", 1392837150, "862121", null, "2008", "935881", "872254", "93.20", "64845", "937099", "100.13" ]
+, [ 6, "F19A6D67-6492-4A15-89B3-FB5799503272", 6, 1390283196, "862121", 1392837153, "862121", null, "2009", "1008578", "948294", "94.02", "110519", "1058813", "104.98" ]
+, [ 7, "5757889C-1234-4B83-AE7D-D7F5246D0D84", 7, 1390283196, "862121", 1392837155, "862121", null, "2010", "1009256", "947165", "93.85", "86089", "1033254", "102.38" ]
+, [ 8, "650E6F2B-CD0D-4C54-9B4E-AF28032CA3B6", 8, 1390283196, "862121", 1392837164, "862121", null, "2011", "984897", "941070", "95.55", "73905", "1014975", "103.05" ]
+, [ 9, "1FDA511A-E685-4AD5-9DB6-0AEE714D7D9A", 9, 1390283196, "862121", 1392837167, "862121", null, "2012", "1000689", "936265", "93.56", "30763", "967028", "96.64" ]
+, [ 10, "F2FADAD6-D033-4AE5-A2A1-FC21EF8EE8DB", 10, 1390283196, "862121", 1392837171, "862121", null, "2013", "1025057", "1010830", "98.61", "60543", "1071373", "104.52" ]
+ ]
+}

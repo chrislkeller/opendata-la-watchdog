@@ -1,0 +1,317 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "aiix-duyv",
+      "name" : "POLA - Emissions Reduction Percentage",
+      "averageRating" : 0,
+      "createdAt" : 1401488573,
+      "description" : "This table reports emissions from Port operations in oxides of nitrogen (NOx), Oxides of Sulfur (SOx), and Diesel Particulate Matter (DPM); emissions impact health and quality of life in the Port-adjacent communities. Source: POLA Annual emissions inventory (for Port reductions)",
+      "displayType" : "table",
+      "downloadCount" : 0,
+      "indexUpdatedAt" : 1414612801,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8108962,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401488649,
+      "publicationGroup" : 1600635,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1401488587,
+      "rowsUpdatedBy" : "ddg3-br68",
+      "tableId" : 1600635,
+      "totalTimesRated" : 0,
+      "viewCount" : 12,
+      "viewLastModified" : 1402585886,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150663525,
+        "name" : "Date Name",
+        "dataTypeName" : "text",
+        "fieldName" : "date_name",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20022342,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "2005",
+          "null" : 0,
+          "largest" : "2012",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2005"
+          }, {
+            "count" : 19,
+            "item" : "2006"
+          }, {
+            "count" : 18,
+            "item" : "2007"
+          }, {
+            "count" : 17,
+            "item" : "2008"
+          }, {
+            "count" : 16,
+            "item" : "2009"
+          }, {
+            "count" : 15,
+            "item" : "2010"
+          }, {
+            "count" : 14,
+            "item" : "2011"
+          }, {
+            "count" : 13,
+            "item" : "2012"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150663526,
+        "name" : "NOx % Change since 2005",
+        "dataTypeName" : "percent",
+        "fieldName" : "nox_change_since_2005",
+        "position" : 2,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 20022343,
+        "width" : 376,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : "-56.1",
+          "sum" : "-186.1",
+          "null" : 1,
+          "average" : "-26.58571428571429",
+          "largest" : "13.2",
+          "top" : [ {
+            "count" : 20,
+            "item" : "13.2"
+          }, {
+            "count" : 19,
+            "item" : "0.3"
+          }, {
+            "count" : 18,
+            "item" : "-8"
+          }, {
+            "count" : 17,
+            "item" : "-33.7"
+          }, {
+            "count" : 16,
+            "item" : "-50.2"
+          }, {
+            "count" : 15,
+            "item" : "-51.6"
+          }, {
+            "count" : 14,
+            "item" : "-56.1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150663527,
+        "name" : "SOx % Change since 2005",
+        "dataTypeName" : "percent",
+        "fieldName" : "sox_change_since_2005",
+        "position" : 3,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 20022344,
+        "width" : 376,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : "-88.1",
+          "sum" : "-350.0",
+          "null" : 1,
+          "average" : "-50.0",
+          "largest" : "7.6",
+          "top" : [ {
+            "count" : 20,
+            "item" : "7.6"
+          }, {
+            "count" : 19,
+            "item" : "-36.2"
+          }, {
+            "count" : 18,
+            "item" : "-28.4"
+          }, {
+            "count" : 17,
+            "item" : "-54.1"
+          }, {
+            "count" : 16,
+            "item" : "-75.1"
+          }, {
+            "count" : 15,
+            "item" : "-75.7"
+          }, {
+            "count" : 14,
+            "item" : "-88.1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150663528,
+        "name" : "DPM % Change since 2005",
+        "dataTypeName" : "percent",
+        "fieldName" : "dpm_change_since_2005",
+        "position" : 4,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 20022345,
+        "width" : 376,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : "-79.2",
+          "sum" : "-314.1",
+          "null" : 1,
+          "average" : "-44.87142857142857",
+          "largest" : "6.3",
+          "top" : [ {
+            "count" : 20,
+            "item" : "6.3"
+          }, {
+            "count" : 19,
+            "item" : "-29.6"
+          }, {
+            "count" : 18,
+            "item" : "-22.1"
+          }, {
+            "count" : 17,
+            "item" : "-49.7"
+          }, {
+            "count" : 16,
+            "item" : "-68.9"
+          }, {
+            "count" : 15,
+            "item" : "-70.9"
+          }, {
+            "count" : 14,
+            "item" : "-79.2"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "2ib6-ssvz",
+        "displayName" : "Port of Los Angeles",
+        "profileImageUrlLarge" : "/images/profile/9654/0122/POLALogo2_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9654/0122/POLALogo2_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9654/0122/POLALogo2_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Port of Los Angeles",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "2ib6-ssvz",
+        "displayName" : "Port of Los Angeles",
+        "profileImageUrlLarge" : "/images/profile/9654/0122/POLALogo2_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9654/0122/POLALogo2_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9654/0122/POLALogo2_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Port of Los Angeles",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "4681B1B4-B345-46B2-8925-D1E8FFE1B39D", 1, 1401488579, "882858", 1401488579, "882858", "{\n}", "2005", null, null, null ]
+, [ 2, "F9DC6FB0-3B1A-4436-AE65-0897C10E0C28", 2, 1401488579, "882858", 1401488579, "882858", "{\n}", "2006", "13.2", "7.6", "6.3" ]
+, [ 3, "BBB45884-9682-4AE2-B68A-AC7D74423FDD", 3, 1401488579, "882858", 1401488579, "882858", "{\n}", "2007", "0.3", "-36.2", "-29.6" ]
+, [ 4, "F91AFD69-5C90-47F1-A7E4-58013897345A", 4, 1401488579, "882858", 1401488579, "882858", "{\n}", "2008", "-8", "-28.4", "-22.1" ]
+, [ 5, "ABAFEF8F-A369-4B98-A897-6C2B2B6C1854", 5, 1401488579, "882858", 1401488579, "882858", "{\n}", "2009", "-33.7", "-54.1", "-49.7" ]
+, [ 6, "CFAD7AF5-263E-49A4-85F1-24C9B38C22C2", 6, 1401488579, "882858", 1401488579, "882858", "{\n}", "2010", "-50.2", "-75.1", "-68.9" ]
+, [ 7, "3346F606-4FC5-4687-889A-84A6E816CEE0", 7, 1401488579, "882858", 1401488579, "882858", "{\n}", "2011", "-51.6", "-75.7", "-70.9" ]
+, [ 8, "1167673C-D07E-4193-BA33-C247B0AD050F", 8, 1401488579, "882858", 1401488579, "882858", "{\n}", "2012", "-56.1", "-88.1", "-79.2" ]
+ ]
+}

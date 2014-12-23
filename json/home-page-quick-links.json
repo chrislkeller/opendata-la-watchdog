@@ -1,0 +1,261 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "cbrw-uf54",
+      "name" : "Home Page - Quick Links",
+      "averageRating" : 0,
+      "createdAt" : 1396387386,
+      "displayType" : "table",
+      "downloadCount" : 11,
+      "indexUpdatedAt" : 1401477973,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8107981,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401477074,
+      "publicationGroup" : 1531338,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1401477074,
+      "rowsUpdatedBy" : "nk38-m7ev",
+      "tableId" : 1600391,
+      "totalTimesRated" : 0,
+      "viewCount" : 122,
+      "viewLastModified" : 1401477074,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150645395,
+        "name" : "Sort",
+        "dataTypeName" : "number",
+        "fieldName" : "sort",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18951169,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 3,
+          "smallest" : "1",
+          "sum" : "6",
+          "null" : 0,
+          "average" : "2",
+          "largest" : "3",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          }, {
+            "count" : 19,
+            "item" : "2"
+          }, {
+            "count" : 18,
+            "item" : "3"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150645396,
+        "name" : "Text",
+        "dataTypeName" : "text",
+        "fieldName" : "text",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18951195,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 3,
+          "smallest" : "Back to Basics: Performance Metrics",
+          "null" : 0,
+          "largest" : "Mayor's Executive Directive on Open Data",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Back to Basics: Performance Metrics"
+          }, {
+            "count" : 19,
+            "item" : "Mayor's Executive Directive on Open Data"
+          }, {
+            "count" : 18,
+            "item" : "Featured App: City of LA Event Finder"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150645397,
+        "name" : "Image",
+        "dataTypeName" : "photo",
+        "fieldName" : "image",
+        "position" : 3,
+        "renderTypeName" : "photo",
+        "tableColumnId" : 18951196,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 3,
+          "null" : 0
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150645398,
+        "name" : "Link",
+        "dataTypeName" : "text",
+        "fieldName" : "link",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18951242,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 3,
+          "smallest" : "/event-explorer-list",
+          "null" : 0,
+          "largest" : "https://performance.lacity.org",
+          "top" : [ {
+            "count" : 20,
+            "item" : "https://performance.lacity.org"
+          }, {
+            "count" : 19,
+            "item" : "http://www.lamayor.org/garcetti_directs_city_departments_to_collect_data_for_open_data_initiative"
+          }, {
+            "count" : 18,
+            "item" : "/event-explorer-list"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "jsonQuery" : {
+          "order" : [ {
+            "ascending" : false,
+            "columnFieldName" : "sort"
+          } ]
+        }
+      },
+      "owner" : {
+        "id" : "vcvp-yass",
+        "displayName" : "Dylan",
+        "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+        "screenName" : "Dylan",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+        "flags" : [ "admin" ]
+      },
+      "query" : {
+        "orderBys" : [ {
+          "ascending" : false,
+          "expression" : {
+            "columnId" : 150645395,
+            "type" : "column"
+          }
+        } ]
+      },
+      "rights" : [ "read" ],
+      "sortBys" : [ {
+        "id" : 0,
+        "viewColumnId" : 150645395
+      } ],
+      "tableAuthor" : {
+        "id" : "vcvp-yass",
+        "displayName" : "Dylan",
+        "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+        "screenName" : "Dylan",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+        "flags" : [ "admin" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 3, "21B01A4F-FFD1-46F5-96FE-A2F1AF2635B0", 3, 1396387488, "710611", 1401470679, "865627", null, "3", "Featured App: City of LA Event Finder", "ck-A9PxwVRYeXy6g6YUhzgMvcq7vE5GiT64gjk36Jzs", "/event-explorer-list" ]
+, [ 2, "7FB2E3A1-A7B5-493D-8C33-51FAFDF4BD24", 2, 1396387485, "710611", 1401471758, "865627", null, "2", "Mayor's Executive Directive on Open Data", "4d09GuWBoRWEwBum9ebxLJ9-bAfA6F_psk-d5KdFKfw", "http://www.lamayor.org/garcetti_directs_city_departments_to_collect_data_for_open_data_initiative" ]
+, [ 1, "ECFCF991-B9CD-4CCF-ADFE-4115BD139272", 1, 1396387484, "710611", 1401477073, "865627", null, "1", "Back to Basics: Performance Metrics", "pKwY7LIr4YJAwlNvTYBSDP1wrGnEnikdxQPqDUCimyo", "https://performance.lacity.org" ]
+ ]
+}

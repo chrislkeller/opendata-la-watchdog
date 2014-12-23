@@ -1,0 +1,248 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "9hxb-dad7",
+      "name" : "DWP - Power Sourced From Coal Chart",
+      "averageRating" : 0,
+      "createdAt" : 1401487945,
+      "description" : "In March 2013, the LADWP Board approved a contract that will enable LADWP to completely transition out of coal power. Through these actions, the City of Los Angeles became the first major city in the United States to commit to becoming coal free. More information: https://www.ladwp.com/ladwp/faces/ladwp/aboutus/a-power/a-p-renewableenergy?_adf.ctrl-state=1cnzdaglow_191&_afrLoop=46545720898498",
+      "displayType" : "table",
+      "downloadCount" : 2,
+      "indexUpdatedAt" : 1414613789,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8108929,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401488013,
+      "publicationGroup" : 1600618,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1401487951,
+      "rowsUpdatedBy" : "ddg3-br68",
+      "tableId" : 1600618,
+      "totalTimesRated" : 0,
+      "viewCount" : 17,
+      "viewLastModified" : 1402589520,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150663223,
+        "name" : "Date Name",
+        "dataTypeName" : "text",
+        "fieldName" : "date_name",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20022219,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "2008",
+          "null" : 0,
+          "largest" : "2012",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2008"
+          }, {
+            "count" : 19,
+            "item" : "2009"
+          }, {
+            "count" : 18,
+            "item" : "2010"
+          }, {
+            "count" : 17,
+            "item" : "2011"
+          }, {
+            "count" : 16,
+            "item" : "2012"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150663224,
+        "name" : "Date Value",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date_value",
+        "position" : 3,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 20022220,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "2008-12-31T00:00:00",
+          "null" : 0,
+          "largest" : "2012-12-31T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2008-12-31T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2009-12-31T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2010-12-31T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2011-12-31T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2012-12-31T00:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150663225,
+        "name" : "% of DWP power sourced from Coal",
+        "dataTypeName" : "percent",
+        "fieldName" : "of_dwp_power_sourced_from_coal",
+        "position" : 4,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 20022221,
+        "width" : 484,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "33",
+          "sum" : "197",
+          "null" : 0,
+          "average" : "39.4",
+          "largest" : "43",
+          "top" : [ {
+            "count" : 20,
+            "item" : "43"
+          }, {
+            "count" : 19,
+            "item" : "41"
+          }, {
+            "count" : 18,
+            "item" : "39"
+          }, {
+            "count" : 17,
+            "item" : "33"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "hb8e-gdsp",
+        "displayName" : "LA DWP OpenData",
+        "profileImageUrlLarge" : "/images/profile/5225/6660/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5225/6660/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5225/6660/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LA DWP OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "hb8e-gdsp",
+        "displayName" : "LA DWP OpenData",
+        "profileImageUrlLarge" : "/images/profile/5225/6660/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5225/6660/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5225/6660/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LA DWP OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "dwp", "coal", "power", "energy", "renewable" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "B6631088-4B43-45BB-9B37-355BD4706998", 1, 1401487948, "882858", 1401487948, "882858", "{\n}", "2008", "2008-12-31T00:00:00", "43" ]
+, [ 2, "99662418-73B4-485C-82E1-1313418B9924", 2, 1401487948, "882858", 1401487948, "882858", "{\n}", "2009", "2009-12-31T00:00:00", "41" ]
+, [ 3, "67AEE573-8CBA-467B-9D44-501F2B279A7E", 3, 1401487948, "882858", 1401487948, "882858", "{\n}", "2010", "2010-12-31T00:00:00", "39" ]
+, [ 4, "379AC308-7E73-4A55-9C71-0FC570E381EC", 4, 1401487948, "882858", 1401487948, "882858", "{\n}", "2011", "2011-12-31T00:00:00", "41" ]
+, [ 5, "F5D3120E-A124-48C1-902F-6892A6A07983", 5, 1401487948, "882858", 1401487948, "882858", "{\n}", "2012", "2012-12-31T00:00:00", "33" ]
+ ]
+}

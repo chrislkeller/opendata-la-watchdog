@@ -1,0 +1,1646 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "fn7g-dhya",
+      "name" : "City Owned Parking Lots Feb2014",
+      "attribution" : "LADOT",
+      "averageRating" : 0,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1392252117,
+      "description" : "City Owned Parking Lots - LADOT",
+      "displayType" : "table",
+      "downloadCount" : 20,
+      "indexUpdatedAt" : 1414612932,
+      "newBackend" : false,
+      "numberOfComments" : 4,
+      "oid" : 7472141,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401390976,
+      "publicationGroup" : 1474763,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1393953728,
+      "rowsUpdatedBy" : "epkx-23qu",
+      "tableId" : 1497339,
+      "totalTimesRated" : 0,
+      "viewCount" : 257,
+      "viewLastModified" : 1401397361,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 136339694,
+        "name" : "Lot #",
+        "dataTypeName" : "number",
+        "fieldName" : "lot",
+        "position" : 2,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18085628,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 118,
+          "smallest" : "601",
+          "sum" : "79888",
+          "null" : 0,
+          "average" : "677.0169491525424",
+          "largest" : "799",
+          "top" : [ {
+            "count" : 20,
+            "item" : "698"
+          }, {
+            "count" : 19,
+            "item" : "699"
+          }, {
+            "count" : 18,
+            "item" : "700"
+          }, {
+            "count" : 17,
+            "item" : "701"
+          }, {
+            "count" : 16,
+            "item" : "702"
+          }, {
+            "count" : 15,
+            "item" : "703"
+          }, {
+            "count" : 14,
+            "item" : "704"
+          }, {
+            "count" : 13,
+            "item" : "705"
+          }, {
+            "count" : 12,
+            "item" : "707"
+          }, {
+            "count" : 11,
+            "item" : "711"
+          }, {
+            "count" : 10,
+            "item" : "712"
+          }, {
+            "count" : 9,
+            "item" : "713"
+          }, {
+            "count" : 8,
+            "item" : "715"
+          }, {
+            "count" : 7,
+            "item" : "725"
+          }, {
+            "count" : 6,
+            "item" : "731"
+          }, {
+            "count" : 5,
+            "item" : "732"
+          }, {
+            "count" : 4,
+            "item" : "735"
+          }, {
+            "count" : 3,
+            "item" : "740"
+          }, {
+            "count" : 2,
+            "item" : "742"
+          }, {
+            "count" : 1,
+            "item" : "744"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 136339695,
+        "name" : "CouncilDistrict",
+        "dataTypeName" : "number",
+        "fieldName" : "councildistrict",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18085629,
+        "width" : 280,
+        "cachedContents" : {
+          "non_null" : 118,
+          "smallest" : "1",
+          "sum" : "915",
+          "null" : 0,
+          "average" : "7.754237288135593",
+          "largest" : "15",
+          "top" : [ {
+            "count" : 20,
+            "item" : "6"
+          }, {
+            "count" : 19,
+            "item" : "2"
+          }, {
+            "count" : 18,
+            "item" : "11"
+          }, {
+            "count" : 17,
+            "item" : "4"
+          }, {
+            "count" : 16,
+            "item" : "3"
+          }, {
+            "count" : 15,
+            "item" : "8"
+          }, {
+            "count" : 14,
+            "item" : "10"
+          }, {
+            "count" : 13,
+            "item" : "1"
+          }, {
+            "count" : 12,
+            "item" : "15"
+          }, {
+            "count" : 11,
+            "item" : "5"
+          }, {
+            "count" : 10,
+            "item" : "13"
+          }, {
+            "count" : 9,
+            "item" : "14"
+          }, {
+            "count" : 8,
+            "item" : "9"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 136339696,
+        "name" : "Street Address",
+        "dataTypeName" : "text",
+        "fieldName" : "street_address",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18085630,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 118,
+          "smallest" : "101 N Judge John Aiso St",
+          "null" : 0,
+          "largest" : "928 Marine Ave",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2367 Prosser Ave"
+          }, {
+            "count" : 19,
+            "item" : "529 W 11th St"
+          }, {
+            "count" : 18,
+            "item" : "239 W 86th Pl"
+          }, {
+            "count" : 17,
+            "item" : "2150 Dell Ave"
+          }, {
+            "count" : 16,
+            "item" : "1627 N Vine St"
+          }, {
+            "count" : 15,
+            "item" : "123 S Robertson Blvd"
+          }, {
+            "count" : 14,
+            "item" : "7128 Jordan Ave"
+          }, {
+            "count" : 13,
+            "item" : "21901 W Costanso St"
+          }, {
+            "count" : 12,
+            "item" : "2377 Midvale Ave"
+          }, {
+            "count" : 11,
+            "item" : "3528 Garden Ave"
+          }, {
+            "count" : 10,
+            "item" : "7246 Baird Ave"
+          }, {
+            "count" : 9,
+            "item" : "249 N Chicago St"
+          }, {
+            "count" : 8,
+            "item" : "2371 Overland Ave"
+          }, {
+            "count" : 7,
+            "item" : "7117 Remmet Ave"
+          }, {
+            "count" : 6,
+            "item" : "200 N Venice Blvd"
+          }, {
+            "count" : 5,
+            "item" : "218 N Larchmont Blvd"
+          }, {
+            "count" : 4,
+            "item" : "396 W 6th St"
+          }, {
+            "count" : 3,
+            "item" : "301 S Main St"
+          }, {
+            "count" : 2,
+            "item" : "1637 N Wilcox Ave"
+          }, {
+            "count" : 1,
+            "item" : "8463 S Vermont Ave"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 136339697,
+        "name" : "Community",
+        "dataTypeName" : "text",
+        "fieldName" : "community",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18085631,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 118,
+          "smallest" : "Atwater Village",
+          "null" : 0,
+          "largest" : "Woodland Hills",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Van Nuys"
+          }, {
+            "count" : 19,
+            "item" : "North Hollywood"
+          }, {
+            "count" : 18,
+            "item" : "Venice"
+          }, {
+            "count" : 17,
+            "item" : "Miracle Mile"
+          }, {
+            "count" : 16,
+            "item" : "Canoga Park"
+          }, {
+            "count" : 15,
+            "item" : "Hollywood"
+          }, {
+            "count" : 14,
+            "item" : "Reseda"
+          }, {
+            "count" : 13,
+            "item" : "Vermont Vista"
+          }, {
+            "count" : 12,
+            "item" : "Leimert Park"
+          }, {
+            "count" : 11,
+            "item" : "Lincoln Heights"
+          }, {
+            "count" : 10,
+            "item" : "Sherman Oaks"
+          }, {
+            "count" : 9,
+            "item" : "Hyde Park"
+          }, {
+            "count" : 8,
+            "item" : "Highland Park"
+          }, {
+            "count" : 7,
+            "item" : "San Pedro"
+          }, {
+            "count" : 6,
+            "item" : "Crestview"
+          }, {
+            "count" : 5,
+            "item" : "Echo Park"
+          }, {
+            "count" : 4,
+            "item" : "West LA"
+          }, {
+            "count" : 3,
+            "item" : "Atwater Village"
+          }, {
+            "count" : 2,
+            "item" : "Wilmington"
+          }, {
+            "count" : 1,
+            "item" : "El Sereno"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 136339698,
+        "name" : "ZIP Code",
+        "dataTypeName" : "text",
+        "fieldName" : "zip_code",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18085632,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 118,
+          "smallest" : "90003_3307",
+          "null" : 0,
+          "largest" : "91604_2519",
+          "top" : [ {
+            "count" : 20,
+            "item" : "90731"
+          }, {
+            "count" : 19,
+            "item" : "90291_4526"
+          }, {
+            "count" : 18,
+            "item" : "90028_8802"
+          }, {
+            "count" : 17,
+            "item" : "90048_3207"
+          }, {
+            "count" : 16,
+            "item" : "91303"
+          }, {
+            "count" : 15,
+            "item" : "91364"
+          }, {
+            "count" : 14,
+            "item" : "90064_2103"
+          }, {
+            "count" : 13,
+            "item" : "90039_1922"
+          }, {
+            "count" : 12,
+            "item" : "91335"
+          }, {
+            "count" : 11,
+            "item" : "90033_2906"
+          }, {
+            "count" : 10,
+            "item" : "90064_2209"
+          }, {
+            "count" : 9,
+            "item" : "91303_2016"
+          }, {
+            "count" : 8,
+            "item" : "90291"
+          }, {
+            "count" : 7,
+            "item" : "90004_3707"
+          }, {
+            "count" : 6,
+            "item" : "90731_2622"
+          }, {
+            "count" : 5,
+            "item" : "90291_2523"
+          }, {
+            "count" : 4,
+            "item" : "90028_6205"
+          }, {
+            "count" : 3,
+            "item" : "90044_3448"
+          }, {
+            "count" : 2,
+            "item" : "90028_6101"
+          }, {
+            "count" : 1,
+            "item" : "91601_3815"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 136339699,
+        "name" : "Oper. Equip.Type",
+        "dataTypeName" : "text",
+        "fieldName" : "oper_equip_type",
+        "position" : 7,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18085633,
+        "width" : 292,
+        "cachedContents" : {
+          "non_null" : 118,
+          "smallest" : "API",
+          "null" : 0,
+          "largest" : "Station/Free",
+          "top" : [ {
+            "count" : 20,
+            "item" : "GSD"
+          }, {
+            "count" : 19,
+            "item" : "Pay Station"
+          }, {
+            "count" : 18,
+            "item" : "Free"
+          }, {
+            "count" : 17,
+            "item" : "Meter / Free"
+          }, {
+            "count" : 16,
+            "item" : "Single Meter"
+          }, {
+            "count" : 15,
+            "item" : "Station/Free"
+          }, {
+            "count" : 14,
+            "item" : "PCI"
+          }, {
+            "count" : 13,
+            "item" : "API"
+          }, {
+            "count" : 12,
+            "item" : "PCI-Pay Sta"
+          }, {
+            "count" : 11,
+            "item" : "NSP-CA"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 136339700,
+        "name" : "Rate",
+        "dataTypeName" : "text",
+        "fieldName" : "rate",
+        "position" : 8,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18085634,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 118,
+          "smallest" : "$0.25 / 20 Min",
+          "null" : 0,
+          "largest" : "see below R",
+          "top" : [ {
+            "count" : 20,
+            "item" : "$0.45 / 15 Min"
+          }, {
+            "count" : 19,
+            "item" : "$0.25 / 30 Min"
+          }, {
+            "count" : 18,
+            "item" : "$0.55 / 30 MinR"
+          }, {
+            "count" : 17,
+            "item" : "Free"
+          }, {
+            "count" : 16,
+            "item" : "$1.00 / Hr"
+          }, {
+            "count" : 15,
+            "item" : "$0.25 / 20 Min"
+          }, {
+            "count" : 14,
+            "item" : "$0.60 / 20 Min"
+          }, {
+            "count" : 13,
+            "item" : "$9.00 Flat R"
+          }, {
+            "count" : 12,
+            "item" : "$2.00 / 15 MinR"
+          }, {
+            "count" : 11,
+            "item" : "$1.50 / 20 MinR"
+          }, {
+            "count" : 10,
+            "item" : "see below R"
+          }, {
+            "count" : 9,
+            "item" : "$2.00 / 30 MinR"
+          }, {
+            "count" : 8,
+            "item" : "$0.75 / 30 MinR"
+          }, {
+            "count" : 7,
+            "item" : "$1.00 / 15 MinR"
+          }, {
+            "count" : 6,
+            "item" : "$1.00 / 30 Min"
+          }, {
+            "count" : 5,
+            "item" : "$5.00 Flat"
+          }, {
+            "count" : 4,
+            "item" : "$1.00 / 30 MinR"
+          }, {
+            "count" : 3,
+            "item" : "$3.00 Flat"
+          }, {
+            "count" : 2,
+            "item" : "$1.00 / Hr R"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 136339701,
+        "name" : "Daily Max Rate",
+        "dataTypeName" : "text",
+        "fieldName" : "daily_max_rate",
+        "position" : 9,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18085635,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 118,
+          "smallest" : "--",
+          "null" : 0,
+          "largest" : "see below R",
+          "top" : [ {
+            "count" : 20,
+            "item" : "$7.20"
+          }, {
+            "count" : 19,
+            "item" : "$2.50"
+          }, {
+            "count" : 18,
+            "item" : "$5.00 R"
+          }, {
+            "count" : 17,
+            "item" : "--"
+          }, {
+            "count" : 16,
+            "item" : "$4.00 / 10 Hrs"
+          }, {
+            "count" : 15,
+            "item" : "$1.50 / 2 Hrs"
+          }, {
+            "count" : 14,
+            "item" : "$1.00 / 2 Hrs"
+          }, {
+            "count" : 13,
+            "item" : "$6.00"
+          }, {
+            "count" : 12,
+            "item" : "$4.00 / 4 Hrs"
+          }, {
+            "count" : 11,
+            "item" : "$9.00"
+          }, {
+            "count" : 10,
+            "item" : "$16.00"
+          }, {
+            "count" : 9,
+            "item" : "$10.00"
+          }, {
+            "count" : 8,
+            "item" : "$9.00 R"
+          }, {
+            "count" : 7,
+            "item" : "$2.00 / 2 Hrs"
+          }, {
+            "count" : 6,
+            "item" : "$2.00"
+          }, {
+            "count" : 5,
+            "item" : "$3.00"
+          }, {
+            "count" : 4,
+            "item" : "see below R"
+          }, {
+            "count" : 3,
+            "item" : "$12.00  R"
+          }, {
+            "count" : 2,
+            "item" : "$12.00"
+          }, {
+            "count" : 1,
+            "item" : "$2.00 / 4 Hrs"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 136339702,
+        "name" : "Monthly Rate",
+        "dataTypeName" : "text",
+        "fieldName" : "monthly_rate",
+        "position" : 10,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18085636,
+        "width" : 244,
+        "cachedContents" : {
+          "non_null" : 118,
+          "smallest" : "--",
+          "null" : 0,
+          "largest" : "$90.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "$72.00"
+          }, {
+            "count" : 19,
+            "item" : "--"
+          }, {
+            "count" : 18,
+            "item" : "$49.50"
+          }, {
+            "count" : 17,
+            "item" : "$38.50"
+          }, {
+            "count" : 16,
+            "item" : "$30.00 Z"
+          }, {
+            "count" : 15,
+            "item" : "$25.00"
+          }, {
+            "count" : 14,
+            "item" : "$30.00"
+          }, {
+            "count" : 13,
+            "item" : "$60.00"
+          }, {
+            "count" : 12,
+            "item" : "$40.00"
+          }, {
+            "count" : 11,
+            "item" : "$125.00 R"
+          }, {
+            "count" : 10,
+            "item" : "$50.00"
+          }, {
+            "count" : 9,
+            "item" : "$144.00"
+          }, {
+            "count" : 8,
+            "item" : "$125.00"
+          }, {
+            "count" : 7,
+            "item" : "$47.50"
+          }, {
+            "count" : 6,
+            "item" : "$15.00 R"
+          }, {
+            "count" : 5,
+            "item" : "$100.00 R"
+          }, {
+            "count" : 4,
+            "item" : "$150.00"
+          }, {
+            "count" : 3,
+            "item" : "$55.00 Z"
+          }, {
+            "count" : 2,
+            "item" : "$65.00"
+          }, {
+            "count" : 1,
+            "item" : "$90.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 136339703,
+        "name" : "Hours of Operation",
+        "dataTypeName" : "text",
+        "fieldName" : "hours_of_operation",
+        "position" : 11,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18085637,
+        "width" : 316,
+        "cachedContents" : {
+          "non_null" : 118,
+          "smallest" : "24 Hrs Daily ",
+          "null" : 0,
+          "largest" : "see below RZ",
+          "top" : [ {
+            "count" : 20,
+            "item" : "5:30 AM-7 PM M-F"
+          }, {
+            "count" : 19,
+            "item" : "7 AM-9 PM Daily"
+          }, {
+            "count" : 18,
+            "item" : "8 AM-5 PM M-Sat"
+          }, {
+            "count" : 17,
+            "item" : "8 AM-5 PM M-F"
+          }, {
+            "count" : 16,
+            "item" : "8 AM-6 PM X/Sun"
+          }, {
+            "count" : 15,
+            "item" : "7 AM-9 PM Daily Z"
+          }, {
+            "count" : 14,
+            "item" : "7 AM-2 AM Daily Z"
+          }, {
+            "count" : 13,
+            "item" : "7 AM-Midnight Daily"
+          }, {
+            "count" : 12,
+            "item" : "8 AM-6 PM X/Sun Z"
+          }, {
+            "count" : 11,
+            "item" : "7 AM-11:00 PM Daily"
+          }, {
+            "count" : 10,
+            "item" : "7 AM-5:30 PM M-F"
+          }, {
+            "count" : 9,
+            "item" : "24 Hrs Daily "
+          }, {
+            "count" : 8,
+            "item" : "see below R"
+          }, {
+            "count" : 7,
+            "item" : "7 AM-9 PM X/Sun"
+          }, {
+            "count" : 6,
+            "item" : "7 AM-Midnight DailyZ"
+          }, {
+            "count" : 5,
+            "item" : "8 AM-6 PM X/Sa,SuZ"
+          }, {
+            "count" : 4,
+            "item" : "6 AM-11:30 PM Daily"
+          }, {
+            "count" : 3,
+            "item" : "6 AM-2 AM Daily Z"
+          }, {
+            "count" : 2,
+            "item" : "see below RZ"
+          }, {
+            "count" : 1,
+            "item" : "8 AM-12:30 AM Daily"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 136339704,
+        "name" : "Total Spaces",
+        "dataTypeName" : "number",
+        "fieldName" : "total_spaces",
+        "position" : 12,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18085638,
+        "width" : 244,
+        "cachedContents" : {
+          "non_null" : 118,
+          "smallest" : "7",
+          "sum" : "11963",
+          "null" : 0,
+          "average" : "101.3813559322034",
+          "largest" : "3021",
+          "top" : [ {
+            "count" : 20,
+            "item" : "47"
+          }, {
+            "count" : 19,
+            "item" : "41"
+          }, {
+            "count" : 18,
+            "item" : "29"
+          }, {
+            "count" : 17,
+            "item" : "28"
+          }, {
+            "count" : 16,
+            "item" : "38"
+          }, {
+            "count" : 15,
+            "item" : "40"
+          }, {
+            "count" : 14,
+            "item" : "39"
+          }, {
+            "count" : 13,
+            "item" : "32"
+          }, {
+            "count" : 12,
+            "item" : "14"
+          }, {
+            "count" : 11,
+            "item" : "25"
+          }, {
+            "count" : 10,
+            "item" : "27"
+          }, {
+            "count" : 9,
+            "item" : "26"
+          }, {
+            "count" : 8,
+            "item" : "21"
+          }, {
+            "count" : 7,
+            "item" : "34"
+          }, {
+            "count" : 6,
+            "item" : "23"
+          }, {
+            "count" : 5,
+            "item" : "3021"
+          }, {
+            "count" : 4,
+            "item" : "92"
+          }, {
+            "count" : 3,
+            "item" : "24"
+          }, {
+            "count" : 2,
+            "item" : "7"
+          }, {
+            "count" : 1,
+            "item" : "22"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 136339705,
+        "name" : "1 Hour Spaces",
+        "dataTypeName" : "text",
+        "fieldName" : "_1_hour_spaces",
+        "position" : 13,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18085639,
+        "width" : 256,
+        "cachedContents" : {
+          "non_null" : 118,
+          "smallest" : "--",
+          "null" : 0,
+          "largest" : "8",
+          "top" : [ {
+            "count" : 20,
+            "item" : "--"
+          }, {
+            "count" : 19,
+            "item" : "21"
+          }, {
+            "count" : 18,
+            "item" : "11"
+          }, {
+            "count" : 17,
+            "item" : "8"
+          }, {
+            "count" : 16,
+            "item" : "17"
+          }, {
+            "count" : 15,
+            "item" : "14"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 136339706,
+        "name" : "2 Hour Spaces",
+        "dataTypeName" : "text",
+        "fieldName" : "_2_hour_spaces",
+        "position" : 14,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18085640,
+        "width" : 256,
+        "cachedContents" : {
+          "non_null" : 118,
+          "smallest" : "--",
+          "null" : 0,
+          "largest" : "9",
+          "top" : [ {
+            "count" : 20,
+            "item" : "--"
+          }, {
+            "count" : 19,
+            "item" : "18"
+          }, {
+            "count" : 18,
+            "item" : "21"
+          }, {
+            "count" : 17,
+            "item" : "38"
+          }, {
+            "count" : 16,
+            "item" : "73"
+          }, {
+            "count" : 15,
+            "item" : "74"
+          }, {
+            "count" : 14,
+            "item" : "28"
+          }, {
+            "count" : 13,
+            "item" : "22"
+          }, {
+            "count" : 12,
+            "item" : "26"
+          }, {
+            "count" : 11,
+            "item" : "13"
+          }, {
+            "count" : 10,
+            "item" : "30"
+          }, {
+            "count" : 9,
+            "item" : "33"
+          }, {
+            "count" : 8,
+            "item" : "30 Free"
+          }, {
+            "count" : 7,
+            "item" : "10 Free"
+          }, {
+            "count" : 6,
+            "item" : "23 Free"
+          }, {
+            "count" : 5,
+            "item" : "13 Free"
+          }, {
+            "count" : 4,
+            "item" : "40"
+          }, {
+            "count" : 3,
+            "item" : "34"
+          }, {
+            "count" : 2,
+            "item" : "41"
+          }, {
+            "count" : 1,
+            "item" : "9"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 136339707,
+        "name" : "4 Hour Spaces",
+        "dataTypeName" : "text",
+        "fieldName" : "_4_hour_spaces",
+        "position" : 15,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18085641,
+        "width" : 256,
+        "cachedContents" : {
+          "non_null" : 118,
+          "smallest" : "--",
+          "null" : 0,
+          "largest" : "9",
+          "top" : [ {
+            "count" : 20,
+            "item" : "--"
+          }, {
+            "count" : 19,
+            "item" : "27 R"
+          }, {
+            "count" : 18,
+            "item" : "21 R"
+          }, {
+            "count" : 17,
+            "item" : "9"
+          }, {
+            "count" : 16,
+            "item" : "35"
+          }, {
+            "count" : 15,
+            "item" : "11"
+          }, {
+            "count" : 14,
+            "item" : "6"
+          }, {
+            "count" : 13,
+            "item" : "10"
+          }, {
+            "count" : 12,
+            "item" : "61"
+          }, {
+            "count" : 11,
+            "item" : "24"
+          }, {
+            "count" : 10,
+            "item" : "48"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 136339708,
+        "name" : "10 Hr and More",
+        "dataTypeName" : "text",
+        "fieldName" : "_10_hr_and_more",
+        "position" : 16,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18085642,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 118,
+          "smallest" : "--",
+          "null" : 0,
+          "largest" : "9",
+          "top" : [ {
+            "count" : 20,
+            "item" : "24"
+          }, {
+            "count" : 19,
+            "item" : "72"
+          }, {
+            "count" : 18,
+            "item" : "39"
+          }, {
+            "count" : 17,
+            "item" : "--"
+          }, {
+            "count" : 16,
+            "item" : "50"
+          }, {
+            "count" : 15,
+            "item" : "13"
+          }, {
+            "count" : 14,
+            "item" : "8"
+          }, {
+            "count" : 13,
+            "item" : "10"
+          }, {
+            "count" : 12,
+            "item" : "9"
+          }, {
+            "count" : 11,
+            "item" : "25"
+          }, {
+            "count" : 10,
+            "item" : "18"
+          }, {
+            "count" : 9,
+            "item" : "16"
+          }, {
+            "count" : 8,
+            "item" : "14"
+          }, {
+            "count" : 7,
+            "item" : "37"
+          }, {
+            "count" : 6,
+            "item" : "385"
+          }, {
+            "count" : 5,
+            "item" : "54"
+          }, {
+            "count" : 4,
+            "item" : "15"
+          }, {
+            "count" : 3,
+            "item" : "144"
+          }, {
+            "count" : 2,
+            "item" : "448"
+          }, {
+            "count" : 1,
+            "item" : "326"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 136339709,
+        "name" : "Disabled",
+        "dataTypeName" : "number",
+        "fieldName" : "disabled",
+        "position" : 17,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18085643,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 117,
+          "smallest" : "1",
+          "sum" : "383",
+          "null" : 1,
+          "average" : "3.273504273504274",
+          "largest" : "41",
+          "top" : [ {
+            "count" : 20,
+            "item" : "7"
+          }, {
+            "count" : 19,
+            "item" : "2"
+          }, {
+            "count" : 18,
+            "item" : "4"
+          }, {
+            "count" : 17,
+            "item" : "5"
+          }, {
+            "count" : 16,
+            "item" : "1"
+          }, {
+            "count" : 15,
+            "item" : "3"
+          }, {
+            "count" : 14,
+            "item" : "6"
+          }, {
+            "count" : 13,
+            "item" : "8"
+          }, {
+            "count" : 12,
+            "item" : "9"
+          }, {
+            "count" : 11,
+            "item" : "41"
+          }, {
+            "count" : 10,
+            "item" : "10"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 136339710,
+        "name" : "FacilityType",
+        "dataTypeName" : "text",
+        "fieldName" : "facilitytype",
+        "position" : 18,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18085644,
+        "width" : 244,
+        "cachedContents" : {
+          "non_null" : 118,
+          "smallest" : "Structure",
+          "null" : 0,
+          "largest" : "Surface Lot",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Structure"
+          }, {
+            "count" : 19,
+            "item" : "Surface Lot"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 136339711,
+        "name" : "Lot Size",
+        "dataTypeName" : "number",
+        "fieldName" : "lot_size",
+        "position" : 19,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18085645,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 116,
+          "smallest" : "3500",
+          "sum" : "2892100",
+          "null" : 2,
+          "average" : "24931.89655172414",
+          "largest" : "250000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "15000"
+          }, {
+            "count" : 19,
+            "item" : "13500"
+          }, {
+            "count" : 18,
+            "item" : "14000"
+          }, {
+            "count" : 17,
+            "item" : "15600"
+          }, {
+            "count" : 16,
+            "item" : "12500"
+          }, {
+            "count" : 15,
+            "item" : "10900"
+          }, {
+            "count" : 14,
+            "item" : "7500"
+          }, {
+            "count" : 13,
+            "item" : "132000"
+          }, {
+            "count" : 12,
+            "item" : "19200"
+          }, {
+            "count" : 11,
+            "item" : "10700"
+          }, {
+            "count" : 10,
+            "item" : "12770"
+          }, {
+            "count" : 9,
+            "item" : "45790"
+          }, {
+            "count" : 8,
+            "item" : "8800"
+          }, {
+            "count" : 7,
+            "item" : "216100"
+          }, {
+            "count" : 6,
+            "item" : "19360"
+          }, {
+            "count" : 5,
+            "item" : "10500"
+          }, {
+            "count" : 4,
+            "item" : "4600"
+          }, {
+            "count" : 3,
+            "item" : "11500"
+          }, {
+            "count" : 2,
+            "item" : "24300"
+          }, {
+            "count" : 1,
+            "item" : "38810"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 136339712,
+        "name" : "Location",
+        "dataTypeName" : "location",
+        "fieldName" : "location",
+        "position" : 20,
+        "renderTypeName" : "location",
+        "tableColumnId" : 18425236,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 118,
+          "smallest" : {
+            "longitude" : "-99.11415045099966",
+            "latitude" : "39.52368635500045",
+            "human_address" : "{\"address\":\"\",\"city\":\"Atwater Village\",\"state\":\"\",\"zip\":\"\"}"
+          },
+          "null" : 0,
+          "largest" : {
+            "longitude" : "-118.6059187569997",
+            "latitude" : "34.16833683900046",
+            "human_address" : "{\"address\":\"\",\"city\":\"Woodland Hills\",\"state\":\"\",\"zip\":\"\"}"
+          },
+          "top" : [ {
+            "count" : 20,
+            "item" : {
+              "longitude" : "-118.4178586749997",
+              "latitude" : "34.05556828400046",
+              "human_address" : "{\"address\":\"\",\"city\":\"Century City\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 19,
+            "item" : {
+              "longitude" : "-118.29228880499971",
+              "latitude" : "33.735845896000455",
+              "human_address" : "{\"address\":\"\",\"city\":\"San Pedro\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 18,
+            "item" : {
+              "longitude" : "-99.11415045099966",
+              "latitude" : "39.52368635500045",
+              "human_address" : "{\"address\":\"\",\"city\":\"Vermont Vista\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 17,
+            "item" : {
+              "longitude" : "-118.46007826399972",
+              "latitude" : "33.99083727900046",
+              "human_address" : "{\"address\":\"\",\"city\":\"Venice\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 16,
+            "item" : {
+              "longitude" : "-118.32673761399968",
+              "latitude" : "34.098336823000466",
+              "human_address" : "{\"address\":\"\",\"city\":\"Hollywood\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 15,
+            "item" : {
+              "longitude" : "-99.11415045099966",
+              "latitude" : "39.52368635500045",
+              "human_address" : "{\"address\":\"\",\"city\":\"Carthay\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 14,
+            "item" : {
+              "longitude" : "-118.59813897699968",
+              "latitude" : "34.20111630300045",
+              "human_address" : "{\"address\":\"\",\"city\":\"Canoga Park\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 13,
+            "item" : {
+              "longitude" : "-118.6059187569997",
+              "latitude" : "34.16833683900046",
+              "human_address" : "{\"address\":\"\",\"city\":\"Woodland Hills\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 12,
+            "item" : {
+              "longitude" : "-118.42055842499968",
+              "latitude" : "34.045759192000446",
+              "human_address" : "{\"address\":\"\",\"city\":\"Rancho Park\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 11,
+            "item" : {
+              "longitude" : "-99.11415045099966",
+              "latitude" : "39.52368635500045",
+              "human_address" : "{\"address\":\"\",\"city\":\"Atwater Village\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 10,
+            "item" : {
+              "longitude" : "-118.53646768899972",
+              "latitude" : "34.20111630300045",
+              "human_address" : "{\"address\":\"\",\"city\":\"Reseda\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 9,
+            "item" : {
+              "longitude" : "-118.20534785699971",
+              "latitude" : "34.03389829100047",
+              "human_address" : "{\"address\":\"\",\"city\":\"Boyle Heights\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 8,
+            "item" : {
+              "longitude" : "-118.4178586749997",
+              "latitude" : "34.05556828400046",
+              "human_address" : "{\"address\":\"\",\"city\":\"Century City\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 7,
+            "item" : {
+              "longitude" : "-118.59813897699968",
+              "latitude" : "34.20111630300045",
+              "human_address" : "{\"address\":\"\",\"city\":\"Canoga Park\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 6,
+            "item" : {
+              "longitude" : "-118.46007826399972",
+              "latitude" : "33.99083727900046",
+              "human_address" : "{\"address\":\"\",\"city\":\"Venice\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 5,
+            "item" : {
+              "longitude" : "-118.3325780729997",
+              "latitude" : "34.067789152000444",
+              "human_address" : "{\"address\":\"\",\"city\":\"Hancock Park\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 4,
+            "item" : {
+              "longitude" : "-118.29228880499971",
+              "latitude" : "33.735845896000455",
+              "human_address" : "{\"address\":\"\",\"city\":\"San Pedro\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 3,
+            "item" : {
+              "longitude" : "-118.46007826399972",
+              "latitude" : "33.99083727900046",
+              "human_address" : "{\"address\":\"\",\"city\":\"Venice\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 2,
+            "item" : {
+              "longitude" : "-118.32673761399968",
+              "latitude" : "34.098336823000466",
+              "human_address" : "{\"address\":\"\",\"city\":\"Hollywood\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "longitude" : "-99.11415045099966",
+              "latitude" : "39.52368635500045",
+              "human_address" : "{\"address\":\"\",\"city\":\"Vermont Knolls\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          } ]
+        },
+        "format" : {
+        },
+        "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Transportation"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "8b8n-vh2w",
+        "displayName" : "LA DOT OpenData",
+        "profileImageUrlLarge" : "/images/profile/0814/0098/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0814/0098/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0814/0098/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LA DOT OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "8b8n-vh2w",
+        "displayName" : "LA DOT OpenData",
+        "profileImageUrlLarge" : "/images/profile/0814/0098/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0814/0098/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0814/0098/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LA DOT OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "ladot parking lots city parking lots off street lots" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "53311313-D5B3-473C-8B2A-98B31C37EB22", 1, 1392252122, "866803", 1393953728, "866803", "{\n}", "601", "6", "14401 Friar St", "Van Nuys", "91401_2125", "GSD", "$0.45 / 15 Min", "$7.20", "$72.00", "5:30 AM-7 PM M-F", "237", "--", "--", "--", "230", "7", "Structure", "44130", [ "{\"address\":\"\",\"city\":\"Van Nuys\",\"state\":\"\",\"zip\":\"\"}", "34.18666814100044", "-118.44896879299972", null, false ] ]
+, [ 2, "B0208862-6B99-4A9F-8A00-697F636B081B", 2, 1392252122, "866803", 1393953728, "866803", "{\n}", "602", "2", "11320 Chandler Blvd", "North Hollywood", "91601_3130", "Pay Station", "$0.25 / 30 Min", "$2.50", "--", "7 AM-9 PM Daily", "47", "21", "--", "--", "24", "2", "Surface Lot", "17600", [ "{\"address\":\"\",\"city\":\"North Hollywood\",\"state\":\"\",\"zip\":\"\"}", "34.172228979000465", "-118.37896877699967", null, false ] ]
+, [ 3, "F2CD84E0-99BC-419E-BF0E-91843C4E8EAF", 3, 1392252122, "866803", 1393953728, "866803", "{\n}", "609", "6", "14521 Friar St", "Van Nuys", "91411_2319", "GSD", "$0.55 / 30 MinR", "$5.00 R", "$49.50", "8 AM-5 PM M-Sat", "76", "--", "--", "--", "72", "4", "Surface Lot", "29700", [ "{\"address\":\"\",\"city\":\"Van Nuys\",\"state\":\"\",\"zip\":\"\"}", "34.18666814100044", "-118.44896879299972", null, false ] ]
+, [ 4, "333949CD-DBCC-4EA2-9ED9-72508D294DE3", 4, 1392252122, "866803", 1393953728, "866803", "{\n}", "610", "6", "14532 Gilmore St", "Van Nuys", "91411_1602", "GSD", "$0.55 / 30 MinR", "$5.00 R", "$38.50", "8 AM-5 PM M-F", "138", "--", "--", "--", "133", "5", "Surface Lot", "50750", [ "{\"address\":\"\",\"city\":\"Van Nuys\",\"state\":\"\",\"zip\":\"\"}", "34.18666814100044", "-118.44896879299972", null, false ] ]
+, [ 5, "C233EF12-3ABB-4B25-BEBF-4D1FD0855E15", 5, 1392252122, "866803", 1393953728, "866803", "{\n}", "613", "11", "2010 S Pisani Pl", "Venice", "90291_3817", "Free", "Free", "--", "--", "8 AM-6 PM X/Sun", "53", "--", "--", "--", "51", "2", "Surface Lot", "25380", [ "{\"address\":\"\",\"city\":\"Venice\",\"state\":\"\",\"zip\":\"\"}", "33.99083727900046", "-118.46007826399972", null, false ] ]
+, [ 6, "47577CEE-3C02-4081-BBC5-3DF6690117C8", 6, 1392252122, "866803", 1393953728, "866803", "{\n}", "614", "4", "728 S Cochran Ave", "Miracle Mile", "90036_3813", "Pay Station", "$1.00 / Hr", "$4.00 / 10 Hrs", "$30.00 Z", "7 AM-9 PM Daily Z", "41", "--", "--", "--", "39", "2", "Surface Lot", "13950", [ "{\"address\":\"\",\"city\":\"Miracle Mile\",\"state\":\"\",\"zip\":\"\"}", "34.05933893500048", "-118.3490555469997", null, false ] ]
+, [ 7, "19E3FA73-17CD-4732-BC61-4D980E830938", 7, 1392252122, "866803", 1393953728, "866803", "{\n}", "616", "11", "1411 Electric Ave", "Venice", "90291_3733", "Free", "Free", "--", "--", "7 AM-2 AM Daily Z", "29", "--", "--", "27 R", "--", "2", "Surface Lot", "9000", [ "{\"address\":\"\",\"city\":\"Venice\",\"state\":\"\",\"zip\":\"\"}", "33.99083727900046", "-118.46007826399972", null, false ] ]
+, [ 8, "3B37ADD3-14A6-4715-9B3D-54730C2811C6", 8, 1392252122, "866803", 1393953728, "866803", "{\n}", "617", "11", "1511 Electric Ave", "Venice", "90291_3735", "Free", "Free", "--", "--", "7 AM-2 AM Daily Z", "22", "--", "--", "21 R", "--", "1", "Surface Lot", "10440", [ "{\"address\":\"\",\"city\":\"Venice\",\"state\":\"\",\"zip\":\"\"}", "33.99083727900046", "-118.46007826399972", null, false ] ]
+, [ 9, "BC27AAA5-B73B-4544-854C-A8C324F62B3E", 9, 1392252122, "866803", 1393953728, "866803", "{\n}", "618", "3", "7134 Remmet Ave", "Canoga Park", "91303", "Free", "Free", "--", "--", "8 AM-6 PM X/Sun", "19", "--", "18", "--", "--", "1", "Surface Lot", "7500", [ "{\"address\":\"\",\"city\":\"Canoga Park\",\"state\":\"\",\"zip\":\"\"}", "34.20111630300045", "-118.59813897699968", null, false ] ]
+, [ 10, "06AB1E25-6C19-4A14-9114-1ADEECFD12C4", 10, 1392252122, "866803", 1393953728, "866803", "{\n}", "619", "4", "1451 N Gardner St", "Hollywood", "90046_4101", "Pay Station", "$0.25 / 20 Min", "$1.50 / 2 Hrs", "--", "7 AM-Midnight Daily", "22", "--", "21", "--", "--", "1", "Surface Lot", "12760", [ "{\"address\":\"\",\"city\":\"Hollywood\",\"state\":\"\",\"zip\":\"\"}", "34.098336823000466", "-118.32673761399968", null, false ] ]
+, [ 11, "B3EE2EF8-53D0-4867-8A6F-A42ABE1C8760", 11, 1392252122, "866803", 1393953728, "866803", "{\n}", "620", "6", "14607 Sylvan St", "Van Nuys", "91411_2327", "GSD", "$0.55 / 30 MinR", "$5.00 R", "$38.50", "8 AM-5 PM M-F", "57", "--", "--", "--", "54", "3", "Surface Lot", "24000", [ "{\"address\":\"\",\"city\":\"Van Nuys\",\"state\":\"\",\"zip\":\"\"}", "34.18666814100044", "-118.44896879299972", null, false ] ]
+, [ 12, "7D3F6D9B-4250-4F62-A92D-5198F11A8D7B", 12, 1392252122, "866803", 1393953728, "866803", "{\n}", "621", "3", "7120 Baird Ave", "Reseda", "91335_4128", "Free", "Free", "--", "--", "8 AM-6 PM X/Sun Z", "81", "--", "--", "--", "77", "4", "Surface Lot", "33500", [ "{\"address\":\"\",\"city\":\"Reseda\",\"state\":\"\",\"zip\":\"\"}", "34.20111630300045", "-118.53646768899972", null, false ] ]
+, [ 13, "98BFC286-7A7C-4351-901B-894A701E8C4D", 13, 1392252122, "866803", 1393953728, "866803", "{\n}", "622", "3", "7131 Canby Ave", "Reseda", "91335_4304", "Free", "Free", "--", "--", "8 AM-6 PM X/Sun", "62", "--", "38", "--", "21", "3", "Surface Lot", "26000", [ "{\"address\":\"\",\"city\":\"Reseda\",\"state\":\"\",\"zip\":\"\"}", "34.20111630300045", "-118.53646768899972", null, false ] ]
+, [ 14, "6F159857-32DB-44A1-ABCC-79E8585CA505", 14, 1392252122, "866803", 1393953728, "866803", "{\n}", "623", "8", "8707 Menlo Ave", "Vermont Vista", "90044_4813", "Free", "Free", "--", "--", "8 AM-6 PM X/Sun Z", "77", "--", "73", "--", "--", "4", "Surface Lot", "31630", [ "{\"address\":\"\",\"city\":\"Vermont Vista\",\"state\":\"\",\"zip\":\"\"}", "39.52368635500045", "-99.11415045099966", null, false ] ]
+, [ 15, "0D3C8B36-CE19-44B5-ACB6-17F09DCC6D49", 15, 1392252122, "866803", 1393953728, "866803", "{\n}", "624", "3", "7222 Baird Ave", "Reseda", "91335", "Free", "Free", "--", "--", "8 AM-6 PM X/Sun Z", "78", "--", "74", "--", "--", "4", "Surface Lot", "33570", [ "{\"address\":\"\",\"city\":\"Reseda\",\"state\":\"\",\"zip\":\"\"}", "34.20111630300045", "-118.53646768899972", null, false ] ]
+, [ 16, "7E969874-7AD6-4E79-BD15-67BA1B44CEED", 16, 1392252122, "866803", 1393953728, "866803", "{\n}", "625", "10", "3416 W 43rd St", "Leimert Park", "90008_4906", "Pay Station", "$0.25 / 30 Min", "$2.50", "$25.00", "7 AM-9 PM Daily Z", "172", "--", "28", "--", "138", "6", "Surface Lot", "69260", [ "{\"address\":\"\",\"city\":\"Leimert Park\",\"state\":\"\",\"zip\":\"\"}", "34.00695928600044", "-118.33145767699972", null, false ] ]
+, [ 17, "16696627-82D0-46DD-9DDB-FEF7AA4B7FCD", 17, 1392252122, "866803", 1393953728, "866803", "{\n}", "626", "10", "3328 W 43rd St", "Leimert Park", "90008_4570", "Pay Station", "$0.25 / 30 Min", "$2.50", "$25.00", "7 AM-9 PM Daily Z", "105", "--", "--", "--", "100", "5", "Surface Lot", "49360", [ "{\"address\":\"\",\"city\":\"Leimert Park\",\"state\":\"\",\"zip\":\"\"}", "34.00695928600044", "-118.33145767699972", null, false ] ]
+, [ 18, "D7A096AF-28CF-4936-9F65-014FDBC26CB5", 18, 1392252122, "866803", 1393953728, "866803", "{\n}", "627", "2", "11231 Magnolia Blvd", "North Hollywood", "91601_3703", "Pay Station", "$0.25 / 30 Min", "$2.50", "--", "7 AM-9 PM Daily", "47", "--", "22", "--", "23", "2", "Surface Lot", "20040", [ "{\"address\":\"\",\"city\":\"North Hollywood\",\"state\":\"\",\"zip\":\"\"}", "34.172228979000465", "-118.37896877699967", null, false ] ]
+, [ 19, "9FAEE605-FD57-4EFC-8AEE-041003F35750", 19, 1392252122, "866803", 1393953728, "866803", "{\n}", "628", "1", "2418 Daly St", "Lincoln Heights", "90031_2221", "Pay Station", "$0.25 / 30 Min", "$1.00 / 2 Hrs", "$30.00", "7 AM-9 PM Daily", "28", "--", "26", "--", "--", "2", "Surface Lot", "10200", [ "{\"address\":\"\",\"city\":\"Lincoln Heights\",\"state\":\"\",\"zip\":\"\"}", "40.7714482610005", "-82.48432632699968", null, false ] ]
+, [ 20, "C1F87951-9296-4F52-8B4E-BDB809FEED8F", 20, 1392252122, "866803", 1393953728, "866803", "{\n}", "629", "4", "14591 Dickens St", "Sherman Oaks", "91403_3765", "GSD", "$0.60 / 20 Min", "$6.00", "$60.00", "7 AM-11:00 PM Daily", "198", "--", "--", "--", "191", "7", "Structure", "47800", [ "{\"address\":\"\",\"city\":\"Sherman Oaks\",\"state\":\"\",\"zip\":\"\"}", "34.15111693400047", "-118.44924776799968", null, false ] ]
+, [ 21, "EE65ED89-FD37-47B6-8D4C-9C16BE0B6687", 21, 1392252122, "866803", 1393953728, "866803", "{\n}", "630", "6", "14517 Erwin St", "Van Nuys", "91411_2341", "GSD", "$0.55 / 30 MinR", "$5.00 R", "$49.50", "7 AM-5:30 PM M-F", "75", "--", "--", "--", "72", "3", "Surface Lot", "28000", [ "{\"address\":\"\",\"city\":\"Van Nuys\",\"state\":\"\",\"zip\":\"\"}", "34.18666814100044", "-118.44896879299972", null, false ] ]
+, [ 22, "58088A13-62D0-4C14-9E8F-AC0DBEC1AD3D", 22, 1392252122, "866803", 1393953728, "866803", "{\n}", "631", "6", "14402 Gilmore St", "Van Nuys", "91401_1429", "GSD", "$0.55 / 30 MinR", "$5.00 R", "$38.50", "8 AM-5 PM M-F", "68", "--", "--", "--", "65", "3", "Surface Lot", "30000", [ "{\"address\":\"\",\"city\":\"Van Nuys\",\"state\":\"\",\"zip\":\"\"}", "34.18666814100044", "-118.44896879299972", null, false ] ]
+, [ 23, "41208D88-5966-4BF7-A5EC-9AC0021225C2", 23, 1392252122, "866803", 1393953728, "866803", "{\n}", "632", "8", "5345 11th Ave", "Hyde Park", "90043_4817", "Free", "Free", "--", "--", "8 AM-6 PM X/Sun Z", "29", "--", "13", "--", "14", "2", "Surface Lot", "15000", [ "{\"address\":\"\",\"city\":\"Hyde Park\",\"state\":\"\",\"zip\":\"\"}", "41.79881560700045", "-111.8191073489997", null, false ] ]
+, [ 24, "B16B205D-6BE1-4627-96C7-2C52BF5C0D1A", 24, 1392252122, "866803", 1393953728, "866803", "{\n}", "633", "8", "5407 11th Ave", "Hyde Park", "90043_2511", "Free", "Free", "--", "--", "8 AM-6 PM X/Sun Z", "32", "--", "30", "--", "--", "2", "Surface Lot", "15000", [ "{\"address\":\"\",\"city\":\"Hyde Park\",\"state\":\"\",\"zip\":\"\"}", "41.79881560700045", "-111.8191073489997", null, false ] ]
+, [ 25, "BEB18B67-107F-4CA2-9009-3D9AD51C91CD", 25, 1392252122, "866803", 1393953728, "866803", "{\n}", "634", "8", "5701 11th Ave", "Hyde Park", "90043_2501", "Free", "Free", "--", "--", "8 AM-6 PM X/Sun Z", "35", "--", "33", "--", "--", "2", "Surface Lot", "16260", [ "{\"address\":\"\",\"city\":\"Hyde Park\",\"state\":\"\",\"zip\":\"\"}", "41.79881560700045", "-111.8191073489997", null, false ] ]
+, [ 26, "5E997449-11E1-45DB-8A53-43CDC5B6E602", 26, 1392252122, "866803", 1393953728, "866803", "{\n}", "635", "1", "119 N Avenue 56", "Highland Park", "90042_4116", "Meter / Free", "$0.25 / 30 Min", "$2.50", "--", "7 AM-9 PM Daily", "84", "--", "30 Free", "--", "50", "4", "Surface Lot", "34880", [ "{\"address\":\"\",\"city\":\"Highland Park\",\"state\":\"\",\"zip\":\"\"}", "42.18168964500046", "-87.80033645999964", null, false ] ]
+, [ 27, "76FDA4D7-3BFA-4B6C-8D5A-DAC2C3416DBC", 27, 1392252122, "866803", 1393953728, "866803", "{\n}", "636", "1", "5712 E Marmion Wy", "Highland Park", "90042_4206", "Meter / Free", "$0.25 / 30 Min", "$2.50", "--", "7 AM-9 PM Daily", "62", "--", "10 Free", "--", "50", "2", "Surface Lot", "21880", [ "{\"address\":\"\",\"city\":\"Highland Park\",\"state\":\"\",\"zip\":\"\"}", "42.18168964500046", "-87.80033645999964", null, false ] ]
+, [ 28, "E39EBB94-C26E-46E1-8716-2C15A4266893", 28, 1392252122, "866803", 1393953728, "866803", "{\n}", "637", "1", "124 N Avenue 59", "Highland Park", "90042_4208", "Meter / Free", "$0.25 / 30 Min", "$2.50", "--", "7 AM-9 PM Daily", "36", "--", "23 Free", "--", "11", "2", "Surface Lot", "13500", [ "{\"address\":\"\",\"city\":\"Highland Park\",\"state\":\"\",\"zip\":\"\"}", "42.18168964500046", "-87.80033645999964", null, false ] ]
+, [ 29, "6A9EDE46-198C-4E8E-8863-633A0BD3345D", 29, 1392252122, "866803", 1393953728, "866803", "{\n}", "638", "1", "120 S Avenue 58", "Highland Park", "90042_4704", "Single Meter", "$0.25 / 30 Min", "$2.50", "--", "7 AM-9 PM Daily", "28", "--", "--", "--", "26", "2", "Surface Lot", "10290", [ "{\"address\":\"\",\"city\":\"Highland Park\",\"state\":\"\",\"zip\":\"\"}", "42.18168964500046", "-87.80033645999964", null, false ] ]
+, [ 30, "40157ABE-7730-423E-8DE1-E2C11A343D4A", 30, 1392252122, "866803", 1393953728, "866803", "{\n}", "639", "1", "116 S Avenue 56", "Highland Park", "90042_4608", "Station/Free", "$0.25 / 30 Min", "$2.50", "$40.00", "7 AM-9 PM Daily", "47", "--", "13 Free", "--", "32", "2", "Surface Lot", "17720", [ "{\"address\":\"\",\"city\":\"Highland Park\",\"state\":\"\",\"zip\":\"\"}", "42.18168964500046", "-87.80033645999964", null, false ] ]
+, [ 31, "2774E4D8-EF6C-42AF-B3C9-377CD74F4AD4", 31, 1392252122, "866803", 1393953728, "866803", "{\n}", "640", "3", "7130 Darby Ave", "Reseda", "91335", "Free", "Free", "--", "--", "24 Hrs Daily ", "46", "--", "--", "--", "44", "2", "Surface Lot", "20830", [ "{\"address\":\"\",\"city\":\"Reseda\",\"state\":\"\",\"zip\":\"\"}", "34.20111630300045", "-118.53646768899972", null, false ] ]
+, [ 32, "BD0B235F-887E-4011-AB8D-FC6424A83706", 32, 1392252122, "866803", 1393953728, "866803", "{\n}", "641", "15", "462 W 9th St", "San Pedro", "90731", "Free", "Free", "--", "--", "8 AM-6 PM X/Sun Z", "102", "--", "40", "--", "58", "4", "Surface Lot", "39080", [ "{\"address\":\"\",\"city\":\"San Pedro\",\"state\":\"\",\"zip\":\"\"}", "33.735845896000455", "-118.29228880499971", null, false ] ]
+, [ 33, "CFB5887D-FD64-4756-9B61-F3957A009F2D", 33, 1392252122, "866803", 1393953728, "866803", "{\n}", "642", "5", "1421 S Wooster St", "Crestview", "90035_3406", "Pay Station", "$0.25 / 30 Min", "$2.50", "--", "7 AM-9 PM Daily", "50", "--", "34", "--", "13", "3", "Structure", "14800", [ "{\"address\":\"\",\"city\":\"Crestview\",\"state\":\"\",\"zip\":\"\"}", "30.762129821000485", "-86.57050586699967", null, false ] ]
+, [ 34, "C5D97FAC-F907-45DD-A98B-69DEEC5E087B", 34, 1392252122, "866803", 1393953728, "866803", "{\n}", "643", "13", "1147 Echo Park Ave", "Echo Park", "90026_4212", "Pay Station", "$0.25 / 30 Min", "$1.00 / 2 Hrs", "--", "7 AM-9 PM Daily", "43", "--", "41", "--", "--", "2", "Surface Lot", "15000", [ "{\"address\":\"\",\"city\":\"Echo Park\",\"state\":\"\",\"zip\":\"\"}", "36.13095606200045", "-81.66843939499967", null, false ] ]
+, [ 35, "8513C686-C252-4FFB-ABC6-4D1166139E42", 35, 1392252122, "866803", 1393953728, "866803", "{\n}", "644", "3", "7219 Remmet Ave", "Canoga Park", "91303_1532", "Single Meter", "$0.25 / 30 Min", "$2.50", "--", "7 AM-9 PM Daily", "18", "--", "--", "9", "8", "1", "Surface Lot", "7250", [ "{\"address\":\"\",\"city\":\"Canoga Park\",\"state\":\"\",\"zip\":\"\"}", "34.20111630300045", "-118.59813897699968", null, false ] ]
+, [ 36, "D9EAC13B-B19E-4B51-AABB-A3FAEB0D097E", 36, 1392252122, "866803", 1393953728, "866803", "{\n}", "645", "11", "1540 Purdue Ave", "West LA", "90025_3105", "Pay Station", "$1.00 / Hr", "$4.00 / 4 Hrs", "--", "7 AM-9 PM Daily", "37", "--", "--", "35", "--", "2", "Surface Lot", "14000", [ "{\"address\":\"\",\"city\":\"West LA\",\"state\":\"\",\"zip\":\"\"}", "30.647080900000446", "-90.90663965299967", null, false ] ]
+, [ 37, "5467E98D-B309-4D48-94D7-F2BC3E798F9F", 37, 1392252122, "866803", 1393953728, "866803", "{\n}", "646", "13", "3528 Larga Ave", "Atwater Village", "90039_1926", "Free", "Free", "--", "--", "8 AM-6 PM X/Sun Z", "38", "--", "18", "--", "18", "2", "Surface Lot", "13500", [ "{\"address\":\"\",\"city\":\"Atwater Village\",\"state\":\"\",\"zip\":\"\"}", "39.52368635500045", "-99.11415045099966", null, false ] ]
+, [ 38, "0A27B7D4-9894-41D2-A628-3E6FA8C79A27", 38, 1392252122, "866803", 1393953728, "866803", "{\n}", "647", "15", "474 W 8th St", "San Pedro", "90731", "Free", "Free", "--", "--", "8 AM-6 PM X/Sun Z", "41", "--", "--", "--", "39", "2", "Surface Lot", "15000", [ "{\"address\":\"\",\"city\":\"San Pedro\",\"state\":\"\",\"zip\":\"\"}", "33.735845896000455", "-118.29228880499971", null, false ] ]
+, [ 39, "AC0CF463-71A8-492B-9F9C-8BC00B7D596E", 39, 1392252122, "866803", 1393953728, "866803", "{\n}", "649", "13", "1533 N Schrader Blvd", "Hollywood", "90028_7203", "PCI", "$9.00 Flat R", "$9.00", "$125.00 R", "see below R", "55", "--", "--", "--", "52", "3", "Surface Lot", "21430", [ "{\"address\":\"\",\"city\":\"Hollywood\",\"state\":\"\",\"zip\":\"\"}", "34.098336823000466", "-118.32673761399968", null, false ] ]
+, [ 40, "39B710F5-DE5F-4460-B784-FD3E326BAFF9", 40, 1392252122, "866803", 1393953728, "866803", "{\n}", "650", "15", "928 Marine Ave", "Wilmington", "90744_4415", "Free", "Free", "--", "--", "8 AM-6 PM X/Sun", "40", "--", "38", "--", "--", "2", "Surface Lot", "15300", [ "{\"address\":\"\",\"city\":\"Wilmington\",\"state\":\"\",\"zip\":\"\"}", "34.225729024000486", "-77.94470578599964", null, false ] ]
+, [ 41, "6E24384B-203D-4183-A816-832711A95468", 41, 1392252122, "866803", 1393953728, "866803", "{\n}", "651", "11", "1516 Barry Ave", "West LA", "90025_2904", "Pay Station", "$1.00 / Hr", "$4.00 / 10 Hrs", "--", "7 AM-9 PM Daily", "20", "--", "9", "--", "10", "1", "Surface Lot", "7000", [ "{\"address\":\"\",\"city\":\"West LA\",\"state\":\"\",\"zip\":\"\"}", "30.647080900000446", "-90.90663965299967", null, false ] ]
+, [ 42, "48C290D6-8FC3-4B1D-B934-F307282FAB5A", 42, 1392252122, "866803", 1393953728, "866803", "{\n}", "652", "11", "1530 Butler Ave", "West LA", "90025_3002", "Pay Station", "$1.00 / Hr", "$4.00 / 4 Hrs", "--", "7 AM-9 PM Daily", "43", "--", "30", "11", "--", "2", "Surface Lot", "14850", [ "{\"address\":\"\",\"city\":\"West LA\",\"state\":\"\",\"zip\":\"\"}", "30.647080900000446", "-90.90663965299967", null, false ] ]
+, [ 43, "E4D4D706-8558-4C3E-9344-E9BA3E57C0A9", 43, 1392252122, "866803", 1393953728, "866803", "{\n}", "653", "11", "1547 Corinth Ave", "West LA", "90025_3201", "Pay Station", "$1.00 / Hr", "$4.00 / 10 Hrs", "$50.00", "7 AM-9 PM Daily", "38", "--", "--", "--", "36", "2", "Surface Lot", "14000", [ "{\"address\":\"\",\"city\":\"West LA\",\"state\":\"\",\"zip\":\"\"}", "30.647080900000446", "-90.90663965299967", null, false ] ]
+, [ 44, "41DADFE8-8CDF-4733-AFFD-6D269A29F271", 44, 1392252122, "866803", 1393953728, "866803", "{\n}", "654", "11", "1611 Beloit Ave", "West LA", "90025_3106", "Pay Station", "$1.00 / Hr", "$4.00 / 10 Hrs", "--", "7 AM-9 PM Daily", "20", "--", "10", "--", "9", "1", "Surface Lot", "7000", [ "{\"address\":\"\",\"city\":\"West LA\",\"state\":\"\",\"zip\":\"\"}", "30.647080900000446", "-90.90663965299967", null, false ] ]
+, [ 45, "CAF6FBE6-FAC0-489C-A98D-8C087C20F004", 45, 1392252122, "866803", 1393953728, "866803", "{\n}", "655", "11", "11312 Idaho Ave", "West LA", "90025_3108", "Pay Station", "$1.00 / Hr", "$4.00 / 4 Hrs", "--", "7 AM-9 PM Daily Z", "17", "--", "10", "6", "--", "1", "Surface Lot", "9630", [ "{\"address\":\"\",\"city\":\"West LA\",\"state\":\"\",\"zip\":\"\"}", "30.647080900000446", "-90.90663965299967", null, false ] ]
+, [ 46, "6A174028-C808-48D4-B15D-6A55FBDE6B99", 46, 1392252122, "866803", 1393953728, "866803", "{\n}", "656", "11", "1615 Colby Ave", "West LA", "90025_3013", "Pay Station", "$1.00 / Hr", "$4.00 / 4 Hrs", "--", "7 AM-9 PM Daily", "34", "--", "22", "10", "--", "2", "Surface Lot", "12320", [ "{\"address\":\"\",\"city\":\"West LA\",\"state\":\"\",\"zip\":\"\"}", "30.647080900000446", "-90.90663965299967", null, false ] ]
+, [ 47, "BC308E41-05DD-4D03-A1B2-26139476534A", 47, 1392252122, "866803", 1393953728, "866803", "{\n}", "657", "1", "221 Avenue 22", "Lincoln Heights", "90031_2206", "Free", "Free", "--", "--", "8 AM-6 PM X/Sun", "40", "--", "26", "--", "12", "2", "Surface Lot", "15500", [ "{\"address\":\"\",\"city\":\"Lincoln Heights\",\"state\":\"\",\"zip\":\"\"}", "40.7714482610005", "-82.48432632699968", null, false ] ]
+, [ 48, "2A216906-27A8-440D-BDC1-6BFEBF3BD4E5", 48, 1392252122, "866803", 1393953728, "866803", "{\n}", "658", "1", "216 Avenue 24", "Lincoln Heights", "90031_2210", "Pay Station", "$0.25 / 30 Min", "$1.00 / 2 Hrs", "$60.00", "7 AM-9 PM Daily", "59", "--", "56", "--", "--", "3", "Surface Lot", "19800", [ "{\"address\":\"\",\"city\":\"Lincoln Heights\",\"state\":\"\",\"zip\":\"\"}", "40.7714482610005", "-82.48432632699968", null, false ] ]
+, [ 49, "1B411D4F-3EC1-4B99-AA48-5F4AC4CF38AC", 49, 1392252122, "866803", 1393953728, "866803", "{\n}", "659", "1", "2334 Daly St", "Lincoln Heights", "90031_2263", "Pay Station", "$0.25 / 30 Min", "$2.50", "--", "7 AM-9 PM Daily", "79", "--", "55", "--", "20", "4", "Surface Lot", "37200", [ "{\"address\":\"\",\"city\":\"Lincoln Heights\",\"state\":\"\",\"zip\":\"\"}", "40.7714482610005", "-82.48432632699968", null, false ] ]
+, [ 50, "C658C169-14AA-4735-A33B-53D7CEC61C53", 50, 1392252122, "866803", 1393953728, "866803", "{\n}", "660", "1", "154 Avenue 24", "Lincoln Heights", "90031_2256", "Pay Station", "$0.25 / 30 Min", "$2.50", "$30.00", "7 AM-9 PM Daily", "51", "--", "23", "--", "25", "3", "Surface Lot", "18980", [ "{\"address\":\"\",\"city\":\"Lincoln Heights\",\"state\":\"\",\"zip\":\"\"}", "40.7714482610005", "-82.48432632699968", null, false ] ]
+, [ 51, "E1FF0FF6-4CD5-43E6-8F0F-9902AA0D47EA", 51, 1392252122, "866803", 1393953728, "866803", "{\n}", "661", "1", "2416 Workman St", "Lincoln Heights", "90031_2320", "Free", "Free", "--", "--", "8 AM-6 PM X/Sun", "46", "--", "22", "--", "22", "2", "Surface Lot", "16500", [ "{\"address\":\"\",\"city\":\"Lincoln Heights\",\"state\":\"\",\"zip\":\"\"}", "40.7714482610005", "-82.48432632699968", null, false ] ]
+, [ 52, "C67CC3E1-C285-4AAE-B4B0-AF8AE4007087", 52, 1392252122, "866803", 1393953728, "866803", "{\n}", "662", "13", "1152 Lemoyne St", "Echo Park", "90026_3207", "Pay Station", "$0.25 / 30 Min", "$2.50", "$30.00", "7 AM-9 PM X/Sun", "82", "--", "38", "--", "40", "4", "Surface Lot", "26750", [ "{\"address\":\"\",\"city\":\"Echo Park\",\"state\":\"\",\"zip\":\"\"}", "36.13095606200045", "-81.66843939499967", null, false ] ]
+, [ 53, "859B3F29-E434-42E0-897C-5D181B881166", 53, 1392252122, "866803", 1393953728, "866803", "{\n}", "663", "13", "1146 Logan St", "Echo Park", "90026_3211", "Pay Station", "$0.25 / 30 Min", "$2.50", "--", "7 AM-9 PM Daily", "38", "--", "27", "--", "9", "2", "Surface Lot", "14000", [ "{\"address\":\"\",\"city\":\"Echo Park\",\"state\":\"\",\"zip\":\"\"}", "36.13095606200045", "-81.66843939499967", null, false ] ]
+, [ 54, "AFBE7F30-DA50-4D40-B025-82587C5BB2B7", 54, 1392252122, "866803", 1393953728, "866803", "{\n}", "664", "14", "4883 Navarro St", "El Sereno", "90032_2228", "Free", "Free", "--", "--", "24 Hrs Daily ", "30", "--", "28", "--", "--", "2", "Surface Lot", "12250", [ "{\"address\":\"\",\"city\":\"El Sereno\",\"state\":\"\",\"zip\":\"\"}", "34.081116918000475", "-118.17784640499968", null, false ] ]
+, [ 55, "B8E6947E-E648-4EC4-9846-2EBCAB8E7980", 55, 1392252122, "866803", 1393953728, "866803", "{\n}", "665", "8", "323 W 87th St", "Vermont Vista", "90003_3313", "Free", "Free", "--", "--", "8 AM-6 PM X/Sun", "64", "--", "--", "61", "--", "3", "Surface Lot", "32370", [ "{\"address\":\"\",\"city\":\"Vermont Vista\",\"state\":\"\",\"zip\":\"\"}", "39.52368635500045", "-99.11415045099966", null, false ] ]
+, [ 56, "24CBE9D9-805A-4E11-BFEC-6BCD737D60FC", 56, 1392252122, "866803", 1393953728, "866803", "{\n}", "668", "14", "5058 Meridian St", "Eagle Rock", "90042_1723", "Pay Station", "$0.25 / 30 Min", "$2.50", "--", "7 AM-9 PM Daily Z", "44", "--", "18", "--", "24", "2", "Surface Lot", "15600", [ "{\"address\":\"\",\"city\":\"Eagle Rock\",\"state\":\"\",\"zip\":\"\"}", "34.138896066000484", "-118.2139555599997", null, false ] ]
+, [ 57, "38F0BD95-5566-46FF-B077-E70B3E1BCB39", 57, 1392252122, "866803", 1393953728, "866803", "{\n}", "669", "1", "5033 Lincoln Ave", "Eagle Rock", "90042_2343", "Pay Station", "$1.00 / Hr", "$4.00 / 10 Hrs", "--", "7 AM-Midnight DailyZ", "39", "--", "18", "--", "19", "2", "Surface Lot", "15600", [ "{\"address\":\"\",\"city\":\"Eagle Rock\",\"state\":\"\",\"zip\":\"\"}", "34.138896066000484", "-118.2139555599997", null, false ] ]
+, [ 58, "9CE05A88-EE67-4DBB-8084-8AF903DFEE6A", 58, 1392252122, "866803", 1393953728, "866803", "{\n}", "670", "13", "1710 N Cherokee Ave", "Hollywood", "90028_4818", "PCI", "$2.00 / 15 MinR", "$16.00", "$144.00", "24 Hrs Daily ", "386", "--", "--", "--", "378", "8", "Structure", "49400", [ "{\"address\":\"\",\"city\":\"Hollywood\",\"state\":\"\",\"zip\":\"\"}", "34.098336823000466", "-118.32673761399968", null, false ] ]
+, [ 59, "5031B57F-E273-48C3-8A3A-AB46284F01E7", 59, 1392252122, "866803", 1393953728, "866803", "{\n}", "672", "1", "124 S Avenue 57", "Highland Park", "90042_4702", "Meter / Free", "$0.25 / 30 Min", "$2.50", "--", "7 AM-9 PM Daily", "32", "--", "15 Free", "--", "15", "2", "Surface Lot", "14150", [ "{\"address\":\"\",\"city\":\"Highland Park\",\"state\":\"\",\"zip\":\"\"}", "42.18168964500046", "-87.80033645999964", null, false ] ]
+, [ 60, "37BE8A06-8EF0-417B-9DFA-162D34950AE3", 60, 1392252122, "866803", 1393953728, "866803", "{\n}", "673", "1", "117 S Avenue 58", "Highland Park", "90042_4703", "Meter / Free", "$0.25 / 30 Min", "$2.50", "--", "7 AM-9 PM Daily", "32", "--", "20 Free", "--", "10", "2", "Surface Lot", "14000", [ "{\"address\":\"\",\"city\":\"Highland Park\",\"state\":\"\",\"zip\":\"\"}", "42.18168964500046", "-87.80033645999964", null, false ] ]
+, [ 61, "2A4FF026-7400-4F38-AF2B-C1ED2DB36250", 61, 1392252122, "866803", 1393953728, "866803", "{\n}", "674", "3", "7220 Jordan Ave", "Canoga Park", "91303", "Free", "Free", "--", "--", "24 Hrs Daily ", "35", "--", "33", "--", "--", "2", "Surface Lot", "11000", [ "{\"address\":\"\",\"city\":\"Canoga Park\",\"state\":\"\",\"zip\":\"\"}", "34.20111630300045", "-118.59813897699968", null, false ] ]
+, [ 62, "E0D967CD-F144-4A84-970C-5DA864B0F2AE", 62, 1392252122, "866803", 1393953728, "866803", "{\n}", "675", "4", "4642 Russell Ave", "Los Feliz", "90027_4240", "Pay Station", "$1.00 / Hr", "$4.00 / 10 Hrs", "--", "7 AM-Midnight Daily", "32", "--", "--", "--", "30", "2", "Surface Lot", "13500", [ "{\"address\":\"\",\"city\":\"Los Feliz\",\"state\":\"\",\"zip\":\"\"}", "34.110877161000474", "-118.2856789169997", null, false ] ]
+, [ 63, "99C3A38D-2FED-4CE8-B3E5-8652B44D8CD7", 63, 1392252122, "866803", 1393953728, "866803", "{\n}", "676", "13", "1146 Glendale Blvd", "Echo Park", "90026", "Single Meter", "$0.25 / 30 Min", "$2.50", "--", "7 AM-9 PM X/Sun", "9", "--", "--", "--", "8", "1", "Surface Lot", "3500", [ "{\"address\":\"\",\"city\":\"Echo Park\",\"state\":\"\",\"zip\":\"\"}", "36.13095606200045", "-81.66843939499967", null, false ] ]
+, [ 64, "AE28A135-DC1E-4423-AB3F-E5480D9CFB35", 64, 1392252122, "866803", 1393953728, "866803", "{\n}", "677", "14", "308 S Hill St", "Downtown", "90013-1109", "API", "$2.00 / 15 MinR", "$10.00", "--", "see below R", "200", "--", "--", "--", "194", "6", "Structure", null, [ "{\"address\":\"\",\"city\":\"Downtown\",\"state\":\"\",\"zip\":\"\"}", "34.04163757400045", "-118.24704999499971", null, false ] ]
+, [ 65, "0356BA88-12F9-41A8-BA2D-CFF33CCFEEBD", 65, 1392252122, "866803", 1393953728, "866803", "{\n}", "678", "9", "8509 S Broadway", "Vermont Vista", "90003_3334", "Free", "Free", "--", "--", "24 Hrs Daily ", "61", "--", "58", "--", "--", "3", "Surface Lot", "22770", [ "{\"address\":\"\",\"city\":\"Vermont Vista\",\"state\":\"\",\"zip\":\"\"}", "39.52368635500045", "-99.11415045099966", null, false ] ]
+, [ 66, "AD8ADC74-2EAB-4339-B4B4-08D18FCC43DF", 66, 1392252122, "866803", 1393953728, "866803", "{\n}", "679", "13", "1711 Sunset Blvd", "Echo Park", "90026_3224", "Single Meter", "$0.25 / 30 Min", "$2.50", "--", "7 AM-9 PM Daily", "14", "--", "--", "--", "13", "1", "Surface Lot", "5900", [ "{\"address\":\"\",\"city\":\"Echo Park\",\"state\":\"\",\"zip\":\"\"}", "36.13095606200045", "-81.66843939499967", null, false ] ]
+, [ 67, "A975F6D9-D944-4ABB-9CDC-A1FC9FC79FAF", 67, 1392252122, "866803", 1393953728, "866803", "{\n}", "680", "5", "1036 Broxton Ave", "Westwood", "90024_2824", "GSD", "$1.50 / 20 MinR", "$9.00 R", "$125.00", "see below R", "366", "--", "--", "--", "358", "8", "Structure", "29070", [ "{\"address\":\"\",\"city\":\"Westwood\",\"state\":\"\",\"zip\":\"\"}", "42.21398765400045", "-71.22449720899965", null, false ] ]
+, [ 68, "00EFFC3B-4ABF-4C17-96C3-CCE7F2872089", 68, 1392252122, "866803", 1393953728, "866803", "{\n}", "681", "11", "15216 Sunset Blvd", "Pacific Palisades", "90272_3611", "Pay Station", "$1.00 / Hr", "$2.00 / 2 Hrs", "--", "7 AM-9 PM Daily", "25", "11", "13", "--", "--", "1", "Surface Lot", "9000", [ "{\"address\":\"\",\"city\":\"Pacific Palisades\",\"state\":\"\",\"zip\":\"\"}", "21.425557572000457", "-157.96082621699975", null, false ] ]
+, [ 69, "1045DB58-42CC-41D2-9BBB-B0D3BEBF10FF", 69, 1392252122, "866803", 1393953728, "866803", "{\n}", "682", "14", "318 N Breed St", "Boyle Heights", "90033_1802", "Pay Station", "$0.25 / 30 Min", "$2.50", "--", "7 AM-9 PM Daily", "27", "--", "--", "--", "25", "2", "Surface Lot", "12500", [ "{\"address\":\"\",\"city\":\"Boyle Heights\",\"state\":\"\",\"zip\":\"\"}", "34.03389829100047", "-118.20534785699971", null, false ] ]
+, [ 70, "E0FA28C9-BE78-48D8-A2B5-79AE24304809", 70, 1392252122, "866803", 1393953728, "866803", "{\n}", "683", "15", "445 W 5th St", "San Pedro", "90731", "Single Meter", "$0.25 / 30 Min", "$2.00", "$30.00", "8 AM-6 PM X/Sun Z", "26", "--", "--", "24", "--", "2", "Surface Lot", "11500", [ "{\"address\":\"\",\"city\":\"San Pedro\",\"state\":\"\",\"zip\":\"\"}", "33.735845896000455", "-118.29228880499971", null, false ] ]
+, [ 71, "00DA4E07-AB83-4EA7-B18F-34ADAA05C166", 71, 1392252122, "866803", 1393953728, "866803", "{\n}", "684", "15", "460 W 7th St", "San Pedro", "90731", "Pay Station", "$0.25 / 30 Min", "$2.50", "$30.00", "8 AM-6 PM X/Sun Z", "86", "--", "39", "--", "43", "4", "Surface Lot", "31200", [ "{\"address\":\"\",\"city\":\"San Pedro\",\"state\":\"\",\"zip\":\"\"}", "33.735845896000455", "-118.29228880499971", null, false ] ]
+, [ 72, "D0409CE4-7332-4D53-AF9C-D755979F3FB2", 72, 1392252122, "866803", 1393953728, "866803", "{\n}", "685", "5", "2386 Malcolm Ave", "Rancho Park", "90064_2206", "Pay Station", "$1.00 / Hr", "$4.00 / 10 Hrs", "--", "7 AM-9 PM Daily", "19", "--", "--", "--", "18", "1", "Surface Lot", "6450", [ "{\"address\":\"\",\"city\":\"Rancho Park\",\"state\":\"\",\"zip\":\"\"}", "34.045759192000446", "-118.42055842499968", null, false ] ]
+, [ 73, "55469491-5CA5-4BAE-AD6A-263C9ED61713", 73, 1392252122, "866803", 1393953728, "866803", "{\n}", "686", "14", "5063 Caspar Ave", "Eagle Rock", "90041_1967", "Single Meter", "$0.25 / 30 Min", "$2.50", "--", "7 AM-9 PM Daily", "29", "--", "11", "--", "16", "2", "Surface Lot", "13060", [ "{\"address\":\"\",\"city\":\"Eagle Rock\",\"state\":\"\",\"zip\":\"\"}", "34.138896066000484", "-118.2139555599997", null, false ] ]
+, [ 74, "7CA2A73E-2AE5-4C07-A7EF-900D161273C6", 74, 1392252122, "866803", 1393953728, "866803", "{\n}", "687", "3", "7141 Remmet Ave", "Canoga Park", "91303_2016", "Free", "Free", "--", "--", "24 Hrs Daily ", "21", "--", "20", "--", "--", "1", "Surface Lot", "7250", [ "{\"address\":\"\",\"city\":\"Canoga Park\",\"state\":\"\",\"zip\":\"\"}", "34.20111630300045", "-118.59813897699968", null, false ] ]
+, [ 75, "2C31801E-5461-47F6-AB9C-0E5386B9E83E", 75, 1392252122, "866803", 1393953728, "866803", "{\n}", "688", "5", "1156 Clark Dr", "Crestview", "90035_1400", "Pay Station", "$0.25 / 20 Min", "$3.00", "--", "7 AM-9 PM Daily", "27", "--", "11", "--", "14", "2", "Structure", "12750", [ "{\"address\":\"\",\"city\":\"Crestview\",\"state\":\"\",\"zip\":\"\"}", "30.762129821000485", "-86.57050586699967", null, false ] ]
+, [ 76, "6E5F6E45-25BE-4C64-A84E-95155926BC46", 76, 1392252122, "866803", 1393953728, "866803", "{\n}", "689", "5", "8866 Pico Blvd", "Crestview", "90035_3302", "Pay Station", "$0.25 / 20 Min", "$3.00", "--", "7 AM-9 PM Daily", "39", "--", "--", "--", "37", "2", "Surface Lot", "14400", [ "{\"address\":\"\",\"city\":\"Crestview\",\"state\":\"\",\"zip\":\"\"}", "30.762129821000485", "-86.57050586699967", null, false ] ]
+, [ 77, "7DA28598-9585-4645-A4B3-39EDF7B835A0", 77, 1392252122, "866803", 1393953728, "866803", "{\n}", "690", "2", "12225 Ventura Blvd", "Studio City", "91604_2519", "GSD", "see below R", "$6.00", "$47.50", "see below R", "393", "--", "--", "--", "385", "8", "Structure", "41860", [ "{\"address\":\"\",\"city\":\"Studio City\",\"state\":\"\",\"zip\":\"\"}", "34.14861966500047", "-118.39646765599969", null, false ] ]
+, [ 78, "44C517EE-C705-4324-9C29-662A6CE2AF13", 78, 1392252122, "866803", 1393953728, "866803", "{\n}", "692", "10", "601 S Vermont Ave", "Wilshire Center", "90005_1347", "Single Meter", "$0.25 / 20 Min", "$3.00", "--", "7 AM-9 PM Daily", "57", "--", "--", "--", "54", "3", "Surface Lot", "24570", [ "{\"address\":\"\",\"city\":\"Wilshire Center\",\"state\":\"\",\"zip\":\"\"}", "39.52368635500045", "-99.11415045099966", null, false ] ]
+, [ 79, "A2C7C3FC-4D13-4867-8888-53BBF6AEF975", 79, 1392252122, "866803", 1393953728, "866803", "{\n}", "694", "4", "209 N Larchmont Blvd", "Hancock Park", "90004_3706", "Pay Station", "$1.00 / Hr", "$2.00 / 2 Hrs", "--", "7 AM-Midnight Daily", "34", "--", "32", "--", "--", "2", "Surface Lot", "12500", [ "{\"address\":\"\",\"city\":\"Hancock Park\",\"state\":\"\",\"zip\":\"\"}", "34.067789152000444", "-118.3325780729997", null, false ] ]
+, [ 80, "9F4E3CBB-169E-4E92-A957-280928833F97", 80, 1392252122, "866803", 1393953728, "866803", "{\n}", "695", "1", "123 N Avenue 57", "Highland Park", "90042_4115", "Meter / Free", "$0.25 / 30 Min", "$2.50", "--", "7 AM-9 PM Daily", "38", "--", "20 Free", "--", "16", "2", "Surface Lot", "16880", [ "{\"address\":\"\",\"city\":\"Highland Park\",\"state\":\"\",\"zip\":\"\"}", "42.18168964500046", "-87.80033645999964", null, false ] ]
+, [ 81, "D7BCD230-F10C-4DDB-B8EE-F417C9A93598", 81, 1392252122, "866803", 1393953728, "866803", "{\n}", "696", "15", "835 Avalon Blvd", "Wilmington", "90744_4501", "Free", "Free", "--", "--", "24 Hrs Daily ", "14", "--", "13", "--", "--", "1", "Surface Lot", "6780", [ "{\"address\":\"\",\"city\":\"Wilmington\",\"state\":\"\",\"zip\":\"\"}", "34.225729024000486", "-77.94470578599964", null, false ] ]
+, [ 82, "C53D4068-A7E3-406C-8114-28A78C29B7D7", 82, 1392252122, "866803", 1393953728, "866803", "{\n}", "697", "1", "2332 Workman St", "Lincoln Heights", "90031_2616", "Free", "Free", "--", "--", "8 AM-6 PM X/Sun", "26", "--", "--", "--", "24", "2", "Surface Lot", "14000", [ "{\"address\":\"\",\"city\":\"Lincoln Heights\",\"state\":\"\",\"zip\":\"\"}", "40.7714482610005", "-82.48432632699968", null, false ] ]
+, [ 83, "F0E0D2F3-5497-4701-91A0-D99CD0624B6B", 83, 1392252122, "866803", 1393953728, "866803", "{\n}", "698", "5", "2367 Prosser Ave", "Century City", "90064_2323", "Pay Station", "$0.25 / 30 Min", "$2.50", "--", "7 AM-9 PM Daily", "25", "8", "--", "--", "15", "2", "Surface Lot", "12050", [ "{\"address\":\"\",\"city\":\"Century City\",\"state\":\"\",\"zip\":\"\"}", "34.05556828400046", "-118.4178586749997", null, false ] ]
+, [ 84, "5BB04F8D-9716-480A-92DA-C2B84C8AF80B", 84, 1392252122, "866803", 1393953728, "866803", "{\n}", "699", "15", "529 W 11th St", "San Pedro", "90731", "Free", "Free", "--", "--", "8 AM-6 PM X/Sa,SuZ", "40", "--", "38", "--", "--", "2", "Surface Lot", "18900", [ "{\"address\":\"\",\"city\":\"San Pedro\",\"state\":\"\",\"zip\":\"\"}", "33.735845896000455", "-118.29228880499971", null, false ] ]
+, [ 85, "209C3C39-7A9F-4D94-A484-88975DEE0CA0", 85, 1392252122, "866803", 1393953728, "866803", "{\n}", "700", "8", "239 W 86th Pl", "Vermont Vista", "90003_3307", "Free", "Free", "--", "--", "24 Hrs Daily ", "21", "--", "20", "--", "--", "1", "Surface Lot", "8640", [ "{\"address\":\"\",\"city\":\"Vermont Vista\",\"state\":\"\",\"zip\":\"\"}", "39.52368635500045", "-99.11415045099966", null, false ] ]
+, [ 86, "93936DDA-B355-4FB6-8AA4-58C5273B501D", 86, 1392252122, "866803", 1393953728, "866803", "{\n}", "701", "11", "2150 Dell Ave", "Venice", "90291_4526", "PCI", "see below R", "see below R", "$15.00 R", "see below R", "150", "--", "--", "--", "144", "6", "Surface Lot", "78270", [ "{\"address\":\"\",\"city\":\"Venice\",\"state\":\"\",\"zip\":\"\"}", "33.99083727900046", "-118.46007826399972", null, false ] ]
+, [ 87, "4153DC14-7319-43DD-8323-E148EDAC712D", 87, 1392252122, "866803", 1393953728, "866803", "{\n}", "702", "13", "1627 N Vine St", "Hollywood", "90028_8802", "PCI", "$2.00 / 30 MinR", "$12.00  R", "$100.00 R", "24 Hrs Daily ", "457", "--", "--", "--", "448", "9", "Structure", "41540", [ "{\"address\":\"\",\"city\":\"Hollywood\",\"state\":\"\",\"zip\":\"\"}", "34.098336823000466", "-118.32673761399968", null, false ] ]
+, [ 88, "C62051CB-F48C-4C57-A159-9C680AA7DE76", 88, 1392252122, "866803", 1393953728, "866803", "{\n}", "703", "5", "123 S Robertson Blvd", "Carthay", "90048_3207", "GSD", "see below R", "$12.00", "$150.00", "6 AM-11:30 PM Daily", "334", "--", "--", "--", "326", "8", "Structure", "23620", [ "{\"address\":\"\",\"city\":\"Carthay\",\"state\":\"\",\"zip\":\"\"}", "39.52368635500045", "-99.11415045099966", null, false ] ]
+, [ 89, "C4D7F958-40E9-45CF-8BAC-EE536BF68BE0", 89, 1392252122, "866803", 1393953728, "866803", "{\n}", "704", "3", "7128 Jordan Ave", "Canoga Park", "91303", "Single Meter", "$0.25 / 30 Min", "$2.50", "--", "7 AM-9 PM Daily", "37", "--", "9", "--", "26", "2", "Surface Lot", "15000", [ "{\"address\":\"\",\"city\":\"Canoga Park\",\"state\":\"\",\"zip\":\"\"}", "34.20111630300045", "-118.59813897699968", null, false ] ]
+, [ 90, "A06887CB-B4E5-4B12-8E66-9FED26D52B61", 90, 1392252122, "866803", 1393953728, "866803", "{\n}", "705", "3", "21901 W Costanso St", "Woodland Hills", "91364", "Pay Station", "$0.25 / 30 Min", "$2.50", "--", "7 AM-9 PM Daily", "28", "--", "--", "--", "26", "2", "Surface Lot", "15450", [ "{\"address\":\"\",\"city\":\"Woodland Hills\",\"state\":\"\",\"zip\":\"\"}", "34.16833683900046", "-118.6059187569997", null, false ] ]
+, [ 91, "82C4F1B2-22B6-4ECB-A3C2-63367BF04B40", 91, 1392252122, "866803", 1393953728, "866803", "{\n}", "707", "5", "2377 Midvale Ave", "Rancho Park", "90064_2103", "Pay Station", "$1.00 / Hr", "$4.00 / 10 Hrs", "--", "7 AM-9 PM Daily", "41", "--", "30", "--", "9", "2", "Surface Lot", "16920", [ "{\"address\":\"\",\"city\":\"Rancho Park\",\"state\":\"\",\"zip\":\"\"}", "34.045759192000446", "-118.42055842499968", null, false ] ]
+, [ 92, "ED3DA8B1-604C-4CF5-8145-51320A7BECD9", 92, 1392252122, "866803", 1393953728, "866803", "{\n}", "711", "13", "3528 Garden Ave", "Atwater Village", "90039_1922", "Free", "Free", "--", "--", "6 AM-2 AM Daily Z", "34", "--", "32", "--", "--", "2", "Surface Lot", "13500", [ "{\"address\":\"\",\"city\":\"Atwater Village\",\"state\":\"\",\"zip\":\"\"}", "39.52368635500045", "-99.11415045099966", null, false ] ]
+, [ 93, "764D6981-D547-42B6-B8F8-D33F9EBC5C49", 93, 1392252122, "866803", 1393953728, "866803", "{\n}", "712", "3", "7246 Baird Ave", "Reseda", "91335", "Free", "Free", "--", "--", "8 AM-6 PM X/Sun Z", "34", "--", "--", "--", "32", "2", "Surface Lot", "15000", [ "{\"address\":\"\",\"city\":\"Reseda\",\"state\":\"\",\"zip\":\"\"}", "34.20111630300045", "-118.53646768899972", null, false ] ]
+, [ 94, "2BB647CC-FAF5-455C-8BF0-FE9AFD0EF530", 94, 1392252122, "866803", 1393953728, "866803", "{\n}", "713", "14", "249 N Chicago St", "Boyle Heights", "90033_2906", "Pay Station", "$0.25 / 30 Min", "$2.50", "$30.00", "7 AM-9 PM Daily", "69", "--", "19", "--", "47", "3", "Surface Lot", "27150", [ "{\"address\":\"\",\"city\":\"Boyle Heights\",\"state\":\"\",\"zip\":\"\"}", "34.03389829100047", "-118.20534785699971", null, false ] ]
+, [ 95, "DDC39690-A163-46F4-AFB8-72DF9CBE44FD", 95, 1392252122, "866803", 1393953728, "866803", "{\n}", "715", "5", "2371 Overland Ave", "Century City", "90064_2209", "Pay Station", "$0.25 / 20 Min", "$3.00", "--", "7 AM-9 PM Daily", "27", "--", "6", "--", "19", "2", "Surface Lot", "10900", [ "{\"address\":\"\",\"city\":\"Century City\",\"state\":\"\",\"zip\":\"\"}", "34.05556828400046", "-118.4178586749997", null, false ] ]
+, [ 96, "758F1B92-4373-4C2F-B7CB-7ABEFD149399", 96, 1392252122, "866803", 1393953728, "866803", "{\n}", "725", "3", "7117 Remmet Ave", "Canoga Park", "91303_2016", "Free", "Free", "--", "--", "24 Hrs Daily ", "17", "--", "--", "--", "16", "1", "Surface Lot", "7500", [ "{\"address\":\"\",\"city\":\"Canoga Park\",\"state\":\"\",\"zip\":\"\"}", "34.20111630300045", "-118.59813897699968", null, false ] ]
+, [ 97, "D6B16485-C06A-4D58-96B1-A6DA30BF8462", 97, 1392252122, "866803", 1393953728, "866803", "{\n}", "731", "11", "200 N Venice Blvd", "Venice", "90291", "PCI", "see below R", "see below R", "$55.00 Z", "see below RZ", "177", "--", "--", "--", "171", "6", "Surface Lot", "132000", [ "{\"address\":\"\",\"city\":\"Venice\",\"state\":\"\",\"zip\":\"\"}", "33.99083727900046", "-118.46007826399972", null, false ] ]
+, [ 98, "AFFA936A-FB61-4752-B8AF-7FE979D39DE3", 98, 1392252122, "866803", 1393953728, "866803", "{\n}", "732", "4", "218 N Larchmont Blvd", "Hancock Park", "90004_3707", "GSD", "$0.75 / 30 MinR", "$6.00", "$65.00", "see below R", "167", "17", "--", "--", "144", "6", "Structure", "19200", [ "{\"address\":\"\",\"city\":\"Hancock Park\",\"state\":\"\",\"zip\":\"\"}", "34.067789152000444", "-118.3325780729997", null, false ] ]
+, [ 99, "3D5DAD1F-30D6-42F6-A1E0-05AF04DB16C4", 99, 1392252122, "866803", 1393953728, "866803", "{\n}", "735", "15", "396 W 6th St", "San Pedro", "90731_2622", "Pay Station", "$0.25 / 30 Min", "$2.00 / 4 Hrs", "--", "8 AM-6 PM X/Sun Z", "50", "--", "--", "48", "--", "2", "Surface Lot", "10700", [ "{\"address\":\"\",\"city\":\"San Pedro\",\"state\":\"\",\"zip\":\"\"}", "33.735845896000455", "-118.29228880499971", null, false ] ]
+, [ 100, "FC5DBC35-8A36-4D5F-821E-43EDA8797F06", 100, 1392252122, "866803", 1393953728, "866803", "{\n}", "740", "11", "301 S Main St", "Venice", "90291_2523", "PCI-Pay Sta", "see below R", "see below R", "--", "see below R", "41", "--", "23", "--", "16", "2", "Surface Lot", "12770", [ "{\"address\":\"\",\"city\":\"Venice\",\"state\":\"\",\"zip\":\"\"}", "33.99083727900046", "-118.46007826399972", null, false ] ]
+, [ 101, "19A8F843-33BB-4DE1-83E1-869C8062491D", 101, 1392252122, "866803", 1393953728, "866803", "{\n}", "742", "13", "1637 N Wilcox Ave", "Hollywood", "90028_6205", "PCI", "see below R", "$10.00", "$90.00", "8 AM-12:30 AM Daily", "149", "--", "--", "--", "144", "5", "Surface Lot", "45790", [ "{\"address\":\"\",\"city\":\"Hollywood\",\"state\":\"\",\"zip\":\"\"}", "34.098336823000466", "-118.32673761399968", null, false ] ]
+, [ 102, "2FDD46F6-6B99-4E5D-B150-0848AE91194E", 102, 1392252122, "866803", 1393953728, "866803", "{\n}", "744", "8", "8463 S Vermont Ave", "Vermont Knolls", "90044_3448", "Pay Station", "$0.25 / 30 Min", "$2.50", "--", "7 AM-9 PM Daily", "23", "--", "--", "--", "22", "1", "Surface Lot", "8800", [ "{\"address\":\"\",\"city\":\"Vermont Knolls\",\"state\":\"\",\"zip\":\"\"}", "39.52368635500045", "-99.11415045099966", null, false ] ]
+, [ 103, "9676A813-1CCA-4F6A-A10A-00F138621943", 103, 1392252122, "866803", 1393953728, "866803", "{\n}", "745", "13", "6801 Hollywood Blvd", "Hollywood", "90028_6101", "NSP-CA", "$1.00 / 15 MinR", "$13.00", "$120.00 R", "9 AM-2 AM Daily", "3021", "--", "--", "--", "2980", "41", "Structure", "216100", [ "{\"address\":\"\",\"city\":\"Hollywood\",\"state\":\"\",\"zip\":\"\"}", "34.098336823000466", "-118.32673761399968", null, false ] ]
+, [ 104, "D1B599E9-BA2B-47EC-9B37-B33F3D4979D4", 104, 1392252122, "866803", 1393953728, "866803", "{\n}", "747", "2", "5000 N Vineland Ave", "North Hollywood", "91601_3815", "Meter / Free", "$0.25 / 30 Min", "$2.50", "--", "7 AM-9 PM Daily", "92", "--", "30+18 F", "--", "39", "5", "Surface Lot", "19360", [ "{\"address\":\"\",\"city\":\"North Hollywood\",\"state\":\"\",\"zip\":\"\"}", "34.172228979000465", "-118.37896877699967", null, false ] ]
+, [ 105, "4B036589-ACE1-46C6-BCAC-A142CAD1D907", 105, 1392252122, "866803", 1393953728, "866803", "{\n}", "748", "5", "11010 Santa Monica Bl", "West LA", "90025", "Pay Station", "$1.00 / Hr", "$4.00 / 10 Hrs", "$50.00", "7 AM-9 PM Daily", "24", "--", "--", "--", "23", "1", "Surface Lot", "10500", [ "{\"address\":\"\",\"city\":\"West LA\",\"state\":\"\",\"zip\":\"\"}", "30.647080900000446", "-90.90663965299967", null, false ] ]
+, [ 106, "601E1301-8FAD-4874-BF83-09B3C803C0EC", 106, 1392252122, "866803", 1393953728, "866803", "{\n}", "749", "10", "4702 W Washington Bl", "Longwood", "90016", "Free", "Free", "--", "--", "see below R", "7", "--", "--", "--", "--", "1", "Surface Lot", "4600", [ "{\"address\":\"\",\"city\":\"Longwood\",\"state\":\"\",\"zip\":\"\"}", "28.70304853300047", "-81.33839946299963", null, false ] ]
+, [ 107, "EF36ABC1-4CC5-4C3C-94E9-5404B434DBCE", 107, 1392252122, "866803", 1393953728, "866803", "{\n}", "750", "10", "4600 W Washington Bl", "Longwood", "90016_1728", "Free", "Free", "--", "--", "see below R", "22", "--", "--", "--", "--", "1", "Surface Lot", "11500", [ "{\"address\":\"\",\"city\":\"Longwood\",\"state\":\"\",\"zip\":\"\"}", "28.70304853300047", "-81.33839946299963", null, false ] ]
+, [ 108, "302511AE-70FF-441F-96ED-A2392476121E", 108, 1392252122, "866803", 1393953728, "866803", "{\n}", "751", "10", "4601 W Washington Bl", "Lafayette Square", "90016_1727", "Free", "Free", "--", "--", "see below R", "60", "--", "--", "--", "--", "3", "Surface Lot", "24300", [ "{\"address\":\"\",\"city\":\"Lafayette Square\",\"state\":\"\",\"zip\":\"\"}", "34.04305944200047", "-118.33193913299971", null, false ] ]
+, [ 109, "FC96CA5B-5F3E-4679-9130-F1A0FA064159", 109, 1392252122, "866803", 1393953728, "866803", "{\n}", "752", "6", "6265 Sylmar Ave", "Van Nuys", "91401", "GSD", "$1.00 / 30 Min", "$8.00", "$75.00", "see below R", "302", "--", "--", "--", "292", "10", "Structure", "38810", [ "{\"address\":\"\",\"city\":\"Van Nuys\",\"state\":\"\",\"zip\":\"\"}", "34.18666814100044", "-118.44896879299972", null, false ] ]
+, [ 110, "A41530E4-BD89-42AD-98EF-6099D6A2B8C8", 110, 1392252122, "866803", 1393953728, "866803", "{\n}", "753", "14", "414 E Temple St", "Little Tokyo", "90012", "GSD", "$5.00 Flat", "$5.00", "$60.00", "see below R", "476", "--", "--", "--", "467", "9", "Surface Lot", "250000", [ "{\"address\":\"\",\"city\":\"Little Tokyo\",\"state\":\"\",\"zip\":\"\"}", "39.52368635500045", "-99.11415045099966", null, false ] ]
+, [ 111, "E6685475-7EFA-43F2-9199-EC5750210C14", 111, 1392252122, "866803", 1393953728, "866803", "{\n}", "755", "14", "237 S Los Angeles St", "Little Tokyo", "90012_3704", "GSD", "$1.00 / 30 MinR", "$8.00 R", "$90.00", "6 AM-3:30 PM M-F", "63", "--", "--", "--", "60", "3", "Surface Lot", "22000", [ "{\"address\":\"\",\"city\":\"Little Tokyo\",\"state\":\"\",\"zip\":\"\"}", "39.52368635500045", "-99.11415045099966", null, false ] ]
+, [ 112, "2A146A92-494C-40B7-93C8-9E1890BB2BF8", 112, 1392252122, "866803", 1393953728, "866803", "{\n}", "758", "14", "636 Maple Ave", "Downtown", "90014_2212", "PCI", "$3.00 Flat", "$3.00", "$100.00", "see below R", "140", "--", "--", "--", "135", "5", "Structure", null, [ "{\"address\":\"\",\"city\":\"Downtown\",\"state\":\"\",\"zip\":\"\"}", "34.04163757400045", "-118.24704999499971", null, false ] ]
+, [ 113, "1B4CD628-06E8-426F-BC4B-D7D8DB673BF7", 113, 1392252122, "866803", 1393953728, "866803", "{\n  \"invalidCells\" : {\n    \"18085643\" : \"--\"\n  }\n}", "761", "11", "1608 S Pacific Ave", "Venice", "90291_5112", "Pay Station", "$1.00 / Hr R", "$1.00 / 1 Hr R", "--", "8 AM-6 PM Daily", "14", "14", "--", "--", "--", null, "Surface Lot", "6300", [ "{\"address\":\"\",\"city\":\"Venice\",\"state\":\"\",\"zip\":\"\"}", "33.99083727900046", "-118.46007826399972", null, false ] ]
+, [ 114, "398D0401-C53A-4E04-951F-EF743DD0556C", 114, 1392252122, "866803", 1393953728, "866803", "{\n}", "762", "4", "15314 W Dickens St", "Sherman Oaks", "91403", "Pay Station", "$1.00 / Hr", "$2.00 / 2 Hrs", "--", "7 AM-9 PM Daily", "42", "--", "40", "--", "--", "2", "Surface Lot", "12500", [ "{\"address\":\"\",\"city\":\"Sherman Oaks\",\"state\":\"\",\"zip\":\"\"}", "34.15111693400047", "-118.44924776799968", null, false ] ]
+, [ 115, "89F6033D-2A05-4E91-B766-9DAE46246829", 115, 1392252122, "866803", 1393953728, "866803", "{\n}", "763", "14", "101 N Judge John Aiso St", "Little Tokyo", "90012", "GSD", "see below R", "$14.00 R", "$90.00", "see below R", "300", "--", "--", "--", "293", "7", "Structure", "56000", [ "{\"address\":\"\",\"city\":\"Little Tokyo\",\"state\":\"\",\"zip\":\"\"}", "39.52368635500045", "-99.11415045099966", null, false ] ]
+, [ 116, "6BC3E7AA-6BF1-4E92-ACB4-2D87F64CC8DE", 116, 1392252122, "866803", 1393953728, "866803", "{\n}", "764", "10", "4318 Degnan Blvd", "Leimert Park", "90008_4570", "Pay Station", "$0.25 / 30 Min", "$2.50", "--", "7 AM-9 PM Daily Z", "93", "--", "--", "--", "89", "4", "Surface Lot", "30700", [ "{\"address\":\"\",\"city\":\"Leimert Park\",\"state\":\"\",\"zip\":\"\"}", "34.00695928600044", "-118.33145767699972", null, false ] ]
+, [ 117, "0987607C-6294-469D-BD34-BE441F0F2140", 117, 1392252122, "866803", 1393953728, "866803", "{\n}", "766", "15", "528 W 7th St", "San Pedro", "90731", "Free", "Free", "--", "--", "8 AM-8 PM Daily Z", "39", "--", "37 R", "--", "--", "2", "Surface Lot", "13500", [ "{\"address\":\"\",\"city\":\"San Pedro\",\"state\":\"\",\"zip\":\"\"}", "33.735845896000455", "-118.29228880499971", null, false ] ]
+, [ 118, "DEA0A8B1-C396-4CF7-AD24-F08D852406B9", 118, 1392252122, "866803", 1393953728, "866803", "{\n}", "799", "4", "14758 Ventura Blvd", "Sherman Oaks", "91403_3542", "Pay Station", "$0.25 / 30 Min", "$1.00 / 2 Hrs", "--", "7 AM-9 PM Daily", "20", "--", "19", "--", "--", "1", "Surface Lot", "9600", [ "{\"address\":\"\",\"city\":\"Sherman Oaks\",\"state\":\"\",\"zip\":\"\"}", "34.15111693400047", "-118.44924776799968", null, false ] ]
+ ]
+}

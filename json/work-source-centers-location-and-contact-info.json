@@ -1,0 +1,793 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "qq2n-4wfr",
+      "name" : "Work Source Centers Location And Contact Info",
+      "attribution" : "EWDD",
+      "averageRating" : 0,
+      "createdAt" : 1401463160,
+      "description" : "Identifies EWDD WorkSource Centers along with related agency, location, and contact information.",
+      "displayType" : "table",
+      "downloadCount" : 9,
+      "indexUpdatedAt" : 1414612894,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8107119,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401463788,
+      "publicationGroup" : 1600146,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1401463664,
+      "rowsUpdatedBy" : "utpt-bj92",
+      "tableId" : 1600146,
+      "totalTimesRated" : 0,
+      "viewCount" : 24,
+      "viewLastModified" : 1401463788,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150616456,
+        "name" : "Agency Name",
+        "dataTypeName" : "text",
+        "fieldName" : "agency_name",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20016033,
+        "width" : 392,
+        "cachedContents" : {
+          "non_null" : 19,
+          "smallest" : "Arbor E&T, LLC dba Rescare Workforce Services",
+          "null" : 0,
+          "largest" : "Watts Labor Community Action Committee",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Arbor E&T, LLC dba ResCare Workforce Services"
+          }, {
+            "count" : 19,
+            "item" : "Arbor E&T, LLC dba Rescare Workforce Services"
+          }, {
+            "count" : 18,
+            "item" : "Build Rehabilitation Industries"
+          }, {
+            "count" : 17,
+            "item" : "Community Career Development, Inc."
+          }, {
+            "count" : 16,
+            "item" : "Community Centers, Inc."
+          }, {
+            "count" : 15,
+            "item" : "Chicana Service Action Center, Inc."
+          }, {
+            "count" : 14,
+            "item" : "Chinatown Service Center"
+          }, {
+            "count" : 13,
+            "item" : "City of Long Beach (as Administering Entity for Pacific Gateway Workforce Investment Network)"
+          }, {
+            "count" : 12,
+            "item" : "El Proyecto del Barrio, Inc."
+          }, {
+            "count" : 11,
+            "item" : "Goodwill Industries of Southern California"
+          }, {
+            "count" : 10,
+            "item" : "Housing Authority of City of Los Angeles"
+          }, {
+            "count" : 9,
+            "item" : "Jewish Vocational Services"
+          }, {
+            "count" : 8,
+            "item" : "Los Angeles Urban League"
+          }, {
+            "count" : 7,
+            "item" : "Managed Career Solutions, Inc."
+          }, {
+            "count" : 6,
+            "item" : "Pacific Asian Consortium in Employment"
+          }, {
+            "count" : 5,
+            "item" : "UAW - Labor Employment and Training Corporation"
+          }, {
+            "count" : 4,
+            "item" : "Watts Labor Community Action Committee"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150616457,
+        "name" : "WorkSource (WSC) Name",
+        "dataTypeName" : "text",
+        "fieldName" : "worksource_wsc_name",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20016034,
+        "width" : 233,
+        "cachedContents" : {
+          "non_null" : 19,
+          "smallest" : "Canoga Park-West Hills WSC",
+          "null" : 0,
+          "largest" : "Wilshire-Metro WSC",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Canoga Park-West Hills WSC"
+          }, {
+            "count" : 19,
+            "item" : "Northeast LA WSC"
+          }, {
+            "count" : 18,
+            "item" : "Van Nuys-North Sherman Oaks WSC"
+          }, {
+            "count" : 17,
+            "item" : "Chatsworth-Northridge WSC"
+          }, {
+            "count" : 16,
+            "item" : "Wilshire-Metro WSC"
+          }, {
+            "count" : 15,
+            "item" : "South LA WSC"
+          }, {
+            "count" : 14,
+            "item" : "Downtown WSC"
+          }, {
+            "count" : 13,
+            "item" : "South LA WorkSource Portal"
+          }, {
+            "count" : 12,
+            "item" : "Chinatown WSC"
+          }, {
+            "count" : 11,
+            "item" : "Harbor WSC"
+          }, {
+            "count" : 10,
+            "item" : "Sun Valley WSC"
+          }, {
+            "count" : 9,
+            "item" : "Metro North LA WSC"
+          }, {
+            "count" : 8,
+            "item" : "Housing Authority WorkSource Portal"
+          }, {
+            "count" : 7,
+            "item" : "Marina Del Rey-Mar Vista WSC"
+          }, {
+            "count" : 6,
+            "item" : "West Adams-Baldwin Hills WSC"
+          }, {
+            "count" : 5,
+            "item" : "Hollywood WSC"
+          }, {
+            "count" : 4,
+            "item" : "Westlake WSC"
+          }, {
+            "count" : 3,
+            "item" : "Southeast LA-Crenshaw WSC"
+          }, {
+            "count" : 2,
+            "item" : "Southeast LA-Watts WSC"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150616458,
+        "name" : "Street Address",
+        "dataTypeName" : "location",
+        "fieldName" : "street_address",
+        "position" : 3,
+        "renderTypeName" : "location",
+        "tableColumnId" : 20016035,
+        "width" : 175,
+        "cachedContents" : {
+          "non_null" : 19,
+          "smallest" : {
+            "longitude" : "-118.26276792699969",
+            "latitude" : "34.05212617900048",
+            "human_address" : "{\"address\":\"1055 Wilshire Blvd., #900A\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90017\"}"
+          },
+          "null" : 0,
+          "largest" : {
+            "longitude" : "-118.59429955999968",
+            "latitude" : "34.23803939500044",
+            "human_address" : "{\"address\":\"9207 Eton Ave.\",\"city\":\"Chatsworth\",\"state\":\"\",\"zip\":\"91311\"}"
+          },
+          "top" : [ {
+            "count" : 20,
+            "item" : {
+              "longitude" : "-118.59094886499969",
+              "latitude" : "34.19374366100044",
+              "human_address" : "{\"address\":\"21010 Vanowen St.\",\"city\":\"Canoga Park\",\"state\":\"\",\"zip\":\"91303\"}"
+            }
+          }, {
+            "count" : 19,
+            "item" : {
+              "longitude" : "-118.19945057599972",
+              "latitude" : "34.069942067000454",
+              "human_address" : "{\"address\":\"3825 N Mission Rd.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90031\"}"
+            }
+          }, {
+            "count" : 18,
+            "item" : {
+              "longitude" : "-118.46823929799967",
+              "latitude" : "34.20109292300049",
+              "human_address" : "{\"address\":\"15400 Sherman Way, #140\",\"city\":\"Van Nuys\",\"state\":\"\",\"zip\":\"91406\"}"
+            }
+          }, {
+            "count" : 17,
+            "item" : {
+              "longitude" : "-118.59429955999968",
+              "latitude" : "34.23803939500044",
+              "human_address" : "{\"address\":\"9207 Eton Ave.\",\"city\":\"Chatsworth\",\"state\":\"\",\"zip\":\"91311\"}"
+            }
+          }, {
+            "count" : 16,
+            "item" : {
+              "longitude" : "-118.30220994999968",
+              "latitude" : "34.061703314000454",
+              "human_address" : "{\"address\":\"3550 Wilshire Blvd., # 500\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90010\"}"
+            }
+          }, {
+            "count" : 15,
+            "item" : {
+              "longitude" : "-118.2918393699997",
+              "latitude" : "33.91642132400045",
+              "human_address" : "{\"address\":\"7518-7526 S Vermont Ave.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90044\"}"
+            }
+          }, {
+            "count" : 14,
+            "item" : {
+              "longitude" : "-118.25743334599969",
+              "latitude" : "34.04322534100049",
+              "human_address" : "{\"address\":\"315 W. 9th St., #101\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90015\"}"
+            }
+          }, {
+            "count" : 13,
+            "item" : {
+              "longitude" : "-118.27826592599968",
+              "latitude" : "33.983020619000456",
+              "human_address" : "{\"address\":\"6200 S. Broadway\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90003\"}"
+            }
+          }, {
+            "count" : 12,
+            "item" : {
+              "longitude" : "-118.23972760799973",
+              "latitude" : "34.06252411000048",
+              "human_address" : "{\"address\":\"767 N. Hill St., #400\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90012\"}"
+            }
+          }, {
+            "count" : 11,
+            "item" : {
+              "longitude" : "-118.29302435199969",
+              "latitude" : "33.76148261500049",
+              "human_address" : "{\"address\":\"1851 N. Gaffey St., #F\",\"city\":\"San Pedro\",\"state\":\"\",\"zip\":\"90731\"}"
+            }
+          }, {
+            "count" : 10,
+            "item" : {
+              "longitude" : "-118.40519909799968",
+              "latitude" : "34.23340243100046",
+              "human_address" : "{\"address\":\"9024 Laurel Canyon Blvd.\",\"city\":\"Sun Valley\",\"state\":\"\",\"zip\":\"91352\"}"
+            }
+          }, {
+            "count" : 9,
+            "item" : {
+              "longitude" : "-118.22327468099968",
+              "latitude" : "34.07764380800046",
+              "human_address" : "{\"address\":\"342 San Fernando Rd.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90031\"}"
+            }
+          }, {
+            "count" : 8,
+            "item" : {
+              "longitude" : "-118.23331672999967",
+              "latitude" : "33.93145676800049",
+              "human_address" : "{\"address\":\"2220 E. 114th St.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90059\"}"
+            }
+          }, {
+            "count" : 7,
+            "item" : {
+              "longitude" : "-118.43732147099968",
+              "latitude" : "33.98539536000044",
+              "human_address" : "{\"address\":\"13160 Mindanao Way, #240\",\"city\":\"Marina Del Rey\",\"state\":\"\",\"zip\":\"90292\"}"
+            }
+          }, {
+            "count" : 6,
+            "item" : {
+              "longitude" : "-118.37151579699969",
+              "latitude" : "34.026551242000494",
+              "human_address" : "{\"address\":\"5681 W. Jefferson Blvd.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90016\"}"
+            }
+          }, {
+            "count" : 5,
+            "item" : {
+              "longitude" : "-118.2943531249997",
+              "latitude" : "34.08363289300047",
+              "human_address" : "{\"address\":\"4311 Melrose Ave.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90029\"}"
+            }
+          }, {
+            "count" : 4,
+            "item" : {
+              "longitude" : "-118.26276792699969",
+              "latitude" : "34.05212617900048",
+              "human_address" : "{\"address\":\"1055 Wilshire Blvd., #900A\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90017\"}"
+            }
+          }, {
+            "count" : 3,
+            "item" : {
+              "longitude" : "-118.29157078599968",
+              "latitude" : "34.01258805700047",
+              "human_address" : "{\"address\":\"3965 S. Vermont Ave.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90037\"}"
+            }
+          }, {
+            "count" : 2,
+            "item" : {
+              "longitude" : "-118.25417415099969",
+              "latitude" : "33.93578306700044",
+              "human_address" : "{\"address\":\"10950 S. Central Ave.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90059\"}"
+            }
+          } ]
+        },
+        "format" : {
+        },
+        "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+      }, {
+        "id" : 150616459,
+        "name" : "City",
+        "dataTypeName" : "text",
+        "fieldName" : "city",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20016036,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 19,
+          "smallest" : "Canoga Park",
+          "null" : 0,
+          "largest" : "Van Nuys",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Canoga Park"
+          }, {
+            "count" : 19,
+            "item" : "Los Angeles"
+          }, {
+            "count" : 18,
+            "item" : "Van Nuys"
+          }, {
+            "count" : 17,
+            "item" : "Chatsworth"
+          }, {
+            "count" : 16,
+            "item" : "San Pedro"
+          }, {
+            "count" : 15,
+            "item" : "Sun Valley"
+          }, {
+            "count" : 14,
+            "item" : "Marina Del Rey"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150634261,
+        "name" : "Zip",
+        "dataTypeName" : "text",
+        "fieldName" : "zip",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20016037,
+        "width" : 53,
+        "cachedContents" : {
+          "non_null" : 19,
+          "smallest" : "90003",
+          "null" : 0,
+          "largest" : "91406",
+          "top" : [ {
+            "count" : 20,
+            "item" : "91303"
+          }, {
+            "count" : 19,
+            "item" : "90031"
+          }, {
+            "count" : 18,
+            "item" : "91406"
+          }, {
+            "count" : 17,
+            "item" : "91311"
+          }, {
+            "count" : 16,
+            "item" : "90010"
+          }, {
+            "count" : 15,
+            "item" : "90044"
+          }, {
+            "count" : 14,
+            "item" : "90015"
+          }, {
+            "count" : 13,
+            "item" : "90003"
+          }, {
+            "count" : 12,
+            "item" : "90012"
+          }, {
+            "count" : 11,
+            "item" : "90731"
+          }, {
+            "count" : 10,
+            "item" : "91352"
+          }, {
+            "count" : 9,
+            "item" : "90059"
+          }, {
+            "count" : 8,
+            "item" : "90292"
+          }, {
+            "count" : 7,
+            "item" : "90016"
+          }, {
+            "count" : 6,
+            "item" : "90029"
+          }, {
+            "count" : 5,
+            "item" : "90017"
+          }, {
+            "count" : 4,
+            "item" : "90037"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      }, {
+        "id" : 150616461,
+        "name" : "WSC Phone",
+        "dataTypeName" : "text",
+        "fieldName" : "wsc_phone",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20016038,
+        "width" : 99,
+        "cachedContents" : {
+          "non_null" : 19,
+          "smallest" : "(213) 353-1677",
+          "null" : 0,
+          "largest" : "(818) 781-2522",
+          "top" : [ {
+            "count" : 20,
+            "item" : "(818) 596-4448"
+          }, {
+            "count" : 19,
+            "item" : "(323) 352-5100"
+          }, {
+            "count" : 18,
+            "item" : "(818) 781-2522"
+          }, {
+            "count" : 17,
+            "item" : "(818) 701-9800"
+          }, {
+            "count" : 16,
+            "item" : "(213) 365-9829"
+          }, {
+            "count" : 15,
+            "item" : "(323) 752-2115"
+          }, {
+            "count" : 14,
+            "item" : "(213) 629-5800"
+          }, {
+            "count" : 13,
+            "item" : "(323) 752-4044"
+          }, {
+            "count" : 12,
+            "item" : "(213) 808-1761"
+          }, {
+            "count" : 11,
+            "item" : "(800) 292-7200"
+          }, {
+            "count" : 10,
+            "item" : "(818) 504-0334"
+          }, {
+            "count" : 9,
+            "item" : "(323) 539-2000"
+          }, {
+            "count" : 8,
+            "item" : "(323) 249-7751"
+          }, {
+            "count" : 7,
+            "item" : "(310) 309-6000"
+          }, {
+            "count" : 6,
+            "item" : "(323) 525-3740"
+          }, {
+            "count" : 5,
+            "item" : "(323) 454-6100"
+          }, {
+            "count" : 4,
+            "item" : "(213) 353-1677"
+          }, {
+            "count" : 3,
+            "item" : "(323) 730-7900"
+          }, {
+            "count" : 2,
+            "item" : "(323) 563-4702"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150616462,
+        "name" : "Program Director ",
+        "dataTypeName" : "text",
+        "fieldName" : "program_director",
+        "position" : 7,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20016039,
+        "width" : 151,
+        "cachedContents" : {
+          "non_null" : 19,
+          "smallest" : "Angelica Martin",
+          "null" : 0,
+          "largest" : "Sophia Esparza",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Marcos Serpas"
+          }, {
+            "count" : 19,
+            "item" : "Elena Quintana"
+          }, {
+            "count" : 18,
+            "item" : "Leonel Fuentes"
+          }, {
+            "count" : 17,
+            "item" : "Gloria Moore"
+          }, {
+            "count" : 16,
+            "item" : "Phil Barajas"
+          }, {
+            "count" : 15,
+            "item" : "Sophia Esparza"
+          }, {
+            "count" : 14,
+            "item" : "Angelica Martin"
+          }, {
+            "count" : 13,
+            "item" : "Cherie Gomez"
+          }, {
+            "count" : 12,
+            "item" : "Magdalena Duran"
+          }, {
+            "count" : 11,
+            "item" : "Sergio Perez"
+          }, {
+            "count" : 10,
+            "item" : "Dan Aguilar"
+          }, {
+            "count" : 9,
+            "item" : "Donald Perry"
+          }, {
+            "count" : 8,
+            "item" : "Kuliema Blueford"
+          }, {
+            "count" : 7,
+            "item" : "Margo Scoble"
+          }, {
+            "count" : 6,
+            "item" : "Johnson Ng"
+          }, {
+            "count" : 5,
+            "item" : "Henryetta Andrade"
+          }, {
+            "count" : 4,
+            "item" : "Elton Blake"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150616463,
+        "name" : "Program Director Phone",
+        "dataTypeName" : "text",
+        "fieldName" : "program_director_phone",
+        "position" : 8,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20016040,
+        "width" : 152,
+        "cachedContents" : {
+          "non_null" : 19,
+          "smallest" : "(213) 207-1388",
+          "null" : 0,
+          "largest" : "(818) 701-9800",
+          "top" : [ {
+            "count" : 20,
+            "item" : "(818) 267-3373"
+          }, {
+            "count" : 19,
+            "item" : "(323) 352-5100"
+          }, {
+            "count" : 18,
+            "item" : "(818) 701-9800"
+          }, {
+            "count" : 17,
+            "item" : "(213) 805-4273"
+          }, {
+            "count" : 16,
+            "item" : "(323) 752-2115"
+          }, {
+            "count" : 15,
+            "item" : "(213) 629-5800"
+          }, {
+            "count" : 14,
+            "item" : "(213) 808-1769"
+          }, {
+            "count" : 13,
+            "item" : "(562) 570-4715"
+          }, {
+            "count" : 12,
+            "item" : "(818) 504-0334"
+          }, {
+            "count" : 11,
+            "item" : "(323) 539-2048"
+          }, {
+            "count" : 10,
+            "item" : "(323) 249-7751"
+          }, {
+            "count" : 9,
+            "item" : "(310) 309-6000"
+          }, {
+            "count" : 8,
+            "item" : "(323) 525-2255"
+          }, {
+            "count" : 7,
+            "item" : "(323) 454-6103"
+          }, {
+            "count" : 6,
+            "item" : "(213) 207-1388"
+          }, {
+            "count" : 5,
+            "item" : "(323) 730-7900"
+          }, {
+            "count" : 4,
+            "item" : "(323) 563-5683"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "utpt-bj92",
+        "displayName" : "Economic and Workforce Dev OpenData",
+        "profileImageUrlLarge" : "/images/profile/0818/3245/City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0818/3245/City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0818/3245/City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Economic and Workforce Dev OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "utpt-bj92",
+        "displayName" : "Economic and Workforce Dev OpenData",
+        "profileImageUrlLarge" : "/images/profile/0818/3245/City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0818/3245/City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0818/3245/City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Economic and Workforce Dev OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "ewdd", "worksource", "agency" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "89FD6EA2-C1AB-478C-BFC9-086BCD5E20F4", 1, 1401463162, "883727", 1401463559, "883727", null, "Arbor E&T, LLC dba ResCare Workforce Services", "Canoga Park-West Hills WSC", [ "{\"address\":\"21010 Vanowen St.\",\"city\":\"Canoga Park\",\"state\":\"\",\"zip\":\"91303\"}", "34.19374366100044", "-118.59094886499969", null, false ], "Canoga Park", "91303", "(818) 596-4448", "Marcos Serpas", "(818) 267-3373" ]
+, [ 2, "4D83ADAC-B7FB-4967-A393-AFDE5C98A562", 2, 1401463162, "883727", 1401463568, "883727", null, "Arbor E&T, LLC dba Rescare Workforce Services", "Northeast LA WSC", [ "{\"address\":\"3825 N Mission Rd.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90031\"}", "34.069942067000454", "-118.19945057599972", null, false ], "Los Angeles", "90031", "(323) 352-5100", "Elena Quintana", "(323) 352-5100" ]
+, [ 3, "B62A4608-273C-4251-B302-2AEDC0E9E788", 3, 1401463162, "883727", 1401463578, "883727", null, "Arbor E&T, LLC dba ResCare Workforce Services", "Van Nuys-North Sherman Oaks WSC", [ "{\"address\":\"15400 Sherman Way, #140\",\"city\":\"Van Nuys\",\"state\":\"\",\"zip\":\"91406\"}", "34.20109292300049", "-118.46823929799967", null, false ], "Van Nuys", "91406", "(818) 781-2522", "Marcos Serpas", "(818) 267-3373" ]
+, [ 4, "42952CF6-7625-426D-B3C8-0B243FC66958", 4, 1401463162, "883727", 1401463587, "883727", null, "Build Rehabilitation Industries", "Chatsworth-Northridge WSC", [ "{\"address\":\"9207 Eton Ave.\",\"city\":\"Chatsworth\",\"state\":\"\",\"zip\":\"91311\"}", "34.23803939500044", "-118.59429955999968", null, false ], "Chatsworth", "91311", "(818) 701-9800", "Leonel Fuentes", "(818) 701-9800" ]
+, [ 5, "FFD55C1A-3F46-4605-BCA6-764367AD2EB6", 5, 1401463162, "883727", 1401463602, "883727", null, "Community Career Development, Inc.", "Wilshire-Metro WSC", [ "{\"address\":\"3550 Wilshire Blvd., # 500\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90010\"}", "34.061703314000454", "-118.30220994999968", null, false ], "Los Angeles", "90010", "(213) 365-9829", "Gloria Moore", "(213) 805-4273" ]
+, [ 6, "F9A7DD84-6506-4F95-A596-85C17122A895", 6, 1401463162, "883727", 1401463602, "883727", null, "Community Centers, Inc.", "South LA WSC", [ "{\"address\":\"7518-7526 S Vermont Ave.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90044\"}", "33.91642132400045", "-118.2918393699997", null, false ], "Los Angeles", "90044", "(323) 752-2115", "Phil Barajas", "(323) 752-2115" ]
+, [ 7, "7BB15B19-3DAE-4B8B-A87B-D2452EBCA449", 7, 1401463162, "883727", 1401463610, "883727", null, "Chicana Service Action Center, Inc.", "Downtown WSC", [ "{\"address\":\"315 W. 9th St., #101\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90015\"}", "34.04322534100049", "-118.25743334599969", null, false ], "Los Angeles", "90015", "(213) 629-5800", "Sophia Esparza", "(213) 629-5800" ]
+, [ 8, "8C7F06E9-B82A-4EDE-BC40-05C4F58B6D1D", 8, 1401463162, "883727", 1401463618, "883727", null, "Chicana Service Action Center, Inc.", "South LA WorkSource Portal", [ "{\"address\":\"6200 S. Broadway\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90003\"}", "33.983020619000456", "-118.27826592599968", null, false ], "Los Angeles", "90003", "(323) 752-4044", "Sophia Esparza", "(213) 629-5800" ]
+, [ 9, "0A547D9C-0356-493F-BD0E-5D69CB080FD5", 9, 1401463162, "883727", 1401463172, "883727", "{\n}", "Chinatown Service Center", "Chinatown WSC", [ "{\"address\":\"767 N. Hill St., #400\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90012\"}", "34.06252411000048", "-118.23972760799973", null, false ], "Los Angeles", "90012", "(213) 808-1761", "Angelica Martin", "(213) 808-1769" ]
+, [ 10, "C7880D7D-D847-4144-BB4E-DED0E57A5C5D", 10, 1401463162, "883727", 1401463172, "883727", "{\n}", "City of Long Beach (as Administering Entity for Pacific Gateway Workforce Investment Network)", "Harbor WSC", [ "{\"address\":\"1851 N. Gaffey St., #F\",\"city\":\"San Pedro\",\"state\":\"\",\"zip\":\"90731\"}", "33.76148261500049", "-118.29302435199969", null, false ], "San Pedro", "90731", "(800) 292-7200", "Cherie Gomez", "(562) 570-4715" ]
+, [ 11, "9C153D1D-AFDD-4676-B8E1-2E92FFC42AEF", 11, 1401463162, "883727", 1401463172, "883727", "{\n}", "El Proyecto del Barrio, Inc.", "Sun Valley WSC", [ "{\"address\":\"9024 Laurel Canyon Blvd.\",\"city\":\"Sun Valley\",\"state\":\"\",\"zip\":\"91352\"}", "34.23340243100046", "-118.40519909799968", null, false ], "Sun Valley", "91352", "(818) 504-0334", "Magdalena Duran", "(818) 504-0334" ]
+, [ 12, "3F383266-7004-4000-9E65-41A9DA150904", 12, 1401463162, "883727", 1401463172, "883727", "{\n}", "Goodwill Industries of Southern California", "Metro North LA WSC", [ "{\"address\":\"342 San Fernando Rd.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90031\"}", "34.07764380800046", "-118.22327468099968", null, false ], "Los Angeles", "90031", "(323) 539-2000", "Sergio Perez", "(323) 539-2048" ]
+, [ 13, "EBD680FB-9842-4EB5-95EC-EBC82B2D244C", 13, 1401463162, "883727", 1401463172, "883727", "{\n}", "Housing Authority of City of Los Angeles", "Housing Authority WorkSource Portal", [ "{\"address\":\"2220 E. 114th St.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90059\"}", "33.93145676800049", "-118.23331672999967", null, false ], "Los Angeles", "90059", "(323) 249-7751", "Dan Aguilar", "(323) 249-7751" ]
+, [ 14, "06157FEE-ECD4-467C-8722-2CB105A06A96", 14, 1401463162, "883727", 1401463172, "883727", "{\n}", "Jewish Vocational Services", "Marina Del Rey-Mar Vista WSC", [ "{\"address\":\"13160 Mindanao Way, #240\",\"city\":\"Marina Del Rey\",\"state\":\"\",\"zip\":\"90292\"}", "33.98539536000044", "-118.43732147099968", null, false ], "Marina Del Rey", "90292", "(310) 309-6000", "Donald Perry", "(310) 309-6000" ]
+, [ 15, "92FFC8FD-B62B-4BB3-85BA-81E29C8CD745", 15, 1401463162, "883727", 1401463172, "883727", "{\n}", "Los Angeles Urban League", "West Adams-Baldwin Hills WSC", [ "{\"address\":\"5681 W. Jefferson Blvd.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90016\"}", "34.026551242000494", "-118.37151579699969", null, false ], "Los Angeles", "90016", "(323) 525-3740", "Kuliema Blueford", "(323) 525-2255" ]
+, [ 16, "A9DEFF0B-2C32-4A94-A6BB-A95DDDDA083D", 16, 1401463162, "883727", 1401463172, "883727", "{\n}", "Managed Career Solutions, Inc.", "Hollywood WSC", [ "{\"address\":\"4311 Melrose Ave.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90029\"}", "34.08363289300047", "-118.2943531249997", null, false ], "Los Angeles", "90029", "(323) 454-6100", "Margo Scoble", "(323) 454-6103" ]
+, [ 17, "41CDEDBC-81FD-4EB4-AD4A-5EBA91426DA0", 17, 1401463162, "883727", 1401463172, "883727", "{\n}", "Pacific Asian Consortium in Employment", "Westlake WSC", [ "{\"address\":\"1055 Wilshire Blvd., #900A\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90017\"}", "34.05212617900048", "-118.26276792699969", null, false ], "Los Angeles", "90017", "(213) 353-1677", "Johnson Ng", "(213) 207-1388" ]
+, [ 18, "D3CA1BFE-E448-428E-8946-618E4EE175B3", 18, 1401463162, "883727", 1401463172, "883727", "{\n}", "UAW - Labor Employment and Training Corporation", "Southeast LA-Crenshaw WSC", [ "{\"address\":\"3965 S. Vermont Ave.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90037\"}", "34.01258805700047", "-118.29157078599968", null, false ], "Los Angeles", "90037", "(323) 730-7900", "Henryetta Andrade", "(323) 730-7900" ]
+, [ 19, "572D83C8-850C-4D49-9AC0-7ADC75D8C397", 19, 1401463162, "883727", 1401463172, "883727", "{\n}", "Watts Labor Community Action Committee", "Southeast LA-Watts WSC", [ "{\"address\":\"10950 S. Central Ave.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90059\"}", "33.93578306700044", "-118.25417415099969", null, false ], "Los Angeles", "90059", "(323) 563-4702", "Elton Blake", "(323) 563-5683" ]
+ ]
+}

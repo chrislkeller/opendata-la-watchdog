@@ -1,0 +1,258 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "7ecf-jj8x",
+      "name" : "Member Health Subsidy",
+      "averageRating" : 0,
+      "category" : "A Well Run City",
+      "createdAt" : 1400885815,
+      "description" : "Member Health Subsidy",
+      "displayType" : "table",
+      "downloadCount" : 1,
+      "indexUpdatedAt" : 1414613193,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8060188,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1400885851,
+      "publicationGroup" : 1593179,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1400885820,
+      "rowsUpdatedBy" : "sgjw-6a7f",
+      "tableId" : 1593179,
+      "totalTimesRated" : 0,
+      "viewCount" : 40,
+      "viewLastModified" : 1404149052,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 149728422,
+        "name" : "Fiscal Year Ending",
+        "dataTypeName" : "text",
+        "fieldName" : "fiscal_year_ending",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19909841,
+        "width" : 316,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "2010",
+          "null" : 0,
+          "largest" : "2014",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2010"
+          }, {
+            "count" : 19,
+            "item" : "2011"
+          }, {
+            "count" : 18,
+            "item" : "2012"
+          }, {
+            "count" : 17,
+            "item" : "2013"
+          }, {
+            "count" : 16,
+            "item" : "2014"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149728423,
+        "name" : "Max Member Health Subsidy",
+        "dataTypeName" : "money",
+        "fieldName" : "max_member_health_subsidy",
+        "position" : 3,
+        "renderTypeName" : "money",
+        "tableColumnId" : 19909842,
+        "width" : 400,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "958.52",
+          "sum" : "5512.21",
+          "null" : 0,
+          "average" : "1102.442",
+          "largest" : "1256.43",
+          "top" : [ {
+            "count" : 20,
+            "item" : "958.52"
+          }, {
+            "count" : 19,
+            "item" : "1025.62"
+          }, {
+            "count" : 18,
+            "item" : "1097.41"
+          }, {
+            "count" : 17,
+            "item" : "1174.23"
+          }, {
+            "count" : 16,
+            "item" : "1256.43"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149728424,
+        "name" : "Avg Member Health Subsidy",
+        "dataTypeName" : "money",
+        "fieldName" : "avg_member_health_subsidy",
+        "position" : 4,
+        "renderTypeName" : "money",
+        "tableColumnId" : 19909843,
+        "width" : 400,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "656.71",
+          "sum" : "3661.22",
+          "null" : 0,
+          "average" : "732.244",
+          "largest" : "814.17",
+          "top" : [ {
+            "count" : 20,
+            "item" : "656.71"
+          }, {
+            "count" : 19,
+            "item" : "709.51"
+          }, {
+            "count" : 18,
+            "item" : "717.40"
+          }, {
+            "count" : 17,
+            "item" : "763.43"
+          }, {
+            "count" : 16,
+            "item" : "814.17"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Fire and Police Pensions"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "sgjw-6a7f",
+        "displayName" : "Fire & Police Pensions OpenData",
+        "profileImageUrlLarge" : "/images/profile/6087/9135/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/6087/9135/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/6087/9135/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Fire & Police Pensions OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "sgjw-6a7f",
+        "displayName" : "Fire & Police Pensions OpenData",
+        "profileImageUrlLarge" : "/images/profile/6087/9135/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/6087/9135/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/6087/9135/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Fire & Police Pensions OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "health subsidy" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "8B32C1E1-DAE5-4B68-ABE1-0C013FC2C8EB", 1, 1400885817, "883864", 1400885817, "883864", "{\n}", "2010", "958.52", "656.71" ]
+, [ 2, "6BE03D2E-47D3-424A-9E23-C4310EB4EEF2", 2, 1400885817, "883864", 1400885817, "883864", "{\n}", "2011", "1025.62", "709.51" ]
+, [ 3, "1FD40EB0-0D0C-4606-9225-E82F824827E7", 3, 1400885817, "883864", 1400885817, "883864", "{\n}", "2012", "1097.41", "717.40" ]
+, [ 4, "22D3B3CF-403F-415D-9D83-C98F1C35B8DC", 4, 1400885817, "883864", 1400885817, "883864", "{\n}", "2013", "1174.23", "763.43" ]
+, [ 5, "E4F8649E-F54D-4BA1-9680-8D14B2425126", 5, 1400885817, "883864", 1400885817, "883864", "{\n}", "2014", "1256.43", "814.17" ]
+ ]
+}

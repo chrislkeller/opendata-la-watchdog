@@ -1,0 +1,687 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "qtax-byj7",
+      "name" : "BAVN Open Bid Opportunities",
+      "averageRating" : 0,
+      "createdAt" : 1401227659,
+      "description" : "A listing of open bid opportunities provided by the City of Los Angeles and available on the Los Angeles Business Assistance Virtual Network (BAVN) at http://www.labavn.org",
+      "displayType" : "table",
+      "downloadCount" : 235,
+      "indexUpdatedAt" : 1418601942,
+      "newBackend" : false,
+      "numberOfComments" : 1,
+      "oid" : 8082653,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401230270,
+      "publicationGroup" : 1596531,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1418601909,
+      "rowsUpdatedBy" : "brnr-azrg",
+      "state" : "normal",
+      "tableId" : 1596576,
+      "totalTimesRated" : 0,
+      "viewCount" : 508,
+      "viewLastModified" : 1401470375,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150140147,
+        "name" : "BAVN ID",
+        "dataTypeName" : "number",
+        "fieldName" : "bavn_id",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19961870,
+        "width" : 139,
+        "cachedContents" : {
+          "non_null" : 128,
+          "smallest" : "18738",
+          "sum" : "2810005",
+          "null" : 1,
+          "average" : "21953.1640625",
+          "largest" : "22186",
+          "top" : [ {
+            "count" : 20,
+            "item" : "21314"
+          }, {
+            "count" : 19,
+            "item" : "20752"
+          }, {
+            "count" : 18,
+            "item" : "20194"
+          }, {
+            "count" : 17,
+            "item" : "19709"
+          }, {
+            "count" : 16,
+            "item" : "18738"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "true",
+          "align" : "left"
+        }
+      }, {
+        "id" : 150140148,
+        "name" : "Department",
+        "dataTypeName" : "text",
+        "fieldName" : "department",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19961871,
+        "width" : 381,
+        "cachedContents" : {
+          "non_null" : 128,
+          "smallest" : "City Attorney",
+          "null" : 1,
+          "largest" : "Public Works: Bureau Of Street Services",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Department of Water and Power"
+          }, {
+            "count" : 19,
+            "item" : "Public Works: Bureau of Engineering"
+          }, {
+            "count" : 18,
+            "item" : "Housing Authority of the City of Los Angeles"
+          }, {
+            "count" : 17,
+            "item" : "Los Angeles Neighborhood Initiative"
+          }, {
+            "count" : 16,
+            "item" : "Department of General Services"
+          }, {
+            "count" : 15,
+            "item" : "Los Angeles World Airports"
+          }, {
+            "count" : 14,
+            "item" : "Mayor's Office: Homeland Security and Public Safety"
+          }, {
+            "count" : 13,
+            "item" : "Public Works: Bureau of Sanitation"
+          }, {
+            "count" : 12,
+            "item" : "Harbor Department"
+          }, {
+            "count" : 11,
+            "item" : "Public Works: Bureau Of Street Services"
+          }, {
+            "count" : 10,
+            "item" : "City Attorney"
+          }, {
+            "count" : 9,
+            "item" : "Los Angeles Police Department"
+          }, {
+            "count" : 8,
+            "item" : "Los Angeles Housing and Community Investment Department"
+          }, {
+            "count" : 7,
+            "item" : "Department of Aging"
+          }, {
+            "count" : 6,
+            "item" : "Department of Recreation and Parks"
+          }, {
+            "count" : 5,
+            "item" : "Department of General Services - Non-Commodity"
+          }, {
+            "count" : 4,
+            "item" : "Public Works: Bureau of Street Lighting"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150140149,
+        "name" : "Status",
+        "dataTypeName" : "text",
+        "fieldName" : "status",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19961872,
+        "width" : 119,
+        "cachedContents" : {
+          "non_null" : 128,
+          "smallest" : "Amended",
+          "null" : 1,
+          "largest" : "Open",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Open"
+          }, {
+            "count" : 19,
+            "item" : "Amended"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150140150,
+        "name" : "Category",
+        "dataTypeName" : "text",
+        "fieldName" : "category",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19961873,
+        "width" : 145,
+        "cachedContents" : {
+          "non_null" : 128,
+          "smallest" : "Commodity",
+          "null" : 1,
+          "largest" : "Personal Services",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Commodity"
+          }, {
+            "count" : 19,
+            "item" : "Construction"
+          }, {
+            "count" : 18,
+            "item" : "Personal Services"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150140151,
+        "name" : "Type",
+        "dataTypeName" : "text",
+        "fieldName" : "type",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19961874,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 128,
+          "smallest" : "Request For Bid",
+          "null" : 1,
+          "largest" : "Request For Quote",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Request For Bid"
+          }, {
+            "count" : 19,
+            "item" : "Request For Proposal"
+          }, {
+            "count" : 18,
+            "item" : "Request For Qualification"
+          }, {
+            "count" : 17,
+            "item" : "Request For Quote"
+          }, {
+            "count" : 16,
+            "item" : "Request For Interest"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150140152,
+        "name" : "Open Date",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "open_date",
+        "position" : 6,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 19961875,
+        "width" : 158,
+        "cachedContents" : {
+          "non_null" : 128,
+          "smallest" : "2013-12-11T17:00:00",
+          "null" : 1,
+          "largest" : "2014-12-12T17:03:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2014-12-03T13:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2014-12-03T08:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2014-11-20T16:56:00"
+          }, {
+            "count" : 17,
+            "item" : "2014-11-20T16:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2014-11-20T09:03:00"
+          }, {
+            "count" : 15,
+            "item" : "2014-11-19T17:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2014-11-19T12:58:00"
+          }, {
+            "count" : 13,
+            "item" : "2014-11-18T14:03:00"
+          }, {
+            "count" : 12,
+            "item" : "2014-11-18T14:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2014-11-18T13:42:00"
+          }, {
+            "count" : 10,
+            "item" : "2014-11-17T13:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2014-11-17T12:00:00"
+          }, {
+            "count" : 8,
+            "item" : "2014-11-17T10:42:00"
+          }, {
+            "count" : 7,
+            "item" : "2014-11-14T15:00:00"
+          }, {
+            "count" : 6,
+            "item" : "2014-11-13T19:00:00"
+          }, {
+            "count" : 5,
+            "item" : "2014-11-13T15:00:00"
+          }, {
+            "count" : 4,
+            "item" : "2014-11-13T11:00:00"
+          }, {
+            "count" : 3,
+            "item" : "2014-11-12T14:00:00"
+          }, {
+            "count" : 2,
+            "item" : "2014-11-10T17:00:00"
+          }, {
+            "count" : 1,
+            "item" : "2014-11-07T15:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150140153,
+        "name" : "Due Date",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "due_date",
+        "position" : 7,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 19961876,
+        "width" : 154,
+        "cachedContents" : {
+          "non_null" : 128,
+          "smallest" : "2014-12-15T11:00:00",
+          "null" : 1,
+          "largest" : "2017-09-15T17:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2014-12-22T14:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2014-12-26T12:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2014-12-23T14:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2014-12-17T11:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2014-12-19T14:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2015-01-22T14:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2014-12-18T14:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2014-12-16T11:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2014-12-17T14:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2014-12-30T14:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2014-12-15T14:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2014-12-16T14:00:00"
+          }, {
+            "count" : 8,
+            "item" : "2015-01-08T14:00:00"
+          }, {
+            "count" : 7,
+            "item" : "2015-01-07T10:00:00"
+          }, {
+            "count" : 6,
+            "item" : "2015-01-20T15:00:00"
+          }, {
+            "count" : 5,
+            "item" : "2015-01-14T14:00:00"
+          }, {
+            "count" : 4,
+            "item" : "2014-12-18T15:00:00"
+          }, {
+            "count" : 3,
+            "item" : "2015-01-06T15:00:00"
+          }, {
+            "count" : 2,
+            "item" : "2014-12-31T15:00:00"
+          }, {
+            "count" : 1,
+            "item" : "2014-12-18T13:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150140154,
+        "name" : "Title",
+        "dataTypeName" : "text",
+        "fieldName" : "title",
+        "position" : 8,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19961877,
+        "width" : 465,
+        "cachedContents" : {
+          "non_null" : 128,
+          "smallest" : "114-090 AIRFIELD BUSING TAXILANE AT LOS ANGELES INTERNATIONAL AIRPORT",
+          "null" : 1,
+          "largest" : "WIRELESS FIDELITY (WI-FI) INTERNET ACCESS SERVICE CONCESSION AT LAX",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Emergency Response and Recovery Assistance Memorandum of Agreement"
+          }, {
+            "count" : 19,
+            "item" : "Request for Proposals for Fixed Base Operator at 16644 Roscoe Boulevard at Van Nuys Airport"
+          }, {
+            "count" : 18,
+            "item" : "Skyview Class A Office Space - Request for Interest"
+          }, {
+            "count" : 17,
+            "item" : "Office Space Available at LAX"
+          }, {
+            "count" : 16,
+            "item" : "Leasing Opportunity- 5600 West Century Boulevard"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 150140155,
+        "name" : "BAVN Link",
+        "dataTypeName" : "text",
+        "fieldName" : "bavn_link",
+        "position" : 9,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19961878,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 128,
+          "smallest" : "http://www.labavn.org/bid.cfm?18738",
+          "null" : 1,
+          "largest" : "http://www.labavn.org/bid.cfm?22186",
+          "top" : [ {
+            "count" : 20,
+            "item" : "http://www.labavn.org/bid.cfm?21314"
+          }, {
+            "count" : 19,
+            "item" : "http://www.labavn.org/bid.cfm?20752"
+          }, {
+            "count" : 18,
+            "item" : "http://www.labavn.org/bid.cfm?20194"
+          }, {
+            "count" : 17,
+            "item" : "http://www.labavn.org/bid.cfm?19709"
+          }, {
+            "count" : 16,
+            "item" : "http://www.labavn.org/bid.cfm?18738"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "yb4r-dcys",
+        "displayName" : "ITA OpenData",
+        "profileImageUrlLarge" : "/images/profile/9462/4839/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9462/4839/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9462/4839/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "ITA OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "yb4r-dcys",
+        "displayName" : "ITA OpenData",
+        "profileImageUrlLarge" : "/images/profile/9462/4839/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9462/4839/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9462/4839/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "ITA OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "rfp", "rfq", "rfi", "rfb", "bids", "proposals", "labavn", "bavn", "jobs", "construction", "personal services", "commodity", "request for proposal", "request for bid", "request for quote", "request for qualification", "request for interest" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 556875, "1B8A3453-987B-481B-B132-5EB920CAE2FF", 556875, 1418601904, "875849", 1418601904, "875849", null, "22186", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2014-12-12T17:03:00", "2014-12-22T14:00:00", "J-BOX ASSEMBLY", "http://www.labavn.org/bid.cfm?22186" ]
+, [ 556876, "EC65E8D0-57E9-4920-8BC0-33E41AACAAFD", 556876, 1418601904, "875849", 1418601904, "875849", null, "22159", "Public Works: Bureau of Engineering", "Open", "Construction", "Request For Bid", "2014-12-12T17:00:00", "2015-02-04T10:00:00", "Terminal Island Water Reclamation Plant (TIWRP) \u0013 Tertiary Filter Rehabilitation (CIP 5229)", "http://www.labavn.org/bid.cfm?22159" ]
+, [ 556877, "C1DFF227-4F96-4E24-B8EA-0B77D139D497", 556877, 1418601904, "875849", 1418601904, "875849", null, "22178", "Housing Authority of the City of Los Angeles", "Open", "Personal Services", "Request For Proposal", "2014-12-12T17:00:00", "2015-01-21T11:00:00", "REQUEST FOR PROPOSAL (RFP) 7601 LEGAL SERVICES", "http://www.labavn.org/bid.cfm?22178" ]
+, [ 556878, "2C1156E7-75F6-4080-B7B0-08E4E5C4790B", 556878, 1418601904, "875849", 1418601904, "875849", null, "22176", "Los Angeles Neighborhood Initiative", "Open", "Construction", "Request For Qualification", "2014-12-12T16:00:00", "2014-12-26T12:00:00", "CD10 Sidewalk Repair Program Construction Management", "http://www.labavn.org/bid.cfm?22176" ]
+, [ 556879, "DDC4AAC0-CE70-4AB1-9A8C-E634CCE17631", 556879, 1418601904, "875849", 1418601904, "875849", null, "22182", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2014-12-12T15:47:00", "2014-12-23T14:00:00", "DOORS, DOOR FRAMES AND FINISH HARDWARE", "http://www.labavn.org/bid.cfm?22182" ]
+, [ 556880, "A5255784-AE20-486A-8B67-0F26C5DB4828", 556880, 1418601904, "875849", 1418601904, "875849", null, "22185", "Los Angeles Neighborhood Initiative", "Open", "Construction", "Request For Proposal", "2014-12-12T15:00:00", "2014-12-26T12:00:00", "CD10 RFP Street Tree Trimming Services", "http://www.labavn.org/bid.cfm?22185" ]
+, [ 556881, "52A23001-D973-4563-B7CE-16E4D77C1107", 556881, 1418601904, "875849", 1418601904, "875849", null, "22181", "Department of General Services", "Open", "Commodity", "Request For Quote", "2014-12-12T15:00:00", "2014-12-17T11:00:00", "Bag, Reusable, Nylon", "http://www.labavn.org/bid.cfm?22181" ]
+, [ 556882, "BC0884DC-E064-4B47-9E90-76BD978CF2B5", 556882, 1418601904, "875849", 1418601904, "875849", null, "22177", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2014-12-12T14:14:00", "2014-12-19T14:00:00", "VACUUM RECLOSER", "http://www.labavn.org/bid.cfm?22177" ]
+, [ 556883, "232D4477-F0CC-451B-8396-8A4E8E6DC8A1", 556883, 1418601904, "875849", 1418601904, "875849", null, "22175", "Department of Water and Power", "Amended", "Commodity", "Request For Bid", "2014-12-12T13:23:00", "2014-12-19T14:00:00", "ANALYZER, GSU DISSOLVED GAS", "http://www.labavn.org/bid.cfm?22175" ]
+, [ 556884, "EDEE7286-C94C-4B9B-9808-021EDBD31EA2", 556884, 1418601904, "875849", 1418601904, "875849", null, "22174", "Department of Water and Power", "Open", "Personal Services", "Request For Proposal", "2014-12-12T13:12:00", "2015-01-22T14:00:00", "ENHANCEMENT TO FIBER OPTIC NETWORK OVER A MULTI-SERVICE BACKBONE", "http://www.labavn.org/bid.cfm?22174" ]
+, [ 556885, "90CA456D-EB1E-4614-8A75-9019DD7C8ED4", 556885, 1418601904, "875849", 1418601904, "875849", null, "22173", "Department of General Services", "Open", "Commodity", "Request For Quote", "2014-12-12T12:00:00", "2014-12-17T11:00:00", "PARTS FOR INGERSOLL-RAND COMPRESSOR", "http://www.labavn.org/bid.cfm?22173" ]
+, [ 556886, "31CDB0A2-0096-419A-A77C-6DA56870EB29", 556886, 1418601904, "875849", 1418601904, "875849", null, "22172", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2014-12-12T09:07:00", "2014-12-22T14:00:00", "SNIPS AND SHEARS", "http://www.labavn.org/bid.cfm?22172" ]
+, [ 556887, "BDD7C911-0316-47D6-A388-59E05DE1FEF1", 556887, 1418601904, "875849", 1418601904, "875849", null, "22171", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2014-12-12T08:44:00", "2014-12-18T14:00:00", "FILTER VESSEL, REPLACEMENT FOR CULLIGAN & MEDIA", "http://www.labavn.org/bid.cfm?22171" ]
+, [ 556888, "04F48952-1DF3-457F-A520-DBD7C0EBE72F", 556888, 1418601904, "875849", 1418601904, "875849", null, "22158", "Los Angeles World Airports", "Open", "Commodity", "Request For Bid", "2014-12-11T19:00:00", "2014-12-23T14:00:00", "114-092 SUPPLY AND DELIVERY OF WATER FREE URINAL CARTRIDGES AT LOS ANGELES INTERNATIONAL AIRPORT", "http://www.labavn.org/bid.cfm?22158" ]
+, [ 556889, "933B3257-4215-42EA-9930-7FEA827C96BC", 556889, 1418601904, "875849", 1418601904, "875849", null, "22170", "Department of General Services", "Open", "Commodity", "Request For Quote", "2014-12-11T18:00:00", "2014-12-17T13:00:00", "Afton Pump Model 6X8-18 ILVS", "http://www.labavn.org/bid.cfm?22170" ]
+, [ 556890, "AAF16A6F-4E65-465A-A87B-5E4501EF30E6", 556890, 1418601904, "875849", 1418601904, "875849", null, "22169", "Department of General Services", "Open", "Commodity", "Request For Quote", "2014-12-11T17:00:00", "2014-12-16T11:00:00", "Exalt Radio and Cables", "http://www.labavn.org/bid.cfm?22169" ]
+, [ 556891, "F04940BD-24A4-455A-8465-94BCA96EDD2D", 556891, 1418601904, "875849", 1418601904, "875849", null, "22166", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2014-12-11T15:07:00", "2014-12-19T14:00:00", "LIQUID ZINC ORTHOPHOSPHATE, FOR STONE CANYON RESERVOIR", "http://www.labavn.org/bid.cfm?22166" ]
+, [ 556892, "764727B7-7B60-4CBE-AE7F-49DCB21D365D", 556892, 1418601904, "875849", 1418601904, "875849", null, "22165", "Department of Water and Power", "Amended", "Commodity", "Request For Bid", "2014-12-11T13:50:00", "2014-12-17T14:00:00", "RUSH-GE MULTILIN J-MUX OC3 1310 NM:#B86432-41/AA & #B86432-41/BB", "http://www.labavn.org/bid.cfm?22165" ]
+, [ 556893, "BE27E496-2A40-46BE-8FBA-3938BAF1AE2B", 556893, 1418601904, "875849", 1418601904, "875849", null, "22164", "Department of General Services", "Open", "Commodity", "Request For Quote", "2014-12-11T13:00:00", "2015-01-14T13:00:00", "System, Cutting, Mach2, #2020C, Flow Int'l Corp.", "http://www.labavn.org/bid.cfm?22164" ]
+, [ 556894, "E72A6614-5FB8-440C-A4BE-6BB0C80DF632", 556894, 1418601904, "875849", 1418601904, "875849", null, "22157", "Mayor's Office: Homeland Security and Public Safety", "Open", "Personal Services", "Request For Proposal", "2014-12-11T12:00:00", "2015-01-29T15:00:00", "Los Angeles City Wide Cyber Security System", "http://www.labavn.org/bid.cfm?22157" ]
+, [ 556895, "0F79D889-DADD-4D63-9533-74506FD91AB0", 556895, 1418601904, "875849", 1418601904, "875849", null, "22162", "Department of General Services", "Open", "Commodity", "Request For Quote", "2014-12-11T12:00:00", "2014-12-16T11:00:00", "Vibration Analysis and Report For Centrifugal Blower, Mfr.: Dresser Roots", "http://www.labavn.org/bid.cfm?22162" ]
+, [ 556896, "B0F6F0C3-B1DC-4A8D-A1BF-F7622B8D91E5", 556896, 1418601904, "875849", 1418601904, "875849", null, "22155", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2014-12-11T09:37:00", "2014-12-18T14:00:00", "FLUORIDE REAGENT #1 AND REPLACEMENT PARTS FOR FLUORIDE ANALYZER", "http://www.labavn.org/bid.cfm?22155" ]
+, [ 556897, "49A30762-42AF-4572-9624-25E8F0A0DAE6", 556897, 1418601904, "875849", 1418601904, "875849", null, "22156", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2014-12-11T09:14:00", "2014-12-19T14:00:00", "TENNANT OEM SWEEPER PARTS", "http://www.labavn.org/bid.cfm?22156" ]
+, [ 556898, "1D730205-B3C1-4A4C-AFA5-2D47D25ED33B", 556898, 1418601904, "875849", 1418601904, "875849", null, "22153", "Department of General Services", "Open", "Commodity", "Request For Quote", "2014-12-11T08:00:00", "2014-12-16T11:00:00", "SUV, GMC Yukon with Add-On Equipment", "http://www.labavn.org/bid.cfm?22153" ]
+, [ 556899, "0378A006-C3E9-41A4-AA31-66BE927CA137", 556899, 1418601904, "875849", 1418601904, "875849", null, "22152", "Public Works: Bureau of Sanitation", "Amended", "Personal Services", "Request For Proposal", "2014-12-10T19:00:00", "2015-02-11T14:00:00", "The Management of City Biosolids", "http://www.labavn.org/bid.cfm?22152" ]
+, [ 556900, "3934CB60-1979-4454-A0EA-748B9F870B7A", 556900, 1418601904, "875849", 1418601904, "875849", null, "22151", "Los Angeles World Airports", "Open", "Personal Services", "Request For Proposal", "2014-12-10T19:00:00", "2015-01-22T14:00:00", "Airside and Landside Airport Pavement Management Services for Los Angeles World Airports", "http://www.labavn.org/bid.cfm?22151" ]
+, [ 556901, "B19DBBA4-EBF8-4D8B-82D9-EB851315F568", 556901, 1418601904, "875849", 1418601904, "875849", null, "22150", "Department of General Services", "Open", "Commodity", "Request For Quote", "2014-12-10T16:00:00", "2014-12-17T11:00:00", "VAN, MINI, CARGO", "http://www.labavn.org/bid.cfm?22150" ]
+, [ 556902, "2F56E85D-E483-4602-908B-4CE42A98DF8F", 556902, 1418601904, "875849", 1418601904, "875849", null, "22149", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2014-12-10T14:34:00", "2014-12-30T14:00:00", "CENTER TRANSFORMER HANGER", "http://www.labavn.org/bid.cfm?22149" ]
+, [ 556903, "79240DAF-31CA-491C-BE84-E40877652868", 556903, 1418601904, "875849", 1418601904, "875849", null, "22147", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2014-12-10T13:51:00", "2014-12-17T14:00:00", "CONTACT CONDUCTOR - VARIOUS", "http://www.labavn.org/bid.cfm?22147" ]
+, [ 556904, "CA471792-F1A6-4F9C-97BB-562D2BF5BE8D", 556904, 1418601904, "875849", 1418601904, "875849", null, "22146", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2014-12-10T12:53:00", "2014-12-17T14:00:00", "GUY STRAIN WITH 120 FIBERGLASS ROD", "http://www.labavn.org/bid.cfm?22146" ]
+, [ 556905, "4B7E1E7E-9293-4750-8F23-F30AA9CC20F1", 556905, 1418601904, "875849", 1418601904, "875849", null, "22145", "Department of Water and Power", "Amended", "Commodity", "Request For Bid", "2014-12-10T12:04:00", "2014-12-15T14:00:00", "TRAILER, OFFICE", "http://www.labavn.org/bid.cfm?22145" ]
+, [ 556906, "75E261FF-D120-45BD-8A57-3EBDAFFF65FC", 556906, 1418601904, "875849", 1418601904, "875849", null, "22138", "Department of General Services", "Open", "Commodity", "Request For Quote", "2014-12-10T11:00:00", "2014-12-19T11:00:00", "Parts & Service, Rotoflow Turboexpander/Compressor", "http://www.labavn.org/bid.cfm?22138" ]
+, [ 556907, "8470BFF7-D581-484E-BF7B-C00C14FCE7EA", 556907, 1418601904, "875849", 1418601904, "875849", null, "22142", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2014-12-10T10:23:00", "2014-12-17T14:00:00", "CLEANER, ALL-PURPOSE CONCENTRATED, SPRAY AND WIPE, NON-ABRASIVE", "http://www.labavn.org/bid.cfm?22142" ]
+, [ 556908, "C19C5731-A666-404B-95D0-D42047241E04", 556908, 1418601904, "875849", 1418601904, "875849", null, "22144", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2014-12-10T10:07:00", "2014-12-15T14:00:00", "MATERIALS, UTILITY, VARIOUS (PLUG CONNECTOR / HOUSING ELBOW)", "http://www.labavn.org/bid.cfm?22144" ]
+, [ 556909, "F3E7208B-2AA1-4016-996B-294CD5676713", 556909, 1418601904, "875849", 1418601904, "875849", null, "22143", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2014-12-10T10:02:00", "2014-12-30T14:00:00", "INSULATOR PORCELAIN", "http://www.labavn.org/bid.cfm?22143" ]
+, [ 556910, "4BCEFAD6-4294-484C-991F-40D69E1772BB", 556910, 1418601904, "875849", 1418601904, "875849", null, "22139", "Harbor Department", "Open", "Personal Services", "Request For Proposal", "2014-12-10T10:00:00", "2015-01-26T15:00:00", "Professional Writing and Editing Services", "http://www.labavn.org/bid.cfm?22139" ]
+, [ 556911, "9CE3F820-5A4B-45AA-AD05-F1217390FE0F", 556911, 1418601904, "875849", 1418601904, "875849", null, "22141", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2014-12-10T09:56:00", "2014-12-15T14:00:00", "MATERIAL, UTILITY (ELBOW HOUSINGS AND PLUG CONNECTORS)", "http://www.labavn.org/bid.cfm?22141" ]
+, [ 556912, "1E73E644-1737-4BA1-B590-9BB9FC7F7FFE", 556912, 1418601904, "875849", 1418601904, "875849", null, "22140", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2014-12-10T09:12:00", "2014-12-17T14:00:00", "THREE PHASE DYNAMIC WINDING RESISTANCE TEST SET", "http://www.labavn.org/bid.cfm?22140" ]
+, [ 556913, "BDDC64AC-8932-4957-944F-D11FE77365C0", 556913, 1418601904, "875849", 1418601904, "875849", null, "22136", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2014-12-10T07:52:00", "2014-12-17T14:00:00", "GROUNDING SWITCH, FREESTANDING", "http://www.labavn.org/bid.cfm?22136" ]
+, [ 556914, "219F799C-5AD9-487E-8089-B8B45E201138", 556914, 1418601904, "875849", 1418601904, "875849", null, "22134", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2014-12-09T15:57:00", "2014-12-19T14:00:00", "ROOFING MATERIAL", "http://www.labavn.org/bid.cfm?22134" ]
+, [ 556915, "6CAF2896-3118-48ED-B653-C1EF6624A81C", 556915, 1418601904, "875849", 1418601904, "875849", null, "22133", "Department of General Services", "Open", "Commodity", "Request For Quote", "2014-12-09T14:00:00", "2014-12-16T15:00:00", "Equipment Use for Barcoding", "http://www.labavn.org/bid.cfm?22133" ]
+, [ 556916, "85B331C4-670B-4128-A7C7-EA9CC13FE7B7", 556916, 1418601904, "875849", 1418601904, "875849", null, "22132", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2014-12-09T13:28:00", "2014-12-16T14:00:00", "LOADBREAK CONNECTOR, RUBBER MOULDED ITEMS, VARIOUS", "http://www.labavn.org/bid.cfm?22132" ]
+, [ 556917, "0C93B265-93F7-4CFC-9E90-07593B361904", 556917, 1418601904, "875849", 1418601904, "875849", null, "22127", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2014-12-09T10:38:00", "2015-01-06T14:00:00", "VAN NORMAN II PUMP STATION 1500HP INDUCTION MOTORS", "http://www.labavn.org/bid.cfm?22127" ]
+, [ 556918, "801D6410-B499-4ECC-A7EF-EBBC2CF0D79C", 556918, 1418601904, "875849", 1418601904, "875849", null, "22128", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2014-12-09T10:34:00", "2014-12-19T14:00:00", "CONNECTORS HOMAC", "http://www.labavn.org/bid.cfm?22128" ]
+, [ 556919, "06B23CDD-DAAC-4089-BCDF-767767937E10", 556919, 1418601904, "875849", 1418601904, "875849", null, "22107", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2014-12-05T16:59:00", "2014-12-23T14:00:00", "GLOVES, WORK AND DRIVER", "http://www.labavn.org/bid.cfm?22107" ]
+, [ 556920, "FCAA005C-911E-448F-8165-7070CD8F5990", 556920, 1418601904, "875849", 1418601904, "875849", null, "22109", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2014-12-05T14:28:00", "2014-12-17T14:00:00", "PAIL, CEMENT AND BUCKETS", "http://www.labavn.org/bid.cfm?22109" ]
+, [ 556921, "5D748341-BFDD-485A-A3DD-EE3D6DAD20F6", 556921, 1418601904, "875849", 1418601904, "875849", null, "22111", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2014-12-05T14:02:00", "2014-12-16T14:00:00", "ANCHOR, MULTI HELIX", "http://www.labavn.org/bid.cfm?22111" ]
+, [ 556922, "36D4EF04-B8A1-4594-8A2B-47BBE82F221F", 556922, 1418601904, "875849", 1418601904, "875849", null, "22102", "Mayor's Office: Homeland Security and Public Safety", "Open", "Personal Services", "Request For Qualification", "2014-12-05T14:00:00", "2015-03-05T15:00:00", "Los Angeles Emergency Management Department RFQ For Providing Emergency Services For Response and Recovery Operations During Catastrophic Incidents", "http://www.labavn.org/bid.cfm?22102" ]
+, [ 556923, "726EB567-6880-49A4-B483-6DFC5AF6CE03", 556923, 1418601904, "875849", 1418601904, "875849", null, "22110", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2014-12-05T10:22:00", "2014-12-16T14:00:00", "TREE TRIMMING SERVICES ON AN INTERMITTENT BASIS", "http://www.labavn.org/bid.cfm?22110" ]
+, [ 556924, "F4BA6EFE-0785-46A9-ABD5-FCF8290D1066", 556924, 1418601904, "875849", 1418601904, "875849", null, "22114", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2014-12-05T10:13:00", "2014-12-15T14:00:00", "METER,10KV/CASE", "http://www.labavn.org/bid.cfm?22114" ]
+, [ 556925, "A293CE0D-9D5A-4A4A-9632-221AE9933E0A", 556925, 1418601904, "875849", 1418601904, "875849", null, "22112", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2014-12-05T09:24:00", "2014-12-16T14:00:00", "LABORATORY AUTOMATED EXTRACTION SYSTEM", "http://www.labavn.org/bid.cfm?22112" ]
+, [ 556926, "80E84E16-BE76-47DC-8931-958A6A4FC826", 556926, 1418601904, "875849", 1418601904, "875849", null, "22108", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2014-12-05T07:47:00", "2014-12-16T14:00:00", "BLADE, CUTTING WHEEL", "http://www.labavn.org/bid.cfm?22108" ]
+, [ 556927, "4FAD57EE-0558-4D68-AA31-D5B7F6B6A54F", 556927, 1418601904, "875849", 1418601904, "875849", null, "22088", "Los Angeles World Airports", "Amended", "Commodity", "Request For Bid", "2014-12-04T19:00:00", "2015-01-08T14:00:00", "114-091 AS NEEDED SERVICING FOR STREET SWEEPER RECONDITIONED BROOMS AT LAX, LA/ONT, AND VNY AIRPORTS.", "http://www.labavn.org/bid.cfm?22088" ]
+, [ 556928, "301928BC-C4D6-43C6-A95F-5B7E942CA9E2", 556928, 1418601904, "875849", 1418601904, "875849", null, "22095", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2014-12-04T16:02:00", "2014-12-18T14:00:00", "SOIL, CRUSHED AGGREGATE, ROCKS, BOULDERS, BARK, ETC.", "http://www.labavn.org/bid.cfm?22095" ]
+, [ 556929, "F89F91DC-A149-4159-9832-4CE4ED16E1A4", 556929, 1418601904, "875849", 1418601904, "875849", null, "22096", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2014-12-04T16:00:00", "2014-12-19T14:00:00", "SAFETY GLASSES", "http://www.labavn.org/bid.cfm?22096" ]
+, [ 556930, "A5575C44-A576-4654-A2B7-C852C4445CF8", 556930, 1418601904, "875849", 1418601904, "875849", null, "22093", "Department of General Services", "Open", "Commodity", "Request For Quote", "2014-12-04T15:00:00", "2014-12-18T11:00:00", "Filter media Replacement", "http://www.labavn.org/bid.cfm?22093" ]
+, [ 556931, "FE633CF4-F52F-413E-8FC0-A03C038BF647", 556931, 1418601904, "875849", 1418601904, "875849", null, "22089", "Department of Water and Power", "Amended", "Commodity", "Request For Bid", "2014-12-04T14:57:00", "2014-12-16T14:00:00", "PARTS, REPLACEMENT, KRONE MODULES, TELECOMMUNICATION DEVICES", "http://www.labavn.org/bid.cfm?22089" ]
+, [ 556932, "8A2CC9A2-219D-4D3C-974F-386C7C0A0CDD", 556932, 1418601904, "875849", 1418601904, "875849", null, "22082", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2014-12-04T07:06:00", "2014-12-18T14:00:00", "FIBER OPTIC CABLE", "http://www.labavn.org/bid.cfm?22082" ]
+, [ 556933, "D191DFCE-6AFB-41DD-AE04-6930DC44A456", 556933, 1418601904, "875849", 1418601904, "875849", null, "22081", "Department of General Services", "Amended", "Commodity", "Request For Quote", "2014-12-03T16:00:00", "2014-12-17T15:00:00", "Towels, 100% Cotton", "http://www.labavn.org/bid.cfm?22081" ]
+, [ 556934, "69D744DF-29E8-47F2-AB73-E7E5DFEBFEA0", 556934, 1418601904, "875849", 1418601904, "875849", null, "22038", "Public Works: Bureau Of Street Services", "Open", "Construction", "Request For Bid", "2014-12-03T13:00:00", "2015-01-07T10:00:00", "Tree Trimming - De Soto", "http://www.labavn.org/bid.cfm?22038" ]
+, [ 556935, "42F141E5-D10E-4ED4-B11D-B5EA1C1720BF", 556935, 1418601904, "875849", 1418601904, "875849", null, "22040", "Public Works: Bureau Of Street Services", "Open", "Construction", "Request For Bid", "2014-12-03T13:00:00", "2015-01-07T13:00:00", "Tree Trimming - Drew St", "http://www.labavn.org/bid.cfm?22040" ]
+, [ 556936, "6F467065-6A6A-42CA-B3D3-B6D5DEAF702E", 556936, 1418601904, "875849", 1418601904, "875849", null, "22041", "Public Works: Bureau Of Street Services", "Open", "Construction", "Request For Bid", "2014-12-03T13:00:00", "2015-01-07T10:00:00", "Tree Trimming - Alta Vista Bl", "http://www.labavn.org/bid.cfm?22041" ]
+, [ 556937, "CF8CB2FC-1C36-40AF-BAEC-C8997E1F76B2", 556937, 1418601904, "875849", 1418601904, "875849", null, "22043", "Public Works: Bureau Of Street Services", "Open", "Construction", "Request For Bid", "2014-12-03T13:00:00", "2015-01-07T10:00:00", "Tree Trimming - Lull St", "http://www.labavn.org/bid.cfm?22043" ]
+, [ 556938, "138BF39F-1C78-4F1F-B02E-E1C5390A25D8", 556938, 1418601904, "875849", 1418601904, "875849", null, "22044", "Public Works: Bureau Of Street Services", "Open", "Construction", "Request For Bid", "2014-12-03T13:00:00", "2015-01-07T10:00:00", "Tree Trimming - Van Ness Av", "http://www.labavn.org/bid.cfm?22044" ]
+, [ 556939, "03744DDA-5040-4899-B4BB-BEAE403FE9FA", 556939, 1418601904, "875849", 1418601904, "875849", null, "22035", "Public Works: Bureau Of Street Services", "Open", "Construction", "Request For Bid", "2014-12-03T13:00:00", "2015-01-07T10:00:00", "Tree Trimming - Temple St", "http://www.labavn.org/bid.cfm?22035" ]
+, [ 556940, "B8D56618-CBF5-43C9-89B3-B68663C3F1B1", 556940, 1418601904, "875849", 1418601904, "875849", null, "22037", "Public Works: Bureau Of Street Services", "Open", "Construction", "Request For Bid", "2014-12-03T13:00:00", "2015-01-07T10:00:00", "Tree Trimming - Babcock Av", "http://www.labavn.org/bid.cfm?22037" ]
+, [ 556941, "DFA4C877-BB24-45FE-BC04-A37CE0620754", 556941, 1418601904, "875849", 1418601904, "875849", null, "22045", "Public Works: Bureau Of Street Services", "Open", "Construction", "Request For Bid", "2014-12-03T13:00:00", "2015-01-07T10:00:00", "Tree Trimming - 2nd Av", "http://www.labavn.org/bid.cfm?22045" ]
+, [ 556942, "883E6851-B284-4A10-AA81-16AC3515EE37", 556942, 1418601904, "875849", 1418601904, "875849", null, "22063", "City Attorney", "Open", "Personal Services", "Request For Proposal", "2014-12-03T09:00:00", "2014-12-29T16:00:00", "REQUEST FOR PROPOSALS (RFP) FOR SERVICES ASSISTING THE CITY OF LOS ANGELES WITH PROGRAMMATIC AND POLICY AUDITS", "http://www.labavn.org/bid.cfm?22063" ]
+, [ 556943, "FD8123B6-F100-4AFB-8D75-F617346BEC54", 556943, 1418601904, "875849", 1418601904, "875849", null, "22070", "Department of Water and Power", "Amended", "Commodity", "Request For Bid", "2014-12-03T08:59:00", "2014-12-15T14:00:00", "BUS TYPE CONNECTORS", "http://www.labavn.org/bid.cfm?22070" ]
+, [ 556944, "4A132A58-083C-4EBE-A94E-7C319FF49986", 556944, 1418601904, "875849", 1418601904, "875849", null, "22069", "Department of Water and Power", "Amended", "Commodity", "Request For Bid", "2014-12-03T08:50:00", "2014-12-22T14:00:00", "STEEL POLE STEP", "http://www.labavn.org/bid.cfm?22069" ]
+, [ 556945, "CC360177-EB09-4A3D-BBFD-7BC5A83D243D", 556945, 1418601904, "875849", 1418601904, "875849", null, "21985", "Los Angeles Police Department", "Open", "Personal Services", "Request For Proposal", "2014-12-03T08:00:00", "2015-01-20T15:00:00", "OPG Standard-Duty Towing and Storage Service - Area 5", "http://www.labavn.org/bid.cfm?21985" ]
+, [ 556946, "D69364EE-493F-46C8-AA24-1FDC87878628", 556946, 1418601904, "875849", 1418601904, "875849", null, "21986", "Los Angeles Police Department", "Open", "Personal Services", "Request For Proposal", "2014-12-03T08:00:00", "2015-01-20T15:00:00", "OPG Standard-Duty Towing and Storage Services - Service Area 10", "http://www.labavn.org/bid.cfm?21986" ]
+, [ 556947, "8A41FD75-CD2D-4291-AAF7-77580B2EA12A", 556947, 1418601904, "875849", 1418601904, "875849", null, "22056", "Department of Water and Power", "Amended", "Commodity", "Request For Bid", "2014-12-02T11:04:00", "2014-12-16T14:00:00", "HUBBELL INSULATOR PIN", "http://www.labavn.org/bid.cfm?22056" ]
+, [ 556948, "C9727B6F-E9CF-425F-8D01-B5D4C4A13088", 556948, 1418601904, "875849", 1418601904, "875849", null, "22055", "Department of General Services", "Open", "Commodity", "Request For Quote", "2014-12-02T10:00:00", "2014-12-15T11:00:00", "Truck, Cargo, Van Body", "http://www.labavn.org/bid.cfm?22055" ]
+, [ 556949, "31CF4B56-6C2E-4DD8-9FDF-97F7DC5CED0C", 556949, 1418601904, "875849", 1418601904, "875849", null, "22051", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2014-12-02T07:36:00", "2014-12-16T14:00:00", "BINOCULARS, COMPACT, AND ACCESSORIES", "http://www.labavn.org/bid.cfm?22051" ]
+, [ 556950, "69E9D24E-0BB7-47E0-B414-8C84BD0FD59B", 556950, 1418601904, "875849", 1418601904, "875849", null, "22033", "Los Angeles World Airports", "Open", "Personal Services", "Request For Bid", "2014-12-01T19:00:00", "2015-01-08T14:00:00", "114-090 AIRFIELD BUSING TAXILANE AT LOS ANGELES INTERNATIONAL AIRPORT", "http://www.labavn.org/bid.cfm?22033" ]
+, [ 556951, "D0241F4A-4C2F-4566-84AF-B1D60E31D86B", 556951, 1418601904, "875849", 1418601904, "875849", null, "22050", "Department of Water and Power", "Amended", "Personal Services", "Request For Proposal", "2014-12-01T17:24:00", "2014-12-17T14:00:00", "SCS ORGANIZATIONAL EFFECTIVENESS STRATEGY WORKSHOP", "http://www.labavn.org/bid.cfm?22050" ]
+, [ 556952, "8B331BB1-B00B-410F-B4FD-28827773056A", 556952, 1418601904, "875849", 1418601904, "875849", null, "22032", "Los Angeles World Airports", "Open", "Personal Services", "Request For Proposal", "2014-12-01T16:00:00", "2015-01-13T14:00:00", "On-Call Workplace Investigator and Workplace Compliance Trainer", "http://www.labavn.org/bid.cfm?22032" ]
+, [ 556953, "CCB1366E-5DAD-44BD-808C-511FE81CFE88", 556953, 1418601904, "875849", 1418601904, "875849", null, "22028", "Los Angeles Housing and Community Investment Department", "Open", "Personal Services", "Request For Proposal", "2014-12-01T11:00:00", "2014-12-29T15:00:00", "HCIDLA HEARING OFFICER FOR RENT STABILIZATION AND HOUSING CODE ENFORCEMENT PROGRAMS", "http://www.labavn.org/bid.cfm?22028" ]
+, [ 556954, "74ACA92C-2853-4C4B-A0AC-BC0518AE7478", 556954, 1418601904, "875849", 1418601904, "875849", null, "22020", "Department of Water and Power", "Amended", "Commodity", "Request For Bid", "2014-11-26T13:58:00", "2014-12-18T14:00:00", "PVC PIPE, FITTINGS AND ACCESSORIES", "http://www.labavn.org/bid.cfm?22020" ]
+, [ 556955, "901CEE5B-5268-4D5D-8212-A035469373D9", 556955, 1418601904, "875849", 1418601904, "875849", null, "22021", "Department of Water and Power", "Amended", "Commodity", "Request For Bid", "2014-11-26T13:24:00", "2014-12-19T14:00:00", "CLEANER, DEGREASER", "http://www.labavn.org/bid.cfm?22021" ]
+, [ 556956, "8841D014-6B03-418C-9BEB-91B2396F6718", 556956, 1418601904, "875849", 1418601904, "875849", null, "22017", "Los Angeles World Airports", "Amended", "Personal Services", "Request For Proposal", "2014-11-26T13:00:00", "2014-12-22T14:00:00", "Request for Proposals for Executive Program Management Services at Los Angeles World Airports", "http://www.labavn.org/bid.cfm?22017" ]
+, [ 556957, "8BA57834-961C-4265-ABE1-A76F3DD4D7C7", 556957, 1418601904, "875849", 1418601904, "875849", null, "22009", "Housing Authority of the City of Los Angeles", "Open", "Construction", "Request For Bid", "2014-11-25T17:00:00", "2015-01-14T14:00:00", "IFB-1763-A, THE UTILITY UPGRADE OF FIFTY SIX (56) BUILDINGS AT RANCHO SAN PEDRO", "http://www.labavn.org/bid.cfm?22009" ]
+, [ 556958, "9D46741C-661C-4814-B0FC-6621ABEFA8A7", 556958, 1418601904, "875849", 1418601904, "875849", null, "22011", "Department of Water and Power", "Open", "Personal Services", "Request For Proposal", "2014-11-25T16:36:00", "2014-12-30T14:00:00", "SMALL BUSINESS ENTERPRISE (SBE) SUPPORT SERVICES", "http://www.labavn.org/bid.cfm?22011" ]
+, [ 556959, "9F41C094-A25F-4AFF-8EBB-C7B495CF9060", 556959, 1418601904, "875849", 1418601904, "875849", null, "22008", "Harbor Department", "Open", "Personal Services", "Request For Proposal", "2014-11-25T15:00:00", "2015-01-05T15:00:00", "Investigation Services", "http://www.labavn.org/bid.cfm?22008" ]
+, [ 556960, "82E6416E-6A71-470D-B253-3F5842E84235", 556960, 1418601904, "875849", 1418601904, "875849", null, "22005", "Department of Water and Power", "Amended", "Commodity", "Request For Bid", "2014-11-25T08:27:00", "2015-01-12T14:00:00", "WELDED STEEL PIPE AND APPURTENANCES LOWER FRANKLIN", "http://www.labavn.org/bid.cfm?22005" ]
+, [ 556961, "A9A012CC-09AA-4D36-BB41-CE795DFBFBD7", 556961, 1418601905, "875849", 1418601905, "875849", null, "22003", "Department of Water and Power", "Amended", "Commodity", "Request For Bid", "2014-11-24T16:10:00", "2015-01-08T14:00:00", "SERVICES, WINDOW CLEANING", "http://www.labavn.org/bid.cfm?22003" ]
+, [ 556962, "134DBCF2-E58F-470E-93C1-CBF95A206295", 556962, 1418601905, "875849", 1418601905, "875849", null, "21997", "Department of Water and Power", "Amended", "Commodity", "Request For Bid", "2014-11-24T13:53:00", "2014-12-23T14:00:00", "INSTALLATION OF DEPARTMENT FURNISHED 275-KV XLPE CABLE SYSTEM", "http://www.labavn.org/bid.cfm?21997" ]
+, [ 556963, "49D141C8-6BAD-4DCB-9BEC-4A8CE46B57E1", 556963, 1418601905, "875849", 1418601905, "875849", null, "21987", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2014-11-21T10:52:00", "2015-01-06T12:01:00", "FURNISH AND INSTALL JOHN FERRARO BUILDING ELEVATOR CONTROLS", "http://www.labavn.org/bid.cfm?21987" ]
+, [ 556964, "824A2E40-B3B4-47BC-A162-32FA065CB430", 556964, 1418601905, "875849", 1418601905, "875849", null, "21981", "Department of Aging", "Open", "Personal Services", "Request For Proposal", "2014-11-21T08:00:00", "2014-12-22T15:00:00", "Emergency Alert Response System Request for Proposal", "http://www.labavn.org/bid.cfm?21981" ]
+, [ 556965, "848F6161-6D43-4940-96D4-C145898C94CE", 556965, 1418601905, "875849", 1418601905, "875849", null, "21982", "Department of Water and Power", "Amended", "Personal Services", "Request For Proposal", "2014-11-20T16:56:00", "2014-12-30T14:00:00", "CUSTOMER INFORMATION SYSTEM SUPPORT AND UPGRADE", "http://www.labavn.org/bid.cfm?21982" ]
+, [ 556966, "0344BB7B-4002-4B3B-8FCA-F27D99C4C523", 556966, 1418601905, "875849", 1418601905, "875849", null, "21968", "Los Angeles World Airports", "Amended", "Personal Services", "Request For Proposal", "2014-11-20T16:00:00", "2015-01-22T15:00:00", "Operation of Union Station, Van Nuys, and Orange Line FlyAway Bus Service", "http://www.labavn.org/bid.cfm?21968" ]
+, [ 556967, "1595131C-5F8C-4115-AF38-2AC86EB37BFA", 556967, 1418601905, "875849", 1418601905, "875849", null, "21965", "Department of Water and Power", "Amended", "Personal Services", "Request For Proposal", "2014-11-20T09:03:00", "2015-01-14T14:00:00", "RECEIVING WATER MONITORING SERVICES", "http://www.labavn.org/bid.cfm?21965" ]
+, [ 556968, "B977F540-E2F5-44AF-893C-E35C143CFAF7", 556968, 1418601905, "875849", 1418601905, "875849", null, "21905", "Department of Recreation and Parks", "Open", "Construction", "Request For Bid", "2014-11-19T17:00:00", "2015-01-13T15:00:00", "Chatsworth Park South Rehabilitation", "http://www.labavn.org/bid.cfm?21905" ]
+, [ 556969, "89DCED4C-5F5C-41C9-B858-FFEDF9DB6903", 556969, 1418601905, "875849", 1418601905, "875849", null, "21959", "Harbor Department", "Open", "Personal Services", "Request For Proposal", "2014-11-19T17:00:00", "2015-02-19T15:00:00", "East Wilmington Site Development", "http://www.labavn.org/bid.cfm?21959" ]
+, [ 556970, "CA5DB901-B24B-4C99-8F90-45629EF1B85B", 556970, 1418601905, "875849", 1418601905, "875849", null, "21952", "Department of Water and Power", "Amended", "Commodity", "Request For Bid", "2014-11-19T12:58:00", "2014-12-16T14:00:00", "MAINTENANCE AND CONSTRUCTION SERVICE TRUCKS", "http://www.labavn.org/bid.cfm?21952" ]
+, [ 556971, "0727B3D3-80DF-487D-BC82-0B6D85035920", 556971, 1418601905, "875849", 1418601905, "875849", null, "21928", "Department of Water and Power", "Amended", "Commodity", "Request For Bid", "2014-11-18T14:03:00", "2014-12-23T14:00:00", "PICKUP TRUCKS WITH SLIP-ON BODIES", "http://www.labavn.org/bid.cfm?21928" ]
+, [ 556972, "73A1DED7-8328-4918-BC09-25F965530AE4", 556972, 1418601905, "875849", 1418601905, "875849", null, "21798", "Harbor Department", "Amended", "Personal Services", "Request For Proposal", "2014-11-18T14:00:00", "2014-12-18T15:00:00", "REQUEST FOR PROPOSALS FOR MASTER SCHEDULING, COST ESTIMATING, AND CLAIMS MANAGEMENT CONSULTING SERVICES", "http://www.labavn.org/bid.cfm?21798" ]
+, [ 556973, "7AFCC88D-6768-45EE-9DED-6F99D53E3506", 556973, 1418601905, "875849", 1418601905, "875849", null, "21923", "Department of Water and Power", "Amended", "Commodity", "Request For Bid", "2014-11-18T13:42:00", "2014-12-18T14:00:00", "CONDUIT AND FITTINGS", "http://www.labavn.org/bid.cfm?21923" ]
+, [ 556974, "CC68B092-7BCA-48C5-9A79-5696565F312A", 556974, 1418601905, "875849", 1418601905, "875849", null, "21904", "Mayor's Office: Homeland Security and Public Safety", "Amended", "Personal Services", "Request For Proposal", "2014-11-17T13:00:00", "2015-01-06T15:00:00", "EMD Emergency Readiness and Media Buy Campaign", "http://www.labavn.org/bid.cfm?21904" ]
+, [ 556975, "C52319E2-52F6-49FE-B181-2980BFAE11ED", 556975, 1418601905, "875849", 1418601905, "875849", null, "21899", "Harbor Department", "Open", "Personal Services", "Request For Proposal", "2014-11-17T12:00:00", "2014-12-31T15:00:00", "Insurance Brokerage Services", "http://www.labavn.org/bid.cfm?21899" ]
+, [ 556976, "E4D0ED41-20B0-448F-8586-7D3DAED90AE9", 556976, 1418601905, "875849", 1418601905, "875849", null, "21902", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2014-11-17T10:42:00", "2014-12-16T14:00:00", "BARE RENTAL OF CRANES, FULLY MAINTAINED", "http://www.labavn.org/bid.cfm?21902" ]
+, [ 556977, "0FA345AF-4DB4-4361-83E4-B06048B9E4A0", 556977, 1418601905, "875849", 1418601905, "875849", null, "21886", "Los Angeles World Airports", "Amended", "Personal Services", "Request For Qualification", "2014-11-14T15:00:00", "2014-12-22T14:00:00", "Property Management and Leasing for Skyview Office Complex", "http://www.labavn.org/bid.cfm?21886" ]
+, [ 556978, "58950FAB-5B40-4B1E-9873-B00DE956730B", 556978, 1418601905, "875849", 1418601905, "875849", null, "21887", "Department of General Services", "Open", "Commodity", "Request For Quote", "2014-11-14T15:00:00", "2014-12-18T13:00:00", "Parts Washer Rental, Service & Disposal", "http://www.labavn.org/bid.cfm?21887" ]
+, [ 556979, "6836C462-0AAB-4E0C-A5A4-BFC66D922242", 556979, 1418601905, "875849", 1418601905, "875849", null, "21871", "Los Angeles World Airports", "Amended", "Personal Services", "Request For Proposal", "2014-11-13T19:00:00", "2014-12-18T14:00:00", "On-Call Professional Engineering Design Services- RFP", "http://www.labavn.org/bid.cfm?21871" ]
+, [ 556980, "C0BD5EED-E29D-4072-AD43-FC68EEB283DF", 556980, 1418601905, "875849", 1418601905, "875849", null, "21869", "Department of General Services - Non-Commodity", "Open", "Construction", "Request For Bid", "2014-11-13T15:00:00", "2015-01-13T13:00:00", "Structural Steel Fabrication and/or Erection", "http://www.labavn.org/bid.cfm?21869" ]
+, [ 556981, "E066BB8C-5777-454E-BC61-F54A4C742B33", 556981, 1418601905, "875849", 1418601905, "875849", null, "21870", "Harbor Department", "Open", "Commodity", "Request For Bid", "2014-11-13T11:00:00", "2014-12-23T14:00:00", "Timber Piles", "http://www.labavn.org/bid.cfm?21870" ]
+, [ 556982, "859446D3-4457-4409-81F7-BC8EB9746902", 556982, 1418601905, "875849", 1418601905, "875849", null, "21796", "Public Works: Bureau of Street Lighting", "Amended", "Construction", "Request For Bid", "2014-11-12T14:00:00", "2015-01-07T10:00:00", "STAIRWAY AND WALKWAY LIGHTING UNIT 7", "http://www.labavn.org/bid.cfm?21796" ]
+, [ 556983, "594EADE1-997E-4A45-9AFC-30F5FF979599", 556983, 1418601905, "875849", 1418601905, "875849", null, "21854", "Public Works: Bureau of Sanitation", "Open", "Personal Services", "Request For Proposal", "2014-11-10T17:00:00", "2015-01-06T14:00:00", "The Landfill Disposal of Grit and Screenings", "http://www.labavn.org/bid.cfm?21854" ]
+, [ 556984, "83F051C1-5C5C-46B2-94B8-55DCC708B849", 556984, 1418601905, "875849", 1418601905, "875849", null, "21830", "Los Angeles World Airports", "Amended", "Personal Services", "Request For Proposal", "2014-11-07T15:00:00", "2015-01-15T14:00:00", "WIRELESS FIDELITY (WI-FI) INTERNET ACCESS SERVICE CONCESSION AT LAX", "http://www.labavn.org/bid.cfm?21830" ]
+, [ 556985, "40B1CBBA-D1E4-4B22-AB24-7208857CB81F", 556985, 1418601905, "875849", 1418601905, "875849", null, "21828", "Public Works: Bureau of Engineering", "Amended", "Construction", "Request For Qualification", "2014-11-07T14:00:00", "2015-01-09T14:00:00", "Request for Qualifications - Street Improvement Pre-Qualified Contractors List", "http://www.labavn.org/bid.cfm?21828" ]
+, [ 556986, "00F3ADF5-89A3-467C-8ED6-591995CC1FF5", 556986, 1418601905, "875849", 1418601905, "875849", null, "21834", "Department of Water and Power", "Amended", "Commodity", "Request For Bid", "2014-11-07T10:01:00", "2014-12-18T14:00:00", "SERVICES FOR OVERHEAD DISTR FACILITIES SOUTH OF MULHOLLAND DRIVE", "http://www.labavn.org/bid.cfm?21834" ]
+, [ 556987, "5975930B-27B4-4F05-B1A9-029A92043610", 556987, 1418601905, "875849", 1418601905, "875849", null, "21805", "Department of General Services - Non-Commodity", "Open", "Personal Services", "Request For Proposal", "2014-11-06T17:00:00", "2014-12-23T16:00:00", "OVERNIGHT DELIVERY SERVICES", "http://www.labavn.org/bid.cfm?21805" ]
+, [ 556988, "526EE246-38E0-493C-AB4C-864CE654E7EE", 556988, 1418601905, "875849", 1418601905, "875849", null, "21818", "Harbor Department", "Amended", "Construction", "Request For Bid", "2014-11-06T09:00:00", "2015-01-14T14:00:00", "Berths 171-173 Environmental Site Remediation", "http://www.labavn.org/bid.cfm?21818" ]
+, [ 556989, "C5C48101-EE89-45A8-93F4-886A71156111", 556989, 1418601905, "875849", 1418601905, "875849", null, "21808", "Public Works: Bureau of Engineering", "Amended", "Construction", "Request For Qualification", "2014-11-05T17:00:00", "2015-01-09T12:00:00", "RFQ for the Pre-Qualification of Microtunneling Subcontractors/Contractors for the Venice Dual Force Main Project", "http://www.labavn.org/bid.cfm?21808" ]
+, [ 556990, "5D0298EA-8116-4BF0-B011-F9F514ED73C9", 556990, 1418601905, "875849", 1418601905, "875849", null, "21807", "Department of Water and Power", "Amended", "Personal Services", "Request For Proposal", "2014-11-05T13:58:00", "2015-01-08T14:00:00", "CUSTOMER AND PUBLIC COMMUNICATION TRAINING", "http://www.labavn.org/bid.cfm?21807" ]
+, [ 556991, "98D4B79C-E4C2-4F31-A578-68AE418B1642", 556991, 1418601905, "875849", 1418601905, "875849", null, "21788", "Department of Water and Power", "Amended", "Commodity", "Request For Bid", "2014-11-04T14:30:00", "2014-12-23T14:00:00", "DUCTILE IRON PIPE AND RUBBER GASKETS", "http://www.labavn.org/bid.cfm?21788" ]
+, [ 556992, "B313C83B-E161-46EC-A9E7-01BDEB86447A", 556992, 1418601905, "875849", 1418601905, "875849", null, "21722", "Public Works: Bureau of Engineering", "Amended", "Construction", "Request For Qualification", "2014-10-28T17:00:00", "2015-01-14T14:00:00", "Request for Qualifications - Municipal Facilities Pre-Qualified Contractors List (MF PQCL)", "http://www.labavn.org/bid.cfm?21722" ]
+, [ 556993, "DA50AFCE-7749-4EE0-9F7B-7A14A60DB1D2", 556993, 1418601905, "875849", 1418601905, "875849", null, "21691", "Los Angeles Housing and Community Investment Department", "Amended", "Personal Services", "Request For Proposal", "2014-10-27T08:00:00", "2014-12-22T16:00:00", "Citywide Fair Housing Program - RFP (Notification to release BAVN ID 21613)", "http://www.labavn.org/bid.cfm?21691" ]
+, [ 556994, "A7D6C426-8395-47E4-9E1A-1487629879FC", 556994, 1418601905, "875849", 1418601905, "875849", null, "21703", "Department of Water and Power", "Amended", "Personal Services", "Request For Proposal", "2014-10-24T15:35:00", "2014-12-23T14:00:00", "AS-NEEDED PROFESSIONAL AND TECHNICAL ENGINEERING SERVICES", "http://www.labavn.org/bid.cfm?21703" ]
+, [ 556995, "5F0CF54B-5BD6-484D-BF59-02DE32A00817", 556995, 1418601905, "875849", 1418601905, "875849", null, "21429", "Department of General Services", "Amended", "Personal Services", "Request For Proposal", "2014-10-23T17:00:00", "2015-01-08T17:00:00", "Custodial/Janitorial Cleaning Services", "http://www.labavn.org/bid.cfm?21429" ]
+, [ 556996, "F7A9816C-C9B2-47A3-BADB-5EDC0524F379", 556996, 1418601905, "875849", 1418601905, "875849", null, "21560", "Harbor Department", "Amended", "Personal Services", "Request For Proposal", "2014-10-09T10:00:00", "2014-12-22T15:00:00", "Lease of Visitor-Serving Commercial Area at 3000 Shoshonean Road San Pedro CA 90731", "http://www.labavn.org/bid.cfm?21560" ]
+, [ 556997, "FB0D3F75-9CEA-47D5-8ADC-E678F24898BD", 556997, 1418601905, "875849", 1418601905, "875849", null, "21319", "Department of Recreation and Parks", "Open", "Personal Services", "Request For Proposal", "2014-09-16T15:00:00", "2015-01-27T15:00:00", "Request for Proposals for Winter Theme Lighting at Pershing Square Park", "http://www.labavn.org/bid.cfm?21319" ]
+, [ 556998, "19B77081-E53A-4058-BB4E-D9B07BF50593", 556998, 1418601905, "875849", 1418601905, "875849", null, "21314", "Department of General Services", "Open", "Commodity", "Request For Bid", "2014-09-15T09:00:00", "2017-09-15T17:00:00", "Emergency Response and Recovery Assistance Memorandum of Agreement", "http://www.labavn.org/bid.cfm?21314" ]
+, [ 556999, "6296709D-5812-45BD-9246-5EAFB3A8B435", 556999, 1418601905, "875849", 1418601905, "875849", null, "20752", "Los Angeles World Airports", "Amended", "Personal Services", "Request For Proposal", "2014-07-16T09:00:00", "2015-01-30T15:00:00", "Request for Proposals for Fixed Base Operator at 16644 Roscoe Boulevard at Van Nuys Airport", "http://www.labavn.org/bid.cfm?20752" ]
+, [ 557000, "9B52A5C8-52B6-497A-BFAC-C95134F6F9C5", 557000, 1418601905, "875849", 1418601905, "875849", null, "20194", "Los Angeles World Airports", "Open", "Personal Services", "Request For Interest", "2014-05-19T16:00:00", "2014-12-18T16:00:00", "Skyview Class A Office Space - Request for Interest", "http://www.labavn.org/bid.cfm?20194" ]
+, [ 557001, "BCC74E61-95E9-4FA5-8AD2-F3A0EFEC7C44", 557001, 1418601905, "875849", 1418601905, "875849", null, "19709", "Los Angeles World Airports", "Open", "Personal Services", "Request For Interest", "2014-04-04T10:00:00", "2014-12-31T16:00:00", "Office Space Available at LAX", "http://www.labavn.org/bid.cfm?19709" ]
+, [ 557002, "39D6CFC6-EC33-48D2-AD1E-B9B165B741DA", 557002, 1418601905, "875849", 1418601905, "875849", null, "18738", "Los Angeles World Airports", "Open", "Personal Services", "Request For Interest", "2013-12-11T17:00:00", "2014-12-31T17:00:00", "Leasing Opportunity- 5600 West Century Boulevard", "http://www.labavn.org/bid.cfm?18738" ]
+, [ 557003, "8CE8300F-B7F5-4E48-862C-AA3670A38B00", 557003, 1418601905, "875849", 1418601905, "875849", null, null, null, null, null, null, null, null, null, null ]
+ ]
+}

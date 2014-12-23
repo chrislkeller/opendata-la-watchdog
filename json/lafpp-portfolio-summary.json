@@ -1,0 +1,293 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "tnz4-ynvq",
+      "name" : "LAFPP Portfolio Summary",
+      "averageRating" : 0,
+      "category" : "A Well Run City",
+      "createdAt" : 1400885751,
+      "description" : "LAFPP Portfolio Summary",
+      "displayType" : "table",
+      "downloadCount" : 3,
+      "indexUpdatedAt" : 1414613587,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8060186,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1400885796,
+      "publicationGroup" : 1593178,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1400885757,
+      "rowsUpdatedBy" : "sgjw-6a7f",
+      "tableId" : 1593178,
+      "totalTimesRated" : 0,
+      "viewCount" : 41,
+      "viewLastModified" : 1404148898,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 149728415,
+        "name" : "Month",
+        "dataTypeName" : "text",
+        "fieldName" : "month",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19909837,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 12,
+          "smallest" : "4/30/2014",
+          "null" : 0,
+          "largest" : "4/30/2014",
+          "top" : [ {
+            "count" : 20,
+            "item" : "4/30/2014"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149728416,
+        "name" : "Account",
+        "dataTypeName" : "text",
+        "fieldName" : "account",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19909838,
+        "width" : 184,
+        "cachedContents" : {
+          "non_null" : 12,
+          "smallest" : "Cash ",
+          "null" : 0,
+          "largest" : "TIPS",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Domestic Equity Large Cap"
+          }, {
+            "count" : 19,
+            "item" : "Domestic Equity Small Cap"
+          }, {
+            "count" : 18,
+            "item" : "International Equity Developed Markets"
+          }, {
+            "count" : 17,
+            "item" : "International Equity Emerging Markets"
+          }, {
+            "count" : 16,
+            "item" : "Core Fixed Income"
+          }, {
+            "count" : 15,
+            "item" : "TIPS"
+          }, {
+            "count" : 14,
+            "item" : "High Yield Bonds"
+          }, {
+            "count" : 13,
+            "item" : "Real Estate"
+          }, {
+            "count" : 12,
+            "item" : "Commodity"
+          }, {
+            "count" : 11,
+            "item" : "Private Equity"
+          }, {
+            "count" : 10,
+            "item" : "Cash "
+          }, {
+            "count" : 9,
+            "item" : "Tax Reclaim"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 149728417,
+        "name" : " Market Value ",
+        "dataTypeName" : "money",
+        "fieldName" : "market_value",
+        "position" : 4,
+        "renderTypeName" : "money",
+        "tableColumnId" : 19909839,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 12,
+          "smallest" : "372647.05",
+          "sum" : "17745426110.51",
+          "null" : 0,
+          "average" : "1478785509.209167",
+          "largest" : "5161202427.71",
+          "top" : [ {
+            "count" : 20,
+            "item" : "5161202427.71"
+          }, {
+            "count" : 19,
+            "item" : "1225574272.84"
+          }, {
+            "count" : 18,
+            "item" : "3054433163.45"
+          }, {
+            "count" : 17,
+            "item" : "751947464.66"
+          }, {
+            "count" : 16,
+            "item" : "2315220204.51"
+          }, {
+            "count" : 15,
+            "item" : "791526891.77"
+          }, {
+            "count" : 14,
+            "item" : "443385225.71"
+          }, {
+            "count" : 13,
+            "item" : "1746464720.78"
+          }, {
+            "count" : 12,
+            "item" : "180381066.59"
+          }, {
+            "count" : 11,
+            "item" : "1402802441.63"
+          }, {
+            "count" : 10,
+            "item" : "672115583.81"
+          }, {
+            "count" : 9,
+            "item" : "372647.05"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Fire and Police Pensions"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "sgjw-6a7f",
+        "displayName" : "Fire & Police Pensions OpenData",
+        "profileImageUrlLarge" : "/images/profile/6087/9135/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/6087/9135/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/6087/9135/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Fire & Police Pensions OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "sgjw-6a7f",
+        "displayName" : "Fire & Police Pensions OpenData",
+        "profileImageUrlLarge" : "/images/profile/6087/9135/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/6087/9135/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/6087/9135/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Fire & Police Pensions OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "portfolio" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "214E01F1-60F9-4531-99FA-863103E6A7A1", 1, 1400885754, "883864", 1400885754, "883864", "{\n}", "4/30/2014", "Domestic Equity Large Cap", "5161202427.71" ]
+, [ 2, "8E8516A8-C4E6-4E17-BA72-B3E8DC321951", 2, 1400885754, "883864", 1400885754, "883864", "{\n}", "4/30/2014", "Domestic Equity Small Cap", "1225574272.84" ]
+, [ 3, "9405A311-D884-4549-9443-4DC599B04B25", 3, 1400885754, "883864", 1400885754, "883864", "{\n}", "4/30/2014", "International Equity Developed Markets", "3054433163.45" ]
+, [ 4, "E2E82D4D-AE57-4D62-AFAA-2FF3AA3A88E8", 4, 1400885754, "883864", 1400885754, "883864", "{\n}", "4/30/2014", "International Equity Emerging Markets", "751947464.66" ]
+, [ 5, "63183623-C95E-4BCF-8FD2-C08F19FE4983", 5, 1400885754, "883864", 1400885754, "883864", "{\n}", "4/30/2014", "Core Fixed Income", "2315220204.51" ]
+, [ 6, "7AC949FE-93B7-49DA-9F8B-0B3CCDE026A8", 6, 1400885754, "883864", 1400885754, "883864", "{\n}", "4/30/2014", "TIPS", "791526891.77" ]
+, [ 7, "CD170614-BED0-4520-BDDA-A4D2DE5E3E86", 7, 1400885754, "883864", 1400885754, "883864", "{\n}", "4/30/2014", "High Yield Bonds", "443385225.71" ]
+, [ 8, "20473A44-DCAD-47F2-9862-32309B64C10E", 8, 1400885754, "883864", 1400885754, "883864", "{\n}", "4/30/2014", "Real Estate", "1746464720.78" ]
+, [ 9, "58F10AF6-6348-4F1D-8634-1BAF8F2B8A66", 9, 1400885754, "883864", 1400885754, "883864", "{\n}", "4/30/2014", "Commodity", "180381066.59" ]
+, [ 10, "A89EB72F-7069-4AF3-9485-0913AC0B7E93", 10, 1400885754, "883864", 1400885754, "883864", "{\n}", "4/30/2014", "Private Equity", "1402802441.63" ]
+, [ 11, "63BCC720-D76C-40C8-A060-01C377B82A91", 11, 1400885754, "883864", 1400885754, "883864", "{\n}", "4/30/2014", "Cash ", "672115583.81" ]
+, [ 12, "701112A6-0F0F-42CA-B348-2E32FA6FE54C", 12, 1400885754, "883864", 1400885754, "883864", "{\n}", "4/30/2014", "Tax Reclaim", "372647.05" ]
+ ]
+}

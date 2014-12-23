@@ -1,0 +1,928 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "bh4k-73tk",
+      "name" : "Recreation and Parks - Performance Metrics",
+      "averageRating" : 0,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1409068726,
+      "displayType" : "table",
+      "downloadCount" : 2,
+      "indexUpdatedAt" : 1414612944,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8734846,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1409069004,
+      "publicationGroup" : 1697007,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1409068746,
+      "rowsUpdatedBy" : "tyhz-nfmm",
+      "tableId" : 1697007,
+      "totalTimesRated" : 0,
+      "viewCount" : 21,
+      "viewLastModified" : 1409069004,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 163992705,
+        "name" : "Date Value",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date_value",
+        "position" : 2,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 21620080,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 61,
+          "smallest" : "2010-06-30T00:00:00",
+          "null" : 0,
+          "largest" : "2015-06-30T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2013-11-30T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2013-12-31T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2014-01-31T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2014-02-28T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2014-03-31T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2014-04-30T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2014-05-31T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2014-06-30T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2014-07-31T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2014-08-31T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2014-09-30T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2014-10-31T00:00:00"
+          }, {
+            "count" : 8,
+            "item" : "2014-11-30T00:00:00"
+          }, {
+            "count" : 7,
+            "item" : "2014-12-31T00:00:00"
+          }, {
+            "count" : 6,
+            "item" : "2015-01-31T00:00:00"
+          }, {
+            "count" : 5,
+            "item" : "2015-02-28T00:00:00"
+          }, {
+            "count" : 4,
+            "item" : "2015-03-31T00:00:00"
+          }, {
+            "count" : 3,
+            "item" : "2015-04-30T00:00:00"
+          }, {
+            "count" : 2,
+            "item" : "2015-05-31T00:00:00"
+          }, {
+            "count" : 1,
+            "item" : "2015-06-30T00:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 163992706,
+        "name" : "Month-Year",
+        "dataTypeName" : "text",
+        "fieldName" : "month_year",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21620081,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 61,
+          "smallest" : "41650",
+          "null" : 0,
+          "largest" : "41987",
+          "top" : [ {
+            "count" : 20,
+            "item" : "41956"
+          }, {
+            "count" : 19,
+            "item" : "41986"
+          }, {
+            "count" : 18,
+            "item" : "41653"
+          }, {
+            "count" : 17,
+            "item" : "41684"
+          }, {
+            "count" : 16,
+            "item" : "41712"
+          }, {
+            "count" : 15,
+            "item" : "41743"
+          }, {
+            "count" : 14,
+            "item" : "41773"
+          }, {
+            "count" : 13,
+            "item" : "41804"
+          }, {
+            "count" : 12,
+            "item" : "41834"
+          }, {
+            "count" : 11,
+            "item" : "41865"
+          }, {
+            "count" : 10,
+            "item" : "41896"
+          }, {
+            "count" : 9,
+            "item" : "41926"
+          }, {
+            "count" : 8,
+            "item" : "41957"
+          }, {
+            "count" : 7,
+            "item" : "41987"
+          }, {
+            "count" : 6,
+            "item" : "41654"
+          }, {
+            "count" : 5,
+            "item" : "41685"
+          }, {
+            "count" : 4,
+            "item" : "41713"
+          }, {
+            "count" : 3,
+            "item" : "41744"
+          }, {
+            "count" : 2,
+            "item" : "41774"
+          }, {
+            "count" : 1,
+            "item" : "41805"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 163992707,
+        "name" : "Quarter-FY",
+        "dataTypeName" : "text",
+        "fieldName" : "quarter_fy",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21620082,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 21,
+          "smallest" : "Q1 FY11",
+          "null" : 40,
+          "largest" : "Q4 FY15",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Q4 FY10"
+          }, {
+            "count" : 19,
+            "item" : "Q1 FY11"
+          }, {
+            "count" : 18,
+            "item" : "Q2 FY11"
+          }, {
+            "count" : 17,
+            "item" : "Q3 FY11"
+          }, {
+            "count" : 16,
+            "item" : "Q4 FY11"
+          }, {
+            "count" : 15,
+            "item" : "Q1 FY12"
+          }, {
+            "count" : 14,
+            "item" : "Q2 FY12"
+          }, {
+            "count" : 13,
+            "item" : "Q3 FY12"
+          }, {
+            "count" : 12,
+            "item" : "Q4 FY12"
+          }, {
+            "count" : 11,
+            "item" : "Q1 FY13"
+          }, {
+            "count" : 10,
+            "item" : "Q2 FY13"
+          }, {
+            "count" : 9,
+            "item" : "Q3 FY13"
+          }, {
+            "count" : 8,
+            "item" : "Q4 FY13"
+          }, {
+            "count" : 7,
+            "item" : "Q1 FY14"
+          }, {
+            "count" : 6,
+            "item" : "Q2 FY14"
+          }, {
+            "count" : 5,
+            "item" : "Q3 FY14"
+          }, {
+            "count" : 4,
+            "item" : "Q4 FY14"
+          }, {
+            "count" : 3,
+            "item" : "Q1 FY15"
+          }, {
+            "count" : 2,
+            "item" : "Q2 FY15"
+          }, {
+            "count" : 1,
+            "item" : "Q3 FY15"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 163992708,
+        "name" : "Annual-FY",
+        "dataTypeName" : "text",
+        "fieldName" : "annual_fy",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21620083,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "FY 2010",
+          "null" : 55,
+          "largest" : "FY 2015",
+          "top" : [ {
+            "count" : 20,
+            "item" : "FY 2010"
+          }, {
+            "count" : 19,
+            "item" : "FY 2011"
+          }, {
+            "count" : 18,
+            "item" : "FY 2012"
+          }, {
+            "count" : 17,
+            "item" : "FY 2013"
+          }, {
+            "count" : 16,
+            "item" : "FY 2014"
+          }, {
+            "count" : 15,
+            "item" : "FY 2015"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 163992709,
+        "name" : "Total visitors to museums (excluding Griffith Observatory) (Annually-FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "total_visitors_to_museums_excluding_griffith_observatory_annually_fy",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21620084,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 3,
+          "smallest" : "310000",
+          "sum" : "1171357",
+          "null" : 58,
+          "average" : "390452.3333333333",
+          "largest" : "536357",
+          "top" : [ {
+            "count" : 20,
+            "item" : "325000"
+          }, {
+            "count" : 19,
+            "item" : "310000"
+          }, {
+            "count" : 18,
+            "item" : "536357"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 163992710,
+        "name" : "TARGET: Total visitors to museums (excluding Griffith Observatory) (Annually-FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "target_total_visitors_to_museums_excluding_griffith_observatory_annually_fy",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21620085,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "315000",
+          "sum" : "645000",
+          "null" : 59,
+          "average" : "322500",
+          "largest" : "330000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "315000"
+          }, {
+            "count" : 19,
+            "item" : "330000"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 163992711,
+        "name" : "Number of visitors to Griffith Observatory (Annually FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "number_of_visitors_to_griffith_observatory_annually_fy",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21620086,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 3,
+          "smallest" : "969479",
+          "sum" : "3158012",
+          "null" : 58,
+          "average" : "1052670.666666667",
+          "largest" : "1155104",
+          "top" : [ {
+            "count" : 20,
+            "item" : "969479"
+          }, {
+            "count" : 19,
+            "item" : "1033429"
+          }, {
+            "count" : 18,
+            "item" : "1155104"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 163992712,
+        "name" : "TARGET: Number of visitors to Griffith Observatory (Annually FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "target_number_of_visitors_to_griffith_observatory_annually_fy",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21620087,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "1040000",
+          "sum" : "2100000",
+          "null" : 59,
+          "average" : "1050000",
+          "largest" : "1060000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1040000"
+          }, {
+            "count" : 19,
+            "item" : "1060000"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 163992713,
+        "name" : "Number of Cultural Program and Class Registrations(Quarterly)",
+        "dataTypeName" : "number",
+        "fieldName" : "number_of_cultural_program_and_class_registrations_quarterly",
+        "position" : 10,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21620088,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "12300",
+          "sum" : "104024",
+          "null" : 57,
+          "average" : "26006",
+          "largest" : "33301",
+          "top" : [ {
+            "count" : 20,
+            "item" : "31145"
+          }, {
+            "count" : 19,
+            "item" : "33301"
+          }, {
+            "count" : 18,
+            "item" : "27278"
+          }, {
+            "count" : 17,
+            "item" : "12300"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 163992714,
+        "name" : "TARGET: Number of Cultural Program and Class Registrations(Quarterly)",
+        "dataTypeName" : "number",
+        "fieldName" : "target_number_of_cultural_program_and_class_registrations_quarterly",
+        "position" : 11,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21620089,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 0,
+          "sum" : "0",
+          "null" : 61
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 163992715,
+        "name" : "Number of Cultural Program and Class Participants (Quarterly)",
+        "dataTypeName" : "number",
+        "fieldName" : "number_of_cultural_program_and_class_participants_quarterly",
+        "position" : 12,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21620090,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "586798",
+          "sum" : "2592066",
+          "null" : 57,
+          "average" : "648016.5",
+          "largest" : "715101",
+          "top" : [ {
+            "count" : 20,
+            "item" : "612922"
+          }, {
+            "count" : 19,
+            "item" : "677245"
+          }, {
+            "count" : 18,
+            "item" : "586798"
+          }, {
+            "count" : 17,
+            "item" : "715101"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 163992716,
+        "name" : "TARGET: Number of Cultural Program and Class Participants (Quarterly)",
+        "dataTypeName" : "number",
+        "fieldName" : "target_number_of_cultural_program_and_class_participants_quarterly",
+        "position" : 13,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21620091,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 0,
+          "sum" : "0",
+          "null" : 61
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 163992717,
+        "name" : "Number of Youth and Adult Sport Registrations(Quarterly)",
+        "dataTypeName" : "number",
+        "fieldName" : "number_of_youth_and_adult_sport_registrations_quarterly",
+        "position" : 14,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21620092,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "17766",
+          "sum" : "81959",
+          "null" : 57,
+          "average" : "20489.75",
+          "largest" : "25685",
+          "top" : [ {
+            "count" : 20,
+            "item" : "25685"
+          }, {
+            "count" : 19,
+            "item" : "17766"
+          }, {
+            "count" : 18,
+            "item" : "18306"
+          }, {
+            "count" : 17,
+            "item" : "20202"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 163992718,
+        "name" : "TARGET: Number of Youth and Adult Sport Registrations (Quarterly)",
+        "dataTypeName" : "number",
+        "fieldName" : "target_number_of_youth_and_adult_sport_registrations_quarterly",
+        "position" : 15,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21620093,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 0,
+          "sum" : "0",
+          "null" : 61
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 163992719,
+        "name" : "Number of Youth and Adult Sport Participants (Quarterly)",
+        "dataTypeName" : "number",
+        "fieldName" : "number_of_youth_and_adult_sport_participants_quarterly",
+        "position" : 16,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21620094,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "299224",
+          "sum" : "1837209",
+          "null" : 57,
+          "average" : "459302.25",
+          "largest" : "620612",
+          "top" : [ {
+            "count" : 20,
+            "item" : "620612"
+          }, {
+            "count" : 19,
+            "item" : "462578"
+          }, {
+            "count" : 18,
+            "item" : "454795"
+          }, {
+            "count" : 17,
+            "item" : "299224"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 163992720,
+        "name" : "TARGET: Number of Youth and Adult Sport Participants (Quarterly)",
+        "dataTypeName" : "number",
+        "fieldName" : "target_number_of_youth_and_adult_sport_participants_quarterly",
+        "position" : 17,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21620095,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 0,
+          "sum" : "0",
+          "null" : 61
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 163992721,
+        "name" : "Number of Golf Rounds Played (Quarterly)",
+        "dataTypeName" : "number",
+        "fieldName" : "number_of_golf_rounds_played_quarterly",
+        "position" : 18,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21620096,
+        "width" : 580,
+        "cachedContents" : {
+          "non_null" : 4,
+          "smallest" : "197735",
+          "sum" : "876236",
+          "null" : 57,
+          "average" : "219059",
+          "largest" : "252401",
+          "top" : [ {
+            "count" : 20,
+            "item" : "252401"
+          }, {
+            "count" : 19,
+            "item" : "197735"
+          }, {
+            "count" : 18,
+            "item" : "200200"
+          }, {
+            "count" : 17,
+            "item" : "225900"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 163992722,
+        "name" : "TARGET: Number of Golf Rounds Played (Quarterly)",
+        "dataTypeName" : "number",
+        "fieldName" : "target_number_of_golf_rounds_played_quarterly",
+        "position" : 19,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21620097,
+        "width" : 676,
+        "cachedContents" : {
+          "non_null" : 0,
+          "sum" : "0",
+          "null" : 61
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 163992723,
+        "name" : "Total attendance at City aquatic facilities (Annually)",
+        "dataTypeName" : "number",
+        "fieldName" : "total_attendance_at_city_aquatic_facilities_annually",
+        "position" : 20,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21620098,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 3,
+          "smallest" : "1301763",
+          "sum" : "3961763",
+          "null" : 58,
+          "average" : "1320587.666666667",
+          "largest" : "1330000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1330000"
+          }, {
+            "count" : 19,
+            "item" : "1301763"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 163992724,
+        "name" : "TARGET: Total attendance at City aquatic facilities (Annually)",
+        "dataTypeName" : "number",
+        "fieldName" : "target_total_attendance_at_city_aquatic_facilities_annually",
+        "position" : 21,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21620099,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "1330000",
+          "sum" : "2690000",
+          "null" : 59,
+          "average" : "1345000",
+          "largest" : "1360000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1330000"
+          }, {
+            "count" : 19,
+            "item" : "1360000"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Board of Public Works" : "",
+            "LAPD" : "",
+            "City Administrative Officer" : "",
+            "Personnel " : "",
+            "Bureau of Engineering" : "",
+            "City Attorney" : "",
+            "Employee Relations Board" : "",
+            "Transportation" : "",
+            "Housing and Community Investment" : "",
+            "Library" : "",
+            "Recreation and Parks " : "",
+            "Neighborhood Empowerment" : "",
+            "Controller's Office" : "",
+            "El Pueblo" : "",
+            "Other" : "",
+            "Bureau of Sanitation" : "",
+            "Disability, Department on" : "",
+            "LACERS" : "",
+            "Cultural Affairs" : "",
+            "Information Technology" : "",
+            "Fire and Police Pensions" : "",
+            "Emergency Management" : "",
+            "General Services" : "",
+            "Council District 12" : "",
+            "Council District 13" : "",
+            "Council District 14" : "",
+            "Project Restore" : "",
+            "Council District 15" : "",
+            "Council District 10" : "",
+            "Council District 11" : "",
+            "Aging" : "",
+            "Bureau of Street Lighting" : "",
+            "City Clerk" : "",
+            "Bureau of Contract Administration" : "",
+            "Planning" : "",
+            "Harbor " : "",
+            "LAWA" : "",
+            "Public Accountability, The Office of" : "",
+            "Office of Finance" : "",
+            "Council District 03" : "",
+            "Council District 04" : "",
+            "Council District 01" : "",
+            "Council District 02" : "",
+            "Bureau of Street Services" : "",
+            "Zoo" : "",
+            "Council District 09" : "",
+            "Council District 07" : "",
+            "Council District 08" : "",
+            "Council District 05" : "",
+            "Council District 06" : "",
+            "Economic and Workforce Development" : "",
+            "LAFD" : "",
+            "Animal Services" : "",
+            "Ethics Commission" : "",
+            "Mayor's Office" : "",
+            "Housing Authority" : "",
+            "Building and Safety" : "",
+            "LADWP" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "tyhz-nfmm",
+        "displayName" : "Miguel Sangalang",
+        "roleName" : "administrator",
+        "screenName" : "Miguel Sangalang",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "tyhz-nfmm",
+        "displayName" : "Miguel Sangalang",
+        "roleName" : "administrator",
+        "screenName" : "Miguel Sangalang",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "86EDC02F-81D5-4977-886C-535A6A8E9830", 1, 1409068730, "865572", 1409068730, "865572", "{\n}", "2010-06-30T00:00:00", "41800", "Q4 FY10", "FY 2010", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 2, "018794AA-FD60-4565-8B6B-C540EE31EB75", 2, 1409068730, "865572", 1409068730, "865572", "{\n}", "2010-07-31T00:00:00", "41830", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 3, "97EEAE46-6C45-4E8E-AF28-631E548CC07E", 3, 1409068730, "865572", 1409068730, "865572", "{\n}", "2010-08-31T00:00:00", "41861", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 4, "591AFF59-5765-4E34-8EBF-6F9984085FAB", 4, 1409068730, "865572", 1409068730, "865572", "{\n}", "2010-09-30T00:00:00", "41892", "Q1 FY11", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 5, "FB4AC822-E38F-4558-B744-D467DF83BFE9", 5, 1409068730, "865572", 1409068730, "865572", "{\n}", "2010-10-31T00:00:00", "41922", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 6, "E6A852ED-1FC0-4AD4-8000-5AC653E88251", 6, 1409068730, "865572", 1409068730, "865572", "{\n}", "2010-11-30T00:00:00", "41953", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 7, "6E038D32-167F-437A-97A3-5914CE22CCC0", 7, 1409068730, "865572", 1409068730, "865572", "{\n}", "2010-12-31T00:00:00", "41983", "Q2 FY11", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 8, "E0A4F992-8250-4A4F-8B8C-C2967E286251", 8, 1409068730, "865572", 1409068730, "865572", "{\n}", "2011-01-31T00:00:00", "41650", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 9, "9226DB9C-D5E8-4C62-89D4-B85A72833DD6", 9, 1409068730, "865572", 1409068730, "865572", "{\n}", "2011-02-28T00:00:00", "41681", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 10, "476120F8-0D70-4311-ABFF-666C6FF127ED", 10, 1409068730, "865572", 1409068730, "865572", "{\n}", "2011-03-31T00:00:00", "41709", "Q3 FY11", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 11, "BB3B8EB8-1BAB-4060-9DB7-3CC8938DF1A6", 11, 1409068730, "865572", 1409068730, "865572", "{\n}", "2011-04-30T00:00:00", "41740", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 12, "DE91E858-787C-49EE-B68E-19EC53B8820E", 12, 1409068730, "865572", 1409068730, "865572", "{\n}", "2011-05-31T00:00:00", "41770", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 13, "9B236695-8304-4A59-A894-F28984E63EC0", 13, 1409068730, "865572", 1409068730, "865572", "{\n}", "2011-06-30T00:00:00", "41801", "Q4 FY11", "FY 2011", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 14, "E450CBC0-D3B6-40E7-B9B9-4751B97AD05B", 14, 1409068730, "865572", 1409068730, "865572", "{\n}", "2011-07-31T00:00:00", "41831", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 15, "2BF026CA-EBFB-4E3F-980C-1500AADF44F6", 15, 1409068730, "865572", 1409068730, "865572", "{\n}", "2011-08-31T00:00:00", "41862", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 16, "80D46E56-8487-4207-94EA-82CC45AB9A42", 16, 1409068730, "865572", 1409068730, "865572", "{\n}", "2011-09-30T00:00:00", "41893", "Q1 FY12", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 17, "0BD855C7-5D8E-4A36-A91B-B1CFB5E3B1BF", 17, 1409068730, "865572", 1409068730, "865572", "{\n}", "2011-10-31T00:00:00", "41923", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 18, "CD077D23-26B9-4544-AA5B-F3FDFD95A527", 18, 1409068730, "865572", 1409068730, "865572", "{\n}", "2011-11-30T00:00:00", "41954", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 19, "1814E6A9-5FA7-404F-B021-1CADF0BB5760", 19, 1409068730, "865572", 1409068730, "865572", "{\n}", "2011-12-31T00:00:00", "41984", "Q2 FY12", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 20, "4991648A-45AD-41B0-AD90-F0D9CB1621C4", 20, 1409068730, "865572", 1409068730, "865572", "{\n}", "2012-01-31T00:00:00", "41651", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 21, "E4ACB0BD-993F-404C-9DAC-CE7182B387A2", 21, 1409068730, "865572", 1409068730, "865572", "{\n}", "2012-02-29T00:00:00", "41682", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 22, "58A34E31-0D15-44E5-8CA0-179B3AC23630", 22, 1409068730, "865572", 1409068730, "865572", "{\n}", "2012-03-31T00:00:00", "41710", "Q3 FY12", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 23, "AFB8A040-3632-4662-A483-9556A182175E", 23, 1409068730, "865572", 1409068730, "865572", "{\n}", "2012-04-30T00:00:00", "41741", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 24, "09604383-6B38-4C3C-B927-C93D86A67905", 24, 1409068730, "865572", 1409068730, "865572", "{\n}", "2012-05-31T00:00:00", "41771", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 25, "671B7E1F-081A-4FEA-9D58-637E14A08D17", 25, 1409068730, "865572", 1409068730, "865572", "{\n}", "2012-06-30T00:00:00", "41802", "Q4 FY12", "FY 2012", "325000", null, "969479", null, null, null, null, null, null, null, null, null, null, null, "1330000", null ]
+, [ 26, "B6F2C671-6467-4481-B010-6D1586DB2F6B", 26, 1409068730, "865572", 1409068730, "865572", "{\n}", "2012-07-31T00:00:00", "41832", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 27, "5BC59671-20F9-4606-8EE9-324F02337213", 27, 1409068730, "865572", 1409068730, "865572", "{\n}", "2012-08-31T00:00:00", "41863", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 28, "8D8211C8-1ED6-4717-8ECA-0B3CBD021B9B", 28, 1409068730, "865572", 1409068730, "865572", "{\n}", "2012-09-30T00:00:00", "41894", "Q1 FY13", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 29, "5CF73E0C-E34B-4656-A64B-58A0AFEE4621", 29, 1409068730, "865572", 1409068730, "865572", "{\n}", "2012-10-31T00:00:00", "41924", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 30, "AA425BEB-C84E-43C5-9EAB-F7CEC7D6D5DD", 30, 1409068730, "865572", 1409068730, "865572", "{\n}", "2012-11-30T00:00:00", "41955", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 31, "1DECA765-9A11-4022-A5D0-3A39FB2FE69E", 31, 1409068730, "865572", 1409068730, "865572", "{\n}", "2012-12-31T00:00:00", "41985", "Q2 FY13", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 32, "427BA2B8-6551-4995-9B82-54E6F0FE4082", 32, 1409068730, "865572", 1409068730, "865572", "{\n}", "2013-01-31T00:00:00", "41652", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 33, "84EA0C9C-C374-425C-902F-808480EAC0F2", 33, 1409068730, "865572", 1409068730, "865572", "{\n}", "2013-02-28T00:00:00", "41683", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 34, "AA64EC19-1BF3-4521-BBA1-6AF335168C38", 34, 1409068730, "865572", 1409068730, "865572", "{\n}", "2013-03-31T00:00:00", "41711", "Q3 FY13", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 35, "C7E98F35-3B66-456E-A134-41A47651E04E", 35, 1409068730, "865572", 1409068730, "865572", "{\n}", "2013-04-30T00:00:00", "41742", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 36, "E51B3C65-A1E5-4CD2-B762-4D088C799AB2", 36, 1409068730, "865572", 1409068730, "865572", "{\n}", "2013-05-31T00:00:00", "41772", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 37, "E3CC2619-EB4C-4D2F-B8A3-441EF9032401", 37, 1409068730, "865572", 1409068730, "865572", "{\n}", "2013-06-30T00:00:00", "41803", "Q4 FY13", "FY 2013", "310000", null, "1033429", null, null, null, null, null, null, null, null, null, null, null, "1330000", null ]
+, [ 38, "2D4451BC-D5AC-4C0B-9BD0-0E2A2F24776C", 38, 1409068730, "865572", 1409068730, "865572", "{\n}", "2013-07-31T00:00:00", "41833", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 39, "C43244F3-0E4E-4701-98DE-6EDF6CC6DC81", 39, 1409068730, "865572", 1409068730, "865572", "{\n}", "2013-08-31T00:00:00", "41864", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 40, "5C95D938-23FF-4BF1-A69B-B4B3B6E0724A", 40, 1409068730, "865572", 1409068730, "865572", "{\n}", "2013-09-30T00:00:00", "41895", "Q1 FY14", null, null, null, null, null, "31145", null, "612922", null, "25685", null, "620612", null, "252401", null, null, null ]
+, [ 41, "33282ABF-3DEB-4B97-B5AB-5026FB504687", 41, 1409068730, "865572", 1409068730, "865572", "{\n}", "2013-10-31T00:00:00", "41925", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 42, "A46238D4-5BED-4384-B176-8E955ADD8AF9", 42, 1409068730, "865572", 1409068730, "865572", "{\n}", "2013-11-30T00:00:00", "41956", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 43, "73F31421-AB19-4D25-AD5D-CA34465C5A6A", 43, 1409068730, "865572", 1409068730, "865572", "{\n}", "2013-12-31T00:00:00", "41986", "Q2 FY14", null, null, null, null, null, "33301", null, "677245", null, "17766", null, "462578", null, "197735", null, null, null ]
+, [ 44, "F4590FEC-431B-40EE-A834-2B6700B75757", 44, 1409068730, "865572", 1409068730, "865572", "{\n}", "2014-01-31T00:00:00", "41653", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 45, "49A0103F-DB0A-47E9-9D41-30A0618745B2", 45, 1409068730, "865572", 1409068730, "865572", "{\n}", "2014-02-28T00:00:00", "41684", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 46, "5D3BA7A6-3659-423B-B188-A199B60297D1", 46, 1409068730, "865572", 1409068730, "865572", "{\n}", "2014-03-31T00:00:00", "41712", "Q3 FY14", null, null, null, null, null, "27278", null, "586798", null, "18306", null, "454795", null, "200200", null, null, null ]
+, [ 47, "EB8654CC-CC28-42FF-8F6F-57FD02688C9E", 47, 1409068730, "865572", 1409068730, "865572", "{\n}", "2014-04-30T00:00:00", "41743", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 48, "CAEC7D3A-F5A2-4BC7-A879-70E35CB7D926", 48, 1409068730, "865572", 1409068730, "865572", "{\n}", "2014-05-31T00:00:00", "41773", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 49, "3C2A4F1E-65BE-497A-BB87-00DE8FA71B4C", 49, 1409068730, "865572", 1409068730, "865572", "{\n}", "2014-06-30T00:00:00", "41804", "Q4 FY14", "FY 2014", "536357", "315000", "1155104", "1040000", "12300", null, "715101", null, "20202", null, "299224", null, "225900", null, "1301763", "1330000" ]
+, [ 50, "8B5832DF-A750-4D0F-8AE4-A9BED5B3C076", 50, 1409068730, "865572", 1409068730, "865572", "{\n}", "2014-07-31T00:00:00", "41834", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 51, "BDADF446-F973-408D-B58B-84A5D80D2282", 51, 1409068730, "865572", 1409068730, "865572", "{\n}", "2014-08-31T00:00:00", "41865", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 52, "41B1DC48-1945-4F4C-AE74-E3A48C9099EB", 52, 1409068730, "865572", 1409068730, "865572", "{\n}", "2014-09-30T00:00:00", "41896", "Q1 FY15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 53, "90AD3933-EF0F-48E2-A5B9-797249FB7E3D", 53, 1409068730, "865572", 1409068730, "865572", "{\n}", "2014-10-31T00:00:00", "41926", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 54, "D44BD6DD-A233-4538-8E55-C5E8FA033695", 54, 1409068730, "865572", 1409068730, "865572", "{\n}", "2014-11-30T00:00:00", "41957", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 55, "8A408B1B-4235-4998-8E45-84FC876D2510", 55, 1409068730, "865572", 1409068730, "865572", "{\n}", "2014-12-31T00:00:00", "41987", "Q2 FY15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 56, "1C0F61B1-67AD-4FF2-8CC2-307F7556541C", 56, 1409068730, "865572", 1409068730, "865572", "{\n}", "2015-01-31T00:00:00", "41654", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 57, "FC2AF1A6-25BE-4F95-89FC-59CBAAC9EFC8", 57, 1409068730, "865572", 1409068730, "865572", "{\n}", "2015-02-28T00:00:00", "41685", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 58, "C994D217-F3F7-4578-BF11-62E5DF2B6F47", 58, 1409068730, "865572", 1409068730, "865572", "{\n}", "2015-03-31T00:00:00", "41713", "Q3 FY15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 59, "273DCF6E-E197-4122-8B36-A8BF2DE89E9F", 59, 1409068730, "865572", 1409068730, "865572", "{\n}", "2015-04-30T00:00:00", "41744", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 60, "5F70B6FE-7CC6-4AF8-85A2-F85273548661", 60, 1409068730, "865572", 1409068730, "865572", "{\n}", "2015-05-31T00:00:00", "41774", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 61, "29FF6F56-D40E-4376-B596-D10CE8325AC5", 61, 1409068730, "865572", 1409068730, "865572", "{\n}", "2015-06-30T00:00:00", "41805", "Q4 FY15", "FY 2015", null, "330000", null, "1060000", null, null, null, null, null, null, null, null, null, null, null, "1360000" ]
+ ]
+}

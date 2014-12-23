@@ -1,0 +1,414 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "mbhz-6it5",
+      "name" : "Emergency Management Department - Responder Training - Second Quarter 2014",
+      "averageRating" : 0,
+      "category" : "A Safe City",
+      "createdAt" : 1407534947,
+      "description" : "Emergency Management Department provided training for Emergency Operations Center (EOC), Department Operations Center (DOC), and Unified Command Post (UCP) responders for the period of April - June 2014",
+      "displayType" : "table",
+      "downloadCount" : 1,
+      "indexUpdatedAt" : 1414612808,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8609118,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1407535338,
+      "publicationGroup" : 1677385,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1407534955,
+      "rowsUpdatedBy" : "vnsa-hifw",
+      "tableId" : 1677385,
+      "totalTimesRated" : 0,
+      "viewCount" : 14,
+      "viewLastModified" : 1407535338,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 161185068,
+        "name" : "Activity",
+        "dataTypeName" : "text",
+        "fieldName" : "activity",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21288870,
+        "width" : 246,
+        "cachedContents" : {
+          "non_null" : 15,
+          "smallest" : "Advanced EOC Management Course",
+          "null" : 0,
+          "largest" : "O305 AHIMT Course",
+          "top" : [ {
+            "count" : 20,
+            "item" : "IMS 313 Course"
+          }, {
+            "count" : 19,
+            "item" : "O305 AHIMT Course"
+          }, {
+            "count" : 18,
+            "item" : "Advanced EOC Management Course"
+          }, {
+            "count" : 17,
+            "item" : "EOC 101 Training Course"
+          }, {
+            "count" : 16,
+            "item" : "EOC 201 Training Course"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 161185069,
+        "name" : "Date",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date",
+        "position" : 2,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 21288871,
+        "width" : 93,
+        "cachedContents" : {
+          "non_null" : 15,
+          "smallest" : "2014-04-01T00:00:00",
+          "null" : 0,
+          "largest" : "2014-06-19T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2014-04-01T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2014-04-02T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2014-04-03T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2014-04-04T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2014-04-07T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2014-04-08T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2014-04-09T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2014-04-10T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2014-04-11T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2014-05-12T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2014-06-12T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2014-06-19T00:00:00"
+          } ]
+        },
+        "format" : {
+          "view" : "date",
+          "align" : "left"
+        }
+      }, {
+        "id" : 161185070,
+        "name" : "Purpose",
+        "dataTypeName" : "text",
+        "fieldName" : "purpose",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21288872,
+        "width" : 412,
+        "cachedContents" : {
+          "non_null" : 15,
+          "smallest" : "EOC Responder Team training",
+          "null" : 0,
+          "largest" : "Incident Management Team Training ",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Incident Management Team and EOC Response Team training"
+          }, {
+            "count" : 19,
+            "item" : "Incident Management Team Training "
+          }, {
+            "count" : 18,
+            "item" : "EOC Responder Team training"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 161185071,
+        "name" : "Category",
+        "dataTypeName" : "text",
+        "fieldName" : "category",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21288873,
+        "width" : 131,
+        "cachedContents" : {
+          "non_null" : 15,
+          "smallest" : "EOC",
+          "null" : 0,
+          "largest" : "Field Responders",
+          "top" : [ {
+            "count" : 20,
+            "item" : "EOC"
+          }, {
+            "count" : 19,
+            "item" : "Field Responders"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 161185072,
+        "name" : "Division",
+        "dataTypeName" : "text",
+        "fieldName" : "division",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21288874,
+        "width" : 98,
+        "cachedContents" : {
+          "non_null" : 15,
+          "smallest" : "Operations",
+          "null" : 0,
+          "largest" : "Operations",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Operations"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 161185073,
+        "name" : "Antendees",
+        "dataTypeName" : "number",
+        "fieldName" : "antendees",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21288875,
+        "width" : 88,
+        "cachedContents" : {
+          "non_null" : 15,
+          "smallest" : "12",
+          "sum" : "357",
+          "null" : 0,
+          "average" : "23.8",
+          "largest" : "43",
+          "top" : [ {
+            "count" : 20,
+            "item" : "22"
+          }, {
+            "count" : 19,
+            "item" : "17"
+          }, {
+            "count" : 18,
+            "item" : "12"
+          }, {
+            "count" : 17,
+            "item" : "35"
+          }, {
+            "count" : 16,
+            "item" : "43"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Board of Public Works" : "",
+            "LAPD" : "",
+            "City Administrative Officer" : "",
+            "Personnel " : "",
+            "Bureau of Engineering" : "",
+            "City Attorney" : "",
+            "Employee Relations Board" : "",
+            "Transportation" : "",
+            "Housing and Community Investment" : "",
+            "Library" : "",
+            "Recreation and Parks " : "",
+            "Neighborhood Empowerment" : "",
+            "Controller's Office" : "",
+            "El Pueblo" : "",
+            "Other" : "",
+            "Bureau of Sanitation" : "",
+            "Disability, Department on" : "",
+            "LACERS" : "",
+            "Cultural Affairs" : "",
+            "Information Technology" : "",
+            "Fire and Police Pensions" : "",
+            "Emergency Management" : "",
+            "General Services" : "",
+            "Council District 12" : "",
+            "Council District 13" : "",
+            "Council District 14" : "",
+            "Project Restore" : "",
+            "Council District 15" : "",
+            "Council District 10" : "",
+            "Council District 11" : "",
+            "Aging" : "",
+            "Bureau of Street Lighting" : "",
+            "City Clerk" : "",
+            "Bureau of Contract Administration" : "",
+            "Planning" : "",
+            "Harbor " : "",
+            "LAWA" : "",
+            "Public Accountability, The Office of" : "",
+            "Office of Finance" : "",
+            "Council District 03" : "",
+            "Council District 04" : "",
+            "Council District 01" : "",
+            "Council District 02" : "",
+            "Bureau of Street Services" : "",
+            "Zoo" : "",
+            "Council District 09" : "",
+            "Council District 07" : "",
+            "Council District 08" : "",
+            "Council District 05" : "",
+            "Council District 06" : "",
+            "Economic and Workforce Development" : "",
+            "LAFD" : "",
+            "Animal Services" : "",
+            "Ethics Commission" : "",
+            "Mayor's Office" : "",
+            "Housing Authority" : "",
+            "Building and Safety" : "",
+            "LADWP" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "vnsa-hifw",
+        "displayName" : "Emergency Management OpenData",
+        "profileImageUrlLarge" : "/images/profile/9814/2769/EMD_Logo_PC_EDITS_large.PNG",
+        "profileImageUrlMedium" : "/images/profile/9814/2769/EMD_Logo_PC_EDITS_thumb.PNG",
+        "profileImageUrlSmall" : "/images/profile/9814/2769/EMD_Logo_PC_EDITS_tiny.PNG",
+        "roleName" : "editor",
+        "screenName" : "Emergency Management OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "vnsa-hifw",
+        "displayName" : "Emergency Management OpenData",
+        "profileImageUrlLarge" : "/images/profile/9814/2769/EMD_Logo_PC_EDITS_large.PNG",
+        "profileImageUrlMedium" : "/images/profile/9814/2769/EMD_Logo_PC_EDITS_thumb.PNG",
+        "profileImageUrlSmall" : "/images/profile/9814/2769/EMD_Logo_PC_EDITS_tiny.PNG",
+        "roleName" : "editor",
+        "screenName" : "Emergency Management OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "emergency management", "emergency response", "emergency preparedness" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "AEF9B7B8-EC8B-4C10-AEB6-14298E8A037A", 1, 1407534950, "883728", 1407534950, "883728", "{\n}", "IMS 313 Course", "2014-04-01T00:00:00", "Incident Management Team and EOC Response Team training", "EOC", "Operations", "22" ]
+, [ 2, "93729142-0B5A-4EC9-BFA7-780140A881D0", 2, 1407534950, "883728", 1407534950, "883728", "{\n}", "IMS 313 Course", "2014-04-02T00:00:00", "Incident Management Team and EOC Response Team training", "EOC", "Operations", "22" ]
+, [ 3, "1356AF1D-3E56-46BB-A771-5A58572CB03B", 3, 1407534950, "883728", 1407534950, "883728", "{\n}", "IMS 313 Course", "2014-04-03T00:00:00", "Incident Management Team and EOC Response Team training", "EOC", "Operations", "17" ]
+, [ 4, "592DC166-4C09-4343-BA8C-23003A962B19", 4, 1407534950, "883728", 1407534950, "883728", "{\n}", "IMS 313 Course", "2014-04-04T00:00:00", "Incident Management Team and EOC Response Team training", "EOC", "Operations", "17" ]
+, [ 5, "5003A83F-0809-4FD0-9C12-CD1D4F011C1F", 5, 1407534950, "883728", 1407534950, "883728", "{\n}", "O305 AHIMT Course", "2014-04-07T00:00:00", "Incident Management Team Training ", "Field Responders", "Operations", "12" ]
+, [ 6, "280BD313-20A9-495E-8E9E-04E660217663", 6, 1407534950, "883728", 1407534950, "883728", "{\n}", "O305 AHIMT Course", "2014-04-07T00:00:00", "Incident Management Team Training ", "Field Responders", "Operations", "12" ]
+, [ 7, "EFF8955C-333B-4090-BF0D-BC1CAD3C28CC", 7, 1407534950, "883728", 1407534950, "883728", "{\n}", "O305 AHIMT Course", "2014-04-08T00:00:00", "Incident Management Team Training ", "Field Responders", "Operations", "12" ]
+, [ 8, "C5AEEA2B-09C3-4070-AB80-F4D325075769", 8, 1407534950, "883728", 1407534950, "883728", "{\n}", "O305 AHIMT Course", "2014-04-09T00:00:00", "Incident Management Team Training ", "Field Responders", "Operations", "12" ]
+, [ 9, "661A8B15-6DFB-4C6F-8962-A6C7B198D4C1", 9, 1407534950, "883728", 1407534950, "883728", "{\n}", "O305 AHIMT Course", "2014-04-10T00:00:00", "Incident Management Team Training ", "Field Responders", "Operations", "12" ]
+, [ 10, "B67A3193-CDA4-4B0B-80C1-FA3AC8B85060", 10, 1407534950, "883728", 1407534950, "883728", "{\n}", "O305 AHIMT Course", "2014-04-11T00:00:00", "Incident Management Team Training ", "Field Responders", "Operations", "12" ]
+, [ 11, "DDDD076E-500B-4BB9-848C-5713A4794FA4", 11, 1407534950, "883728", 1407534950, "883728", "{\n}", "Advanced EOC Management Course", "2014-05-12T00:00:00", "EOC Responder Team training", "EOC", "Operations", "35" ]
+, [ 12, "21405E43-741A-4DEC-8FD9-828C65EFE1EB", 12, 1407534950, "883728", 1407534950, "883728", "{\n}", "EOC 101 Training Course", "2014-06-12T00:00:00", "EOC Responder Team training", "EOC", "Operations", "43" ]
+, [ 13, "E5C41639-E07B-449C-97A6-C64CA4D7737D", 13, 1407534950, "883728", 1407534950, "883728", "{\n}", "EOC 201 Training Course", "2014-06-12T00:00:00", "EOC Responder Team training", "EOC", "Operations", "43" ]
+, [ 14, "FCF4EBD1-A4F0-4ACB-8C31-F89981345ABC", 14, 1407534950, "883728", 1407534950, "883728", "{\n}", "EOC 101 Training Course", "2014-06-19T00:00:00", "EOC Responder Team training", "EOC", "Operations", "43" ]
+, [ 15, "2A65F6CE-6149-46EC-91E6-9AF0012DB048", 15, 1407534950, "883728", 1407534950, "883728", "{\n}", "EOC 201 Training Course", "2014-06-19T00:00:00", "EOC Responder Team training", "EOC", "Operations", "43" ]
+ ]
+}

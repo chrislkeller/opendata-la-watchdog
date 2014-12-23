@@ -1,0 +1,286 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "75mm-gccg",
+      "name" : "DCA Grant Awards by Grant Type",
+      "attribution" : "City of Los Angeles, Department of Cultural Affairs",
+      "averageRating" : 0,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1412219517,
+      "description" : "Providing grant support to LA’s rich and diverse arts and cultural organizations and individual artists is the core service provided by the Department of Cultural Affairs. The budget of the Grant Program has fluctuated between $2.1 and $3.3 million dollars per year, approx. 10% of the department's annual budget. The categories of grants include: Artists-In Residence (AIR), Cultural Engagement International (CEI), City of Los Angeles Fellowships (COLA) Individual Artist Fellowships, Community Advancement, and Organizational/Festival grants.",
+      "displayType" : "table",
+      "downloadCount" : 1,
+      "indexUpdatedAt" : 1414612856,
+      "licenseId" : "CC0_10",
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 9001137,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1412220349,
+      "publicationGroup" : 1748301,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1412220139,
+      "rowsUpdatedBy" : "nze8-qr9f",
+      "tableId" : 1748301,
+      "totalTimesRated" : 0,
+      "viewCount" : 10,
+      "viewLastModified" : 1412220350,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 169341699,
+        "name" : "Total Number of Grantees (FY2013)",
+        "dataTypeName" : "number",
+        "description" : "Providing grant support to LA’s rich and diverse arts and cultural organizations and individual artists is the core service provided by the Department of Cultural Affairs. The budget of the Grant Program has fluctuated between $2.1 and $3.3 million dollars per year, approx. 10% of the department's annual budget. The categories of grants include: Artists-In Residence (AIR), Cultural Engagement International (CEI), City of Los Angeles Fellowships (COLA) Individual Artist Fellowships, Community Advancement, and Organizational/Festival grants.",
+        "fieldName" : "number_of_grantees_by_type",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 22197162,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "273",
+          "sum" : "273",
+          "null" : 0,
+          "average" : "273",
+          "largest" : "273",
+          "top" : [ {
+            "count" : 20,
+            "item" : "273"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "false"
+        }
+      }, {
+        "id" : 169341865,
+        "name" : "Total Number of Grantees (FY2014)",
+        "dataTypeName" : "number",
+        "description" : "Providing grant support to LA’s rich and diverse arts and cultural organizations and individual artists is the core service provided by the Department of Cultural Affairs. The budget of the Grant Program has fluctuated between $2.1 and $3.3 million dollars per year, approx. 10% of the department's annual budget. The categories of grants include: Artists-In Residence (AIR), Cultural Engagement International (CEI), City of Los Angeles Fellowships (COLA) Individual Artist Fellowships, Community Advancement, and Organizational/Festival grants.",
+        "fieldName" : "total_number_of_grantees_by_type_fy2014",
+        "position" : 2,
+        "renderTypeName" : "number",
+        "tableColumnId" : 22197188,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "257",
+          "sum" : "257",
+          "null" : 0,
+          "average" : "257",
+          "largest" : "257",
+          "top" : [ {
+            "count" : 20,
+            "item" : "257"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "false"
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Creative Commons 1.0 Universal",
+        "logoUrl" : "images/licenses/ccZero.png",
+        "termsLink" : "http://creativecommons.org/publicdomain/zero/1.0/legalcode"
+      },
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Board of Public Works" : "",
+            "LAPD" : "",
+            "City Administrative Officer" : "",
+            "Personnel " : "",
+            "Bureau of Engineering" : "",
+            "City Attorney" : "",
+            "Employee Relations Board" : "",
+            "Transportation" : "",
+            "Housing and Community Investment" : "",
+            "Library" : "",
+            "Recreation and Parks " : "",
+            "Neighborhood Empowerment" : "",
+            "Controller's Office" : "",
+            "El Pueblo" : "",
+            "Other" : "",
+            "Bureau of Sanitation" : "",
+            "LACERS" : "",
+            "Disability, Department on" : "",
+            "Cultural Affairs" : "Grants Division",
+            "Information Technology" : "",
+            "Fire and Police Pensions" : "",
+            "General Services" : "",
+            "Emergency Management" : "",
+            "Council District 12" : "",
+            "Council District 13" : "",
+            "Council District 14" : "",
+            "Project Restore" : "",
+            "Council District 15" : "",
+            "Council District 10" : "",
+            "Council District 11" : "",
+            "Aging" : "",
+            "Bureau of Street Lighting" : "",
+            "City Clerk" : "",
+            "Bureau of Contract Administration" : "",
+            "Planning" : "",
+            "Harbor " : "",
+            "LAWA" : "",
+            "Public Accountability, The Office of" : "",
+            "Office of Finance" : "",
+            "Council District 03" : "",
+            "Council District 04" : "",
+            "Council District 01" : "",
+            "Council District 02" : "",
+            "Bureau of Street Services" : "",
+            "Zoo" : "",
+            "Council District 09" : "",
+            "Council District 07" : "",
+            "Council District 08" : "",
+            "Council District 05" : "",
+            "Council District 06" : "",
+            "LAFD" : "",
+            "Economic and Workforce Development" : "",
+            "Ethics Commission" : "",
+            "Animal Services" : "",
+            "Mayor's Office" : "",
+            "Housing Authority" : "",
+            "Building and Safety" : "",
+            "LADWP" : ""
+          },
+          "Committed Update Frequency" : {
+            "Refresh rate" : "Semi-annual"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "jsonQuery" : {
+          "order" : [ {
+            "ascending" : true,
+            "columnFieldName" : "total_number_of_grantees_by_type_fy2014"
+          } ]
+        }
+      },
+      "owner" : {
+        "id" : "nze8-qr9f",
+        "displayName" : "Cultural Affairs OpenData",
+        "profileImageUrlLarge" : "/images/profile/5607/1748/City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5607/1748/City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5607/1748/City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Cultural Affairs OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+        "orderBys" : [ {
+          "ascending" : true,
+          "expression" : {
+            "columnId" : 169341865,
+            "type" : "column"
+          }
+        } ]
+      },
+      "rights" : [ "read" ],
+      "sortBys" : [ {
+        "id" : 0,
+        "viewColumnId" : 169341865,
+        "flags" : [ "asc" ]
+      } ],
+      "tableAuthor" : {
+        "id" : "nze8-qr9f",
+        "displayName" : "Cultural Affairs OpenData",
+        "profileImageUrlLarge" : "/images/profile/5607/1748/City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5607/1748/City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5607/1748/City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Cultural Affairs OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "dca", "grants", "grant-type", "non-profit", "organizations", "individual artists" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "85209D3C-1F4C-40FD-B549-59973B9A5A9B", 1, 1412220044, "883833", 1412220139, "883833", null, "273", "257" ]
+ ]
+}
