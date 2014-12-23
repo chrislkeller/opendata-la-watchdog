@@ -5,6 +5,10 @@ Using code created by the [Los Angeles Times Data Desk](https://github.com/datad
 What it tracks
 --------------
 
+If a given csv file and its corresponding json file is below 10,000 rows, the file will be linked to a location in this repo. Otherwise it will be designated ```n/a```.
+
+I'm storing files larger than 10,000 rows locally, but at my knowledge level they are too large for GitHub, and too large to handle efficiently in a local repository.
+
 |Data set|Row count|Last download|   |   |
 |:--------|--------:|:-----------|:--|:--|
 {% for obj in file_list %}|[{{ obj.name }}]({{ obj.url }})|{{ obj.row_count }}|{{ obj.last_updated }}|{% if obj.repo_status %}[CSV](csv/{{ obj.csv_name }})|[JSON](json/{{ obj.json_name }}){% else %}n/a|n/a{% endif %}|

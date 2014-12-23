@@ -5,6 +5,10 @@ Using code created by the [Los Angeles Times Data Desk](https://github.com/datad
 What it tracks
 --------------
 
+If a given csv file and its corresponding json file is below 10,000 rows, the file will be linked to a location in this repo. Otherwise it will be designated ```n/a```.
+
+I'm storing files larger than 10,000 rows locally, but at my knowledge level they are too large for GitHub, and too large to handle efficiently in a local repository.
+
 |Data set|Row count|Last download|   |   |
 |:--------|--------:|:-----------|:--|:--|
 |[2014 Registered Foreclosure Properties](https://data.lacity.org/A-Well-Run-City/2014-Registered-Foreclosure-Properties/fdwe-pgcu)|5600|2014-12-23 12:27:57.866437|[CSV](csv/2014-registered-foreclosure-properties.csv)|[JSON](json/2014-registered-foreclosure-properties.json)|
