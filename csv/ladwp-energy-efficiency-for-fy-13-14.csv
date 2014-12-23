@@ -1,0 +1,49 @@
+Type of Program,Program,Metric,7/13,8/13,9/13,10/13,11/13,12/13,1/14,2/14,3/14,4/14,5/14,6/14,Total YTD
+CII Program,Chiller Efficiency (CEP),Monthly KWh Target,60000,120000,180000,180000,240000,240000,240000,300000,300000,360000,360000,420000,3000000
+CII Program,Chiller Efficiency (CEP),Monthly KWh Actual,40815,,380234,966634,,,,,628644,,,,2016327
+CII Program,Commercial Lightning Efficiency Offering,Monthly KWh Target,1720000,2160000,810000,2930000,2440000,1590000,1790000,4170000,4670000,6040000,4810000,2870000,36000000
+CII Program,Commercial Lightning Efficiency Offering,Monthly KWh Actual,1223787,2913115,2200443,3621522,2038983,873599,1679075,3371061,4477011,,,,22398596
+CII Program,Custom Performance Program (CPP),Monthly KWh Target,1080000,2160000,3240000,3240000,4320000,4320000,4320000,5400000,5400000,6480000,6480000,7560000,54000000
+CII Program,Custom Performance Program (CPP),Monthly KWh Actual,,6417086,4295993,1669587,2930443,11067813,1910259,3551044,2764502,,,,34606727
+CII Program,Low Income Economic Development Program,Monthly KWh Target,20000,40000,60000,60000,80000,80000,80000,100000,100000,120000,120000,140000,1000000
+CII Program,Low Income Economic Development Program,Monthly KWh Actual,150000,150000,150000,150000,150000,150000,150000,150000,,,,,1200000
+CII Program,Refrigeration,Monthly KWh Target,80000,160000,240000,240000,320000,320000,320000,400000,400000,480000,480000,560000,4000000
+CII Program,Refrigeration,Monthly KWh Actual,,,573796,,,612,,179286,0,,,,753694
+CII Program,Retrocommissioning Express (RCx),Monthly KWh Target,90000,180000,270000,270000,360000,360000,360000,450000,450000,540000,540000,630000,4500000
+CII Program,Retrocommissioning Express (RCx),Monthly KWh Actual,,72475,,,,,,,0,,,,72475
+CII Program,Savings By Design (SBD),Monthly KWh Target,90000,180000,270000,270000,360000,360000,360000,450000,450000,540000,540000,630000,4500000
+CII Program,Savings By Design (SBD),Monthly KWh Actual,,,768535,,,,3773780,,0,,,,4542315
+Crosscutting Program,Embedded Energy from Water Measures,Monthly KWh Target,100000,100000,100000,100000,100000,100000,100000,100000,100000,100000,100000,100000,1200000
+Crosscutting Program,Embedded Energy from Water Measures,Monthly KWh Actual,286840,103228,208742,99269,81318,183874,312080,175705,,,,,1451056
+Crosscutting Program,LADWP Facilities,Monthly KWh Target,40000,80000,120000,120000,160000,160000,160000,200000,200000,240000,240000,280000,2000000
+Crosscutting Program,LADWP Facilities,Monthly KWh Actual,386600,67300,,55800,,106600,72190,,20675,,,,709165
+Crosscutting Program,Low Impact Development (LID) Ordinance,Monthly KWh Target,,,,,,,,,,,,,
+Crosscutting Program,Low Impact Development (LID) Ordinance,Monthly KWh Actual,5194,5194,5194,5194,5194,5194,5194,5194,0,,,,42162
+Crosscutting Program,Million Trees LA,Monthly KWh Target,34000,68000,102000,102000,136000,136000,136000,170000,170000,204000,204000,238000,1700000
+Crosscutting Program,Million Trees LA,Monthly KWh Actual,136000,238000,357000,221000,68000,51000,51000,51000,51000,,,,1224000
+Crosscutting Program,"Plumbing Ordinance, Article V Codes & Standards",Monthly KWh Target,,,,,,,,,,,,,
+Crosscutting Program,"Plumbing Ordinance, Article V Codes & Standards",Monthly KWh Actual,109980,109980,109980,109980,109980,109980,109980,109980,109980,,,,879840
+Crosscutting Program,Program Outreach & Community Partnerships,Monthly KWh Target,,,,,,,,,,,,,
+Crosscutting Program,Program Outreach & Community Partnerships,Monthly KWh Actual,,,,,,,,,,,,,
+Crosscutting Program,Title 24 & Title 20 Codes & Standards,Monthly KWh Target,6030000,6030000,6030000,6030000,6030000,6030000,6030000,6030000,6030000,6030000,6030000,6030000,72360000
+Crosscutting Program,Title 24 & Title 20 Codes & Standards,Monthly KWh Actual,5931800,5931800,5931800,5931800,5931800,5931800,5931800,5931800,,,,,47454400
+Crosscutting Program,Upstream HVAC,Monthly KWh Target,,,,,,,583334,583334,583334,583334,583334,583334,3500004
+Crosscutting Program,Upstream HVAC,Monthly KWh Actual,,,,,,,,,0,,,,0
+Mass Market Program,CA Advanced Homes,Monthly KWh Target,40000,80000,120000,120000,160000,160000,160000,200000,200000,240000,240000,280000,2000000
+Mass Market Program,CA Advanced Homes,Monthly KWh Actual,,,,,,,,,0,,,,0
+Mass Market Program,Consumer Rebate Program (CRP),Monthly KWh Target,38000,76000,114000,114000,152000,152000,152000,190000,190000,228000,228000,266000,1900000
+Mass Market Program,Consumer Rebate Program (CRP),Monthly KWh Actual,81441,179338,182826,180963,96780,121507,162228,250034,123257,,,,1378374
+Mass Market Program,Energy Upgrade CA,Monthly KWh Target,40000,80000,120000,120000,160000,160000,160000,200000,200000,240000,240000,280000,2000000
+Mass Market Program,Energy Upgrade CA,Monthly KWh Actual,17874,7887,14929,35846,35689,24261,59328,87008,127635,,,,410457
+Mass Market Program,Gas Co Weatherized Homes,Monthly KWh Target,2000,4000,6000,6000,8000,8000,8000,10000,10000,12000,12000,14000,100000
+Mass Market Program,Gas Co Weatherized Homes,Monthly KWh Actual,,,,,,,,,0,,,,0
+Mass Market Program,Home Energy Improvement Program,Monthly KWh Target,42000,84000,126000,126000,168000,168000,168000,210000,210000,252000,252000,294000,2100000
+Mass Market Program,Home Energy Improvement Program,Monthly KWh Actual,91909,81822,103575,30315,79703,157893,35259,303627,2014571,,,,2898674
+Mass Market Program,LAUSD Direct Install,Monthly KWh Target,500000,1000000,1500000,1500000,2000000,2000000,2000000,2500000,2500000,3000000,3000000,3500000,25000000
+Mass Market Program,LAUSD Direct Install,Monthly KWh Actual,,,,1539656,140732,1481657,1801430,,0,,,,4963475
+Mass Market Program,Refrigerator Exchange (LIREP),Monthly KWh Target,136000,272000,408000,408000,544000,544000,544000,680000,680000,816000,816000,952000,6800000
+Mass Market Program,Refrigerator Exchange (LIREP),Monthly KWh Actual,414842,688388,417224,224402,238854,154750,358908,332558,343068,,,,3172994
+Mass Market Program,Refrigerator Recycling (RETIRE),Monthly KWh Target,124000,248000,372000,372000,496000,496000,496000,620000,620000,744000,744000,868000,6200000
+Mass Market Program,Refrigerator Recycling (RETIRE),Monthly KWh Actual,459256,544880,363902,334712,227682,231574,272440,235466,268548,,,,2938460
+Mass Market Program,Small Business Direct Install Program,Monthly KWh Target,1200000,2400000,3600000,3600000,4800000,4800000,4800000,6000000,6000000,7200000,7200000,8400000,60000000
+Mass Market Program,Small Business Direct Install Program,Monthly KWh Actual,1530131,1959347,2404629,3673238,2781383,4578746,3984010,3209832,3739273,,,,27860589

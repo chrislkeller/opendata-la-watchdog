@@ -1,0 +1,237 @@
+Lot #,CouncilDistrict,Street Address,Community,ZIP Code,Oper. Equip.Type,Rate,Daily Max Rate,Monthly Rate,Hours of Operation,Total Spaces,1 Hour Spaces,2 Hour Spaces,4 Hour Spaces,10 Hr and More,Disabled,FacilityType,Lot Size,Location
+601,6,14401 Friar St,Van Nuys,91401_2125,GSD,$0.45 / 15 Min,$7.20,$72.00,5:30 AM-7 PM M-F,237,--,--,--,230,7,Structure,44130,"Van Nuys
+(34.18666814100044, -118.44896879299972)"
+602,2,11320 Chandler Blvd,North Hollywood,91601_3130,Pay Station,$0.25 / 30 Min,$2.50,--,7 AM-9 PM Daily,47,21,--,--,24,2,Surface Lot,17600,"North Hollywood
+(34.172228979000465, -118.37896877699967)"
+609,6,14521 Friar St,Van Nuys,91411_2319,GSD,$0.55 / 30 MinR,$5.00 R,$49.50,8 AM-5 PM M-Sat,76,--,--,--,72,4,Surface Lot,29700,"Van Nuys
+(34.18666814100044, -118.44896879299972)"
+610,6,14532 Gilmore St,Van Nuys,91411_1602,GSD,$0.55 / 30 MinR,$5.00 R,$38.50,8 AM-5 PM M-F,138,--,--,--,133,5,Surface Lot,50750,"Van Nuys
+(34.18666814100044, -118.44896879299972)"
+613,11,2010 S Pisani Pl,Venice,90291_3817,Free,Free,--,--,8 AM-6 PM X/Sun,53,--,--,--,51,2,Surface Lot,25380,"Venice
+(33.99083727900046, -118.46007826399972)"
+614,4,728 S Cochran Ave,Miracle Mile,90036_3813,Pay Station,$1.00 / Hr,$4.00 / 10 Hrs,$30.00 Z,7 AM-9 PM Daily Z,41,--,--,--,39,2,Surface Lot,13950,"Miracle Mile
+(34.05933893500048, -118.3490555469997)"
+616,11,1411 Electric Ave,Venice,90291_3733,Free,Free,--,--,7 AM-2 AM Daily Z,29,--,--,27 R,--,2,Surface Lot,9000,"Venice
+(33.99083727900046, -118.46007826399972)"
+617,11,1511 Electric Ave,Venice,90291_3735,Free,Free,--,--,7 AM-2 AM Daily Z,22,--,--,21 R,--,1,Surface Lot,10440,"Venice
+(33.99083727900046, -118.46007826399972)"
+618,3,7134 Remmet Ave,Canoga Park,91303,Free,Free,--,--,8 AM-6 PM X/Sun,19,--,18,--,--,1,Surface Lot,7500,"Canoga Park
+(34.20111630300045, -118.59813897699968)"
+619,4,1451 N Gardner St,Hollywood,90046_4101,Pay Station,$0.25 / 20 Min,$1.50 / 2 Hrs,--,7 AM-Midnight Daily,22,--,21,--,--,1,Surface Lot,12760,"Hollywood
+(34.098336823000466, -118.32673761399968)"
+620,6,14607 Sylvan St,Van Nuys,91411_2327,GSD,$0.55 / 30 MinR,$5.00 R,$38.50,8 AM-5 PM M-F,57,--,--,--,54,3,Surface Lot,24000,"Van Nuys
+(34.18666814100044, -118.44896879299972)"
+621,3,7120 Baird Ave,Reseda,91335_4128,Free,Free,--,--,8 AM-6 PM X/Sun Z,81,--,--,--,77,4,Surface Lot,33500,"Reseda
+(34.20111630300045, -118.53646768899972)"
+622,3,7131 Canby Ave,Reseda,91335_4304,Free,Free,--,--,8 AM-6 PM X/Sun,62,--,38,--,21,3,Surface Lot,26000,"Reseda
+(34.20111630300045, -118.53646768899972)"
+623,8,8707 Menlo Ave,Vermont Vista,90044_4813,Free,Free,--,--,8 AM-6 PM X/Sun Z,77,--,73,--,--,4,Surface Lot,31630,"Vermont Vista
+(39.52368635500045, -99.11415045099966)"
+624,3,7222 Baird Ave,Reseda,91335,Free,Free,--,--,8 AM-6 PM X/Sun Z,78,--,74,--,--,4,Surface Lot,33570,"Reseda
+(34.20111630300045, -118.53646768899972)"
+625,10,3416 W 43rd St,Leimert Park,90008_4906,Pay Station,$0.25 / 30 Min,$2.50,$25.00,7 AM-9 PM Daily Z,172,--,28,--,138,6,Surface Lot,69260,"Leimert Park
+(34.00695928600044, -118.33145767699972)"
+626,10,3328 W 43rd St,Leimert Park,90008_4570,Pay Station,$0.25 / 30 Min,$2.50,$25.00,7 AM-9 PM Daily Z,105,--,--,--,100,5,Surface Lot,49360,"Leimert Park
+(34.00695928600044, -118.33145767699972)"
+627,2,11231 Magnolia Blvd,North Hollywood,91601_3703,Pay Station,$0.25 / 30 Min,$2.50,--,7 AM-9 PM Daily,47,--,22,--,23,2,Surface Lot,20040,"North Hollywood
+(34.172228979000465, -118.37896877699967)"
+628,1,2418 Daly St,Lincoln Heights,90031_2221,Pay Station,$0.25 / 30 Min,$1.00 / 2 Hrs,$30.00,7 AM-9 PM Daily,28,--,26,--,--,2,Surface Lot,10200,"Lincoln Heights
+(40.7714482610005, -82.48432632699968)"
+629,4,14591 Dickens St,Sherman Oaks,91403_3765,GSD,$0.60 / 20 Min,$6.00,$60.00,7 AM-11:00 PM Daily,198,--,--,--,191,7,Structure,47800,"Sherman Oaks
+(34.15111693400047, -118.44924776799968)"
+630,6,14517 Erwin St,Van Nuys,91411_2341,GSD,$0.55 / 30 MinR,$5.00 R,$49.50,7 AM-5:30 PM M-F,75,--,--,--,72,3,Surface Lot,28000,"Van Nuys
+(34.18666814100044, -118.44896879299972)"
+631,6,14402 Gilmore St,Van Nuys,91401_1429,GSD,$0.55 / 30 MinR,$5.00 R,$38.50,8 AM-5 PM M-F,68,--,--,--,65,3,Surface Lot,30000,"Van Nuys
+(34.18666814100044, -118.44896879299972)"
+632,8,5345 11th Ave,Hyde Park,90043_4817,Free,Free,--,--,8 AM-6 PM X/Sun Z,29,--,13,--,14,2,Surface Lot,15000,"Hyde Park
+(41.79881560700045, -111.8191073489997)"
+633,8,5407 11th Ave,Hyde Park,90043_2511,Free,Free,--,--,8 AM-6 PM X/Sun Z,32,--,30,--,--,2,Surface Lot,15000,"Hyde Park
+(41.79881560700045, -111.8191073489997)"
+634,8,5701 11th Ave,Hyde Park,90043_2501,Free,Free,--,--,8 AM-6 PM X/Sun Z,35,--,33,--,--,2,Surface Lot,16260,"Hyde Park
+(41.79881560700045, -111.8191073489997)"
+635,1,119 N Avenue 56,Highland Park,90042_4116,Meter / Free,$0.25 / 30 Min,$2.50,--,7 AM-9 PM Daily,84,--,30 Free,--,50,4,Surface Lot,34880,"Highland Park
+(42.18168964500046, -87.80033645999964)"
+636,1,5712 E Marmion Wy,Highland Park,90042_4206,Meter / Free,$0.25 / 30 Min,$2.50,--,7 AM-9 PM Daily,62,--,10 Free,--,50,2,Surface Lot,21880,"Highland Park
+(42.18168964500046, -87.80033645999964)"
+637,1,124 N Avenue 59,Highland Park,90042_4208,Meter / Free,$0.25 / 30 Min,$2.50,--,7 AM-9 PM Daily,36,--,23 Free,--,11,2,Surface Lot,13500,"Highland Park
+(42.18168964500046, -87.80033645999964)"
+638,1,120 S Avenue 58,Highland Park,90042_4704,Single Meter,$0.25 / 30 Min,$2.50,--,7 AM-9 PM Daily,28,--,--,--,26,2,Surface Lot,10290,"Highland Park
+(42.18168964500046, -87.80033645999964)"
+639,1,116 S Avenue 56,Highland Park,90042_4608,Station/Free,$0.25 / 30 Min,$2.50,$40.00,7 AM-9 PM Daily,47,--,13 Free,--,32,2,Surface Lot,17720,"Highland Park
+(42.18168964500046, -87.80033645999964)"
+640,3,7130 Darby Ave,Reseda,91335,Free,Free,--,--,24 Hrs Daily ,46,--,--,--,44,2,Surface Lot,20830,"Reseda
+(34.20111630300045, -118.53646768899972)"
+641,15,462 W 9th St,San Pedro,90731,Free,Free,--,--,8 AM-6 PM X/Sun Z,102,--,40,--,58,4,Surface Lot,39080,"San Pedro
+(33.735845896000455, -118.29228880499971)"
+642,5,1421 S Wooster St,Crestview,90035_3406,Pay Station,$0.25 / 30 Min,$2.50,--,7 AM-9 PM Daily,50,--,34,--,13,3,Structure,14800,"Crestview
+(30.762129821000485, -86.57050586699967)"
+643,13,1147 Echo Park Ave,Echo Park,90026_4212,Pay Station,$0.25 / 30 Min,$1.00 / 2 Hrs,--,7 AM-9 PM Daily,43,--,41,--,--,2,Surface Lot,15000,"Echo Park
+(36.13095606200045, -81.66843939499967)"
+644,3,7219 Remmet Ave,Canoga Park,91303_1532,Single Meter,$0.25 / 30 Min,$2.50,--,7 AM-9 PM Daily,18,--,--,9,8,1,Surface Lot,7250,"Canoga Park
+(34.20111630300045, -118.59813897699968)"
+645,11,1540 Purdue Ave,West LA,90025_3105,Pay Station,$1.00 / Hr,$4.00 / 4 Hrs,--,7 AM-9 PM Daily,37,--,--,35,--,2,Surface Lot,14000,"West LA
+(30.647080900000446, -90.90663965299967)"
+646,13,3528 Larga Ave,Atwater Village,90039_1926,Free,Free,--,--,8 AM-6 PM X/Sun Z,38,--,18,--,18,2,Surface Lot,13500,"Atwater Village
+(39.52368635500045, -99.11415045099966)"
+647,15,474 W 8th St,San Pedro,90731,Free,Free,--,--,8 AM-6 PM X/Sun Z,41,--,--,--,39,2,Surface Lot,15000,"San Pedro
+(33.735845896000455, -118.29228880499971)"
+649,13,1533 N Schrader Blvd,Hollywood,90028_7203,PCI,$9.00 Flat R,$9.00,$125.00 R,see below R,55,--,--,--,52,3,Surface Lot,21430,"Hollywood
+(34.098336823000466, -118.32673761399968)"
+650,15,928 Marine Ave,Wilmington,90744_4415,Free,Free,--,--,8 AM-6 PM X/Sun,40,--,38,--,--,2,Surface Lot,15300,"Wilmington
+(34.225729024000486, -77.94470578599964)"
+651,11,1516 Barry Ave,West LA,90025_2904,Pay Station,$1.00 / Hr,$4.00 / 10 Hrs,--,7 AM-9 PM Daily,20,--,9,--,10,1,Surface Lot,7000,"West LA
+(30.647080900000446, -90.90663965299967)"
+652,11,1530 Butler Ave,West LA,90025_3002,Pay Station,$1.00 / Hr,$4.00 / 4 Hrs,--,7 AM-9 PM Daily,43,--,30,11,--,2,Surface Lot,14850,"West LA
+(30.647080900000446, -90.90663965299967)"
+653,11,1547 Corinth Ave,West LA,90025_3201,Pay Station,$1.00 / Hr,$4.00 / 10 Hrs,$50.00,7 AM-9 PM Daily,38,--,--,--,36,2,Surface Lot,14000,"West LA
+(30.647080900000446, -90.90663965299967)"
+654,11,1611 Beloit Ave,West LA,90025_3106,Pay Station,$1.00 / Hr,$4.00 / 10 Hrs,--,7 AM-9 PM Daily,20,--,10,--,9,1,Surface Lot,7000,"West LA
+(30.647080900000446, -90.90663965299967)"
+655,11,11312 Idaho Ave,West LA,90025_3108,Pay Station,$1.00 / Hr,$4.00 / 4 Hrs,--,7 AM-9 PM Daily Z,17,--,10,6,--,1,Surface Lot,9630,"West LA
+(30.647080900000446, -90.90663965299967)"
+656,11,1615 Colby Ave,West LA,90025_3013,Pay Station,$1.00 / Hr,$4.00 / 4 Hrs,--,7 AM-9 PM Daily,34,--,22,10,--,2,Surface Lot,12320,"West LA
+(30.647080900000446, -90.90663965299967)"
+657,1,221 Avenue 22,Lincoln Heights,90031_2206,Free,Free,--,--,8 AM-6 PM X/Sun,40,--,26,--,12,2,Surface Lot,15500,"Lincoln Heights
+(40.7714482610005, -82.48432632699968)"
+658,1,216 Avenue 24,Lincoln Heights,90031_2210,Pay Station,$0.25 / 30 Min,$1.00 / 2 Hrs,$60.00,7 AM-9 PM Daily,59,--,56,--,--,3,Surface Lot,19800,"Lincoln Heights
+(40.7714482610005, -82.48432632699968)"
+659,1,2334 Daly St,Lincoln Heights,90031_2263,Pay Station,$0.25 / 30 Min,$2.50,--,7 AM-9 PM Daily,79,--,55,--,20,4,Surface Lot,37200,"Lincoln Heights
+(40.7714482610005, -82.48432632699968)"
+660,1,154 Avenue 24,Lincoln Heights,90031_2256,Pay Station,$0.25 / 30 Min,$2.50,$30.00,7 AM-9 PM Daily,51,--,23,--,25,3,Surface Lot,18980,"Lincoln Heights
+(40.7714482610005, -82.48432632699968)"
+661,1,2416 Workman St,Lincoln Heights,90031_2320,Free,Free,--,--,8 AM-6 PM X/Sun,46,--,22,--,22,2,Surface Lot,16500,"Lincoln Heights
+(40.7714482610005, -82.48432632699968)"
+662,13,1152 Lemoyne St,Echo Park,90026_3207,Pay Station,$0.25 / 30 Min,$2.50,$30.00,7 AM-9 PM X/Sun,82,--,38,--,40,4,Surface Lot,26750,"Echo Park
+(36.13095606200045, -81.66843939499967)"
+663,13,1146 Logan St,Echo Park,90026_3211,Pay Station,$0.25 / 30 Min,$2.50,--,7 AM-9 PM Daily,38,--,27,--,9,2,Surface Lot,14000,"Echo Park
+(36.13095606200045, -81.66843939499967)"
+664,14,4883 Navarro St,El Sereno,90032_2228,Free,Free,--,--,24 Hrs Daily ,30,--,28,--,--,2,Surface Lot,12250,"El Sereno
+(34.081116918000475, -118.17784640499968)"
+665,8,323 W 87th St,Vermont Vista,90003_3313,Free,Free,--,--,8 AM-6 PM X/Sun,64,--,--,61,--,3,Surface Lot,32370,"Vermont Vista
+(39.52368635500045, -99.11415045099966)"
+668,14,5058 Meridian St,Eagle Rock,90042_1723,Pay Station,$0.25 / 30 Min,$2.50,--,7 AM-9 PM Daily Z,44,--,18,--,24,2,Surface Lot,15600,"Eagle Rock
+(34.138896066000484, -118.2139555599997)"
+669,1,5033 Lincoln Ave,Eagle Rock,90042_2343,Pay Station,$1.00 / Hr,$4.00 / 10 Hrs,--,7 AM-Midnight DailyZ,39,--,18,--,19,2,Surface Lot,15600,"Eagle Rock
+(34.138896066000484, -118.2139555599997)"
+670,13,1710 N Cherokee Ave,Hollywood,90028_4818,PCI,$2.00 / 15 MinR,$16.00,$144.00,24 Hrs Daily ,386,--,--,--,378,8,Structure,49400,"Hollywood
+(34.098336823000466, -118.32673761399968)"
+672,1,124 S Avenue 57,Highland Park,90042_4702,Meter / Free,$0.25 / 30 Min,$2.50,--,7 AM-9 PM Daily,32,--,15 Free,--,15,2,Surface Lot,14150,"Highland Park
+(42.18168964500046, -87.80033645999964)"
+673,1,117 S Avenue 58,Highland Park,90042_4703,Meter / Free,$0.25 / 30 Min,$2.50,--,7 AM-9 PM Daily,32,--,20 Free,--,10,2,Surface Lot,14000,"Highland Park
+(42.18168964500046, -87.80033645999964)"
+674,3,7220 Jordan Ave,Canoga Park,91303,Free,Free,--,--,24 Hrs Daily ,35,--,33,--,--,2,Surface Lot,11000,"Canoga Park
+(34.20111630300045, -118.59813897699968)"
+675,4,4642 Russell Ave,Los Feliz,90027_4240,Pay Station,$1.00 / Hr,$4.00 / 10 Hrs,--,7 AM-Midnight Daily,32,--,--,--,30,2,Surface Lot,13500,"Los Feliz
+(34.110877161000474, -118.2856789169997)"
+676,13,1146 Glendale Blvd,Echo Park,90026,Single Meter,$0.25 / 30 Min,$2.50,--,7 AM-9 PM X/Sun,9,--,--,--,8,1,Surface Lot,3500,"Echo Park
+(36.13095606200045, -81.66843939499967)"
+677,14,308 S Hill St,Downtown,90013-1109,API,$2.00 / 15 MinR,$10.00,--,see below R,200,--,--,--,194,6,Structure,,"Downtown
+(34.04163757400045, -118.24704999499971)"
+678,9,8509 S Broadway,Vermont Vista,90003_3334,Free,Free,--,--,24 Hrs Daily ,61,--,58,--,--,3,Surface Lot,22770,"Vermont Vista
+(39.52368635500045, -99.11415045099966)"
+679,13,1711 Sunset Blvd,Echo Park,90026_3224,Single Meter,$0.25 / 30 Min,$2.50,--,7 AM-9 PM Daily,14,--,--,--,13,1,Surface Lot,5900,"Echo Park
+(36.13095606200045, -81.66843939499967)"
+680,5,1036 Broxton Ave,Westwood,90024_2824,GSD,$1.50 / 20 MinR,$9.00 R,$125.00,see below R,366,--,--,--,358,8,Structure,29070,"Westwood
+(42.21398765400045, -71.22449720899965)"
+681,11,15216 Sunset Blvd,Pacific Palisades,90272_3611,Pay Station,$1.00 / Hr,$2.00 / 2 Hrs,--,7 AM-9 PM Daily,25,11,13,--,--,1,Surface Lot,9000,"Pacific Palisades
+(21.425557572000457, -157.96082621699975)"
+682,14,318 N Breed St,Boyle Heights,90033_1802,Pay Station,$0.25 / 30 Min,$2.50,--,7 AM-9 PM Daily,27,--,--,--,25,2,Surface Lot,12500,"Boyle Heights
+(34.03389829100047, -118.20534785699971)"
+683,15,445 W 5th St,San Pedro,90731,Single Meter,$0.25 / 30 Min,$2.00,$30.00,8 AM-6 PM X/Sun Z,26,--,--,24,--,2,Surface Lot,11500,"San Pedro
+(33.735845896000455, -118.29228880499971)"
+684,15,460 W 7th St,San Pedro,90731,Pay Station,$0.25 / 30 Min,$2.50,$30.00,8 AM-6 PM X/Sun Z,86,--,39,--,43,4,Surface Lot,31200,"San Pedro
+(33.735845896000455, -118.29228880499971)"
+685,5,2386 Malcolm Ave,Rancho Park,90064_2206,Pay Station,$1.00 / Hr,$4.00 / 10 Hrs,--,7 AM-9 PM Daily,19,--,--,--,18,1,Surface Lot,6450,"Rancho Park
+(34.045759192000446, -118.42055842499968)"
+686,14,5063 Caspar Ave,Eagle Rock,90041_1967,Single Meter,$0.25 / 30 Min,$2.50,--,7 AM-9 PM Daily,29,--,11,--,16,2,Surface Lot,13060,"Eagle Rock
+(34.138896066000484, -118.2139555599997)"
+687,3,7141 Remmet Ave,Canoga Park,91303_2016,Free,Free,--,--,24 Hrs Daily ,21,--,20,--,--,1,Surface Lot,7250,"Canoga Park
+(34.20111630300045, -118.59813897699968)"
+688,5,1156 Clark Dr,Crestview,90035_1400,Pay Station,$0.25 / 20 Min,$3.00,--,7 AM-9 PM Daily,27,--,11,--,14,2,Structure,12750,"Crestview
+(30.762129821000485, -86.57050586699967)"
+689,5,8866 Pico Blvd,Crestview,90035_3302,Pay Station,$0.25 / 20 Min,$3.00,--,7 AM-9 PM Daily,39,--,--,--,37,2,Surface Lot,14400,"Crestview
+(30.762129821000485, -86.57050586699967)"
+690,2,12225 Ventura Blvd,Studio City,91604_2519,GSD,see below R,$6.00,$47.50,see below R,393,--,--,--,385,8,Structure,41860,"Studio City
+(34.14861966500047, -118.39646765599969)"
+692,10,601 S Vermont Ave,Wilshire Center,90005_1347,Single Meter,$0.25 / 20 Min,$3.00,--,7 AM-9 PM Daily,57,--,--,--,54,3,Surface Lot,24570,"Wilshire Center
+(39.52368635500045, -99.11415045099966)"
+694,4,209 N Larchmont Blvd,Hancock Park,90004_3706,Pay Station,$1.00 / Hr,$2.00 / 2 Hrs,--,7 AM-Midnight Daily,34,--,32,--,--,2,Surface Lot,12500,"Hancock Park
+(34.067789152000444, -118.3325780729997)"
+695,1,123 N Avenue 57,Highland Park,90042_4115,Meter / Free,$0.25 / 30 Min,$2.50,--,7 AM-9 PM Daily,38,--,20 Free,--,16,2,Surface Lot,16880,"Highland Park
+(42.18168964500046, -87.80033645999964)"
+696,15,835 Avalon Blvd,Wilmington,90744_4501,Free,Free,--,--,24 Hrs Daily ,14,--,13,--,--,1,Surface Lot,6780,"Wilmington
+(34.225729024000486, -77.94470578599964)"
+697,1,2332 Workman St,Lincoln Heights,90031_2616,Free,Free,--,--,8 AM-6 PM X/Sun,26,--,--,--,24,2,Surface Lot,14000,"Lincoln Heights
+(40.7714482610005, -82.48432632699968)"
+698,5,2367 Prosser Ave,Century City,90064_2323,Pay Station,$0.25 / 30 Min,$2.50,--,7 AM-9 PM Daily,25,8,--,--,15,2,Surface Lot,12050,"Century City
+(34.05556828400046, -118.4178586749997)"
+699,15,529 W 11th St,San Pedro,90731,Free,Free,--,--,"8 AM-6 PM X/Sa,SuZ",40,--,38,--,--,2,Surface Lot,18900,"San Pedro
+(33.735845896000455, -118.29228880499971)"
+700,8,239 W 86th Pl,Vermont Vista,90003_3307,Free,Free,--,--,24 Hrs Daily ,21,--,20,--,--,1,Surface Lot,8640,"Vermont Vista
+(39.52368635500045, -99.11415045099966)"
+701,11,2150 Dell Ave,Venice,90291_4526,PCI,see below R,see below R,$15.00 R,see below R,150,--,--,--,144,6,Surface Lot,78270,"Venice
+(33.99083727900046, -118.46007826399972)"
+702,13,1627 N Vine St,Hollywood,90028_8802,PCI,$2.00 / 30 MinR,$12.00  R,$100.00 R,24 Hrs Daily ,457,--,--,--,448,9,Structure,41540,"Hollywood
+(34.098336823000466, -118.32673761399968)"
+703,5,123 S Robertson Blvd,Carthay,90048_3207,GSD,see below R,$12.00,$150.00,6 AM-11:30 PM Daily,334,--,--,--,326,8,Structure,23620,"Carthay
+(39.52368635500045, -99.11415045099966)"
+704,3,7128 Jordan Ave,Canoga Park,91303,Single Meter,$0.25 / 30 Min,$2.50,--,7 AM-9 PM Daily,37,--,9,--,26,2,Surface Lot,15000,"Canoga Park
+(34.20111630300045, -118.59813897699968)"
+705,3,21901 W Costanso St,Woodland Hills,91364,Pay Station,$0.25 / 30 Min,$2.50,--,7 AM-9 PM Daily,28,--,--,--,26,2,Surface Lot,15450,"Woodland Hills
+(34.16833683900046, -118.6059187569997)"
+707,5,2377 Midvale Ave,Rancho Park,90064_2103,Pay Station,$1.00 / Hr,$4.00 / 10 Hrs,--,7 AM-9 PM Daily,41,--,30,--,9,2,Surface Lot,16920,"Rancho Park
+(34.045759192000446, -118.42055842499968)"
+711,13,3528 Garden Ave,Atwater Village,90039_1922,Free,Free,--,--,6 AM-2 AM Daily Z,34,--,32,--,--,2,Surface Lot,13500,"Atwater Village
+(39.52368635500045, -99.11415045099966)"
+712,3,7246 Baird Ave,Reseda,91335,Free,Free,--,--,8 AM-6 PM X/Sun Z,34,--,--,--,32,2,Surface Lot,15000,"Reseda
+(34.20111630300045, -118.53646768899972)"
+713,14,249 N Chicago St,Boyle Heights,90033_2906,Pay Station,$0.25 / 30 Min,$2.50,$30.00,7 AM-9 PM Daily,69,--,19,--,47,3,Surface Lot,27150,"Boyle Heights
+(34.03389829100047, -118.20534785699971)"
+715,5,2371 Overland Ave,Century City,90064_2209,Pay Station,$0.25 / 20 Min,$3.00,--,7 AM-9 PM Daily,27,--,6,--,19,2,Surface Lot,10900,"Century City
+(34.05556828400046, -118.4178586749997)"
+725,3,7117 Remmet Ave,Canoga Park,91303_2016,Free,Free,--,--,24 Hrs Daily ,17,--,--,--,16,1,Surface Lot,7500,"Canoga Park
+(34.20111630300045, -118.59813897699968)"
+731,11,200 N Venice Blvd,Venice,90291,PCI,see below R,see below R,$55.00 Z,see below RZ,177,--,--,--,171,6,Surface Lot,132000,"Venice
+(33.99083727900046, -118.46007826399972)"
+732,4,218 N Larchmont Blvd,Hancock Park,90004_3707,GSD,$0.75 / 30 MinR,$6.00,$65.00,see below R,167,17,--,--,144,6,Structure,19200,"Hancock Park
+(34.067789152000444, -118.3325780729997)"
+735,15,396 W 6th St,San Pedro,90731_2622,Pay Station,$0.25 / 30 Min,$2.00 / 4 Hrs,--,8 AM-6 PM X/Sun Z,50,--,--,48,--,2,Surface Lot,10700,"San Pedro
+(33.735845896000455, -118.29228880499971)"
+740,11,301 S Main St,Venice,90291_2523,PCI-Pay Sta,see below R,see below R,--,see below R,41,--,23,--,16,2,Surface Lot,12770,"Venice
+(33.99083727900046, -118.46007826399972)"
+742,13,1637 N Wilcox Ave,Hollywood,90028_6205,PCI,see below R,$10.00,$90.00,8 AM-12:30 AM Daily,149,--,--,--,144,5,Surface Lot,45790,"Hollywood
+(34.098336823000466, -118.32673761399968)"
+744,8,8463 S Vermont Ave,Vermont Knolls,90044_3448,Pay Station,$0.25 / 30 Min,$2.50,--,7 AM-9 PM Daily,23,--,--,--,22,1,Surface Lot,8800,"Vermont Knolls
+(39.52368635500045, -99.11415045099966)"
+745,13,6801 Hollywood Blvd,Hollywood,90028_6101,NSP-CA,$1.00 / 15 MinR,$13.00,$120.00 R,9 AM-2 AM Daily,3021,--,--,--,2980,41,Structure,216100,"Hollywood
+(34.098336823000466, -118.32673761399968)"
+747,2,5000 N Vineland Ave,North Hollywood,91601_3815,Meter / Free,$0.25 / 30 Min,$2.50,--,7 AM-9 PM Daily,92,--,30+18 F,--,39,5,Surface Lot,19360,"North Hollywood
+(34.172228979000465, -118.37896877699967)"
+748,5,11010 Santa Monica Bl,West LA,90025,Pay Station,$1.00 / Hr,$4.00 / 10 Hrs,$50.00,7 AM-9 PM Daily,24,--,--,--,23,1,Surface Lot,10500,"West LA
+(30.647080900000446, -90.90663965299967)"
+749,10,4702 W Washington Bl,Longwood,90016,Free,Free,--,--,see below R,7,--,--,--,--,1,Surface Lot,4600,"Longwood
+(28.70304853300047, -81.33839946299963)"
+750,10,4600 W Washington Bl,Longwood,90016_1728,Free,Free,--,--,see below R,22,--,--,--,--,1,Surface Lot,11500,"Longwood
+(28.70304853300047, -81.33839946299963)"
+751,10,4601 W Washington Bl,Lafayette Square,90016_1727,Free,Free,--,--,see below R,60,--,--,--,--,3,Surface Lot,24300,"Lafayette Square
+(34.04305944200047, -118.33193913299971)"
+752,6,6265 Sylmar Ave,Van Nuys,91401,GSD,$1.00 / 30 Min,$8.00,$75.00,see below R,302,--,--,--,292,10,Structure,38810,"Van Nuys
+(34.18666814100044, -118.44896879299972)"
+753,14,414 E Temple St,Little Tokyo,90012,GSD,$5.00 Flat,$5.00,$60.00,see below R,476,--,--,--,467,9,Surface Lot,250000,"Little Tokyo
+(39.52368635500045, -99.11415045099966)"
+755,14,237 S Los Angeles St,Little Tokyo,90012_3704,GSD,$1.00 / 30 MinR,$8.00 R,$90.00,6 AM-3:30 PM M-F,63,--,--,--,60,3,Surface Lot,22000,"Little Tokyo
+(39.52368635500045, -99.11415045099966)"
+758,14,636 Maple Ave,Downtown,90014_2212,PCI,$3.00 Flat,$3.00,$100.00,see below R,140,--,--,--,135,5,Structure,,"Downtown
+(34.04163757400045, -118.24704999499971)"
+761,11,1608 S Pacific Ave,Venice,90291_5112,Pay Station,$1.00 / Hr R,$1.00 / 1 Hr R,--,8 AM-6 PM Daily,14,14,--,--,--,,Surface Lot,6300,"Venice
+(33.99083727900046, -118.46007826399972)"
+762,4,15314 W Dickens St,Sherman Oaks,91403,Pay Station,$1.00 / Hr,$2.00 / 2 Hrs,--,7 AM-9 PM Daily,42,--,40,--,--,2,Surface Lot,12500,"Sherman Oaks
+(34.15111693400047, -118.44924776799968)"
+763,14,101 N Judge John Aiso St,Little Tokyo,90012,GSD,see below R,$14.00 R,$90.00,see below R,300,--,--,--,293,7,Structure,56000,"Little Tokyo
+(39.52368635500045, -99.11415045099966)"
+764,10,4318 Degnan Blvd,Leimert Park,90008_4570,Pay Station,$0.25 / 30 Min,$2.50,--,7 AM-9 PM Daily Z,93,--,--,--,89,4,Surface Lot,30700,"Leimert Park
+(34.00695928600044, -118.33145767699972)"
+766,15,528 W 7th St,San Pedro,90731,Free,Free,--,--,8 AM-8 PM Daily Z,39,--,37 R,--,--,2,Surface Lot,13500,"San Pedro
+(33.735845896000455, -118.29228880499971)"
+799,4,14758 Ventura Blvd,Sherman Oaks,91403_3542,Pay Station,$0.25 / 30 Min,$1.00 / 2 Hrs,--,7 AM-9 PM Daily,20,--,19,--,--,1,Surface Lot,9600,"Sherman Oaks
+(34.15111693400047, -118.44924776799968)"

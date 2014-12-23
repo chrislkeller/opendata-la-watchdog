@@ -1,0 +1,93 @@
+Plant Name,Type of Generation,Unit,COD,Generator Nameplate (kW),Net Max Capability (kW)
+Harbor,Natural Gas Generating Resource,1,1995,85340,82000
+Harbor,Natural Gas Generating Resource,2,1995,85340,82000
+Harbor,Natural Gas Generating Resource,5,1995,75000,65000
+Harbor,Natural Gas Generating Resource,10,2002,60500,47400
+Harbor,Natural Gas Generating Resource,11,2002,60500,47400
+Harbor,Natural Gas Generating Resource,12,2002,60500,47400
+Harbor,Natural Gas Generating Resource,13,2002,60500,47400
+Harbor,Natural Gas Generating Resource,14,2002,60500,47400
+Haynes,Natural Gas Generating Resource,1,1962,230000,222000
+Haynes,Natural Gas Generating Resource,2,1963,230000,222000
+Haynes,Natural Gas Generating Resource,7,1970,2000,1599
+Haynes,Natural Gas Generating Resource,8,2005,264350,250000
+Haynes,Natural Gas Generating Resource,9,2005,182750,162500
+Haynes,Natural Gas Generating Resource,10,2005,182750,162500
+Haynes,Natural Gas Generating Resource,11,2013,108190,103100
+Haynes,Natural Gas Generating Resource,12,2013,108190,103100
+Haynes,Natural Gas Generating Resource,13,2013,108190,103100
+Haynes,Natural Gas Generating Resource,14,2013,108190,103100
+Haynes,Natural Gas Generating Resource,15,2013,108190,103100
+Haynes,Natural Gas Generating Resource,16,2013,108190,103100
+Scattergood,Natural Gas Generating Resource,1,1958,163200,183000
+Scattergood,Natural Gas Generating Resource,2,1959,163200,184000
+Scattergood,Natural Gas Generating Resource,3,1974,496800,450000
+Valley,Natural Gas Generating Resource,5,2001,60500,43000
+Valley,Natural Gas Generating Resource,6,2003,182750,162000
+Valley,Natural Gas Generating Resource,7,2003,182750,162000
+Valley,Natural Gas Generating Resource,8,2003,264350,209000
+Intermountain,Coal Generating Resource,1,1986,900000,401553
+Intermountain,Coal Generating Resource,2,1987,900000,401553
+Intermountain,Coal Generating Resource,1,1986,900000,36000
+Intermountain,Coal Generating Resource,2,1987,900000,36000
+Intermountain,Coal Generating Resource,1,1986,900000,163512
+Intermountain,Coal Generating Resource,2,1987,900000,163512
+Navajo,Coal Generating Resource,1,1974,750000,159000
+Navajo,Coal Generating Resource,2,1974,750000,159000
+Navajo,Coal Generating Resource,3,1975,750000,159000
+Palo Verde,Nuclear Generating Resource,1,1986,1333000,128768
+Palo Verde,Nuclear Generating Resource,2,1986,1336000,129058
+Palo Verde,Nuclear Generating Resource,3,1988,1334000,128864
+Castaic,Large Hydroelectric Generating Resource,1,1973,271000,271000
+Castaic,Large Hydroelectric Generating Resource,2,1974,271000,265000
+Castaic,Large Hydroelectric Generating Resource,3,1976,271000,271000
+Castaic,Large Hydroelectric Generating Resource,4,1977,271000,271000
+Castaic,Large Hydroelectric Generating Resource,5,1977,271000,271000
+Castaic,Large Hydroelectric Generating Resource,6,1978,271000,265000
+Castaic,Large Hydroelectric Generating Resource,7,1972,56000,55000
+Hoover,Large Hydroelectric Generating Resource,,1936,2079000,491000
+Haiwee,Owens Valley Small Hydroelectric Generating Resource,1,1927,2800,3600
+Haiwee,Owens Valley Small Hydroelectric Generating Resource,2,1927,2800,3600
+Cottonwood,Owens Valley Small Hydroelectric Generating Resource,1,1908,750,1200
+,Owens Valley Small Hydroelectric Generating Resource,2,1909,750,1200
+Division Creek,Owens Valley Small Hydroelectric Generating Resource,1,1909,600,680
+Big Pine,Owens Valley Small Hydroelectric Generating Resource,1,1925,3200,3050
+Pleasant Valley,Owens Valley Small Hydroelectric Generating Resource,1,1958,3200,2700
+Upper Gorge,Owens Gorge Small Hydroelectric Generating Resource,1,1953,37500,37500
+Middle Gorge,Owens Gorge Small Hydroelectric Generating Resource,1,1952,37500,37500
+Control Gorge,Owens Gorge Small Hydroelectric Generating Resource,1,1952,37500,37500
+Foothill (PP4), Aqueduct Small Hydroelectric Generating Resource,1,1971,11000,9900
+Franklin (PP5), Aqueduct Small Hydroelectric Generating Resource,1,1921,2000,2000
+San Francisquito 1 (PP1), Aqueduct Small Hydroelectric Generating Resource,1A,1983,22500,27000
+San Francisquito 1 (PP1), Aqueduct Small Hydroelectric Generating Resource,3,1917,7500,10000
+San Francisquito 1 (PP1), Aqueduct Small Hydroelectric Generating Resource,4,1923,10000,12000
+San Francisquito 1 (PP1), Aqueduct Small Hydroelectric Generating Resource,5A,1987,22500,27000
+San Francisquito 2 (PP2), Aqueduct Small Hydroelectric Generating Resource,1,1919,14000,0
+San Francisquito 2 (PP2), Aqueduct Small Hydroelectric Generating Resource,2,1919,14000,14000
+San Francisquito 2 (PP2), Aqueduct Small Hydroelectric Generating Resource,3,2006,18000,18000
+San Fernando 1 (PP3), Aqueduct Small Hydroelectric Generating Resource,1,1922,2800,3200
+San Fernando 1 (PP3), Aqueduct Small Hydroelectric Generating Resource,2,1922,2800,2900
+Sawtelle (PP6), Aqueduct Small Hydroelectric Generating Resource,1,1986,640,650
+PPM SW Wyoming,Renewables and DG Generating Resources,PPA,2006,144000,82200
+Willow Creek,Renewables and DG Generating Resources,PPA,2008,72000,72000
+PPM Pebble Springs,Renewables and DG Generating Resources,PPA,2009,98700,68695
+Pine Tree,Renewables and DG Generating Resources,Own,2009,120000,120000
+Milford Wind Phase I,Renewables and DG Generating Resources,OPPA/Own,2009,200000,185000
+WindyPoint Phase II,Renewables and DG Generating Resources,PPA/Own,2010,262200,262200
+Pine Tree Expansion,Renewables and DG Generating Resources,Own,2010,15000,15000
+Linden,Renewables and DG Generating Resources,Own,2010,50000,50000
+Milford Wind Phase II,Renewables and DG Generating Resources,PPA/Own,2011,102000,102000
+DWP Community Solar,Renewables and DG Generating Resources,Own,,2100,2100
+Solar CNM (SB1),Renewables and DG Generating Resources,Own (REC's only),,54000,54000
+Small Hydro,Renewables and DG Generating Resources,Own,,208080,208080
+MWD Sepulveda,Renewables and DG Generating Resources,PPA,2008,8540,8540
+Castaic U3&U5 Upgrade,Renewables and DG Generating Resources,Own,,30000,30000
+North Hollywood PS Power Plant,Renewables and DG Generating Resources,Own,2010,1000,1000
+Hyperion Digester Gas,Renewables and DG Generating Resources,Own,1995,16000,16000
+Lopez Microturbine,Renewables and DG Generating Resources,Own,2002,1500,1500
+WM Bradley,Renewables and DG Generating Resources,PPA,2006,6400,6400
+Shell Energy Landfill Gas,Renewables and DG Generating Resources,PPA,2009,,
+Atmos Energy Landfill Gas,Renewables and DG Generating Resources,PPA,2009,,
+Toyon Power Plant,Renewables and DG Generating Resources,PPA,2010,3600,3600
+Shell Renewable Biomethane,Renewables and DG Generating Resources,PPA,2012,,
+Customer Cogenerations,Renewables and DG Generating Resources,PPA,,303000,45000

@@ -1,0 +1,1226 @@
+DataExtractDate,ReportPeriod,Arrival_Departure,Domestic_International,FlightType,Passenger_Count
+05/01/2014 12:00:00 AM,01/01/2006 12:00:00 AM,Arrival,Domestic,Charter,2457
+05/01/2014 12:00:00 AM,01/01/2006 12:00:00 AM,Arrival,Domestic,Commuter,139728
+05/01/2014 12:00:00 AM,01/01/2006 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1538812
+05/01/2014 12:00:00 AM,01/01/2006 12:00:00 AM,Arrival,International,Charter,332
+05/01/2014 12:00:00 AM,01/01/2006 12:00:00 AM,Arrival,International,Commuter,1280
+05/01/2014 12:00:00 AM,01/01/2006 12:00:00 AM,Arrival,International,Scheduled Carriers,742810
+05/01/2014 12:00:00 AM,01/01/2006 12:00:00 AM,Departure,Domestic,Charter,3450
+05/01/2014 12:00:00 AM,01/01/2006 12:00:00 AM,Departure,Domestic,Commuter,139021
+05/01/2014 12:00:00 AM,01/01/2006 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1492469
+05/01/2014 12:00:00 AM,01/01/2006 12:00:00 AM,Departure,International,Charter,558
+05/01/2014 12:00:00 AM,01/01/2006 12:00:00 AM,Departure,International,Commuter,1125
+05/01/2014 12:00:00 AM,01/01/2006 12:00:00 AM,Departure,International,Scheduled Carriers,694117
+05/01/2014 12:00:00 AM,02/01/2006 12:00:00 AM,Arrival,Domestic,Charter,549
+05/01/2014 12:00:00 AM,02/01/2006 12:00:00 AM,Arrival,Domestic,Commuter,141096
+05/01/2014 12:00:00 AM,02/01/2006 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1385488
+05/01/2014 12:00:00 AM,02/01/2006 12:00:00 AM,Arrival,International,Charter,516
+05/01/2014 12:00:00 AM,02/01/2006 12:00:00 AM,Arrival,International,Commuter,884
+05/01/2014 12:00:00 AM,02/01/2006 12:00:00 AM,Arrival,International,Scheduled Carriers,602784
+05/01/2014 12:00:00 AM,02/01/2006 12:00:00 AM,Departure,Domestic,Charter,349
+05/01/2014 12:00:00 AM,02/01/2006 12:00:00 AM,Departure,Domestic,Commuter,136608
+05/01/2014 12:00:00 AM,02/01/2006 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1381873
+05/01/2014 12:00:00 AM,02/01/2006 12:00:00 AM,Departure,International,Charter,471
+05/01/2014 12:00:00 AM,02/01/2006 12:00:00 AM,Departure,International,Commuter,1018
+05/01/2014 12:00:00 AM,02/01/2006 12:00:00 AM,Departure,International,Scheduled Carriers,598519
+05/01/2014 12:00:00 AM,03/01/2006 12:00:00 AM,Arrival,Domestic,Charter,1599
+05/01/2014 12:00:00 AM,03/01/2006 12:00:00 AM,Arrival,Domestic,Commuter,168803
+05/01/2014 12:00:00 AM,03/01/2006 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1671699
+05/01/2014 12:00:00 AM,03/01/2006 12:00:00 AM,Arrival,International,Charter,445
+05/01/2014 12:00:00 AM,03/01/2006 12:00:00 AM,Arrival,International,Commuter,946
+05/01/2014 12:00:00 AM,03/01/2006 12:00:00 AM,Arrival,International,Scheduled Carriers,697527
+05/01/2014 12:00:00 AM,03/01/2006 12:00:00 AM,Departure,Domestic,Charter,1893
+05/01/2014 12:00:00 AM,03/01/2006 12:00:00 AM,Departure,Domestic,Commuter,164379
+05/01/2014 12:00:00 AM,03/01/2006 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1702684
+05/01/2014 12:00:00 AM,03/01/2006 12:00:00 AM,Departure,International,Charter,454
+05/01/2014 12:00:00 AM,03/01/2006 12:00:00 AM,Departure,International,Commuter,1129
+05/01/2014 12:00:00 AM,03/01/2006 12:00:00 AM,Departure,International,Scheduled Carriers,678736
+05/01/2014 12:00:00 AM,04/01/2006 12:00:00 AM,Arrival,Domestic,Charter,2092
+05/01/2014 12:00:00 AM,04/01/2006 12:00:00 AM,Arrival,Domestic,Commuter,160532
+05/01/2014 12:00:00 AM,04/01/2006 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1664977
+05/01/2014 12:00:00 AM,04/01/2006 12:00:00 AM,Arrival,International,Charter,120
+05/01/2014 12:00:00 AM,04/01/2006 12:00:00 AM,Arrival,International,Commuter,1316
+05/01/2014 12:00:00 AM,04/01/2006 12:00:00 AM,Arrival,International,Scheduled Carriers,731130
+05/01/2014 12:00:00 AM,04/01/2006 12:00:00 AM,Departure,Domestic,Charter,1200
+05/01/2014 12:00:00 AM,04/01/2006 12:00:00 AM,Departure,Domestic,Commuter,154475
+05/01/2014 12:00:00 AM,04/01/2006 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1699764
+05/01/2014 12:00:00 AM,04/01/2006 12:00:00 AM,Departure,International,Commuter,1265
+05/01/2014 12:00:00 AM,04/01/2006 12:00:00 AM,Departure,International,Scheduled Carriers,671003
+05/01/2014 12:00:00 AM,05/01/2006 12:00:00 AM,Arrival,Domestic,Charter,1231
+05/01/2014 12:00:00 AM,05/01/2006 12:00:00 AM,Arrival,Domestic,Commuter,169438
+05/01/2014 12:00:00 AM,05/01/2006 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1713427
+05/01/2014 12:00:00 AM,05/01/2006 12:00:00 AM,Arrival,International,Charter,386
+05/01/2014 12:00:00 AM,05/01/2006 12:00:00 AM,Arrival,International,Commuter,1477
+05/01/2014 12:00:00 AM,05/01/2006 12:00:00 AM,Arrival,International,Scheduled Carriers,708450
+05/01/2014 12:00:00 AM,05/01/2006 12:00:00 AM,Departure,Domestic,Charter,960
+05/01/2014 12:00:00 AM,05/01/2006 12:00:00 AM,Departure,Domestic,Commuter,161230
+05/01/2014 12:00:00 AM,05/01/2006 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1696855
+05/01/2014 12:00:00 AM,05/01/2006 12:00:00 AM,Departure,International,Charter,45
+05/01/2014 12:00:00 AM,05/01/2006 12:00:00 AM,Departure,International,Commuter,1634
+05/01/2014 12:00:00 AM,05/01/2006 12:00:00 AM,Departure,International,Scheduled Carriers,722275
+05/01/2014 12:00:00 AM,06/01/2006 12:00:00 AM,Arrival,Domestic,Charter,411
+05/01/2014 12:00:00 AM,06/01/2006 12:00:00 AM,Arrival,Domestic,Commuter,172403
+05/01/2014 12:00:00 AM,06/01/2006 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1808012
+05/01/2014 12:00:00 AM,06/01/2006 12:00:00 AM,Arrival,International,Charter,102
+05/01/2014 12:00:00 AM,06/01/2006 12:00:00 AM,Arrival,International,Commuter,1436
+05/01/2014 12:00:00 AM,06/01/2006 12:00:00 AM,Arrival,International,Scheduled Carriers,725426
+05/01/2014 12:00:00 AM,06/01/2006 12:00:00 AM,Departure,Domestic,Charter,600
+05/01/2014 12:00:00 AM,06/01/2006 12:00:00 AM,Departure,Domestic,Commuter,165153
+05/01/2014 12:00:00 AM,06/01/2006 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1848219
+05/01/2014 12:00:00 AM,06/01/2006 12:00:00 AM,Departure,International,Commuter,1689
+05/01/2014 12:00:00 AM,06/01/2006 12:00:00 AM,Departure,International,Scheduled Carriers,786572
+05/01/2014 12:00:00 AM,07/01/2006 12:00:00 AM,Arrival,Domestic,Charter,295
+05/01/2014 12:00:00 AM,07/01/2006 12:00:00 AM,Arrival,Domestic,Commuter,171685
+05/01/2014 12:00:00 AM,07/01/2006 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1951129
+05/01/2014 12:00:00 AM,07/01/2006 12:00:00 AM,Arrival,International,Charter,280
+05/01/2014 12:00:00 AM,07/01/2006 12:00:00 AM,Arrival,International,Commuter,1603
+05/01/2014 12:00:00 AM,07/01/2006 12:00:00 AM,Arrival,International,Scheduled Carriers,866526
+05/01/2014 12:00:00 AM,07/01/2006 12:00:00 AM,Departure,Domestic,Charter,290
+05/01/2014 12:00:00 AM,07/01/2006 12:00:00 AM,Departure,Domestic,Commuter,169418
+05/01/2014 12:00:00 AM,07/01/2006 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1943764
+05/01/2014 12:00:00 AM,07/01/2006 12:00:00 AM,Departure,International,Commuter,1589
+05/01/2014 12:00:00 AM,07/01/2006 12:00:00 AM,Departure,International,Scheduled Carriers,813144
+05/01/2014 12:00:00 AM,08/01/2006 12:00:00 AM,Arrival,Domestic,Charter,124
+05/01/2014 12:00:00 AM,08/01/2006 12:00:00 AM,Arrival,Domestic,Commuter,162122
+05/01/2014 12:00:00 AM,08/01/2006 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1879821
+05/01/2014 12:00:00 AM,08/01/2006 12:00:00 AM,Arrival,International,Charter,127
+05/01/2014 12:00:00 AM,08/01/2006 12:00:00 AM,Arrival,International,Commuter,1001
+05/01/2014 12:00:00 AM,08/01/2006 12:00:00 AM,Arrival,International,Scheduled Carriers,840270
+05/01/2014 12:00:00 AM,08/01/2006 12:00:00 AM,Departure,Domestic,Charter,664
+05/01/2014 12:00:00 AM,08/01/2006 12:00:00 AM,Departure,Domestic,Commuter,163622
+05/01/2014 12:00:00 AM,08/01/2006 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1922139
+05/01/2014 12:00:00 AM,08/01/2006 12:00:00 AM,Departure,International,Commuter,1423
+05/01/2014 12:00:00 AM,08/01/2006 12:00:00 AM,Departure,International,Scheduled Carriers,773930
+05/01/2014 12:00:00 AM,09/01/2006 12:00:00 AM,Arrival,Domestic,Charter,1720
+05/01/2014 12:00:00 AM,09/01/2006 12:00:00 AM,Arrival,Domestic,Commuter,162552
+05/01/2014 12:00:00 AM,09/01/2006 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1543233
+05/01/2014 12:00:00 AM,09/01/2006 12:00:00 AM,Arrival,International,Charter,35
+05/01/2014 12:00:00 AM,09/01/2006 12:00:00 AM,Arrival,International,Commuter,1061
+05/01/2014 12:00:00 AM,09/01/2006 12:00:00 AM,Arrival,International,Scheduled Carriers,659658
+05/01/2014 12:00:00 AM,09/01/2006 12:00:00 AM,Departure,Domestic,Charter,912
+05/01/2014 12:00:00 AM,09/01/2006 12:00:00 AM,Departure,Domestic,Commuter,155142
+05/01/2014 12:00:00 AM,09/01/2006 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1522862
+05/01/2014 12:00:00 AM,09/01/2006 12:00:00 AM,Departure,International,Commuter,1274
+05/01/2014 12:00:00 AM,09/01/2006 12:00:00 AM,Departure,International,Scheduled Carriers,659534
+05/01/2014 12:00:00 AM,10/01/2006 12:00:00 AM,Arrival,Domestic,Charter,1708
+05/01/2014 12:00:00 AM,10/01/2006 12:00:00 AM,Arrival,Domestic,Commuter,174781
+05/01/2014 12:00:00 AM,10/01/2006 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1630224
+05/01/2014 12:00:00 AM,10/01/2006 12:00:00 AM,Arrival,International,Charter,59
+05/01/2014 12:00:00 AM,10/01/2006 12:00:00 AM,Arrival,International,Commuter,1333
+05/01/2014 12:00:00 AM,10/01/2006 12:00:00 AM,Arrival,International,Scheduled Carriers,633220
+05/01/2014 12:00:00 AM,10/01/2006 12:00:00 AM,Departure,Domestic,Charter,2203
+05/01/2014 12:00:00 AM,10/01/2006 12:00:00 AM,Departure,Domestic,Commuter,168738
+05/01/2014 12:00:00 AM,10/01/2006 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1620376
+05/01/2014 12:00:00 AM,10/01/2006 12:00:00 AM,Departure,International,Commuter,1604
+05/01/2014 12:00:00 AM,10/01/2006 12:00:00 AM,Departure,International,Scheduled Carriers,664175
+05/01/2014 12:00:00 AM,11/01/2006 12:00:00 AM,Arrival,Domestic,Charter,2248
+05/01/2014 12:00:00 AM,11/01/2006 12:00:00 AM,Arrival,Domestic,Commuter,160948
+05/01/2014 12:00:00 AM,11/01/2006 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1640008
+05/01/2014 12:00:00 AM,11/01/2006 12:00:00 AM,Arrival,International,Charter,431
+05/01/2014 12:00:00 AM,11/01/2006 12:00:00 AM,Arrival,International,Commuter,1377
+05/01/2014 12:00:00 AM,11/01/2006 12:00:00 AM,Arrival,International,Scheduled Carriers,606061
+05/01/2014 12:00:00 AM,11/01/2006 12:00:00 AM,Departure,Domestic,Charter,2075
+05/01/2014 12:00:00 AM,11/01/2006 12:00:00 AM,Departure,Domestic,Commuter,155248
+05/01/2014 12:00:00 AM,11/01/2006 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1638140
+05/01/2014 12:00:00 AM,11/01/2006 12:00:00 AM,Departure,International,Charter,172
+05/01/2014 12:00:00 AM,11/01/2006 12:00:00 AM,Departure,International,Commuter,1531
+05/01/2014 12:00:00 AM,11/01/2006 12:00:00 AM,Departure,International,Scheduled Carriers,616820
+05/01/2014 12:00:00 AM,12/01/2006 12:00:00 AM,Arrival,Domestic,Charter,2497
+05/01/2014 12:00:00 AM,12/01/2006 12:00:00 AM,Arrival,Domestic,Commuter,166309
+05/01/2014 12:00:00 AM,12/01/2006 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1657818
+05/01/2014 12:00:00 AM,12/01/2006 12:00:00 AM,Arrival,International,Charter,310
+05/01/2014 12:00:00 AM,12/01/2006 12:00:00 AM,Arrival,International,Commuter,1206
+05/01/2014 12:00:00 AM,12/01/2006 12:00:00 AM,Arrival,International,Scheduled Carriers,656826
+05/01/2014 12:00:00 AM,12/01/2006 12:00:00 AM,Departure,Domestic,Charter,919
+05/01/2014 12:00:00 AM,12/01/2006 12:00:00 AM,Departure,Domestic,Commuter,157225
+05/01/2014 12:00:00 AM,12/01/2006 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1703031
+05/01/2014 12:00:00 AM,12/01/2006 12:00:00 AM,Departure,International,Charter,280
+05/01/2014 12:00:00 AM,12/01/2006 12:00:00 AM,Departure,International,Commuter,1501
+05/01/2014 12:00:00 AM,12/01/2006 12:00:00 AM,Departure,International,Scheduled Carriers,724410
+05/01/2014 12:00:00 AM,01/01/2007 12:00:00 AM,Arrival,Domestic,Charter,1036
+05/01/2014 12:00:00 AM,01/01/2007 12:00:00 AM,Arrival,Domestic,Commuter,157832
+05/01/2014 12:00:00 AM,01/01/2007 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1565931
+05/01/2014 12:00:00 AM,01/01/2007 12:00:00 AM,Arrival,International,Charter,229
+05/01/2014 12:00:00 AM,01/01/2007 12:00:00 AM,Arrival,International,Commuter,4379
+05/01/2014 12:00:00 AM,01/01/2007 12:00:00 AM,Arrival,International,Scheduled Carriers,718536
+05/01/2014 12:00:00 AM,01/01/2007 12:00:00 AM,Departure,Domestic,Charter,2909
+05/01/2014 12:00:00 AM,01/01/2007 12:00:00 AM,Departure,Domestic,Commuter,158800
+05/01/2014 12:00:00 AM,01/01/2007 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1519278
+05/01/2014 12:00:00 AM,01/01/2007 12:00:00 AM,Departure,International,Charter,345
+05/01/2014 12:00:00 AM,01/01/2007 12:00:00 AM,Departure,International,Commuter,4707
+05/01/2014 12:00:00 AM,01/01/2007 12:00:00 AM,Departure,International,Scheduled Carriers,671834
+05/01/2014 12:00:00 AM,02/01/2007 12:00:00 AM,Arrival,Domestic,Charter,359
+05/01/2014 12:00:00 AM,02/01/2007 12:00:00 AM,Arrival,Domestic,Commuter,151408
+05/01/2014 12:00:00 AM,02/01/2007 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1425145
+05/01/2014 12:00:00 AM,02/01/2007 12:00:00 AM,Arrival,International,Charter,581
+05/01/2014 12:00:00 AM,02/01/2007 12:00:00 AM,Arrival,International,Commuter,3871
+05/01/2014 12:00:00 AM,02/01/2007 12:00:00 AM,Arrival,International,Scheduled Carriers,577394
+05/01/2014 12:00:00 AM,02/01/2007 12:00:00 AM,Departure,Domestic,Charter,294
+05/01/2014 12:00:00 AM,02/01/2007 12:00:00 AM,Departure,Domestic,Commuter,146753
+05/01/2014 12:00:00 AM,02/01/2007 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1408990
+05/01/2014 12:00:00 AM,02/01/2007 12:00:00 AM,Departure,International,Charter,577
+05/01/2014 12:00:00 AM,02/01/2007 12:00:00 AM,Departure,International,Commuter,4025
+05/01/2014 12:00:00 AM,02/01/2007 12:00:00 AM,Departure,International,Scheduled Carriers,585896
+05/01/2014 12:00:00 AM,03/01/2007 12:00:00 AM,Arrival,Domestic,Charter,1410
+05/01/2014 12:00:00 AM,03/01/2007 12:00:00 AM,Arrival,Domestic,Commuter,171970
+05/01/2014 12:00:00 AM,03/01/2007 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1724161
+05/01/2014 12:00:00 AM,03/01/2007 12:00:00 AM,Arrival,International,Charter,462
+05/01/2014 12:00:00 AM,03/01/2007 12:00:00 AM,Arrival,International,Commuter,4348
+05/01/2014 12:00:00 AM,03/01/2007 12:00:00 AM,Arrival,International,Scheduled Carriers,700635
+05/01/2014 12:00:00 AM,03/01/2007 12:00:00 AM,Departure,Domestic,Charter,1468
+05/01/2014 12:00:00 AM,03/01/2007 12:00:00 AM,Departure,Domestic,Commuter,165666
+05/01/2014 12:00:00 AM,03/01/2007 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1766381
+05/01/2014 12:00:00 AM,03/01/2007 12:00:00 AM,Departure,International,Charter,437
+05/01/2014 12:00:00 AM,03/01/2007 12:00:00 AM,Departure,International,Commuter,4520
+05/01/2014 12:00:00 AM,03/01/2007 12:00:00 AM,Departure,International,Scheduled Carriers,700356
+05/01/2014 12:00:00 AM,04/01/2007 12:00:00 AM,Arrival,Domestic,Charter,1277
+05/01/2014 12:00:00 AM,04/01/2007 12:00:00 AM,Arrival,Domestic,Commuter,165183
+05/01/2014 12:00:00 AM,04/01/2007 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1707002
+05/01/2014 12:00:00 AM,04/01/2007 12:00:00 AM,Arrival,International,Charter,115
+05/01/2014 12:00:00 AM,04/01/2007 12:00:00 AM,Arrival,International,Commuter,4467
+05/01/2014 12:00:00 AM,04/01/2007 12:00:00 AM,Arrival,International,Scheduled Carriers,720743
+05/01/2014 12:00:00 AM,04/01/2007 12:00:00 AM,Departure,Domestic,Charter,759
+05/01/2014 12:00:00 AM,04/01/2007 12:00:00 AM,Departure,Domestic,Commuter,157908
+05/01/2014 12:00:00 AM,04/01/2007 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1738059
+05/01/2014 12:00:00 AM,04/01/2007 12:00:00 AM,Departure,International,Commuter,4286
+05/01/2014 12:00:00 AM,04/01/2007 12:00:00 AM,Departure,International,Scheduled Carriers,673315
+05/01/2014 12:00:00 AM,05/01/2007 12:00:00 AM,Arrival,Domestic,Charter,481
+05/01/2014 12:00:00 AM,05/01/2007 12:00:00 AM,Arrival,Domestic,Commuter,165973
+05/01/2014 12:00:00 AM,05/01/2007 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1758787
+05/01/2014 12:00:00 AM,05/01/2007 12:00:00 AM,Arrival,International,Commuter,4471
+05/01/2014 12:00:00 AM,05/01/2007 12:00:00 AM,Arrival,International,Scheduled Carriers,689391
+05/01/2014 12:00:00 AM,05/01/2007 12:00:00 AM,Departure,Domestic,Charter,213
+05/01/2014 12:00:00 AM,05/01/2007 12:00:00 AM,Departure,Domestic,Commuter,155642
+05/01/2014 12:00:00 AM,05/01/2007 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1755322
+05/01/2014 12:00:00 AM,05/01/2007 12:00:00 AM,Departure,International,Charter,259
+05/01/2014 12:00:00 AM,05/01/2007 12:00:00 AM,Departure,International,Commuter,4722
+05/01/2014 12:00:00 AM,05/01/2007 12:00:00 AM,Departure,International,Scheduled Carriers,721668
+05/01/2014 12:00:00 AM,06/01/2007 12:00:00 AM,Arrival,Domestic,Charter,473
+05/01/2014 12:00:00 AM,06/01/2007 12:00:00 AM,Arrival,Domestic,Commuter,165249
+05/01/2014 12:00:00 AM,06/01/2007 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1874453
+05/01/2014 12:00:00 AM,06/01/2007 12:00:00 AM,Arrival,International,Charter,5
+05/01/2014 12:00:00 AM,06/01/2007 12:00:00 AM,Arrival,International,Commuter,3572
+05/01/2014 12:00:00 AM,06/01/2007 12:00:00 AM,Arrival,International,Scheduled Carriers,722785
+05/01/2014 12:00:00 AM,06/01/2007 12:00:00 AM,Departure,Domestic,Charter,366
+05/01/2014 12:00:00 AM,06/01/2007 12:00:00 AM,Departure,Domestic,Commuter,160245
+05/01/2014 12:00:00 AM,06/01/2007 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1908512
+05/01/2014 12:00:00 AM,06/01/2007 12:00:00 AM,Departure,International,Commuter,3919
+05/01/2014 12:00:00 AM,06/01/2007 12:00:00 AM,Departure,International,Scheduled Carriers,786884
+05/01/2014 12:00:00 AM,07/01/2007 12:00:00 AM,Arrival,Domestic,Charter,1254
+05/01/2014 12:00:00 AM,07/01/2007 12:00:00 AM,Arrival,Domestic,Commuter,160948
+05/01/2014 12:00:00 AM,07/01/2007 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,2006038
+05/01/2014 12:00:00 AM,07/01/2007 12:00:00 AM,Arrival,International,Charter,2
+05/01/2014 12:00:00 AM,07/01/2007 12:00:00 AM,Arrival,International,Commuter,4465
+05/01/2014 12:00:00 AM,07/01/2007 12:00:00 AM,Arrival,International,Scheduled Carriers,872071
+05/01/2014 12:00:00 AM,07/01/2007 12:00:00 AM,Departure,Domestic,Charter,975
+05/01/2014 12:00:00 AM,07/01/2007 12:00:00 AM,Departure,Domestic,Commuter,159189
+05/01/2014 12:00:00 AM,07/01/2007 12:00:00 AM,Departure,Domestic,Scheduled Carriers,2010458
+05/01/2014 12:00:00 AM,07/01/2007 12:00:00 AM,Departure,International,Commuter,4277
+05/01/2014 12:00:00 AM,07/01/2007 12:00:00 AM,Departure,International,Scheduled Carriers,833172
+05/01/2014 12:00:00 AM,08/01/2007 12:00:00 AM,Arrival,Domestic,Charter,245
+05/01/2014 12:00:00 AM,08/01/2007 12:00:00 AM,Arrival,Domestic,Commuter,156909
+05/01/2014 12:00:00 AM,08/01/2007 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1961775
+05/01/2014 12:00:00 AM,08/01/2007 12:00:00 AM,Arrival,International,Charter,6
+05/01/2014 12:00:00 AM,08/01/2007 12:00:00 AM,Arrival,International,Commuter,4503
+05/01/2014 12:00:00 AM,08/01/2007 12:00:00 AM,Arrival,International,Scheduled Carriers,848122
+05/01/2014 12:00:00 AM,08/01/2007 12:00:00 AM,Departure,Domestic,Charter,497
+05/01/2014 12:00:00 AM,08/01/2007 12:00:00 AM,Departure,Domestic,Commuter,160293
+05/01/2014 12:00:00 AM,08/01/2007 12:00:00 AM,Departure,Domestic,Scheduled Carriers,2011990
+05/01/2014 12:00:00 AM,08/01/2007 12:00:00 AM,Departure,International,Commuter,4776
+05/01/2014 12:00:00 AM,08/01/2007 12:00:00 AM,Departure,International,Scheduled Carriers,790432
+05/01/2014 12:00:00 AM,09/01/2007 12:00:00 AM,Arrival,Domestic,Charter,2134
+05/01/2014 12:00:00 AM,09/01/2007 12:00:00 AM,Arrival,Domestic,Commuter,151727
+05/01/2014 12:00:00 AM,09/01/2007 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1578485
+05/01/2014 12:00:00 AM,09/01/2007 12:00:00 AM,Arrival,International,Charter,376
+05/01/2014 12:00:00 AM,09/01/2007 12:00:00 AM,Arrival,International,Commuter,3990
+05/01/2014 12:00:00 AM,09/01/2007 12:00:00 AM,Arrival,International,Scheduled Carriers,686584
+05/01/2014 12:00:00 AM,09/01/2007 12:00:00 AM,Departure,Domestic,Charter,1900
+05/01/2014 12:00:00 AM,09/01/2007 12:00:00 AM,Departure,Domestic,Commuter,142851
+05/01/2014 12:00:00 AM,09/01/2007 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1559437
+05/01/2014 12:00:00 AM,09/01/2007 12:00:00 AM,Departure,International,Commuter,3778
+05/01/2014 12:00:00 AM,09/01/2007 12:00:00 AM,Departure,International,Scheduled Carriers,674680
+05/01/2014 12:00:00 AM,10/01/2007 12:00:00 AM,Arrival,Domestic,Charter,1203
+05/01/2014 12:00:00 AM,10/01/2007 12:00:00 AM,Arrival,Domestic,Commuter,168015
+05/01/2014 12:00:00 AM,10/01/2007 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1690216
+05/01/2014 12:00:00 AM,10/01/2007 12:00:00 AM,Arrival,International,Commuter,4616
+05/01/2014 12:00:00 AM,10/01/2007 12:00:00 AM,Arrival,International,Scheduled Carriers,668451
+05/01/2014 12:00:00 AM,10/01/2007 12:00:00 AM,Departure,Domestic,Charter,1208
+05/01/2014 12:00:00 AM,10/01/2007 12:00:00 AM,Departure,Domestic,Commuter,159358
+05/01/2014 12:00:00 AM,10/01/2007 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1665955
+05/01/2014 12:00:00 AM,10/01/2007 12:00:00 AM,Departure,International,Commuter,4313
+05/01/2014 12:00:00 AM,10/01/2007 12:00:00 AM,Departure,International,Scheduled Carriers,706707
+05/01/2014 12:00:00 AM,11/01/2007 12:00:00 AM,Arrival,Domestic,Charter,1149
+05/01/2014 12:00:00 AM,11/01/2007 12:00:00 AM,Arrival,Domestic,Commuter,157884
+05/01/2014 12:00:00 AM,11/01/2007 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1657547
+05/01/2014 12:00:00 AM,11/01/2007 12:00:00 AM,Arrival,International,Charter,530
+05/01/2014 12:00:00 AM,11/01/2007 12:00:00 AM,Arrival,International,Commuter,4393
+05/01/2014 12:00:00 AM,11/01/2007 12:00:00 AM,Arrival,International,Scheduled Carriers,648018
+05/01/2014 12:00:00 AM,11/01/2007 12:00:00 AM,Departure,Domestic,Charter,1177
+05/01/2014 12:00:00 AM,11/01/2007 12:00:00 AM,Departure,Domestic,Commuter,151870
+05/01/2014 12:00:00 AM,11/01/2007 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1665982
+05/01/2014 12:00:00 AM,11/01/2007 12:00:00 AM,Departure,International,Charter,426
+05/01/2014 12:00:00 AM,11/01/2007 12:00:00 AM,Departure,International,Commuter,4599
+05/01/2014 12:00:00 AM,11/01/2007 12:00:00 AM,Departure,International,Scheduled Carriers,679480
+05/01/2014 12:00:00 AM,12/01/2007 12:00:00 AM,Arrival,Domestic,Charter,2600
+05/01/2014 12:00:00 AM,12/01/2007 12:00:00 AM,Arrival,Domestic,Commuter,174755
+05/01/2014 12:00:00 AM,12/01/2007 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1671966
+05/01/2014 12:00:00 AM,12/01/2007 12:00:00 AM,Arrival,International,Charter,250
+05/01/2014 12:00:00 AM,12/01/2007 12:00:00 AM,Arrival,International,Commuter,4531
+05/01/2014 12:00:00 AM,12/01/2007 12:00:00 AM,Arrival,International,Scheduled Carriers,704450
+05/01/2014 12:00:00 AM,12/01/2007 12:00:00 AM,Departure,Domestic,Charter,965
+05/01/2014 12:00:00 AM,12/01/2007 12:00:00 AM,Departure,Domestic,Commuter,164515
+05/01/2014 12:00:00 AM,12/01/2007 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1701450
+05/01/2014 12:00:00 AM,12/01/2007 12:00:00 AM,Departure,International,Charter,189
+05/01/2014 12:00:00 AM,12/01/2007 12:00:00 AM,Departure,International,Commuter,4704
+05/01/2014 12:00:00 AM,12/01/2007 12:00:00 AM,Departure,International,Scheduled Carriers,757343
+05/01/2014 12:00:00 AM,01/01/2008 12:00:00 AM,Arrival,Domestic,Charter,789
+05/01/2014 12:00:00 AM,01/01/2008 12:00:00 AM,Arrival,Domestic,Commuter,142908
+05/01/2014 12:00:00 AM,01/01/2008 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1561959
+05/01/2014 12:00:00 AM,01/01/2008 12:00:00 AM,Arrival,International,Charter,1009
+05/01/2014 12:00:00 AM,01/01/2008 12:00:00 AM,Arrival,International,Commuter,4729
+05/01/2014 12:00:00 AM,01/01/2008 12:00:00 AM,Arrival,International,Scheduled Carriers,745797
+05/01/2014 12:00:00 AM,01/01/2008 12:00:00 AM,Departure,Domestic,Charter,3254
+05/01/2014 12:00:00 AM,01/01/2008 12:00:00 AM,Departure,Domestic,Commuter,139988
+05/01/2014 12:00:00 AM,01/01/2008 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1498073
+05/01/2014 12:00:00 AM,01/01/2008 12:00:00 AM,Departure,International,Charter,716
+05/01/2014 12:00:00 AM,01/01/2008 12:00:00 AM,Departure,International,Commuter,4447
+05/01/2014 12:00:00 AM,01/01/2008 12:00:00 AM,Departure,International,Scheduled Carriers,707146
+05/01/2014 12:00:00 AM,02/01/2008 12:00:00 AM,Arrival,Domestic,Charter,591
+05/01/2014 12:00:00 AM,02/01/2008 12:00:00 AM,Arrival,Domestic,Commuter,151938
+05/01/2014 12:00:00 AM,02/01/2008 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1460617
+05/01/2014 12:00:00 AM,02/01/2008 12:00:00 AM,Arrival,International,Charter,622
+05/01/2014 12:00:00 AM,02/01/2008 12:00:00 AM,Arrival,International,Commuter,5386
+05/01/2014 12:00:00 AM,02/01/2008 12:00:00 AM,Arrival,International,Scheduled Carriers,605368
+05/01/2014 12:00:00 AM,02/01/2008 12:00:00 AM,Departure,Domestic,Charter,673
+05/01/2014 12:00:00 AM,02/01/2008 12:00:00 AM,Departure,Domestic,Commuter,145377
+05/01/2014 12:00:00 AM,02/01/2008 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1458427
+05/01/2014 12:00:00 AM,02/01/2008 12:00:00 AM,Departure,International,Charter,645
+05/01/2014 12:00:00 AM,02/01/2008 12:00:00 AM,Departure,International,Commuter,5448
+05/01/2014 12:00:00 AM,02/01/2008 12:00:00 AM,Departure,International,Scheduled Carriers,616318
+05/01/2014 12:00:00 AM,03/01/2008 12:00:00 AM,Arrival,Domestic,Charter,1074
+05/01/2014 12:00:00 AM,03/01/2008 12:00:00 AM,Arrival,Domestic,Commuter,154998
+05/01/2014 12:00:00 AM,03/01/2008 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1701779
+05/01/2014 12:00:00 AM,03/01/2008 12:00:00 AM,Arrival,International,Charter,591
+05/01/2014 12:00:00 AM,03/01/2008 12:00:00 AM,Arrival,International,Commuter,6499
+05/01/2014 12:00:00 AM,03/01/2008 12:00:00 AM,Arrival,International,Scheduled Carriers,740033
+05/01/2014 12:00:00 AM,03/01/2008 12:00:00 AM,Departure,Domestic,Charter,1143
+05/01/2014 12:00:00 AM,03/01/2008 12:00:00 AM,Departure,Domestic,Commuter,150837
+05/01/2014 12:00:00 AM,03/01/2008 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1740759
+05/01/2014 12:00:00 AM,03/01/2008 12:00:00 AM,Departure,International,Charter,782
+05/01/2014 12:00:00 AM,03/01/2008 12:00:00 AM,Departure,International,Commuter,6714
+05/01/2014 12:00:00 AM,03/01/2008 12:00:00 AM,Departure,International,Scheduled Carriers,728470
+05/01/2014 12:00:00 AM,04/01/2008 12:00:00 AM,Arrival,Domestic,Charter,1140
+05/01/2014 12:00:00 AM,04/01/2008 12:00:00 AM,Arrival,Domestic,Commuter,150337
+05/01/2014 12:00:00 AM,04/01/2008 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1622706
+05/01/2014 12:00:00 AM,04/01/2008 12:00:00 AM,Arrival,International,Charter,425
+05/01/2014 12:00:00 AM,04/01/2008 12:00:00 AM,Arrival,International,Commuter,5911
+05/01/2014 12:00:00 AM,04/01/2008 12:00:00 AM,Arrival,International,Scheduled Carriers,708299
+05/01/2014 12:00:00 AM,04/01/2008 12:00:00 AM,Departure,Domestic,Charter,1100
+05/01/2014 12:00:00 AM,04/01/2008 12:00:00 AM,Departure,Domestic,Commuter,144682
+05/01/2014 12:00:00 AM,04/01/2008 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1652647
+05/01/2014 12:00:00 AM,04/01/2008 12:00:00 AM,Departure,International,Charter,404
+05/01/2014 12:00:00 AM,04/01/2008 12:00:00 AM,Departure,International,Commuter,5850
+05/01/2014 12:00:00 AM,04/01/2008 12:00:00 AM,Departure,International,Scheduled Carriers,656334
+05/01/2014 12:00:00 AM,05/01/2008 12:00:00 AM,Arrival,Domestic,Charter,356
+05/01/2014 12:00:00 AM,05/01/2008 12:00:00 AM,Arrival,Domestic,Commuter,156769
+05/01/2014 12:00:00 AM,05/01/2008 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1752533
+05/01/2014 12:00:00 AM,05/01/2008 12:00:00 AM,Arrival,International,Charter,207
+05/01/2014 12:00:00 AM,05/01/2008 12:00:00 AM,Arrival,International,Commuter,5632
+05/01/2014 12:00:00 AM,05/01/2008 12:00:00 AM,Arrival,International,Scheduled Carriers,698280
+05/01/2014 12:00:00 AM,05/01/2008 12:00:00 AM,Departure,Domestic,Charter,348
+05/01/2014 12:00:00 AM,05/01/2008 12:00:00 AM,Departure,Domestic,Commuter,149343
+05/01/2014 12:00:00 AM,05/01/2008 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1748443
+05/01/2014 12:00:00 AM,05/01/2008 12:00:00 AM,Departure,International,Charter,207
+05/01/2014 12:00:00 AM,05/01/2008 12:00:00 AM,Departure,International,Commuter,6183
+05/01/2014 12:00:00 AM,05/01/2008 12:00:00 AM,Departure,International,Scheduled Carriers,729686
+05/01/2014 12:00:00 AM,06/01/2008 12:00:00 AM,Arrival,Domestic,Charter,1105
+05/01/2014 12:00:00 AM,06/01/2008 12:00:00 AM,Arrival,Domestic,Commuter,157727
+05/01/2014 12:00:00 AM,06/01/2008 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1843269
+05/01/2014 12:00:00 AM,06/01/2008 12:00:00 AM,Arrival,International,Charter,124
+05/01/2014 12:00:00 AM,06/01/2008 12:00:00 AM,Arrival,International,Commuter,5239
+05/01/2014 12:00:00 AM,06/01/2008 12:00:00 AM,Arrival,International,Scheduled Carriers,723460
+05/01/2014 12:00:00 AM,06/01/2008 12:00:00 AM,Departure,Domestic,Charter,878
+05/01/2014 12:00:00 AM,06/01/2008 12:00:00 AM,Departure,Domestic,Commuter,153408
+05/01/2014 12:00:00 AM,06/01/2008 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1877929
+05/01/2014 12:00:00 AM,06/01/2008 12:00:00 AM,Departure,International,Commuter,5888
+05/01/2014 12:00:00 AM,06/01/2008 12:00:00 AM,Departure,International,Scheduled Carriers,770846
+05/01/2014 12:00:00 AM,07/01/2008 12:00:00 AM,Arrival,Domestic,Charter,799
+05/01/2014 12:00:00 AM,07/01/2008 12:00:00 AM,Arrival,Domestic,Commuter,156414
+05/01/2014 12:00:00 AM,07/01/2008 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1922648
+05/01/2014 12:00:00 AM,07/01/2008 12:00:00 AM,Arrival,International,Commuter,5516
+05/01/2014 12:00:00 AM,07/01/2008 12:00:00 AM,Arrival,International,Scheduled Carriers,812282
+05/01/2014 12:00:00 AM,07/01/2008 12:00:00 AM,Departure,Domestic,Charter,646
+05/01/2014 12:00:00 AM,07/01/2008 12:00:00 AM,Departure,Domestic,Commuter,154924
+05/01/2014 12:00:00 AM,07/01/2008 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1951478
+05/01/2014 12:00:00 AM,07/01/2008 12:00:00 AM,Departure,International,Commuter,5591
+05/01/2014 12:00:00 AM,07/01/2008 12:00:00 AM,Departure,International,Scheduled Carriers,781270
+05/01/2014 12:00:00 AM,08/01/2008 12:00:00 AM,Arrival,Domestic,Charter,790
+05/01/2014 12:00:00 AM,08/01/2008 12:00:00 AM,Arrival,Domestic,Commuter,151447
+05/01/2014 12:00:00 AM,08/01/2008 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1895660
+05/01/2014 12:00:00 AM,08/01/2008 12:00:00 AM,Arrival,International,Charter,335
+05/01/2014 12:00:00 AM,08/01/2008 12:00:00 AM,Arrival,International,Commuter,5745
+05/01/2014 12:00:00 AM,08/01/2008 12:00:00 AM,Arrival,International,Scheduled Carriers,819103
+05/01/2014 12:00:00 AM,08/01/2008 12:00:00 AM,Departure,Domestic,Charter,1056
+05/01/2014 12:00:00 AM,08/01/2008 12:00:00 AM,Departure,Domestic,Commuter,153447
+05/01/2014 12:00:00 AM,08/01/2008 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1920521
+05/01/2014 12:00:00 AM,08/01/2008 12:00:00 AM,Departure,International,Charter,417
+05/01/2014 12:00:00 AM,08/01/2008 12:00:00 AM,Departure,International,Commuter,5721
+05/01/2014 12:00:00 AM,08/01/2008 12:00:00 AM,Departure,International,Scheduled Carriers,761043
+05/01/2014 12:00:00 AM,09/01/2008 12:00:00 AM,Arrival,Domestic,Charter,762
+05/01/2014 12:00:00 AM,09/01/2008 12:00:00 AM,Arrival,Domestic,Commuter,141593
+05/01/2014 12:00:00 AM,09/01/2008 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1466166
+05/01/2014 12:00:00 AM,09/01/2008 12:00:00 AM,Arrival,International,Charter,460
+05/01/2014 12:00:00 AM,09/01/2008 12:00:00 AM,Arrival,International,Commuter,5377
+05/01/2014 12:00:00 AM,09/01/2008 12:00:00 AM,Arrival,International,Scheduled Carriers,630725
+05/01/2014 12:00:00 AM,09/01/2008 12:00:00 AM,Departure,Domestic,Charter,611
+05/01/2014 12:00:00 AM,09/01/2008 12:00:00 AM,Departure,Domestic,Commuter,136486
+05/01/2014 12:00:00 AM,09/01/2008 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1446998
+05/01/2014 12:00:00 AM,09/01/2008 12:00:00 AM,Departure,International,Charter,334
+05/01/2014 12:00:00 AM,09/01/2008 12:00:00 AM,Departure,International,Commuter,5655
+05/01/2014 12:00:00 AM,09/01/2008 12:00:00 AM,Departure,International,Scheduled Carriers,629877
+05/01/2014 12:00:00 AM,10/01/2008 12:00:00 AM,Arrival,Domestic,Charter,1172
+05/01/2014 12:00:00 AM,10/01/2008 12:00:00 AM,Arrival,Domestic,Commuter,149059
+05/01/2014 12:00:00 AM,10/01/2008 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1563658
+05/01/2014 12:00:00 AM,10/01/2008 12:00:00 AM,Arrival,International,Commuter,4963
+05/01/2014 12:00:00 AM,10/01/2008 12:00:00 AM,Arrival,International,Scheduled Carriers,607080
+05/01/2014 12:00:00 AM,10/01/2008 12:00:00 AM,Departure,Domestic,Charter,983
+05/01/2014 12:00:00 AM,10/01/2008 12:00:00 AM,Departure,Domestic,Commuter,144081
+05/01/2014 12:00:00 AM,10/01/2008 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1549714
+05/01/2014 12:00:00 AM,10/01/2008 12:00:00 AM,Departure,International,Commuter,4903
+05/01/2014 12:00:00 AM,10/01/2008 12:00:00 AM,Departure,International,Scheduled Carriers,655685
+05/01/2014 12:00:00 AM,11/01/2008 12:00:00 AM,Arrival,Domestic,Charter,630
+05/01/2014 12:00:00 AM,11/01/2008 12:00:00 AM,Arrival,Domestic,Commuter,128942
+05/01/2014 12:00:00 AM,11/01/2008 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1424520
+05/01/2014 12:00:00 AM,11/01/2008 12:00:00 AM,Arrival,International,Charter,321
+05/01/2014 12:00:00 AM,11/01/2008 12:00:00 AM,Arrival,International,Commuter,3129
+05/01/2014 12:00:00 AM,11/01/2008 12:00:00 AM,Arrival,International,Scheduled Carriers,567420
+05/01/2014 12:00:00 AM,11/01/2008 12:00:00 AM,Departure,Domestic,Charter,764
+05/01/2014 12:00:00 AM,11/01/2008 12:00:00 AM,Departure,Domestic,Commuter,125393
+05/01/2014 12:00:00 AM,11/01/2008 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1434506
+05/01/2014 12:00:00 AM,11/01/2008 12:00:00 AM,Departure,International,Charter,342
+05/01/2014 12:00:00 AM,11/01/2008 12:00:00 AM,Departure,International,Commuter,2898
+05/01/2014 12:00:00 AM,11/01/2008 12:00:00 AM,Departure,International,Scheduled Carriers,587503
+05/01/2014 12:00:00 AM,12/01/2008 12:00:00 AM,Arrival,Domestic,Charter,2886
+05/01/2014 12:00:00 AM,12/01/2008 12:00:00 AM,Arrival,Domestic,Commuter,136373
+05/01/2014 12:00:00 AM,12/01/2008 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1540311
+05/01/2014 12:00:00 AM,12/01/2008 12:00:00 AM,Arrival,International,Commuter,4147
+05/01/2014 12:00:00 AM,12/01/2008 12:00:00 AM,Arrival,International,Scheduled Carriers,616530
+05/01/2014 12:00:00 AM,12/01/2008 12:00:00 AM,Departure,Domestic,Charter,876
+05/01/2014 12:00:00 AM,12/01/2008 12:00:00 AM,Departure,Domestic,Commuter,131130
+05/01/2014 12:00:00 AM,12/01/2008 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1569708
+05/01/2014 12:00:00 AM,12/01/2008 12:00:00 AM,Departure,International,Commuter,3939
+05/01/2014 12:00:00 AM,12/01/2008 12:00:00 AM,Departure,International,Scheduled Carriers,651688
+05/01/2014 12:00:00 AM,01/01/2009 12:00:00 AM,Arrival,Domestic,Charter,1119
+05/01/2014 12:00:00 AM,01/01/2009 12:00:00 AM,Arrival,Domestic,Commuter,127169
+05/01/2014 12:00:00 AM,01/01/2009 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1394229
+05/01/2014 12:00:00 AM,01/01/2009 12:00:00 AM,Arrival,International,Charter,460
+05/01/2014 12:00:00 AM,01/01/2009 12:00:00 AM,Arrival,International,Commuter,4066
+05/01/2014 12:00:00 AM,01/01/2009 12:00:00 AM,Arrival,International,Scheduled Carriers,638866
+05/01/2014 12:00:00 AM,01/01/2009 12:00:00 AM,Departure,Domestic,Charter,2298
+05/01/2014 12:00:00 AM,01/01/2009 12:00:00 AM,Departure,Domestic,Commuter,124754
+05/01/2014 12:00:00 AM,01/01/2009 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1364814
+05/01/2014 12:00:00 AM,01/01/2009 12:00:00 AM,Departure,International,Charter,464
+05/01/2014 12:00:00 AM,01/01/2009 12:00:00 AM,Departure,International,Commuter,3833
+05/01/2014 12:00:00 AM,01/01/2009 12:00:00 AM,Departure,International,Scheduled Carriers,606317
+05/01/2014 12:00:00 AM,02/01/2009 12:00:00 AM,Arrival,Domestic,Charter,546
+05/01/2014 12:00:00 AM,02/01/2009 12:00:00 AM,Arrival,Domestic,Commuter,118820
+05/01/2014 12:00:00 AM,02/01/2009 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1265282
+05/01/2014 12:00:00 AM,02/01/2009 12:00:00 AM,Arrival,International,Charter,551
+05/01/2014 12:00:00 AM,02/01/2009 12:00:00 AM,Arrival,International,Commuter,4087
+05/01/2014 12:00:00 AM,02/01/2009 12:00:00 AM,Arrival,International,Scheduled Carriers,504442
+05/01/2014 12:00:00 AM,02/01/2009 12:00:00 AM,Departure,Domestic,Charter,753
+05/01/2014 12:00:00 AM,02/01/2009 12:00:00 AM,Departure,Domestic,Commuter,114336
+05/01/2014 12:00:00 AM,02/01/2009 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1261864
+05/01/2014 12:00:00 AM,02/01/2009 12:00:00 AM,Departure,International,Charter,584
+05/01/2014 12:00:00 AM,02/01/2009 12:00:00 AM,Departure,International,Commuter,3794
+05/01/2014 12:00:00 AM,02/01/2009 12:00:00 AM,Departure,International,Scheduled Carriers,516641
+05/01/2014 12:00:00 AM,03/01/2009 12:00:00 AM,Arrival,Domestic,Charter,1443
+05/01/2014 12:00:00 AM,03/01/2009 12:00:00 AM,Arrival,Domestic,Commuter,146622
+05/01/2014 12:00:00 AM,03/01/2009 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1525301
+05/01/2014 12:00:00 AM,03/01/2009 12:00:00 AM,Arrival,International,Charter,659
+05/01/2014 12:00:00 AM,03/01/2009 12:00:00 AM,Arrival,International,Commuter,5242
+05/01/2014 12:00:00 AM,03/01/2009 12:00:00 AM,Arrival,International,Scheduled Carriers,598236
+05/01/2014 12:00:00 AM,03/01/2009 12:00:00 AM,Departure,Domestic,Charter,1283
+05/01/2014 12:00:00 AM,03/01/2009 12:00:00 AM,Departure,Domestic,Commuter,141324
+05/01/2014 12:00:00 AM,03/01/2009 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1561806
+05/01/2014 12:00:00 AM,03/01/2009 12:00:00 AM,Departure,International,Charter,890
+05/01/2014 12:00:00 AM,03/01/2009 12:00:00 AM,Departure,International,Commuter,5341
+05/01/2014 12:00:00 AM,03/01/2009 12:00:00 AM,Departure,International,Scheduled Carriers,583948
+05/01/2014 12:00:00 AM,04/01/2009 12:00:00 AM,Arrival,Domestic,Charter,861
+05/01/2014 12:00:00 AM,04/01/2009 12:00:00 AM,Arrival,Domestic,Commuter,141361
+05/01/2014 12:00:00 AM,04/01/2009 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1553617
+05/01/2014 12:00:00 AM,04/01/2009 12:00:00 AM,Arrival,International,Charter,381
+05/01/2014 12:00:00 AM,04/01/2009 12:00:00 AM,Arrival,International,Commuter,4358
+05/01/2014 12:00:00 AM,04/01/2009 12:00:00 AM,Arrival,International,Scheduled Carriers,622677
+05/01/2014 12:00:00 AM,04/01/2009 12:00:00 AM,Departure,Domestic,Charter,749
+05/01/2014 12:00:00 AM,04/01/2009 12:00:00 AM,Departure,Domestic,Commuter,136146
+05/01/2014 12:00:00 AM,04/01/2009 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1580238
+05/01/2014 12:00:00 AM,04/01/2009 12:00:00 AM,Departure,International,Charter,470
+05/01/2014 12:00:00 AM,04/01/2009 12:00:00 AM,Departure,International,Commuter,4558
+05/01/2014 12:00:00 AM,04/01/2009 12:00:00 AM,Departure,International,Scheduled Carriers,596052
+05/01/2014 12:00:00 AM,05/01/2009 12:00:00 AM,Arrival,Domestic,Charter,725
+05/01/2014 12:00:00 AM,05/01/2009 12:00:00 AM,Arrival,Domestic,Commuter,143625
+05/01/2014 12:00:00 AM,05/01/2009 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1608760
+05/01/2014 12:00:00 AM,05/01/2009 12:00:00 AM,Arrival,International,Charter,216
+05/01/2014 12:00:00 AM,05/01/2009 12:00:00 AM,Arrival,International,Commuter,4853
+05/01/2014 12:00:00 AM,05/01/2009 12:00:00 AM,Arrival,International,Scheduled Carriers,560337
+05/01/2014 12:00:00 AM,05/01/2009 12:00:00 AM,Departure,Domestic,Charter,516
+05/01/2014 12:00:00 AM,05/01/2009 12:00:00 AM,Departure,Domestic,Commuter,135200
+05/01/2014 12:00:00 AM,05/01/2009 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1608378
+05/01/2014 12:00:00 AM,05/01/2009 12:00:00 AM,Departure,International,Charter,253
+05/01/2014 12:00:00 AM,05/01/2009 12:00:00 AM,Departure,International,Commuter,5070
+05/01/2014 12:00:00 AM,05/01/2009 12:00:00 AM,Departure,International,Scheduled Carriers,577923
+05/01/2014 12:00:00 AM,06/01/2009 12:00:00 AM,Arrival,Domestic,Charter,493
+05/01/2014 12:00:00 AM,06/01/2009 12:00:00 AM,Arrival,Domestic,Commuter,140300
+05/01/2014 12:00:00 AM,06/01/2009 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1728624
+05/01/2014 12:00:00 AM,06/01/2009 12:00:00 AM,Arrival,International,Charter,869
+05/01/2014 12:00:00 AM,06/01/2009 12:00:00 AM,Arrival,International,Commuter,4742
+05/01/2014 12:00:00 AM,06/01/2009 12:00:00 AM,Arrival,International,Scheduled Carriers,597229
+05/01/2014 12:00:00 AM,06/01/2009 12:00:00 AM,Departure,Domestic,Charter,655
+05/01/2014 12:00:00 AM,06/01/2009 12:00:00 AM,Departure,Domestic,Commuter,143525
+05/01/2014 12:00:00 AM,06/01/2009 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1760630
+05/01/2014 12:00:00 AM,06/01/2009 12:00:00 AM,Departure,International,Charter,839
+05/01/2014 12:00:00 AM,06/01/2009 12:00:00 AM,Departure,International,Commuter,5057
+05/01/2014 12:00:00 AM,06/01/2009 12:00:00 AM,Departure,International,Scheduled Carriers,657528
+05/01/2014 12:00:00 AM,07/01/2009 12:00:00 AM,Arrival,Domestic,Charter,204
+05/01/2014 12:00:00 AM,07/01/2009 12:00:00 AM,Arrival,Domestic,Commuter,149908
+05/01/2014 12:00:00 AM,07/01/2009 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1906932
+05/01/2014 12:00:00 AM,07/01/2009 12:00:00 AM,Arrival,International,Charter,844
+05/01/2014 12:00:00 AM,07/01/2009 12:00:00 AM,Arrival,International,Commuter,5018
+05/01/2014 12:00:00 AM,07/01/2009 12:00:00 AM,Arrival,International,Scheduled Carriers,744602
+05/01/2014 12:00:00 AM,07/01/2009 12:00:00 AM,Departure,Domestic,Charter,410
+05/01/2014 12:00:00 AM,07/01/2009 12:00:00 AM,Departure,Domestic,Commuter,149249
+05/01/2014 12:00:00 AM,07/01/2009 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1908296
+05/01/2014 12:00:00 AM,07/01/2009 12:00:00 AM,Departure,International,Charter,857
+05/01/2014 12:00:00 AM,07/01/2009 12:00:00 AM,Departure,International,Commuter,4929
+05/01/2014 12:00:00 AM,07/01/2009 12:00:00 AM,Departure,International,Scheduled Carriers,733161
+05/01/2014 12:00:00 AM,08/01/2009 12:00:00 AM,Arrival,Domestic,Charter,252
+05/01/2014 12:00:00 AM,08/01/2009 12:00:00 AM,Arrival,Domestic,Commuter,143601
+05/01/2014 12:00:00 AM,08/01/2009 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1826336
+05/01/2014 12:00:00 AM,08/01/2009 12:00:00 AM,Arrival,International,Charter,746
+05/01/2014 12:00:00 AM,08/01/2009 12:00:00 AM,Arrival,International,Commuter,5590
+05/01/2014 12:00:00 AM,08/01/2009 12:00:00 AM,Arrival,International,Scheduled Carriers,762861
+05/01/2014 12:00:00 AM,08/01/2009 12:00:00 AM,Departure,Domestic,Charter,695
+05/01/2014 12:00:00 AM,08/01/2009 12:00:00 AM,Departure,Domestic,Commuter,146219
+05/01/2014 12:00:00 AM,08/01/2009 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1850883
+05/01/2014 12:00:00 AM,08/01/2009 12:00:00 AM,Departure,International,Charter,741
+05/01/2014 12:00:00 AM,08/01/2009 12:00:00 AM,Departure,International,Commuter,4982
+05/01/2014 12:00:00 AM,08/01/2009 12:00:00 AM,Departure,International,Scheduled Carriers,694536
+05/01/2014 12:00:00 AM,09/01/2009 12:00:00 AM,Arrival,Domestic,Charter,872
+05/01/2014 12:00:00 AM,09/01/2009 12:00:00 AM,Arrival,Domestic,Commuter,139512
+05/01/2014 12:00:00 AM,09/01/2009 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1509838
+05/01/2014 12:00:00 AM,09/01/2009 12:00:00 AM,Arrival,International,Charter,297
+05/01/2014 12:00:00 AM,09/01/2009 12:00:00 AM,Arrival,International,Commuter,4444
+05/01/2014 12:00:00 AM,09/01/2009 12:00:00 AM,Arrival,International,Scheduled Carriers,611978
+05/01/2014 12:00:00 AM,09/01/2009 12:00:00 AM,Departure,Domestic,Charter,942
+05/01/2014 12:00:00 AM,09/01/2009 12:00:00 AM,Departure,Domestic,Commuter,132054
+05/01/2014 12:00:00 AM,09/01/2009 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1502446
+05/01/2014 12:00:00 AM,09/01/2009 12:00:00 AM,Departure,International,Charter,140
+05/01/2014 12:00:00 AM,09/01/2009 12:00:00 AM,Departure,International,Commuter,4316
+05/01/2014 12:00:00 AM,09/01/2009 12:00:00 AM,Departure,International,Scheduled Carriers,604020
+05/01/2014 12:00:00 AM,10/01/2009 12:00:00 AM,Arrival,Domestic,Charter,1489
+05/01/2014 12:00:00 AM,10/01/2009 12:00:00 AM,Arrival,Domestic,Commuter,147813
+05/01/2014 12:00:00 AM,10/01/2009 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1607674
+05/01/2014 12:00:00 AM,10/01/2009 12:00:00 AM,Arrival,International,Charter,6036
+05/01/2014 12:00:00 AM,10/01/2009 12:00:00 AM,Arrival,International,Commuter,4592
+05/01/2014 12:00:00 AM,10/01/2009 12:00:00 AM,Arrival,International,Scheduled Carriers,603886
+05/01/2014 12:00:00 AM,10/01/2009 12:00:00 AM,Departure,Domestic,Charter,1467
+05/01/2014 12:00:00 AM,10/01/2009 12:00:00 AM,Departure,Domestic,Commuter,143754
+05/01/2014 12:00:00 AM,10/01/2009 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1591109
+05/01/2014 12:00:00 AM,10/01/2009 12:00:00 AM,Departure,International,Commuter,4026
+05/01/2014 12:00:00 AM,10/01/2009 12:00:00 AM,Departure,International,Scheduled Carriers,649786
+05/01/2014 12:00:00 AM,11/01/2009 12:00:00 AM,Arrival,Domestic,Charter,1271
+05/01/2014 12:00:00 AM,11/01/2009 12:00:00 AM,Arrival,Domestic,Commuter,144902
+05/01/2014 12:00:00 AM,11/01/2009 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1468135
+05/01/2014 12:00:00 AM,11/01/2009 12:00:00 AM,Arrival,International,Charter,175
+05/01/2014 12:00:00 AM,11/01/2009 12:00:00 AM,Arrival,International,Commuter,3977
+05/01/2014 12:00:00 AM,11/01/2009 12:00:00 AM,Arrival,International,Scheduled Carriers,573205
+05/01/2014 12:00:00 AM,11/01/2009 12:00:00 AM,Departure,Domestic,Charter,875
+05/01/2014 12:00:00 AM,11/01/2009 12:00:00 AM,Departure,Domestic,Commuter,139661
+05/01/2014 12:00:00 AM,11/01/2009 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1490732
+05/01/2014 12:00:00 AM,11/01/2009 12:00:00 AM,Departure,International,Charter,369
+05/01/2014 12:00:00 AM,11/01/2009 12:00:00 AM,Departure,International,Commuter,4139
+05/01/2014 12:00:00 AM,11/01/2009 12:00:00 AM,Departure,International,Scheduled Carriers,592268
+05/01/2014 12:00:00 AM,12/01/2009 12:00:00 AM,Arrival,Domestic,Charter,4994
+05/01/2014 12:00:00 AM,12/01/2009 12:00:00 AM,Arrival,Domestic,Commuter,153371
+05/01/2014 12:00:00 AM,12/01/2009 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1585814
+05/01/2014 12:00:00 AM,12/01/2009 12:00:00 AM,Arrival,International,Commuter,4928
+05/01/2014 12:00:00 AM,12/01/2009 12:00:00 AM,Arrival,International,Scheduled Carriers,655367
+05/01/2014 12:00:00 AM,12/01/2009 12:00:00 AM,Departure,Domestic,Charter,1732
+05/01/2014 12:00:00 AM,12/01/2009 12:00:00 AM,Departure,Domestic,Commuter,146339
+05/01/2014 12:00:00 AM,12/01/2009 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1581966
+05/01/2014 12:00:00 AM,12/01/2009 12:00:00 AM,Departure,International,Commuter,4869
+05/01/2014 12:00:00 AM,12/01/2009 12:00:00 AM,Departure,International,Scheduled Carriers,687412
+05/01/2014 12:00:00 AM,01/01/2010 12:00:00 AM,Arrival,Domestic,Charter,4317
+05/01/2014 12:00:00 AM,01/01/2010 12:00:00 AM,Arrival,Domestic,Commuter,148120
+05/01/2014 12:00:00 AM,01/01/2010 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1440819
+05/01/2014 12:00:00 AM,01/01/2010 12:00:00 AM,Arrival,International,Charter,128
+05/01/2014 12:00:00 AM,01/01/2010 12:00:00 AM,Arrival,International,Commuter,5266
+05/01/2014 12:00:00 AM,01/01/2010 12:00:00 AM,Arrival,International,Scheduled Carriers,692077
+05/01/2014 12:00:00 AM,01/01/2010 12:00:00 AM,Departure,Domestic,Charter,7616
+05/01/2014 12:00:00 AM,01/01/2010 12:00:00 AM,Departure,Domestic,Commuter,146018
+05/01/2014 12:00:00 AM,01/01/2010 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1498185
+05/01/2014 12:00:00 AM,01/01/2010 12:00:00 AM,Departure,International,Commuter,5187
+05/01/2014 12:00:00 AM,01/01/2010 12:00:00 AM,Departure,International,Scheduled Carriers,661987
+05/01/2014 12:00:00 AM,02/01/2010 12:00:00 AM,Arrival,Domestic,Charter,779
+05/01/2014 12:00:00 AM,02/01/2010 12:00:00 AM,Arrival,Domestic,Commuter,145505
+05/01/2014 12:00:00 AM,02/01/2010 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1269533
+05/01/2014 12:00:00 AM,02/01/2010 12:00:00 AM,Arrival,International,Charter,35
+05/01/2014 12:00:00 AM,02/01/2010 12:00:00 AM,Arrival,International,Commuter,4022
+05/01/2014 12:00:00 AM,02/01/2010 12:00:00 AM,Arrival,International,Scheduled Carriers,554772
+05/01/2014 12:00:00 AM,02/01/2010 12:00:00 AM,Departure,Domestic,Charter,610
+05/01/2014 12:00:00 AM,02/01/2010 12:00:00 AM,Departure,Domestic,Commuter,139465
+05/01/2014 12:00:00 AM,02/01/2010 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1276034
+05/01/2014 12:00:00 AM,02/01/2010 12:00:00 AM,Departure,International,Charter,48
+05/01/2014 12:00:00 AM,02/01/2010 12:00:00 AM,Departure,International,Commuter,4223
+05/01/2014 12:00:00 AM,02/01/2010 12:00:00 AM,Departure,International,Scheduled Carriers,565293
+05/01/2014 12:00:00 AM,03/01/2010 12:00:00 AM,Arrival,Domestic,Charter,956
+05/01/2014 12:00:00 AM,03/01/2010 12:00:00 AM,Arrival,Domestic,Commuter,171559
+05/01/2014 12:00:00 AM,03/01/2010 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1580358
+05/01/2014 12:00:00 AM,03/01/2010 12:00:00 AM,Arrival,International,Charter,181
+05/01/2014 12:00:00 AM,03/01/2010 12:00:00 AM,Arrival,International,Commuter,5010
+05/01/2014 12:00:00 AM,03/01/2010 12:00:00 AM,Arrival,International,Scheduled Carriers,640140
+05/01/2014 12:00:00 AM,03/01/2010 12:00:00 AM,Departure,Domestic,Charter,1022
+05/01/2014 12:00:00 AM,03/01/2010 12:00:00 AM,Departure,Domestic,Commuter,165782
+05/01/2014 12:00:00 AM,03/01/2010 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1613282
+05/01/2014 12:00:00 AM,03/01/2010 12:00:00 AM,Departure,International,Charter,38
+05/01/2014 12:00:00 AM,03/01/2010 12:00:00 AM,Departure,International,Commuter,4898
+05/01/2014 12:00:00 AM,03/01/2010 12:00:00 AM,Departure,International,Scheduled Carriers,628800
+05/01/2014 12:00:00 AM,04/01/2010 12:00:00 AM,Arrival,Domestic,Charter,759
+05/01/2014 12:00:00 AM,04/01/2010 12:00:00 AM,Arrival,Domestic,Commuter,172358
+05/01/2014 12:00:00 AM,04/01/2010 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1533646
+05/01/2014 12:00:00 AM,04/01/2010 12:00:00 AM,Arrival,International,Charter,16
+05/01/2014 12:00:00 AM,04/01/2010 12:00:00 AM,Arrival,International,Commuter,4867
+05/01/2014 12:00:00 AM,04/01/2010 12:00:00 AM,Arrival,International,Scheduled Carriers,632637
+05/01/2014 12:00:00 AM,04/01/2010 12:00:00 AM,Departure,Domestic,Charter,626
+05/01/2014 12:00:00 AM,04/01/2010 12:00:00 AM,Departure,Domestic,Commuter,167934
+05/01/2014 12:00:00 AM,04/01/2010 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1564522
+05/01/2014 12:00:00 AM,04/01/2010 12:00:00 AM,Departure,International,Commuter,5241
+05/01/2014 12:00:00 AM,04/01/2010 12:00:00 AM,Departure,International,Scheduled Carriers,604340
+05/01/2014 12:00:00 AM,05/01/2010 12:00:00 AM,Arrival,Domestic,Charter,334
+05/01/2014 12:00:00 AM,05/01/2010 12:00:00 AM,Arrival,Domestic,Commuter,176034
+05/01/2014 12:00:00 AM,05/01/2010 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1651830
+05/01/2014 12:00:00 AM,05/01/2010 12:00:00 AM,Arrival,International,Charter,211
+05/01/2014 12:00:00 AM,05/01/2010 12:00:00 AM,Arrival,International,Commuter,5086
+05/01/2014 12:00:00 AM,05/01/2010 12:00:00 AM,Arrival,International,Scheduled Carriers,651106
+05/01/2014 12:00:00 AM,05/01/2010 12:00:00 AM,Departure,Domestic,Charter,433
+05/01/2014 12:00:00 AM,05/01/2010 12:00:00 AM,Departure,Domestic,Commuter,165819
+05/01/2014 12:00:00 AM,05/01/2010 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1632021
+05/01/2014 12:00:00 AM,05/01/2010 12:00:00 AM,Departure,International,Charter,396
+05/01/2014 12:00:00 AM,05/01/2010 12:00:00 AM,Departure,International,Commuter,5136
+05/01/2014 12:00:00 AM,05/01/2010 12:00:00 AM,Departure,International,Scheduled Carriers,668190
+05/01/2014 12:00:00 AM,06/01/2010 12:00:00 AM,Arrival,Domestic,Charter,463
+05/01/2014 12:00:00 AM,06/01/2010 12:00:00 AM,Arrival,Domestic,Commuter,185151
+05/01/2014 12:00:00 AM,06/01/2010 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1742734
+05/01/2014 12:00:00 AM,06/01/2010 12:00:00 AM,Arrival,International,Charter,1138
+05/01/2014 12:00:00 AM,06/01/2010 12:00:00 AM,Arrival,International,Commuter,3765
+05/01/2014 12:00:00 AM,06/01/2010 12:00:00 AM,Arrival,International,Scheduled Carriers,687527
+05/01/2014 12:00:00 AM,06/01/2010 12:00:00 AM,Departure,Domestic,Charter,381
+05/01/2014 12:00:00 AM,06/01/2010 12:00:00 AM,Departure,Domestic,Commuter,181461
+05/01/2014 12:00:00 AM,06/01/2010 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1777570
+05/01/2014 12:00:00 AM,06/01/2010 12:00:00 AM,Departure,International,Charter,1391
+05/01/2014 12:00:00 AM,06/01/2010 12:00:00 AM,Departure,International,Commuter,3838
+05/01/2014 12:00:00 AM,06/01/2010 12:00:00 AM,Departure,International,Scheduled Carriers,725975
+05/01/2014 12:00:00 AM,07/01/2010 12:00:00 AM,Arrival,Domestic,Charter,404
+05/01/2014 12:00:00 AM,07/01/2010 12:00:00 AM,Arrival,Domestic,Commuter,190994
+05/01/2014 12:00:00 AM,07/01/2010 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1891563
+05/01/2014 12:00:00 AM,07/01/2010 12:00:00 AM,Arrival,International,Charter,1210
+05/01/2014 12:00:00 AM,07/01/2010 12:00:00 AM,Arrival,International,Commuter,3813
+05/01/2014 12:00:00 AM,07/01/2010 12:00:00 AM,Arrival,International,Scheduled Carriers,781196
+05/01/2014 12:00:00 AM,07/01/2010 12:00:00 AM,Departure,Domestic,Charter,751
+05/01/2014 12:00:00 AM,07/01/2010 12:00:00 AM,Departure,Domestic,Commuter,189098
+05/01/2014 12:00:00 AM,07/01/2010 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1871064
+05/01/2014 12:00:00 AM,07/01/2010 12:00:00 AM,Departure,International,Charter,1223
+05/01/2014 12:00:00 AM,07/01/2010 12:00:00 AM,Departure,International,Commuter,3803
+05/01/2014 12:00:00 AM,07/01/2010 12:00:00 AM,Departure,International,Scheduled Carriers,757742
+05/01/2014 12:00:00 AM,08/01/2010 12:00:00 AM,Arrival,Domestic,Charter,646
+05/01/2014 12:00:00 AM,08/01/2010 12:00:00 AM,Arrival,Domestic,Commuter,186335
+05/01/2014 12:00:00 AM,08/01/2010 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1848901
+05/01/2014 12:00:00 AM,08/01/2010 12:00:00 AM,Arrival,International,Charter,1399
+05/01/2014 12:00:00 AM,08/01/2010 12:00:00 AM,Arrival,International,Commuter,3854
+05/01/2014 12:00:00 AM,08/01/2010 12:00:00 AM,Arrival,International,Scheduled Carriers,778334
+05/01/2014 12:00:00 AM,08/01/2010 12:00:00 AM,Departure,Domestic,Charter,170
+05/01/2014 12:00:00 AM,08/01/2010 12:00:00 AM,Departure,Domestic,Commuter,190649
+05/01/2014 12:00:00 AM,08/01/2010 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1875258
+05/01/2014 12:00:00 AM,08/01/2010 12:00:00 AM,Departure,International,Charter,1378
+05/01/2014 12:00:00 AM,08/01/2010 12:00:00 AM,Departure,International,Commuter,3785
+05/01/2014 12:00:00 AM,08/01/2010 12:00:00 AM,Departure,International,Scheduled Carriers,727137
+05/01/2014 12:00:00 AM,09/01/2010 12:00:00 AM,Arrival,Domestic,Charter,751
+05/01/2014 12:00:00 AM,09/01/2010 12:00:00 AM,Arrival,Domestic,Commuter,179771
+05/01/2014 12:00:00 AM,09/01/2010 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1546068
+05/01/2014 12:00:00 AM,09/01/2010 12:00:00 AM,Arrival,International,Charter,614
+05/01/2014 12:00:00 AM,09/01/2010 12:00:00 AM,Arrival,International,Commuter,3450
+05/01/2014 12:00:00 AM,09/01/2010 12:00:00 AM,Arrival,International,Scheduled Carriers,634493
+05/01/2014 12:00:00 AM,09/01/2010 12:00:00 AM,Departure,Domestic,Charter,636
+05/01/2014 12:00:00 AM,09/01/2010 12:00:00 AM,Departure,Domestic,Commuter,169919
+05/01/2014 12:00:00 AM,09/01/2010 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1535547
+05/01/2014 12:00:00 AM,09/01/2010 12:00:00 AM,Departure,International,Charter,295
+05/01/2014 12:00:00 AM,09/01/2010 12:00:00 AM,Departure,International,Commuter,3384
+05/01/2014 12:00:00 AM,09/01/2010 12:00:00 AM,Departure,International,Scheduled Carriers,620467
+05/01/2014 12:00:00 AM,10/01/2010 12:00:00 AM,Arrival,Domestic,Charter,1349
+05/01/2014 12:00:00 AM,10/01/2010 12:00:00 AM,Arrival,Domestic,Commuter,187805
+05/01/2014 12:00:00 AM,10/01/2010 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1651998
+05/01/2014 12:00:00 AM,10/01/2010 12:00:00 AM,Arrival,International,Charter,49
+05/01/2014 12:00:00 AM,10/01/2010 12:00:00 AM,Arrival,International,Commuter,3359
+05/01/2014 12:00:00 AM,10/01/2010 12:00:00 AM,Arrival,International,Scheduled Carriers,633590
+05/01/2014 12:00:00 AM,10/01/2010 12:00:00 AM,Departure,Domestic,Charter,1728
+05/01/2014 12:00:00 AM,10/01/2010 12:00:00 AM,Departure,Domestic,Commuter,178758
+05/01/2014 12:00:00 AM,10/01/2010 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1661039
+05/01/2014 12:00:00 AM,10/01/2010 12:00:00 AM,Departure,International,Charter,38
+05/01/2014 12:00:00 AM,10/01/2010 12:00:00 AM,Departure,International,Commuter,3319
+05/01/2014 12:00:00 AM,10/01/2010 12:00:00 AM,Departure,International,Scheduled Carriers,665053
+05/01/2014 12:00:00 AM,11/01/2010 12:00:00 AM,Arrival,Domestic,Charter,1620
+05/01/2014 12:00:00 AM,11/01/2010 12:00:00 AM,Arrival,Domestic,Commuter,179285
+05/01/2014 12:00:00 AM,11/01/2010 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1565147
+05/01/2014 12:00:00 AM,11/01/2010 12:00:00 AM,Arrival,International,Charter,118
+05/01/2014 12:00:00 AM,11/01/2010 12:00:00 AM,Arrival,International,Commuter,3217
+05/01/2014 12:00:00 AM,11/01/2010 12:00:00 AM,Arrival,International,Scheduled Carriers,592387
+05/01/2014 12:00:00 AM,11/01/2010 12:00:00 AM,Departure,Domestic,Charter,1395
+05/01/2014 12:00:00 AM,11/01/2010 12:00:00 AM,Departure,Domestic,Commuter,171671
+05/01/2014 12:00:00 AM,11/01/2010 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1564783
+05/01/2014 12:00:00 AM,11/01/2010 12:00:00 AM,Departure,International,Charter,154
+05/01/2014 12:00:00 AM,11/01/2010 12:00:00 AM,Departure,International,Commuter,3131
+05/01/2014 12:00:00 AM,11/01/2010 12:00:00 AM,Departure,International,Scheduled Carriers,606174
+05/01/2014 12:00:00 AM,12/01/2010 12:00:00 AM,Arrival,Domestic,Charter,7503
+05/01/2014 12:00:00 AM,12/01/2010 12:00:00 AM,Arrival,Domestic,Commuter,185882
+05/01/2014 12:00:00 AM,12/01/2010 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1630567
+05/01/2014 12:00:00 AM,12/01/2010 12:00:00 AM,Arrival,International,Charter,96
+05/01/2014 12:00:00 AM,12/01/2010 12:00:00 AM,Arrival,International,Commuter,3344
+05/01/2014 12:00:00 AM,12/01/2010 12:00:00 AM,Arrival,International,Scheduled Carriers,650234
+05/01/2014 12:00:00 AM,12/01/2010 12:00:00 AM,Departure,Domestic,Charter,590
+05/01/2014 12:00:00 AM,12/01/2010 12:00:00 AM,Departure,Domestic,Commuter,176882
+05/01/2014 12:00:00 AM,12/01/2010 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1723582
+05/01/2014 12:00:00 AM,12/01/2010 12:00:00 AM,Departure,International,Commuter,3352
+05/01/2014 12:00:00 AM,12/01/2010 12:00:00 AM,Departure,International,Scheduled Carriers,667825
+05/01/2014 12:00:00 AM,01/01/2011 12:00:00 AM,Arrival,Domestic,Charter,857
+05/01/2014 12:00:00 AM,01/01/2011 12:00:00 AM,Arrival,Domestic,Commuter,173936
+05/01/2014 12:00:00 AM,01/01/2011 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1490454
+05/01/2014 12:00:00 AM,01/01/2011 12:00:00 AM,Arrival,International,Charter,165
+05/01/2014 12:00:00 AM,01/01/2011 12:00:00 AM,Arrival,International,Commuter,3626
+05/01/2014 12:00:00 AM,01/01/2011 12:00:00 AM,Arrival,International,Scheduled Carriers,678679
+05/01/2014 12:00:00 AM,01/01/2011 12:00:00 AM,Departure,Domestic,Charter,6922
+05/01/2014 12:00:00 AM,01/01/2011 12:00:00 AM,Departure,Domestic,Commuter,170648
+05/01/2014 12:00:00 AM,01/01/2011 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1468219
+05/01/2014 12:00:00 AM,01/01/2011 12:00:00 AM,Departure,International,Charter,1
+05/01/2014 12:00:00 AM,01/01/2011 12:00:00 AM,Departure,International,Commuter,3521
+05/01/2014 12:00:00 AM,01/01/2011 12:00:00 AM,Departure,International,Scheduled Carriers,666153
+05/01/2014 12:00:00 AM,02/01/2011 12:00:00 AM,Arrival,Domestic,Charter,749
+05/01/2014 12:00:00 AM,02/01/2011 12:00:00 AM,Arrival,Domestic,Commuter,174714
+05/01/2014 12:00:00 AM,02/01/2011 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1330118
+05/01/2014 12:00:00 AM,02/01/2011 12:00:00 AM,Arrival,International,Charter,709
+05/01/2014 12:00:00 AM,02/01/2011 12:00:00 AM,Arrival,International,Commuter,3230
+05/01/2014 12:00:00 AM,02/01/2011 12:00:00 AM,Arrival,International,Scheduled Carriers,558072
+05/01/2014 12:00:00 AM,02/01/2011 12:00:00 AM,Departure,Domestic,Charter,739
+05/01/2014 12:00:00 AM,02/01/2011 12:00:00 AM,Departure,Domestic,Commuter,158888
+05/01/2014 12:00:00 AM,02/01/2011 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1324531
+05/01/2014 12:00:00 AM,02/01/2011 12:00:00 AM,Departure,International,Charter,686
+05/01/2014 12:00:00 AM,02/01/2011 12:00:00 AM,Departure,International,Commuter,3150
+05/01/2014 12:00:00 AM,02/01/2011 12:00:00 AM,Departure,International,Scheduled Carriers,565950
+05/01/2014 12:00:00 AM,03/01/2011 12:00:00 AM,Arrival,Domestic,Charter,755
+05/01/2014 12:00:00 AM,03/01/2011 12:00:00 AM,Arrival,Domestic,Commuter,197712
+05/01/2014 12:00:00 AM,03/01/2011 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1607923
+05/01/2014 12:00:00 AM,03/01/2011 12:00:00 AM,Arrival,International,Charter,382
+05/01/2014 12:00:00 AM,03/01/2011 12:00:00 AM,Arrival,International,Commuter,3781
+05/01/2014 12:00:00 AM,03/01/2011 12:00:00 AM,Arrival,International,Scheduled Carriers,664137
+05/01/2014 12:00:00 AM,03/01/2011 12:00:00 AM,Departure,Domestic,Charter,940
+05/01/2014 12:00:00 AM,03/01/2011 12:00:00 AM,Departure,Domestic,Commuter,192762
+05/01/2014 12:00:00 AM,03/01/2011 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1634275
+05/01/2014 12:00:00 AM,03/01/2011 12:00:00 AM,Departure,International,Commuter,3689
+05/01/2014 12:00:00 AM,03/01/2011 12:00:00 AM,Departure,International,Scheduled Carriers,645443
+05/01/2014 12:00:00 AM,04/01/2011 12:00:00 AM,Arrival,Domestic,Charter,729
+05/01/2014 12:00:00 AM,04/01/2011 12:00:00 AM,Arrival,Domestic,Commuter,227006
+05/01/2014 12:00:00 AM,04/01/2011 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1644046
+05/01/2014 12:00:00 AM,04/01/2011 12:00:00 AM,Arrival,International,Charter,32
+05/01/2014 12:00:00 AM,04/01/2011 12:00:00 AM,Arrival,International,Commuter,3360
+05/01/2014 12:00:00 AM,04/01/2011 12:00:00 AM,Arrival,International,Scheduled Carriers,679452
+05/01/2014 12:00:00 AM,04/01/2011 12:00:00 AM,Departure,Domestic,Charter,574
+05/01/2014 12:00:00 AM,04/01/2011 12:00:00 AM,Departure,Domestic,Commuter,220612
+05/01/2014 12:00:00 AM,04/01/2011 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1588154
+05/01/2014 12:00:00 AM,04/01/2011 12:00:00 AM,Departure,International,Charter,9
+05/01/2014 12:00:00 AM,04/01/2011 12:00:00 AM,Departure,International,Commuter,3504
+05/01/2014 12:00:00 AM,04/01/2011 12:00:00 AM,Departure,International,Scheduled Carriers,660738
+05/01/2014 12:00:00 AM,05/01/2011 12:00:00 AM,Arrival,Domestic,Charter,253
+05/01/2014 12:00:00 AM,05/01/2011 12:00:00 AM,Arrival,Domestic,Commuter,237519
+05/01/2014 12:00:00 AM,05/01/2011 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1797456
+05/01/2014 12:00:00 AM,05/01/2011 12:00:00 AM,Arrival,International,Charter,3
+05/01/2014 12:00:00 AM,05/01/2011 12:00:00 AM,Arrival,International,Commuter,3560
+05/01/2014 12:00:00 AM,05/01/2011 12:00:00 AM,Arrival,International,Scheduled Carriers,707398
+05/01/2014 12:00:00 AM,05/01/2011 12:00:00 AM,Departure,Domestic,Charter,212
+05/01/2014 12:00:00 AM,05/01/2011 12:00:00 AM,Departure,Domestic,Commuter,223419
+05/01/2014 12:00:00 AM,05/01/2011 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1768492
+05/01/2014 12:00:00 AM,05/01/2011 12:00:00 AM,Departure,International,Charter,43
+05/01/2014 12:00:00 AM,05/01/2011 12:00:00 AM,Departure,International,Commuter,3653
+05/01/2014 12:00:00 AM,05/01/2011 12:00:00 AM,Departure,International,Scheduled Carriers,735056
+05/01/2014 12:00:00 AM,06/01/2011 12:00:00 AM,Arrival,Domestic,Charter,127
+05/01/2014 12:00:00 AM,06/01/2011 12:00:00 AM,Arrival,Domestic,Commuter,234449
+05/01/2014 12:00:00 AM,06/01/2011 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1825797
+05/01/2014 12:00:00 AM,06/01/2011 12:00:00 AM,Arrival,International,Charter,508
+05/01/2014 12:00:00 AM,06/01/2011 12:00:00 AM,Arrival,International,Commuter,3576
+05/01/2014 12:00:00 AM,06/01/2011 12:00:00 AM,Arrival,International,Scheduled Carriers,719451
+05/01/2014 12:00:00 AM,06/01/2011 12:00:00 AM,Departure,Domestic,Charter,92
+05/01/2014 12:00:00 AM,06/01/2011 12:00:00 AM,Departure,Domestic,Commuter,228558
+05/01/2014 12:00:00 AM,06/01/2011 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1850167
+05/01/2014 12:00:00 AM,06/01/2011 12:00:00 AM,Departure,International,Charter,602
+05/01/2014 12:00:00 AM,06/01/2011 12:00:00 AM,Departure,International,Commuter,3550
+05/01/2014 12:00:00 AM,06/01/2011 12:00:00 AM,Departure,International,Scheduled Carriers,764839
+05/01/2014 12:00:00 AM,07/01/2011 12:00:00 AM,Arrival,Domestic,Charter,210
+05/01/2014 12:00:00 AM,07/01/2011 12:00:00 AM,Arrival,Domestic,Commuter,259979
+05/01/2014 12:00:00 AM,07/01/2011 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1960103
+05/01/2014 12:00:00 AM,07/01/2011 12:00:00 AM,Arrival,International,Charter,731
+05/01/2014 12:00:00 AM,07/01/2011 12:00:00 AM,Arrival,International,Commuter,3926
+05/01/2014 12:00:00 AM,07/01/2011 12:00:00 AM,Arrival,International,Scheduled Carriers,834829
+05/01/2014 12:00:00 AM,07/01/2011 12:00:00 AM,Departure,Domestic,Charter,217
+05/01/2014 12:00:00 AM,07/01/2011 12:00:00 AM,Departure,Domestic,Commuter,255233
+05/01/2014 12:00:00 AM,07/01/2011 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1944016
+05/01/2014 12:00:00 AM,07/01/2011 12:00:00 AM,Departure,International,Charter,610
+05/01/2014 12:00:00 AM,07/01/2011 12:00:00 AM,Departure,International,Commuter,3832
+05/01/2014 12:00:00 AM,07/01/2011 12:00:00 AM,Departure,International,Scheduled Carriers,807656
+05/01/2014 12:00:00 AM,08/01/2011 12:00:00 AM,Arrival,Domestic,Charter,11
+05/01/2014 12:00:00 AM,08/01/2011 12:00:00 AM,Arrival,Domestic,Commuter,254546
+05/01/2014 12:00:00 AM,08/01/2011 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1882481
+05/01/2014 12:00:00 AM,08/01/2011 12:00:00 AM,Arrival,International,Charter,784
+05/01/2014 12:00:00 AM,08/01/2011 12:00:00 AM,Arrival,International,Commuter,4014
+05/01/2014 12:00:00 AM,08/01/2011 12:00:00 AM,Arrival,International,Scheduled Carriers,827279
+05/01/2014 12:00:00 AM,08/01/2011 12:00:00 AM,Departure,Domestic,Charter,11
+05/01/2014 12:00:00 AM,08/01/2011 12:00:00 AM,Departure,Domestic,Commuter,263277
+05/01/2014 12:00:00 AM,08/01/2011 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1911301
+05/01/2014 12:00:00 AM,08/01/2011 12:00:00 AM,Departure,International,Charter,654
+05/01/2014 12:00:00 AM,08/01/2011 12:00:00 AM,Departure,International,Commuter,3823
+05/01/2014 12:00:00 AM,08/01/2011 12:00:00 AM,Departure,International,Scheduled Carriers,770343
+05/01/2014 12:00:00 AM,09/01/2011 12:00:00 AM,Arrival,Domestic,Charter,453
+05/01/2014 12:00:00 AM,09/01/2011 12:00:00 AM,Arrival,Domestic,Commuter,225382
+05/01/2014 12:00:00 AM,09/01/2011 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1576842
+05/01/2014 12:00:00 AM,09/01/2011 12:00:00 AM,Arrival,International,Charter,14
+05/01/2014 12:00:00 AM,09/01/2011 12:00:00 AM,Arrival,International,Commuter,3588
+05/01/2014 12:00:00 AM,09/01/2011 12:00:00 AM,Arrival,International,Scheduled Carriers,683758
+05/01/2014 12:00:00 AM,09/01/2011 12:00:00 AM,Departure,Domestic,Charter,372
+05/01/2014 12:00:00 AM,09/01/2011 12:00:00 AM,Departure,Domestic,Commuter,216922
+05/01/2014 12:00:00 AM,09/01/2011 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1585878
+05/01/2014 12:00:00 AM,09/01/2011 12:00:00 AM,Departure,International,Charter,6
+05/01/2014 12:00:00 AM,09/01/2011 12:00:00 AM,Departure,International,Commuter,3339
+05/01/2014 12:00:00 AM,09/01/2011 12:00:00 AM,Departure,International,Scheduled Carriers,683766
+05/01/2014 12:00:00 AM,10/01/2011 12:00:00 AM,Arrival,Domestic,Charter,70
+05/01/2014 12:00:00 AM,10/01/2011 12:00:00 AM,Arrival,Domestic,Commuter,236923
+05/01/2014 12:00:00 AM,10/01/2011 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1613468
+05/01/2014 12:00:00 AM,10/01/2011 12:00:00 AM,Arrival,International,Charter,6
+05/01/2014 12:00:00 AM,10/01/2011 12:00:00 AM,Arrival,International,Commuter,3421
+05/01/2014 12:00:00 AM,10/01/2011 12:00:00 AM,Arrival,International,Scheduled Carriers,666632
+05/01/2014 12:00:00 AM,10/01/2011 12:00:00 AM,Departure,Domestic,Charter,256
+05/01/2014 12:00:00 AM,10/01/2011 12:00:00 AM,Departure,Domestic,Commuter,226756
+05/01/2014 12:00:00 AM,10/01/2011 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1668018
+05/01/2014 12:00:00 AM,10/01/2011 12:00:00 AM,Departure,International,Charter,29
+05/01/2014 12:00:00 AM,10/01/2011 12:00:00 AM,Departure,International,Commuter,3027
+05/01/2014 12:00:00 AM,10/01/2011 12:00:00 AM,Departure,International,Scheduled Carriers,705998
+05/01/2014 12:00:00 AM,11/01/2011 12:00:00 AM,Arrival,Domestic,Charter,407
+05/01/2014 12:00:00 AM,11/01/2011 12:00:00 AM,Arrival,Domestic,Commuter,227954
+05/01/2014 12:00:00 AM,11/01/2011 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1584257
+05/01/2014 12:00:00 AM,11/01/2011 12:00:00 AM,Arrival,International,Charter,2
+05/01/2014 12:00:00 AM,11/01/2011 12:00:00 AM,Arrival,International,Commuter,2768
+05/01/2014 12:00:00 AM,11/01/2011 12:00:00 AM,Arrival,International,Scheduled Carriers,608364
+05/01/2014 12:00:00 AM,11/01/2011 12:00:00 AM,Departure,Domestic,Charter,294
+05/01/2014 12:00:00 AM,11/01/2011 12:00:00 AM,Departure,Domestic,Commuter,219575
+05/01/2014 12:00:00 AM,11/01/2011 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1594368
+05/01/2014 12:00:00 AM,11/01/2011 12:00:00 AM,Departure,International,Charter,4
+05/01/2014 12:00:00 AM,11/01/2011 12:00:00 AM,Departure,International,Commuter,2644
+05/01/2014 12:00:00 AM,11/01/2011 12:00:00 AM,Departure,International,Scheduled Carriers,624469
+05/01/2014 12:00:00 AM,12/01/2011 12:00:00 AM,Arrival,Domestic,Charter,3940
+05/01/2014 12:00:00 AM,12/01/2011 12:00:00 AM,Arrival,Domestic,Commuter,177177
+05/01/2014 12:00:00 AM,12/01/2011 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1640432
+05/01/2014 12:00:00 AM,12/01/2011 12:00:00 AM,Arrival,International,Charter,271
+05/01/2014 12:00:00 AM,12/01/2011 12:00:00 AM,Arrival,International,Commuter,3426
+05/01/2014 12:00:00 AM,12/01/2011 12:00:00 AM,Arrival,International,Scheduled Carriers,675878
+05/01/2014 12:00:00 AM,12/01/2011 12:00:00 AM,Departure,Domestic,Charter,795
+05/01/2014 12:00:00 AM,12/01/2011 12:00:00 AM,Departure,Domestic,Commuter,171746
+05/01/2014 12:00:00 AM,12/01/2011 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1644254
+05/01/2014 12:00:00 AM,12/01/2011 12:00:00 AM,Departure,International,Charter,358
+05/01/2014 12:00:00 AM,12/01/2011 12:00:00 AM,Departure,International,Commuter,3292
+05/01/2014 12:00:00 AM,12/01/2011 12:00:00 AM,Departure,International,Scheduled Carriers,707075
+05/01/2014 12:00:00 AM,01/01/2012 12:00:00 AM,Arrival,Domestic,Charter,1111
+05/01/2014 12:00:00 AM,01/01/2012 12:00:00 AM,Arrival,Domestic,Commuter,161364
+05/01/2014 12:00:00 AM,01/01/2012 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1591975
+05/01/2014 12:00:00 AM,01/01/2012 12:00:00 AM,Arrival,International,Charter,491
+05/01/2014 12:00:00 AM,01/01/2012 12:00:00 AM,Arrival,International,Commuter,1863
+05/01/2014 12:00:00 AM,01/01/2012 12:00:00 AM,Arrival,International,Scheduled Carriers,714519
+05/01/2014 12:00:00 AM,01/01/2012 12:00:00 AM,Departure,Domestic,Charter,4222
+05/01/2014 12:00:00 AM,01/01/2012 12:00:00 AM,Departure,Domestic,Commuter,157590
+05/01/2014 12:00:00 AM,01/01/2012 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1584834
+05/01/2014 12:00:00 AM,01/01/2012 12:00:00 AM,Departure,International,Charter,429
+05/01/2014 12:00:00 AM,01/01/2012 12:00:00 AM,Departure,International,Commuter,1729
+05/01/2014 12:00:00 AM,01/01/2012 12:00:00 AM,Departure,International,Scheduled Carriers,693362
+05/01/2014 12:00:00 AM,02/01/2012 12:00:00 AM,Arrival,Domestic,Charter,584
+05/01/2014 12:00:00 AM,02/01/2012 12:00:00 AM,Arrival,Domestic,Commuter,213824
+05/01/2014 12:00:00 AM,02/01/2012 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1430135
+05/01/2014 12:00:00 AM,02/01/2012 12:00:00 AM,Arrival,International,Charter,223
+05/01/2014 12:00:00 AM,02/01/2012 12:00:00 AM,Arrival,International,Commuter,1589
+05/01/2014 12:00:00 AM,02/01/2012 12:00:00 AM,Arrival,International,Scheduled Carriers,574091
+05/01/2014 12:00:00 AM,02/01/2012 12:00:00 AM,Departure,Domestic,Charter,717
+05/01/2014 12:00:00 AM,02/01/2012 12:00:00 AM,Departure,Domestic,Commuter,209017
+05/01/2014 12:00:00 AM,02/01/2012 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1438894
+05/01/2014 12:00:00 AM,02/01/2012 12:00:00 AM,Departure,International,Charter,374
+05/01/2014 12:00:00 AM,02/01/2012 12:00:00 AM,Departure,International,Commuter,1536
+05/01/2014 12:00:00 AM,02/01/2012 12:00:00 AM,Departure,International,Scheduled Carriers,585528
+05/01/2014 12:00:00 AM,03/01/2012 12:00:00 AM,Arrival,Domestic,Charter,795
+05/01/2014 12:00:00 AM,03/01/2012 12:00:00 AM,Arrival,Domestic,Commuter,249042
+05/01/2014 12:00:00 AM,03/01/2012 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1678137
+05/01/2014 12:00:00 AM,03/01/2012 12:00:00 AM,Arrival,International,Charter,72
+05/01/2014 12:00:00 AM,03/01/2012 12:00:00 AM,Arrival,International,Commuter,1784
+05/01/2014 12:00:00 AM,03/01/2012 12:00:00 AM,Arrival,International,Scheduled Carriers,689762
+05/01/2014 12:00:00 AM,03/01/2012 12:00:00 AM,Departure,Domestic,Charter,863
+05/01/2014 12:00:00 AM,03/01/2012 12:00:00 AM,Departure,Domestic,Commuter,241069
+05/01/2014 12:00:00 AM,03/01/2012 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1710730
+05/01/2014 12:00:00 AM,03/01/2012 12:00:00 AM,Departure,International,Charter,72
+05/01/2014 12:00:00 AM,03/01/2012 12:00:00 AM,Departure,International,Commuter,1796
+05/01/2014 12:00:00 AM,03/01/2012 12:00:00 AM,Departure,International,Scheduled Carriers,678435
+05/01/2014 12:00:00 AM,04/01/2012 12:00:00 AM,Arrival,Domestic,Charter,708
+05/01/2014 12:00:00 AM,04/01/2012 12:00:00 AM,Arrival,Domestic,Commuter,235290
+05/01/2014 12:00:00 AM,04/01/2012 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1654033
+05/01/2014 12:00:00 AM,04/01/2012 12:00:00 AM,Arrival,International,Charter,309
+05/01/2014 12:00:00 AM,04/01/2012 12:00:00 AM,Arrival,International,Commuter,1654
+05/01/2014 12:00:00 AM,04/01/2012 12:00:00 AM,Arrival,International,Scheduled Carriers,700182
+05/01/2014 12:00:00 AM,04/01/2012 12:00:00 AM,Departure,Domestic,Charter,960
+05/01/2014 12:00:00 AM,04/01/2012 12:00:00 AM,Departure,Domestic,Commuter,227618
+05/01/2014 12:00:00 AM,04/01/2012 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1663899
+05/01/2014 12:00:00 AM,04/01/2012 12:00:00 AM,Departure,International,Charter,88
+05/01/2014 12:00:00 AM,04/01/2012 12:00:00 AM,Departure,International,Commuter,1845
+05/01/2014 12:00:00 AM,04/01/2012 12:00:00 AM,Departure,International,Scheduled Carriers,674542
+05/01/2014 12:00:00 AM,05/01/2012 12:00:00 AM,Arrival,Domestic,Charter,916
+05/01/2014 12:00:00 AM,05/01/2012 12:00:00 AM,Arrival,Domestic,Commuter,242624
+05/01/2014 12:00:00 AM,05/01/2012 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1751972
+05/01/2014 12:00:00 AM,05/01/2012 12:00:00 AM,Arrival,International,Charter,91
+05/01/2014 12:00:00 AM,05/01/2012 12:00:00 AM,Arrival,International,Commuter,1747
+05/01/2014 12:00:00 AM,05/01/2012 12:00:00 AM,Arrival,International,Scheduled Carriers,700701
+05/01/2014 12:00:00 AM,05/01/2012 12:00:00 AM,Departure,Domestic,Charter,797
+05/01/2014 12:00:00 AM,05/01/2012 12:00:00 AM,Departure,Domestic,Commuter,234008
+05/01/2014 12:00:00 AM,05/01/2012 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1740790
+05/01/2014 12:00:00 AM,05/01/2012 12:00:00 AM,Departure,International,Charter,103
+05/01/2014 12:00:00 AM,05/01/2012 12:00:00 AM,Departure,International,Commuter,1945
+05/01/2014 12:00:00 AM,05/01/2012 12:00:00 AM,Departure,International,Scheduled Carriers,737252
+05/01/2014 12:00:00 AM,06/01/2012 12:00:00 AM,Arrival,Domestic,Charter,216
+05/01/2014 12:00:00 AM,06/01/2012 12:00:00 AM,Arrival,Domestic,Commuter,249787
+05/01/2014 12:00:00 AM,06/01/2012 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1831039
+05/01/2014 12:00:00 AM,06/01/2012 12:00:00 AM,Arrival,International,Charter,24
+05/01/2014 12:00:00 AM,06/01/2012 12:00:00 AM,Arrival,International,Commuter,1694
+05/01/2014 12:00:00 AM,06/01/2012 12:00:00 AM,Arrival,International,Scheduled Carriers,759485
+05/01/2014 12:00:00 AM,06/01/2012 12:00:00 AM,Departure,Domestic,Charter,181
+05/01/2014 12:00:00 AM,06/01/2012 12:00:00 AM,Departure,Domestic,Commuter,248548
+05/01/2014 12:00:00 AM,06/01/2012 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1851601
+05/01/2014 12:00:00 AM,06/01/2012 12:00:00 AM,Departure,International,Charter,400
+05/01/2014 12:00:00 AM,06/01/2012 12:00:00 AM,Departure,International,Commuter,1777
+05/01/2014 12:00:00 AM,06/01/2012 12:00:00 AM,Departure,International,Scheduled Carriers,795152
+05/01/2014 12:00:00 AM,07/01/2012 12:00:00 AM,Arrival,Domestic,Charter,217
+05/01/2014 12:00:00 AM,07/01/2012 12:00:00 AM,Arrival,Domestic,Commuter,191753
+05/01/2014 12:00:00 AM,07/01/2012 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,2077521
+05/01/2014 12:00:00 AM,07/01/2012 12:00:00 AM,Arrival,International,Charter,348
+05/01/2014 12:00:00 AM,07/01/2012 12:00:00 AM,Arrival,International,Commuter,1858
+05/01/2014 12:00:00 AM,07/01/2012 12:00:00 AM,Arrival,International,Scheduled Carriers,847529
+05/01/2014 12:00:00 AM,07/01/2012 12:00:00 AM,Departure,Domestic,Charter,57
+05/01/2014 12:00:00 AM,07/01/2012 12:00:00 AM,Departure,Domestic,Commuter,188875
+05/01/2014 12:00:00 AM,07/01/2012 12:00:00 AM,Departure,Domestic,Scheduled Carriers,2047522
+05/01/2014 12:00:00 AM,07/01/2012 12:00:00 AM,Departure,International,Charter,49
+05/01/2014 12:00:00 AM,07/01/2012 12:00:00 AM,Departure,International,Commuter,1880
+05/01/2014 12:00:00 AM,07/01/2012 12:00:00 AM,Departure,International,Scheduled Carriers,832717
+05/01/2014 12:00:00 AM,08/01/2012 12:00:00 AM,Arrival,Domestic,Charter,387
+05/01/2014 12:00:00 AM,08/01/2012 12:00:00 AM,Arrival,Domestic,Commuter,181842
+05/01/2014 12:00:00 AM,08/01/2012 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,2025696
+05/01/2014 12:00:00 AM,08/01/2012 12:00:00 AM,Arrival,International,Charter,702
+05/01/2014 12:00:00 AM,08/01/2012 12:00:00 AM,Arrival,International,Commuter,1987
+05/01/2014 12:00:00 AM,08/01/2012 12:00:00 AM,Arrival,International,Scheduled Carriers,838976
+05/01/2014 12:00:00 AM,08/01/2012 12:00:00 AM,Departure,Domestic,Charter,263
+05/01/2014 12:00:00 AM,08/01/2012 12:00:00 AM,Departure,Domestic,Commuter,186630
+05/01/2014 12:00:00 AM,08/01/2012 12:00:00 AM,Departure,Domestic,Scheduled Carriers,2057246
+05/01/2014 12:00:00 AM,08/01/2012 12:00:00 AM,Departure,International,Charter,653
+05/01/2014 12:00:00 AM,08/01/2012 12:00:00 AM,Departure,International,Commuter,1961
+05/01/2014 12:00:00 AM,08/01/2012 12:00:00 AM,Departure,International,Scheduled Carriers,797002
+05/01/2014 12:00:00 AM,09/01/2012 12:00:00 AM,Arrival,Domestic,Charter,438
+05/01/2014 12:00:00 AM,09/01/2012 12:00:00 AM,Arrival,Domestic,Commuter,164263
+05/01/2014 12:00:00 AM,09/01/2012 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1652364
+05/01/2014 12:00:00 AM,09/01/2012 12:00:00 AM,Arrival,International,Charter,33
+05/01/2014 12:00:00 AM,09/01/2012 12:00:00 AM,Arrival,International,Commuter,1844
+05/01/2014 12:00:00 AM,09/01/2012 12:00:00 AM,Arrival,International,Scheduled Carriers,718367
+05/01/2014 12:00:00 AM,09/01/2012 12:00:00 AM,Departure,Domestic,Charter,626
+05/01/2014 12:00:00 AM,09/01/2012 12:00:00 AM,Departure,Domestic,Commuter,159792
+05/01/2014 12:00:00 AM,09/01/2012 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1657205
+05/01/2014 12:00:00 AM,09/01/2012 12:00:00 AM,Departure,International,Commuter,1713
+05/01/2014 12:00:00 AM,09/01/2012 12:00:00 AM,Departure,International,Scheduled Carriers,697612
+05/01/2014 12:00:00 AM,10/01/2012 12:00:00 AM,Arrival,Domestic,Charter,1136
+05/01/2014 12:00:00 AM,10/01/2012 12:00:00 AM,Arrival,Domestic,Commuter,173730
+05/01/2014 12:00:00 AM,10/01/2012 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1751045
+05/01/2014 12:00:00 AM,10/01/2012 12:00:00 AM,Arrival,International,Charter,59
+05/01/2014 12:00:00 AM,10/01/2012 12:00:00 AM,Arrival,International,Commuter,1760
+05/01/2014 12:00:00 AM,10/01/2012 12:00:00 AM,Arrival,International,Scheduled Carriers,670700
+05/01/2014 12:00:00 AM,10/01/2012 12:00:00 AM,Departure,Domestic,Charter,1512
+05/01/2014 12:00:00 AM,10/01/2012 12:00:00 AM,Departure,Domestic,Commuter,166696
+05/01/2014 12:00:00 AM,10/01/2012 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1708107
+05/01/2014 12:00:00 AM,10/01/2012 12:00:00 AM,Departure,International,Commuter,1898
+05/01/2014 12:00:00 AM,10/01/2012 12:00:00 AM,Departure,International,Scheduled Carriers,714828
+05/01/2014 12:00:00 AM,11/01/2012 12:00:00 AM,Arrival,Domestic,Charter,856
+05/01/2014 12:00:00 AM,11/01/2012 12:00:00 AM,Arrival,Domestic,Commuter,136988
+05/01/2014 12:00:00 AM,11/01/2012 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1692944
+05/01/2014 12:00:00 AM,11/01/2012 12:00:00 AM,Arrival,International,Charter,235
+05/01/2014 12:00:00 AM,11/01/2012 12:00:00 AM,Arrival,International,Commuter,1584
+05/01/2014 12:00:00 AM,11/01/2012 12:00:00 AM,Arrival,International,Scheduled Carriers,630175
+05/01/2014 12:00:00 AM,11/01/2012 12:00:00 AM,Departure,Domestic,Charter,1012
+05/01/2014 12:00:00 AM,11/01/2012 12:00:00 AM,Departure,Domestic,Commuter,133539
+05/01/2014 12:00:00 AM,11/01/2012 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1701271
+05/01/2014 12:00:00 AM,11/01/2012 12:00:00 AM,Departure,International,Charter,499
+05/01/2014 12:00:00 AM,11/01/2012 12:00:00 AM,Departure,International,Commuter,1746
+05/01/2014 12:00:00 AM,11/01/2012 12:00:00 AM,Departure,International,Scheduled Carriers,642824
+05/01/2014 12:00:00 AM,12/01/2012 12:00:00 AM,Arrival,Domestic,Charter,2607
+05/01/2014 12:00:00 AM,12/01/2012 12:00:00 AM,Arrival,Domestic,Commuter,122435
+05/01/2014 12:00:00 AM,12/01/2012 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1802227
+05/01/2014 12:00:00 AM,12/01/2012 12:00:00 AM,Arrival,International,Charter,532
+05/01/2014 12:00:00 AM,12/01/2012 12:00:00 AM,Arrival,International,Commuter,2257
+05/01/2014 12:00:00 AM,12/01/2012 12:00:00 AM,Arrival,International,Scheduled Carriers,689758
+05/01/2014 12:00:00 AM,12/01/2012 12:00:00 AM,Departure,Domestic,Charter,1344
+05/01/2014 12:00:00 AM,12/01/2012 12:00:00 AM,Departure,Domestic,Commuter,121010
+05/01/2014 12:00:00 AM,12/01/2012 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1814161
+05/01/2014 12:00:00 AM,12/01/2012 12:00:00 AM,Departure,International,Charter,66
+05/01/2014 12:00:00 AM,12/01/2012 12:00:00 AM,Departure,International,Commuter,2489
+05/01/2014 12:00:00 AM,12/01/2012 12:00:00 AM,Departure,International,Scheduled Carriers,719627
+05/01/2014 12:00:00 AM,01/01/2013 12:00:00 AM,Arrival,Domestic,Charter,909
+05/01/2014 12:00:00 AM,01/01/2013 12:00:00 AM,Arrival,Domestic,Commuter,118430
+05/01/2014 12:00:00 AM,01/01/2013 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1695195
+05/01/2014 12:00:00 AM,01/01/2013 12:00:00 AM,Arrival,International,Charter,1480
+05/01/2014 12:00:00 AM,01/01/2013 12:00:00 AM,Arrival,International,Commuter,3522
+05/01/2014 12:00:00 AM,01/01/2013 12:00:00 AM,Arrival,International,Scheduled Carriers,715882
+05/01/2014 12:00:00 AM,01/01/2013 12:00:00 AM,Departure,Domestic,Charter,2756
+05/01/2014 12:00:00 AM,01/01/2013 12:00:00 AM,Departure,Domestic,Commuter,117463
+05/01/2014 12:00:00 AM,01/01/2013 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1696341
+05/01/2014 12:00:00 AM,01/01/2013 12:00:00 AM,Departure,International,Charter,1410
+05/01/2014 12:00:00 AM,01/01/2013 12:00:00 AM,Departure,International,Commuter,2949
+05/01/2014 12:00:00 AM,01/01/2013 12:00:00 AM,Departure,International,Scheduled Carriers,694399
+05/01/2014 12:00:00 AM,02/01/2013 12:00:00 AM,Arrival,Domestic,Charter,582
+05/01/2014 12:00:00 AM,02/01/2013 12:00:00 AM,Arrival,Domestic,Commuter,104042
+05/01/2014 12:00:00 AM,02/01/2013 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1539023
+05/01/2014 12:00:00 AM,02/01/2013 12:00:00 AM,Arrival,International,Charter,650
+05/01/2014 12:00:00 AM,02/01/2013 12:00:00 AM,Arrival,International,Commuter,3432
+05/01/2014 12:00:00 AM,02/01/2013 12:00:00 AM,Arrival,International,Scheduled Carriers,582229
+05/01/2014 12:00:00 AM,02/01/2013 12:00:00 AM,Departure,Domestic,Charter,533
+05/01/2014 12:00:00 AM,02/01/2013 12:00:00 AM,Departure,Domestic,Commuter,104422
+05/01/2014 12:00:00 AM,02/01/2013 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1553095
+05/01/2014 12:00:00 AM,02/01/2013 12:00:00 AM,Departure,International,Charter,332
+05/01/2014 12:00:00 AM,02/01/2013 12:00:00 AM,Departure,International,Commuter,3323
+05/01/2014 12:00:00 AM,02/01/2013 12:00:00 AM,Departure,International,Scheduled Carriers,590628
+05/01/2014 12:00:00 AM,03/01/2013 12:00:00 AM,Arrival,Domestic,Charter,1273
+05/01/2014 12:00:00 AM,03/01/2013 12:00:00 AM,Arrival,Domestic,Commuter,125319
+05/01/2014 12:00:00 AM,03/01/2013 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1914833
+05/01/2014 12:00:00 AM,03/01/2013 12:00:00 AM,Arrival,International,Charter,62
+05/01/2014 12:00:00 AM,03/01/2013 12:00:00 AM,Arrival,International,Commuter,3679
+05/01/2014 12:00:00 AM,03/01/2013 12:00:00 AM,Arrival,International,Scheduled Carriers,709807
+05/01/2014 12:00:00 AM,03/01/2013 12:00:00 AM,Departure,Domestic,Charter,1544
+05/01/2014 12:00:00 AM,03/01/2013 12:00:00 AM,Departure,Domestic,Commuter,126001
+05/01/2014 12:00:00 AM,03/01/2013 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1967941
+05/01/2014 12:00:00 AM,03/01/2013 12:00:00 AM,Departure,International,Charter,77
+05/01/2014 12:00:00 AM,03/01/2013 12:00:00 AM,Departure,International,Commuter,3845
+05/01/2014 12:00:00 AM,03/01/2013 12:00:00 AM,Departure,International,Scheduled Carriers,691142
+05/01/2014 12:00:00 AM,04/01/2013 12:00:00 AM,Arrival,Domestic,Charter,985
+05/01/2014 12:00:00 AM,04/01/2013 12:00:00 AM,Arrival,Domestic,Commuter,108956
+05/01/2014 12:00:00 AM,04/01/2013 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1847075
+05/01/2014 12:00:00 AM,04/01/2013 12:00:00 AM,Arrival,International,Charter,1061
+05/01/2014 12:00:00 AM,04/01/2013 12:00:00 AM,Arrival,International,Commuter,3085
+05/01/2014 12:00:00 AM,04/01/2013 12:00:00 AM,Arrival,International,Scheduled Carriers,702417
+05/01/2014 12:00:00 AM,04/01/2013 12:00:00 AM,Departure,Domestic,Charter,966
+05/01/2014 12:00:00 AM,04/01/2013 12:00:00 AM,Departure,Domestic,Commuter,106382
+05/01/2014 12:00:00 AM,04/01/2013 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1863323
+05/01/2014 12:00:00 AM,04/01/2013 12:00:00 AM,Departure,International,Charter,858
+05/01/2014 12:00:00 AM,04/01/2013 12:00:00 AM,Departure,International,Commuter,3219
+05/01/2014 12:00:00 AM,04/01/2013 12:00:00 AM,Departure,International,Scheduled Carriers,672170
+05/01/2014 12:00:00 AM,05/01/2013 12:00:00 AM,Arrival,Domestic,Charter,278
+05/01/2014 12:00:00 AM,05/01/2013 12:00:00 AM,Arrival,Domestic,Commuter,120391
+05/01/2014 12:00:00 AM,05/01/2013 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1985417
+05/01/2014 12:00:00 AM,05/01/2013 12:00:00 AM,Arrival,International,Charter,7
+05/01/2014 12:00:00 AM,05/01/2013 12:00:00 AM,Arrival,International,Commuter,3036
+05/01/2014 12:00:00 AM,05/01/2013 12:00:00 AM,Arrival,International,Scheduled Carriers,727441
+05/01/2014 12:00:00 AM,05/01/2013 12:00:00 AM,Departure,Domestic,Charter,124
+05/01/2014 12:00:00 AM,05/01/2013 12:00:00 AM,Departure,Domestic,Commuter,119692
+05/01/2014 12:00:00 AM,05/01/2013 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1984912
+05/01/2014 12:00:00 AM,05/01/2013 12:00:00 AM,Departure,International,Charter,17
+05/01/2014 12:00:00 AM,05/01/2013 12:00:00 AM,Departure,International,Commuter,3418
+05/01/2014 12:00:00 AM,05/01/2013 12:00:00 AM,Departure,International,Scheduled Carriers,769223
+05/01/2014 12:00:00 AM,06/01/2013 12:00:00 AM,Arrival,Domestic,Charter,453
+05/01/2014 12:00:00 AM,06/01/2013 12:00:00 AM,Arrival,Domestic,Commuter,123227
+05/01/2014 12:00:00 AM,06/01/2013 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,2120312
+05/01/2014 12:00:00 AM,06/01/2013 12:00:00 AM,Arrival,International,Charter,236
+05/01/2014 12:00:00 AM,06/01/2013 12:00:00 AM,Arrival,International,Commuter,2761
+05/01/2014 12:00:00 AM,06/01/2013 12:00:00 AM,Arrival,International,Scheduled Carriers,790284
+05/01/2014 12:00:00 AM,06/01/2013 12:00:00 AM,Departure,Domestic,Charter,225
+05/01/2014 12:00:00 AM,06/01/2013 12:00:00 AM,Departure,Domestic,Commuter,122522
+05/01/2014 12:00:00 AM,06/01/2013 12:00:00 AM,Departure,Domestic,Scheduled Carriers,2140766
+05/01/2014 12:00:00 AM,06/01/2013 12:00:00 AM,Departure,International,Charter,347
+05/01/2014 12:00:00 AM,06/01/2013 12:00:00 AM,Departure,International,Commuter,2986
+05/01/2014 12:00:00 AM,06/01/2013 12:00:00 AM,Departure,International,Scheduled Carriers,810395
+05/01/2014 12:00:00 AM,07/01/2013 12:00:00 AM,Arrival,Domestic,Charter,285
+05/01/2014 12:00:00 AM,07/01/2013 12:00:00 AM,Arrival,Domestic,Commuter,135961
+05/01/2014 12:00:00 AM,07/01/2013 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,2225737
+05/01/2014 12:00:00 AM,07/01/2013 12:00:00 AM,Arrival,International,Charter,969
+05/01/2014 12:00:00 AM,07/01/2013 12:00:00 AM,Arrival,International,Commuter,4319
+05/01/2014 12:00:00 AM,07/01/2013 12:00:00 AM,Arrival,International,Scheduled Carriers,905092
+05/01/2014 12:00:00 AM,07/01/2013 12:00:00 AM,Departure,Domestic,Charter,339
+05/01/2014 12:00:00 AM,07/01/2013 12:00:00 AM,Departure,Domestic,Commuter,134865
+05/01/2014 12:00:00 AM,07/01/2013 12:00:00 AM,Departure,Domestic,Scheduled Carriers,2192555
+05/01/2014 12:00:00 AM,07/01/2013 12:00:00 AM,Departure,International,Charter,428
+05/01/2014 12:00:00 AM,07/01/2013 12:00:00 AM,Departure,International,Commuter,3575
+05/01/2014 12:00:00 AM,07/01/2013 12:00:00 AM,Departure,International,Scheduled Carriers,864853
+05/01/2014 12:00:00 AM,08/01/2013 12:00:00 AM,Arrival,Domestic,Charter,387
+05/01/2014 12:00:00 AM,08/01/2013 12:00:00 AM,Arrival,Domestic,Commuter,126598
+05/01/2014 12:00:00 AM,08/01/2013 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,2131004
+05/01/2014 12:00:00 AM,08/01/2013 12:00:00 AM,Arrival,International,Charter,794
+05/01/2014 12:00:00 AM,08/01/2013 12:00:00 AM,Arrival,International,Commuter,3666
+05/01/2014 12:00:00 AM,08/01/2013 12:00:00 AM,Arrival,International,Scheduled Carriers,894524
+05/01/2014 12:00:00 AM,08/01/2013 12:00:00 AM,Departure,Domestic,Charter,479
+05/01/2014 12:00:00 AM,08/01/2013 12:00:00 AM,Departure,Domestic,Commuter,131697
+05/01/2014 12:00:00 AM,08/01/2013 12:00:00 AM,Departure,Domestic,Scheduled Carriers,2181620
+05/01/2014 12:00:00 AM,08/01/2013 12:00:00 AM,Departure,International,Charter,659
+05/01/2014 12:00:00 AM,08/01/2013 12:00:00 AM,Departure,International,Commuter,3753
+05/01/2014 12:00:00 AM,08/01/2013 12:00:00 AM,Departure,International,Scheduled Carriers,854987
+05/01/2014 12:00:00 AM,09/01/2013 12:00:00 AM,Arrival,Domestic,Charter,1055
+05/01/2014 12:00:00 AM,09/01/2013 12:00:00 AM,Arrival,Domestic,Commuter,111573
+05/01/2014 12:00:00 AM,09/01/2013 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1796040
+05/01/2014 12:00:00 AM,09/01/2013 12:00:00 AM,Arrival,International,Charter,647
+05/01/2014 12:00:00 AM,09/01/2013 12:00:00 AM,Arrival,International,Commuter,3610
+05/01/2014 12:00:00 AM,09/01/2013 12:00:00 AM,Arrival,International,Scheduled Carriers,750849
+05/01/2014 12:00:00 AM,09/01/2013 12:00:00 AM,Departure,Domestic,Charter,958
+05/01/2014 12:00:00 AM,09/01/2013 12:00:00 AM,Departure,Domestic,Commuter,108577
+05/01/2014 12:00:00 AM,09/01/2013 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1797224
+05/01/2014 12:00:00 AM,09/01/2013 12:00:00 AM,Departure,International,Charter,544
+05/01/2014 12:00:00 AM,09/01/2013 12:00:00 AM,Departure,International,Commuter,3314
+05/01/2014 12:00:00 AM,09/01/2013 12:00:00 AM,Departure,International,Scheduled Carriers,733862
+05/01/2014 12:00:00 AM,10/01/2013 12:00:00 AM,Arrival,Domestic,Charter,955
+05/01/2014 12:00:00 AM,10/01/2013 12:00:00 AM,Arrival,Domestic,Commuter,116179
+05/01/2014 12:00:00 AM,10/01/2013 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1934444
+05/01/2014 12:00:00 AM,10/01/2013 12:00:00 AM,Arrival,International,Charter,359
+05/01/2014 12:00:00 AM,10/01/2013 12:00:00 AM,Arrival,International,Commuter,3426
+05/01/2014 12:00:00 AM,10/01/2013 12:00:00 AM,Arrival,International,Scheduled Carriers,701023
+05/01/2014 12:00:00 AM,10/01/2013 12:00:00 AM,Departure,Domestic,Charter,1508
+05/01/2014 12:00:00 AM,10/01/2013 12:00:00 AM,Departure,Domestic,Commuter,112762
+05/01/2014 12:00:00 AM,10/01/2013 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1880844
+05/01/2014 12:00:00 AM,10/01/2013 12:00:00 AM,Departure,International,Charter,162
+05/01/2014 12:00:00 AM,10/01/2013 12:00:00 AM,Departure,International,Commuter,3367
+05/01/2014 12:00:00 AM,10/01/2013 12:00:00 AM,Departure,International,Scheduled Carriers,760776
+05/01/2014 12:00:00 AM,11/01/2013 12:00:00 AM,Arrival,Domestic,Charter,1607
+05/01/2014 12:00:00 AM,11/01/2013 12:00:00 AM,Arrival,Domestic,Commuter,111272
+05/01/2014 12:00:00 AM,11/01/2013 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1743492
+05/01/2014 12:00:00 AM,11/01/2013 12:00:00 AM,Arrival,International,Charter,241
+05/01/2014 12:00:00 AM,11/01/2013 12:00:00 AM,Arrival,International,Commuter,3331
+05/01/2014 12:00:00 AM,11/01/2013 12:00:00 AM,Arrival,International,Scheduled Carriers,657470
+05/01/2014 12:00:00 AM,11/01/2013 12:00:00 AM,Departure,Domestic,Charter,1544
+05/01/2014 12:00:00 AM,11/01/2013 12:00:00 AM,Departure,Domestic,Commuter,108840
+05/01/2014 12:00:00 AM,11/01/2013 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1750317
+05/01/2014 12:00:00 AM,11/01/2013 12:00:00 AM,Departure,International,Charter,161
+05/01/2014 12:00:00 AM,11/01/2013 12:00:00 AM,Departure,International,Commuter,3415
+05/01/2014 12:00:00 AM,11/01/2013 12:00:00 AM,Departure,International,Scheduled Carriers,675315
+05/01/2014 12:00:00 AM,12/01/2013 12:00:00 AM,Arrival,Domestic,Charter,4943
+05/01/2014 12:00:00 AM,12/01/2013 12:00:00 AM,Arrival,Domestic,Commuter,135090
+05/01/2014 12:00:00 AM,12/01/2013 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,2023036
+05/01/2014 12:00:00 AM,12/01/2013 12:00:00 AM,Arrival,International,Charter,29
+05/01/2014 12:00:00 AM,12/01/2013 12:00:00 AM,Arrival,International,Commuter,3540
+05/01/2014 12:00:00 AM,12/01/2013 12:00:00 AM,Arrival,International,Scheduled Carriers,740841
+05/01/2014 12:00:00 AM,12/01/2013 12:00:00 AM,Departure,Domestic,Charter,1326
+05/01/2014 12:00:00 AM,12/01/2013 12:00:00 AM,Departure,Domestic,Commuter,129771
+05/01/2014 12:00:00 AM,12/01/2013 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1964926
+05/01/2014 12:00:00 AM,12/01/2013 12:00:00 AM,Departure,International,Charter,176
+05/01/2014 12:00:00 AM,12/01/2013 12:00:00 AM,Departure,International,Commuter,3708
+05/01/2014 12:00:00 AM,12/01/2013 12:00:00 AM,Departure,International,Scheduled Carriers,762545
+05/01/2014 12:00:00 AM,01/01/2014 12:00:00 AM,Arrival,Domestic,Charter,4718
+05/01/2014 12:00:00 AM,01/01/2014 12:00:00 AM,Arrival,Domestic,Commuter,115841
+05/01/2014 12:00:00 AM,01/01/2014 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1823193
+05/01/2014 12:00:00 AM,01/01/2014 12:00:00 AM,Arrival,International,Charter,266
+05/01/2014 12:00:00 AM,01/01/2014 12:00:00 AM,Arrival,International,Commuter,3500
+05/01/2014 12:00:00 AM,01/01/2014 12:00:00 AM,Arrival,International,Scheduled Carriers,781739
+05/01/2014 12:00:00 AM,01/01/2014 12:00:00 AM,Departure,Domestic,Charter,8476
+05/01/2014 12:00:00 AM,01/01/2014 12:00:00 AM,Departure,Domestic,Commuter,115003
+05/01/2014 12:00:00 AM,01/01/2014 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1810439
+05/01/2014 12:00:00 AM,01/01/2014 12:00:00 AM,Departure,International,Commuter,3423
+05/01/2014 12:00:00 AM,01/01/2014 12:00:00 AM,Departure,International,Scheduled Carriers,753019
+05/01/2014 12:00:00 AM,02/01/2014 12:00:00 AM,Arrival,Domestic,Charter,780
+05/01/2014 12:00:00 AM,02/01/2014 12:00:00 AM,Arrival,Domestic,Commuter,113831
+05/01/2014 12:00:00 AM,02/01/2014 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1630255
+05/01/2014 12:00:00 AM,02/01/2014 12:00:00 AM,Arrival,International,Charter,447
+05/01/2014 12:00:00 AM,02/01/2014 12:00:00 AM,Arrival,International,Commuter,3500
+05/01/2014 12:00:00 AM,02/01/2014 12:00:00 AM,Arrival,International,Scheduled Carriers,630181
+05/01/2014 12:00:00 AM,02/01/2014 12:00:00 AM,Departure,Domestic,Charter,719
+05/01/2014 12:00:00 AM,02/01/2014 12:00:00 AM,Departure,Domestic,Commuter,113639
+05/01/2014 12:00:00 AM,02/01/2014 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1624471
+05/01/2014 12:00:00 AM,02/01/2014 12:00:00 AM,Departure,International,Charter,54
+05/01/2014 12:00:00 AM,02/01/2014 12:00:00 AM,Departure,International,Commuter,3423
+05/01/2014 12:00:00 AM,02/01/2014 12:00:00 AM,Departure,International,Scheduled Carriers,644684
+05/01/2014 12:00:00 AM,03/01/2014 12:00:00 AM,Arrival,Domestic,Charter,2120
+05/01/2014 12:00:00 AM,03/01/2014 12:00:00 AM,Arrival,Domestic,Commuter,129405
+05/01/2014 12:00:00 AM,03/01/2014 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1990447
+05/01/2014 12:00:00 AM,03/01/2014 12:00:00 AM,Arrival,International,Charter,540
+05/01/2014 12:00:00 AM,03/01/2014 12:00:00 AM,Arrival,International,Commuter,3679
+05/01/2014 12:00:00 AM,03/01/2014 12:00:00 AM,Arrival,International,Scheduled Carriers,752872
+05/01/2014 12:00:00 AM,03/01/2014 12:00:00 AM,Departure,Domestic,Charter,1682
+05/01/2014 12:00:00 AM,03/01/2014 12:00:00 AM,Departure,Domestic,Commuter,125692
+05/01/2014 12:00:00 AM,03/01/2014 12:00:00 AM,Departure,Domestic,Scheduled Carriers,2029081
+05/01/2014 12:00:00 AM,03/01/2014 12:00:00 AM,Departure,International,Charter,597
+05/01/2014 12:00:00 AM,03/01/2014 12:00:00 AM,Departure,International,Commuter,3920
+05/01/2014 12:00:00 AM,03/01/2014 12:00:00 AM,Departure,International,Scheduled Carriers,745059
+07/18/2014 12:00:00 AM,04/01/2014 12:00:00 AM,Arrival,Domestic,Charter,1131
+07/18/2014 12:00:00 AM,04/01/2014 12:00:00 AM,Arrival,Domestic,Commuter,118787
+07/18/2014 12:00:00 AM,04/01/2014 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,2006194
+07/18/2014 12:00:00 AM,04/01/2014 12:00:00 AM,Arrival,International,Charter,310
+07/18/2014 12:00:00 AM,04/01/2014 12:00:00 AM,Arrival,International,Commuter,3422
+07/18/2014 12:00:00 AM,04/01/2014 12:00:00 AM,Arrival,International,Scheduled Carriers,784550
+07/18/2014 12:00:00 AM,04/01/2014 12:00:00 AM,Departure,Domestic,Charter,1178
+07/18/2014 12:00:00 AM,04/01/2014 12:00:00 AM,Departure,Domestic,Commuter,118222
+07/18/2014 12:00:00 AM,04/01/2014 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1984929
+07/18/2014 12:00:00 AM,04/01/2014 12:00:00 AM,Departure,International,Charter,103
+07/18/2014 12:00:00 AM,04/01/2014 12:00:00 AM,Departure,International,Commuter,3755
+07/18/2014 12:00:00 AM,04/01/2014 12:00:00 AM,Departure,International,Scheduled Carriers,737556
+07/18/2014 12:00:00 AM,05/01/2014 12:00:00 AM,Arrival,Domestic,Charter,480
+07/18/2014 12:00:00 AM,05/01/2014 12:00:00 AM,Arrival,Domestic,Commuter,126615
+07/18/2014 12:00:00 AM,05/01/2014 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,2092487
+07/18/2014 12:00:00 AM,05/01/2014 12:00:00 AM,Arrival,International,Charter,6
+07/18/2014 12:00:00 AM,05/01/2014 12:00:00 AM,Arrival,International,Commuter,3151
+07/18/2014 12:00:00 AM,05/01/2014 12:00:00 AM,Arrival,International,Scheduled Carriers,808072
+07/18/2014 12:00:00 AM,05/01/2014 12:00:00 AM,Departure,Domestic,Charter,423
+07/18/2014 12:00:00 AM,05/01/2014 12:00:00 AM,Departure,Domestic,Commuter,119242
+07/18/2014 12:00:00 AM,05/01/2014 12:00:00 AM,Departure,Domestic,Scheduled Carriers,2087363
+07/18/2014 12:00:00 AM,05/01/2014 12:00:00 AM,Departure,International,Commuter,3786
+07/18/2014 12:00:00 AM,05/01/2014 12:00:00 AM,Departure,International,Scheduled Carriers,839384
+08/15/2014 09:39:18 AM,06/01/2014 12:00:00 AM,Arrival,Domestic,Charter,540
+08/15/2014 09:39:18 AM,06/01/2014 12:00:00 AM,Arrival,Domestic,Commuter,118432
+08/15/2014 09:39:18 AM,06/01/2014 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,2270047
+08/15/2014 09:39:18 AM,06/01/2014 12:00:00 AM,Arrival,International,Charter,12
+08/15/2014 09:39:18 AM,06/01/2014 12:00:00 AM,Arrival,International,Commuter,2737
+08/15/2014 09:39:18 AM,06/01/2014 12:00:00 AM,Arrival,International,Scheduled Carriers,853553
+08/15/2014 09:39:18 AM,06/01/2014 12:00:00 AM,Departure,Domestic,Charter,491
+08/15/2014 09:39:18 AM,06/01/2014 12:00:00 AM,Departure,Domestic,Commuter,117059
+08/15/2014 09:39:18 AM,06/01/2014 12:00:00 AM,Departure,Domestic,Scheduled Carriers,2259281
+08/15/2014 09:39:18 AM,06/01/2014 12:00:00 AM,Departure,International,Commuter,3450
+08/15/2014 09:39:18 AM,06/01/2014 12:00:00 AM,Departure,International,Scheduled Carriers,898445
+09/15/2014 07:00:09 AM,07/01/2014 12:00:00 AM,Arrival,Domestic,Charter,209
+09/15/2014 07:00:09 AM,07/01/2014 12:00:00 AM,Arrival,Domestic,Commuter,122400
+09/15/2014 07:00:09 AM,07/01/2014 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,2392278
+09/15/2014 07:00:09 AM,07/01/2014 12:00:00 AM,Arrival,International,Charter,125
+09/15/2014 07:00:09 AM,07/01/2014 12:00:00 AM,Arrival,International,Commuter,2737
+09/15/2014 07:00:09 AM,07/01/2014 12:00:00 AM,Arrival,International,Scheduled Carriers,959037
+09/15/2014 07:00:09 AM,07/01/2014 12:00:00 AM,Departure,Domestic,Charter,483
+09/15/2014 07:00:09 AM,07/01/2014 12:00:00 AM,Departure,Domestic,Commuter,119811
+09/15/2014 07:00:09 AM,07/01/2014 12:00:00 AM,Departure,Domestic,Scheduled Carriers,2361325
+09/15/2014 07:00:09 AM,07/01/2014 12:00:00 AM,Departure,International,Commuter,3450
+09/15/2014 07:00:09 AM,07/01/2014 12:00:00 AM,Departure,International,Scheduled Carriers,910222
+10/15/2014 08:00:09 AM,08/01/2014 12:00:00 AM,Arrival,Domestic,Charter,206
+10/15/2014 08:00:09 AM,08/01/2014 12:00:00 AM,Arrival,Domestic,Commuter,104273
+10/15/2014 08:00:09 AM,08/01/2014 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,2276993
+10/15/2014 08:00:09 AM,08/01/2014 12:00:00 AM,Arrival,International,Charter,16
+10/15/2014 08:00:09 AM,08/01/2014 12:00:00 AM,Arrival,International,Commuter,2737
+10/15/2014 08:00:09 AM,08/01/2014 12:00:00 AM,Arrival,International,Scheduled Carriers,947099
+10/15/2014 08:00:09 AM,08/01/2014 12:00:00 AM,Departure,Domestic,Charter,379
+10/15/2014 08:00:09 AM,08/01/2014 12:00:00 AM,Departure,Domestic,Commuter,103444
+10/15/2014 08:00:09 AM,08/01/2014 12:00:00 AM,Departure,Domestic,Scheduled Carriers,2350518
+10/15/2014 08:00:09 AM,08/01/2014 12:00:00 AM,Departure,International,Commuter,3450
+10/15/2014 08:00:09 AM,08/01/2014 12:00:00 AM,Departure,International,Scheduled Carriers,928525
+11/15/2014 08:00:12 AM,09/01/2014 12:00:00 AM,Arrival,Domestic,Charter,614
+11/15/2014 08:00:12 AM,09/01/2014 12:00:00 AM,Arrival,Domestic,Commuter,84540
+11/15/2014 08:00:12 AM,09/01/2014 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1933296
+11/15/2014 08:00:12 AM,09/01/2014 12:00:00 AM,Arrival,International,Charter,362
+11/15/2014 08:00:12 AM,09/01/2014 12:00:00 AM,Arrival,International,Commuter,2935
+11/15/2014 08:00:12 AM,09/01/2014 12:00:00 AM,Arrival,International,Scheduled Carriers,772216
+11/15/2014 08:00:12 AM,09/01/2014 12:00:00 AM,Departure,Domestic,Charter,711
+11/15/2014 08:00:12 AM,09/01/2014 12:00:00 AM,Departure,Domestic,Commuter,82209
+11/15/2014 08:00:12 AM,09/01/2014 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1934453
+11/15/2014 08:00:12 AM,09/01/2014 12:00:00 AM,Departure,International,Charter,10
+11/15/2014 08:00:12 AM,09/01/2014 12:00:00 AM,Departure,International,Commuter,2918
+11/15/2014 08:00:12 AM,09/01/2014 12:00:00 AM,Departure,International,Scheduled Carriers,759196

@@ -1,0 +1,61 @@
+Fiscal Year,Direct/Overlapping,Tax Type,Rate
+2004,Direct,Basic Rate,1
+2005,Direct,Basic Rate,1
+2006,Direct,Basic Rate,1
+2007,Direct,Basic Rate,1
+2008,Direct,Basic Rate,1
+2009,Direct,Basic Rate,1
+2010,Direct,Basic Rate,1
+2011,Direct,Basic Rate,1
+2012,Direct,Basic Rate,1
+2013,Direct,Basic Rate,1
+2004,Direct,General Obligation Debt Service,0.050574
+2005,Direct,General Obligation Debt Service,0.055733
+2006,Direct,General Obligation Debt Service,0.051289
+2007,Direct,General Obligation Debt Service,0.045354
+2008,Direct,General Obligation Debt Service,0.038051
+2009,Direct,General Obligation Debt Service,0.038541
+2010,Direct,General Obligation Debt Service,0.04122
+2011,Direct,General Obligation Debt Service,0.038895
+2012,Direct,General Obligation Debt Service,0.038666
+2013,Direct,General Obligation Debt Service,0.037694
+2004,Overlapping,Los Angeles County,0.000992
+2005,Overlapping,Los Angeles County,0.000923
+2006,Overlapping,Los Angeles County,0.000795
+2007,Overlapping,Los Angeles County,0.000663
+2008,Overlapping,Los Angeles County,0
+2009,Overlapping,Los Angeles County,0.14173
+2010,Overlapping,Los Angeles County,0
+2011,Overlapping,Los Angeles County,0
+2012,Overlapping,Los Angeles County,0
+2013,Overlapping,Los Angeles County,0
+2004,Overlapping,L.A. Unified School District,0.077145
+2005,Overlapping,L.A. Unified School District,0.088839
+2006,Overlapping,L.A. Unified School District,0.084346
+2007,Overlapping,L.A. Unified School District,0.106735
+2008,Overlapping,L.A. Unified School District,0.123302
+2009,Overlapping,L.A. Unified School District,0.124724
+2010,Overlapping,L.A. Unified School District,0.151809
+2011,Overlapping,L.A. Unified School District,0.186954
+2012,Overlapping,L.A. Unified School District,0.168187
+2013,Overlapping,L.A. Unified School District,0.171756
+2004,Overlapping,L.A. Unified Flood Control District,0.000462
+2005,Overlapping,L.A. Unified Flood Control District,0.000245
+2006,Overlapping,L.A. Unified Flood Control District,0.000049
+2007,Overlapping,L.A. Unified Flood Control District,0.000052
+2008,Overlapping,L.A. Unified Flood Control District,0
+2009,Overlapping,L.A. Unified Flood Control District,0
+2010,Overlapping,L.A. Unified Flood Control District,0
+2011,Overlapping,L.A. Unified Flood Control District,0
+2012,Overlapping,L.A. Unified Flood Control District,0
+2013,Overlapping,L.A. Unified Flood Control District,0
+2004,Overlapping,Metropolitan Water District,
+2005,Overlapping,Metropolitan Water District,
+2006,Overlapping,Metropolitan Water District,
+2007,Overlapping,Metropolitan Water District,
+2008,Overlapping,Metropolitan Water District,
+2009,Overlapping,Metropolitan Water District,
+2010,Overlapping,Metropolitan Water District,
+2011,Overlapping,Metropolitan Water District,
+2012,Overlapping,Metropolitan Water District,
+2013,Overlapping,Metropolitan Water District,

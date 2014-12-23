@@ -1,0 +1,551 @@
+Fiscal Year,Function/Program,Asset,Amount
+2013,General Government,Fiber optic cabling (fiber miles)(1),150
+2013,Wastewater,Stormdrain pipe mainline (miles),1200
+2013,Wastewater,Sanitary sewers (miles),6700
+2013,Water ,Service connections,702485
+2013,Water ,Distribution pipe (miles),7246
+2013,Water ,Number of storage reservoirs and tanks,114
+2013,Water ,Aqueduct (miles),472
+2013,Power,Underground distribution lines (miles),3561
+2013,Power,Overhead distribution lines (miles),10220
+2013,Power,Transmission lines (miles),3632
+2013,Power,Number of generating units(2),242
+2013,Harbor,Number of cargo terminals,24
+2013,Harbor,Number of major container terminals,8
+2013,Airports,Number of airports,3
+2013,Cultural and Recreational Services,Wedding sites,19
+2013,Cultural and Recreational Services,Therapeutic centers,
+2013,Cultural and Recreational Services,Tennis courts,321
+2013,Cultural and Recreational Services,Skate parks ,21
+2013,Cultural and Recreational Services,Senior citizen centers,31
+2013,Cultural and Recreational Services,Residential camps,9
+2013,Cultural and Recreational Services,Regional parks,5
+2013,Cultural and Recreational Services,Recreational centers,184
+2013,Cultural and Recreational Services,Pools,62
+2013,Cultural and Recreational Services,Park sites,435
+2013,Cultural and Recreational Services,Museums,12
+2013,Cultural and Recreational Services,Licensed child-care centers,2
+2013,Cultural and Recreational Services,Libraries,73
+2013,Cultural and Recreational Services,Lakes,13
+2013,Cultural and Recreational Services,Indoor gyms,95
+2013,Cultural and Recreational Services,Horticulture centers,6
+2013,Cultural and Recreational Services,Historical sites,11
+2013,Cultural and Recreational Services,Hiking trails (miles),92
+2013,Cultural and Recreational Services,Golf courses,13
+2013,Cultural and Recreational Services,Dog parks,9
+2013,Cultural and Recreational Services,Children's play areas,383
+2013,Cultural and Recreational Services,Baseball/softball diamonds,256
+2013,Cultural and Recreational Services,Archery ranges,3
+2013,Cultural and Recreational Services,Acres park land (incl. beaches),16001
+2013,Cultural and Recreational Services,Acres of beach land,232
+2013,Transportation,Traffic signals,4657
+2013,Transportation,Commuter buses,371
+2013,Transportation,Bike paths,14
+2013,Transportation,Automated traffic signal and control systems,48
+2013,Health and Sanitation,Refuse yards,7
+2013,Health and Sanitation,Refuse collection trucks,750
+2013,Public Works,Streets (miles),6500
+2013,Public Works,Street lights,207384
+2013,Public Works,Bridges,514
+2013,Protection of Persons and Property,Police training centers,3
+2013,Protection of Persons and Property,Police stations,29
+2013,Protection of Persons and Property,Patrol units,1374
+2013,Protection of Persons and Property,Fire trucks,367
+2013,Protection of Persons and Property,Fire stations,106
+2013,Protection of Persons and Property,Animal shelters,6
+2013,General Government,Public office buildings,18
+2012,Cultural and Recreational Services,Indoor gyms,95
+2012,Wastewater,Stormdrain pipe mainline (miles),1200
+2012,Wastewater,Sanitary sewers (miles),6700
+2012,Water ,Service connections,701644
+2012,Water ,Distribution pipe (miles),7225
+2012,Water ,Number of storage reservoirs and tanks,114
+2012,Water ,Aqueduct (miles),472
+2012,Power,Underground distribution lines (miles),3594
+2012,Power,Overhead distribution lines (miles),10220
+2012,Power,Transmission lines (miles),3626
+2012,Power,Number of generating units(2),235
+2012,Harbor,Number of cargo terminals,24
+2012,Harbor,Number of major container terminals,8
+2012,Airports,Number of airports,4
+2012,Cultural and Recreational Services,Wedding sites,19
+2012,Cultural and Recreational Services,Therapeutic centers,
+2012,Cultural and Recreational Services,Tennis courts,321
+2012,Cultural and Recreational Services,Skate parks ,18
+2012,Cultural and Recreational Services,Senior citizen centers,31
+2012,Cultural and Recreational Services,Residential camps,7
+2012,Cultural and Recreational Services,Regional parks,5
+2012,Cultural and Recreational Services,Recreational centers,184
+2012,Cultural and Recreational Services,Pools,61
+2012,Cultural and Recreational Services,Park sites,427
+2012,Cultural and Recreational Services,Museums,12
+2012,Cultural and Recreational Services,Licensed child-care centers,2
+2012,Cultural and Recreational Services,Libraries,73
+2012,Cultural and Recreational Services,Lakes,11
+2012,Cultural and Recreational Services,Horticulture centers,6
+2012,Cultural and Recreational Services,Historical sites,11
+2012,Cultural and Recreational Services,Hiking trails (miles),92
+2012,Cultural and Recreational Services,Golf courses,13
+2012,Cultural and Recreational Services,Dog parks,9
+2012,Cultural and Recreational Services,Children's play areas,368
+2012,Cultural and Recreational Services,Baseball/softball diamonds,256
+2012,Cultural and Recreational Services,Archery ranges,3
+2012,Cultural and Recreational Services,Acres park land (incl. beaches),15865
+2012,Cultural and Recreational Services,Acres of beach land,232
+2012,Transportation,Traffic signals,4625
+2012,Transportation,Commuter buses,361
+2012,Transportation,Bike paths,13
+2012,Transportation,Automated traffic signal and control systems,48
+2012,Health and Sanitation,Refuse yards,7
+2012,Health and Sanitation,Refuse collection trucks,750
+2012,Public Works,Streets (miles),6500
+2012,Public Works,Street lights,206757
+2012,Public Works,Bridges,508
+2012,Protection of Persons and Property,Police training centers,3
+2012,Protection of Persons and Property,Police stations,29
+2012,Protection of Persons and Property,Patrol units,1374
+2012,Protection of Persons and Property,Fire trucks,337
+2012,Protection of Persons and Property,Fire stations,106
+2012,Protection of Persons and Property,Animal shelters,6
+2012,General Government,Public office buildings,18
+2012,General Government,Fiber optic cabling (fiber miles)(1),150
+2011,Cultural and Recreational Services,Libraries,73
+2011,Wastewater,Stormdrain pipe mainline (miles),1200
+2011,Wastewater,Sanitary sewers (miles),6700
+2011,Water ,Service connections,719154
+2011,Water ,Distribution pipe (miles),7221
+2011,Water ,Number of storage reservoirs and tanks,114
+2011,Water ,Aqueduct (miles),472
+2011,Power,Underground distribution lines (miles),3547
+2011,Power,Overhead distribution lines (miles),10186
+2011,Power,Transmission lines (miles),3626
+2011,Power,Number of generating units(2),235
+2011,Harbor,Number of cargo terminals,24
+2011,Harbor,Number of major container terminals,8
+2011,Airports,Number of airports,4
+2011,Cultural and Recreational Services,Wedding sites,12
+2011,Cultural and Recreational Services,Therapeutic centers,
+2011,Cultural and Recreational Services,Tennis courts,321
+2011,Cultural and Recreational Services,Skate parks ,9
+2011,Cultural and Recreational Services,Senior citizen centers,31
+2011,Cultural and Recreational Services,Residential camps,7
+2011,Cultural and Recreational Services,Regional parks,5
+2011,Cultural and Recreational Services,Recreational centers,184
+2011,Cultural and Recreational Services,Pools,61
+2011,Cultural and Recreational Services,Park sites,427
+2011,Cultural and Recreational Services,Museums,12
+2011,Cultural and Recreational Services,Licensed child-care centers,2
+2011,Cultural and Recreational Services,Lakes,11
+2011,Cultural and Recreational Services,Indoor gyms,95
+2011,Cultural and Recreational Services,Horticulture centers,6
+2011,Cultural and Recreational Services,Historical sites,11
+2011,Cultural and Recreational Services,Hiking trails (miles),92
+2011,Cultural and Recreational Services,Golf courses,13
+2011,Cultural and Recreational Services,Dog parks,9
+2011,Cultural and Recreational Services,Children's play areas,368
+2011,Cultural and Recreational Services,Baseball/softball diamonds,256
+2011,Cultural and Recreational Services,Archery ranges,3
+2011,Cultural and Recreational Services,Acres park land (incl. beaches),15717
+2011,Cultural and Recreational Services,Acres of beach land,232
+2011,Transportation,Traffic signals,4607
+2011,Transportation,Commuter buses,407
+2011,Transportation,Bike paths,13
+2011,Transportation,Automated traffic signal and control systems,48
+2011,Health and Sanitation,Refuse yards,7
+2011,Health and Sanitation,Refuse collection trucks,732
+2011,Public Works,Streets (miles),6500
+2011,Public Works,Street lights,204750
+2011,Public Works,Bridges,508
+2011,Protection of Persons and Property,Police training centers,3
+2011,Protection of Persons and Property,Police stations,29
+2011,Protection of Persons and Property,Patrol units,1374
+2011,Protection of Persons and Property,Fire trucks,336
+2011,Protection of Persons and Property,Fire stations,106
+2011,Protection of Persons and Property,Animal shelters,6
+2011,General Government,Public office buildings,18
+2011,General Government,Fiber optic cabling (fiber miles)(1),150
+2010,Protection of Persons and Property,Animal shelters,6
+2010,Wastewater,Stormdrain pipe mainline (miles),1200
+2010,Water ,Service connections,718511
+2010,Water ,Distribution pipe (miles),7273
+2010,Water ,Number of storage reservoirs and tanks,106
+2010,Water ,Aqueduct (miles),390
+2010,Power,Underground distribution lines (miles),3505
+2010,Power,Overhead distribution lines (miles),10140
+2010,Power,Transmission lines (miles),3631
+2010,Power,Number of generating units(2),51
+2010,Harbor,Number of cargo terminals,24
+2010,Harbor,Number of major container terminals,8
+2010,Airports,Number of airports,4
+2010,Cultural and Recreational Services,Wedding sites,12
+2010,Cultural and Recreational Services,Therapeutic centers,3
+2010,Cultural and Recreational Services,Tennis courts,321
+2010,Cultural and Recreational Services,Skate parks ,9
+2010,Cultural and Recreational Services,Senior citizen centers,31
+2010,Cultural and Recreational Services,Residential camps,7
+2010,Cultural and Recreational Services,Regional parks,5
+2010,Cultural and Recreational Services,Recreational centers,184
+2010,Cultural and Recreational Services,Pools,61
+2010,Cultural and Recreational Services,Park sites,427
+2010,Cultural and Recreational Services,Museums,12
+2010,Cultural and Recreational Services,Licensed child-care centers,2
+2010,Cultural and Recreational Services,Libraries,73
+2010,General Government,Public office buildings,18
+2010,Cultural and Recreational Services,Lakes,11
+2010,Cultural and Recreational Services,Indoor gyms,95
+2010,General Government,Fiber optic cabling (fiber miles)(1),150
+2010,Cultural and Recreational Services,Horticulture centers,6
+2010,Cultural and Recreational Services,Historical sites,11
+2010,Cultural and Recreational Services,Hiking trails (miles),92
+2010,Cultural and Recreational Services,Golf courses,13
+2010,Cultural and Recreational Services,Dog parks,9
+2010,Cultural and Recreational Services,Children's play areas,368
+2010,Cultural and Recreational Services,Baseball/softball diamonds,256
+2010,Cultural and Recreational Services,Archery ranges,3
+2010,Cultural and Recreational Services,Acres park land (incl. beaches),15717
+2010,Cultural and Recreational Services,Acres of beach land,232
+2010,Transportation,Traffic signals,4589
+2010,Transportation,Commuter buses,450
+2010,Transportation,Bike paths,13
+2010,Transportation,Automated traffic signal and control systems,48
+2010,Health and Sanitation,Refuse yards,7
+2010,Health and Sanitation,Refuse collection trucks,742
+2010,Public Works,Streets (miles),6500
+2010,Public Works,Street lights,204000
+2010,Public Works,Bridges,508
+2010,Protection of Persons and Property,Police training centers,3
+2010,Protection of Persons and Property,Police stations,28
+2010,Protection of Persons and Property,Patrol units,1374
+2010,Wastewater,Sanitary sewers (miles),6500
+2010,Protection of Persons and Property,Fire trucks,362
+2010,Protection of Persons and Property,Fire stations,106
+2009,General Government,Public office buildings,18
+2009,General Government,Fiber optic cabling (fiber miles)(1),3426
+2009,Protection of Persons and Property,Animal shelters,6
+2009,Protection of Persons and Property,Fire stations,106
+2009,Protection of Persons and Property,Fire trucks,362
+2009,Protection of Persons and Property,Patrol units,1374
+2009,Protection of Persons and Property,Police stations,26
+2009,Protection of Persons and Property,Police training centers,3
+2009,Public Works,Bridges,509
+2009,Public Works,Street lights,207000
+2009,Public Works,Streets (miles),6500
+2009,Health and Sanitation,Refuse collection trucks,744
+2009,Health and Sanitation,Refuse yards,7
+2009,Transportation,Automated traffic signal and control systems,48
+2009,Transportation,Bike paths,12
+2009,Transportation,Commuter buses,468
+2009,Transportation,Traffic signals,4530
+2009,Cultural and Recreational Services,Acres of beach land,232
+2009,Cultural and Recreational Services,Acres park land (incl. beaches),15786
+2009,Cultural and Recreational Services,Archery ranges,3
+2009,Cultural and Recreational Services,Baseball/softball diamonds,256
+2009,Cultural and Recreational Services,Children's play areas,368
+2009,Cultural and Recreational Services,Dog parks,9
+2009,Cultural and Recreational Services,Golf courses,13
+2009,Cultural and Recreational Services,Hiking trails (miles),92
+2009,Cultural and Recreational Services,Historical sites,11
+2009,Cultural and Recreational Services,Horticulture centers,6
+2009,Cultural and Recreational Services,Indoor gyms,95
+2009,Cultural and Recreational Services,Lakes,11
+2009,Cultural and Recreational Services,Libraries,72
+2009,Cultural and Recreational Services,Licensed child-care centers,26
+2009,Cultural and Recreational Services,Museums,12
+2009,Cultural and Recreational Services,Park sites,417
+2009,Cultural and Recreational Services,Pools,60
+2009,Cultural and Recreational Services,Recreational centers,183
+2009,Cultural and Recreational Services,Regional parks,5
+2009,Cultural and Recreational Services,Residential camps,7
+2009,Cultural and Recreational Services,Senior citizen centers,31
+2009,Cultural and Recreational Services,Skate parks ,9
+2009,Cultural and Recreational Services,Tennis courts,321
+2009,Cultural and Recreational Services,Therapeutic centers,3
+2009,Cultural and Recreational Services,Wedding sites,12
+2009,Airports,Number of airports,4
+2009,Harbor,Number of major container terminals,8
+2009,Harbor,Number of cargo terminals,25
+2009,Power,Number of generating units(2),50
+2009,Power,Transmission lines (miles),3631
+2009,Power,Overhead distribution lines (miles),8782
+2009,Power,Underground distribution lines (miles),3235
+2009,Water ,Aqueduct (miles),367
+2009,Water ,Number of storage reservoirs and tanks,114
+2009,Water ,Distribution pipe (miles),7248
+2009,Water ,Service connections,716919
+2009,Wastewater,Sanitary sewers (miles),6500
+2009,Wastewater,Stormdrain pipe mainline (miles),1200
+2008,General Government,Fiber optic cabling (fiber miles)(1),9876
+2008,Wastewater,Sanitary sewers (miles),6550
+2008,Water ,Service connections,715430
+2008,Water ,Distribution pipe (miles),7227
+2008,Water ,Number of storage reservoirs and tanks,104
+2008,Water ,Aqueduct (miles),367
+2008,Power,Underground distribution lines (miles),6095
+2008,Power,Overhead distribution lines (miles),6947
+2008,Power,Transmission lines (miles),3643
+2008,Power,Number of generating units(2),51
+2008,Harbor,Number of cargo terminals,25
+2008,Harbor,Number of major container terminals,8
+2008,Airports,Number of airports,4
+2008,Cultural and Recreational Services,Wedding sites,12
+2008,Cultural and Recreational Services,Therapeutic centers,3
+2008,Wastewater,Stormdrain pipe mainline (miles),1200
+2008,Cultural and Recreational Services,Tennis courts,321
+2008,Cultural and Recreational Services,Skate parks ,9
+2008,Cultural and Recreational Services,Senior citizen centers,31
+2008,Cultural and Recreational Services,Residential camps,7
+2008,Cultural and Recreational Services,Regional parks,5
+2008,Cultural and Recreational Services,Recreational centers,183
+2008,Cultural and Recreational Services,Pools,60
+2008,Cultural and Recreational Services,Park sites,404
+2008,Cultural and Recreational Services,Museums,12
+2008,Cultural and Recreational Services,Licensed child-care centers,26
+2008,Cultural and Recreational Services,Libraries,72
+2008,Cultural and Recreational Services,Lakes,11
+2008,Cultural and Recreational Services,Indoor gyms,95
+2008,Cultural and Recreational Services,Horticulture centers,6
+2008,Cultural and Recreational Services,Historical sites,11
+2008,Cultural and Recreational Services,Hiking trails (miles),92
+2008,Cultural and Recreational Services,Golf courses,13
+2008,Cultural and Recreational Services,Dog parks,9
+2008,Cultural and Recreational Services,Children's play areas,368
+2008,Cultural and Recreational Services,Baseball/softball diamonds,256
+2008,Cultural and Recreational Services,Archery ranges,3
+2008,Cultural and Recreational Services,Acres park land (incl. beaches),15710
+2008,Cultural and Recreational Services,Acres of beach land,232
+2008,Transportation,Traffic signals,4515
+2008,Transportation,Commuter buses,440
+2008,Transportation,Bike paths,12
+2008,Transportation,Automated traffic signal and control systems,46
+2008,Health and Sanitation,Refuse yards,7
+2008,Health and Sanitation,Refuse collection trucks,744
+2008,Public Works,Streets (miles),6500
+2008,Public Works,Street lights,206000
+2008,Public Works,Bridges,507
+2008,Protection of Persons and Property,Police training centers,3
+2008,Protection of Persons and Property,Police stations,25
+2008,Protection of Persons and Property,Patrol units,1374
+2008,Protection of Persons and Property,Fire trucks,360
+2008,Protection of Persons and Property,Fire stations,105
+2008,Protection of Persons and Property,Animal shelters,6
+2008,General Government,Public office buildings,18
+2007,Public Works,Bridges,507
+2007,Wastewater,Stormdrain pipe mainline (miles),1000
+2007,Wastewater,Sanitary sewers (miles),6500
+2007,Water ,Service connections,712184
+2007,Water ,Distribution pipe (miles),7229
+2007,Water ,Number of storage reservoirs and tanks,108
+2007,Water ,Aqueduct (miles),340
+2007,Power,Underground distribution lines (miles),6061
+2007,Power,Overhead distribution lines (miles),6954
+2007,Power,Transmission lines (miles),3643
+2007,Power,Number of generating units(2),50
+2007,Harbor,Number of cargo terminals,25
+2007,Harbor,Number of major container terminals,8
+2007,Airports,Number of airports,4
+2007,Cultural and Recreational Services,Wedding sites,12
+2007,Cultural and Recreational Services,Therapeutic centers,3
+2007,Cultural and Recreational Services,Tennis courts,287
+2007,Cultural and Recreational Services,Skate parks ,7
+2007,Cultural and Recreational Services,Senior citizen centers,30
+2007,Cultural and Recreational Services,Residential camps,7
+2007,Cultural and Recreational Services,Regional parks,5
+2007,Cultural and Recreational Services,Recreational centers,181
+2007,Cultural and Recreational Services,Pools,60
+2007,Cultural and Recreational Services,Park sites,398
+2007,Cultural and Recreational Services,Museums,7
+2007,Cultural and Recreational Services,Licensed child-care centers,26
+2007,Cultural and Recreational Services,Libraries,72
+2007,Cultural and Recreational Services,Lakes,9
+2007,Cultural and Recreational Services,Indoor gyms,95
+2007,Cultural and Recreational Services,Horticulture centers,6
+2007,Cultural and Recreational Services,Historical sites,11
+2007,Cultural and Recreational Services,Hiking trails (miles),92
+2007,Cultural and Recreational Services,Golf courses,13
+2007,Cultural and Recreational Services,Dog parks,9
+2007,Cultural and Recreational Services,Children's play areas,377
+2007,Cultural and Recreational Services,Baseball/softball diamonds,255
+2007,Cultural and Recreational Services,Archery ranges,3
+2007,Cultural and Recreational Services,Acres park land (incl. beaches),15944
+2007,Cultural and Recreational Services,Acres of beach land,232
+2007,Transportation,Traffic signals,4506
+2007,Transportation,Commuter buses,488
+2007,Transportation,Bike paths,12
+2007,Transportation,Automated traffic signal and control systems,41
+2007,Health and Sanitation,Refuse yards,7
+2007,Health and Sanitation,Refuse collection trucks,725
+2007,Public Works,Streets (miles),6500
+2007,Public Works,Street lights,231402
+2007,Protection of Persons and Property,Police training centers,3
+2007,Protection of Persons and Property,Police stations,21
+2007,Protection of Persons and Property,Patrol units,1374
+2007,Protection of Persons and Property,Fire trucks,360
+2007,Protection of Persons and Property,Fire stations,104
+2007,Protection of Persons and Property,Animal shelters,6
+2007,General Government,Public office buildings,17
+2007,General Government,Fiber optic cabling (fiber miles)(1),9870
+2006,General Government,Fiber optic cabling (fiber miles)(1),9870
+2006,Wastewater,Stormdrain pipe mainline (miles),1000
+2006,Wastewater,Sanitary sewers (miles),6500
+2006,Water ,Service connections,709988
+2006,Water ,Distribution pipe (miles),7137
+2006,Water ,Number of storage reservoirs and tanks,107
+2006,Water ,Aqueduct (miles),571
+2006,Power,Underground distribution lines (miles),6115
+2006,Power,Overhead distribution lines (miles),7268
+2006,Power,Transmission lines (miles),3643
+2006,Power,Number of generating units(2),67
+2006,Harbor,Number of cargo terminals,27
+2006,Harbor,Number of major container terminals,8
+2006,Airports,Number of airports,4
+2006,Cultural and Recreational Services,Wedding sites,12
+2006,Cultural and Recreational Services,Therapeutic centers,3
+2006,Cultural and Recreational Services,Tennis courts,287
+2006,Cultural and Recreational Services,Skate parks ,7
+2006,Cultural and Recreational Services,Senior citizen centers,30
+2006,Cultural and Recreational Services,Residential camps,7
+2006,Cultural and Recreational Services,Regional parks,5
+2006,Cultural and Recreational Services,Recreational centers,180
+2006,Cultural and Recreational Services,Park sites,397
+2006,Cultural and Recreational Services,Museums,7
+2006,Cultural and Recreational Services,Licensed child-care centers,25
+2006,Cultural and Recreational Services,Libraries,72
+2006,Cultural and Recreational Services,Lakes,9
+2006,Cultural and Recreational Services,Indoor gyms,95
+2006,Cultural and Recreational Services,Horticulture centers,6
+2006,Cultural and Recreational Services,Historical sites,11
+2006,Cultural and Recreational Services,Hiking trails (miles),92
+2006,Cultural and Recreational Services,Golf courses,13
+2006,Cultural and Recreational Services,Dog parks,9
+2006,Cultural and Recreational Services,Children's play areas,377
+2006,Cultural and Recreational Services,Baseball/softball diamonds,253
+2006,Cultural and Recreational Services,Archery ranges,3
+2006,Cultural and Recreational Services,Acres park land (incl. beaches),15822
+2006,Cultural and Recreational Services,Acres of beach land,232
+2006,Transportation,Traffic signals,4555
+2006,Transportation,Commuter buses,535
+2006,Transportation,Bike paths,14
+2006,Transportation,Automated traffic signal and control systems,46
+2006,Health and Sanitation,Refuse yards,7
+2006,Health and Sanitation,Refuse collection trucks,705
+2006,Public Works,Streets (miles),6489
+2006,Public Works,Street lights,221113
+2006,Public Works,Bridges,533
+2006,Cultural and Recreational Services,Pools,60
+2006,Protection of Persons and Property,Police training centers,3
+2006,Protection of Persons and Property,Police stations,21
+2006,Protection of Persons and Property,Patrol units,1276
+2006,Protection of Persons and Property,Fire trucks,360
+2006,Protection of Persons and Property,Fire stations,103
+2006,Protection of Persons and Property,Animal shelters,6
+2006,General Government,Public office buildings,17
+2005,Transportation,Bike paths,14
+2005,Wastewater,Stormdrain pipe mainline (miles),1200
+2005,Wastewater,Sanitary sewers (miles),6500
+2005,Water ,Service connections,708167
+2005,Water ,Distribution pipe (miles),7119
+2005,Water ,Number of storage reservoirs and tanks,107
+2005,Water ,Aqueduct (miles),571
+2005,Power,Underground distribution lines (miles),6115
+2005,Power,Overhead distribution lines (miles),7268
+2005,Power,Transmission lines (miles),3631
+2005,Power,Number of generating units(2),60
+2005,Harbor,Number of cargo terminals,26
+2005,Harbor,Number of major container terminals,8
+2005,Airports,Number of airports,4
+2005,Cultural and Recreational Services,Wedding sites,12
+2005,Cultural and Recreational Services,Therapeutic centers,3
+2005,Cultural and Recreational Services,Tennis courts,287
+2005,Cultural and Recreational Services,Skate parks ,7
+2005,Cultural and Recreational Services,Senior citizen centers,30
+2005,Cultural and Recreational Services,Residential camps,7
+2005,Cultural and Recreational Services,Regional parks,5
+2005,Cultural and Recreational Services,Recreational centers,179
+2005,Cultural and Recreational Services,Pools,59
+2005,Cultural and Recreational Services,Park sites,396
+2005,Cultural and Recreational Services,Museums,7
+2005,Cultural and Recreational Services,Licensed child-care centers,24
+2005,Cultural and Recreational Services,Libraries,72
+2005,Cultural and Recreational Services,Lakes,9
+2005,Cultural and Recreational Services,Indoor gyms,95
+2005,Cultural and Recreational Services,Horticulture centers,6
+2005,Cultural and Recreational Services,Historical sites,11
+2005,Cultural and Recreational Services,Hiking trails (miles),92
+2005,Cultural and Recreational Services,Golf courses,13
+2005,Cultural and Recreational Services,Dog parks,9
+2005,Cultural and Recreational Services,Children's play areas,374
+2005,Cultural and Recreational Services,Baseball/softball diamonds,253
+2005,Cultural and Recreational Services,Archery ranges,3
+2005,Cultural and Recreational Services,Acres park land (incl. beaches),15704
+2005,Cultural and Recreational Services,Acres of beach land,232
+2005,Transportation,Traffic signals,4251
+2005,Transportation,Commuter buses,516
+2005,Transportation,Automated traffic signal and control systems,43
+2005,Health and Sanitation,Refuse yards,7
+2005,Health and Sanitation,Refuse collection trucks,751
+2005,Public Works,Streets (miles),6493
+2005,Public Works,Street lights,218248
+2005,Public Works,Bridges,533
+2005,Protection of Persons and Property,Police training centers,3
+2005,Protection of Persons and Property,Police stations,21
+2005,Protection of Persons and Property,Patrol units,1276
+2005,Protection of Persons and Property,Fire trucks,360
+2005,Protection of Persons and Property,Fire stations,103
+2005,Protection of Persons and Property,Animal shelters,6
+2005,General Government,Public office buildings,17
+2005,General Government,Fiber optic cabling (fiber miles)(1),9855
+2004,Wastewater,Stormdrain pipe mainline (miles),1500
+2004,Public Works,Street lights,242000
+2004,General Government,Public office buildings,16
+2004,Protection of Persons and Property,Animal shelters,6
+2004,Protection of Persons and Property,Fire stations,103
+2004,Protection of Persons and Property,Fire trucks,360
+2004,Protection of Persons and Property,Patrol units,1276
+2004,Protection of Persons and Property,Police stations,20
+2004,Protection of Persons and Property,Police training centers,3
+2004,Public Works,Bridges,533
+2004,Public Works,Streets (miles),7221
+2004,Health and Sanitation,Refuse collection trucks,734
+2004,Health and Sanitation,Refuse yards,7
+2004,Transportation,Automated traffic signal and control systems,42
+2004,Transportation,Bike paths,14
+2004,Transportation,Commuter buses,513
+2004,Transportation,Traffic signals,3403
+2004,Cultural and Recreational Services,Acres of beach land,232
+2004,Cultural and Recreational Services,Acres park land (incl. beaches),15553
+2004,Cultural and Recreational Services,Archery ranges,3
+2004,Cultural and Recreational Services,Baseball/softball diamonds,251
+2004,Cultural and Recreational Services,Children's play areas,372
+2004,Cultural and Recreational Services,Dog parks,8
+2004,Cultural and Recreational Services,Golf courses,13
+2004,Cultural and Recreational Services,Hiking trails (miles),92
+2004,Cultural and Recreational Services,Historical sites,11
+2004,Cultural and Recreational Services,Horticulture centers,6
+2004,Cultural and Recreational Services,Indoor gyms,95
+2004,Cultural and Recreational Services,Lakes,9
+2004,Cultural and Recreational Services,Libraries,71
+2004,Cultural and Recreational Services,Licensed child-care centers,23
+2004,Cultural and Recreational Services,Museums,7
+2004,Cultural and Recreational Services,Park sites,394
+2004,Cultural and Recreational Services,Pools,59
+2004,Cultural and Recreational Services,Recreational centers,176
+2004,Cultural and Recreational Services,Regional parks,5
+2004,Cultural and Recreational Services,Residential camps,7
+2004,Cultural and Recreational Services,Senior citizen centers,27
+2004,Cultural and Recreational Services,Skate parks ,7
+2004,Cultural and Recreational Services,Tennis courts,287
+2004,Cultural and Recreational Services,Therapeutic centers,3
+2004,General Government,Fiber optic cabling (fiber miles)(1),9843
+2004,Cultural and Recreational Services,Wedding sites,12
+2004,Airports,Number of airports,4
+2004,Harbor,Number of major container terminals,8
+2004,Harbor,Number of cargo terminals,26
+2004,Power,Number of generating units(2),60
+2004,Power,Transmission lines (miles),3631
+2004,Power,Overhead distribution lines (miles),6949
+2004,Power,Underground distribution lines (miles),6257
+2004,Water ,Aqueduct (miles),571
+2004,Water ,Number of storage reservoirs and tanks,109
+2004,Water ,Distribution pipe (miles),7108
+2004,Water ,Service connections,706789
+2004,Wastewater,Sanitary sewers (miles),6500
