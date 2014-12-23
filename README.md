@@ -1,4 +1,5 @@
-### OpenData LA Watchdog
+OpenData LA Watchdog
+====================
 
 Using code created by the [Los Angeles Times Data Desk](https://github.com/datadesk) and its [Checkbook LA Watchdog project](https://github.com/datadesk/checkbook-la-watchdog), this is a "periodically updated archive of data" published by the city of Los Angeles on its [open data portal](https://data.lacity.org/).
 
