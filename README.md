@@ -9,8 +9,8 @@ If a given csv file and its corresponding json file is below 10,000 rows, the fi
 
 I'm storing files larger than 10,000 rows locally, but at my knowledge level they are too large for GitHub, and too large to handle efficiently in a local repository.
 
-|Data set|Row count|Last download|   |   |
-|:--------|--------:|:-----------|:--|:--|
+|Data set|Row count|Last download|Local csv|Local json|
+|:--------|--------:|:-----------|:--------|:---------|
 |[2014 Registered Foreclosure Properties](https://data.lacity.org/A-Well-Run-City/2014-Registered-Foreclosure-Properties/fdwe-pgcu)|7758|2015-03-11 11:47:14.977036|[CSV](csv/2014-registered-foreclosure-properties.csv)|[JSON](json/2014-registered-foreclosure-properties.json)|
 |[2015 City of Los Angeles Holiday Calendar](https://data.lacity.org/A-Well-Run-City/2015-City-of-Los-Angeles-Holiday-Calendar/bwqa-7qhk)|13|2015-03-11 11:47:14.977036|[CSV](csv/2015-city-of-los-angeles-holiday-calendar.csv)|[JSON](json/2015-city-of-los-angeles-holiday-calendar.json)|
 |[311 Call Center Tracking Data](https://data.lacity.org/dataset/311-Call-Center-Tracking-Data/ukiu-8trj)|2875815|2015-03-11 11:47:14.977036|n/a|n/a|
