@@ -21,10 +21,13 @@ class Watchdog(object):
     Tricks for downloading and archiving Checkbook LA data.
     """
     format_list = ["csv", "json"]
+
     url_template = "https://data.lacity.org/api/views/%(id)s/rows.%(format)s?accessType=DOWNLOAD"
+
     headers = {
         "User-agent": "KPCC - Southern California Public Radio (ckeller@scpr.org)"
     }
+
     catalog_url = "https://data.lacity.org/browse?limitTo=datasets&sortBy=alpha&view_type=table&limit=1000"
 
     def handle(self, *args, **kwargs):
@@ -42,15 +45,16 @@ class Watchdog(object):
         prep everything.
         """
         self.now = datetime.now()
+
         # Set template paths
         self.this_dir = os.path.dirname(os.path.realpath(__file__))
         self.template_dir = os.path.join(self.this_dir, "templates")
         self.csv_dir = os.path.join(self.this_dir, "csv")
         self.json_dir = os.path.join(self.this_dir, "json")
+
         # Make sure template paths exist
         os.path.exists(self.csv_dir) or os.mkdir(self.csv_dir)
         os.path.exists(self.json_dir) or os.mkdir(self.json_dir)
-        # Discover all the files we're going to download
 
     def get_file_list(self):
         """
@@ -74,7 +78,9 @@ class Watchdog(object):
                 "description": description,
                 "url": url,
                 "id": id,
-                "file_name": file_name
+                "file_name": file_name,
+                "csv_name": "%s.csv" % (file_name),
+                "json_name": "%s.json" % (file_name),
             })
 
     def download(self, obj):
@@ -106,6 +112,7 @@ class Watchdog(object):
         template = Template(template_data)
         dict_list = []
         for obj in self.file_list:
+            logger.debug(obj)
             csv_path = os.path.join(self.csv_dir, obj["csv_name"])
             try:
                 csv_reader = csv.reader(open(csv_path, "r"))

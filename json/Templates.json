@@ -5,7 +5,7 @@
       "name" : "Templates",
       "averageRating" : 0,
       "createdAt" : 1380047397,
-      "downloadCount" : 445,
+      "downloadCount" : 451,
       "indexUpdatedAt" : 1414613190,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -18,7 +18,7 @@
       "state" : "empty",
       "tableId" : 1181401,
       "totalTimesRated" : 0,
-      "viewCount" : 62,
+      "viewCount" : 71,
       "viewLastModified" : 1380047402,
       "viewType" : "tabular",
       "columns" : [ {
@@ -216,9 +216,9 @@
         "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
         "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
         "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
-        "roleName" : "administrator",
+        "roleName" : "publisher",
         "screenName" : "Dylan",
-        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "create_pages", "edit_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards" ],
         "flags" : [ "admin" ]
       },
       "query" : {
@@ -230,9 +230,9 @@
         "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
         "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
         "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
-        "roleName" : "administrator",
+        "roleName" : "publisher",
         "screenName" : "Dylan",
-        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "create_pages", "edit_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards" ],
         "flags" : [ "admin" ]
       },
       "flags" : [ "default" ]
