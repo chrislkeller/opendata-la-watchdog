@@ -17,7 +17,7 @@
       "publicationGroup" : 1596531,
       "publicationStage" : "published",
       "rowClass" : "",
-      "rowsUpdatedAt" : 1426093509,
+      "rowsUpdatedAt" : 1426100709,
       "rowsUpdatedBy" : "brnr-azrg",
       "state" : "normal",
       "tableId" : 1596576,
@@ -107,41 +107,38 @@
         "tableColumnId" : 19961870,
         "width" : 139,
         "cachedContents" : {
-          "non_null" : 92,
+          "non_null" : 91,
           "smallest" : "18738",
-          "sum" : "2092116",
+          "sum" : "2069466",
           "null" : 1,
-          "average" : "22740.39130434783",
+          "average" : "22741.38461538462",
           "largest" : "23026",
           "top" : [ {
             "count" : 20,
-            "item" : "22456"
-          }, {
-            "count" : 19,
             "item" : "22255"
           }, {
-            "count" : 18,
+            "count" : 19,
             "item" : "22152"
           }, {
-            "count" : 17,
+            "count" : 18,
             "item" : "22102"
           }, {
-            "count" : 16,
+            "count" : 17,
             "item" : "21818"
           }, {
-            "count" : 15,
+            "count" : 16,
             "item" : "21314"
           }, {
-            "count" : 14,
+            "count" : 15,
             "item" : "20752"
           }, {
-            "count" : 13,
+            "count" : 14,
             "item" : "20194"
           }, {
-            "count" : 12,
+            "count" : 13,
             "item" : "19709"
           }, {
-            "count" : 11,
+            "count" : 12,
             "item" : "18738"
           } ]
         },
@@ -160,7 +157,7 @@
         "tableColumnId" : 19961871,
         "width" : 381,
         "cachedContents" : {
-          "non_null" : 92,
+          "non_null" : 91,
           "smallest" : "City Administrative Officer",
           "null" : 1,
           "largest" : "Public Works: Bureau of Sanitation",
@@ -235,16 +232,16 @@
         "tableColumnId" : 19961872,
         "width" : 119,
         "cachedContents" : {
-          "non_null" : 92,
+          "non_null" : 91,
           "smallest" : "Amended",
           "null" : 1,
           "largest" : "Open",
           "top" : [ {
             "count" : 20,
-            "item" : "Open"
+            "item" : "Amended"
           }, {
             "count" : 19,
-            "item" : "Amended"
+            "item" : "Open"
           } ]
         },
         "format" : {
@@ -259,7 +256,7 @@
         "tableColumnId" : 19961873,
         "width" : 145,
         "cachedContents" : {
-          "non_null" : 92,
+          "non_null" : 91,
           "smallest" : "Commodity",
           "null" : 1,
           "largest" : "Personal Services",
@@ -286,7 +283,7 @@
         "tableColumnId" : 19961874,
         "width" : 148,
         "cachedContents" : {
-          "non_null" : 92,
+          "non_null" : 91,
           "smallest" : "Request For Bid",
           "null" : 1,
           "largest" : "Request For Quote",
@@ -319,7 +316,7 @@
         "tableColumnId" : 19961875,
         "width" : 158,
         "cachedContents" : {
-          "non_null" : 92,
+          "non_null" : 91,
           "smallest" : "2013-12-11T17:00:00",
           "null" : 1,
           "largest" : "2015-03-11T09:00:00",
@@ -331,24 +328,21 @@
             "item" : "2015-03-09T15:00:00"
           }, {
             "count" : 18,
-            "item" : "2014-12-05T14:00:00"
-          }, {
-            "count" : 17,
             "item" : "2014-11-06T09:00:00"
           }, {
-            "count" : 16,
+            "count" : 17,
             "item" : "2014-09-15T09:00:00"
           }, {
-            "count" : 15,
+            "count" : 16,
             "item" : "2014-07-16T09:00:00"
           }, {
-            "count" : 14,
+            "count" : 15,
             "item" : "2014-05-19T16:00:00"
           }, {
-            "count" : 13,
+            "count" : 14,
             "item" : "2014-04-04T10:00:00"
           }, {
-            "count" : 12,
+            "count" : 13,
             "item" : "2013-12-11T17:00:00"
           } ]
         },
@@ -364,66 +358,63 @@
         "tableColumnId" : 19961876,
         "width" : 154,
         "cachedContents" : {
-          "non_null" : 92,
-          "smallest" : "2015-03-11T10:00:00",
+          "non_null" : 91,
+          "smallest" : "2015-03-11T11:00:00",
           "null" : 1,
           "largest" : "2017-09-15T17:00:00",
           "top" : [ {
             "count" : 20,
-            "item" : "2015-03-13T11:00:00"
-          }, {
-            "count" : 19,
             "item" : "2015-03-18T14:00:00"
           }, {
-            "count" : 18,
+            "count" : 19,
             "item" : "2015-03-17T14:00:00"
           }, {
-            "count" : 17,
+            "count" : 18,
             "item" : "2015-03-19T14:00:00"
           }, {
-            "count" : 16,
+            "count" : 17,
             "item" : "2015-03-13T14:00:00"
           }, {
-            "count" : 15,
+            "count" : 16,
             "item" : "2015-03-26T14:00:00"
           }, {
-            "count" : 14,
+            "count" : 15,
             "item" : "2015-03-12T11:00:00"
           }, {
-            "count" : 13,
+            "count" : 14,
             "item" : "2015-03-24T14:00:00"
           }, {
-            "count" : 12,
+            "count" : 13,
             "item" : "2015-03-11T11:00:00"
           }, {
-            "count" : 11,
+            "count" : 12,
             "item" : "2015-03-31T14:00:00"
           }, {
-            "count" : 10,
+            "count" : 11,
             "item" : "2015-03-12T14:00:00"
           }, {
-            "count" : 9,
+            "count" : 10,
             "item" : "2015-03-11T14:00:00"
           }, {
-            "count" : 8,
+            "count" : 9,
             "item" : "2015-04-07T14:00:00"
           }, {
-            "count" : 7,
+            "count" : 8,
             "item" : "2015-04-02T14:00:00"
           }, {
-            "count" : 6,
+            "count" : 7,
             "item" : "2015-03-25T14:00:00"
           }, {
-            "count" : 5,
+            "count" : 6,
             "item" : "2015-03-25T17:00:00"
           }, {
-            "count" : 4,
+            "count" : 5,
             "item" : "2015-05-04T15:00:00"
           }, {
-            "count" : 3,
+            "count" : 4,
             "item" : "2015-03-31T16:00:00"
           }, {
-            "count" : 2,
+            "count" : 3,
             "item" : "2015-03-31T17:00:00"
           } ]
         },
@@ -439,7 +430,7 @@
         "tableColumnId" : 19961877,
         "width" : 465,
         "cachedContents" : {
-          "non_null" : 92,
+          "non_null" : 91,
           "smallest" : "1000-KVA, 34.5-KV, GROUNDING TRANSFORMERS",
           "null" : 1,
           "largest" : "VEHICLE, OFF-ROAD, SIDE-BY-SIDE",
@@ -448,30 +439,27 @@
             "item" : "Request For Proposal To Operate A Business In A Retail/Commercial Space"
           }, {
             "count" : 19,
-            "item" : "RFP for Operation and Management of Central Terminal Area Parking Garage System and Design of Garage Improvements at Los Angeles International Airport"
-          }, {
-            "count" : 18,
             "item" : "The Management of City Biosolids"
           }, {
-            "count" : 17,
+            "count" : 18,
             "item" : "Los Angeles Emergency Management Department RFQ For Providing Emergency Services For Response and Recovery Operations During Catastrophic Incidents"
           }, {
-            "count" : 16,
+            "count" : 17,
             "item" : "Berths 171-173 Environmental Site Remediation"
           }, {
-            "count" : 15,
+            "count" : 16,
             "item" : "Emergency Response and Recovery Assistance Memorandum of Agreement"
           }, {
-            "count" : 14,
+            "count" : 15,
             "item" : "Request for Proposals for Fixed Base Operator at 16644 Roscoe Boulevard at Van Nuys Airport"
           }, {
-            "count" : 13,
+            "count" : 14,
             "item" : "Skyview Class A Office Space - Request for Interest"
           }, {
-            "count" : 12,
+            "count" : 13,
             "item" : "Office Space Available at LAX"
           }, {
-            "count" : 11,
+            "count" : 12,
             "item" : "Leasing Opportunity- 5600 West Century Boulevard"
           } ]
         },
@@ -487,39 +475,36 @@
         "tableColumnId" : 19961878,
         "width" : 208,
         "cachedContents" : {
-          "non_null" : 92,
+          "non_null" : 91,
           "smallest" : "http://www.labavn.org/bid.cfm?18738",
           "null" : 1,
           "largest" : "http://www.labavn.org/bid.cfm?23026",
           "top" : [ {
             "count" : 20,
-            "item" : "http://www.labavn.org/bid.cfm?22456"
-          }, {
-            "count" : 19,
             "item" : "http://www.labavn.org/bid.cfm?22255"
           }, {
-            "count" : 18,
+            "count" : 19,
             "item" : "http://www.labavn.org/bid.cfm?22152"
           }, {
-            "count" : 17,
+            "count" : 18,
             "item" : "http://www.labavn.org/bid.cfm?22102"
           }, {
-            "count" : 16,
+            "count" : 17,
             "item" : "http://www.labavn.org/bid.cfm?21818"
           }, {
-            "count" : 15,
+            "count" : 16,
             "item" : "http://www.labavn.org/bid.cfm?21314"
           }, {
-            "count" : 14,
+            "count" : 15,
             "item" : "http://www.labavn.org/bid.cfm?20752"
           }, {
-            "count" : 13,
+            "count" : 14,
             "item" : "http://www.labavn.org/bid.cfm?20194"
           }, {
-            "count" : 12,
+            "count" : 13,
             "item" : "http://www.labavn.org/bid.cfm?19709"
           }, {
-            "count" : 11,
+            "count" : 12,
             "item" : "http://www.labavn.org/bid.cfm?18738"
           } ]
         },
@@ -569,98 +554,96 @@
       "flags" : [ "default" ]
     }
   },
-  "data" : [ [ 829562, "FE828F5B-8850-481F-BE6B-1EEAECCE0CEA", 829562, 1426093504, "875849", 1426093504, "875849", null, "23026", "Department of General Services", "Open", "Commodity", "Request For Quote", "2015-03-11T09:00:00", "2015-03-18T11:00:00", "VEHICLE, OFF-ROAD, SIDE-BY-SIDE", "http://www.labavn.org/bid.cfm?23026" ]
-, [ 829563, "5BA1D5ED-5C2D-4034-9A03-2A10D007D478", 829563, 1426093504, "875849", 1426093504, "875849", null, "23023", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-10T15:28:00", "2015-03-18T14:00:00", "FASTENERS, THREADED, (SCREW, CAP), STAINLESS STEEL", "http://www.labavn.org/bid.cfm?23023" ]
-, [ 829564, "1D510D4F-0ABB-4EDB-B7E1-FCDD6132B16F", 829564, 1426093504, "875849", 1426093504, "875849", null, "23022", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-10T15:03:00", "2015-03-17T14:00:00", "COMPACT/MINI TRACK LOADER (CTL)(MTL) WITH ATTACHMENTS", "http://www.labavn.org/bid.cfm?23022" ]
-, [ 829565, "21681B11-0FBE-4741-AE81-D914071EA9A6", 829565, 1426093504, "875849", 1426093504, "875849", null, "23020", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-10T14:55:00", "2015-03-19T14:00:00", "RENTAL, FULLY OPERATED, INTERMITTENT, TRUCK WITH PUMP", "http://www.labavn.org/bid.cfm?23020" ]
-, [ 829566, "3686BAEE-6EF7-470D-A442-D19BB0BFABB9", 829566, 1426093504, "875849", 1426093504, "875849", null, "23021", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-10T14:03:00", "2015-03-13T14:00:00", "INSTRUMENT, THERMAL IMAGING INFRARED CAMERA AND ACCESSORIES", "http://www.labavn.org/bid.cfm?23021" ]
-, [ 829567, "8F89F376-2F29-4F31-951D-78CAE873B7B4", 829567, 1426093504, "875849", 1426093504, "875849", null, "23019", "Harbor Department", "Open", "Commodity", "Request For Bid", "2015-03-10T14:00:00", "2015-03-26T14:00:00", "Collection, Transfer, and Disposal Services of Solid Waste", "http://www.labavn.org/bid.cfm?23019" ]
-, [ 829568, "7720C546-3748-429C-A164-D0DE3C130BF0", 829568, 1426093504, "875849", 1426093504, "875849", null, "23016", "Department of General Services", "Open", "Commodity", "Request For Quote", "2015-03-10T11:00:00", "2015-03-13T11:00:00", "Rotor and Shaft Assembly", "http://www.labavn.org/bid.cfm?23016" ]
-, [ 829569, "F841770B-05E5-4FD3-9EBA-2DA3D007D326", 829569, 1426093504, "875849", 1426093504, "875849", null, "23024", "Department of General Services", "Open", "Commodity", "Request For Quote", "2015-03-10T09:00:00", "2015-03-16T11:00:00", "LAPD CUSTOM SILK SCREENED ARCHIVE GRADE CD-ROM, 80 MIN, 700MB, SILVER, 50 BULK PACK", "http://www.labavn.org/bid.cfm?23024" ]
-, [ 829570, "59982487-470E-4086-98AA-AF71900FBF15", 829570, 1426093504, "875849", 1426093504, "875849", null, "23011", "Department of General Services", "Open", "Commodity", "Request For Quote", "2015-03-10T09:00:00", "2015-03-12T11:00:00", "CONSTRUCTION WORK", "http://www.labavn.org/bid.cfm?23011" ]
-, [ 829571, "50DF5509-07DA-4029-8FBB-F537E6E5CA79", 829571, 1426093504, "875849", 1426093504, "875849", null, "23007", "Harbor Department", "Open", "Commodity", "Request For Bid", "2015-03-10T09:00:00", "2015-03-24T14:00:00", "Fuel Services", "http://www.labavn.org/bid.cfm?23007" ]
-, [ 829572, "DBCA53F4-1C22-43F8-BEF1-29B8DA578AA2", 829572, 1426093504, "875849", 1426093504, "875849", null, "23010", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-10T08:20:00", "2015-03-13T14:00:00", "MOTOR, 200HP, 2300V", "http://www.labavn.org/bid.cfm?23010" ]
-, [ 829573, "482B52EA-8764-4CE0-9059-099C9393F48C", 829573, 1426093504, "875849", 1426093504, "875849", null, "23009", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-10T08:14:00", "2015-03-13T14:00:00", "TRAILER, POLE, STEERABLE", "http://www.labavn.org/bid.cfm?23009" ]
-, [ 829574, "D8C826A1-CF0E-4267-A75E-B3A72BBF7748", 829574, 1426093504, "875849", 1426093504, "875849", null, "23006", "Department of Water and Power", "Amended", "Commodity", "Request For Bid", "2015-03-10T07:15:00", "2015-03-13T14:00:00", "COATING AND PRIMER, CHEMCLAD", "http://www.labavn.org/bid.cfm?23006" ]
-, [ 829575, "15731056-D454-4F30-BD29-ECDD8D27D063", 829575, 1426093504, "875849", 1426093504, "875849", null, "22992", "Los Angeles Neighborhood Initiative", "Amended", "Construction", "Request For Bid", "2015-03-09T18:00:00", "2015-03-24T14:00:00", "Council District 8 CDBG Sidewalk Reconstruction Project", "http://www.labavn.org/bid.cfm?22992" ]
-, [ 829576, "71542FFD-CF98-48F9-A438-4D8ABDAECFD8", 829576, 1426093504, "875849", 1426093504, "875849", null, "23005", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-09T15:25:00", "2015-03-19T14:00:00", "CYNCH-LOK SYSTEMS", "http://www.labavn.org/bid.cfm?23005" ]
-, [ 829577, "E22481A2-BE7E-4130-A44E-F09EA728E510", 829577, 1426093504, "875849", 1426093504, "875849", null, "23002", "Department of General Services", "Amended", "Commodity", "Request For Quote", "2015-03-09T15:00:00", "2015-03-12T11:00:00", "Rodder, Quick Coupling", "http://www.labavn.org/bid.cfm?23002" ]
-, [ 829578, "C825BB1D-1E8E-4C63-9834-71E9ADBDEED4", 829578, 1426093504, "875849", 1426093504, "875849", null, "23003", "Department of General Services", "Amended", "Commodity", "Request For Quote", "2015-03-09T15:00:00", "2015-04-06T13:00:00", "Apparatus, Heavy Duty, Rescue", "http://www.labavn.org/bid.cfm?23003" ]
-, [ 829579, "029AF418-F2F1-4E42-8A57-16207D1DA899", 829579, 1426093504, "875849", 1426093504, "875849", null, "23004", "Department of General Services", "Open", "Commodity", "Request For Quote", "2015-03-09T15:00:00", "2015-03-12T11:00:00", "Promag Electromagnetic Flowmeter", "http://www.labavn.org/bid.cfm?23004" ]
-, [ 829580, "46568B37-748E-499D-BF52-2C1D00ADCB1D", 829580, 1426093504, "875849", 1426093504, "875849", null, "23000", "Department of General Services", "Open", "Commodity", "Request For Quote", "2015-03-09T15:00:00", "2015-03-11T11:00:00", "bull litter fence 24ft x 15ft with canopy", "http://www.labavn.org/bid.cfm?23000" ]
-, [ 829581, "D205689C-DC62-4017-8B9E-B16F7CE52781", 829581, 1426093504, "875849", 1426093504, "875849", null, "23001", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-09T14:53:00", "2015-03-17T14:00:00", "KELLY BAR,ADAPTER AND ASSEMBLY", "http://www.labavn.org/bid.cfm?23001" ]
-, [ 829582, "5E76DD8A-5A4A-4D22-92F0-FC01C8A1C325", 829582, 1426093504, "875849", 1426093504, "875849", null, "22999", "Department of General Services", "Open", "Commodity", "Request For Quote", "2015-03-09T14:00:00", "2015-03-11T11:00:00", "25 - PERSON SUPPORT SYSTEM EMERGENCY KIT", "http://www.labavn.org/bid.cfm?22999" ]
-, [ 829583, "36C80B2A-3074-48F2-8AC5-DDF5F35E89C9", 829583, 1426093504, "875849", 1426093504, "875849", null, "22998", "Department of General Services", "Open", "Commodity", "Request For Quote", "2015-03-09T13:00:00", "2015-03-11T11:00:00", "HOOD,SPIT SOCK,TRANZPORT HOOD,SAFARILAND 8320-0-2,NO SUBSTITUTIONS", "http://www.labavn.org/bid.cfm?22998" ]
-, [ 829584, "3468DB69-4EC9-4653-980E-56C1935444EC", 829584, 1426093504, "875849", 1426093504, "875849", null, "22997", "Department of General Services", "Amended", "Commodity", "Request For Quote", "2015-03-09T11:00:00", "2015-03-12T11:00:00", "Lubricating System", "http://www.labavn.org/bid.cfm?22997" ]
-, [ 829585, "6D305027-F8DE-46B7-83F1-BF99FDBE60DD", 829585, 1426093504, "875849", 1426093504, "875849", null, "22995", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-09T10:30:00", "2015-03-31T14:00:00", "INDUCTIVELY COUPLED PLASMA MASS SPECTROMETER & SEAFAST 3 SYSTEM", "http://www.labavn.org/bid.cfm?22995" ]
-, [ 829586, "3A5FBFBC-56D1-48B9-B24E-71DEFE03B55D", 829586, 1426093504, "875849", 1426093504, "875849", null, "22996", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-09T10:24:00", "2015-03-24T14:00:00", "1000-KVA, 34.5-KV, GROUNDING TRANSFORMERS", "http://www.labavn.org/bid.cfm?22996" ]
-, [ 829587, "476023C8-FDDC-43DD-8663-9CD5B6AB742F", 829587, 1426093504, "875849", 1426093504, "875849", null, "22993", "Department of Water and Power", "Amended", "Commodity", "Request For Bid", "2015-03-09T09:27:00", "2015-03-16T14:00:00", "SMART GRID GPS TRACKING MODULES FOR VEHICLES", "http://www.labavn.org/bid.cfm?22993" ]
-, [ 829588, "63485632-AEFE-4BEA-A73D-AA82BEDB1935", 829588, 1426093504, "875849", 1426093504, "875849", null, "22966", "Office of Finance", "Open", "Personal Services", "Request For Proposal", "2015-03-09T09:00:00", "2015-04-08T17:00:00", "Variable Imaging, Mailing Services and Electronic Billing Communications", "http://www.labavn.org/bid.cfm?22966" ]
-, [ 829589, "45B85147-C624-481A-B861-6EC43E1DA2BA", 829589, 1426093504, "875849", 1426093504, "875849", null, "22990", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-07T14:31:00", "2015-03-13T14:00:00", "BATTERY, PURE LEAD, 12 VOLT", "http://www.labavn.org/bid.cfm?22990" ]
-, [ 829590, "B5BCF5B8-2D4C-471F-ABA4-17BE22ACB202", 829590, 1426093504, "875849", 1426093504, "875849", null, "22989", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-07T12:41:00", "2015-03-13T14:00:00", "ROTOR, MANUFACTURED ON SHAFT", "http://www.labavn.org/bid.cfm?22989" ]
-, [ 829591, "70E0660B-49AF-4539-BF2E-660109484C9C", 829591, 1426093504, "875849", 1426093504, "875849", null, "22968", "Public Works: Bureau of Engineering", "Open", "Construction", "Request For Bid", "2015-03-06T17:00:00", "2015-04-29T10:00:00", "Martin Luther King & Rodeo (CIP 7187) & North Outfall Replacement Sewer / East Central Interceptor Sewer (CIP 7188) Carbon Scrubber Facility  Ugrades", "http://www.labavn.org/bid.cfm?22968" ]
-, [ 829592, "3990F6C7-9A5A-452A-B431-49ABA058E733", 829592, 1426093504, "875849", 1426093504, "875849", null, "22988", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-06T16:59:00", "2015-03-12T14:00:00", "SERVICES, REPAIR AND PARTS, HYDRAULIC CYLINDERS, VARIOUS MNFRS", "http://www.labavn.org/bid.cfm?22988" ]
-, [ 829593, "978B7AD0-6AD5-455F-98E8-EEBB2E2A9574", 829593, 1426093504, "875849", 1426093504, "875849", null, "22987", "Department of General Services", "Open", "Commodity", "Request For Quote", "2015-03-06T15:00:00", "2015-03-12T11:00:00", "Total Station, Sokkia", "http://www.labavn.org/bid.cfm?22987" ]
-, [ 829594, "878615C2-D454-473B-9CA9-8DFB60013EA3", 829594, 1426093504, "875849", 1426093504, "875849", null, "22985", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-06T11:12:00", "2015-03-11T14:00:00", "FILTER ELEMENT, COALESCER", "http://www.labavn.org/bid.cfm?22985" ]
-, [ 829595, "18F49F10-ADED-496B-95F2-3DB88B71822D", 829595, 1426093504, "875849", 1426093504, "875849", null, "22986", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-06T11:04:00", "2015-03-30T14:00:00", "OWENS LAKE IRRIGATION SYSTEM MATERIALS", "http://www.labavn.org/bid.cfm?22986" ]
-, [ 829596, "174D7CEF-BEC6-4F46-B08B-618032AB0460", 829596, 1426093504, "875849", 1426093504, "875849", null, "22984", "Department of Water and Power", "Amended", "Commodity", "Request For Bid", "2015-03-06T10:52:00", "2015-03-13T14:00:00", "COLUMN, PIPE, 10'", "http://www.labavn.org/bid.cfm?22984" ]
-, [ 829597, "378230F1-260C-423D-AB2B-8E36CAD3A973", 829597, 1426093504, "875849", 1426093504, "875849", null, "22983", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-06T10:00:00", "2015-03-11T14:00:00", "BOX, METER #2 (WATER)", "http://www.labavn.org/bid.cfm?22983" ]
-, [ 829598, "817D4111-9732-4BE0-86C8-D194CD411047", 829598, 1426093504, "875849", 1426093504, "875849", null, "22982", "Harbor Department", "Open", "Commodity", "Request For Bid", "2015-03-06T10:00:00", "2015-03-19T14:00:00", "Plumbing Supplies - Neptune Meters and Data Collectors", "http://www.labavn.org/bid.cfm?22982" ]
-, [ 829599, "A457B854-919C-4EA2-9436-BF0C62C8983F", 829599, 1426093504, "875849", 1426093504, "875849", null, "22975", "Ethics Commission", "Open", "Personal Services", "Request For Proposal", "2015-03-06T08:00:00", "2015-04-24T17:00:00", "Electronic System for Conflict of Interests Codes and Statements of Economic Interests", "http://www.labavn.org/bid.cfm?22975" ]
-, [ 829600, "925497FE-6D1F-4C73-B334-F48BC0CFD2E1", 829600, 1426093504, "875849", 1426093504, "875849", null, "22970", "Los Angeles World Airports", "Amended", "Personal Services", "Request For Bid", "2015-03-05T19:00:00", "2015-04-07T14:00:00", "115-018  ELEVATOR & ESCALATOR MAINTENANCE AND REPAIR AT LA/ONTARIO INTERNATIONAL AIRPORT", "http://www.labavn.org/bid.cfm?22970" ]
-, [ 829601, "25E7C737-6F6C-47C9-8B13-03B6561A6C97", 829601, 1426093504, "875849", 1426093504, "875849", null, "22977", "Department of Water and Power", "Amended", "Personal Services", "Request For Proposal", "2015-03-05T16:30:00", "2015-04-02T14:00:00", "THIRD-PARTY ADMINISTRATION SERVICES FOR FLEX PLAN", "http://www.labavn.org/bid.cfm?22977" ]
-, [ 829602, "080B45ED-DDFC-4DBC-9C0A-783802DF2D40", 829602, 1426093504, "875849", 1426093504, "875849", null, "22976", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-05T15:52:00", "2015-03-18T14:00:00", "LANDSCAPE EDGING", "http://www.labavn.org/bid.cfm?22976" ]
-, [ 829603, "C336A029-04ED-4FE4-AE6A-CD853ABEEF62", 829603, 1426093504, "875849", 1426093504, "875849", null, "22974", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-05T14:52:00", "2015-03-17T14:00:00", "FIRE PROOF TAPE AND BLANKET", "http://www.labavn.org/bid.cfm?22974" ]
-, [ 829604, "FD3794CA-B4CA-4571-B7E8-007A783B1558", 829604, 1426093504, "875849", 1426093504, "875849", null, "22973", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-05T14:01:00", "2015-03-19T14:00:00", "INDUSTRIAL PAINT, ENAMEL, PRIMER, SEALER AND THINNER", "http://www.labavn.org/bid.cfm?22973" ]
-, [ 829605, "E8F3AC45-09C1-4C6B-B1D7-17BC2CF9AE3C", 829605, 1426093504, "875849", 1426093504, "875849", null, "22972", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-05T13:50:00", "2015-03-19T14:00:00", "TISSUE, BATH", "http://www.labavn.org/bid.cfm?22972" ]
-, [ 829606, "91E0F794-2258-4FA9-ACF4-A463D8F0323A", 829606, 1426093504, "875849", 1426093504, "875849", null, "22969", "Department of Water and Power", "Amended", "Commodity", "Request For Bid", "2015-03-05T11:36:00", "2015-03-20T14:00:00", "SECURITY SERVICES, ELECTRONIC MONITORING", "http://www.labavn.org/bid.cfm?22969" ]
-, [ 829607, "5A8BB5A4-A53C-4621-832A-427DA4B6BD5C", 829607, 1426093504, "875849", 1426093504, "875849", null, "22964", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-04T16:12:00", "2015-03-25T14:00:00", "TENT, SHELTER", "http://www.labavn.org/bid.cfm?22964" ]
-, [ 829608, "7A2143AA-99BF-49E7-8120-60CA366507B7", 829608, 1426093504, "875849", 1426093504, "875849", null, "22963", "Harbor Department", "Open", "Commodity", "Request For Bid", "2015-03-04T15:00:00", "2015-03-19T14:00:00", "SANDBAGS", "http://www.labavn.org/bid.cfm?22963" ]
-, [ 829609, "AF7F8BC5-4EE2-4607-B285-B1B9478C243A", 829609, 1426093504, "875849", 1426093504, "875849", null, "22961", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-04T13:50:00", "2015-03-11T14:00:00", "PLYWOOD, APPLE & BIRCH", "http://www.labavn.org/bid.cfm?22961" ]
-, [ 829610, "BCDFD0C3-13E4-408A-8C19-3384278D5740", 829610, 1426093504, "875849", 1426093504, "875849", null, "22962", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-04T13:43:00", "2015-03-11T14:00:00", "NON-STANDARD HARDWARE - JETSCAN", "http://www.labavn.org/bid.cfm?22962" ]
-, [ 829611, "2F3DEEAC-6787-45BE-B283-FE31126C2300", 829611, 1426093504, "875849", 1426093504, "875849", null, "22959", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-04T13:37:00", "2015-03-25T14:00:00", "BRUSHES, VARIOUS USES", "http://www.labavn.org/bid.cfm?22959" ]
-, [ 829612, "5DDBBF06-6B01-4D25-A313-0B4DE2C57684", 829612, 1426093504, "875849", 1426093504, "875849", null, "22960", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-04T13:27:00", "2015-03-13T14:00:00", "GLOVES DRIVER COWHIDE", "http://www.labavn.org/bid.cfm?22960" ]
-, [ 829613, "DC4F9ED3-D35C-42C1-9F81-993B92A73B36", 829613, 1426093504, "875849", 1426093504, "875849", null, "22954", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-04T10:46:00", "2015-03-12T14:00:00", "CABLE, THWN-2", "http://www.labavn.org/bid.cfm?22954" ]
-, [ 829614, "23B5CBA0-5795-45A8-B138-EE8F4A89FC8E", 829614, 1426093504, "875849", 1426093504, "875849", null, "22955", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-04T10:05:00", "2015-03-12T14:00:00", "RENTAL, BARE, CENTRIFUGAL PUMPS AND ACCESSORIES", "http://www.labavn.org/bid.cfm?22955" ]
-, [ 829615, "BA46FF63-6646-4980-911E-91A9B46A1637", 829615, 1426093504, "875849", 1426093504, "875849", null, "22943", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-03T15:34:00", "2015-03-11T14:00:00", "TOPS AND MIDSECTIONS, FIRE-HYDRANTS (WATER)", "http://www.labavn.org/bid.cfm?22943" ]
-, [ 829616, "C131776B-8F5F-4154-A9F2-D5773A4B6FB3", 829616, 1426093504, "875849", 1426093504, "875849", null, "22941", "Department of General Services", "Amended", "Commodity", "Request For Quote", "2015-03-03T13:00:00", "2015-03-18T13:00:00", "Hydraulic Cylinder Repair & Parts", "http://www.labavn.org/bid.cfm?22941" ]
-, [ 829617, "ABF1B412-8ECC-4160-B6AA-146C3DC13654", 829617, 1426093504, "875849", 1426093504, "875849", null, "22935", "Department of Water and Power", "Amended", "Commodity", "Request For Bid", "2015-03-03T08:29:00", "2015-03-31T14:00:00", "25-KVDC XLPE CABLE SYSTEM", "http://www.labavn.org/bid.cfm?22935" ]
-, [ 829618, "69D114AB-6353-4B54-B7F0-84DB94B422E1", 829618, 1426093504, "875849", 1426093504, "875849", null, "22936", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-03T08:04:00", "2015-03-11T14:00:00", "FLOWMETERS, PROPELLER", "http://www.labavn.org/bid.cfm?22936" ]
-, [ 829619, "E15584DD-AA03-445A-878F-83205429BD98", 829619, 1426093504, "875849", 1426093504, "875849", null, "22924", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-02-27T10:05:00", "2015-03-19T14:00:00", "LIQUID ZINC ORTHOPHOSPHATE", "http://www.labavn.org/bid.cfm?22924" ]
-, [ 829620, "689FE28D-2E9F-4E11-9D30-C4FB1B682D6A", 829620, 1426093504, "875849", 1426093504, "875849", null, "22927", "Harbor Department", "Open", "Construction", "Request For Bid", "2015-02-27T09:00:00", "2015-04-07T14:00:00", "Berth 142 Crane Maintenance Building", "http://www.labavn.org/bid.cfm?22927" ]
-, [ 829621, "656B5C67-8D30-455B-BDC5-3736F0FD3509", 829621, 1426093504, "875849", 1426093504, "875849", null, "22918", "Los Angeles World Airports", "Open", "Commodity", "Request For Bid", "2015-02-26T19:00:00", "2015-04-02T14:00:00", "115-016 CONVENTIONAL AND TRUNKED RADIO SYSTEM MAINTENANCE AND EQUIPMENT PURCHASES FOR LAX, ONTARIO, VAN NUYS AND PALMDALE AIRPORTS", "http://www.labavn.org/bid.cfm?22918" ]
-, [ 829622, "DD3C8784-E788-4FC7-8C40-FDE872F91B85", 829622, 1426093504, "875849", 1426093504, "875849", null, "22915", "City Attorney", "Open", "Personal Services", "Request For Proposal", "2015-02-26T15:00:00", "2015-03-20T16:00:00", "REQUEST FOR PROPOSALS (RFP) FOR COUNSEL AT THE DEPARTMENT OF WATER AND POWER ON GROUNDWATER CONTAMINATION AND COMPLEX LITIGATION MATTERS", "http://www.labavn.org/bid.cfm?22915" ]
-, [ 829623, "C26E4403-6C09-4B13-92A7-85D4EFF1F300", 829623, 1426093504, "875849", 1426093504, "875849", null, "22917", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-02-26T14:41:00", "2015-03-12T14:00:00", "CROSSARMS, DOUGLAS FIR", "http://www.labavn.org/bid.cfm?22917" ]
-, [ 829624, "8C09DE21-F573-4894-AB16-FA6405DC1C08", 829624, 1426093504, "875849", 1426093504, "875849", null, "22919", "Department of General Services", "Amended", "Commodity", "Request For Quote", "2015-02-26T09:00:00", "2015-03-16T17:00:00", "Generator, Emergency, 300KW, T4F", "http://www.labavn.org/bid.cfm?22919" ]
-, [ 829625, "5D769C56-39D6-46A4-BE4F-E7EDCFF124E9", 829625, 1426093504, "875849", 1426093504, "875849", null, "22912", "Los Angeles World Airports", "Open", "Commodity", "Request For Bid", "2015-02-25T19:00:00", "2015-04-02T14:00:00", "115-017 SUPPLY AND DELIVERY OF AS NEEDED PURCHASE AND REPAIR OF BADGES FOR AIRPORT POLICE OFFICERS AT LOS ANGELES INTERNATIONAL AIRPORT.", "http://www.labavn.org/bid.cfm?22912" ]
-, [ 829626, "AE899D24-739C-4BD7-BBCE-2BA8C30AE2E8", 829626, 1426093504, "875849", 1426093504, "875849", null, "22906", "Controller's Office", "Open", "Personal Services", "Request For Qualification", "2015-02-25T09:00:00", "2015-04-06T17:00:00", "Audit, Review and/or Consulting Assistance RFQ - Supplemental", "http://www.labavn.org/bid.cfm?22906" ]
-, [ 829627, "DDD532C6-358E-4804-9824-922A16AFF7C7", 829627, 1426093504, "875849", 1426093504, "875849", null, "22894", "Department of General Services - Non-Commodity", "Open", "Personal Services", "Request For Proposal", "2015-02-24T09:00:00", "2015-04-07T16:00:00", "Request for Proposals to Operate Retail Food, Retail Service Concessions and Storage Space", "http://www.labavn.org/bid.cfm?22894" ]
-, [ 829628, "1B39E254-EF6C-4871-A2F8-DF95F2195B37", 829628, 1426093504, "875849", 1426093504, "875849", null, "22888", "City Administrative Officer", "Open", "Personal Services", "Request For Proposal", "2015-02-20T17:00:00", "2015-03-12T17:00:00", "ADVISOR(S) TO CONDUCT A TECHNICAL REVIEW OF STUDIES RELATED TO THE CITYWIDE MINIMUM WAGE PROPOSAL", "http://www.labavn.org/bid.cfm?22888" ]
-, [ 829629, "5EA8FE7B-3ED6-4794-8F12-A749C49EAA27", 829629, 1426093504, "875849", 1426093504, "875849", null, "22883", "Harbor Department", "Open", "Personal Services", "Request For Proposal", "2015-02-20T13:00:00", "2015-03-19T15:00:00", "State Advocacy Services", "http://www.labavn.org/bid.cfm?22883" ]
-, [ 829630, "A2D9402D-EF98-4EDB-A927-A12415661EC1", 829630, 1426093504, "875849", 1426093504, "875849", null, "22792", "Los Angeles World Airports", "Open", "Personal Services", "Request For Bid", "2015-02-19T19:00:00", "2015-03-26T14:00:00", "115-015 ASBESTOS, LEAD PAINT ANED MOLD ABATEMENT SERVICES AT LOS ANGLELES INTERNATIONAL AIRPORT", "http://www.labavn.org/bid.cfm?22792" ]
-, [ 829631, "047D5331-054C-4F98-9CB3-8B43262E9F74", 829631, 1426093504, "875849", 1426093504, "875849", null, "22841", "Los Angeles Police Department", "Open", "Personal Services", "Request For Proposal", "2015-02-19T06:00:00", "2015-04-02T14:00:00", "Emergency Crime Scene Cleanup Services", "http://www.labavn.org/bid.cfm?22841" ]
-, [ 829632, "92A4E405-F395-4530-8F92-ACD949675FBD", 829632, 1426093504, "875849", 1426093504, "875849", null, "22805", "Department of General Services - Non-Commodity", "Open", "Personal Services", "Request For Proposal", "2015-02-12T09:00:00", "2015-03-25T17:00:00", "Request For Proposal To Operate A Business In A Retail/Commercial Space", "http://www.labavn.org/bid.cfm?22805" ]
-, [ 829633, "AE73028C-1ABB-4505-9AF6-283CE4244118", 829633, 1426093504, "875849", 1426093504, "875849", null, "22812", "Los Angeles Housing + Community Investment Department", "Amended", "Personal Services", "Request For Proposal", "2015-02-12T08:00:00", "2015-03-26T16:00:00", "Housing Opportunities for Persons with HIV/AIDS (HOPWA)", "http://www.labavn.org/bid.cfm?22812" ]
-, [ 829634, "698F1E7C-BE3B-4D5D-8C69-5CD6380F0FD6", 829634, 1426093504, "875849", 1426093504, "875849", null, "22790", "Public Works: Bureau of Engineering", "Amended", "Construction", "Request For Bid", "2015-02-11T17:00:00", "2015-03-18T10:00:00", "Terminal Island Water Reclamation Plant (TIWRP)- Aeration System Replacement", "http://www.labavn.org/bid.cfm?22790" ]
-, [ 829635, "3507FA47-5DBE-4DF7-AEEC-4E4A10D14793", 829635, 1426093504, "875849", 1426093504, "875849", null, "22803", "Department of General Services - Non-Commodity", "Open", "Personal Services", "Request For Proposal", "2015-02-11T09:00:00", "2015-03-25T17:00:00", "Request For Proposal To Operate A Business In A Retail/Commercial Space", "http://www.labavn.org/bid.cfm?22803" ]
-, [ 829636, "1CCA8C44-7FB3-4D37-A39C-D52BC56796E8", 829636, 1426093504, "875849", 1426093504, "875849", null, "22780", "Los Angeles World Airports", "Amended", "Personal Services", "Request For Proposal", "2015-02-10T18:00:00", "2015-03-17T14:00:00", "Expert Emergency Management Services at Los Angeles International Airport, LA/Ontario International Airport and Van Nuys Airport", "http://www.labavn.org/bid.cfm?22780" ]
-, [ 829637, "9DDE2208-D51D-4DA0-BE5E-4A1B4D277073", 829637, 1426093504, "875849", 1426093504, "875849", null, "22739", "CRA/ LA Contracts and Purchasing", "Amended", "Personal Services", "Request For Proposal", "2015-02-09T09:00:00", "2015-03-13T14:00:00", "RFP NP-16117 Environmental Redmediation System for Western Gage Gateway and Pocket Park located at 6300 Western Ave.", "http://www.labavn.org/bid.cfm?22739" ]
-, [ 829638, "C7DE9D77-C5F2-4F69-B952-0286EB289BE8", 829638, 1426093504, "875849", 1426093504, "875849", null, "22746", "Los Angeles World Airports", "Amended", "Personal Services", "Request For Proposal", "2015-02-06T16:00:00", "2015-03-31T15:00:00", "Request for Proposals for Property Management and Leasing for Skyview Office Complex", "http://www.labavn.org/bid.cfm?22746" ]
-, [ 829639, "3591BA53-CA35-4ECE-AF29-FE7D1840A5EF", 829639, 1426093504, "875849", 1426093504, "875849", null, "22733", "Personnel Department", "Open", "Personal Services", "Request For Proposal", "2015-02-05T18:00:00", "2015-04-02T15:00:00", "Deferred Compensation Plan Consulting Services", "http://www.labavn.org/bid.cfm?22733" ]
-, [ 829640, "D01A0DC0-5F0A-4E23-A0D3-85487AD54511", 829640, 1426093504, "875849", 1426093504, "875849", null, "22705", "Los Angeles World Airports", "Open", "Commodity", "Request For Bid", "2015-02-03T19:00:00", "2015-03-12T14:00:00", "115-014 SUPPLY AND DELIVERY OF UTILITY TRUCK WITH LIFTGATE AND AIR COMPRESSOR TO THE LOS ANGELES INTERNATIONAL AIRPORT", "http://www.labavn.org/bid.cfm?22705" ]
-, [ 829641, "BACE6C9A-F908-4C4D-A532-742DE1BFA8CF", 829641, 1426093504, "875849", 1426093504, "875849", null, "22650", "Public Works: Bureau of Engineering", "Amended", "Construction", "Request For Bid", "2015-02-02T17:00:00", "2015-03-11T10:00:00", "Laurel Canyon Blvd Bridge Widening Over Tujunga Wash", "http://www.labavn.org/bid.cfm?22650" ]
-, [ 829642, "61948E3B-74B9-4433-B5B7-EBFCAF17EDBB", 829642, 1426093504, "875849", 1426093504, "875849", null, "22632", "Los Angeles World Airports", "Amended", "Personal Services", "Request For Bid", "2015-01-29T19:00:00", "2015-03-12T14:00:00", "115-013 PURCHASE, INSTALLATION, REPAIRS AND MAINTENANCE OF GLASS, MIRRORS AND STOREFRONT SYSTEMS AT LAX, VAN NUYS AND ONTARIO AIRPORT FACILITIES", "http://www.labavn.org/bid.cfm?22632" ]
-, [ 829643, "0F6091DA-F6D9-4639-A6B4-E9784173AEB3", 829643, 1426093504, "875849", 1426093504, "875849", null, "22569", "Los Angeles Public Library", "Amended", "Personal Services", "Request For Proposal", "2015-01-22T19:00:00", "2015-03-11T15:00:00", "REQUEST FOR PROPOSALS FOR ACQUISITION OF LIBRARY MATERIALS AND SERVICES", "http://www.labavn.org/bid.cfm?22569" ]
-, [ 829644, "D96BAE23-4F87-4C57-BFDD-82A5B409B168", 829644, 1426093504, "875849", 1426093504, "875849", null, "22456", "Department of General Services", "Amended", "Commodity", "Request For Quote", "2015-01-10T11:00:00", "2015-03-19T13:00:00", "Boat, Dry Docking & Repairs", "http://www.labavn.org/bid.cfm?22456" ]
-, [ 829645, "EA6BE81C-5F63-4D36-8283-2811A91F0BAC", 829645, 1426093504, "875849", 1426093504, "875849", null, "22255", "Los Angeles World Airports", "Amended", "Personal Services", "Request For Proposal", "2014-12-18T17:00:00", "2015-03-24T13:00:00", "RFP for Operation and Management of Central Terminal Area Parking Garage System and Design of Garage Improvements at Los Angeles International Airport", "http://www.labavn.org/bid.cfm?22255" ]
-, [ 829646, "CEA42998-D672-427A-8B79-624067B87A11", 829646, 1426093504, "875849", 1426093504, "875849", null, "22152", "Public Works: Bureau of Sanitation", "Amended", "Personal Services", "Request For Proposal", "2014-12-10T19:00:00", "2015-03-11T14:00:00", "The Management of City Biosolids", "http://www.labavn.org/bid.cfm?22152" ]
-, [ 829647, "C178DE3F-D551-473F-AE33-44623467C6DD", 829647, 1426093504, "875849", 1426093504, "875849", null, "22102", "Mayor's Office: Homeland Security and Public Safety", "Amended", "Personal Services", "Request For Qualification", "2014-12-05T14:00:00", "2015-04-06T15:00:00", "Los Angeles Emergency Management Department RFQ For Providing Emergency Services For Response and Recovery Operations During Catastrophic Incidents", "http://www.labavn.org/bid.cfm?22102" ]
-, [ 829648, "EE1F3762-03CD-4F18-9E76-35F1E6E8E257", 829648, 1426093504, "875849", 1426093504, "875849", null, "21818", "Harbor Department", "Amended", "Construction", "Request For Bid", "2014-11-06T09:00:00", "2015-03-25T14:00:00", "Berths 171-173 Environmental Site Remediation", "http://www.labavn.org/bid.cfm?21818" ]
-, [ 829649, "46EBDF3A-7889-4E22-A943-C919A278878A", 829649, 1426093504, "875849", 1426093504, "875849", null, "21314", "Department of General Services", "Open", "Commodity", "Request For Bid", "2014-09-15T09:00:00", "2017-09-15T17:00:00", "Emergency Response and Recovery Assistance Memorandum of Agreement", "http://www.labavn.org/bid.cfm?21314" ]
-, [ 829650, "7127D611-B8CD-419B-A35E-2C85C64E3304", 829650, 1426093504, "875849", 1426093504, "875849", null, "20752", "Los Angeles World Airports", "Amended", "Personal Services", "Request For Proposal", "2014-07-16T09:00:00", "2015-05-04T15:00:00", "Request for Proposals for Fixed Base Operator at 16644 Roscoe Boulevard at Van Nuys Airport", "http://www.labavn.org/bid.cfm?20752" ]
-, [ 829651, "9BAAB8FD-5BB8-494C-955F-C3663EBEA273", 829651, 1426093504, "875849", 1426093504, "875849", null, "20194", "Los Angeles World Airports", "Open", "Personal Services", "Request For Interest", "2014-05-19T16:00:00", "2015-03-31T16:00:00", "Skyview Class A Office Space - Request for Interest", "http://www.labavn.org/bid.cfm?20194" ]
-, [ 829652, "8047F5F8-1071-4FCD-8906-EE333EBFBE31", 829652, 1426093504, "875849", 1426093504, "875849", null, "19709", "Los Angeles World Airports", "Open", "Personal Services", "Request For Interest", "2014-04-04T10:00:00", "2015-03-31T16:00:00", "Office Space Available at LAX", "http://www.labavn.org/bid.cfm?19709" ]
-, [ 829653, "DB7C9748-D60D-46C2-A188-DF830DEAA329", 829653, 1426093504, "875849", 1426093504, "875849", null, "18738", "Los Angeles World Airports", "Open", "Personal Services", "Request For Interest", "2013-12-11T17:00:00", "2015-03-31T17:00:00", "Leasing Opportunity- 5600 West Century Boulevard", "http://www.labavn.org/bid.cfm?18738" ]
-, [ 829654, "28004706-2D26-4861-8C67-482E869378D7", 829654, 1426093504, "875849", 1426093504, "875849", null, null, null, null, null, null, null, null, null, null ]
+  "data" : [ [ 829747, "A733ED77-95A9-416A-B5DD-77A739EE26E5", 829747, 1426100704, "875849", 1426100704, "875849", null, "23028", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-11T10:03:00", "2015-03-19T14:00:00", "TOILET TANKS, BOWLS, AND WAX RINGS", "http://www.labavn.org/bid.cfm?23028" ]
+, [ 829748, "E67D71E4-4A11-401F-84B3-F146061C4A96", 829748, 1426100704, "875849", 1426100704, "875849", null, "23029", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-11T10:00:00", "2015-03-20T14:00:00", "RENTAL WITH SERVICES, SCALPING SCREEN - DEPARTMENT FACILITIES", "http://www.labavn.org/bid.cfm?23029" ]
+, [ 829749, "7FF9AB54-12AD-4F58-9F87-41D847526D70", 829749, 1426100704, "875849", 1426100704, "875849", null, "23026", "Department of General Services", "Amended", "Commodity", "Request For Quote", "2015-03-11T09:00:00", "2015-03-18T11:00:00", "VEHICLE, OFF-ROAD, SIDE-BY-SIDE", "http://www.labavn.org/bid.cfm?23026" ]
+, [ 829750, "B88FAEF7-0416-421D-A9E2-5BA68C2DFD08", 829750, 1426100704, "875849", 1426100704, "875849", null, "23023", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-10T15:28:00", "2015-03-18T14:00:00", "FASTENERS, THREADED, (SCREW, CAP), STAINLESS STEEL", "http://www.labavn.org/bid.cfm?23023" ]
+, [ 829751, "AADCCD94-5F60-47B7-8289-8966CEB2EF06", 829751, 1426100704, "875849", 1426100704, "875849", null, "23022", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-10T15:03:00", "2015-03-17T14:00:00", "COMPACT/MINI TRACK LOADER (CTL)(MTL) WITH ATTACHMENTS", "http://www.labavn.org/bid.cfm?23022" ]
+, [ 829752, "9276A06A-A132-4A03-83F7-7AE4F0F02829", 829752, 1426100704, "875849", 1426100704, "875849", null, "23020", "Department of Water and Power", "Amended", "Commodity", "Request For Bid", "2015-03-10T14:55:00", "2015-03-19T14:00:00", "RENTAL, FULLY OPERATED, INTERMITTENT, TRUCK WITH PUMP", "http://www.labavn.org/bid.cfm?23020" ]
+, [ 829753, "DB7528D0-DEBF-4176-AF24-364F82E68279", 829753, 1426100704, "875849", 1426100704, "875849", null, "23021", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-10T14:03:00", "2015-03-13T14:00:00", "INSTRUMENT, THERMAL IMAGING INFRARED CAMERA AND ACCESSORIES", "http://www.labavn.org/bid.cfm?23021" ]
+, [ 829754, "09164654-9AF5-4C7A-974B-96188ADE332E", 829754, 1426100704, "875849", 1426100704, "875849", null, "23019", "Harbor Department", "Open", "Commodity", "Request For Bid", "2015-03-10T14:00:00", "2015-03-26T14:00:00", "Collection, Transfer, and Disposal Services of Solid Waste", "http://www.labavn.org/bid.cfm?23019" ]
+, [ 829755, "4770CC9E-6C33-4C5E-ABBA-65E13A421D98", 829755, 1426100704, "875849", 1426100704, "875849", null, "23016", "Department of General Services", "Open", "Commodity", "Request For Quote", "2015-03-10T11:00:00", "2015-03-13T11:00:00", "Rotor and Shaft Assembly", "http://www.labavn.org/bid.cfm?23016" ]
+, [ 829756, "F98C57CE-5F29-4A5E-AAF7-C590478217BC", 829756, 1426100704, "875849", 1426100704, "875849", null, "23024", "Department of General Services", "Open", "Commodity", "Request For Quote", "2015-03-10T09:00:00", "2015-03-16T11:00:00", "LAPD CUSTOM SILK SCREENED ARCHIVE GRADE CD-ROM, 80 MIN, 700MB, SILVER, 50 BULK PACK", "http://www.labavn.org/bid.cfm?23024" ]
+, [ 829757, "FDD04AB9-9DCD-4FF7-B93C-47BC04CF811E", 829757, 1426100704, "875849", 1426100704, "875849", null, "23011", "Department of General Services", "Open", "Commodity", "Request For Quote", "2015-03-10T09:00:00", "2015-03-12T11:00:00", "CONSTRUCTION WORK", "http://www.labavn.org/bid.cfm?23011" ]
+, [ 829758, "9B8E3694-060D-4A5F-842A-A0251AB3F97A", 829758, 1426100704, "875849", 1426100704, "875849", null, "23007", "Harbor Department", "Open", "Commodity", "Request For Bid", "2015-03-10T09:00:00", "2015-03-24T14:00:00", "Fuel Services", "http://www.labavn.org/bid.cfm?23007" ]
+, [ 829759, "76ED901C-B8F7-4459-9EAE-5FB16FB45907", 829759, 1426100704, "875849", 1426100704, "875849", null, "23010", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-10T08:20:00", "2015-03-13T14:00:00", "MOTOR, 200HP, 2300V", "http://www.labavn.org/bid.cfm?23010" ]
+, [ 829760, "8AE064A5-2D94-4B0E-B60C-396CBF0415F1", 829760, 1426100704, "875849", 1426100704, "875849", null, "23009", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-10T08:14:00", "2015-03-13T14:00:00", "TRAILER, POLE, STEERABLE", "http://www.labavn.org/bid.cfm?23009" ]
+, [ 829761, "E30001AA-8632-436B-8F0F-6D37A925E0A0", 829761, 1426100704, "875849", 1426100704, "875849", null, "23006", "Department of Water and Power", "Amended", "Commodity", "Request For Bid", "2015-03-10T07:15:00", "2015-03-13T14:00:00", "COATING AND PRIMER, CHEMCLAD", "http://www.labavn.org/bid.cfm?23006" ]
+, [ 829762, "B617501A-AE02-4630-96B2-89346ECE4B76", 829762, 1426100704, "875849", 1426100704, "875849", null, "22992", "Los Angeles Neighborhood Initiative", "Amended", "Construction", "Request For Bid", "2015-03-09T18:00:00", "2015-03-24T14:00:00", "Council District 8 CDBG Sidewalk Reconstruction Project", "http://www.labavn.org/bid.cfm?22992" ]
+, [ 829763, "EBBC16D5-6829-43B9-BDE3-2FE9784982EB", 829763, 1426100704, "875849", 1426100704, "875849", null, "23005", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-09T15:25:00", "2015-03-19T14:00:00", "CYNCH-LOK SYSTEMS", "http://www.labavn.org/bid.cfm?23005" ]
+, [ 829764, "F285319D-7F29-4F17-8D5C-7576CD24207C", 829764, 1426100704, "875849", 1426100704, "875849", null, "23003", "Department of General Services", "Amended", "Commodity", "Request For Quote", "2015-03-09T15:00:00", "2015-04-06T13:00:00", "Apparatus, Heavy Duty, Rescue", "http://www.labavn.org/bid.cfm?23003" ]
+, [ 829765, "347338E5-5BE7-48ED-8411-5D78152683C1", 829765, 1426100704, "875849", 1426100704, "875849", null, "23002", "Department of General Services", "Amended", "Commodity", "Request For Quote", "2015-03-09T15:00:00", "2015-03-12T11:00:00", "Rodder, Quick Coupling", "http://www.labavn.org/bid.cfm?23002" ]
+, [ 829766, "D983349A-D17B-48F5-8899-62F5C0457378", 829766, 1426100704, "875849", 1426100704, "875849", null, "23004", "Department of General Services", "Open", "Commodity", "Request For Quote", "2015-03-09T15:00:00", "2015-03-12T11:00:00", "Promag Electromagnetic Flowmeter", "http://www.labavn.org/bid.cfm?23004" ]
+, [ 829767, "643C8003-99FB-4C7C-8FBC-9709121423DB", 829767, 1426100704, "875849", 1426100704, "875849", null, "23001", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-09T14:53:00", "2015-03-17T14:00:00", "KELLY BAR,ADAPTER AND ASSEMBLY", "http://www.labavn.org/bid.cfm?23001" ]
+, [ 829768, "55C2493C-E4BA-4E98-A8A0-444404D80F66", 829768, 1426100704, "875849", 1426100704, "875849", null, "22997", "Department of General Services", "Amended", "Commodity", "Request For Quote", "2015-03-09T11:00:00", "2015-03-12T11:00:00", "Lubricating System", "http://www.labavn.org/bid.cfm?22997" ]
+, [ 829769, "AFC8EC19-B336-498E-9B0D-181E61D5BDAC", 829769, 1426100704, "875849", 1426100704, "875849", null, "22995", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-09T10:30:00", "2015-03-31T14:00:00", "INDUCTIVELY COUPLED PLASMA MASS SPECTROMETER & SEAFAST 3 SYSTEM", "http://www.labavn.org/bid.cfm?22995" ]
+, [ 829770, "1D5CB52B-459F-4D9B-9699-E8B0E537642E", 829770, 1426100704, "875849", 1426100704, "875849", null, "22996", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-09T10:24:00", "2015-03-24T14:00:00", "1000-KVA, 34.5-KV, GROUNDING TRANSFORMERS", "http://www.labavn.org/bid.cfm?22996" ]
+, [ 829771, "CC2CC1F5-96B1-4FB4-B519-BD7A684456F1", 829771, 1426100704, "875849", 1426100704, "875849", null, "22993", "Department of Water and Power", "Amended", "Commodity", "Request For Bid", "2015-03-09T09:27:00", "2015-03-16T14:00:00", "SMART GRID GPS TRACKING MODULES FOR VEHICLES", "http://www.labavn.org/bid.cfm?22993" ]
+, [ 829772, "7360AA4D-A772-4116-93FA-AB299843DD4C", 829772, 1426100704, "875849", 1426100704, "875849", null, "22966", "Office of Finance", "Open", "Personal Services", "Request For Proposal", "2015-03-09T09:00:00", "2015-04-08T17:00:00", "Variable Imaging, Mailing Services and Electronic Billing Communications", "http://www.labavn.org/bid.cfm?22966" ]
+, [ 829773, "BCA5F500-D6B9-4C92-8A66-05581FD78CF3", 829773, 1426100704, "875849", 1426100704, "875849", null, "22990", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-07T14:31:00", "2015-03-13T14:00:00", "BATTERY, PURE LEAD, 12 VOLT", "http://www.labavn.org/bid.cfm?22990" ]
+, [ 829774, "B63971AE-CF73-4C16-B510-6349CF5A2EE0", 829774, 1426100704, "875849", 1426100704, "875849", null, "22989", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-07T12:41:00", "2015-03-13T14:00:00", "ROTOR, MANUFACTURED ON SHAFT", "http://www.labavn.org/bid.cfm?22989" ]
+, [ 829775, "30686D8D-C721-4661-A43D-AEFFB5D0FC59", 829775, 1426100704, "875849", 1426100704, "875849", null, "22968", "Public Works: Bureau of Engineering", "Open", "Construction", "Request For Bid", "2015-03-06T17:00:00", "2015-04-29T10:00:00", "Martin Luther King & Rodeo (CIP 7187) & North Outfall Replacement Sewer / East Central Interceptor Sewer (CIP 7188) Carbon Scrubber Facility  Ugrades", "http://www.labavn.org/bid.cfm?22968" ]
+, [ 829776, "71848D9A-D97A-4E9E-8EBC-5743E858F059", 829776, 1426100704, "875849", 1426100704, "875849", null, "22988", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-06T16:59:00", "2015-03-12T14:00:00", "SERVICES, REPAIR AND PARTS, HYDRAULIC CYLINDERS, VARIOUS MNFRS", "http://www.labavn.org/bid.cfm?22988" ]
+, [ 829777, "808E05E0-86F1-435A-A61C-8EA0A428CE9A", 829777, 1426100704, "875849", 1426100704, "875849", null, "22987", "Department of General Services", "Open", "Commodity", "Request For Quote", "2015-03-06T15:00:00", "2015-03-12T11:00:00", "Total Station, Sokkia", "http://www.labavn.org/bid.cfm?22987" ]
+, [ 829778, "44927CB3-C486-4E67-96E7-D462490B386B", 829778, 1426100704, "875849", 1426100704, "875849", null, "22985", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-06T11:12:00", "2015-03-11T14:00:00", "FILTER ELEMENT, COALESCER", "http://www.labavn.org/bid.cfm?22985" ]
+, [ 829779, "5E9CAF1D-26AA-4D52-B60A-36EAEB5961BC", 829779, 1426100704, "875849", 1426100704, "875849", null, "22986", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-06T11:04:00", "2015-03-30T14:00:00", "OWENS LAKE IRRIGATION SYSTEM MATERIALS", "http://www.labavn.org/bid.cfm?22986" ]
+, [ 829780, "9E042184-8F24-4FDE-B64D-42ACECB01085", 829780, 1426100704, "875849", 1426100704, "875849", null, "22984", "Department of Water and Power", "Amended", "Commodity", "Request For Bid", "2015-03-06T10:52:00", "2015-03-13T14:00:00", "COLUMN, PIPE, 10'", "http://www.labavn.org/bid.cfm?22984" ]
+, [ 829781, "08D2E36C-A6A2-43FA-9D26-A279FBD6D64F", 829781, 1426100704, "875849", 1426100704, "875849", null, "22983", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-06T10:00:00", "2015-03-11T14:00:00", "BOX, METER #2 (WATER)", "http://www.labavn.org/bid.cfm?22983" ]
+, [ 829782, "0DBE63BE-C117-4CC4-8743-7599647ACE3C", 829782, 1426100704, "875849", 1426100704, "875849", null, "22982", "Harbor Department", "Open", "Commodity", "Request For Bid", "2015-03-06T10:00:00", "2015-03-19T14:00:00", "Plumbing Supplies - Neptune Meters and Data Collectors", "http://www.labavn.org/bid.cfm?22982" ]
+, [ 829783, "1FB11350-2BB0-46CC-BE6D-0855568765E5", 829783, 1426100704, "875849", 1426100704, "875849", null, "22975", "Ethics Commission", "Open", "Personal Services", "Request For Proposal", "2015-03-06T08:00:00", "2015-04-24T17:00:00", "Electronic System for Conflict of Interests Codes and Statements of Economic Interests", "http://www.labavn.org/bid.cfm?22975" ]
+, [ 829784, "95300183-0EAD-46E7-A6A3-64E1EBD27B43", 829784, 1426100704, "875849", 1426100704, "875849", null, "22970", "Los Angeles World Airports", "Amended", "Personal Services", "Request For Bid", "2015-03-05T19:00:00", "2015-04-07T14:00:00", "115-018  ELEVATOR & ESCALATOR MAINTENANCE AND REPAIR AT LA/ONTARIO INTERNATIONAL AIRPORT", "http://www.labavn.org/bid.cfm?22970" ]
+, [ 829785, "BE86B7C8-45FB-425F-A52F-7FA64EFB3E64", 829785, 1426100704, "875849", 1426100704, "875849", null, "22977", "Department of Water and Power", "Amended", "Personal Services", "Request For Proposal", "2015-03-05T16:30:00", "2015-04-02T14:00:00", "THIRD-PARTY ADMINISTRATION SERVICES FOR FLEX PLAN", "http://www.labavn.org/bid.cfm?22977" ]
+, [ 829786, "0CFC6021-7CCA-46AB-A07D-53F9B44B41DD", 829786, 1426100704, "875849", 1426100704, "875849", null, "22976", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-05T15:52:00", "2015-03-18T14:00:00", "LANDSCAPE EDGING", "http://www.labavn.org/bid.cfm?22976" ]
+, [ 829787, "5B75A1E0-1C8D-4BD6-AA98-F54EC5E52BD9", 829787, 1426100704, "875849", 1426100704, "875849", null, "22974", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-05T14:52:00", "2015-03-17T14:00:00", "FIRE PROOF TAPE AND BLANKET", "http://www.labavn.org/bid.cfm?22974" ]
+, [ 829788, "D0065452-86C0-4C75-903B-0C1FFD74F2C8", 829788, 1426100704, "875849", 1426100704, "875849", null, "22973", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-05T14:01:00", "2015-03-19T14:00:00", "INDUSTRIAL PAINT, ENAMEL, PRIMER, SEALER AND THINNER", "http://www.labavn.org/bid.cfm?22973" ]
+, [ 829789, "D6029793-D173-4E8B-85FC-95292DE97F02", 829789, 1426100704, "875849", 1426100704, "875849", null, "22972", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-05T13:50:00", "2015-03-19T14:00:00", "TISSUE, BATH", "http://www.labavn.org/bid.cfm?22972" ]
+, [ 829790, "0FF07CF0-32D7-4DB1-BB61-0321E594350B", 829790, 1426100704, "875849", 1426100704, "875849", null, "22969", "Department of Water and Power", "Amended", "Commodity", "Request For Bid", "2015-03-05T11:36:00", "2015-03-20T14:00:00", "SECURITY SERVICES, ELECTRONIC MONITORING", "http://www.labavn.org/bid.cfm?22969" ]
+, [ 829791, "5F9BB523-5E98-4501-8CDC-B90303FAA2DD", 829791, 1426100704, "875849", 1426100704, "875849", null, "22964", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-04T16:12:00", "2015-03-25T14:00:00", "TENT, SHELTER", "http://www.labavn.org/bid.cfm?22964" ]
+, [ 829792, "45A1C54E-C16A-4BE5-AFCC-AD08ADBEFFF7", 829792, 1426100704, "875849", 1426100704, "875849", null, "22963", "Harbor Department", "Open", "Commodity", "Request For Bid", "2015-03-04T15:00:00", "2015-03-19T14:00:00", "SANDBAGS", "http://www.labavn.org/bid.cfm?22963" ]
+, [ 829793, "7A6D1496-8632-4ADD-9B9E-E3FCC6A12C1D", 829793, 1426100704, "875849", 1426100704, "875849", null, "22961", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-04T13:50:00", "2015-03-11T14:00:00", "PLYWOOD, APPLE & BIRCH", "http://www.labavn.org/bid.cfm?22961" ]
+, [ 829794, "4849614A-6178-4321-8996-620FEF567677", 829794, 1426100704, "875849", 1426100704, "875849", null, "22962", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-04T13:43:00", "2015-03-11T14:00:00", "NON-STANDARD HARDWARE - JETSCAN", "http://www.labavn.org/bid.cfm?22962" ]
+, [ 829795, "1C42DE28-D772-4445-A091-F9142CC4DB81", 829795, 1426100704, "875849", 1426100704, "875849", null, "22959", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-04T13:37:00", "2015-03-25T14:00:00", "BRUSHES, VARIOUS USES", "http://www.labavn.org/bid.cfm?22959" ]
+, [ 829796, "AFF2CCC2-CA5F-47F9-ACD0-28218D9796CC", 829796, 1426100704, "875849", 1426100704, "875849", null, "22960", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-04T13:27:00", "2015-03-13T14:00:00", "GLOVES DRIVER COWHIDE", "http://www.labavn.org/bid.cfm?22960" ]
+, [ 829797, "614497F9-7D85-4321-ACEF-6FD11322DE58", 829797, 1426100704, "875849", 1426100704, "875849", null, "22954", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-04T10:46:00", "2015-03-12T14:00:00", "CABLE, THWN-2", "http://www.labavn.org/bid.cfm?22954" ]
+, [ 829798, "144094C6-A6C9-4C75-929F-F050CE020093", 829798, 1426100704, "875849", 1426100704, "875849", null, "22955", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-04T10:05:00", "2015-03-12T14:00:00", "RENTAL, BARE, CENTRIFUGAL PUMPS AND ACCESSORIES", "http://www.labavn.org/bid.cfm?22955" ]
+, [ 829799, "8CF8E5FE-D933-4EBA-A871-CF8A193A0131", 829799, 1426100704, "875849", 1426100704, "875849", null, "22943", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-03T15:34:00", "2015-03-11T14:00:00", "TOPS AND MIDSECTIONS, FIRE-HYDRANTS (WATER)", "http://www.labavn.org/bid.cfm?22943" ]
+, [ 829800, "F0E9912F-11DC-412B-BA99-4ECADA66A976", 829800, 1426100704, "875849", 1426100704, "875849", null, "22941", "Department of General Services", "Amended", "Commodity", "Request For Quote", "2015-03-03T13:00:00", "2015-03-18T13:00:00", "Hydraulic Cylinder Repair & Parts", "http://www.labavn.org/bid.cfm?22941" ]
+, [ 829801, "F4A36E1F-8D4A-4794-A1C7-3F6542DDEFF2", 829801, 1426100704, "875849", 1426100704, "875849", null, "22935", "Department of Water and Power", "Amended", "Commodity", "Request For Bid", "2015-03-03T08:29:00", "2015-03-31T14:00:00", "25-KVDC XLPE CABLE SYSTEM", "http://www.labavn.org/bid.cfm?22935" ]
+, [ 829802, "D5119216-B09E-4943-BFBF-757DD42F3C3F", 829802, 1426100704, "875849", 1426100704, "875849", null, "22936", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-03-03T08:04:00", "2015-03-11T14:00:00", "FLOWMETERS, PROPELLER", "http://www.labavn.org/bid.cfm?22936" ]
+, [ 829803, "EB65F223-7B23-4FFC-9956-19D5362A714A", 829803, 1426100704, "875849", 1426100704, "875849", null, "22924", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-02-27T10:05:00", "2015-03-19T14:00:00", "LIQUID ZINC ORTHOPHOSPHATE", "http://www.labavn.org/bid.cfm?22924" ]
+, [ 829804, "0D85C366-46F1-43DB-A616-ABF242DC36AC", 829804, 1426100704, "875849", 1426100704, "875849", null, "22927", "Harbor Department", "Open", "Construction", "Request For Bid", "2015-02-27T09:00:00", "2015-04-07T14:00:00", "Berth 142 Crane Maintenance Building", "http://www.labavn.org/bid.cfm?22927" ]
+, [ 829805, "C9669E06-AE75-41A6-BA33-6D5B4F7F9A6A", 829805, 1426100704, "875849", 1426100704, "875849", null, "22918", "Los Angeles World Airports", "Open", "Commodity", "Request For Bid", "2015-02-26T19:00:00", "2015-04-02T14:00:00", "115-016 CONVENTIONAL AND TRUNKED RADIO SYSTEM MAINTENANCE AND EQUIPMENT PURCHASES FOR LAX, ONTARIO, VAN NUYS AND PALMDALE AIRPORTS", "http://www.labavn.org/bid.cfm?22918" ]
+, [ 829806, "14C834F4-4BA2-4B2B-A37D-099B121DF58F", 829806, 1426100704, "875849", 1426100704, "875849", null, "22915", "City Attorney", "Open", "Personal Services", "Request For Proposal", "2015-02-26T15:00:00", "2015-03-20T16:00:00", "REQUEST FOR PROPOSALS (RFP) FOR COUNSEL AT THE DEPARTMENT OF WATER AND POWER ON GROUNDWATER CONTAMINATION AND COMPLEX LITIGATION MATTERS", "http://www.labavn.org/bid.cfm?22915" ]
+, [ 829807, "CE5EC104-EDC8-4546-A7B8-235C576B0A56", 829807, 1426100704, "875849", 1426100704, "875849", null, "22917", "Department of Water and Power", "Open", "Commodity", "Request For Bid", "2015-02-26T14:41:00", "2015-03-12T14:00:00", "CROSSARMS, DOUGLAS FIR", "http://www.labavn.org/bid.cfm?22917" ]
+, [ 829808, "C02DA3E1-C44D-4D96-9E7C-442E88665E85", 829808, 1426100704, "875849", 1426100704, "875849", null, "22919", "Department of General Services", "Amended", "Commodity", "Request For Quote", "2015-02-26T09:00:00", "2015-03-16T17:00:00", "Generator, Emergency, 300KW, T4F", "http://www.labavn.org/bid.cfm?22919" ]
+, [ 829809, "5BB6055B-0BD4-4889-899A-A8EFF3609C60", 829809, 1426100704, "875849", 1426100704, "875849", null, "22912", "Los Angeles World Airports", "Open", "Commodity", "Request For Bid", "2015-02-25T19:00:00", "2015-04-02T14:00:00", "115-017 SUPPLY AND DELIVERY OF AS NEEDED PURCHASE AND REPAIR OF BADGES FOR AIRPORT POLICE OFFICERS AT LOS ANGELES INTERNATIONAL AIRPORT.", "http://www.labavn.org/bid.cfm?22912" ]
+, [ 829810, "086AF050-A3FC-4580-A273-30B6CFB19827", 829810, 1426100704, "875849", 1426100704, "875849", null, "22906", "Controller's Office", "Open", "Personal Services", "Request For Qualification", "2015-02-25T09:00:00", "2015-04-06T17:00:00", "Audit, Review and/or Consulting Assistance RFQ - Supplemental", "http://www.labavn.org/bid.cfm?22906" ]
+, [ 829811, "9F562E42-3A1D-483A-8F1F-906EFBB6F425", 829811, 1426100704, "875849", 1426100704, "875849", null, "22894", "Department of General Services - Non-Commodity", "Open", "Personal Services", "Request For Proposal", "2015-02-24T09:00:00", "2015-04-07T16:00:00", "Request for Proposals to Operate Retail Food, Retail Service Concessions and Storage Space", "http://www.labavn.org/bid.cfm?22894" ]
+, [ 829812, "7F8F5D8A-3E8A-4DF9-B775-C65F0D638BEE", 829812, 1426100704, "875849", 1426100704, "875849", null, "22888", "City Administrative Officer", "Open", "Personal Services", "Request For Proposal", "2015-02-20T17:00:00", "2015-03-12T17:00:00", "ADVISOR(S) TO CONDUCT A TECHNICAL REVIEW OF STUDIES RELATED TO THE CITYWIDE MINIMUM WAGE PROPOSAL", "http://www.labavn.org/bid.cfm?22888" ]
+, [ 829813, "91DD81E6-998D-4F49-872D-26EC2242113F", 829813, 1426100704, "875849", 1426100704, "875849", null, "22883", "Harbor Department", "Open", "Personal Services", "Request For Proposal", "2015-02-20T13:00:00", "2015-03-19T15:00:00", "State Advocacy Services", "http://www.labavn.org/bid.cfm?22883" ]
+, [ 829814, "42E5F040-FB25-4963-BAD3-88EA0D763E5B", 829814, 1426100704, "875849", 1426100704, "875849", null, "22792", "Los Angeles World Airports", "Open", "Personal Services", "Request For Bid", "2015-02-19T19:00:00", "2015-03-26T14:00:00", "115-015 ASBESTOS, LEAD PAINT ANED MOLD ABATEMENT SERVICES AT LOS ANGLELES INTERNATIONAL AIRPORT", "http://www.labavn.org/bid.cfm?22792" ]
+, [ 829815, "71B3702E-152B-4D7F-BF32-6668152828DD", 829815, 1426100704, "875849", 1426100704, "875849", null, "22841", "Los Angeles Police Department", "Open", "Personal Services", "Request For Proposal", "2015-02-19T06:00:00", "2015-04-02T14:00:00", "Emergency Crime Scene Cleanup Services", "http://www.labavn.org/bid.cfm?22841" ]
+, [ 829816, "906FFDAF-8EBC-4244-AA4C-054008009906", 829816, 1426100704, "875849", 1426100704, "875849", null, "22805", "Department of General Services - Non-Commodity", "Open", "Personal Services", "Request For Proposal", "2015-02-12T09:00:00", "2015-03-25T17:00:00", "Request For Proposal To Operate A Business In A Retail/Commercial Space", "http://www.labavn.org/bid.cfm?22805" ]
+, [ 829817, "87CB2329-5FCA-4B08-9D03-85AB2E098CCE", 829817, 1426100704, "875849", 1426100704, "875849", null, "22812", "Los Angeles Housing + Community Investment Department", "Amended", "Personal Services", "Request For Proposal", "2015-02-12T08:00:00", "2015-03-26T16:00:00", "Housing Opportunities for Persons with HIV/AIDS (HOPWA)", "http://www.labavn.org/bid.cfm?22812" ]
+, [ 829818, "A427E7CB-E89D-46DF-B4A7-C16805AD0FB1", 829818, 1426100704, "875849", 1426100704, "875849", null, "22790", "Public Works: Bureau of Engineering", "Amended", "Construction", "Request For Bid", "2015-02-11T17:00:00", "2015-03-18T10:00:00", "Terminal Island Water Reclamation Plant (TIWRP)- Aeration System Replacement", "http://www.labavn.org/bid.cfm?22790" ]
+, [ 829819, "4F8737ED-7274-478B-B9A8-FC674C6B0C35", 829819, 1426100704, "875849", 1426100704, "875849", null, "22803", "Department of General Services - Non-Commodity", "Open", "Personal Services", "Request For Proposal", "2015-02-11T09:00:00", "2015-03-25T17:00:00", "Request For Proposal To Operate A Business In A Retail/Commercial Space", "http://www.labavn.org/bid.cfm?22803" ]
+, [ 829820, "BC4B873B-26F8-4F30-AB2A-A104041FAAF3", 829820, 1426100704, "875849", 1426100704, "875849", null, "22780", "Los Angeles World Airports", "Amended", "Personal Services", "Request For Proposal", "2015-02-10T18:00:00", "2015-03-17T14:00:00", "Expert Emergency Management Services at Los Angeles International Airport, LA/Ontario International Airport and Van Nuys Airport", "http://www.labavn.org/bid.cfm?22780" ]
+, [ 829821, "F6D346F5-1293-4812-9668-109521B770B7", 829821, 1426100704, "875849", 1426100704, "875849", null, "22739", "CRA/ LA Contracts and Purchasing", "Amended", "Personal Services", "Request For Proposal", "2015-02-09T09:00:00", "2015-03-13T14:00:00", "RFP NP-16117 Environmental Redmediation System for Western Gage Gateway and Pocket Park located at 6300 Western Ave.", "http://www.labavn.org/bid.cfm?22739" ]
+, [ 829822, "E2695A12-AFDD-438C-87C8-C24928B4ED0F", 829822, 1426100704, "875849", 1426100704, "875849", null, "22746", "Los Angeles World Airports", "Amended", "Personal Services", "Request For Proposal", "2015-02-06T16:00:00", "2015-03-31T15:00:00", "Request for Proposals for Property Management and Leasing for Skyview Office Complex", "http://www.labavn.org/bid.cfm?22746" ]
+, [ 829823, "464EAD3D-3B0D-4915-834B-B241669F9818", 829823, 1426100704, "875849", 1426100704, "875849", null, "22733", "Personnel Department", "Open", "Personal Services", "Request For Proposal", "2015-02-05T18:00:00", "2015-04-02T15:00:00", "Deferred Compensation Plan Consulting Services", "http://www.labavn.org/bid.cfm?22733" ]
+, [ 829824, "30E6C95F-F0E6-4F48-AA88-51F25ED4D2D6", 829824, 1426100704, "875849", 1426100704, "875849", null, "22705", "Los Angeles World Airports", "Open", "Commodity", "Request For Bid", "2015-02-03T19:00:00", "2015-03-12T14:00:00", "115-014 SUPPLY AND DELIVERY OF UTILITY TRUCK WITH LIFTGATE AND AIR COMPRESSOR TO THE LOS ANGELES INTERNATIONAL AIRPORT", "http://www.labavn.org/bid.cfm?22705" ]
+, [ 829825, "714F01B8-5D62-4955-8906-633F24C1A987", 829825, 1426100704, "875849", 1426100704, "875849", null, "22632", "Los Angeles World Airports", "Amended", "Personal Services", "Request For Bid", "2015-01-29T19:00:00", "2015-03-12T14:00:00", "115-013 PURCHASE, INSTALLATION, REPAIRS AND MAINTENANCE OF GLASS, MIRRORS AND STOREFRONT SYSTEMS AT LAX, VAN NUYS AND ONTARIO AIRPORT FACILITIES", "http://www.labavn.org/bid.cfm?22632" ]
+, [ 829826, "3D53CD65-8454-4523-AAAF-8EE531D7B22B", 829826, 1426100704, "875849", 1426100704, "875849", null, "22569", "Los Angeles Public Library", "Amended", "Personal Services", "Request For Proposal", "2015-01-22T19:00:00", "2015-03-11T15:00:00", "REQUEST FOR PROPOSALS FOR ACQUISITION OF LIBRARY MATERIALS AND SERVICES", "http://www.labavn.org/bid.cfm?22569" ]
+, [ 829827, "1D8B2390-9D59-4A04-8D46-5EA20D5C4D91", 829827, 1426100704, "875849", 1426100704, "875849", null, "22456", "Department of General Services", "Amended", "Commodity", "Request For Quote", "2015-01-10T11:00:00", "2015-03-19T13:00:00", "Boat, Dry Docking & Repairs", "http://www.labavn.org/bid.cfm?22456" ]
+, [ 829828, "CA1592F2-A791-430C-8FD4-724EBC9479D4", 829828, 1426100704, "875849", 1426100704, "875849", null, "22255", "Los Angeles World Airports", "Amended", "Personal Services", "Request For Proposal", "2014-12-18T17:00:00", "2015-03-24T13:00:00", "RFP for Operation and Management of Central Terminal Area Parking Garage System and Design of Garage Improvements at Los Angeles International Airport", "http://www.labavn.org/bid.cfm?22255" ]
+, [ 829829, "018F0325-17F2-44B1-A50B-CA6903F08386", 829829, 1426100704, "875849", 1426100704, "875849", null, "22152", "Public Works: Bureau of Sanitation", "Amended", "Personal Services", "Request For Proposal", "2014-12-10T19:00:00", "2015-03-11T14:00:00", "The Management of City Biosolids", "http://www.labavn.org/bid.cfm?22152" ]
+, [ 829830, "63220CDD-220B-438F-964D-8DBACF787AD6", 829830, 1426100704, "875849", 1426100704, "875849", null, "22102", "Mayor's Office: Homeland Security and Public Safety", "Amended", "Personal Services", "Request For Qualification", "2014-12-05T14:00:00", "2015-04-06T15:00:00", "Los Angeles Emergency Management Department RFQ For Providing Emergency Services For Response and Recovery Operations During Catastrophic Incidents", "http://www.labavn.org/bid.cfm?22102" ]
+, [ 829831, "D95D6309-8F26-49F1-840F-72A5AE44290C", 829831, 1426100704, "875849", 1426100704, "875849", null, "21818", "Harbor Department", "Amended", "Construction", "Request For Bid", "2014-11-06T09:00:00", "2015-03-25T14:00:00", "Berths 171-173 Environmental Site Remediation", "http://www.labavn.org/bid.cfm?21818" ]
+, [ 829832, "4F591E5C-1BFB-41AA-9E79-9ACB553243C1", 829832, 1426100704, "875849", 1426100704, "875849", null, "21314", "Department of General Services", "Open", "Commodity", "Request For Bid", "2014-09-15T09:00:00", "2017-09-15T17:00:00", "Emergency Response and Recovery Assistance Memorandum of Agreement", "http://www.labavn.org/bid.cfm?21314" ]
+, [ 829833, "B00D4B3E-79A3-4D2F-BB4C-AD23C0AED7F1", 829833, 1426100704, "875849", 1426100704, "875849", null, "20752", "Los Angeles World Airports", "Amended", "Personal Services", "Request For Proposal", "2014-07-16T09:00:00", "2015-05-04T15:00:00", "Request for Proposals for Fixed Base Operator at 16644 Roscoe Boulevard at Van Nuys Airport", "http://www.labavn.org/bid.cfm?20752" ]
+, [ 829834, "F3006814-D3B2-472D-A4F5-D7FA8F11E531", 829834, 1426100704, "875849", 1426100704, "875849", null, "20194", "Los Angeles World Airports", "Open", "Personal Services", "Request For Interest", "2014-05-19T16:00:00", "2015-03-31T16:00:00", "Skyview Class A Office Space - Request for Interest", "http://www.labavn.org/bid.cfm?20194" ]
+, [ 829835, "497BEE39-7951-47DC-B068-7FC5FF16221B", 829835, 1426100704, "875849", 1426100704, "875849", null, "19709", "Los Angeles World Airports", "Open", "Personal Services", "Request For Interest", "2014-04-04T10:00:00", "2015-03-31T16:00:00", "Office Space Available at LAX", "http://www.labavn.org/bid.cfm?19709" ]
+, [ 829836, "D85C3E3C-DF06-4593-B8F1-A00397E012DB", 829836, 1426100704, "875849", 1426100704, "875849", null, "18738", "Los Angeles World Airports", "Open", "Personal Services", "Request For Interest", "2013-12-11T17:00:00", "2015-03-31T17:00:00", "Leasing Opportunity- 5600 West Century Boulevard", "http://www.labavn.org/bid.cfm?18738" ]
+, [ 829837, "8BED0B05-6BBB-464D-A719-4A312D8F0FBD", 829837, 1426100704, "875849", 1426100704, "875849", null, null, null, null, null, null, null, null, null, null ]
  ]
 }

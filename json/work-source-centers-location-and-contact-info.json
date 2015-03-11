@@ -8,7 +8,7 @@
       "createdAt" : 1401463160,
       "description" : "Identifies EWDD WorkSource Centers along with related agency, location, and contact information.",
       "displayType" : "table",
-      "downloadCount" : 23,
+      "downloadCount" : 24,
       "indexUpdatedAt" : 1414612894,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -508,8 +508,8 @@
         },
         "format" : {
           "precisionStyle" : "standard",
-          "align" : "right",
-          "noCommas" : "false"
+          "noCommas" : "false",
+          "align" : "right"
         }
       }, {
         "id" : 150616461,

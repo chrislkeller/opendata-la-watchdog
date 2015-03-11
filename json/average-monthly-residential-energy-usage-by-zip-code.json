@@ -9,7 +9,7 @@
       "createdAt" : 1401317504,
       "description" : "Residential energy use (averaged monthly)  for each fiscal year since 2003 in kilowatt hours (kWh).",
       "displayType" : "table",
-      "downloadCount" : 39,
+      "downloadCount" : 44,
       "indexUpdatedAt" : 1414616199,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -22,7 +22,7 @@
       "rowsUpdatedBy" : "7q7s-tyf3",
       "tableId" : 1597891,
       "totalTimesRated" : 0,
-      "viewCount" : 126,
+      "viewCount" : 131,
       "viewLastModified" : 1401318002,
       "viewType" : "tabular",
       "columns" : [ {
