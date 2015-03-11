@@ -9,8 +9,8 @@ If a given csv file and its corresponding json file is below 10,000 rows, the fi
 
 I'm storing files larger than 10,000 rows locally, but at my knowledge level they are too large for GitHub, and too large to handle efficiently in a local repository.
 
-|Data set|Row count|Last download|   |   |
-|:--------|--------:|:-----------|:--|:--|
+|Data set|Row count|Last download|CSV link|JSON link|
+|:--------|--------:|:-----------|:-------|:--------|
 {% for obj in file_list %}|[{{ obj.name }}]({{ obj.url }})|{{ obj.row_count }}|{{ obj.last_updated }}|{% if obj.repo_status %}[CSV](csv/{{ obj.csv_name }})|[JSON](json/{{ obj.json_name }}){% else %}n/a|n/a{% endif %}|
 {% endfor %}
 
