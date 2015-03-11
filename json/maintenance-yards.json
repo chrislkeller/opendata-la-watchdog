@@ -1,0 +1,1098 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "gsdn-8z5h",
+      "name" : "Maintenance Yards",
+      "averageRating" : 0,
+      "category" : "A Well Run City",
+      "createdAt" : 1419377081,
+      "displayType" : "table",
+      "downloadCount" : 2,
+      "indexUpdatedAt" : 1419377186,
+      "licenseId" : "PUBLIC_DOMAIN",
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 9716349,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1419377161,
+      "publicationGroup" : 2013114,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1419377098,
+      "rowsUpdatedBy" : "7t2j-pb28",
+      "tableId" : 2013114,
+      "totalTimesRated" : 0,
+      "viewCount" : 20,
+      "viewLastModified" : 1419377161,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 181363039,
+        "name" : "Department",
+        "dataTypeName" : "text",
+        "fieldName" : "department",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 23518817,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 192,
+          "smallest" : "BOS-SR",
+          "null" : 0,
+          "largest" : "RAP",
+          "top" : [ {
+            "count" : 20,
+            "item" : "BOS-SR"
+          }, {
+            "count" : 19,
+            "item" : "BOS-WW"
+          }, {
+            "count" : 18,
+            "item" : "BSL"
+          }, {
+            "count" : 17,
+            "item" : "BSS"
+          }, {
+            "count" : 16,
+            "item" : "DOT"
+          }, {
+            "count" : 15,
+            "item" : "FIRE"
+          }, {
+            "count" : 14,
+            "item" : "GSD"
+          }, {
+            "count" : 13,
+            "item" : "RAP"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 181363040,
+        "name" : "Name",
+        "dataTypeName" : "text",
+        "fieldName" : "name",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 23518818,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 192,
+          "smallest" : "36th Street Yard",
+          "null" : 0,
+          "largest" : "Woodley Lakes Golf Course",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Raymer St Yd-GSD No Dist& Warehouse (Bldg F)"
+          }, {
+            "count" : 19,
+            "item" : "Northridge District Service Yard"
+          }, {
+            "count" : 18,
+            "item" : "North Hollywood District Service Yard"
+          }, {
+            "count" : 17,
+            "item" : "Hansen Dam District Service Yard"
+          }, {
+            "count" : 16,
+            "item" : "Valley Plaza District Service Yard"
+          }, {
+            "count" : 15,
+            "item" : "Valley West District Service Yard"
+          }, {
+            "count" : 14,
+            "item" : "Westwood District"
+          }, {
+            "count" : 13,
+            "item" : "Hollenbeck Park Service Yard"
+          }, {
+            "count" : 12,
+            "item" : "Pacific Area Armand Hammer Golf Course Holmby Pa"
+          }, {
+            "count" : 11,
+            "item" : "Pacific Palisades Yard"
+          }, {
+            "count" : 10,
+            "item" : "Echo Park Service Yard"
+          }, {
+            "count" : 9,
+            "item" : "Pacific Area Penmar Golf Course"
+          }, {
+            "count" : 8,
+            "item" : "Roosevelt Golf Course"
+          }, {
+            "count" : 7,
+            "item" : "McArthur District Service Yard"
+          }, {
+            "count" : 6,
+            "item" : "Los Feliz Golf Course"
+          }, {
+            "count" : 5,
+            "item" : "Meto Green Machine at CSY"
+          }, {
+            "count" : 4,
+            "item" : "Tregnan Golf Academy"
+          }, {
+            "count" : 3,
+            "item" : "Glen Alla Park"
+          }, {
+            "count" : 2,
+            "item" : "Sycamore Grove Service Yard"
+          }, {
+            "count" : 1,
+            "item" : "Griffith Area Wilson/Harding Golf Courses"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 181363041,
+        "name" : "Zip Code",
+        "dataTypeName" : "number",
+        "fieldName" : "zip_code",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 23518819,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 192,
+          "smallest" : "90003",
+          "sum" : "17370228",
+          "null" : 0,
+          "average" : "90469.9375",
+          "largest" : "91606",
+          "top" : [ {
+            "count" : 20,
+            "item" : "90031"
+          }, {
+            "count" : 19,
+            "item" : "90023"
+          }, {
+            "count" : 18,
+            "item" : "90731"
+          }, {
+            "count" : 17,
+            "item" : "90025"
+          }, {
+            "count" : 16,
+            "item" : "90021"
+          }, {
+            "count" : 15,
+            "item" : "90039"
+          }, {
+            "count" : 14,
+            "item" : "91352"
+          }, {
+            "count" : 13,
+            "item" : "91335"
+          }, {
+            "count" : 12,
+            "item" : "90047"
+          }, {
+            "count" : 11,
+            "item" : "90291"
+          }, {
+            "count" : 10,
+            "item" : "90038"
+          }, {
+            "count" : 9,
+            "item" : "90019"
+          }, {
+            "count" : 8,
+            "item" : "90045"
+          }, {
+            "count" : 7,
+            "item" : "91605"
+          }, {
+            "count" : 6,
+            "item" : "91411"
+          }, {
+            "count" : 5,
+            "item" : "90012"
+          }, {
+            "count" : 4,
+            "item" : "90744"
+          }, {
+            "count" : 3,
+            "item" : "90033"
+          }, {
+            "count" : 2,
+            "item" : "90027"
+          }, {
+            "count" : 1,
+            "item" : "90018"
+          } ]
+        },
+        "format" : {
+          "mask" : "#####",
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "false"
+        }
+      }, {
+        "id" : 181363042,
+        "name" : "Department Number",
+        "dataTypeName" : "number",
+        "fieldName" : "department_number",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 23518820,
+        "width" : 304,
+        "cachedContents" : {
+          "non_null" : 192,
+          "smallest" : "1",
+          "sum" : "5378",
+          "null" : 0,
+          "average" : "28.01041666666667",
+          "largest" : "63",
+          "top" : [ {
+            "count" : 20,
+            "item" : "21"
+          }, {
+            "count" : 19,
+            "item" : "1"
+          }, {
+            "count" : 18,
+            "item" : "20"
+          }, {
+            "count" : 17,
+            "item" : "12"
+          }, {
+            "count" : 16,
+            "item" : "8"
+          }, {
+            "count" : 15,
+            "item" : "63"
+          }, {
+            "count" : 14,
+            "item" : "25"
+          }, {
+            "count" : 13,
+            "item" : "50"
+          }, {
+            "count" : 12,
+            "item" : "5"
+          }, {
+            "count" : 11,
+            "item" : "51"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 181363043,
+        "name" : "Building Number",
+        "dataTypeName" : "number",
+        "fieldName" : "building_number",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 23518821,
+        "width" : 280,
+        "cachedContents" : {
+          "non_null" : 192,
+          "smallest" : "1",
+          "sum" : "30336",
+          "null" : 0,
+          "average" : "158",
+          "largest" : "908",
+          "top" : [ {
+            "count" : 20,
+            "item" : "32"
+          }, {
+            "count" : 19,
+            "item" : "3"
+          }, {
+            "count" : 18,
+            "item" : "13"
+          }, {
+            "count" : 17,
+            "item" : "17"
+          }, {
+            "count" : 16,
+            "item" : "8"
+          }, {
+            "count" : 15,
+            "item" : "24"
+          }, {
+            "count" : 14,
+            "item" : "272"
+          }, {
+            "count" : 13,
+            "item" : "96"
+          }, {
+            "count" : 12,
+            "item" : "908"
+          }, {
+            "count" : 11,
+            "item" : "279"
+          }, {
+            "count" : 10,
+            "item" : "883"
+          }, {
+            "count" : 9,
+            "item" : "156"
+          }, {
+            "count" : 8,
+            "item" : "796"
+          }, {
+            "count" : 7,
+            "item" : "276"
+          }, {
+            "count" : 6,
+            "item" : "420"
+          }, {
+            "count" : 5,
+            "item" : "640"
+          }, {
+            "count" : 4,
+            "item" : "284"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 181363044,
+        "name" : "Square Footage",
+        "dataTypeName" : "number",
+        "fieldName" : "square_footage",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 23518822,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 157,
+          "smallest" : "0.00",
+          "sum" : "3702898.00",
+          "null" : 35,
+          "average" : "23585.33757961783",
+          "largest" : "1300000.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0.00"
+          }, {
+            "count" : 19,
+            "item" : "2000.00"
+          }, {
+            "count" : 18,
+            "item" : "5000.00"
+          }, {
+            "count" : 17,
+            "item" : "16500.00"
+          }, {
+            "count" : 16,
+            "item" : "19500.00"
+          }, {
+            "count" : 15,
+            "item" : "9203.00"
+          }, {
+            "count" : 14,
+            "item" : "6900.00"
+          }, {
+            "count" : 13,
+            "item" : "15200.00"
+          }, {
+            "count" : 12,
+            "item" : "11520.00"
+          }, {
+            "count" : 11,
+            "item" : "27000.00"
+          }, {
+            "count" : 10,
+            "item" : "45000.00"
+          }, {
+            "count" : 9,
+            "item" : "6200.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 181363045,
+        "name" : "Facility",
+        "dataTypeName" : "text",
+        "fieldName" : "facility",
+        "position" : 8,
+        "renderTypeName" : "text",
+        "tableColumnId" : 23518823,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 153,
+          "smallest" : "36TH STREET YARD",
+          "null" : 39,
+          "largest" : "WILSHIRE DISTRICT ST SERVICES YD- OIL HOUSE",
+          "top" : [ {
+            "count" : 20,
+            "item" : "GAFFEY STREET YARD"
+          }, {
+            "count" : 19,
+            "item" : "7TH ST. CONSOLIDATED FACILITY - GSD"
+          }, {
+            "count" : 18,
+            "item" : "GRIFFITH PARK"
+          }, {
+            "count" : 17,
+            "item" : "VALLEY REGION HEADQUARTRS BLDG"
+          }, {
+            "count" : 16,
+            "item" : "ST. ANDREWS RECREATION CENTER"
+          }, {
+            "count" : 15,
+            "item" : "ALGIN SUTTON RECREATION CENTER"
+          }, {
+            "count" : 14,
+            "item" : "PORTER RANCH PARK"
+          }, {
+            "count" : 13,
+            "item" : "REC & PARKS SERVICE"
+          }, {
+            "count" : 12,
+            "item" : "HANSEN DAM REC CENTER"
+          }, {
+            "count" : 11,
+            "item" : "HOLLENBECK PARK"
+          }, {
+            "count" : 10,
+            "item" : "HOLMBY GOLF AND BOWLING GREENS"
+          }, {
+            "count" : 9,
+            "item" : "PALISADES PARK & REC CENTER"
+          }, {
+            "count" : 8,
+            "item" : "PENMAR GOLF"
+          }, {
+            "count" : 7,
+            "item" : "VERMONT PARKWAY"
+          }, {
+            "count" : 6,
+            "item" : "GRIFFITH PARK REC & PARKS SERVICE"
+          }, {
+            "count" : 5,
+            "item" : "GRIFIFTH PARK"
+          }, {
+            "count" : 4,
+            "item" : "GLEN-ALLA PARK"
+          }, {
+            "count" : 3,
+            "item" : "SYCAMORE GROVE PARK"
+          }, {
+            "count" : 2,
+            "item" : "DEL REY LAGOON"
+          }, {
+            "count" : 1,
+            "item" : "WESTCHESTER RECREATION CENTER"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 181363046,
+        "name" : "Council District",
+        "dataTypeName" : "number",
+        "fieldName" : "council_district",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 23518824,
+        "width" : 292,
+        "cachedContents" : {
+          "non_null" : 172,
+          "smallest" : "0",
+          "sum" : "1497",
+          "null" : 20,
+          "average" : "8.703488372093023",
+          "largest" : "15",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          }, {
+            "count" : 19,
+            "item" : "14"
+          }, {
+            "count" : 18,
+            "item" : "15"
+          }, {
+            "count" : 17,
+            "item" : "11"
+          }, {
+            "count" : 16,
+            "item" : "10"
+          }, {
+            "count" : 15,
+            "item" : "9"
+          }, {
+            "count" : 14,
+            "item" : "4"
+          }, {
+            "count" : 13,
+            "item" : "6"
+          }, {
+            "count" : 12,
+            "item" : "12"
+          }, {
+            "count" : 11,
+            "item" : "2"
+          }, {
+            "count" : 10,
+            "item" : "7"
+          }, {
+            "count" : 9,
+            "item" : "8"
+          }, {
+            "count" : 8,
+            "item" : "13"
+          }, {
+            "count" : 7,
+            "item" : "5"
+          }, {
+            "count" : 6,
+            "item" : "3"
+          }, {
+            "count" : 5,
+            "item" : "0"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 181363047,
+        "name" : "dept_name",
+        "dataTypeName" : "text",
+        "fieldName" : "dept_name",
+        "position" : 10,
+        "renderTypeName" : "text",
+        "tableColumnId" : 23518825,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 154,
+          "smallest" : "CDD",
+          "null" : 38,
+          "largest" : "VAR",
+          "top" : [ {
+            "count" : 20,
+            "item" : "SAN"
+          }, {
+            "count" : 19,
+            "item" : "DGS"
+          }, {
+            "count" : 18,
+            "item" : "LIB"
+          }, {
+            "count" : 17,
+            "item" : "STL"
+          }, {
+            "count" : 16,
+            "item" : "STM"
+          }, {
+            "count" : 15,
+            "item" : "VAR"
+          }, {
+            "count" : 14,
+            "item" : "CDD"
+          }, {
+            "count" : 13,
+            "item" : "R&P"
+          }, {
+            "count" : 12,
+            "item" : "DOT"
+          }, {
+            "count" : 11,
+            "item" : "FIR"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 181363048,
+        "name" : "Location 1",
+        "dataTypeName" : "location",
+        "fieldName" : "location_1",
+        "position" : 11,
+        "renderTypeName" : "location",
+        "tableColumnId" : 23518826,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 32,
+          "smallest" : {
+            "human_address" : "{\"address\":\"1016 N Mission Rd\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+          },
+          "null" : 160,
+          "largest" : {
+            "human_address" : "{\"address\":\"7510 S Figueroa St\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+          },
+          "top" : [ {
+            "count" : 20,
+            "item" : {
+              "human_address" : "{\"address\":\"14832 W Raymer St\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 19,
+            "item" : {
+              "human_address" : "{\"address\":\"1016 N Mission Rd\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 18,
+            "item" : {
+              "human_address" : "{\"address\":\"2474 E Olympic Blvd\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 17,
+            "item" : {
+              "human_address" : "{\"address\":\"2484 E Olympic Blvd\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 16,
+            "item" : {
+              "human_address" : "{\"address\":\"2770 N Cahuenga Blvd\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 15,
+            "item" : {
+              "human_address" : "{\"address\":\"4610 Colorado Blvd\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 14,
+            "item" : {
+              "human_address" : "{\"address\":\"6262 Van Nuys Blvd\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 13,
+            "item" : {
+              "human_address" : "{\"address\":\"7166 W Manchester Avenue\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 12,
+            "item" : {
+              "human_address" : "{\"address\":\"10811 Chandler Blvd\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 11,
+            "item" : {
+              "human_address" : "{\"address\":\"15751 Rinaldi St\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 10,
+            "item" : {
+              "human_address" : "{\"address\":\"430 E Commercial St\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 9,
+            "item" : {
+              "human_address" : "{\"address\":\"1828 Sawtelle Blvd\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 8,
+            "item" : {
+              "human_address" : "{\"address\":\"7166 W Manchester Ave\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 7,
+            "item" : {
+              "human_address" : "{\"address\":\"7510 S Figueroa St\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 6,
+            "item" : {
+              "human_address" : "{\"address\":\"11214 Exposition Blvd\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 5,
+            "item" : {
+              "human_address" : "{\"address\":\"12544 Saticoy St\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 4,
+            "item" : {
+              "human_address" : "{\"address\":\"14832 Raymer St\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 3,
+            "item" : {
+              "human_address" : "{\"address\":\"1350 Sepulveda Blvd\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 2,
+            "item" : {
+              "human_address" : "{\"address\":\"6335 Woodley Ave\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "human_address" : "{\"address\":\"11455 Magnolia Blvd\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          } ]
+        },
+        "format" : {
+        },
+        "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Public Domain"
+      },
+      "metadata" : {
+        "custom_fields" : {
+          "Committed Update Frequency" : {
+            "Refresh rate" : "Annual"
+          },
+          "Data Owner" : {
+            "Board of Public Works" : "",
+            "LAPD" : "",
+            "City Administrative Officer" : "",
+            "Personnel " : "",
+            "Bureau of Engineering" : "",
+            "City Attorney" : "",
+            "Employee Relations Board" : "",
+            "Transportation" : "",
+            "Housing and Community Investment" : "",
+            "Library" : "",
+            "Recreation and Parks " : "",
+            "Neighborhood Empowerment" : "",
+            "Controller's Office" : "",
+            "El Pueblo" : "",
+            "Other" : "",
+            "Bureau of Sanitation" : "",
+            "Disability, Department on" : "",
+            "LACERS" : "",
+            "Cultural Affairs" : "",
+            "Information Technology" : "",
+            "Fire and Police Pensions" : "",
+            "Emergency Management" : "",
+            "General Services" : "General Services",
+            "Council District 12" : "",
+            "Council District 13" : "",
+            "Council District 14" : "",
+            "Project Restore" : "",
+            "Council District 15" : "",
+            "Council District 10" : "",
+            "Council District 11" : "",
+            "Aging" : "",
+            "Bureau of Street Lighting" : "",
+            "City Clerk" : "",
+            "Bureau of Contract Administration" : "",
+            "Planning" : "",
+            "Harbor " : "",
+            "LAWA" : "",
+            "Public Accountability, The Office of" : "",
+            "Office of Finance" : "",
+            "Council District 03" : "",
+            "Council District 04" : "",
+            "Council District 01" : "",
+            "Council District 02" : "",
+            "Bureau of Street Services" : "",
+            "Zoo" : "",
+            "Council District 09" : "",
+            "Council District 07" : "",
+            "Council District 08" : "",
+            "Council District 05" : "",
+            "Council District 06" : "",
+            "Economic and Workforce Development" : "",
+            "LAFD" : "",
+            "Animal Services" : "",
+            "Ethics Commission" : "",
+            "Mayor's Office" : "",
+            "Housing Authority" : "",
+            "Building and Safety" : "",
+            "LADWP" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "7t2j-pb28",
+        "displayName" : "Abhi Nemani",
+        "profileImageUrlLarge" : "/images/profile/5853/8870/22a_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5853/8870/22a_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5853/8870/22a_tiny.jpg",
+        "roleName" : "administrator",
+        "screenName" : "Abhi Nemani",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "7t2j-pb28",
+        "displayName" : "Abhi Nemani",
+        "profileImageUrlLarge" : "/images/profile/5853/8870/22a_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5853/8870/22a_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5853/8870/22a_tiny.jpg",
+        "roleName" : "administrator",
+        "screenName" : "Abhi Nemani",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "407B0E81-EC8A-4315-A57E-45F990356111", 1, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"452 San Fernando Road\"\n  }\n}", "BOS-SR", "North Central District Yard - San Fernando Road", "90031", "21", "36", null, "SAN FERNANDO ROAD FACILITY", "1", "SAN", [ null, null, null, null, null ] ]
+, [ 2, "3030F56B-0B8A-4869-A232-47CA26792DD7", 2, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"786 South Mission Road; Los Angeles\"\n  }\n}", "BOS-SR", "South Central Refuse Collection Yard", "90023", "1", "37", "8100.00", "7TH ST CONSOLIDATED FACIL- Sanitation", "14", "DGS", [ null, null, null, null, null ] ]
+, [ 3, "532ED255-E91C-473C-91EB-418692C3AA1C", 3, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"1400 North Gaffey Street; San Pedro\"\n  }\n}", "BOS-SR", "Harbor District Collection Yard", "90731", "21", "32", "0.00", "GAFFEY STREET YARD", "15", "SAN", [ null, null, null, null, null ] ]
+, [ 4, "48E7CFB9-F86C-47FC-A21D-4236A48CC092", 4, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"2027 South Stoner Avenue; Los Angeles\"\n  }\n}", "BOS-SR", "Western District Refuse Collection Yard", "90025", "20", "3", "116775.00", null, "11", null, [ null, null, null, null, null ] ]
+, [ 5, "CA019DA0-2891-4C02-85BE-C17289515B13", 5, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"2201 E. Washington Bl., Los Angeles\"\n  }\n}", "BOS-SR", "Central Los Angeles Recycle And Transfer Station", "90021", "20", "9", null, null, "10", null, [ null, null, null, null, null ] ]
+, [ 6, "8F30C52F-4137-47A2-A059-28517777B454", 6, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"2611 E. 25th Street, Los Angeles\"\n  }\n}", "BOS-SR", "Refuse Collection Center", "90058", "20", "1", "0.00", "REFUSE COLLECTION CENTER", "14", "SAN", [ null, null, null, null, null ] ]
+, [ 7, "89F71EBB-E7AB-4D1B-A6FD-1FB533EE756E", 7, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"2649 E.  Washington Bl. Los Angeles\"\n  }\n}", "BOS-SR", "South Central", "90021", "20", "2", "0.00", "SOUTH-CENTRAL", "14", "SAN", [ null, null, null, null, null ] ]
+, [ 8, "72363CD9-1CD1-41E4-805F-81A886DBC0DF", 8, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"4071 S. Alameda St, Los Angeles\"\n  }\n}", "BOS-SR", "Lancer Project", "90039", "20", "20", "0.00", "LANCER PROJECT", "9", "SAN", [ null, null, null, null, null ] ]
+, [ 9, "E1907139-1FFE-49D5-A7B4-AC9D8AB4B460", 9, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"5050 Mt Hollywood Way, Los Angeles\"\n  }\n}", "BOS-SR", "Toyon Canyon Park Reclamation Project", "90035", "20", "13", "2000.00", "TOYON CANYON PARK RECLAMATION PROJECT", "4", "SAN", [ null, null, null, null, null ] ]
+, [ 10, "F69722BB-32BD-4B8B-9922-5BB0C2EC4FA4", 10, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"8787 Sharp Ave., Sun Valley\"\n  }\n}", "BOS-SR", "Sheldon-Arleta Landfill", "91352", "20", "17", "3650.00", "SHELDON-ARLETA LANDFILL", "6", "SAN", [ null, null, null, null, null ] ]
+, [ 11, "4CBC5DDA-754F-4135-A8B1-50BA8BEA4755", 11, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"8840 Vanalden Avenue; Northridge\"\n  }\n}", "BOS-SR", "West Valley Refuse Collection Yard", "90023", "20", "4", "11138.00", "WEST VALLEY REFUSE COLLECTION YARD", "12", "SAN", [ null, null, null, null, null ] ]
+, [ 12, "5B83C9FA-9D78-4C67-9C25-DA9CF3EB6EEE", 12, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"9701 San Fernando Rd., Pacoima\"\n  }\n}", "BOS-SR", "East Valley Refuse Collection Yard", "91335", "20", "8", "192000.00", "EAST VALLEY REFUSE COLLECTION YARD", "6", "SAN", [ null, null, null, null, null ] ]
+, [ 13, "025980DE-2FFE-46E6-8AAD-32CC06E12FEF", 13, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"11050 Pendleton St.; Sun Valley\"\n  }\n}", "BOS-SR", "East Valley Solid Resources Complex", "91352", "21", "14", null, "EAST VALLEY SOLID WASTE RESOURCES FACILITY", "2", "SAN", [ null, null, null, null, null ] ]
+, [ 14, "B77DC9B2-FAE7-4B05-9B65-CA64436EBE9C", 14, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"11950 Lopez Canyon Rd., Los Angeles\"\n  }\n}", "BOS-SR", "Lopez Canyon Landfill", "91342", "20", "19", "3700.00", "LOPEZ CANYON LANDFILL", "7", "SAN", [ null, null, null, null, null ] ]
+, [ 15, "C0A2E75E-57F8-43BE-B50A-9671AF868CF9", 15, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"12455 Wicks Street\"\n  }\n}", "BOS-SR", "Sheldon-Arleta Landfill", "91352", "20", "17", "3650.00", "SHELDON-ARLETA LANDFILL", "6", "SAN", [ null, null, null, null, null ] ]
+, [ 16, "2D66AC50-2CCF-495F-A21D-A18AFEE3E902", 16, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"452 San Fernando Rd\"\n  }\n}", "BOS-WW", "North Central District Yard - San Fernando Road", "90031", "21", "36", null, null, null, null, [ null, null, null, null, null ] ]
+, [ 17, "5681D98A-29BC-4482-BAE6-E3FE728DBA13", 17, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"1400 N. Gaffey St, San Pedro\"\n  }\n}", "BOS-WW", "Gaffey Street Yard", "90731", "21", "32", "5000.00", "GAFFEY STREET YARD", "15", "SAN", [ null, null, null, null, null ] ]
+, [ 18, "77EC0875-33EA-498D-9BBD-D3C84767C767", 18, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"1403 W. Gardner, W. Hollywood\"\n  }\n}", "BOS-WW", "Water Treatment Aeration Facility", "90046", "21", "31", "4155.00", "WILL AND ARIEL DURANT BRANCH LIBRARY", "4", "LIB", [ null, null, null, null, null ] ]
+, [ 19, "E6FA10BF-0FD9-4E30-A1F4-1ABDE3822DA9", 19, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"1406 Gaffey St., San Pedro\"\n  }\n}", "BOS-WW", "Harbor Dist Sewer Mtce Yard", "90731", "21", "9", "0.00", "HARBOR DIST SEWER MTCE YARD", "15", "SAN", [ null, null, null, null, null ] ]
+, [ 20, "91A5CA09-AF5F-4991-B116-D3A0F5F326BD", 20, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"1870 Robidoux, Wilmington\"\n  }\n}", "BOS-WW", "Pumping Plant", "90744", "21", "11", "0.00", "PUMPING PLANT", "15", "SAN", [ null, null, null, null, null ] ]
+, [ 21, "F520E07A-0A8B-4295-AB55-D305129D4FEE", 21, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"2002 West Slauson Avenue\"\n  }\n}", "BOS-WW", "South Sewer Maintenance Yard", "90047", "21", "3", "8294.00", "SOUTH SEWER MAINTENANCE YARD", "8", "SAN", [ null, null, null, null, null ] ]
+, [ 22, "AD4616E9-DD4B-47AD-A429-92BC0EB08CC4", 22, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"2335 Dorris Place, Los Angeles\"\n  }\n}", "BOS-WW", "Nd Sewer Maintenance Yard-Admin Bldg & Warehouse", "90031", "21", "1", "18000.00", "ND SEWER MAINTENANCE YARD-Admin Bldg", "13", "SAN", [ null, null, null, null, null ] ]
+, [ 23, "341795E3-1653-4E49-9E8E-C0C1BAB28448", 23, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"2335 Dorris Place, Los Angeles\"\n  }\n}", "BOS-WW", "North Sewer Maintenance Yard", "90031", "21", "1", "0.00", "ND SEWER MAINTENANCE YARD", "13", "SAN", [ null, null, null, null, null ] ]
+, [ 24, "884D6A85-A5F7-44E8-87AC-AC1118BB5D07", 24, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"2714 Media Ctr. Dr., Los Angeles\"\n  }\n}", "BOS-WW", "Sanitation Facility", "90039", "21", "16", null, "SANITATION FACILITY", "5", "SAN", [ null, null, null, null, null ] ]
+, [ 25, "E93ED329-904A-4B58-853C-607CCF5C0078", 25, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"3235 Thatcher Ave., Venice\"\n  }\n}", "BOS-WW", "Venice-Westchester Sewer Maintenance Yard", "90291", "21", "4", "6000.00", null, "11", "SAN", [ null, null, null, null, null ] ]
+, [ 26, "AA4AA8C4-A357-43F0-9A32-E2A9D72FDA47", 26, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"5800 Crystal Springs, Los Angeles\"\n  }\n}", "BOS-WW", "Sanitation Facility", "90027", "21", "40", "0.00", "SANITATION FACILITY", "4", "SAN", [ null, null, null, null, null ] ]
+, [ 27, "AF56A74C-2898-475D-A3DE-16681B9D0456", 27, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"6012 W. Jefferson St., Los Angeles\"\n  }\n}", "BOS-WW", "Sanitation Transfer Station - Jefferson Transfer", "90016", "21", "15", "3000.00", "SANITATION TRANSFER STATION - JEFFERSON TRANSFER YARD", "10", "SAN", [ null, null, null, null, null ] ]
+, [ 28, "CBCA4801-846B-4902-A938-301E34EC4111", 28, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"6014 Waring Avenue, Hollywood\"\n  }\n}", "BOS-WW", "Hollywood Sewer Maintenance Yard", "90038", "21", "7", "11941.00", "HOLLYWOOD SEWER MTCE YARD", "4", "SAN", [ null, null, null, null, null ] ]
+, [ 29, "BA5AA0BB-F55F-417B-95FC-D0E40B0FCD1F", 29, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"7608 Woodman, Van Nuys\"\n  }\n}", "BOS-WW", "Pumping Plant", "91402", "21", "12", "0.00", "PUMPING PLANT", "6", "SAN", [ null, null, null, null, null ] ]
+, [ 30, "E4480250-071C-46DB-BA5F-18007B75E9B0", 30, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"10801 Chandler Boulevard, North Hollywood\"\n  }\n}", "BOS-WW", "North Hollywood Sewer Maintenance Yard", "90032", "21", "6", "44700.00", "N.HOLLYWOOD SEWER MAINT.YARD", "4", "SAN", [ null, null, null, null, null ] ]
+, [ 31, "A3BAF66E-FEF1-4523-82AC-9E263A2F5E7A", 31, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"11168 Missouri Avenue, Los Angeles\"\n  }\n}", "BOS-WW", "West Los Angeles Sewer Maintenance Yard", "90025", "21", "8", "10321.00", "WEST L.A. SEWER MTCE YARD", "11", "SAN", [ null, null, null, null, null ] ]
+, [ 32, "78141332-DB80-48F8-BDA1-064AA60389EC", 32, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"12728 Sheldon St, Sun Valley\"\n  }\n}", "BOS-WW", "Sanitation Facility", "91352", "21", "13", "0.00", "SANITATION FACILITY", "6", "SAN", [ null, null, null, null, null ] ]
+, [ 33, "D1721544-48DA-4260-B965-FA108F208525", 33, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"13900 Marquesas, Mrna Del Rey\"\n  }\n}", "BOS-WW", "Deauville Marina", "90291", "21", "5", "0.00", "DEAUVILLE MARINA", "11", "SAN", [ null, null, null, null, null ] ]
+, [ 34, "8EA5BB43-4922-43A3-BC0C-9B78058B13DD", 34, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"18560 Oxnard Street, Tarzana\"\n  }\n}", "BOS-WW", "Reseda Sewer Maintenance Yard", "91356", "21", "2", "31680.00", "RESEDA SEWER MAINTENANCE YARD", "3", "SAN", [ null, null, null, null, null ] ]
+, [ 35, "2468D4E0-9D77-4E97-8AB1-68063CD886E8", 35, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"4550 Santa Monica Boulevard,  Los Angeles\"\n  }\n}", "BSL", "Field Operations Division Yard", "90029", "12", "1", "40000.00", "STREET LIGHTING FIELD OPERATIONS HDQTRS", "13", "STL", [ null, null, null, null, null ] ]
+, [ 36, "6F2012BA-F7B4-4628-952C-42BE8313DA95", 36, 1419377085, "892567", 1419377085, "892567", "{\n}", "BSL", "Raymer Yard (Satellite Yard, Shared With GSD and LADOT)", "91405", "1", "17", null, null, null, null, [ "{\"address\":\"14832 W Raymer St\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 37, "D9227239-6450-4888-8C16-0950883CFBCC", 37, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"452 San Fernando Road\"\n  }\n}", "BSS", "North Central District Yard - East", "90031", "21", "36", null, "San Fernando Road Facility", "1", "SAN", [ null, null, null, null, null ] ]
+, [ 38, "15C977C4-7EAF-46C8-85FA-F3AB0730C86E", 38, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"503 N. San Fernando Road\"\n  }\n}", "BSS", "Small Tree Maintenance", "90031", "8", "46", "6500.00", "STREET TREE STORAGE", "1", "STM", [ null, null, null, null, null ] ]
+, [ 39, "54AF2819-F0F8-4139-BA55-88E45CCE4184", 39, 1419377085, "892567", 1419377085, "892567", "{\n}", "BSS", "Mission", "90012", "1", "50", "8025.00", "LESSOR: MISSION RFT/SR LLC", "14", "VAR", [ "{\"address\":\"1016 N Mission Rd\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 40, "BFA886B9-A326-4A58-AD63-AE77C77B1944", 40, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"1247 S. Cochran Ave, Los Angeles\"\n  }\n}", "BSS", "Wilshire", "90019", "8", "13", null, null, "10", null, [ null, null, null, null, null ] ]
+, [ 41, "F2A9CFA4-99C1-4432-84FE-DA401D27E555", 41, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"1274 W. 2nd Street\"\n  }\n}", "BSS", "Central", "90026", "8", "9", "3000.00", "CENTRAL MAINTENANCE YARD - Building D", "1", "STM", [ null, null, null, null, null ] ]
+, [ 42, "245C94F7-A1CE-4850-93E8-8E135C9076B1", 42, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"1274 S. Cochran Avenue\"\n  }\n}", "BSS", "Wilshire", "90019", "8", "13", null, "WILSHIRE DISTRICT ST SERVICES YD- OIL HOUSE", "10", "STM", [ null, null, null, null, null ] ]
+, [ 43, "21140993-6D99-467B-A51A-4715E2A6ECAB", 43, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"1400 N. Gaffey Street\"\n  }\n}", "BSS", "Harbor", "90731", "21", "32", "5000.00", "GAFFEY STREET YARD", "15", "SAN", [ null, null, null, null, null ] ]
+, [ 44, "5ACA9297-C4A4-46F1-A901-5AD64123769D", 44, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"1451 E. 6th Street\"\n  }\n}", "BSS", "6th Street (St Mtce Storage)", "90021", "8", "24", "0.00", "ST. MAINT SERVICE YARD", "14", "STM", [ null, null, null, null, null ] ]
+, [ 45, "FC4FEC81-F5C0-43FC-83F1-C687A7232D9C", 45, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"1479 Stoner Avenue\"\n  }\n}", "BSS", "Palisades", "90025", "8", "28", "1092.00", "PALISADES ST MTCE YARD", "11", "STM", [ null, null, null, null, null ] ]
+, [ 46, "64043A2B-3D50-4248-AF89-5EB6C10E3C23", 46, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"2000 W. Abbot Kinney Blvd, Venice\"\n  }\n}", "BSS", "Venice", "90291", "8", "15", "10043.00", "VENICE DIST ST MTCE YARD", "6", "STM", [ null, null, null, null, null ] ]
+, [ 47, "5C001676-18DD-45BB-9439-11EA9259119B", 47, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"2222 E. 7th Street\"\n  }\n}", "BSS", "7th Street Warehouse", "90023", "1", "37", "61400.00", "7TH ST. CONSOLIDATED FACILITY - GSD", "12", "DGS", [ null, null, null, null, null ] ]
+, [ 48, "FA33AFA8-BEEC-4B38-9607-795701E7EC67", 48, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"2231 Fair Park Avenue\"\n  }\n}", "BSS", "Eagle Rock", "90041", "8", "8", "0.00", "EAGLE ROCK DIST", "14", "STM", [ null, null, null, null, null ] ]
+, [ 49, "56B8AB91-20BC-4380-A084-807822674586", 49, 1419377085, "892567", 1419377085, "892567", "{\n}", "BSS", "Structural Construt. Zone#1", "90021", "8", "26", "3835.00", "Sanitation and St. Services", "14", "STM", [ "{\"address\":\"2474 E Olympic Blvd\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 50, "2827858F-B3CF-45E1-B1BA-6C218D6E1A86", 50, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"2484 E. Olumpic Blvd., Los Angeles\"\n  }\n}", "BSS", "Asphalt Plant #1", "90021", "8", "25", "100.00", "ST MTCE YARD ASPHALT PLANT #1", "14", "STM", [ null, null, null, null, null ] ]
+, [ 51, "68779A80-7B5E-49B6-89C9-02D3849BD41E", 51, 1419377085, "892567", 1419377085, "892567", "{\n}", "BSS", "Asphalt Plant#1", "90021", "8", "25", "897.00", "ST MTCE YARD ASPHALT PLANT #1", "14", "STM", [ "{\"address\":\"2484 E Olympic Blvd\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 52, "B76A8FF4-CD0A-406D-A2F9-54BDEB7583B0", 52, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"2661 Lacy St, Los Angeles\"\n  }\n}", "BSS", "Lacy Street Tansfer", "90031", "20", "5", null, null, null, null, [ null, null, null, null, null ] ]
+, [ 53, "1BDAB0D7-609A-4252-B65B-555F494F39A5", 53, 1419377085, "892567", 1419377085, "892567", "{\n}", "BSS", "Cahuenga Pass", "90068", "8", "31", "0.00", "CAHUENGA PASS SERVICE YARD", "13", "STM", [ "{\"address\":\"2770 N Cahuenga Blvd\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 54, "2A007336-C1FC-4997-B9B2-774D23B8F73A", 54, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"3311 Thatcher Avenue\"\n  }\n}", "BSS", "Thatcher Avenue", "90291", "8", "32", "8000.00", "THATCHER AVE-ST.CLEANING YARD", "11", "STM", [ null, null, null, null, null ] ]
+, [ 55, "E560CF31-A212-498A-A9BD-5081DB5D2BBB", 55, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"4206 S. Main St. Los Angeles\"\n  }\n}", "BSS", "Southeast", "90011", "8", "5", "7053.00", "SE DISTRICT-ST MAINT YARD", "9", "STM", [ null, null, null, null, null ] ]
+, [ 56, "B0BDBC0D-0E0A-4CD5-B4F2-DCEEDED36743", 56, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"4206 S. Main Street\"\n  }\n}", "BSS", "Southeast", "90003", "8", "5", "1314.00", "SE DISTRICT-ST MAINT YARD", "9", "STM", [ null, null, null, null, null ] ]
+, [ 57, "526C6846-F2C0-45D0-A8A9-110953B01B74", 57, 1419377085, "892567", 1419377085, "892567", "{\n}", "BSS", "Silverlake", "90039", "8", "47", "2000.00", "SILVERLAKE-ST. MAINT YARD", "4", "STM", [ "{\"address\":\"4610 Colorado Blvd\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 58, "5AB84072-367A-4D46-9C86-3891806D1189", 58, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"5323 W. 111th Street\"\n  }\n}", "BSS", "Westchester", "90045", "8", "23", "11000.00", "WESTCHESTER", "11", "STM", [ null, null, null, null, null ] ]
+, [ 59, "3D2DBC25-F5CC-453B-99BD-A0444E376BE8", 59, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"5860 S. Wilton Place\"\n  }\n}", "BSS", "Southwest", "90047", "8", "4", "5500.00", "SW DISTRICT-ST.MAINT YARD", "8", "STM", [ null, null, null, null, null ] ]
+, [ 60, "531C0A21-42E9-4F6C-A27E-30D24F8641C9", 60, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"6015 Baird Avenue\"\n  }\n}", "BSS", "Reseda / Woodland Hills", "91335", "8", "18", "10000.00", "RESEDA/WOODLAND HILLS", "3", "STM", [ null, null, null, null, null ] ]
+, [ 61, "A803B87D-E501-4458-81FC-947F872F49AE", 61, 1419377085, "892567", 1419377085, "892567", "{\n}", "BSS", "East Valley Dist Office", "91401", "63", "48", "137419.00", "MARVIN BRAUDE SFV CONSTITUENT SERVICE CENTER", "11", "DGS", [ "{\"address\":\"6262 Van Nuys Blvd\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 62, "4F3E0B00-A6E2-4E1E-87DC-47DAD646F805", 62, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"6351 Lindley Avenue\"\n  }\n}", "BSS", "Lindley", "91335", "8", "35", "0.00", "STREET MAINTENANCE YARD", "3", "STM", [ null, null, null, null, null ] ]
+, [ 63, "51DF8557-8B14-4A9F-BF1F-A6B0941A35EE", 63, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"6640 Romaine Street\"\n  }\n}", "BSS", "Hollywood", "90038", "8", "12", "37914.00", null, null, null, [ null, null, null, null, null ] ]
+, [ 64, "EC422ACD-C8BE-49E2-B617-92BF2985616A", 64, 1419377085, "892567", 1419377085, "892567", "{\n}", "BSS", "Harbor Office Dist Office", "90045", "63", "46", "2000.00", null, null, null, [ "{\"address\":\"7166 W Manchester Avenue\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 65, "DEADBC1B-CB25-42E9-B67F-D33124E8AAF2", 65, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"7453 Canoga Avenue\"\n  }\n}", "BSS", "Canoga Park", "91303", "8", "16", "7000.00", "CANOGA PARK DIST", "3", "STM", [ null, null, null, null, null ] ]
+, [ 66, "D7690EC0-1586-4299-8DD0-81148F07BB68", 66, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"7725 Alabama Avenue\"\n  }\n}", "BSS", "Alabama", "91304", "8", "16", "1300.00", "CANOGA PARK DIST", "3", "STM", [ null, null, null, null, null ] ]
+, [ 67, "F9396463-9EE9-4058-84B5-928792F19B64", 67, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"8200 Block Of Balboa Pl\"\n  }\n}", "BSS", "Balboa Yard", "91406", "25", "157", "0.00", "NON-STRUCTURAL SERVICE", "0", "STM", [ null, null, null, null, null ] ]
+, [ 68, "A01891AD-9145-423E-AC6B-35894574DD05", 68, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"8602 Denver Avenue\"\n  }\n}", "BSS", "South", "90044", "8", "3", "2000.00", "SOUTH DIST-ST MTCE YARD", "8", "STM", [ null, null, null, null, null ] ]
+, [ 69, "0C88B38F-52CE-4544-B286-F216CC70818B", 69, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"9324 Topanga Canyon Blvd\"\n  }\n}", "BSS", "Topanga Cyn", "91311", "8", "27", "1300.00", "CHATSWORTH", "12", "STM", [ null, null, null, null, null ] ]
+, [ 70, "0078CC92-1E03-4B64-A401-E032703DE0BF", 70, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"9401 Wentworth Street\"\n  }\n}", "BSS", "Sunland District (Tujunga)", "91040", "8", "22", "225.00", "SUNLAND/TUJUNGA - Office Building", "2", "STM", [ null, null, null, null, null ] ]
+, [ 71, "4BD5E96A-0431-494E-9BE2-FA4BB8A22878", 71, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"10210 Etiwanda Avenue\"\n  }\n}", "BSS", "Granada Hills/Northridge", "91325", "8", "41", "480.00", "GRANADA HILLS-ST. MAINT YARD", "12", "STM", [ null, null, null, null, null ] ]
+, [ 72, "47490B7D-C267-4346-870A-4D6CA933C600", 72, 1419377085, "892567", 1419377085, "892567", "{\n}", "BSS", "North Hollywood", "91601", "8", "10", "19126.00", "N HOLLYWOOD-STUDIO CITY", "4", "STM", [ "{\"address\":\"10811 Chandler Blvd\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 73, "F42B06DD-1FA1-48B5-9887-735E415A6B44", 73, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"11165 Missouri Avenue\"\n  }\n}", "BSS", "Bel Air", "90025", "8", "14", "35991.00", "BEL AIR DIST ST MTCE YARD", "11", "STM", [ null, null, null, null, null ] ]
+, [ 74, "A2D114FA-77A3-43A4-A016-65E2CD1F009C", 74, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"11370 San Fernando Road\"\n  }\n}", "BSS", "San Fernando", "91340", "8", "11", "0.00", "SAN FERNANDO ST SERVICES YARD", "7", "STM", [ null, null, null, null, null ] ]
+, [ 75, "9C59CCA2-0D24-4BEC-9C26-1E8931FF0C16", 75, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"12201-12225 Sherman Way\"\n  }\n}", "BSS", "Valley Warehouse", "91605", "1", "72", "3800.00", "No. Hollywood Repair Facility - Paint Shop", "2", "DGS", [ null, null, null, null, null ] ]
+, [ 76, "960E32D7-A7DB-4DDA-B362-2396C2D2270D", 76, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"12251 Sherman Way\"\n  }\n}", "BSS", "Asphalt Plant #2", "91605", "8", "19", "4228.00", "Asphalt Plant #2", "2", "STM", [ null, null, null, null, null ] ]
+, [ 77, "F130C8B7-55FD-4E46-8795-4C01AEAEDB1E", 77, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"15145 Oxnard Street\"\n  }\n}", "BSS", "Van Nuys", "91411", "8", "17", "1048.00", "VAN NUYS DIST ST MTCE YARD", "2", "STM", [ null, null, null, null, null ] ]
+, [ 78, "3AA72F5A-62F1-4B66-97BA-25AD342F9B5D", 78, 1419377085, "892567", 1419377085, "892567", "{\n}", "BSS", "Recycling Site", "91394", "21", "331", "0.00", "VAN NORMAN DAM", "12", "SAN", [ "{\"address\":\"15751 Rinaldi St\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 79, "3CAC43C3-72C2-4032-A626-E61E06EDE974", 79, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"19040 Vanowen Street\"\n  }\n}", "BSS", "West Valley Dist Office", "91335", "1", "20", "16500.00", "WEST VALLEY MUNICIPAL BUILDING", "3", "DGS", [ null, null, null, null, null ] ]
+, [ 80, "7CE4BD83-307F-4A62-A1B2-ACFA4D137B2C", 80, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"100 S. Main Street\"\n  }\n}", "DOT", "Caltrans District 7 Headquarter", "90012", "63", "8", "98486.00", null, "14", null, [ null, null, null, null, null ] ]
+, [ 81, "554647F6-D010-42E1-9E98-E1CD1E154797", 81, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"200 N. Main Street, C-430\"\n  }\n}", "DOT", "ATSAC", "90012", "63", "43", "5500.00", null, "14", null, [ null, null, null, null, null ] ]
+, [ 82, "1DA95387-A50F-49D4-BB0D-5C57100A966A", 82, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"201 N. Los Angeles, Space 21\"\n  }\n}", "DOT", "Downtown Los Angeles Adjudication", "90012", "63", "47", null, null, "14", null, [ null, null, null, null, null ] ]
+, [ 83, "652072C5-9EFD-4626-847A-D2EA791F0256", 83, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"401 N. Ave 19\"\n  }\n}", "DOT", "Ave 19 Yard", "90031", "1", "39", "19500.00", "DOT facility", "1", "DGS", [ null, null, null, null, null ] ]
+, [ 84, "BC9E7B9B-1961-473D-B7AA-2AEA482C8760", 84, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"411 N. Vermont\"\n  }\n}", "DOT", "Parking Enforcement-Hollywood", "90004", "63", "15", "110000.00", "PARKING ENFORCEMENT", "13", "VAR", [ null, null, null, null, null ] ]
+, [ 85, "76001C7E-D605-42C3-B8AE-409DFE6EDD1A", 85, 1419377085, "892567", 1419377085, "892567", "{\n}", "DOT", "Equipment Repair", "90012", "1", "24", null, null, "14", null, [ "{\"address\":\"430 E Commercial St\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 86, "86ACAAAC-1805-4F15-960B-DAB59F303B94", 86, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"544 N. Avalon Blvd #201\"\n  }\n}", "DOT", "Harbor Substation", "90744", "1", "99", null, "WILMINGTON MUNICIPAL BUILDING", "15", "CDD", [ null, null, null, null, null ] ]
+, [ 87, "CDDC00A8-F33D-4C91-8BA9-5D66504A7F2A", 87, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"555 Ramirez St. Space 100\"\n  }\n}", "DOT", "Signal, Paint, Sign, And Meter Shop", "90012", "63", "44", null, null, "14", null, [ null, null, null, null, null ] ]
+, [ 88, "E6AF4020-70E4-427B-A6B2-EC4C71B04C04", 88, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"555 Ramirez St. Space 315\"\n  }\n}", "DOT", "Major Construction Coordination Division", "90012", "63", "45", null, null, "14", null, [ null, null, null, null, null ] ]
+, [ 89, "0F6C59CB-631E-49FE-8C9D-9673190E7CD0", 89, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"555 Ramirez Street\"\n  }\n}", "DOT", "Signal Lab", "90012", "63", "44", null, null, "14", null, [ null, null, null, null, null ] ]
+, [ 90, "A32A262E-861D-42A1-A04A-8FA54228A71F", 90, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"555 Ramirez Street\"\n  }\n}", "DOT", "Piper Tech Meter Shop", "90012", "63", "44", null, null, "14", null, [ null, null, null, null, null ] ]
+, [ 91, "4EC352BD-2007-4CDB-BF57-066FE387ABFF", 91, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"638 S. Beacon #204\"\n  }\n}", "DOT", "Southern District Office", "90731", "1", "3", "12021.00", "SAN PEDRO MUNICIPAL BUILDING", "15", "DGS", [ null, null, null, null, null ] ]
+, [ 92, "1D0FE958-3C94-4920-B794-5A4BF12A6117", 92, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"1016 N. Mission Road\"\n  }\n}", "DOT", "Parking Enforcement-Central", "90033", "1", "50", "9203.00", "DOT, PD Central Parking Enforcement", "14", "VAR", [ null, null, null, null, null ] ]
+, [ 93, "A4D36D63-207B-4452-A0DF-B221D4ABE64F", 93, 1419377085, "892567", 1419377085, "892567", "{\n}", "DOT", "Western District Office", "90025", "1", "46", "13760.00", "VARIOUS CITY OFFICES", "11", "DGS", [ "{\"address\":\"1828 Sawtelle Blvd\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 94, "E16931AB-FDAC-486B-823F-C7320A38F2E2", 94, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"1831 Pasadena Ave\"\n  }\n}", "DOT", "Central Yard", "90031", "63", "19", "80836.00", "CENTRAL TRAFFIC YARD", "1", "VAR", [ null, null, null, null, null ] ]
+, [ 95, "6FDF54AB-7FBA-41C4-BCB4-4DB28B78DCDD", 95, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"2650 N. Commonwealth Avenue\"\n  }\n}", "DOT", "Macarthur/Commonwealth/Vermont/Western District", "90027", "50", "24", null, "GRIFFITH PARK NURSERY ADMINISTRATION", "4", "R&P", [ null, null, null, null, null ] ]
+, [ 96, "AEC0476C-9368-4023-A5ED-DFE8075AEBB8", 96, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"2801 Exposition Blvd\"\n  }\n}", "DOT", "Western Yard", "90018", "63", "21", "5000.00", "WESTERN DISTRICT TRAFFIC YARD", "10", "VAR", [ null, null, null, null, null ] ]
+, [ 97, "26C165D1-013D-4B34-BE7A-0CFA5A92668D", 97, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"6342 Van Nuys Blvd, Room 320\"\n  }\n}", "DOT", "East Valley District Office", "91411", "63", "48", null, null, null, null, [ null, null, null, null, null ] ]
+, [ 98, "9DE232D0-97D2-495B-9D28-31DE81BA6338", 98, 1419377085, "892567", 1419377085, "892567", "{\n}", "DOT", "West Los Angeles Municipal Building", "90045", "1", "22", null, null, null, null, [ "{\"address\":\"7166 W Manchester Ave\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 99, "F3431E1D-94F6-4AE9-B3C5-DD2E06A20EF3", 99, 1419377085, "892567", 1419377085, "892567", "{\n}", "DOT", "Parking Enforcement-Southern", "90003", "63", "23", "6900.00", null, "9", null, [ "{\"address\":\"7510 S Figueroa St\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 100, "552437C4-100D-4382-BEC1-99D1D99E98CF", 100, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"7551 Sunset Blvd, #101\"\n  }\n}", "DOT", "Hollywood/Wilshire District Office", "90046", "63", "158", "1780.00", null, "4", "DOT", [ null, null, null, null, null ] ]
+, [ 101, "8D827449-B46B-4D44-B270-216B9533C5DE", 101, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"9911 W. Pico B204\"\n  }\n}", "DOT", "West Los Angeles Hearing Office", "90035", "63", "3", "3270.00", "TRAFFIC ADJUDICATION OFFICE", "5", "VAR", [ null, null, null, null, null ] ]
+, [ 102, "A34A50BF-BA29-4652-817D-DFA9FA78D25B", 102, 1419377085, "892567", 1419377085, "892567", "{\n}", "DOT", "Parking Enforcement-Western", "90064", "63", "41", "34300.00", "Western Parking Enforcement Office", "5", "VAR", [ "{\"address\":\"11214 Exposition Blvd\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 103, "9823B4AD-F0AF-4BA1-B297-916BDBEC0EBE", 103, 1419377085, "892567", 1419377085, "892567", "{\n}", "DOT", "Parking Enforcement-Valley", "91605", "63", "25", "70000.00", "PRKG ENFORCEMENT VALLEY AREA", "2", "VAR", [ "{\"address\":\"12544 Saticoy St\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 104, "F5B04E48-B9B2-45F2-8D66-C5F2FE71F19F", 104, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"14553 Delano St. #212\"\n  }\n}", "DOT", "Van Nuys Adjudication", "91405", "63", "2", "2000.00", "DELANO BUILDING", "11", "VAR", [ null, null, null, null, null ] ]
+, [ 105, "E21FB1A2-BF73-43A1-AB7B-21897AA83242", 105, 1419377085, "892567", 1419377085, "892567", "{\n}", "DOT", "Valley Yard", "91405", "1", "17", null, null, null, null, [ "{\"address\":\"14832 Raymer St\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 106, "6CDCD390-FF2F-41D3-A743-4C2B5BEC4475", 106, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"19040 Vanowen Street\"\n  }\n}", "DOT", "West Valley District Office", "91335", "1", "20", "16500.00", null, null, null, [ null, null, null, null, null ] ]
+, [ 107, "9F8AD2CB-69E7-4B8D-B5A9-EBC365ABA3F5", 107, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"25820 S. Vermont Avenue\"\n  }\n}", "DOT", "Ken Malloy Harbor Regional Park Service Yard", "90744", "50", "284", null, null, null, null, [ null, null, null, null, null ] ]
+, [ 108, "B008D6C8-1CC0-4274-ACE8-98B53A85886A", 108, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"108 N. Ave 19, Lincoln Heights\"\n  }\n}", "FIRE", "Fire Department Shops & Stores", "90031", "5", "401", "0.00", "FIRE DEPARTMENT SHOPS & STORES", "1", "FIR", [ null, null, null, null, null ] ]
+, [ 109, "6C8E4915-3430-4F2D-ADEF-FB4083F3301A", 109, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"140 N. Ave 19, Lincoln Heights\"\n  }\n}", "FIRE", "Fire Department Shops & Stores", "90031", "5", "401", "0.00", "FIRE DEPARTMENT SHOPS & STORES", "1", "FIR", [ null, null, null, null, null ] ]
+, [ 110, "0FB70E17-C5FB-4B33-AE5B-7534093E852E", 110, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"401 N. Ave 19\"\n  }\n}", "GSD", "DOT Facility", "90031", "1", "39", "19500.00", null, null, null, [ null, null, null, null, null ] ]
+, [ 111, "47A7001B-4602-441D-9965-551344F1C17D", 111, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"444 Commercial\"\n  }\n}", "GSD", "Commercial Street Traffic Yard", "90012", "1", "24", "0.00", "COMMERCIAL STREET TRAFFIC YARD", "14", "VAR", [ null, null, null, null, null ] ]
+, [ 112, "839AF4BB-66B8-4106-BBE3-DEBD46674DBB", 112, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"447 Ducommun St\"\n  }\n}", "GSD", "Commercial St. Traffic Yard", "90012", "1", "24", "0.00", "COMMERCIAL ST. TRAFFIC YARD", "14", "VAR", [ null, null, null, null, null ] ]
+, [ 113, "8B3E78AD-907C-4B1B-90C6-64AD2C656765", 113, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"452 San Fernando Rd\"\n  }\n}", "GSD", "San Fernando Road Facility", "90031", "21", "36", null, null, null, null, [ null, null, null, null, null ] ]
+, [ 114, "165A3725-36CD-4593-963E-BB65CEB087FB", 114, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"555 E Ramirez St\"\n  }\n}", "GSD", "C.Erwin Piper Technical Center", "90012", "1", "18", "1300000.00", "C.ERWIN PIPER TECHNICAL CENTER", "14", "DGS", [ null, null, null, null, null ] ]
+, [ 115, "F40BA4EF-0B21-41C7-9E66-7B188E95B5FA", 115, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"1016 N. Mission Road\"\n  }\n}", "GSD", "GSD Fleet Services Building", "90033", "1", "50", "9203.00", "GSD Fleet Services Building", "14", "VAR", [ null, null, null, null, null ] ]
+, [ 116, "BDE9017B-BED2-4E21-B6E5-3AE4B2DA7788", 116, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"1145 Seward St\"\n  }\n}", "GSD", "Hollywood Repair Facility", "90038", "1", "80", "12800.00", "STEIN FAMILY TRUST", "13", "DGS", [ null, null, null, null, null ] ]
+, [ 117, "FAF97CF7-EC49-47BD-B8FD-406D5B50E4D0", 117, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"1400 Gaffey St\"\n  }\n}", "GSD", "Gaffey Street Yard", "90731", "21", "32", "17578.00", "GAFFEY STREET YARD", "15", "SAN", [ null, null, null, null, null ] ]
+, [ 118, "31E81D2C-390D-4C76-AECD-A0EE37473864", 118, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"2027 S Stoner Ave\"\n  }\n}", "GSD", "Western District", "90025", "20", "3", "116775.00", "WESTERN DISTRICT", "11", "SAN", [ null, null, null, null, null ] ]
+, [ 119, "1BD0C621-46F8-467D-8F11-CC59037398BD", 119, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"2222 E 7th St\"\n  }\n}", "GSD", "7th St. Consolidated Facility - Gsd", "90021", "1", "37", "2200.00", "7TH ST. CONSOLIDATED FACILITY - GSD", "14", "DGS", [ null, null, null, null, null ] ]
+, [ 120, "F3B5F819-0B86-447A-B2AD-79F1586111AB", 120, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"2310 E 7th ST\"\n  }\n}", "GSD", "7th St Consolidated Facility - Gsd Body Shop", "90021", "1", "37", "26500.00", "7TH ST. CONSOLIDATED FACILITY - GSD", "14", "DGS", [ null, null, null, null, null ] ]
+, [ 121, "B6CFCAA3-2D74-4298-A3C8-9F3C4F209812", 121, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"2319 Dorris Place, Los Angeles\"\n  }\n}", "GSD", "Testing Lab/Standards - Big Garage Behind Lab-Sh", "90031", "1", "111", "0.00", "TESTING LAB/STANDARDS - Big Garage behind Lab-shops, storage, garage", "13", "DGS", [ null, null, null, null, null ] ]
+, [ 122, "13C693BE-6BB3-4DEC-8C7F-DBFD8CE19C52", 122, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"2513 E 24th St\"\n  }\n}", "GSD", "Cntrl Refuse Equip Repair Yard", "90058", "1", "76", "5700.00", "CNTRL REFUSE EQUIP REPAIR YARD", "14", "DGS", [ null, null, null, null, null ] ]
+, [ 123, "570E5A08-3D5C-459A-AEAF-C6D2D0D8F4C2", 123, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"3330 W 36th St\"\n  }\n}", "GSD", "36th Street Yard", "90018", "1", "47", "24100.00", "36TH STREET YARD", "10", "DGS", [ null, null, null, null, null ] ]
+, [ 124, "7FDB0527-7E1E-494C-AEB6-75B8735624E7", 124, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"3900 Chevy Chase Dr\"\n  }\n}", "GSD", "Griffith Park", "90039", "50", "96", "0.00", "GRIFFITH PARK", "4", "R&P", [ null, null, null, null, null ] ]
+, [ 125, "0E75456F-D824-4FAE-ABF0-AE8EF3EAAF2C", 125, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"6640 Romaine S. Los Angeles\"\n  }\n}", "GSD", "Hollywood", "90038", "8", "12", "37914.00", "HOLLYWOOD DIST", "4", "STM", [ null, null, null, null, null ] ]
+, [ 126, "B69997EA-C2E6-4ABC-B445-1E54FF40B38A", 126, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"7510 S Figueroa St\"\n  }\n}", "GSD", "DOT South Area Prkg Mgmnt", "90044", "63", "23", "6900.00", "DOT SOUTH AREA PRKG MGMNT", "8", "VAR", [ null, null, null, null, null ] ]
+, [ 127, "52014371-9F54-42BD-8503-36B2417F7AB5", 127, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"8060 Balboa Bl\"\n  }\n}", "GSD", "Helicopter Svc Bldg", "91406", "1", "73", "14200.00", "HELICOPTER SVC BLDG", "6", "DGS", [ null, null, null, null, null ] ]
+, [ 128, "598FC899-4232-4745-BEF0-F802E741F8CD", 128, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"8431 Telfair Ave\"\n  }\n}", "GSD", "Valley Parking Enforcement", "91352", "63", "7", "12000.00", "Valley Parking Enforcement", "6", "DGS", [ null, null, null, null, null ] ]
+, [ 129, "779E26C6-1A35-4695-8CA4-6BEC3EBB3B20", 129, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"8840 Vanalden Ave\"\n  }\n}", "GSD", "West Valley Refuse Collection Yard", "91335", "20", "4", "11138.00", "WEST VALLEY", "12", "SAN", [ null, null, null, null, null ] ]
+, [ 130, "7D9CFB06-5DDC-40A9-80C7-FE7FFB6D77CB", 130, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"9701 San Fernando Rd\"\n  }\n}", "GSD", "East Valley Refuse Collection Yard", "91335", "20", "8", "192000.00", null, null, null, [ null, null, null, null, null ] ]
+, [ 131, "1FAA7EAE-4CAE-4F61-AAC3-C2FD31131D90", 131, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"14832 Raymer St., Van Nuys\"\n  }\n}", "GSD", "Raymer St Yd-Fleet Svcs Garage (Bldg B)", "91405", "1", "17", "6100.00", "RAYMER ST YD-Fleet Svcs Garage (Bldg B)", "6", "DGS", [ null, null, null, null, null ] ]
+, [ 132, "5A989384-63CF-40E8-9C7D-747A1DB83F6D", 132, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"14832 Raymer St., Van Nuys\"\n  }\n}", "GSD", "Raymer St Yd-GSD Car Shelter (Bldg D)", "91405", "1", "17", "12700.00", "RAYMER ST YD-GSD Car Shelter (Bldg D)", "6", "DGS", [ null, null, null, null, null ] ]
+, [ 133, "BE1CB8CB-406B-4FE6-8DFE-FB4745045510", 133, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"14832 Raymer St., Van Nuys\"\n  }\n}", "GSD", "Raymer St Yd-DOT/St Ltg Whse & Offc (Bldg C)", "91405", "1", "17", "15500.00", "RAYMER ST YD-DOT/St Ltg Whse & Offc (Bldg C)", "6", "DGS", [ null, null, null, null, null ] ]
+, [ 134, "860651C7-9305-4A86-823E-240675D6ADF5", 134, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"14832 Raymer St., Van Nuys\"\n  }\n}", "GSD", "Raymer St Yd-GSD Car Shelter (Bldg E)", "91405", "1", "17", "15800.00", "RAYMER ST YD-GSD Car Shelter (Bldg E)", "6", "DGS", [ null, null, null, null, null ] ]
+, [ 135, "08DEF910-4E8F-4839-9CA8-09ADB68176B2", 135, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"14832 Raymer St., Van Nuys\"\n  }\n}", "GSD", "Raymer St Yd-GSD No Dist& Warehouse (Bldg F)", "91405", "1", "17", "0.00", "RAYMER ST YD-GSD No Dist& Warehouse (Bldg F)", "6", "DGS", [ null, null, null, null, null ] ]
+, [ 136, "79ADBAD5-C30F-4DC9-88DC-B16C4C540EFE", 136, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"11950 Lopez Canyon Rd\"\n  }\n}", "GSD", "Lopez Canyon Landfill", "91342", "20", "19", "304920.00", "LAND LOCATED IN T. 3N, R. 142, SEC 31, SBBM", "7", "SAN", [ null, null, null, null, null ] ]
+, [ 137, "5E22E0C2-7ACC-42D6-8597-ECAC83652D8A", 137, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"12000 Vista Del Mar Bl\"\n  }\n}", "GSD", "Hyperion Treatment Plant", "90293", "21", "302", "15200.00", "HYPERION TREATMENT PLANT", "11", "SAN", [ null, null, null, null, null ] ]
+, [ 138, "ADF7D579-A85C-4FB8-8C1F-EDBBC6C7C36A", 138, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"12201 Sherman Way\"\n  }\n}", "GSD", "No. Hollywood Repair Facility - Paint Shop", "91605", "1", "72", "11520.00", "N. HOLLYWOOD REPAIR FACILITY", "2", "DGS", [ null, null, null, null, null ] ]
+, [ 139, "ACE18C1C-BC80-419D-B999-867218824462", 139, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"14832 Raymer St\"\n  }\n}", "GSD", "Raymer St Yd-GSD No Dist& Warehouse (Bldg F)", "91405", "1", "17", null, null, null, null, [ null, null, null, null, null ] ]
+, [ 140, "D99DCB5B-7A60-4E3F-BF4C-FB052F455471", 140, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"200 N. Spring Street\"\n  }\n}", "RAP", "Civic Center District Service Yard", "90012", "50", "880", null, null, "14", null, [ null, null, null, null, null ] ]
+, [ 141, "EF227D15-AAD5-4BED-89A5-86BDE391168A", 141, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"215 San Juan Avenue\"\n  }\n}", "RAP", "Venice District (This Is Just A Garage, Not A Se", "90291", "50", "622", "0.00", "SAN JUAN GARAGE", "11", "R&P", [ null, null, null, null, null ] ]
+, [ 142, "243546DD-F23E-49FC-8E48-5C862DE01AE1", 142, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"345 E. 51st Street\"\n  }\n}", "RAP", "South Park Maintenance District Service Yard", "90011", "50", "668", "0.00", "SOUTH PARK", "9", "R&P", [ null, null, null, null, null ] ]
+, [ 143, "08B23CBC-0856-47A6-BA45-D3CE289E7C85", 143, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"435 Neptune Avenue\"\n  }\n}", "RAP", "Banning Maintenance District Service Yard", "90744", "50", "833", "0.00", "Pacific Region Annex", "15", "DGS", [ null, null, null, null, null ] ]
+, [ 144, "BEA6816E-52DC-4B11-AB81-3B6BE10C5A0B", 144, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"835 Academy Road\"\n  }\n}", "RAP", "Elysian District Service Yard", "90012", "50", "194", "0.00", "ELYSIAN PARK", "14", "R&P", [ null, null, null, null, null ] ]
+, [ 145, "68AFA5FB-9FC8-41DB-9C41-B44689704020", 145, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"1331 Eubank Street\"\n  }\n}", "RAP", "Banning Recreation Center Service Yard", "90744", "50", "40", "0.00", "BANNING PARK & REC CENTER", "15", "R&P", [ null, null, null, null, null ] ]
+, [ 146, "5A324CC9-98D8-4ADF-9AD1-A6EE5432B9CC", 146, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"1350 San Pablo Avenue\"\n  }\n}", "RAP", "Lincoln District Service Yard", "90031", "50", "879", null, null, null, null, [ null, null, null, null, null ] ]
+, [ 147, "DFAC5F2B-F02D-4605-AEB6-836B55DC1561", 147, 1419377085, "892567", 1419377085, "892567", "{\n}", "RAP", "Westwood Recreation Center Service Yard", "90025", "50", "801", "27000.00", "WESTWOOD RECREATION CENTER", "11", "R&P", [ "{\"address\":\"1350 Sepulveda Blvd\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 148, "34F1F088-419C-413A-A12C-C4ED761F0756", 148, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"1670 Palos Verdes Drive North\"\n  }\n}", "RAP", "Pacific Region Headquarters Service Yard", "90732", "50", "690", "0.00", "REC & PARKS SERVICE", "15", "R&P", [ null, null, null, null, null ] ]
+, [ 149, "211222ED-C7A9-4F1A-9E33-A7BF6421E066", 149, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"1701 W. L Street\"\n  }\n}", "RAP", "Harbor Golf Maintenance Yard", "90744", "50", "284", "0.00", "NAL PARK", "15", "R&P", [ null, null, null, null, null ] ]
+, [ 150, "70C034C6-6CCB-482B-BE92-9D92D687AC3E", 150, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"2459 Motor Avenue\"\n  }\n}", "RAP", "West Region Headquarters Service Yard", "90064", "50", "112", "0.00", "PACIFIC REGION WEST AREA HEADQUARTERS", "5", "R&P", [ null, null, null, null, null ] ]
+, [ 151, "051EEE1E-BB7F-4165-B8D1-B98CAAB73F89", 151, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"2500 E. Whittier Boulevard\"\n  }\n}", "RAP", "Hollenbeck District Service Yard", "90033", "50", "64", "0.00", "HOLLENBECK SERVICE YARD", "14", "R&P", [ null, null, null, null, null ] ]
+, [ 152, "6101AC44-FFAB-489B-9DD1-65C871F04234", 152, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"2800 E. Observatory Road\"\n  }\n}", "RAP", "Griffith Observatory Service Yard", "90027", "50", "272", "0.00", "GRIFFITH PARK OBSERVATORY", "4", "R&P", [ null, null, null, null, null ] ]
+, [ 153, "086AA544-C761-4F79-8C20-7C31DF50663E", 153, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"3601 S. Gaffey Street\"\n  }\n}", "RAP", "Point Fermin Maintenance District Service Yard", "90731", "50", "13", "0.00", "ANGELS GATE PARK", "15", "R&P", [ null, null, null, null, null ] ]
+, [ 154, "33B5809B-4E3A-4380-BB23-05899C44B997", 154, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"3720 Stephen White Drive\"\n  }\n}", "RAP", "Cabrillo Marine Aquarium Service Yard", "90731", "50", "80", "0.00", "CABRILLO BEACH REC COMPLEX", "15", "R&P", [ null, null, null, null, null ] ]
+, [ 155, "4660F2BE-F651-4FFE-9471-C2D6AC2A397A", 155, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"3900 W. Chevy Chase Drive\"\n  }\n}", "RAP", "Central Service Yard", "90039", "50", "96", "45000.00", null, null, null, [ null, null, null, null, null ] ]
+, [ 156, "E3A056D6-2A5B-46B2-BE08-3B8A78B07E6D", 156, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"3900 W. Chevy Chase Drive\"\n  }\n}", "RAP", "Metro Green Machine Service Yard", "90039", "50", "96", "0.00", "NORTH ATWATER PARK", "4", "R&P", [ null, null, null, null, null ] ]
+, [ 157, "26414041-37CF-473C-8D42-3C2FDD852748", 157, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"4454 W. Pico Boulevard\"\n  }\n}", "RAP", "Central District Service Yard", "90019", "50", "878", null, null, "10", null, [ null, null, null, null, null ] ]
+, [ 158, "EB122E14-5B24-4833-8824-84E1B19F72FB", 158, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"5201 Zoo Drive\"\n  }\n}", "RAP", "Park Center District Service Yard", "90027", "50", "272", "0.00", "GRIFFITH PARK", "4", "R&P", [ null, null, null, null, null ] ]
+, [ 159, "AFFA3567-2929-4E30-83BB-5D6731D8B70F", 159, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"5375 Red Oak Drive\"\n  }\n}", "RAP", "Fern Dell Service Yard", "90068", "50", "273", "0.00", "GRIFFITH PARK", "1", "R&P", [ null, null, null, null, null ] ]
+, [ 160, "6309CC95-BFF5-46D5-8E12-CB36AF56A13C", 160, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"5901 Rodeo Road\"\n  }\n}", "RAP", "Rancho Cienega District Service Yard", "90016", "50", "884", null, null, "10", null, [ null, null, null, null, null ] ]
+, [ 161, "E2AD02CF-E9E7-487B-8D73-DF6737ECE5FF", 161, 1419377085, "892567", 1419377085, "892567", "{\n}", "RAP", "Valley Region Headquarters Service Yard", "91436", "50", "908", "6200.00", null, null, null, [ "{\"address\":\"6335 Woodley Ave\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 162, "0C1769CD-F097-4385-809C-27E954206523", 162, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"6335 Woodley Avenue\"\n  }\n}", "RAP", "Sepulveda District Service Yard", "91436", "63", "908", "6200.00", "VALLEY REGION HEADQUARTRS BLDG", "6", "R&P", [ null, null, null, null, null ] ]
+, [ 163, "682FF892-3653-4CAA-A20E-7CE9E2F7E51C", 163, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"6740 Marmion Way\"\n  }\n}", "RAP", "Arroyo Seco District Service Yard", "90042", "50", "885", null, null, null, null, [ null, null, null, null, null ] ]
+, [ 164, "A277126F-360D-42DC-93B7-0116D977A75E", 164, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"8701 St. Andrew Place\"\n  }\n}", "RAP", "St. Andrew Recreation Center Service Yard", "90047", "50", "616", "0.00", "ST. ANDREWS RECREATION CENTER", "8", "R&P", [ null, null, null, null, null ] ]
+, [ 165, "4D0C0C86-3B0F-47CF-A87A-7A0BEEE3DEC4", 165, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"8800 S. Hoover Street\"\n  }\n}", "RAP", "Algin Sutton Maintenance District Service Yard", "90044", "50", "412", "0.00", "ALGIN SUTTON RECREATION CENTER", "8", "R&P", [ null, null, null, null, null ] ]
+, [ 166, "84D4BEAE-09D0-4EAD-B71A-74A6047CD204", 166, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"10421 Tunney Avenue\"\n  }\n}", "RAP", "Northridge District Service Yard", "91326", "50", "548", "0.00", "PORTER RANCH PARK", "12", "R&P", [ null, null, null, null, null ] ]
+, [ 167, "6EE1D8F8-AC80-4DAD-BFB4-2C79116BFA85", 167, 1419377085, "892567", 1419377085, "892567", "{\n}", "RAP", "North Hollywood District Service Yard", "91601", "50", "448", "0.00", "REC & PARKS SERVICE", "4", "R&P", [ "{\"address\":\"11455 Magnolia Blvd\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 168, "73842BB4-257C-49D6-8613-3B695C150E30", 168, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"11770 Foothill Blvd\"\n  }\n}", "RAP", "Hansen Dam District Service Yard", "91040", "25", "275", "0.00", "HANSEN DAM REC CENTER", "7", "R&P", [ null, null, null, null, null ] ]
+, [ 169, "B865FED6-3CDD-494E-A8FD-8F84EE008016", 169, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"12227 Erwin Street\"\n  }\n}", "RAP", "Valley Plaza District Service Yard", "91606", "50", "252", "0.00", "REC & PARKS SERVICE", "0", "R&P", [ null, null, null, null, null ] ]
+, [ 170, "A58EAA77-1789-4327-B44E-409BCD403974", 170, 1419377085, "892567", 1419377085, "892567", "{\n}", "RAP", "Valley West District Service Yard", "91304", "50", "398", "0.00", "REC & PARKS SERVICE", "0", "R&P", [ "{\"address\":\"23600 Roscoe Blvd\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 171, "0AD416E9-FBCF-4E80-A405-C0D14DEC9907", 171, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"135 S. Sepulveda Boulevard\"\n  }\n}", "RAP", "Westwood District", "90025", "50", "881", null, null, "11", null, [ null, null, null, null, null ] ]
+, [ 172, "61097D7F-8CF6-4398-9206-DCF9E645ED74", 172, 1419377085, "892567", 1419377085, "892567", "{\n}", "RAP", "Hollenbeck Park Service Yard", "90033", "50", "320", null, "HOLLENBECK PARK", null, null, [ "{\"address\":\"415 S St Louis St\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 173, "06F2574E-87FF-4D14-8E48-8068785D0EB0", 173, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"601 Clubview Drive\"\n  }\n}", "RAP", "Pacific Area Armand Hammer Golf Course Holmby Pa", "90025", "50", "328", "0.00", "HOLMBY GOLF AND BOWLING GREENS", "11", "R&P", [ null, null, null, null, null ] ]
+, [ 174, "0555D34F-03CA-4896-A5D5-382EE01A1A3A", 174, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"851 Alma Real Drive\"\n  }\n}", "RAP", "Pacific Palisades Yard", "90272", "50", "488", "0.00", "PALISADES PARK & REC CENTER", "11", "R&P", [ null, null, null, null, null ] ]
+, [ 175, "8ACC4340-7D25-48A8-91F0-DD7D2850FD60", 175, 1419377085, "892567", 1419377085, "892567", "{\n}", "RAP", "Echo Park Service Yard", "90026", "50", "882", null, null, "1", null, [ "{\"address\":\"1023 Glendale Blvd\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 176, "7D431C6E-955F-4DDD-B94F-54459E54DB59", 176, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"1233 Rose Avenue\"\n  }\n}", "RAP", "Pacific Area Penmar Golf Course", "90291", "50", "524", "0.00", "PENMAR GOLF", "6", "R&P", [ null, null, null, null, null ] ]
+, [ 177, "BE67DD52-D783-4296-8E6B-D42F4C98B0AE", 177, 1419377085, "892567", 1419377085, "892567", "{\n}", "RAP", "Roosevelt Golf Course", "90027", "50", "279", null, "VERMONT PARKWAY", "4", "R&P", [ "{\"address\":\"2650 N Vermont Ave\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 178, "0D1BE609-D99D-4121-B106-DACF5CCBFBCF", 178, 1419377085, "892567", 1419377085, "892567", "{\n}", "RAP", "McArthur District Service Yard", "90027", "51", "279", "0.00", "VERMONT PARKWAY", "4", "R&P", [ "{\"address\":\"2650 Commonwealth St\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 179, "D8EC628B-7889-4A1D-97BE-45B4155405B2", 179, 1419377085, "892567", 1419377085, "892567", "{\n}", "RAP", "Los Feliz Golf Course", "90039", "50", "272", "0.00", "GRIFFITH PARK REC & PARKS SERVICE", "5", "R&P", [ "{\"address\":\"3207 Los Feliz Blvd\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 180, "5AEA7B2B-3C79-4026-B229-E8EA55438184", 180, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"3900 Chevy Chase Drive\"\n  }\n}", "RAP", "Meto Green Machine at CSY", "90039", "50", "96", null, null, null, null, [ null, null, null, null, null ] ]
+, [ 181, "0670FCA3-22EB-4DA1-BCBA-2274E6F6D337", 181, 1419377085, "892567", 1419377085, "892567", "{\n}", "RAP", "Tregnan Golf Academy", "90027", "50", "285", "0.00", "GRIFIFTH PARK", "4", "R&P", [ "{\"address\":\"4341 Griffith Park Dr\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 182, "50864962-4BDC-4B21-93A6-2BC2EA15AE57", 182, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"4601 Alla Road\"\n  }\n}", "RAP", "Glen Alla Park", "90291", "50", "418", "0.00", "GLEN-ALLA PARK", "6", "R&P", [ null, null, null, null, null ] ]
+, [ 183, "3DC94F71-BBAA-45CB-BEF7-4D3F4285C671", 183, 1419377085, "892567", 1419377085, "892567", "{\n}", "RAP", "Sycamore Grove Service Yard", "90042", "50", "700", "0.00", "SYCAMORE GROVE PARK", "14", "R&P", [ "{\"address\":\"4702 N Figueroa St\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 184, "7E48FBF5-9B86-411F-AF8A-C9787EFE7708", 184, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"4730 Crystal Springs Drive\"\n  }\n}", "RAP", "Griffith Area Wilson/Harding Golf Courses", "90027", "50", "272", "0.00", "GRIFFITH PARK", "4", "R&P", [ null, null, null, null, null ] ]
+, [ 185, "2F351B1D-DD8E-479E-99E4-D583C39BDD59", 185, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"5201 Zoo Drive\"\n  }\n}", "RAP", "Park Center District", "90027", "50", "883", null, null, "4", null, [ null, null, null, null, null ] ]
+, [ 186, "125229BC-1ACE-4D69-9315-A5C38A118A66", 186, 1419377085, "892567", 1419377085, "892567", "{\n}", "RAP", "Woodley Lakes Golf Course", "91406", "63", "908", "0.00", "VALLEY REGION HEADQUARTRS BLDG", "6", "R&P", [ "{\"address\":\"6331 Woodley Ave\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 187, "649B8A07-9097-4ABF-816D-1EAFD6B11D55", 187, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"6660 Esplanade Place\"\n  }\n}", "RAP", "Del Rey Lagoon", "90291", "50", "156", "0.00", "DEL REY LAGOON", "11", "R&P", [ null, null, null, null, null ] ]
+, [ 188, "348148B3-8723-4A44-BB5D-3220E509FF21", 188, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"7000 S. Manchester Boulevard\"\n  }\n}", "RAP", "Westchester Park", "90049", "50", "796", "0.00", "WESTCHESTER RECREATION CENTER", "11", "R&P", [ null, null, null, null, null ] ]
+, [ 189, "A8E10447-EF14-4700-A91B-F6CFFFCEC94A", 189, 1419377085, "892567", 1419377085, "892567", "{\n  \"invalidCells\" : {\n    \"23518826\" : \"10400 Glenoaks Blvd\"\n  }\n}", "RAP", "Hansen Dam Golf Course", "91331", "50", "276", "0.00", "HANSEN DAM GOLF COURSE/PARK", "7", "R&P", [ null, null, null, null, null ] ]
+, [ 190, "1F90C073-4660-4120-9216-0A59912D715E", 190, 1419377085, "892567", 1419377085, "892567", "{\n}", "RAP", "Mar Vista", "90066", "50", "420", "0.00", "MAR VISTA RECREATION CENTER", "11", "R&P", [ "{\"address\":\"11430 Woodbine Ave\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 191, "994B1C6D-6089-4B12-BD53-047073953E91", 191, 1419377085, "892567", 1419377085, "892567", "{\n}", "RAP", "Encino/Balboa Golf Courses", "91436", "50", "640", "0.00", "ENCINO/BALBOA GOLF COURSE", "3", "R&P", [ "{\"address\":\"16821 Burbank Blvd\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", null, null, null, true ] ]
+, [ 192, "72FA18EE-1EAD-47BF-A61F-CDB644BB2004", 192, 1419377085, "892567", 1419377085, "892567", "{\n}", "RAP", "Ken Malloy Harbor Regional Park", "90710", "50", "284", "0.00", "HARBOR PARK MAINTENANCE YARD", "15", "R&P", [ "{\"address\":\"25820 S Vermont Ave\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", null, null, null, true ] ]
+ ]
+}

@@ -10,7 +10,7 @@
       "createdAt" : 1390250787,
       "description" : "CAFR Pages 340-341.\r\n\r\nModified Accrual Basis of Accounting. Last Ten Fiscal Years.\r\n(amounts expressed in thousands of dollars)",
       "displayType" : "table",
-      "downloadCount" : 11,
+      "downloadCount" : 25,
       "indexUpdatedAt" : 1414616971,
       "licenseId" : "PUBLIC_DOMAIN",
       "newBackend" : false,
@@ -25,7 +25,7 @@
       "rowsUpdatedBy" : "7c7a-resi",
       "tableId" : 1472346,
       "totalTimesRated" : 0,
-      "viewCount" : 88,
+      "viewCount" : 108,
       "viewLastModified" : 1412744000,
       "viewType" : "tabular",
       "columns" : [ {
@@ -270,6 +270,9 @@
       "owner" : {
         "id" : "7c7a-resi",
         "displayName" : "Controller's Office",
+        "profileImageUrlLarge" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_tiny.jpg",
         "roleName" : "administrator",
         "screenName" : "Controller's Office",
         "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
@@ -280,6 +283,9 @@
       "tableAuthor" : {
         "id" : "7c7a-resi",
         "displayName" : "Controller's Office",
+        "profileImageUrlLarge" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_tiny.jpg",
         "roleName" : "administrator",
         "screenName" : "Controller's Office",
         "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]

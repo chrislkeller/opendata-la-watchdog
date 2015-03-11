@@ -1,0 +1,225 @@
+Department,Name,Zip Code,Department Number,Building Number,Square Footage,Facility,Council District,dept_name,Location 1
+BOS-SR,North Central District Yard - San Fernando Road,90031,21,36,,SAN FERNANDO ROAD FACILITY,1,SAN,
+BOS-SR,South Central Refuse Collection Yard,90023,1,37,8100,7TH ST CONSOLIDATED FACIL- Sanitation,14,DGS,
+BOS-SR,Harbor District Collection Yard,90731,21,32,0,GAFFEY STREET YARD,15,SAN,
+BOS-SR,Western District Refuse Collection Yard,90025,20,3,116775,,11,,
+BOS-SR,Central Los Angeles Recycle And Transfer Station,90021,20,9,,,10,,
+BOS-SR,Refuse Collection Center,90058,20,1,0,REFUSE COLLECTION CENTER,14,SAN,
+BOS-SR,South Central,90021,20,2,0,SOUTH-CENTRAL,14,SAN,
+BOS-SR,Lancer Project,90039,20,20,0,LANCER PROJECT,9,SAN,
+BOS-SR,Toyon Canyon Park Reclamation Project,90035,20,13,2000,TOYON CANYON PARK RECLAMATION PROJECT,4,SAN,
+BOS-SR,Sheldon-Arleta Landfill,91352,20,17,3650,SHELDON-ARLETA LANDFILL,6,SAN,
+BOS-SR,West Valley Refuse Collection Yard,90023,20,4,11138,WEST VALLEY REFUSE COLLECTION YARD,12,SAN,
+BOS-SR,East Valley Refuse Collection Yard,91335,20,8,192000,EAST VALLEY REFUSE COLLECTION YARD,6,SAN,
+BOS-SR,East Valley Solid Resources Complex,91352,21,14,,EAST VALLEY SOLID WASTE RESOURCES FACILITY,2,SAN,
+BOS-SR,Lopez Canyon Landfill,91342,20,19,3700,LOPEZ CANYON LANDFILL,7,SAN,
+BOS-SR,Sheldon-Arleta Landfill,91352,20,17,3650,SHELDON-ARLETA LANDFILL,6,SAN,
+BOS-WW,North Central District Yard - San Fernando Road,90031,21,36,,,,,
+BOS-WW,Gaffey Street Yard,90731,21,32,5000,GAFFEY STREET YARD,15,SAN,
+BOS-WW,Water Treatment Aeration Facility,90046,21,31,4155,WILL AND ARIEL DURANT BRANCH LIBRARY,4,LIB,
+BOS-WW,Harbor Dist Sewer Mtce Yard,90731,21,9,0,HARBOR DIST SEWER MTCE YARD,15,SAN,
+BOS-WW,Pumping Plant,90744,21,11,0,PUMPING PLANT,15,SAN,
+BOS-WW,South Sewer Maintenance Yard,90047,21,3,8294,SOUTH SEWER MAINTENANCE YARD,8,SAN,
+BOS-WW,Nd Sewer Maintenance Yard-Admin Bldg & Warehouse,90031,21,1,18000,ND SEWER MAINTENANCE YARD-Admin Bldg,13,SAN,
+BOS-WW,North Sewer Maintenance Yard,90031,21,1,0,ND SEWER MAINTENANCE YARD,13,SAN,
+BOS-WW,Sanitation Facility,90039,21,16,,SANITATION FACILITY,5,SAN,
+BOS-WW,Venice-Westchester Sewer Maintenance Yard,90291,21,4,6000,,11,SAN,
+BOS-WW,Sanitation Facility,90027,21,40,0,SANITATION FACILITY,4,SAN,
+BOS-WW,Sanitation Transfer Station - Jefferson Transfer,90016,21,15,3000,SANITATION TRANSFER STATION - JEFFERSON TRANSFER YARD,10,SAN,
+BOS-WW,Hollywood Sewer Maintenance Yard,90038,21,7,11941,HOLLYWOOD SEWER MTCE YARD,4,SAN,
+BOS-WW,Pumping Plant,91402,21,12,0,PUMPING PLANT,6,SAN,
+BOS-WW,North Hollywood Sewer Maintenance Yard,90032,21,6,44700,N.HOLLYWOOD SEWER MAINT.YARD,4,SAN,
+BOS-WW,West Los Angeles Sewer Maintenance Yard,90025,21,8,10321,WEST L.A. SEWER MTCE YARD,11,SAN,
+BOS-WW,Sanitation Facility,91352,21,13,0,SANITATION FACILITY,6,SAN,
+BOS-WW,Deauville Marina,90291,21,5,0,DEAUVILLE MARINA,11,SAN,
+BOS-WW,Reseda Sewer Maintenance Yard,91356,21,2,31680,RESEDA SEWER MAINTENANCE YARD,3,SAN,
+BSL,Field Operations Division Yard,90029,12,1,40000,STREET LIGHTING FIELD OPERATIONS HDQTRS,13,STL,
+BSL,"Raymer Yard (Satellite Yard, Shared With GSD and LADOT)",91405,1,17,,,,,"14832 W Raymer St
+"
+BSS,North Central District Yard - East,90031,21,36,,San Fernando Road Facility,1,SAN,
+BSS,Small Tree Maintenance,90031,8,46,6500,STREET TREE STORAGE,1,STM,
+BSS,Mission,90012,1,50,8025,LESSOR: MISSION RFT/SR LLC,14,VAR,"1016 N Mission Rd
+"
+BSS,Wilshire,90019,8,13,,,10,,
+BSS,Central,90026,8,9,3000,CENTRAL MAINTENANCE YARD - Building D,1,STM,
+BSS,Wilshire,90019,8,13,,WILSHIRE DISTRICT ST SERVICES YD- OIL HOUSE,10,STM,
+BSS,Harbor,90731,21,32,5000,GAFFEY STREET YARD,15,SAN,
+BSS,6th Street (St Mtce Storage),90021,8,24,0,ST. MAINT SERVICE YARD,14,STM,
+BSS,Palisades,90025,8,28,1092,PALISADES ST MTCE YARD,11,STM,
+BSS,Venice,90291,8,15,10043,VENICE DIST ST MTCE YARD,6,STM,
+BSS,7th Street Warehouse,90023,1,37,61400,7TH ST. CONSOLIDATED FACILITY - GSD,12,DGS,
+BSS,Eagle Rock,90041,8,8,0,EAGLE ROCK DIST,14,STM,
+BSS,Structural Construt. Zone#1,90021,8,26,3835,Sanitation and St. Services,14,STM,"2474 E Olympic Blvd
+"
+BSS,Asphalt Plant #1,90021,8,25,100,ST MTCE YARD ASPHALT PLANT #1,14,STM,
+BSS,Asphalt Plant#1,90021,8,25,897,ST MTCE YARD ASPHALT PLANT #1,14,STM,"2484 E Olympic Blvd
+"
+BSS,Lacy Street Tansfer,90031,20,5,,,,,
+BSS,Cahuenga Pass,90068,8,31,0,CAHUENGA PASS SERVICE YARD,13,STM,"2770 N Cahuenga Blvd
+"
+BSS,Thatcher Avenue,90291,8,32,8000,THATCHER AVE-ST.CLEANING YARD,11,STM,
+BSS,Southeast,90011,8,5,7053,SE DISTRICT-ST MAINT YARD,9,STM,
+BSS,Southeast,90003,8,5,1314,SE DISTRICT-ST MAINT YARD,9,STM,
+BSS,Silverlake,90039,8,47,2000,SILVERLAKE-ST. MAINT YARD,4,STM,"4610 Colorado Blvd
+"
+BSS,Westchester,90045,8,23,11000,WESTCHESTER,11,STM,
+BSS,Southwest,90047,8,4,5500,SW DISTRICT-ST.MAINT YARD,8,STM,
+BSS,Reseda / Woodland Hills,91335,8,18,10000,RESEDA/WOODLAND HILLS,3,STM,
+BSS,East Valley Dist Office,91401,63,48,137419,MARVIN BRAUDE SFV CONSTITUENT SERVICE CENTER,11,DGS,"6262 Van Nuys Blvd
+"
+BSS,Lindley,91335,8,35,0,STREET MAINTENANCE YARD,3,STM,
+BSS,Hollywood,90038,8,12,37914,,,,
+BSS,Harbor Office Dist Office,90045,63,46,2000,,,,"7166 W Manchester Avenue
+"
+BSS,Canoga Park,91303,8,16,7000,CANOGA PARK DIST,3,STM,
+BSS,Alabama,91304,8,16,1300,CANOGA PARK DIST,3,STM,
+BSS,Balboa Yard,91406,25,157,0,NON-STRUCTURAL SERVICE,0,STM,
+BSS,South,90044,8,3,2000,SOUTH DIST-ST MTCE YARD,8,STM,
+BSS,Topanga Cyn,91311,8,27,1300,CHATSWORTH,12,STM,
+BSS,Sunland District (Tujunga),91040,8,22,225,SUNLAND/TUJUNGA - Office Building,2,STM,
+BSS,Granada Hills/Northridge,91325,8,41,480,GRANADA HILLS-ST. MAINT YARD,12,STM,
+BSS,North Hollywood,91601,8,10,19126,N HOLLYWOOD-STUDIO CITY,4,STM,"10811 Chandler Blvd
+"
+BSS,Bel Air,90025,8,14,35991,BEL AIR DIST ST MTCE YARD,11,STM,
+BSS,San Fernando,91340,8,11,0,SAN FERNANDO ST SERVICES YARD,7,STM,
+BSS,Valley Warehouse,91605,1,72,3800,No. Hollywood Repair Facility - Paint Shop,2,DGS,
+BSS,Asphalt Plant #2,91605,8,19,4228,Asphalt Plant #2,2,STM,
+BSS,Van Nuys,91411,8,17,1048,VAN NUYS DIST ST MTCE YARD,2,STM,
+BSS,Recycling Site,91394,21,331,0,VAN NORMAN DAM,12,SAN,"15751 Rinaldi St
+"
+BSS,West Valley Dist Office,91335,1,20,16500,WEST VALLEY MUNICIPAL BUILDING,3,DGS,
+DOT,Caltrans District 7 Headquarter,90012,63,8,98486,,14,,
+DOT,ATSAC,90012,63,43,5500,,14,,
+DOT,Downtown Los Angeles Adjudication,90012,63,47,,,14,,
+DOT,Ave 19 Yard,90031,1,39,19500,DOT facility,1,DGS,
+DOT,Parking Enforcement-Hollywood,90004,63,15,110000,PARKING ENFORCEMENT,13,VAR,
+DOT,Equipment Repair,90012,1,24,,,14,,"430 E Commercial St
+"
+DOT,Harbor Substation,90744,1,99,,WILMINGTON MUNICIPAL BUILDING,15,CDD,
+DOT,"Signal, Paint, Sign, And Meter Shop",90012,63,44,,,14,,
+DOT,Major Construction Coordination Division,90012,63,45,,,14,,
+DOT,Signal Lab,90012,63,44,,,14,,
+DOT,Piper Tech Meter Shop,90012,63,44,,,14,,
+DOT,Southern District Office,90731,1,3,12021,SAN PEDRO MUNICIPAL BUILDING,15,DGS,
+DOT,Parking Enforcement-Central,90033,1,50,9203,"DOT, PD Central Parking Enforcement",14,VAR,
+DOT,Western District Office,90025,1,46,13760,VARIOUS CITY OFFICES,11,DGS,"1828 Sawtelle Blvd
+"
+DOT,Central Yard,90031,63,19,80836,CENTRAL TRAFFIC YARD,1,VAR,
+DOT,Macarthur/Commonwealth/Vermont/Western District,90027,50,24,,GRIFFITH PARK NURSERY ADMINISTRATION,4,R&P,
+DOT,Western Yard,90018,63,21,5000,WESTERN DISTRICT TRAFFIC YARD,10,VAR,
+DOT,East Valley District Office,91411,63,48,,,,,
+DOT,West Los Angeles Municipal Building,90045,1,22,,,,,"7166 W Manchester Ave
+"
+DOT,Parking Enforcement-Southern,90003,63,23,6900,,9,,"7510 S Figueroa St
+"
+DOT,Hollywood/Wilshire District Office,90046,63,158,1780,,4,DOT,
+DOT,West Los Angeles Hearing Office,90035,63,3,3270,TRAFFIC ADJUDICATION OFFICE,5,VAR,
+DOT,Parking Enforcement-Western,90064,63,41,34300,Western Parking Enforcement Office,5,VAR,"11214 Exposition Blvd
+"
+DOT,Parking Enforcement-Valley,91605,63,25,70000,PRKG ENFORCEMENT VALLEY AREA,2,VAR,"12544 Saticoy St
+"
+DOT,Van Nuys Adjudication,91405,63,2,2000,DELANO BUILDING,11,VAR,
+DOT,Valley Yard,91405,1,17,,,,,"14832 Raymer St
+"
+DOT,West Valley District Office,91335,1,20,16500,,,,
+DOT,Ken Malloy Harbor Regional Park Service Yard,90744,50,284,,,,,
+FIRE,Fire Department Shops & Stores,90031,5,401,0,FIRE DEPARTMENT SHOPS & STORES,1,FIR,
+FIRE,Fire Department Shops & Stores,90031,5,401,0,FIRE DEPARTMENT SHOPS & STORES,1,FIR,
+GSD,DOT Facility,90031,1,39,19500,,,,
+GSD,Commercial Street Traffic Yard,90012,1,24,0,COMMERCIAL STREET TRAFFIC YARD,14,VAR,
+GSD,Commercial St. Traffic Yard,90012,1,24,0,COMMERCIAL ST. TRAFFIC YARD,14,VAR,
+GSD,San Fernando Road Facility,90031,21,36,,,,,
+GSD,C.Erwin Piper Technical Center,90012,1,18,1300000,C.ERWIN PIPER TECHNICAL CENTER,14,DGS,
+GSD,GSD Fleet Services Building,90033,1,50,9203,GSD Fleet Services Building,14,VAR,
+GSD,Hollywood Repair Facility,90038,1,80,12800,STEIN FAMILY TRUST,13,DGS,
+GSD,Gaffey Street Yard,90731,21,32,17578,GAFFEY STREET YARD,15,SAN,
+GSD,Western District,90025,20,3,116775,WESTERN DISTRICT,11,SAN,
+GSD,7th St. Consolidated Facility - Gsd,90021,1,37,2200,7TH ST. CONSOLIDATED FACILITY - GSD,14,DGS,
+GSD,7th St Consolidated Facility - Gsd Body Shop,90021,1,37,26500,7TH ST. CONSOLIDATED FACILITY - GSD,14,DGS,
+GSD,Testing Lab/Standards - Big Garage Behind Lab-Sh,90031,1,111,0,"TESTING LAB/STANDARDS - Big Garage behind Lab-shops, storage, garage",13,DGS,
+GSD,Cntrl Refuse Equip Repair Yard,90058,1,76,5700,CNTRL REFUSE EQUIP REPAIR YARD,14,DGS,
+GSD,36th Street Yard,90018,1,47,24100,36TH STREET YARD,10,DGS,
+GSD,Griffith Park,90039,50,96,0,GRIFFITH PARK,4,R&P,
+GSD,Hollywood,90038,8,12,37914,HOLLYWOOD DIST,4,STM,
+GSD,DOT South Area Prkg Mgmnt,90044,63,23,6900,DOT SOUTH AREA PRKG MGMNT,8,VAR,
+GSD,Helicopter Svc Bldg,91406,1,73,14200,HELICOPTER SVC BLDG,6,DGS,
+GSD,Valley Parking Enforcement,91352,63,7,12000,Valley Parking Enforcement,6,DGS,
+GSD,West Valley Refuse Collection Yard,91335,20,4,11138,WEST VALLEY,12,SAN,
+GSD,East Valley Refuse Collection Yard,91335,20,8,192000,,,,
+GSD,Raymer St Yd-Fleet Svcs Garage (Bldg B),91405,1,17,6100,RAYMER ST YD-Fleet Svcs Garage (Bldg B),6,DGS,
+GSD,Raymer St Yd-GSD Car Shelter (Bldg D),91405,1,17,12700,RAYMER ST YD-GSD Car Shelter (Bldg D),6,DGS,
+GSD,Raymer St Yd-DOT/St Ltg Whse & Offc (Bldg C),91405,1,17,15500,RAYMER ST YD-DOT/St Ltg Whse & Offc (Bldg C),6,DGS,
+GSD,Raymer St Yd-GSD Car Shelter (Bldg E),91405,1,17,15800,RAYMER ST YD-GSD Car Shelter (Bldg E),6,DGS,
+GSD,Raymer St Yd-GSD No Dist& Warehouse (Bldg F),91405,1,17,0,RAYMER ST YD-GSD No Dist& Warehouse (Bldg F),6,DGS,
+GSD,Lopez Canyon Landfill,91342,20,19,304920,"LAND LOCATED IN T. 3N, R. 142, SEC 31, SBBM",7,SAN,
+GSD,Hyperion Treatment Plant,90293,21,302,15200,HYPERION TREATMENT PLANT,11,SAN,
+GSD,No. Hollywood Repair Facility - Paint Shop,91605,1,72,11520,N. HOLLYWOOD REPAIR FACILITY,2,DGS,
+GSD,Raymer St Yd-GSD No Dist& Warehouse (Bldg F),91405,1,17,,,,,
+RAP,Civic Center District Service Yard,90012,50,880,,,14,,
+RAP,"Venice District (This Is Just A Garage, Not A Se",90291,50,622,0,SAN JUAN GARAGE,11,R&P,
+RAP,South Park Maintenance District Service Yard,90011,50,668,0,SOUTH PARK,9,R&P,
+RAP,Banning Maintenance District Service Yard,90744,50,833,0,Pacific Region Annex,15,DGS,
+RAP,Elysian District Service Yard,90012,50,194,0,ELYSIAN PARK,14,R&P,
+RAP,Banning Recreation Center Service Yard,90744,50,40,0,BANNING PARK & REC CENTER,15,R&P,
+RAP,Lincoln District Service Yard,90031,50,879,,,,,
+RAP,Westwood Recreation Center Service Yard,90025,50,801,27000,WESTWOOD RECREATION CENTER,11,R&P,"1350 Sepulveda Blvd
+"
+RAP,Pacific Region Headquarters Service Yard,90732,50,690,0,REC & PARKS SERVICE,15,R&P,
+RAP,Harbor Golf Maintenance Yard,90744,50,284,0,NAL PARK,15,R&P,
+RAP,West Region Headquarters Service Yard,90064,50,112,0,PACIFIC REGION WEST AREA HEADQUARTERS,5,R&P,
+RAP,Hollenbeck District Service Yard,90033,50,64,0,HOLLENBECK SERVICE YARD,14,R&P,
+RAP,Griffith Observatory Service Yard,90027,50,272,0,GRIFFITH PARK OBSERVATORY,4,R&P,
+RAP,Point Fermin Maintenance District Service Yard,90731,50,13,0,ANGELS GATE PARK,15,R&P,
+RAP,Cabrillo Marine Aquarium Service Yard,90731,50,80,0,CABRILLO BEACH REC COMPLEX,15,R&P,
+RAP,Central Service Yard,90039,50,96,45000,,,,
+RAP,Metro Green Machine Service Yard,90039,50,96,0,NORTH ATWATER PARK,4,R&P,
+RAP,Central District Service Yard,90019,50,878,,,10,,
+RAP,Park Center District Service Yard,90027,50,272,0,GRIFFITH PARK,4,R&P,
+RAP,Fern Dell Service Yard,90068,50,273,0,GRIFFITH PARK,1,R&P,
+RAP,Rancho Cienega District Service Yard,90016,50,884,,,10,,
+RAP,Valley Region Headquarters Service Yard,91436,50,908,6200,,,,"6335 Woodley Ave
+"
+RAP,Sepulveda District Service Yard,91436,63,908,6200,VALLEY REGION HEADQUARTRS BLDG,6,R&P,
+RAP,Arroyo Seco District Service Yard,90042,50,885,,,,,
+RAP,St. Andrew Recreation Center Service Yard,90047,50,616,0,ST. ANDREWS RECREATION CENTER,8,R&P,
+RAP,Algin Sutton Maintenance District Service Yard,90044,50,412,0,ALGIN SUTTON RECREATION CENTER,8,R&P,
+RAP,Northridge District Service Yard,91326,50,548,0,PORTER RANCH PARK,12,R&P,
+RAP,North Hollywood District Service Yard,91601,50,448,0,REC & PARKS SERVICE,4,R&P,"11455 Magnolia Blvd
+"
+RAP,Hansen Dam District Service Yard,91040,25,275,0,HANSEN DAM REC CENTER,7,R&P,
+RAP,Valley Plaza District Service Yard,91606,50,252,0,REC & PARKS SERVICE,0,R&P,
+RAP,Valley West District Service Yard,91304,50,398,0,REC & PARKS SERVICE,0,R&P,"23600 Roscoe Blvd
+"
+RAP,Westwood District,90025,50,881,,,11,,
+RAP,Hollenbeck Park Service Yard,90033,50,320,,HOLLENBECK PARK,,,"415 S St Louis St
+"
+RAP,Pacific Area Armand Hammer Golf Course Holmby Pa,90025,50,328,0,HOLMBY GOLF AND BOWLING GREENS,11,R&P,
+RAP,Pacific Palisades Yard,90272,50,488,0,PALISADES PARK & REC CENTER,11,R&P,
+RAP,Echo Park Service Yard,90026,50,882,,,1,,"1023 Glendale Blvd
+"
+RAP,Pacific Area Penmar Golf Course,90291,50,524,0,PENMAR GOLF,6,R&P,
+RAP,Roosevelt Golf Course,90027,50,279,,VERMONT PARKWAY,4,R&P,"2650 N Vermont Ave
+"
+RAP,McArthur District Service Yard,90027,51,279,0,VERMONT PARKWAY,4,R&P,"2650 Commonwealth St
+"
+RAP,Los Feliz Golf Course,90039,50,272,0,GRIFFITH PARK REC & PARKS SERVICE,5,R&P,"3207 Los Feliz Blvd
+"
+RAP,Meto Green Machine at CSY,90039,50,96,,,,,
+RAP,Tregnan Golf Academy,90027,50,285,0,GRIFIFTH PARK,4,R&P,"4341 Griffith Park Dr
+"
+RAP,Glen Alla Park,90291,50,418,0,GLEN-ALLA PARK,6,R&P,
+RAP,Sycamore Grove Service Yard,90042,50,700,0,SYCAMORE GROVE PARK,14,R&P,"4702 N Figueroa St
+"
+RAP,Griffith Area Wilson/Harding Golf Courses,90027,50,272,0,GRIFFITH PARK,4,R&P,
+RAP,Park Center District,90027,50,883,,,4,,
+RAP,Woodley Lakes Golf Course,91406,63,908,0,VALLEY REGION HEADQUARTRS BLDG,6,R&P,"6331 Woodley Ave
+"
+RAP,Del Rey Lagoon,90291,50,156,0,DEL REY LAGOON,11,R&P,
+RAP,Westchester Park,90049,50,796,0,WESTCHESTER RECREATION CENTER,11,R&P,
+RAP,Hansen Dam Golf Course,91331,50,276,0,HANSEN DAM GOLF COURSE/PARK,7,R&P,
+RAP,Mar Vista,90066,50,420,0,MAR VISTA RECREATION CENTER,11,R&P,"11430 Woodbine Ave
+"
+RAP,Encino/Balboa Golf Courses,91436,50,640,0,ENCINO/BALBOA GOLF COURSE,3,R&P,"16821 Burbank Blvd
+"
+RAP,Ken Malloy Harbor Regional Park,90710,50,284,0,HARBOR PARK MAINTENANCE YARD,15,R&P,"25820 S Vermont Ave
+"

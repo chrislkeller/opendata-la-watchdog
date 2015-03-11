@@ -9,7 +9,7 @@
       "createdAt" : 1386091185,
       "description" : "The Department of Recreation and Parks' Facility and Park Information dataset provide information such as facilities and parks' addresses, contact phone numbers, websites, and mapping info by categories: beaches, camps, dog parks, equestrian centers, gardens, golf courses, lakes, museums, public computer centers, recreation centers, rental facilities, senior centers, skate parks, swimming pools, tennis courts, and theatres; and amenities: baseball/softball fields, basketball courts, hiking trails, outdoor fitness equipment, swimming pools with diving boards and universally accessible playgrounds.",
       "displayType" : "table",
-      "downloadCount" : 42,
+      "downloadCount" : 67,
       "indexUpdatedAt" : 1414613646,
       "licenseId" : "OPEN_DATABASE_LICENSE",
       "newBackend" : false,
@@ -25,7 +25,7 @@
       "state" : "normal",
       "tableId" : 1591788,
       "totalTimesRated" : 0,
-      "viewCount" : 247,
+      "viewCount" : 330,
       "viewLastModified" : 1408989239,
       "viewType" : "tabular",
       "columns" : [ {

@@ -7,7 +7,7 @@
       "createdAt" : 1401487700,
       "description" : "This metric measures the proportion of water that is locally sourced within the Los Angeles Basin. The higher this percentage, the less water we import from other regions. Our in-basin local water supply includes groundwater, recycled water, and captured stormwater. LADWP is working toward increasing the local water supply through conservation and local sources",
       "displayType" : "table",
-      "downloadCount" : 1,
+      "downloadCount" : 5,
       "indexUpdatedAt" : 1414616961,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -20,7 +20,7 @@
       "rowsUpdatedBy" : "ddg3-br68",
       "tableId" : 1600614,
       "totalTimesRated" : 0,
-      "viewCount" : 18,
+      "viewCount" : 32,
       "viewLastModified" : 1402586586,
       "viewType" : "tabular",
       "columns" : [ {

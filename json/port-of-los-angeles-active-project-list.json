@@ -1,0 +1,1612 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "6fj6-cig2",
+      "name" : "Port of Los Angeles - Active Project List",
+      "attribution" : "Port of Los Angeles",
+      "averageRating" : 0,
+      "category" : "A Well Run City",
+      "createdAt" : 1398093969,
+      "description" : "Port of Los Angeles - Active Project List",
+      "displayType" : "table",
+      "downloadCount" : 8,
+      "indexUpdatedAt" : 1416602104,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 9442319,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1416602051,
+      "publicationGroup" : 1553012,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1416599408,
+      "rowsUpdatedBy" : "2ib6-ssvz",
+      "tableId" : 1902629,
+      "totalTimesRated" : 0,
+      "viewCount" : 97,
+      "viewLastModified" : 1416611551,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 176700702,
+        "name" : "Project Title",
+        "dataTypeName" : "text",
+        "fieldName" : "project_title",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19295178,
+        "width" : 256,
+        "cachedContents" : {
+          "non_null" : 129,
+          "smallest" : "120 W \"C\" Street Port Police K9 Facility (2509800)",
+          "null" : 0,
+          "largest" : "Wilmington Waterfront Park Street Vacations (2525600)",
+          "top" : [ {
+            "count" : 20,
+            "item" : "B.  84 - Maritime Museum Wharf Rehabilitation (2526200)"
+          }, {
+            "count" : 19,
+            "item" : "B.  87-88 - Mooring Fender Modification (2526700)"
+          }, {
+            "count" : 18,
+            "item" : "Ports O' Call Village Roof Restoration (2528000)"
+          }, {
+            "count" : 17,
+            "item" : "B. 183-184 - Banning's Landing HVAC System Upgrade (2528300)"
+          }, {
+            "count" : 16,
+            "item" : "Wilmington/San Pedro Fencing Upgrades - Phase 2 (2528500)"
+          }, {
+            "count" : 15,
+            "item" : "Banning's Landing - Fire Life Safety System Replacement (2531400)"
+          } ]
+        },
+        "format" : {
+          "aggregate" : "count",
+          "align" : "left"
+        }
+      }, {
+        "id" : 176700703,
+        "name" : "Project Category",
+        "dataTypeName" : "text",
+        "fieldName" : "project_category",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 23000461,
+        "width" : 337,
+        "cachedContents" : {
+          "non_null" : 129,
+          "smallest" : "Berth 100-102 - China Shipping Container Terminal",
+          "null" : 0,
+          "largest" : "Wilmington Waterfront Development",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Berth  90-93 - World Cruise Center"
+          }, {
+            "count" : 19,
+            "item" : "Berth 100-102 - China Shipping Container Terminal"
+          }, {
+            "count" : 18,
+            "item" : "Berth 121-131 - Yang Ming Container Terminal"
+          }, {
+            "count" : 17,
+            "item" : "Berth 135-147 - TRAPAC Container Terminal"
+          }, {
+            "count" : 16,
+            "item" : "Berth 212-224 - YTI Container Terminal"
+          }, {
+            "count" : 15,
+            "item" : "Berth 222-236 - Development"
+          }, {
+            "count" : 14,
+            "item" : "Berth 300-306 - Development"
+          }, {
+            "count" : 13,
+            "item" : "Berth 400-409 - Development"
+          }, {
+            "count" : 12,
+            "item" : "Motems"
+          }, {
+            "count" : 11,
+            "item" : "Miscellaneous Terminal Improvements"
+          }, {
+            "count" : 10,
+            "item" : "Transportation Improvements"
+          }, {
+            "count" : 9,
+            "item" : "Homeland Security"
+          }, {
+            "count" : 8,
+            "item" : "Port-Wide Public Enhancements"
+          }, {
+            "count" : 7,
+            "item" : "San Pedro Waterfront"
+          }, {
+            "count" : 6,
+            "item" : "Wilmington Waterfront Development"
+          }, {
+            "count" : 5,
+            "item" : "Environmental Enhancements"
+          }, {
+            "count" : 4,
+            "item" : "Maritime Services - Harbor Dept. Facilities"
+          }, {
+            "count" : 3,
+            "item" : "Miscellaneous Projects"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176700704,
+        "name" : "Project Status - OCT, 2014",
+        "dataTypeName" : "text",
+        "fieldName" : "project_status_oct_2014",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 23000477,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 125,
+          "smallest" : "Bid and Award",
+          "null" : 4,
+          "largest" : "Planning",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Design"
+          }, {
+            "count" : 19,
+            "item" : "Bid and Award"
+          }, {
+            "count" : 18,
+            "item" : "Planning"
+          }, {
+            "count" : 17,
+            "item" : "Construction"
+          }, {
+            "count" : 16,
+            "item" : "Completed"
+          }, {
+            "count" : 15,
+            "item" : "Environmental"
+          }, {
+            "count" : 14,
+            "item" : "Hold"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176700705,
+        "name" : "Project Status - NOV, 2014",
+        "dataTypeName" : "text",
+        "fieldName" : "project_status",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19295179,
+        "width" : 238,
+        "cachedContents" : {
+          "non_null" : 119,
+          "smallest" : "Bid and Award",
+          "null" : 10,
+          "largest" : "Planning",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Design"
+          }, {
+            "count" : 19,
+            "item" : "Bid and Award"
+          }, {
+            "count" : 18,
+            "item" : "Planning"
+          }, {
+            "count" : 17,
+            "item" : "Construction"
+          }, {
+            "count" : 16,
+            "item" : "Environmental"
+          }, {
+            "count" : 15,
+            "item" : "Hold"
+          }, {
+            "count" : 14,
+            "item" : "Canceled"
+          }, {
+            "count" : 13,
+            "item" : "Completed"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 176700706,
+        "name" : "Design Finish - OCT, 2014",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "design_finish_oct_2014",
+        "position" : 5,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 23000490,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 87,
+          "smallest" : "2009-11-11T00:00:00",
+          "null" : 42,
+          "largest" : "2018-03-01T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2014-08-31T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2016-04-10T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2016-06-10T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2017-08-04T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2014-05-31T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2013-06-19T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2014-08-18T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2013-12-09T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2014-12-07T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2014-08-29T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2014-12-31T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2017-04-02T00:00:00"
+          }, {
+            "count" : 8,
+            "item" : "2015-09-22T00:00:00"
+          }, {
+            "count" : 7,
+            "item" : "2012-08-31T00:00:00"
+          }, {
+            "count" : 6,
+            "item" : "2014-06-29T00:00:00"
+          }, {
+            "count" : 5,
+            "item" : "2011-02-17T00:00:00"
+          }, {
+            "count" : 4,
+            "item" : "2013-07-31T00:00:00"
+          }, {
+            "count" : 3,
+            "item" : "2014-09-30T00:00:00"
+          }, {
+            "count" : 2,
+            "item" : "2014-11-07T00:00:00"
+          }, {
+            "count" : 1,
+            "item" : "2009-11-11T00:00:00"
+          } ]
+        },
+        "format" : {
+          "view" : "date",
+          "align" : "left"
+        }
+      }, {
+        "id" : 176700707,
+        "name" : "Design Finish - NOV, 2014",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "design_finish",
+        "position" : 6,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 19295183,
+        "width" : 225,
+        "cachedContents" : {
+          "non_null" : 108,
+          "smallest" : "2005-09-09T00:00:00",
+          "null" : 21,
+          "largest" : "2017-08-04T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2014-05-31T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2014-06-30T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2014-12-31T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2014-06-29T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2014-07-11T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2014-09-25T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2014-07-31T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2014-07-25T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2014-08-29T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2014-05-02T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2014-10-31T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2014-10-06T00:00:00"
+          }, {
+            "count" : 8,
+            "item" : "2015-03-19T00:00:00"
+          }, {
+            "count" : 7,
+            "item" : "2015-01-21T00:00:00"
+          }, {
+            "count" : 6,
+            "item" : "2014-09-03T00:00:00"
+          }, {
+            "count" : 5,
+            "item" : "2015-05-30T00:00:00"
+          }, {
+            "count" : 4,
+            "item" : "2014-06-12T00:00:00"
+          }, {
+            "count" : 3,
+            "item" : "2014-06-14T00:00:00"
+          }, {
+            "count" : 2,
+            "item" : "2014-06-27T00:00:00"
+          }, {
+            "count" : 1,
+            "item" : "2014-07-16T00:00:00"
+          } ]
+        },
+        "format" : {
+          "view" : "date",
+          "align" : "left"
+        }
+      }, {
+        "id" : 176700708,
+        "name" : "Percent Design Complete - OCT, 2014",
+        "dataTypeName" : "percent",
+        "fieldName" : "percent_design_complete_oct_2014",
+        "position" : 7,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 23000491,
+        "width" : 174,
+        "cachedContents" : {
+          "non_null" : 87,
+          "smallest" : "0",
+          "sum" : "5500",
+          "null" : 42,
+          "average" : "63.21839080459770",
+          "largest" : "100",
+          "top" : [ {
+            "count" : 20,
+            "item" : "10"
+          }, {
+            "count" : 19,
+            "item" : "12"
+          }, {
+            "count" : 18,
+            "item" : "100"
+          }, {
+            "count" : 17,
+            "item" : "0"
+          }, {
+            "count" : 16,
+            "item" : "40"
+          }, {
+            "count" : 15,
+            "item" : "95"
+          }, {
+            "count" : 14,
+            "item" : "80"
+          }, {
+            "count" : 13,
+            "item" : "1"
+          }, {
+            "count" : 12,
+            "item" : "2"
+          }, {
+            "count" : 11,
+            "item" : "20"
+          }, {
+            "count" : 10,
+            "item" : "3"
+          }, {
+            "count" : 9,
+            "item" : "5"
+          }, {
+            "count" : 8,
+            "item" : "50"
+          }, {
+            "count" : 7,
+            "item" : "30"
+          }, {
+            "count" : 6,
+            "item" : "70"
+          }, {
+            "count" : 5,
+            "item" : "15"
+          }, {
+            "count" : 4,
+            "item" : "90"
+          }, {
+            "count" : 3,
+            "item" : "25"
+          }, {
+            "count" : 2,
+            "item" : "75"
+          }, {
+            "count" : 1,
+            "item" : "55"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176700709,
+        "name" : "Percent Design Complete - NOV, 2014",
+        "dataTypeName" : "percent",
+        "fieldName" : "percent_design_complete",
+        "position" : 8,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 19295184,
+        "width" : 376,
+        "cachedContents" : {
+          "non_null" : 78,
+          "smallest" : "0",
+          "sum" : "4812",
+          "null" : 51,
+          "average" : "61.69230769230769",
+          "largest" : "100",
+          "top" : [ {
+            "count" : 20,
+            "item" : "90"
+          }, {
+            "count" : 19,
+            "item" : "12"
+          }, {
+            "count" : 18,
+            "item" : "100"
+          }, {
+            "count" : 17,
+            "item" : "0"
+          }, {
+            "count" : 16,
+            "item" : "40"
+          }, {
+            "count" : 15,
+            "item" : "95"
+          }, {
+            "count" : 14,
+            "item" : "80"
+          }, {
+            "count" : 13,
+            "item" : "25"
+          }, {
+            "count" : 12,
+            "item" : "10"
+          }, {
+            "count" : 11,
+            "item" : "1"
+          }, {
+            "count" : 10,
+            "item" : "2"
+          }, {
+            "count" : 9,
+            "item" : "20"
+          }, {
+            "count" : 8,
+            "item" : "45"
+          }, {
+            "count" : 7,
+            "item" : "5"
+          }, {
+            "count" : 6,
+            "item" : "30"
+          }, {
+            "count" : 5,
+            "item" : "70"
+          }, {
+            "count" : 4,
+            "item" : "15"
+          }, {
+            "count" : 3,
+            "item" : "75"
+          } ]
+        },
+        "format" : {
+          "view" : "percent_bar_and_text",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      }, {
+        "id" : 176700710,
+        "name" : "Construction Finish - OCT, 2014",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "construction_finish_oct_2014",
+        "position" : 9,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 23000512,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 118,
+          "smallest" : "2014-08-29T00:00:00",
+          "null" : 11,
+          "largest" : "2020-01-31T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2015-06-29T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2015-06-30T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2014-09-30T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2015-06-24T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2014-12-31T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2014-08-31T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2015-02-25T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2014-10-31T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2016-12-31T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2015-03-31T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2015-02-02T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2015-06-01T00:00:00"
+          }, {
+            "count" : 8,
+            "item" : "2014-10-10T00:00:00"
+          }, {
+            "count" : 7,
+            "item" : "2015-01-08T00:00:00"
+          }, {
+            "count" : 6,
+            "item" : "2015-06-25T00:00:00"
+          }, {
+            "count" : 5,
+            "item" : "2015-06-23T00:00:00"
+          }, {
+            "count" : 4,
+            "item" : "2015-01-28T00:00:00"
+          }, {
+            "count" : 3,
+            "item" : "2015-03-30T00:00:00"
+          }, {
+            "count" : 2,
+            "item" : "2016-07-14T00:00:00"
+          }, {
+            "count" : 1,
+            "item" : "2015-11-03T00:00:00"
+          } ]
+        },
+        "format" : {
+          "view" : "date",
+          "align" : "left"
+        }
+      }, {
+        "id" : 176700711,
+        "name" : "Construction Finish - NOV, 2014",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "construction_finish",
+        "position" : 10,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 19295186,
+        "width" : 388,
+        "cachedContents" : {
+          "non_null" : 116,
+          "smallest" : "2014-08-30T00:00:00",
+          "null" : 13,
+          "largest" : "2020-01-31T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2015-06-29T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2015-06-30T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2015-06-24T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2014-12-31T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2014-09-30T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2014-10-31T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2016-12-31T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2015-03-31T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2015-06-01T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2014-10-10T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2015-01-08T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2015-06-25T00:00:00"
+          }, {
+            "count" : 8,
+            "item" : "2015-06-23T00:00:00"
+          }, {
+            "count" : 7,
+            "item" : "2015-01-28T00:00:00"
+          }, {
+            "count" : 6,
+            "item" : "2015-03-30T00:00:00"
+          }, {
+            "count" : 5,
+            "item" : "2015-03-19T00:00:00"
+          }, {
+            "count" : 4,
+            "item" : "2016-07-14T00:00:00"
+          }, {
+            "count" : 3,
+            "item" : "2015-11-03T00:00:00"
+          }, {
+            "count" : 2,
+            "item" : "2016-12-30T00:00:00"
+          }, {
+            "count" : 1,
+            "item" : "2014-12-20T00:00:00"
+          } ]
+        },
+        "format" : {
+          "view" : "date",
+          "align" : "left"
+        }
+      }, {
+        "id" : 176700712,
+        "name" : "Percent Construction Complete - OCT, 2014",
+        "dataTypeName" : "percent",
+        "fieldName" : "percent_construction_complete_oct_2014",
+        "position" : 11,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 23000513,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 118,
+          "smallest" : "0",
+          "sum" : "2510",
+          "null" : 11,
+          "average" : "21.27118644067797",
+          "largest" : "100",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0"
+          }, {
+            "count" : 19,
+            "item" : "5"
+          }, {
+            "count" : 18,
+            "item" : "100"
+          }, {
+            "count" : 17,
+            "item" : "17"
+          }, {
+            "count" : 16,
+            "item" : "65"
+          }, {
+            "count" : 15,
+            "item" : "60"
+          }, {
+            "count" : 14,
+            "item" : "50"
+          }, {
+            "count" : 13,
+            "item" : "40"
+          }, {
+            "count" : 12,
+            "item" : "2"
+          }, {
+            "count" : 11,
+            "item" : "1"
+          }, {
+            "count" : 10,
+            "item" : "99"
+          }, {
+            "count" : 9,
+            "item" : "9"
+          }, {
+            "count" : 8,
+            "item" : "85"
+          }, {
+            "count" : 7,
+            "item" : "90"
+          }, {
+            "count" : 6,
+            "item" : "75"
+          }, {
+            "count" : 5,
+            "item" : "95"
+          }, {
+            "count" : 4,
+            "item" : "45"
+          }, {
+            "count" : 3,
+            "item" : "25"
+          }, {
+            "count" : 2,
+            "item" : "10"
+          }, {
+            "count" : 1,
+            "item" : "71"
+          } ]
+        },
+        "format" : {
+          "view" : "percent_bar_and_text",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      }, {
+        "id" : 176700713,
+        "name" : "Percent Construction Complete - NOV, 2014",
+        "dataTypeName" : "percent",
+        "fieldName" : "percent_construction_complete",
+        "position" : 12,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 19295187,
+        "width" : 313,
+        "cachedContents" : {
+          "non_null" : 112,
+          "smallest" : "0",
+          "sum" : "1804",
+          "null" : 17,
+          "average" : "16.10714285714286",
+          "largest" : "100",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0"
+          }, {
+            "count" : 19,
+            "item" : "30"
+          }, {
+            "count" : 18,
+            "item" : "5"
+          }, {
+            "count" : 17,
+            "item" : "21"
+          }, {
+            "count" : 16,
+            "item" : "17"
+          }, {
+            "count" : 15,
+            "item" : "70"
+          }, {
+            "count" : 14,
+            "item" : "60"
+          }, {
+            "count" : 13,
+            "item" : "75"
+          }, {
+            "count" : 12,
+            "item" : "1"
+          }, {
+            "count" : 11,
+            "item" : "40"
+          }, {
+            "count" : 10,
+            "item" : "10"
+          }, {
+            "count" : 9,
+            "item" : "65"
+          }, {
+            "count" : 8,
+            "item" : "99"
+          }, {
+            "count" : 7,
+            "item" : "9"
+          }, {
+            "count" : 6,
+            "item" : "50"
+          }, {
+            "count" : 5,
+            "item" : "85"
+          }, {
+            "count" : 4,
+            "item" : "98"
+          }, {
+            "count" : 3,
+            "item" : "20"
+          }, {
+            "count" : 2,
+            "item" : "95"
+          }, {
+            "count" : 1,
+            "item" : "100"
+          } ]
+        },
+        "format" : {
+          "view" : "percent_bar_and_text",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      }, {
+        "id" : 176700714,
+        "name" : "Schedule Trend - OCT, 2014",
+        "dataTypeName" : "text",
+        "fieldName" : "schedule_trend_oct_2014",
+        "position" : 13,
+        "renderTypeName" : "text",
+        "tableColumnId" : 23000514,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 124,
+          "smallest" : "Chance of going off trend",
+          "null" : 5,
+          "largest" : "On",
+          "top" : [ {
+            "count" : 20,
+            "item" : "On"
+          }, {
+            "count" : 19,
+            "item" : "Chance of going off trend"
+          }, {
+            "count" : 18,
+            "item" : "Off"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176700715,
+        "name" : "Schedule Trend - NOV, 2014",
+        "dataTypeName" : "text",
+        "fieldName" : "schedule_trend",
+        "position" : 14,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19295188,
+        "width" : 280,
+        "cachedContents" : {
+          "non_null" : 116,
+          "smallest" : "Chance of going off trend",
+          "null" : 13,
+          "largest" : "On",
+          "top" : [ {
+            "count" : 20,
+            "item" : "On"
+          }, {
+            "count" : 19,
+            "item" : "Off"
+          }, {
+            "count" : 18,
+            "item" : "Chance of going off trend"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 176700717,
+        "name" : "Spent to Date - NOV, 2014",
+        "dataTypeName" : "money",
+        "fieldName" : "spent_to_date",
+        "position" : 15,
+        "renderTypeName" : "money",
+        "tableColumnId" : 22989271,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 119,
+          "smallest" : "0",
+          "sum" : "222332682",
+          "null" : 10,
+          "average" : "1868341.865546218",
+          "largest" : "52958280",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0"
+          }, {
+            "count" : 19,
+            "item" : "446715"
+          }, {
+            "count" : 18,
+            "item" : "92031"
+          }, {
+            "count" : 17,
+            "item" : "26744"
+          }, {
+            "count" : 16,
+            "item" : "27085"
+          }, {
+            "count" : 15,
+            "item" : "405156"
+          }, {
+            "count" : 14,
+            "item" : "11487"
+          }, {
+            "count" : 13,
+            "item" : "5440"
+          }, {
+            "count" : 12,
+            "item" : "293"
+          }, {
+            "count" : 11,
+            "item" : "17536"
+          }, {
+            "count" : 10,
+            "item" : "1644"
+          }, {
+            "count" : 9,
+            "item" : "118985"
+          }, {
+            "count" : 8,
+            "item" : "334966"
+          }, {
+            "count" : 7,
+            "item" : "47054"
+          }, {
+            "count" : 6,
+            "item" : "34169"
+          }, {
+            "count" : 5,
+            "item" : "5304"
+          }, {
+            "count" : 4,
+            "item" : "62394"
+          } ]
+        },
+        "format" : {
+          "aggregate" : "sum",
+          "humane" : "false",
+          "currency" : "USD",
+          "align" : "right"
+        }
+      }, {
+        "id" : 176700719,
+        "name" : "Percent Spent to Date - NOV, 2014",
+        "dataTypeName" : "percent",
+        "fieldName" : "percent_spent_to_date",
+        "position" : 16,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 22989261,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 119,
+          "smallest" : "0",
+          "sum" : "2139",
+          "null" : 10,
+          "average" : "17.97478991596639",
+          "largest" : "98",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          }, {
+            "count" : 19,
+            "item" : "0"
+          }, {
+            "count" : 18,
+            "item" : "12"
+          }, {
+            "count" : 17,
+            "item" : "13"
+          }, {
+            "count" : 16,
+            "item" : "8"
+          }, {
+            "count" : 15,
+            "item" : "2"
+          }, {
+            "count" : 14,
+            "item" : "4"
+          }, {
+            "count" : 13,
+            "item" : "15"
+          }, {
+            "count" : 12,
+            "item" : "44"
+          }, {
+            "count" : 11,
+            "item" : "9"
+          }, {
+            "count" : 10,
+            "item" : "31"
+          }, {
+            "count" : 9,
+            "item" : "5"
+          }, {
+            "count" : 8,
+            "item" : "11"
+          }, {
+            "count" : 7,
+            "item" : "32"
+          }, {
+            "count" : 6,
+            "item" : "3"
+          }, {
+            "count" : 5,
+            "item" : "6"
+          }, {
+            "count" : 4,
+            "item" : "17"
+          }, {
+            "count" : 3,
+            "item" : "59"
+          }, {
+            "count" : 2,
+            "item" : "41"
+          }, {
+            "count" : 1,
+            "item" : "30"
+          } ]
+        },
+        "format" : {
+          "aggregate" : "average",
+          "view" : "percent_bar_and_text",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      }, {
+        "id" : 176700720,
+        "name" : "Projected Cost - OCT, 2014",
+        "dataTypeName" : "money",
+        "fieldName" : "projected_cost_oct_2014",
+        "position" : 17,
+        "renderTypeName" : "money",
+        "tableColumnId" : 23000515,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 125,
+          "smallest" : "10000",
+          "sum" : "1462746215",
+          "null" : 4,
+          "average" : "11701969.72",
+          "largest" : "163000000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "100000"
+          }, {
+            "count" : 19,
+            "item" : "145000"
+          }, {
+            "count" : 18,
+            "item" : "701196"
+          }, {
+            "count" : 17,
+            "item" : "710000"
+          }, {
+            "count" : 16,
+            "item" : "60000"
+          }, {
+            "count" : 15,
+            "item" : "1950000"
+          }, {
+            "count" : 14,
+            "item" : "148000"
+          }, {
+            "count" : 13,
+            "item" : "725000"
+          }, {
+            "count" : 12,
+            "item" : "670000"
+          }, {
+            "count" : 11,
+            "item" : "5100000"
+          }, {
+            "count" : 10,
+            "item" : "1402527"
+          }, {
+            "count" : 9,
+            "item" : "165000"
+          }, {
+            "count" : 8,
+            "item" : "1975250"
+          }, {
+            "count" : 7,
+            "item" : "221000"
+          }, {
+            "count" : 6,
+            "item" : "1065000"
+          }, {
+            "count" : 5,
+            "item" : "350000"
+          }, {
+            "count" : 4,
+            "item" : "378000"
+          }, {
+            "count" : 3,
+            "item" : "759777"
+          }, {
+            "count" : 2,
+            "item" : "226500"
+          }, {
+            "count" : 1,
+            "item" : "75000"
+          } ]
+        },
+        "format" : {
+          "aggregate" : "sum",
+          "humane" : "false",
+          "currency" : "USD",
+          "align" : "right"
+        }
+      }, {
+        "id" : 176700721,
+        "name" : "Projected Cost - NOV, 2014",
+        "dataTypeName" : "money",
+        "fieldName" : "projected_cost",
+        "position" : 18,
+        "renderTypeName" : "money",
+        "tableColumnId" : 19295180,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 119,
+          "smallest" : "10000",
+          "sum" : "1313451534",
+          "null" : 10,
+          "average" : "11037407.84873950",
+          "largest" : "163000000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "100000"
+          }, {
+            "count" : 19,
+            "item" : "145000"
+          }, {
+            "count" : 18,
+            "item" : "1402527"
+          }, {
+            "count" : 17,
+            "item" : "165000"
+          }, {
+            "count" : 16,
+            "item" : "1975250"
+          }, {
+            "count" : 15,
+            "item" : "221000"
+          }, {
+            "count" : 14,
+            "item" : "1065000"
+          }, {
+            "count" : 13,
+            "item" : "350000"
+          }, {
+            "count" : 12,
+            "item" : "378000"
+          }, {
+            "count" : 11,
+            "item" : "759777"
+          }, {
+            "count" : 10,
+            "item" : "226500"
+          }, {
+            "count" : 9,
+            "item" : "75000"
+          }, {
+            "count" : 8,
+            "item" : "460500"
+          }, {
+            "count" : 7,
+            "item" : "500000"
+          }, {
+            "count" : 6,
+            "item" : "1350000"
+          }, {
+            "count" : 5,
+            "item" : "160000"
+          }, {
+            "count" : 4,
+            "item" : "130000"
+          }, {
+            "count" : 3,
+            "item" : "85000"
+          }, {
+            "count" : 2,
+            "item" : "370000"
+          }, {
+            "count" : 1,
+            "item" : "10000"
+          } ]
+        },
+        "format" : {
+          "aggregate" : "sum",
+          "humane" : "false",
+          "currency" : "USD",
+          "align" : "right"
+        }
+      }, {
+        "id" : 176700722,
+        "name" : "Budget Trend - OCT, 2014",
+        "dataTypeName" : "text",
+        "fieldName" : "budget_trend_oct_2014",
+        "position" : 19,
+        "renderTypeName" : "text",
+        "tableColumnId" : 23000516,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 124,
+          "smallest" : "Chance of going off trend",
+          "null" : 5,
+          "largest" : "On",
+          "top" : [ {
+            "count" : 20,
+            "item" : "On"
+          }, {
+            "count" : 19,
+            "item" : "Off"
+          }, {
+            "count" : 18,
+            "item" : "Chance of going off trend"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176700723,
+        "name" : "Budget Trend - NOV, 2014",
+        "dataTypeName" : "text",
+        "fieldName" : "budget_trend",
+        "position" : 20,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19295181,
+        "width" : 256,
+        "cachedContents" : {
+          "non_null" : 116,
+          "smallest" : "Chance of going off trend",
+          "null" : 13,
+          "largest" : "On",
+          "top" : [ {
+            "count" : 20,
+            "item" : "On"
+          }, {
+            "count" : 19,
+            "item" : "Off"
+          }, {
+            "count" : 18,
+            "item" : "Chance of going off trend"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      } ],
+      "displayFormat" : {
+        "hideDsgMsg" : false,
+        "chartType" : "bar",
+        "yAxis" : {
+          "formatter" : {
+            "abbreviate" : true
+          }
+        },
+        "valueColumns" : [ {
+          "color" : "#003366",
+          "fieldName" : "percent_design_complete_oct_2014"
+        }, {
+          "color" : "#D95F02",
+          "fieldName" : "percent_design_complete"
+        }, {
+          "color" : "#1B9E77",
+          "fieldName" : "percent_construction_complete_oct_2014"
+        }, {
+          "color" : "#e6ab02",
+          "fieldName" : "percent_construction_complete"
+        }, {
+          "color" : "#7570b3",
+          "fieldName" : "spent_to_date"
+        }, {
+          "color" : "#000a66",
+          "fieldName" : "percent_spent_to_date"
+        }, {
+          "color" : "#d9b502",
+          "fieldName" : "projected_cost_oct_2014"
+        }, {
+          "color" : "#1b919e",
+          "fieldName" : "projected_cost"
+        } ],
+        "fixedColumns" : [ "project_title" ],
+        "seriesColumns" : [ {
+        } ],
+        "legendDetails" : {
+          "showSeries" : true,
+          "showValueMarkers" : true
+        },
+        "legend" : "bottom",
+        "descriptionColumns" : [ {
+        } ],
+        "xAxis" : {
+          "valueInBar" : false,
+          "labelInBar" : false
+        },
+        "sortSeries" : false,
+        "errorBarColor" : "#ff0000"
+      },
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "Harbor"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+        "jsonQuery" : {
+          "select" : [ {
+            "columnFieldName" : "project_category"
+          }, {
+            "aggregate" : "sum",
+            "columnFieldName" : "projected_cost_oct_2014"
+          }, {
+            "aggregate" : "sum",
+            "columnFieldName" : "projected_cost"
+          } ],
+          "group" : [ {
+            "columnFieldName" : "project_category"
+          } ]
+        }
+      },
+      "owner" : {
+        "id" : "2ib6-ssvz",
+        "displayName" : "Port of Los Angeles",
+        "profileImageUrlLarge" : "/images/profile/9654/0122/POLALogo2_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9654/0122/POLALogo2_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9654/0122/POLALogo2_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Port of Los Angeles",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "2ib6-ssvz",
+        "displayName" : "Port of Los Angeles",
+        "profileImageUrlLarge" : "/images/profile/9654/0122/POLALogo2_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/9654/0122/POLALogo2_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/9654/0122/POLALogo2_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Port of Los Angeles",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "project" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 2930, "87A966C8-F26F-45F4-B9C1-6800213B9A58", 2930, 1416597043, "870164", 1416597043, "870164", null, "B.  93 - Cruise Terminal - Customs and Border Protection Improvements Conceptual Design (2525300)", "Berth  90-93 - World Cruise Center", "Design", "Design", "2014-11-27T00:00:00", "2014-11-27T00:00:00", "10", "90", null, null, null, null, "On", "On", "57524", "41", "140000", "140000", "On", "On" ]
+, [ 2931, "D940C299-A96C-4289-8282-E5B43F438AE1", 2931, 1416597043, "870164", 1416597043, "870164", null, "B.  91-93 - Alternative Maritime Power (AMP) Upgrade and Retrofit (2527300)", "Berth  90-93 - World Cruise Center", "Design", "Design", "2014-11-24T00:00:00", "2014-11-24T00:00:00", "12", "12", "2014-11-24T00:00:00", "2014-11-24T00:00:00", "0", "0", "Chance of going off trend", "Off", "5298", "1", "1000000", "1000000", "On", "On" ]
+, [ 2932, "82701F1F-AA4B-427A-BCCC-83BFBA957370", 2932, 1416597043, "870164", 1416597043, "870164", null, "B.  91-92 - Replacement of Elevator No. 1 (2528400)", "Berth  90-93 - World Cruise Center", "Bid and Award", "Bid and Award", null, null, null, null, "2015-06-29T00:00:00", "2015-06-29T00:00:00", "0", "0", "On", "On", "0", "0", "85000", "85000", "On", "On" ]
+, [ 2933, "FD394952-4D10-4F13-B5C0-317A8943B6F0", 2933, 1416597043, "870164", 1416597043, "870164", null, "B.  93 - Replacement of Elevator No. 1 (2528600)", "Berth  90-93 - World Cruise Center", "Planning", "Planning", null, null, null, null, "2015-06-28T00:00:00", "2015-06-28T00:00:00", "0", "0", "On", "On", "0", "0", "60000", "60000", "On", "On" ]
+, [ 2934, "A47613C7-75CB-49E7-9395-1A06F4BB4C74", 2934, 1416597043, "870164", 1416597043, "870164", null, "B.  93 - Replacement of Elevator No. 6 (2528700)", "Berth  90-93 - World Cruise Center", "Bid and Award", "Bid and Award", null, null, null, null, "2015-06-25T00:00:00", "2015-06-25T00:00:00", "0", "0", "On", "On", "0", "0", "180000", "180000", "On", "On" ]
+, [ 2935, "05FF1A9A-CC70-4FCE-AFD3-374FF820DF87", 2935, 1416597043, "870164", 1416597043, "870164", null, "B.  93 -  Cruise Terminal Water Line Replacement (2529700)", "Berth  90-93 - World Cruise Center", "Construction", "Construction", null, null, null, null, "2015-06-30T00:00:00", "2015-06-30T00:00:00", "5", "30", "On", "On", "88769", "12", "750000", "750000", "On", "On" ]
+, [ 2936, "047A0F1F-4242-4637-A2A8-E6F3EAB25E24", 2936, 1416597043, "870164", 1416597043, "870164", null, "B. 100-102 - Marine Operations Building (2454300)", "Berth 100-102 - China Shipping Container Terminal", "Bid and Award", "Bid and Award", "2014-08-31T00:00:00", "2014-08-31T00:00:00", "100", "100", "2016-06-30T00:00:00", "2016-06-30T00:00:00", "0", "0", "On", "On", "1818323", "13", "13800000", "13800000", "On", "On" ]
+, [ 2937, "E5FC67EA-A450-413E-B83E-8197E22D71DB", 2937, 1416597043, "870164", 1416597043, "870164", null, "B.  94-95 - Catalina Express Relocation (2480500)", "Berth 100-102 - China Shipping Container Terminal", "Completed", null, "2012-04-01T00:00:00", null, "100", null, "2014-09-30T00:00:00", null, "100", null, "On", null, null, null, "3875000", null, "On", null ]
+, [ 2938, "8797B6F9-F95D-46F7-A757-B7ED5D8A7F11", 2938, 1416597043, "870164", 1416597043, "870164", null, "B. 100-102 - Crane Maintenance Building (2502600)", "Berth 100-102 - China Shipping Container Terminal", "Bid and Award", "Bid and Award", "2014-08-31T00:00:00", "2014-08-31T00:00:00", "100", "100", "2016-06-30T00:00:00", "2016-06-30T00:00:00", "0", "0", "On", "On", "434482", "8", "5700000", "5700000", "On", "On" ]
+, [ 2939, "AC52D62A-9223-40C0-B6DF-E2770DAD875B", 2939, 1416597043, "870164", 1416597043, "870164", null, "B. 121-131 - Wharf Upgrades (2449000)", "Berth 121-131 - Yang Ming Container Terminal", "Planning", "Planning", "2016-04-10T00:00:00", "2016-04-10T00:00:00", "0", "0", "2018-04-10T00:00:00", "2018-04-10T00:00:00", "0", "0", "On", "On", "2357814", "2", "106700000", "106700000", "On", "On" ]
+, [ 2940, "2876C053-EE64-43E8-8B69-80A5ADE967B2", 2940, 1416597043, "870164", 1416597043, "870164", null, "B. 121-131 - West Basin Intermodal Container Transfer Facility (WBICTF) Expansion (2481000)", "Berth 121-131 - Yang Ming Container Terminal", "Planning", "Planning", "2016-04-10T00:00:00", "2016-04-10T00:00:00", "0", "0", "2018-04-10T00:00:00", "2018-04-10T00:00:00", "0", "0", "On", "On", "434548", "4", "11100000", "11100000", "On", "On" ]
+, [ 2941, "897C77C4-7504-46B0-AFAD-574766F9635B", 2941, 1416597043, "870164", 1416597043, "870164", null, "B. 121-131 - Terminal Redevelopment - Planning and Environmental (2523200)", "Berth 121-131 - Yang Ming Container Terminal", "Environmental", "Environmental", null, null, null, null, "2016-04-15T00:00:00", "2016-04-15T00:00:00", "5", "5", "On", "On", "472136", "15", "3200000", "3200000", "On", "On" ]
+, [ 2942, "908AE480-07F0-4F72-AD97-DE3455FA7C4A", 2942, 1416597043, "870164", 1416597043, "870164", null, "B. 121 - Yang Ming Administration Building Re-roof (2528800)", "Berth 121-131 - Yang Ming Container Terminal", "Bid and Award", "Bid and Award", null, null, null, null, "2015-06-24T00:00:00", "2015-06-24T00:00:00", "0", "0", "On", "On", "0", "0", "255000", "255000", "On", "On" ]
+, [ 2943, "06C80D94-37AF-45D5-A91D-FA56BB7BE1CB", 2943, 1416597043, "870164", 1416597043, "870164", null, "B. 121-126 - Crane Trench Retrofit (2529800)", "Berth 121-131 - Yang Ming Container Terminal", "Bid and Award", "Bid and Award", null, null, null, null, "2015-06-29T00:00:00", "2015-06-29T00:00:00", "0", "0", "On", "On", "37437", "37", "100000", "100000", "On", "On" ]
+, [ 2944, "F1C17073-202E-4C1A-B88B-12B7F2800B97", 2944, 1416597043, "870164", 1416597043, "870164", null, "B. 142-143 - Backland Improvements - Phases 2-4 (2449800)", "Berth 135-147 - TRAPAC Container Terminal", "Construction", "Construction", "2013-09-09T00:00:00", "2013-09-09T00:00:00", "100", "100", "2017-03-22T00:00:00", "2017-03-22T00:00:00", "17", "21", "On", "On", "18624848", "13", "143422405", "143422405", "On", "On" ]
+, [ 2945, "26FA954D-ACE5-4C8B-AD01-8040264A2DEC", 2945, 1416597043, "870164", 1416597043, "870164", null, "B. 142-147 - ICTF (2455100)", "Berth 135-147 - TRAPAC Container Terminal", "Construction", "Construction", "2013-09-08T00:00:00", "2013-09-08T00:00:00", "100", "100", "2016-02-02T00:00:00", "2016-02-02T00:00:00", "17", "17", "On", "On", "14392149", "17", "85865560", "85865560", "On", "On" ]
+, [ 2946, "C90B7D4E-59C2-46D5-A0DF-48602F00ADB1", 2946, 1416597043, "870164", 1416597043, "870164", null, "RB 136-139 - Terminal Buildings & Main Gate (2458500)", "Berth 135-147 - TRAPAC Container Terminal", "Construction", "Construction", "2012-08-22T00:00:00", "2012-08-22T00:00:00", "100", "100", "2015-07-10T00:00:00", "2015-07-10T00:00:00", "65", "70", "On", "On", "52958280", "66", "80000000", "80000000", "On", "On" ]
+, [ 2947, "661E0CD3-587D-415A-94B7-8511480DA256", 2947, 1416597043, "870164", 1416597043, "870164", null, "B. 134-135 - Backland Expansion (5-acre) (2513800)", "Berth 135-147 - TRAPAC Container Terminal", "Design", "Design", "2015-07-07T00:00:00", "2015-07-07T00:00:00", "40", "40", "2017-06-29T00:00:00", "2017-06-29T00:00:00", "0", "0", "On", "On", "146715", "1", "10753500", "10753500", "On", "On" ]
+, [ 2948, "B7C47225-8096-4D33-99BF-559F246B5A68", 2948, 1416597043, "870164", 1416597043, "870164", null, "B. 142 -  Crane Maintenance Building (2517700)", "Berth 135-147 - TRAPAC Container Terminal", "Design", "Design", "2015-01-31T00:00:00", "2015-01-31T00:00:00", "95", "95", "2016-08-02T00:00:00", "2016-08-02T00:00:00", "0", "0", "On", "On", "447237", "8", "5680302", "5680302", "On", "On" ]
+, [ 2949, "63B59621-02F7-4FB3-AAFF-F4F98C69ADF2", 2949, 1416597043, "870164", 1416597043, "870164", null, "B. 212-220 - YTI Redevelopment EIR/EIS (2518900)", "Berth 212-224 - YTI Container Terminal", "Environmental", "Environmental", null, null, null, null, "2014-11-07T00:00:00", "2014-11-07T00:00:00", "60", "60", "On", "On", "1663209", "64", "2600000", "2600000", "On", "On" ]
+, [ 2950, "71904071-9F50-4E4B-87D2-5E6CF962CCBB", 2950, 1416597043, "870164", 1416597043, "870164", null, "B. 214 - 220 - Redevelopment (2519800)", "Berth 212-224 - YTI Container Terminal", "Design", "Design", "2015-02-06T00:00:00", "2015-02-06T00:00:00", "80", "80", "2017-05-12T00:00:00", "2017-05-12T00:00:00", "0", "0", "On", "On", "1349773", "2", "56030540", "56030540", "On", "On" ]
+, [ 2951, "8862A026-E3AA-4261-8704-2D258CC56EBF", 2951, 1416597043, "870164", 1416597043, "870164", null, "B. 226-232 - Panzerbelt And Cable Trench Upgrade and Replacement (2496600)", "Berth 222-236 - Development", "Construction", "Construction", "2013-09-13T00:00:00", "2013-09-13T00:00:00", "100", "100", "2015-06-01T00:00:00", "2015-06-01T00:00:00", "50", "75", "On", "On", "442819", "44", "1010000", "1010000", "On", "On" ]
+, [ 2952, "8EAE05B6-699F-498B-BEAE-8639768FA396", 2952, 1416597043, "870164", 1416597043, "870164", null, "B. 226-236 - Leak Detection And Warning System (2519400)", "Berth 222-236 - Development", "Design", "Hold", "2014-03-24T00:00:00", "2014-03-24T00:00:00", "100", "25", "2016-06-12T00:00:00", "2016-06-12T00:00:00", "0", "1", "On", "On", "37769", "3", "1250000", "1250000", "On", "On" ]
+, [ 2953, "2E375727-1332-4A02-BF70-D01E1C751003", 2953, 1416597043, "870164", 1416597043, "870164", null, "B. 226-236 - Terminal Improvements - Planning and Environmental (2524200)", "Berth 222-236 - Development", "Environmental", "Environmental", null, null, null, null, "2016-05-06T00:00:00", "2016-01-18T00:00:00", "0", "0", "On", "On", "301055", "9", "3360000", "3360000", "On", "On" ]
+, [ 2954, "C90904B5-A1F4-4E5E-9301-0B791E0197C6", 2954, 1416597043, "870164", 1416597043, "870164", null, "B. 226-232 - EverPort Wharf Pavement Resurfacing and Striping (2527700)", "Berth 222-236 - Development", "Bid and Award", "Hold", "2014-08-15T00:00:00", "2014-08-15T00:00:00", "100", "100", "2014-11-21T00:00:00", "2014-11-21T00:00:00", "0", "0", "Chance of going off trend", "On", "3153", "0", "1600000", "1600000", "On", "On" ]
+, [ 2955, "04764091-8EE2-4111-B670-7F212AE1467A", 2955, 1416597043, "870164", 1416597043, "870164", null, "B. 228-230 - Alternative Maritime Power (AMP) Upgrade and Retrofit (2529400)", "Berth 222-236 - Development", "Design", "Design", "2015-03-16T00:00:00", "2015-03-16T00:00:00", "10", "10", "2016-08-08T00:00:00", "2016-08-08T00:00:00", "0", "0", "On", "On", "8129", "8", "100000", "100000", "On", "On" ]
+, [ 2956, "14842878-78F2-41DC-B5E4-EC43BEFDC9CC", 2956, 1416597043, "870164", 1416597043, "870164", null, "B. 226-236  - Alternative Maritime Power (AMP) (2531100)", "Berth 222-236 - Development", "Design", "Design", "2016-06-10T00:00:00", "2016-06-10T00:00:00", "1", "1", "2018-12-10T00:00:00", "2018-12-10T00:00:00", "0", "0", "On", "On", "0", "0", "3304406", "3304406", "On", "On" ]
+, [ 2957, "049EFBCC-199F-454C-964F-8A683BD28F5B", 2957, 1416597043, "870164", 1416597043, "870164", null, "B. 226-236 Terminal Improvements - Wharf and Backlands (2531200)", "Berth 222-236 - Development", "Design", "Design", "2016-06-10T00:00:00", "2016-06-10T00:00:00", "1", "1", "2018-12-10T00:00:00", "2018-12-10T00:00:00", "0", "0", "On", "On", "0", "0", "36110035", "36110035", "On", "On" ]
+, [ 2958, "AF1847C5-5684-4B99-A659-B8B789CD1C03", 2958, 1416597043, "870164", 1416597043, "870164", null, "RB 301-305 - Buildings, Gates, and Backland Development (2489000)", "Berth 300-306 - Development", "Design", "Design", "2017-08-04T00:00:00", "2017-08-04T00:00:00", "2", "2", "2020-01-21T00:00:00", "2020-01-21T00:00:00", "0", "0", "On", "On", "617429", "2", "30000000", "30000000", "On", "On" ]
+, [ 2959, "68FC7845-DDC7-42C4-BD67-659CC7858C44", 2959, 1416597043, "870164", 1416597043, "870164", null, "B. 306 - Wharf and Backland Development (2489100)", "Berth 300-306 - Development", "Design", "Design", "2017-08-04T00:00:00", "2017-08-04T00:00:00", "20", "20", "2020-01-21T00:00:00", "2020-01-21T00:00:00", "0", "0", "On", "On", "471615", "0", "163000000", "163000000", "On", "On" ]
+, [ 2960, "2DF84715-F099-435F-BA91-1A1F9A3921FA", 2960, 1416597043, "870164", 1416597043, "870164", null, "B. 306 - Alternative Maritime Power (AMP) (2506800)", "Berth 300-306 - Development", "Design", "Design", "2017-08-03T00:00:00", "2017-08-03T00:00:00", "10", "45", "2020-01-31T00:00:00", "2020-01-31T00:00:00", "0", "0", "On", "On", "38027", "0", "9090000", "9090000", "On", "On" ]
+, [ 2961, "A90C4287-807D-460B-9D67-ADD88C319E6B", 2961, 1416597043, "870164", 1416597043, "870164", null, "B. 302-305 - Fender Replacement (2527900)", "Berth 300-306 - Development", "Bid and Award", "Bid and Award", null, "2014-06-24T00:00:00", null, null, "2015-08-23T00:00:00", "2015-08-23T00:00:00", "0", "0", "On", "On", "62", "0", "367400", "367400", "On", "On" ]
+, [ 2962, "E547C457-0432-4B45-A8FE-E0239613A64D", 2962, 1416597043, "870164", 1416597043, "870164", null, "Pier 400 - Meteorological Tower (2521600)", "Berth 400-409 - Development", "Hold", "Hold", null, "2015-03-31T00:00:00", null, "0", null, "2016-01-31T00:00:00", null, "0", null, null, "62249", "31", "200000", "200000", null, null ]
+, [ 2963, "BA64D0E5-F25A-4C01-8D5C-83F241C60205", 2963, 1416597043, "870164", 1416597043, "870164", null, "Pier 400 - Pavement Replacement (2521800)", "Berth 400-409 - Development", "Construction", "Construction", "2014-03-19T00:00:00", "2014-03-19T00:00:00", "100", "100", "2014-12-31T00:00:00", "2014-12-31T00:00:00", "40", "40", "Off", "Off", "210284", "30", "700000", "700000", "On", "On" ]
+, [ 2964, "09E13885-AA08-4242-9311-D22714CDFC7C", 2964, 1416597043, "870164", 1416597043, "870164", null, "B. 238 - MOTEMS (2489900)", "Motems", "Planning", "Planning", "2016-05-02T00:00:00", "2016-05-02T00:00:00", "0", "0", "2017-09-25T00:00:00", "2017-09-25T00:00:00", "0", "0", "Chance of going off trend", "Chance of going off trend", "2102716", "8", "25675000", "25675000", "On", "On" ]
+, [ 2965, "245E7FB9-6F9E-47A8-8C61-0B4DAEB417C7", 2965, 1416597043, "870164", 1416597043, "870164", null, "B. 167-169 - MOTEMS (2493600)", "Motems", "Design", "Design", "2015-09-04T00:00:00", "2015-09-04T00:00:00", "40", "40", "2017-01-27T00:00:00", "2017-01-27T00:00:00", "0", "0", "Chance of going off trend", "Chance of going off trend", "2321782", "10", "22540338", "22540338", "On", "On" ]
+, [ 2966, "4CE36C48-82AC-4E88-A814-C350AE4A48A5", 2966, 1416597043, "870164", 1416597043, "870164", null, "B. 163 - MOTEMS (2493700)", "Motems", "Planning", "Planning", "2016-12-23T00:00:00", "2016-12-23T00:00:00", "0", "0", "2018-05-18T00:00:00", "2018-05-18T00:00:00", "0", "0", "Chance of going off trend", "Chance of going off trend", "1286697", "5", "23976000", "23976000", "On", "On" ]
+, [ 2967, "92FCA721-5392-4781-ADB8-D79A91A85510", 2967, 1416597043, "870164", 1416597043, "870164", null, "B. 148-149 - MOTEMS (2493800)", "Motems", "Planning", "Planning", "2017-02-13T00:00:00", "2017-02-13T00:00:00", "0", "0", "2018-07-09T00:00:00", "2018-07-09T00:00:00", "0", "0", "Chance of going off trend", "Chance of going off trend", "1939115", "8", "24626142", "24626142", "On", "On" ]
+, [ 2968, "FCEAE49B-85DB-46C7-BF00-29D2ECEBD8A6", 2968, 1416597043, "870164", 1416597043, "870164", null, "B. 164 - MOTEMS (2493900)", "Motems", "Design", "Design", "2016-05-30T00:00:00", "2016-05-30T00:00:00", "1", "5", "2017-10-23T00:00:00", "2017-10-23T00:00:00", "0", "0", "Chance of going off trend", "Chance of going off trend", "1319767", "12", "11225000", "11225000", "On", "On" ]
+, [ 2969, "C94A97AD-837B-4F85-AA38-34597E666645", 2969, 1416597043, "870164", 1416597043, "870164", null, "B. 187-191 - MOTEMS (2494000)", "Motems", "Planning", "Planning", "2017-02-16T00:00:00", "2017-02-16T00:00:00", "0", "0", "2019-01-10T00:00:00", "2019-01-10T00:00:00", "0", "0", "Chance of going off trend", "Chance of going off trend", "2625228", "4", "61561271", "61561271", "On", "On" ]
+, [ 2970, "C3BD850F-608B-443F-A4B1-F612EF0D35B6", 2970, 1416597043, "870164", 1416597043, "870164", null, "B. 239 - Mooring Point 1 (2507700)", "Motems", "Completed", null, "2012-02-21T00:00:00", null, "100", null, "2014-10-31T00:00:00", null, "100", null, "On", null, null, null, "3500516", null, "On", null ]
+, [ 2971, "B223C282-8446-460D-8CD3-B05DAD3EC552", 2971, 1416597043, "870164", 1416597043, "870164", null, "B. 163 - MOTEMS Repairs (2524400)", "Motems", "Bid and Award", "Bid and Award", "2014-05-31T00:00:00", "2014-05-31T00:00:00", "100", "100", "2015-02-01T00:00:00", "2015-02-01T00:00:00", "0", "0", "Chance of going off trend", "Chance of going off trend", "49058", "6", "850000", "850000", "On", "On" ]
+, [ 2972, "FF7876EC-575A-46A2-B29B-1069B19945BD", 2972, 1416597043, "870164", 1416597043, "870164", null, "B. 164 - MOTEMS Repairs (2524500)", "Motems", "Bid and Award", "Bid and Award", "2014-05-31T00:00:00", "2014-05-31T00:00:00", "100", "100", "2015-02-01T00:00:00", "2015-02-01T00:00:00", "0", "0", "Chance of going off trend", "Chance of going off trend", "51451", "5", "960000", "960000", "On", "On" ]
+, [ 2973, "53CD69F4-1BD1-4754-8795-F9B177C5834E", 2973, 1416597043, "870164", 1416597043, "870164", null, "B. 187-190 - MOTEMS Repairs (2524600)", "Motems", "Planning", "Planning", "2015-03-03T00:00:00", "2015-03-03T00:00:00", "0", "0", "2016-03-03T00:00:00", "2016-03-03T00:00:00", "0", "0", "On", "On", "188", "0", "3575000", "3575000", "On", "On" ]
+, [ 2974, "DD0AE856-85ED-43C2-8531-4543FE01E05D", 2974, 1416597043, "870164", 1416597043, "870164", null, "B. 118-119 - Marine Oil Terminal Fender Replacement (2529500)", "Motems", "Completed", null, "2014-05-29T00:00:00", null, "100", null, "2014-09-30T00:00:00", null, "100", null, "On", null, null, null, "385000", null, "On", null ]
+, [ 2975, "CF9BE98E-9F5B-4FFE-B255-E0DA54B59ECF", 2975, 1416597043, "870164", 1416597043, "870164", null, "B. 196-199 & 200A - Wharf Rehabilitation (2516600)", "Miscellaneous Terminal Improvements", "Design", "Hold", "2014-11-21T00:00:00", "2014-11-21T00:00:00", "80", "90", "2016-11-01T00:00:00", "2016-11-01T00:00:00", "0", "0", "On", "Off", "973265", "11", "8794299", "8794299", "On", "Off" ]
+, [ 2976, "096643B6-87E9-4E49-94A6-37BDF1C4155A", 2976, 1416597043, "870164", 1416597043, "870164", null, "B. 206-209 - Backland and Wharf Improvements EIR (2526300)", "Miscellaneous Terminal Improvements", "Hold", "Canceled", null, null, null, null, "2015-11-30T00:00:00", null, "5", null, "Off", null, "101291", "4", "2500000", "2500000", "On", null ]
+, [ 2977, "BC8FABCA-EE67-4710-922C-A55B0A1BEF77", 2977, 1416597043, "870164", 1416597043, "870164", null, "B. 206-209 - Terminal Improvements Project (2526400)", "Miscellaneous Terminal Improvements", "Hold", "Canceled", "2018-03-01T00:00:00", null, "3", null, null, null, null, null, "Off", null, "1727", "2", "100000", "100000", "On", null ]
+, [ 2978, "E74A5FAD-27AB-4896-8B7E-E7AD083FFC2A", 2978, 1416597043, "870164", 1416597043, "870164", null, "B. 154-155 - Paint Warehouses (2528200)", "Miscellaneous Terminal Improvements", "Construction", "Construction", null, "2014-09-08T00:00:00", null, null, "2015-06-30T00:00:00", "2015-06-30T00:00:00", "2", "5", "On", "On", "33151", "4", "800000", "800000", "On", "On" ]
+, [ 2979, "F37D6C86-07F9-4AF6-968A-D2DC3DE43EB7", 2979, 1416597043, "870164", 1416597043, "870164", null, "B. 179-180 - Warehouse Re-roof (2529000)", "Miscellaneous Terminal Improvements", "Bid and Award", "Bid and Award", null, "2014-07-10T00:00:00", null, null, "2015-06-24T00:00:00", "2015-06-24T00:00:00", "0", "0", "On", "On", "0", "0", "600000", "600000", "On", "On" ]
+, [ 2980, "C021D8DF-EA76-4A26-9BF4-648825165D86", 2980, 1416597043, "870164", 1416597043, "870164", null, "B. 154-155 Warehouse Doors and Windows Upgrades (2529200)", "Miscellaneous Terminal Improvements", "Construction", "Construction", null, "2014-08-06T00:00:00", null, null, "2015-05-18T00:00:00", "2015-05-18T00:00:00", "1", "10", "On", "On", "20299", "9", "250000", "238460", "On", "On" ]
+, [ 2981, "A9B2EF3F-828E-4571-A7FF-69B638818C16", 2981, 1416597043, "870164", 1416597043, "870164", null, "B. 194 - Sea Wall Improvements (2530100)", "Miscellaneous Terminal Improvements", "Bid and Award", "Bid and Award", null, "2014-07-25T00:00:00", null, null, "2015-06-29T00:00:00", "2015-06-29T00:00:00", "0", "0", "On", "On", "0", "0", "125000", "125000", "On", "On" ]
+, [ 2982, "D93DB095-1813-4046-8E77-8B89043B40E7", 2982, 1416597043, "870164", 1416597043, "870164", null, "B. 153-155 - Water and Sewer Line Replacement (2531500)", "Miscellaneous Terminal Improvements", null, "Bid and Award", null, "2014-07-31T00:00:00", null, null, null, "2015-06-30T00:00:00", null, "0", null, "On", "0", "0", null, "300000", null, "On" ]
+, [ 2983, "968CDDEE-964D-469B-836B-2DB2D752F37C", 2983, 1416597043, "870164", 1416597043, "870164", null, "South Wilmington Grade Separation (2423600)", "Transportation Improvements", "Construction", "Construction", "2012-06-27T00:00:00", "2012-06-27T00:00:00", "100", "100", "2015-03-31T00:00:00", "2015-03-31T00:00:00", "65", "65", "On", "On", "51074417", "61", "84300000", "84300000", "On", "On" ]
+, [ 2984, "8E0A39DF-F189-4930-B832-61D33D282E5F", 2984, 1416597043, "870164", 1416597043, "870164", null, "I-110/SR 47 Connector Improvement (2466100)", "Transportation Improvements", "Construction", "Construction", "2013-06-19T00:00:00", "2013-06-19T00:00:00", "100", "100", "2016-06-26T00:00:00", "2016-06-26T00:00:00", "5", "5", "On", "On", "6507707", "31", "21000000", "21000000", "On", "On" ]
+, [ 2985, "80400AF2-0C7B-414E-AD25-56836A51CBC3", 2985, 1416597043, "870164", 1416597043, "870164", null, "Advanced Transportation Management Information System (ATMIS) (2466300)", "Transportation Improvements", "Construction", "Construction", "2011-01-31T00:00:00", "2011-01-31T00:00:00", "100", "100", "2014-12-31T00:00:00", "2014-12-31T00:00:00", "99", "99", "On", "On", "1918794", "96", "2000000", "2000000", "On", "On" ]
+, [ 2986, "32F97210-3301-4348-A32A-098874F62555", 2986, 1416597043, "870164", 1416597043, "870164", null, "John S. Gibson Intersection & NB I-110 Ramp Access Improvements (2469900)", "Transportation Improvements", "Construction", "Construction", "2013-06-19T00:00:00", "2013-06-19T00:00:00", "100", "100", "2016-06-26T00:00:00", "2016-06-26T00:00:00", "5", "5", "On", "On", "10115123", "32", "32100000", "32100000", "On", "On" ]
+, [ 2987, "C8934E23-CF6E-497E-A717-E4EAC1C2AD99", 2987, 1416597043, "870164", 1416597043, "870164", null, "C Street/I-110 Access Ramp Improvements (2485200)", "Transportation Improvements", "Construction", "Construction", "2013-07-31T00:00:00", "2013-07-31T00:00:00", "100", "100", "2017-01-05T00:00:00", "2017-01-05T00:00:00", "9", "9", "On", "On", "9665874", "19", "51000000", "51000000", "On", "On" ]
+, [ 2988, "56C36170-F9D4-454F-AAF6-F219FB0760D3", 2988, 1416597043, "870164", 1416597043, "870164", null, "B. 200 - Rail Yard (2488500)", "Transportation Improvements", "Completed", null, "2011-11-16T00:00:00", null, "100", null, "2014-08-29T00:00:00", null, "100", null, "On", null, null, null, "135081189", null, "On", null ]
+, [ 2989, "1A307611-B4F1-43B2-BE1E-0227C68D774F", 2989, 1416597043, "870164", 1416597043, "870164", null, "Union Pacific ICTF Redevelopment EIR (2499300)", "Transportation Improvements", "Environmental", "Environmental", null, "2005-09-09T00:00:00", null, null, "2014-12-31T00:00:00", "2014-12-31T00:00:00", "50", "50", "On", "Chance of going off trend", "153448", "71", "215810", "215810", "On", "On" ]
+, [ 2990, "A07EE39D-5E8F-4EF0-8E00-347EB9BDEEA0", 2990, 1416597043, "870164", 1416597043, "870164", null, "B. 200 - Rail Yard Track Connections (2513000)", "Transportation Improvements", "Construction", "Construction", "2012-12-12T00:00:00", "2012-12-12T00:00:00", "100", "100", "2014-10-20T00:00:00", "2014-10-20T00:00:00", "50", "50", "Off", "Off", "11583292", "46", "25000000", "25000000", "On", "On" ]
+, [ 2991, "29A3ED91-E972-4C06-A08E-6D6825BABC0E", 2991, 1416597043, "870164", 1416597043, "870164", null, "Avalon and Fries Street Closures Environmental Assessment (2516700)", "Transportation Improvements", "Environmental", "Environmental", null, "2012-08-08T00:00:00", null, null, "2014-12-31T00:00:00", "2014-12-31T00:00:00", "60", "60", "On", "On", "403548", "70", "575172", "575172", "On", "On" ]
+, [ 2992, "F4483734-98B9-43A9-BB17-F897E2832891", 2992, 1416597043, "870164", 1416597043, "870164", null, "B. 258 - Japanese Memorial Vehicular Signage (2518300)", "Transportation Improvements", "Construction", "Construction", "2013-05-15T00:00:00", "2013-05-15T00:00:00", "100", "100", "2014-09-30T00:00:00", "2014-09-30T00:00:00", "85", "85", "Off", "Off", "68792", "69", "100000", "100000", "On", "On" ]
+, [ 2993, "BBBB7900-E983-4CB5-9024-B6A4AEA2B7AD", 2993, 1416597043, "870164", 1416597043, "870164", null, "Port-wide Vehicular Directional Signage Improvements (2522500)", "Transportation Improvements", "Completed", null, null, null, null, null, "2014-09-30T00:00:00", null, "100", null, "On", null, null, null, "140000", null, "On", null ]
+, [ 2994, "9984D1E7-41D0-4D77-BFB3-48986D2A4F78", 2994, 1416597043, "870164", 1416597043, "870164", null, "Terminal Island Street Improvements - Phase II (2526500)", "Transportation Improvements", "Construction", "Construction", "2014-06-30T00:00:00", "2014-06-30T00:00:00", "100", "100", "2015-06-30T00:00:00", "2015-06-30T00:00:00", "90", "98", "On", "On", "532686", "38", "1400000", "1400000", "On", "On" ]
+, [ 2995, "E6E31CFF-F8B0-4E5B-BC19-7383B6F6C04F", 2995, 1416597043, "870164", 1416597043, "870164", null, "Portable Changeable Message Signs (2526600)", "Transportation Improvements", "Bid and Award", "Bid and Award", null, "2014-04-08T00:00:00", null, null, "2014-10-03T00:00:00", "2014-10-03T00:00:00", "0", "0", "Off", "Off", "41991", "29", "145000", "145000", "On", "On" ]
+, [ 2996, "5E1AA0C6-DBDF-42A9-8B1A-809B3B35B168", 2996, 1416597043, "870164", 1416597043, "870164", null, "Terminal Island Street Improvements - Phase III (2527600)", "Transportation Improvements", "Design", "Design", "2014-12-31T00:00:00", "2014-12-31T00:00:00", "10", "40", "2015-04-30T00:00:00", "2015-04-30T00:00:00", "0", "0", "On", "On", "512", "0", "1600000", "1599500", "On", "On" ]
+, [ 2997, "6574E757-FFB1-42C5-9F3F-B25B8A31086D", 2997, 1416597043, "870164", 1416597043, "870164", null, "Port Police Tactical Radio Communications Improvements (2500200)", "Homeland Security", "Construction", "Construction", null, "2010-12-01T00:00:00", null, null, "2014-12-30T00:00:00", "2014-12-30T00:00:00", "85", "85", "On", "On", "5167800", "89", "5813421", "5813421", "On", "On" ]
+, [ 2998, "39AADE14-EA57-4DB0-BE17-4B407576F207", 2998, 1416597043, "870164", 1416597043, "870164", null, "120 W \"C\" Street Port Police K9 Facility (2509800)", "Homeland Security", "Completed", null, "2012-03-09T00:00:00", null, "100", null, "2014-08-31T00:00:00", null, "100", null, "On", null, null, null, "2175556", null, "On", null ]
+, [ 2999, "F693FBED-7AD0-4BB2-8AED-964B253740E7", 2999, 1416597043, "870164", 1416597043, "870164", null, "Port of Los Angeles Police Headquarters - Audio Visual System - Preliminary Design (2521100)", "Homeland Security", "Completed", null, "2014-08-18T00:00:00", null, "100", null, null, null, null, null, "On", null, null, null, "270000", null, "On", null ]
+, [ 3000, "4C1206CA-0061-42A3-B2E3-9DFD47BCA37A", 3000, 1416597043, "870164", 1416597043, "870164", null, "IT Cyber Security Improvements - Phase I (2522000)", "Homeland Security", "Completed", null, "2013-12-09T00:00:00", null, "100", null, "2014-08-31T00:00:00", null, "100", null, "On", null, null, null, "2564000", null, "On", null ]
+, [ 3001, "56510C32-DE7C-41A2-B0FC-A6B78B27EC6A", 3001, 1416597043, "870164", 1416597043, "870164", null, "POLA Fiber Optic Network - Phase 3 - Design Only (2523800)", "Homeland Security", "Design", "Design", "2014-12-07T00:00:00", "2014-12-07T00:00:00", "10", "10", null, "2014-12-07T00:00:00", null, null, "On", "On", "0", "0", "145000", "145000", "On", "On" ]
+, [ 3002, "B8DC366A-C63A-4FD2-B79E-C6A5E9CCA8B4", 3002, 1416597043, "870164", 1416597043, "870164", null, "IT Cyber Security Improvements - Phase II (2526000)", "Homeland Security", "Construction", "Construction", null, "2014-09-01T00:00:00", null, null, "2015-08-31T00:00:00", "2015-08-31T00:00:00", "5", "5", "On", "On", "15445", "1", "2364000", "2364000", "On", "On" ]
+, [ 3003, "FBB0DC71-679D-413E-877A-1FC533D6061C", 3003, 1416597043, "870164", 1416597043, "870164", null, "300 Water Street - Office Building Re-Roof (2528900)", "Homeland Security", "Bid and Award", "Bid and Award", null, "2014-07-10T00:00:00", null, null, "2015-06-24T00:00:00", "2015-06-24T00:00:00", "0", "0", "On", "On", "0", "0", "231500", "231500", "On", "On" ]
+, [ 3004, "A512F2CA-2AA5-488E-AE74-F5B5136AD50B", 3004, 1416597043, "870164", 1416597043, "870164", null, "Port of Los Angeles Police Headquarters - Garage Electrical Outlets (2529600)", "Homeland Security", "Completed", null, "2014-08-29T00:00:00", null, "100", null, "2014-09-12T00:00:00", null, "100", null, "On", null, null, null, "25000", null, "On", null ]
+, [ 3005, "00065A78-E670-4DA8-8FF1-7C5F55ABF997", 3005, 1416597043, "870164", 1416597043, "870164", null, "Front Street Beautification (2504700)", "Port-Wide Public Enhancements", "Design", "Design", "2014-12-31T00:00:00", "2014-12-31T00:00:00", "80", "80", "2016-11-28T00:00:00", "2016-11-28T00:00:00", "0", "0", "On", "On", "785268", "11", "6850000", "6850000", "Off", "On" ]
+, [ 3006, "13B9CDE2-D3A1-47FC-B33D-97190F5A4CB8", 3006, 1416597043, "870164", 1416597043, "870164", null, "San Pedro Waterfront - B. 57 - Wharf Retrofit and Signal Street Improvements (2500600)", "San Pedro Waterfront", "Planning", "Design", "2017-04-02T00:00:00", "2017-04-02T00:00:00", "0", "1", "2019-03-29T00:00:00", "2019-03-29T00:00:00", "0", "0", "On", "On", "2234332", "4", "58216476", "58176985", "On", "On" ]
+, [ 3007, "5D35B6FE-DAC3-4BF0-B8BD-9140DF91DB7C", 3007, 1416597043, "870164", 1416597043, "870164", null, "San Pedro Waterfront - Sampson Way Roadway Improvements - 7th Street Intersection (2509400)", "San Pedro Waterfront", "Design", "Design", "2015-09-22T00:00:00", "2015-09-22T00:00:00", "5", "5", "2017-09-12T00:00:00", "2017-09-12T00:00:00", "0", "0", "On", "On", "30742", "0", "12900000", "12900000", "On", "On" ]
+, [ 3008, "EE6356E2-F86C-4C1F-9871-DE639C53F5A0", 3008, 1416597043, "870164", 1416597043, "870164", null, "San Pedro Waterfront - B. 87-93 - Los Angeles Waterfront Parking Lot Improvements (2514200)", "San Pedro Waterfront", "Completed", null, "2012-08-31T00:00:00", null, "100", null, "2014-09-30T00:00:00", null, "100", null, "On", null, null, null, "1662852", null, "On", null ]
+, [ 3009, "7032BEAC-B3BD-4BDA-83BF-B064A2AB443F", 3009, 1416597043, "870164", 1416597043, "870164", null, "San Pedro Waterfront - Ports O Call Redevelopment Conceptual Planning and Preliminary Engineering Support (2523300)", "San Pedro Waterfront", "Planning", "Planning", null, "2015-04-30T00:00:00", null, null, "2016-05-06T00:00:00", "2016-05-06T00:00:00", "0", "0", "On", "On", "222059", "44", "500000", "500000", "On", "On" ]
+, [ 3010, "E977EF87-A970-42A5-80A7-9D0D875332F3", 3010, 1416597043, "870164", 1416597043, "870164", null, "Fanfare Fountain Palm Tree Drainage Repair and Tree Installation (2527400)", "San Pedro Waterfront", "Bid and Award", "Bid and Award", null, "2014-05-24T00:00:00", null, null, "2015-06-05T00:00:00", "2015-02-03T00:00:00", "0", "0", "On", "On", "2197", "1", "360000", "360000", "On", "On" ]
+, [ 3011, "5BE4B760-5A96-4EEF-8211-70BBDDDD611B", 3011, 1416597043, "870164", 1416597043, "870164", null, "Cabrillo Way Marina - V Dock Fire Line Replacement and Pipe Hangar Repairs (2528100)", "San Pedro Waterfront", "Construction", "Construction", "2014-06-29T00:00:00", "2014-06-29T00:00:00", "100", "100", "2015-02-25T00:00:00", "2015-02-25T00:00:00", "50", "50", "On", "On", "222618", "32", "701196", "701196", "Off", "Off" ]
+, [ 3012, "75AB6522-6975-4DDC-B7D2-792097B177A3", 3012, 1416597043, "870164", 1416597043, "870164", null, "Cabrillo Way Marina - Long Dock Fire Line Support Replacement (2531600)", "San Pedro Waterfront", null, "Construction", null, "2014-10-03T00:00:00", null, null, null, "2015-05-29T00:00:00", null, "20", null, "On", "0", "0", null, "135000", null, "On" ]
+, [ 3013, "8C121C5C-41FC-4F8A-9F9E-44FD4BE4E189", 3013, 1416597043, "870164", 1416597043, "870164", null, "Wilmington Waterfront Park Public Art (2515900)", "Wilmington Waterfront Development", "Construction", "Construction", "2014-06-29T00:00:00", "2011-02-17T00:00:00", "100", "100", "2015-02-25T00:00:00", "2015-04-15T00:00:00", "50", "75", "On", "On", "379311", "81", "701196", "468250", "Off", "On" ]
+, [ 3014, "7486A4BF-63E0-4F81-82BD-C81C7AE83AFE", 3014, 1416597043, "870164", 1416597043, "870164", null, "Wilmington Waterfront Park Street Vacations (2525600)", "Wilmington Waterfront Development", "Construction", "Design", "2011-02-17T00:00:00", "2015-07-02T00:00:00", "100", "45", "2015-04-15T00:00:00", "2015-07-02T00:00:00", "75", null, "On", "On", "31038", "22", "468250", "140000", "On", "On" ]
+, [ 3015, "AB81CD29-3178-4727-904E-5400380E7F01", 3015, 1416597043, "870164", 1416597043, "870164", null, "Electric Truck Program (2495800)", "Environmental Enhancements", "Construction", "Construction", "2013-07-31T00:00:00", "2013-07-31T00:00:00", "100", "100", "2014-09-30T00:00:00", "2014-09-30T00:00:00", "95", "95", "On", "Chance of going off trend", "5283269", "98", "5403750", "5403750", "On", "On" ]
+, [ 3016, "4D1A801A-C3F3-4327-8E64-0301FFB68204", 3016, 1416597043, "870164", 1416597043, "870164", null, "Biological Mitigation Credits (2511600)", "Environmental Enhancements", "Environmental", "Completed", null, "2011-03-01T00:00:00", null, null, "2014-10-31T00:00:00", "2014-10-31T00:00:00", "90", "100", "On", "On", "1025209", "93", "1096982", "1096982", "On", "On" ]
+, [ 3017, "2F4D98C5-C383-4A01-AA55-ECBD9D36A519", 3017, 1416597043, "870164", 1416597043, "870164", null, "2013 Biological Surveys of Los Angeles and Long Beach Harbors (2518700)", "Environmental Enhancements", "Environmental", "Environmental", null, "2013-02-08T00:00:00", null, null, "2016-02-28T00:00:00", "2016-02-28T00:00:00", "45", "45", "On", "On", "257743", "47", "548580", "548580", "On", "On" ]
+, [ 3018, "7C8AFC3D-67C3-4DE1-84EF-A4325CC8AA29", 3018, 1416597043, "870164", 1416597043, "870164", null, "Cabrillo Beach Eelgrass Mitigation Site (2527200)", "Environmental Enhancements", "Bid and Award", "Bid and Award", "2014-09-30T00:00:00", "2014-09-30T00:00:00", "100", "100", "2015-05-15T00:00:00", "2015-05-15T00:00:00", "0", "0", "On", "On", "15783", "2", "710000", "654725", "On", "On" ]
+, [ 3019, "BE0CAF65-8D83-4C59-8FB8-71EE3941A5ED", 3019, 1416597043, "870164", 1416597043, "870164", null, "Cabrillo Beach - Sewage Pump Station Modification and Upgrade (2529100)", "Environmental Enhancements", "Construction", "Construction", null, "2014-07-11T00:00:00", null, null, "2015-06-30T00:00:00", "2015-06-30T00:00:00", "1", "5", "On", "On", "0", "0", "60000", "60000", "On", "On" ]
+, [ 3020, "37D9C068-BA14-4FD1-9A51-3E762AA45E89", 3020, 1416597043, "870164", 1416597043, "870164", null, "B. 161 - Marine Ways Modifications (2486100)", "Maritime Services - Harbor Dept. Facilities", "Design", "Design", "2014-11-07T00:00:00", "2014-11-07T00:00:00", "40", "80", "2015-04-06T00:00:00", "2015-04-06T00:00:00", "0", "0", "On", "Off", "262789", "13", "1950000", "1950000", "On", "On" ]
+, [ 3021, "27A06567-A8A9-41DE-B24C-E32F6FC8CC50", 3021, 1416597043, "870164", 1416597043, "870164", null, "POLA Facilities Water Efficient Toilets and Urinals (2499200)", "Maritime Services - Harbor Dept. Facilities", "Construction", "Construction", "2009-11-11T00:00:00", "2009-11-11T00:00:00", "100", "100", "2014-10-31T00:00:00", "2014-10-31T00:00:00", "25", "40", "Off", "Off", "21709", "15", "148000", "148000", "On", "On" ]
+, [ 3022, "74597BFE-4A19-479F-8ADE-3C1F9743DC2E", 3022, 1416597043, "870164", 1416597043, "870164", null, "Harbor Department Buildings - Miscellaneous Office and Cubicle Furniture Installations (2509000)", "Maritime Services - Harbor Dept. Facilities", "Construction", "Construction", null, "2011-04-01T00:00:00", null, null, "2015-12-31T00:00:00", "2015-12-31T00:00:00", "50", "50", "On", "On", "565565", "78", "725000", "725000", "On", "On" ]
+, [ 3023, "A6AE75F3-3A76-4066-8F20-7B1504CDD340", 3023, 1416597043, "870164", 1416597043, "870164", null, "Harbor Administration Building  - 3rd, 4th, and 5th Floor Restrooms (2509200)", "Maritime Services - Harbor Dept. Facilities", "Construction", "Construction", "2014-05-27T00:00:00", "2014-05-27T00:00:00", "100", "100", "2015-05-05T00:00:00", "2015-05-05T00:00:00", "10", "1", "On", "On", "216001", "32", "670000", "670000", "On", "On" ]
+, [ 3024, "52E8863F-6996-47BC-BA5A-001524B96E67", 3024, 1416597043, "870164", 1416597043, "870164", null, "Harbor Administration Building - HVAC Replacement (2509600)", "Maritime Services - Harbor Dept. Facilities", "Design", "Design", "2015-03-28T00:00:00", "2015-03-28T00:00:00", "80", "80", "2016-09-30T00:00:00", "2016-09-30T00:00:00", "0", "0", "On", "On", "255446", "5", "5100000", "5100000", "On", "On" ]
+, [ 3025, "EDE8BD97-2939-4B02-AB7B-0BC06932FD82", 3025, 1416597043, "870164", 1416597043, "870164", null, "Klein Billing System - Phase II (2513900)", "Maritime Services - Harbor Dept. Facilities", "Construction", "Construction", null, "2012-02-14T00:00:00", null, null, "2015-04-16T00:00:00", "2015-04-16T00:00:00", "71", "71", "On", "On", "1057964", "75", "1402527", "1402527", "On", "On" ]
+, [ 3026, "93338762-C195-44C7-8A61-C279452EFD2C", 3026, 1416597043, "870164", 1416597043, "870164", null, "B.  68 - Port Pilot Station Dispatch Center Window Replacement (2517300)", "Maritime Services - Harbor Dept. Facilities", "Design", "Design", "2014-06-30T00:00:00", "2014-06-30T00:00:00", "50", "45", "2014-08-30T00:00:00", "2014-08-30T00:00:00", "0", "0", "Off", "Off", "26237", "16", "165000", "165000", "On", "On" ]
+, [ 3027, "0D46B6B1-E607-456D-B4CD-F97F4731CB58", 3027, 1416597043, "870164", 1416597043, "870164", null, "Harbor Administration Building - 4th Floor Furniture Purchase, and Contracts and Purchasing Relocation (2517900)", "Maritime Services - Harbor Dept. Facilities", "Design", "Design", "2014-12-31T00:00:00", "2014-12-31T00:00:00", "10", "10", "2016-12-31T00:00:00", "2016-12-31T00:00:00", "0", "0", "Off", "Off", "47875", "2", "1975250", "1975250", "On", "On" ]
+, [ 3028, "2E6B78B1-9808-4498-B431-DE4518CB414D", 3028, 1416597043, "870164", 1416597043, "870164", null, "Harbor Administration Building - 1st Floor and Mail Room Furniture (2518000)", "Maritime Services - Harbor Dept. Facilities", "Design", "Design", "2014-12-31T00:00:00", "2014-12-31T00:00:00", "10", "10", "2016-12-31T00:00:00", "2016-12-31T00:00:00", "0", "0", "Off", "Off", "6803", "3", "221000", "221000", "On", "On" ]
+, [ 3029, "0CE6C52E-0AE7-4D54-BE45-9C9C3FD63424", 3029, 1416597043, "870164", 1416597043, "870164", null, "Harbor Administration Building - 2nd Floor Information Technology Furniture (2518100)", "Maritime Services - Harbor Dept. Facilities", "Design", "Design", "2014-12-31T00:00:00", "2014-12-31T00:00:00", "10", "10", "2016-12-31T00:00:00", "2016-12-31T00:00:00", "0", "0", "Off", "Off", "13895", "6", "221000", "221000", "On", "On" ]
+, [ 3030, "2804DB54-BDEB-4236-8138-BB2EBB24EC14", 3030, 1416597043, "870164", 1416597043, "870164", null, "Harbor Administration Building - 3rd Floor Furniture Removal & Installation (2518200)", "Maritime Services - Harbor Dept. Facilities", "Design", "Design", "2014-12-31T00:00:00", "2014-12-31T00:00:00", "30", "30", "2016-12-31T00:00:00", "2016-12-31T00:00:00", "0", "0", "Off", "Off", "65283", "6", "1065000", "1065000", "On", "On" ]
+, [ 3031, "B297C47A-6298-47FF-9155-3CD21F648D3E", 3031, 1416597043, "870164", 1416597043, "870164", null, "Harbor Administration Building - Fuel Cell System (2521500)", "Maritime Services - Harbor Dept. Facilities", "Design", "Design", "2014-10-17T00:00:00", "2014-10-17T00:00:00", "70", "70", "2015-03-31T00:00:00", "2015-03-31T00:00:00", "0", "0", "Off", "Off", "59572", "17", "350000", "350000", "Off", "Off" ]
+, [ 3032, "42C3FF35-3330-4226-99E3-C62606C4F2B5", 3032, 1416597043, "870164", 1416597043, "870164", null, "Harbor Administration Building - Light Fixture Upgrade - 1st & 2nd Floors (2521900)", "Maritime Services - Harbor Dept. Facilities", "Bid and Award", "Bid and Award", "2014-05-31T00:00:00", "2014-05-31T00:00:00", "100", "100", "2015-03-31T00:00:00", "2015-03-31T00:00:00", "0", "0", "Off", "Off", "50674", "13", "378000", "378000", "On", "On" ]
+, [ 3033, "BA70F34B-604E-493E-9828-E4EC4567025B", 3033, 1416597043, "870164", 1416597043, "870164", null, "B. 161 - C&M Stores Warehouse Roof and Skylight Replacement (2522200)", "Maritime Services - Harbor Dept. Facilities", "Construction", "Construction", "2014-03-18T00:00:00", "2014-03-18T00:00:00", "100", "100", "2014-12-03T00:00:00", "2014-12-03T00:00:00", "40", "60", "On", "On", "446715", "59", "759777", "759777", "On", "On" ]
+, [ 3034, "7DE9ACBE-4573-46C9-ACF6-E1C321C45F50", 3034, 1416597043, "870164", 1416597043, "870164", null, "B. 161 C&M - Carpenter's Shop Remodel (2522900)", "Maritime Services - Harbor Dept. Facilities", "Design", "Construction", "2014-07-11T00:00:00", "2014-07-11T00:00:00", "100", "100", "2015-04-09T00:00:00", "2015-04-09T00:00:00", "25", "25", "On", "On", "92031", "41", "226500", "226500", "On", "On" ]
+, [ 3035, "F6DD4B8B-C93C-498C-B127-67E48765752F", 3035, 1416597043, "870164", 1416597043, "870164", null, "B. 161 C & M - Garage Remodel (2523100)", "Maritime Services - Harbor Dept. Facilities", "Hold", "Hold", null, "2014-06-29T00:00:00", null, null, "2015-01-25T00:00:00", "2015-01-25T00:00:00", "0", "0", "On", "On", "0", "0", "75000", "75000", "On", "On" ]
+, [ 3036, "5801E5BF-5495-41D8-AC9D-85F06649000F", 3036, 1416597043, "870164", 1416597043, "870164", null, "B.  68 - Port Pilot Station Back Up Generator and Electrical Upgrade (2524300)", "Maritime Services - Harbor Dept. Facilities", "Hold", "Hold", "2014-07-02T00:00:00", "2014-07-02T00:00:00", "15", "15", "2015-02-02T00:00:00", "2015-02-02T00:00:00", "0", "0", "Off", "Off", "26744", "6", "460500", "460500", "Chance of going off trend", "Chance of going off trend" ]
+, [ 3037, "6016F825-0748-4675-A0B7-B5EAB5B9967B", 3037, 1416597043, "870164", 1416597043, "870164", null, "B.  68 - Port Pilot Station Portable Buildings Replacement (2526100)", "Maritime Services - Harbor Dept. Facilities", "Planning", "Planning", "2016-07-31T00:00:00", "2016-07-31T00:00:00", "0", "0", null, "2016-07-31T00:00:00", null, null, "On", "On", "27085", "5", "500000", "500000", "On", "On" ]
+, [ 3038, "FD0A088C-8C02-4BD5-88DA-17798FCFBC59", 3038, 1416597043, "870164", 1416597043, "870164", null, "Harbor Administration Building - Drain Mainlines Replacement (2526900)", "Maritime Services - Harbor Dept. Facilities", "Construction", "Construction", "2014-06-23T00:00:00", "2014-06-23T00:00:00", "100", "100", "2015-06-01T00:00:00", "2015-06-01T00:00:00", "20", "35", "On", "On", "405156", "30", "1350000", "1350000", "On", "On" ]
+, [ 3039, "6D6AB708-F795-4DC2-932D-18C935F175B0", 3039, 1416597043, "870164", 1416597043, "870164", null, "Harbor Administration Building - 2nd Floor & 5th Floor Kitchen Remodel (2527500)", "Maritime Services - Harbor Dept. Facilities", "Design", "Design", "2014-07-31T00:00:00", "2014-07-31T00:00:00", "90", "90", "2014-10-10T00:00:00", "2014-10-10T00:00:00", "0", "0", "Off", "Off", "11487", "7", "160000", "160000", "On", "On" ]
+, [ 3040, "AF1DD988-6118-4718-B157-2DF702D4B346", 3040, 1416597043, "870164", 1416597043, "870164", null, "B. 161 - Maintenance Dock Extension (2530000)", "Maritime Services - Harbor Dept. Facilities", "Bid and Award", "Bid and Award", null, "2014-07-25T00:00:00", null, null, "2015-06-29T00:00:00", "2015-06-29T00:00:00", "0", "0", "On", "On", "0", "0", "130000", "130000", "On", "On" ]
+, [ 3041, "61EB2099-D86A-4A09-A473-0F346EF59D36", 3041, 1416597043, "870164", 1416597043, "870164", null, "B. 161 - CNG Detection System for Garage (2530200)", "Maritime Services - Harbor Dept. Facilities", "Design", "Construction", "2014-09-27T00:00:00", "2014-09-27T00:00:00", "70", "100", "2015-06-29T00:00:00", "2015-06-29T00:00:00", "0", "1", "On", "On", "0", "0", "100000", "100000", "On", "On" ]
+, [ 3042, "E574DAB1-93E4-4D55-A26A-02A5B26EA33D", 3042, 1416597043, "870164", 1416597043, "870164", null, "Harbor Administration Building - 5th Floor Sunshade Roller Blinds (2530400)", "Maritime Services - Harbor Dept. Facilities", "Bid and Award", "Bid and Award", "2014-09-25T00:00:00", "2014-09-25T00:00:00", "100", "100", "2015-01-08T00:00:00", "2015-01-08T00:00:00", "0", "0", "On", "On", "5440", "6", "85000", "85000", "On", "On" ]
+, [ 3043, "C8AFD72C-8BAE-4520-9BDD-EC441AB87CF7", 3043, 1416597043, "870164", 1416597043, "870164", null, "Harbor Administration Building - 2nd floor IT Pre-Action Fire Life Safety System (2530500)", "Maritime Services - Harbor Dept. Facilities", "Construction", "Construction", null, "2014-07-31T00:00:00", null, null, "2015-06-25T00:00:00", "2015-06-25T00:00:00", "10", "10", "On", "On", "293", "0", "145000", "145000", "On", "On" ]
+, [ 3044, "94B3449D-83A7-41E0-AACA-1FB6BE5E0CCC", 3044, 1416597043, "870164", 1416597043, "870164", null, "B. 161 - Boat Maintenance Cradle Modifications (2530600)", "Maritime Services - Harbor Dept. Facilities", "Bid and Award", "Bid and Award", null, "2014-07-25T00:00:00", null, null, "2015-06-29T00:00:00", "2015-06-29T00:00:00", "0", "0", "On", "On", "0", "0", "370000", "370000", "On", "On" ]
+, [ 3045, "E2732F98-4B53-4939-89ED-39C8D8039F45", 3045, 1416597043, "870164", 1416597043, "870164", null, "Harbor Administration Building - Backflow Replacement (2530700)", "Maritime Services - Harbor Dept. Facilities", "Construction", "Construction", "2014-07-31T00:00:00", "2014-07-31T00:00:00", "100", "100", "2015-06-30T00:00:00", "2015-06-30T00:00:00", "5", "5", "On", "On", "0", "0", "10000", "10000", "On", "On" ]
+, [ 3046, "D9A503F8-91CF-4937-A1E6-E5E67DAA2DEB", 3046, 1416597043, "870164", 1416597043, "870164", null, "B. 161 - Electrical Equipment Retrofit (2530800)", "Maritime Services - Harbor Dept. Facilities", "Planning", "Construction", null, "2014-08-29T00:00:00", null, null, "2015-06-23T00:00:00", "2015-06-23T00:00:00", "0", "1", "On", "On", "0", "0", "140000", "140000", "On", "On" ]
+, [ 3047, "CD4DA8C7-852F-4019-BCF6-ECF5FFE6D3A5", 3047, 1416597043, "870164", 1416597043, "870164", null, "Fire Station 112 - Fire Protection System Installation (2530900)", "Maritime Services - Harbor Dept. Facilities", "Bid and Award", "Construction", "2014-05-02T00:00:00", "2014-05-02T00:00:00", "100", "100", "2015-01-28T00:00:00", "2015-01-28T00:00:00", "0", "20", "On", "On", "17536", "18", "96750", "96750", "On", "On" ]
+, [ 3048, "3B7345D3-4D0A-4224-B448-D31D5512791D", 3048, 1416597043, "870164", 1416597043, "870164", null, "B.  84 - Slope Repair (2531000)", "Maritime Services - Harbor Dept. Facilities", "Design", "Bid and Award", "2014-10-31T00:00:00", "2014-10-31T00:00:00", "25", "100", "2015-03-30T00:00:00", "2015-03-30T00:00:00", "0", "0", "On", "On", "1644", "1", "150000", "150000", "On", "On" ]
+, [ 3049, "5357ECEE-7FBC-4852-919F-668BAD90F2B0", 3049, 1416597043, "870164", 1416597043, "870164", null, "Liberty Hill Plaza - Fire Life Safety System Replacement (2531300)", "Maritime Services - Harbor Dept. Facilities", null, "Bid and Award", null, "2014-10-06T00:00:00", null, null, null, "2015-06-25T00:00:00", null, "1", null, "On", "0", "0", null, "425000", null, "On" ]
+, [ 3050, "97FF339A-C9BF-4CAB-B6B3-F652B2C75656", 3050, 1416597043, "870164", 1416597043, "870164", null, "B.  72 - Municipal Fish Market Renovation - Phase 2 (2509700)", "Miscellaneous Projects", "Design", "Design", "2015-03-19T00:00:00", "2015-03-19T00:00:00", "40", "40", null, "2015-03-19T00:00:00", null, null, "On", "On", "118985", "24", "500000", "500000", "On", "On" ]
+, [ 3051, "5A8B3A38-AEB2-404C-942A-CE3BACCD8DAA", 3051, 1416597043, "870164", 1416597043, "870164", null, "B.  72 - Municipal Fish Market Site Drainage Improvements (2512800)", "Miscellaneous Projects", "Design", "Design", "2015-01-21T00:00:00", "2015-01-21T00:00:00", "75", "75", "2016-07-14T00:00:00", "2016-07-14T00:00:00", "0", "0", "On", "On", "334966", "7", "5000000", "5000000", "On", "On" ]
+, [ 3052, "12342C39-D5BF-4735-911C-92ABCB4C807F", 3052, 1416597043, "870164", 1416597043, "870164", null, "Badger Avenue Bridge Rehabilitation (2525000)", "Miscellaneous Projects", "Design", "Design", "2014-09-03T00:00:00", "2014-09-03T00:00:00", "55", "80", "2015-11-03T00:00:00", "2015-11-03T00:00:00", "0", "0", "On", "Off", "47054", "3", "1715200", "1715200", "On", "On" ]
+, [ 3053, "5080D84E-FD3D-4CC1-A75B-112AE0E19E70", 3053, 1416597043, "870164", 1416597043, "870164", null, "B.  84 - Maritime Museum Wharf Rehabilitation (2526200)", "Miscellaneous Projects", "Design", "Design", "2015-05-30T00:00:00", "2015-05-30T00:00:00", "20", "40", "2016-12-30T00:00:00", "2016-12-30T00:00:00", "0", "0", "On", "On", "34169", "1", "3900000", "3900000", "On", "On" ]
+, [ 3054, "D2AB8403-A86B-48CD-BB9C-2D63705477A6", 3054, 1416597043, "870164", 1416597043, "870164", null, "B.  87-88 - Mooring Fender Modification (2526700)", "Miscellaneous Projects", "Construction", "Construction", "2014-06-12T00:00:00", "2014-06-12T00:00:00", "100", "100", "2014-12-20T00:00:00", "2014-12-20T00:00:00", "13", "13", "On", "On", "5304", "2", "250000", "250000", "On", "On" ]
+, [ 3055, "94A91173-5E89-434B-8726-6B410D430D36", 3055, 1416597043, "870164", 1416597043, "870164", null, "Ports O' Call Village Roof Restoration (2528000)", "Miscellaneous Projects", "Construction", "Completed", null, "2014-06-14T00:00:00", null, null, "2014-11-21T00:00:00", "2014-10-09T00:00:00", "30", "100", "On", "On", "0", "0", "94067", "36501", "On", "On" ]
+, [ 3056, "DBC46C39-93DF-4ECC-8B69-EBC29E53FC79", 3056, 1416597043, "870164", 1416597043, "870164", null, "B. 183-184 - Banning's Landing HVAC System Upgrade (2528300)", "Miscellaneous Projects", "Bid and Award", "Bid and Award", null, "2014-06-27T00:00:00", null, null, "2015-06-26T00:00:00", "2015-06-26T00:00:00", "0", "0", "On", "On", "0", "0", "150000", "150000", "On", "On" ]
+, [ 3057, "086836F6-D032-4247-AC29-D8C1A07EFF45", 3057, 1416597043, "870164", 1416597043, "870164", null, "Wilmington/San Pedro Fencing Upgrades - Phase 2 (2528500)", "Miscellaneous Projects", "Construction", "Construction", null, "2014-07-16T00:00:00", null, null, "2015-06-30T00:00:00", "2015-06-30T00:00:00", "30", "30", "On", "On", "62394", "42", "150000", "150000", "On", "On" ]
+, [ 3058, "DC76A153-5BB0-4485-9642-03E7EEA0472A", 3058, 1416597043, "870164", 1416597043, "870164", null, "Banning's Landing - Fire Life Safety System Replacement (2531400)", "Miscellaneous Projects", null, "Bid and Award", null, "2014-10-06T00:00:00", null, null, null, "2015-06-25T00:00:00", null, "1", null, "On", "0", "0", null, "250000", null, "On" ]
+ ]
+}

@@ -8,7 +8,7 @@
       "createdAt" : 1412964372,
       "description" : "Job applicant information by gender and ethnicity",
       "displayType" : "table",
-      "downloadCount" : 8,
+      "downloadCount" : 20,
       "indexUpdatedAt" : 1414612950,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -21,7 +21,7 @@
       "rowsUpdatedBy" : "agii-8fjm",
       "tableId" : 1781540,
       "totalTimesRated" : 0,
-      "viewCount" : 9,
+      "viewCount" : 50,
       "viewLastModified" : 1412964515,
       "viewType" : "tabular",
       "columns" : [ {

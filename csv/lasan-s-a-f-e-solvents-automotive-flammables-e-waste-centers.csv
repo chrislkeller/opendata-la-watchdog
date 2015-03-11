@@ -1,0 +1,23 @@
+Location Area,Facility Name,Location 1,City,Zipcode,Hours,Phone
+Location Area,Facility Name,,City,Zipcode,Hours,Phone
+North Valley,Nicole Bernson S.A.F.E. Center,"10241 N Balboa Blvd
+Northridge, CA 91325
+(34.25688098200044, -118.50237279699968)",Northridge,91325,Sat & Sun 9-3,(800) 773-CITY
+East Valley,Randall St. S.A.F.E. Center,"11025 Randall St
+Sun Valley, CA 91352
+(34.237474431000464, -118.3709364989997)",Sun Valley,91352,Sat & Sun 9-3,(800) 773-CITY
+Central Los Angeles,LA-Glendale S.A.F.E. Center,"4600 Colorado Blvd
+Los Angeles, CA 90039
+(34.14108959700047, -118.27321587599971)",Los Angeles,90039,Sat & Sun 9-3,(800) 773-CITY
+East Los Angeles,Washington Blvd. S.A.F.E. Center,"2649 E Washington Blvd
+Los Angeles, CA 90021
+(34.01742952800049, -118.2254983259997)",Los Angeles,90021,Sat & Sun 9-3,(800) 773-CITY
+West Los Angeles,UCLA S.A.F.E. Center,"550 Charles E Young Dr
+Los Angeles, CA 90095
+(34.05773407000049, -118.4478274659997)",Los Angeles,90095,"Thur, Fri & Sat 8-2",(800) 773-CITY
+Playa Del Rey,Hyperion S.A.F.E. Center,"7660 W Imperial Hwy
+Playa Del Rey, CA 90293
+(33.93073747700049, -118.4326855979997)",Playa Del Rey,90293,Sat & Sun 9-3,(800) 773-CITY
+Harbor Area,Gaffey St. S.A.F.E. Center,"1400 N Gaffey St
+San Pedro, CA 90731
+(33.73126015400044, -118.29234618699968)",San Pedro,90731,Sat & Sun 9-3,(800) 773-CITY

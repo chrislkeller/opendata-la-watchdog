@@ -10,7 +10,7 @@
       "createdAt" : 1394160146,
       "description" : "Analysis of 2013 full-time employee earnings by gender across the major employee categories in the City of Los Angeles.",
       "displayType" : "table",
-      "downloadCount" : 42,
+      "downloadCount" : 57,
       "indexUpdatedAt" : 1414612949,
       "licenseId" : "PUBLIC_DOMAIN",
       "newBackend" : false,
@@ -25,7 +25,7 @@
       "rowsUpdatedBy" : "mnkj-bu52",
       "tableId" : 1525709,
       "totalTimesRated" : 0,
-      "viewCount" : 462,
+      "viewCount" : 530,
       "viewLastModified" : 1412745266,
       "viewType" : "tabular",
       "columns" : [ {

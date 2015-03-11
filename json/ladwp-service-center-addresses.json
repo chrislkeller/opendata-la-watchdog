@@ -9,7 +9,7 @@
       "createdAt" : 1399936246,
       "description" : "Location of LADWP Service Center",
       "displayType" : "table",
-      "downloadCount" : 16,
+      "downloadCount" : 26,
       "indexUpdatedAt" : 1414612897,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -22,7 +22,7 @@
       "rowsUpdatedBy" : "tgn6-4379",
       "tableId" : 1599460,
       "totalTimesRated" : 0,
-      "viewCount" : 97,
+      "viewCount" : 115,
       "viewLastModified" : 1401420579,
       "viewType" : "tabular",
       "columns" : [ {

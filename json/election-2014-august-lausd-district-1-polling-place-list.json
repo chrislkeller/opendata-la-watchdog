@@ -8,7 +8,7 @@
       "createdAt" : 1408567068,
       "description" : "Listing of the poll place locations for the 2014 August Los Angeles Unified School District 1 Runoff Special Election. Includes detail listing down to the established precincts.",
       "displayType" : "table",
-      "downloadCount" : 0,
+      "downloadCount" : 8,
       "indexUpdatedAt" : 1414613177,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -22,7 +22,7 @@
       "rowsUpdatedBy" : "ika6-27vg",
       "tableId" : 1690930,
       "totalTimesRated" : 0,
-      "viewCount" : 25,
+      "viewCount" : 31,
       "viewLastModified" : 1408719137,
       "viewType" : "tabular",
       "columns" : [ {

@@ -10,7 +10,7 @@
       "createdAt" : 1390280433,
       "description" : "CAFR Page 343.\r\n\r\nLast Ten Fiscal Years",
       "displayType" : "table",
-      "downloadCount" : 65,
+      "downloadCount" : 77,
       "indexUpdatedAt" : 1414614334,
       "licenseId" : "PUBLIC_DOMAIN",
       "newBackend" : false,
@@ -25,7 +25,7 @@
       "rowsUpdatedBy" : "7c7a-resi",
       "tableId" : 1472353,
       "totalTimesRated" : 0,
-      "viewCount" : 99,
+      "viewCount" : 111,
       "viewLastModified" : 1412744423,
       "viewType" : "tabular",
       "columns" : [ {
@@ -551,6 +551,9 @@
       "owner" : {
         "id" : "7c7a-resi",
         "displayName" : "Controller's Office",
+        "profileImageUrlLarge" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_tiny.jpg",
         "roleName" : "administrator",
         "screenName" : "Controller's Office",
         "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
@@ -561,6 +564,9 @@
       "tableAuthor" : {
         "id" : "7c7a-resi",
         "displayName" : "Controller's Office",
+        "profileImageUrlLarge" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_tiny.jpg",
         "roleName" : "administrator",
         "screenName" : "Controller's Office",
         "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]

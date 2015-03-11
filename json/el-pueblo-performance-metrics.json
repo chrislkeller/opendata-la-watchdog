@@ -8,7 +8,7 @@
       "createdAt" : 1409075223,
       "description" : "This dataset contains metrics that measure the operational performance of the El Pueblo. These metrics are used on a regular basis by the department and the Mayor to evaluate progress and inform decision making.  Performance management forms the foundation of a data-driven culture of innovation and excellence in the City of Los Angeles.",
       "displayType" : "table",
-      "downloadCount" : 4,
+      "downloadCount" : 10,
       "indexUpdatedAt" : 1414613958,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -21,7 +21,7 @@
       "rowsUpdatedBy" : "tyhz-nfmm",
       "tableId" : 1773256,
       "totalTimesRated" : 0,
-      "viewCount" : 42,
+      "viewCount" : 52,
       "viewLastModified" : 1412788439,
       "viewType" : "tabular",
       "columns" : [ {

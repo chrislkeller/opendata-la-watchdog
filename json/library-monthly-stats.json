@@ -8,22 +8,21 @@
       "createdAt" : 1401308776,
       "description" : "Monthly statistics from the Library on Web visits, computer usage, e-media, etc.",
       "displayType" : "table",
-      "downloadCount" : 12,
-      "indexUpdatedAt" : 1418254225,
+      "downloadCount" : 28,
+      "indexUpdatedAt" : 1424387876,
       "newBackend" : false,
       "numberOfComments" : 0,
-      "oid" : 8528429,
+      "oid" : 10280105,
       "publicationAppendEnabled" : false,
-      "publicationDate" : 1406582252,
+      "publicationDate" : 1424385787,
       "publicationGroup" : 1597740,
       "publicationStage" : "published",
-      "rowsUpdatedAt" : 1418254214,
-      "rowsUpdatedBy" : "prt7-2e8a",
-      "state" : "normal",
-      "tableId" : 1664066,
+      "rowsUpdatedAt" : 1424385783,
+      "rowsUpdatedBy" : "ysts-hp3n",
+      "tableId" : 2278809,
       "totalTimesRated" : 0,
-      "viewCount" : 239,
-      "viewLastModified" : 1408638621,
+      "viewCount" : 331,
+      "viewLastModified" : 1424385787,
       "viewType" : "tabular",
       "columns" : [ {
         "id" : -1,
@@ -98,18 +97,93 @@
         "format" : {
         }
       }, {
-        "id" : 159480120,
+        "id" : 190053836,
+        "name" : "Date",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date",
+        "position" : 1,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 24255984,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 19,
+          "smallest" : "2013-07-31T00:00:00",
+          "null" : 0,
+          "largest" : "2015-01-31T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2013-07-31T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2013-08-31T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2013-09-30T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2013-10-31T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2013-11-30T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2013-12-31T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2014-01-31T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2014-02-28T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2014-03-31T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2014-04-30T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2014-05-31T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2014-06-30T00:00:00"
+          }, {
+            "count" : 8,
+            "item" : "2014-07-31T00:00:00"
+          }, {
+            "count" : 7,
+            "item" : "2014-08-31T00:00:00"
+          }, {
+            "count" : 6,
+            "item" : "2014-09-30T00:00:00"
+          }, {
+            "count" : 5,
+            "item" : "2014-10-31T00:00:00"
+          }, {
+            "count" : 4,
+            "item" : "2014-11-30T00:00:00"
+          }, {
+            "count" : 3,
+            "item" : "2014-12-31T00:00:00"
+          }, {
+            "count" : 2,
+            "item" : "2015-01-31T00:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 190053837,
         "name" : "Month",
         "dataTypeName" : "text",
         "fieldName" : "month",
-        "position" : 1,
+        "position" : 2,
         "renderTypeName" : "text",
         "tableColumnId" : 19980363,
         "width" : 160,
         "cachedContents" : {
-          "non_null" : 17,
-          "smallest" : "14-Nov",
-          "null" : 38,
+          "non_null" : 19,
+          "smallest" : "Apr-14",
+          "null" : 0,
           "largest" : "Sep-14",
           "top" : [ {
             "count" : 20,
@@ -161,26 +235,32 @@
             "item" : "Oct-14"
           }, {
             "count" : 4,
-            "item" : "14-Nov"
+            "item" : "Nov-14"
+          }, {
+            "count" : 3,
+            "item" : "Dec-14"
+          }, {
+            "count" : 2,
+            "item" : "Jan-15"
           } ]
         },
         "format" : {
         }
       }, {
-        "id" : 159480121,
+        "id" : 190053838,
         "name" : "Total Library Visitors",
         "dataTypeName" : "number",
         "fieldName" : "total_library_visitors",
-        "position" : 2,
+        "position" : 3,
         "renderTypeName" : "number",
         "tableColumnId" : 19980364,
         "width" : 364,
         "cachedContents" : {
-          "non_null" : 17,
+          "non_null" : 19,
           "smallest" : "997687",
-          "sum" : "20884398",
-          "null" : 38,
-          "average" : "1228494",
+          "sum" : "23107676",
+          "null" : 0,
+          "average" : "1216193.473684211",
           "largest" : "1458097",
           "top" : [ {
             "count" : 20,
@@ -233,25 +313,31 @@
           }, {
             "count" : 4,
             "item" : "1035787"
+          }, {
+            "count" : 3,
+            "item" : "1082258"
+          }, {
+            "count" : 2,
+            "item" : "1141020"
           } ]
         },
         "format" : {
         }
       }, {
-        "id" : 159480122,
+        "id" : 190053839,
         "name" : "Total Library Programs",
         "dataTypeName" : "number",
         "fieldName" : "total_library_programs",
-        "position" : 3,
+        "position" : 4,
         "renderTypeName" : "number",
         "tableColumnId" : 19980365,
         "width" : 364,
         "cachedContents" : {
-          "non_null" : 17,
+          "non_null" : 19,
           "smallest" : "1312",
-          "sum" : "30348",
-          "null" : 38,
-          "average" : "1785.176470588235",
+          "sum" : "33667",
+          "null" : 0,
+          "average" : "1771.947368421053",
           "largest" : "2232",
           "top" : [ {
             "count" : 20,
@@ -304,25 +390,31 @@
           }, {
             "count" : 4,
             "item" : "1591"
+          }, {
+            "count" : 3,
+            "item" : "1630"
+          }, {
+            "count" : 2,
+            "item" : "1689"
           } ]
         },
         "format" : {
         }
       }, {
-        "id" : 159480123,
+        "id" : 190053840,
         "name" : "Total Program Attendees",
         "dataTypeName" : "number",
         "fieldName" : "total_program_attendees",
-        "position" : 4,
+        "position" : 5,
         "renderTypeName" : "number",
         "tableColumnId" : 19980366,
         "width" : 376,
         "cachedContents" : {
-          "non_null" : 17,
-          "smallest" : "22564",
-          "sum" : "560776",
-          "null" : 38,
-          "average" : "32986.82352941176",
+          "non_null" : 19,
+          "smallest" : "21346",
+          "sum" : "606334",
+          "null" : 0,
+          "average" : "31912.31578947368",
           "largest" : "51955",
           "top" : [ {
             "count" : 20,
@@ -375,25 +467,31 @@
           }, {
             "count" : 4,
             "item" : "25910"
+          }, {
+            "count" : 3,
+            "item" : "21346"
+          }, {
+            "count" : 2,
+            "item" : "24212"
           } ]
         },
         "format" : {
         }
       }, {
-        "id" : 159480124,
+        "id" : 190053841,
         "name" : "Total Volunteer Hours",
         "dataTypeName" : "number",
         "fieldName" : "total_volunteer_hours",
-        "position" : 5,
+        "position" : 6,
         "renderTypeName" : "number",
         "tableColumnId" : 19980367,
         "width" : 352,
         "cachedContents" : {
-          "non_null" : 17,
-          "smallest" : "10798",
-          "sum" : "236410",
-          "null" : 38,
-          "average" : "13906.47058823529",
+          "non_null" : 19,
+          "smallest" : "9855",
+          "sum" : "258405",
+          "null" : 0,
+          "average" : "13600.26315789474",
           "largest" : "19161",
           "top" : [ {
             "count" : 20,
@@ -445,26 +543,32 @@
             "item" : "11248"
           }, {
             "count" : 4,
-            "item" : "12058"
+            "item" : "9855"
+          }, {
+            "count" : 3,
+            "item" : "11715"
+          }, {
+            "count" : 2,
+            "item" : "12483"
           } ]
         },
         "format" : {
         }
       }, {
-        "id" : 159480125,
+        "id" : 190053843,
         "name" : "Total Web Visits",
         "dataTypeName" : "number",
         "fieldName" : "total_web_visits",
-        "position" : 6,
+        "position" : 7,
         "renderTypeName" : "number",
         "tableColumnId" : 19980368,
         "width" : 292,
         "cachedContents" : {
-          "non_null" : 17,
+          "non_null" : 19,
           "smallest" : "1624957",
-          "sum" : "31657852",
-          "null" : 38,
-          "average" : "1862226.588235294",
+          "sum" : "35331628",
+          "null" : 0,
+          "average" : "1859559.368421053",
           "largest" : "2026211",
           "top" : [ {
             "count" : 20,
@@ -507,7 +611,7 @@
             "item" : "2007823"
           }, {
             "count" : 7,
-            "item" : "1954808"
+            "item" : "1954802"
           }, {
             "count" : 6,
             "item" : "1979410"
@@ -517,26 +621,32 @@
           }, {
             "count" : 4,
             "item" : "1732749"
+          }, {
+            "count" : 3,
+            "item" : "1741088"
+          }, {
+            "count" : 2,
+            "item" : "1932694"
           } ]
         },
         "format" : {
         }
       }, {
-        "id" : 159480126,
+        "id" : 190053846,
         "name" : "Total eMedia Circulation",
         "dataTypeName" : "number",
         "fieldName" : "total_emedia_circulation",
-        "position" : 7,
+        "position" : 8,
         "renderTypeName" : "number",
         "tableColumnId" : 19980369,
         "width" : 388,
         "cachedContents" : {
-          "non_null" : 17,
+          "non_null" : 19,
           "smallest" : "159134",
-          "sum" : "3452708",
-          "null" : 38,
-          "average" : "203100.4705882353",
-          "largest" : "292080",
+          "sum" : "4094137",
+          "null" : 0,
+          "average" : "215480.8947368421",
+          "largest" : "337842",
           "top" : [ {
             "count" : 20,
             "item" : "171332"
@@ -578,7 +688,7 @@
             "item" : "231678"
           }, {
             "count" : 7,
-            "item" : "211662"
+            "item" : "205864"
           }, {
             "count" : 6,
             "item" : "204958"
@@ -588,25 +698,31 @@
           }, {
             "count" : 4,
             "item" : "292080"
+          }, {
+            "count" : 3,
+            "item" : "309385"
+          }, {
+            "count" : 2,
+            "item" : "337842"
           } ]
         },
         "format" : {
         }
       }, {
-        "id" : 159480127,
+        "id" : 190053847,
         "name" : "Total WiFi Sessions",
         "dataTypeName" : "number",
         "fieldName" : "total_wifi_sessions",
-        "position" : 8,
+        "position" : 9,
         "renderTypeName" : "number",
         "tableColumnId" : 19980370,
         "width" : 328,
         "cachedContents" : {
-          "non_null" : 17,
+          "non_null" : 19,
           "smallest" : "102743",
-          "sum" : "2097547",
-          "null" : 38,
-          "average" : "123385.1176470588",
+          "sum" : "2333475",
+          "null" : 0,
+          "average" : "122814.4736842105",
           "largest" : "135488",
           "top" : [ {
             "count" : 20,
@@ -664,20 +780,20 @@
         "format" : {
         }
       }, {
-        "id" : 159480128,
+        "id" : 190053848,
         "name" : "Total Reservation PC Sessions",
         "dataTypeName" : "number",
         "fieldName" : "total_reservation_pc_sessions",
-        "position" : 9,
+        "position" : 10,
         "renderTypeName" : "number",
         "tableColumnId" : 19980371,
         "width" : 448,
         "cachedContents" : {
-          "non_null" : 17,
+          "non_null" : 19,
           "smallest" : "170383",
-          "sum" : "3450523",
-          "null" : 38,
-          "average" : "202971.9411764706",
+          "sum" : "3813956",
+          "null" : 0,
+          "average" : "200734.5263157895",
           "largest" : "237780",
           "top" : [ {
             "count" : 20,
@@ -730,6 +846,74 @@
           }, {
             "count" : 4,
             "item" : "170383"
+          }, {
+            "count" : 3,
+            "item" : "179491"
+          }, {
+            "count" : 2,
+            "item" : "183942"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 190053850,
+        "name" : "Total Cardholders",
+        "dataTypeName" : "number",
+        "fieldName" : "total_cardholders",
+        "position" : 11,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24798757,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 14,
+          "smallest" : "1098559",
+          "sum" : "16061830",
+          "null" : 5,
+          "average" : "1147273.571428571",
+          "largest" : "1185678",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1138105"
+          }, {
+            "count" : 19,
+            "item" : "1111441"
+          }, {
+            "count" : 18,
+            "item" : "1112200"
+          }, {
+            "count" : 17,
+            "item" : "1098559"
+          }, {
+            "count" : 16,
+            "item" : "1113767"
+          }, {
+            "count" : 15,
+            "item" : "1128767"
+          }, {
+            "count" : 14,
+            "item" : "1141782"
+          }, {
+            "count" : 13,
+            "item" : "1148250"
+          }, {
+            "count" : 12,
+            "item" : "1163551"
+          }, {
+            "count" : 11,
+            "item" : "1172464"
+          }, {
+            "count" : 10,
+            "item" : "1180699"
+          }, {
+            "count" : 9,
+            "item" : "1182562"
+          }, {
+            "count" : 8,
+            "item" : "1184005"
+          }, {
+            "count" : 7,
+            "item" : "1185678"
           } ]
         },
         "format" : {
@@ -751,7 +935,13 @@
             "table" : true
           }
         },
-        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "jsonQuery" : {
+          "order" : [ {
+            "ascending" : true,
+            "columnFieldName" : "date"
+          } ]
+        }
       },
       "owner" : {
         "id" : "ysts-hp3n",
@@ -764,8 +954,20 @@
         "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
       },
       "query" : {
+        "orderBys" : [ {
+          "ascending" : true,
+          "expression" : {
+            "columnId" : 190053836,
+            "type" : "column"
+          }
+        } ]
       },
       "rights" : [ "read" ],
+      "sortBys" : [ {
+        "id" : 0,
+        "viewColumnId" : 190053836,
+        "flags" : [ "asc" ]
+      } ],
       "tableAuthor" : {
         "id" : "ysts-hp3n",
         "displayName" : "Library OpenData",
@@ -780,60 +982,24 @@
       "flags" : [ "default" ]
     }
   },
-  "data" : [ [ 32, "8DE93F63-29BF-4D89-8D20-868F40112F7D", 32, 1408639010, "881967", 1408639010, "881967", null, "Jul-13", "1279061", "2138", "51955", "18876", "2026211", "171332", "102743", "233626" ]
-, [ 33, "EF59AEF3-8343-4438-B3AF-3F8A3CCD8730", 33, 1408639010, "881967", 1408639010, "881967", null, "Aug-13", "1223571", "1534", "29875", "14415", "1991667", "180508", "133975", "237780" ]
-, [ 34, "1374B41A-20BF-49AB-B707-0C46B6A062E0", 34, 1408639010, "881967", 1408639010, "881967", null, "Sep-13", "1282431", "1556", "27211", "13282", "1840740", "171245", "130248", "211232" ]
-, [ 35, "286A3CD5-46FC-4FE3-B90C-0BF90B80433B", 35, 1408639010, "881967", 1408639010, "881967", null, "Oct-13", "1272628", "1805", "44336", "14633", "1826659", "180297", "132142", "198666" ]
-, [ 36, "DE46C91C-DCA0-4441-8B8E-1EF6F6797798", 36, 1408639010, "881967", 1408639010, "881967", null, "Nov-13", "1055041", "1535", "28068", "12905", "1684896", "159134", "115380", "189724" ]
-, [ 37, "46544036-5ACB-4C19-B0C3-B96079B77725", 37, 1408639010, "881967", 1408639010, "881967", null, "Dec-13", "997687", "1312", "22564", "10798", "1624957", "178994", "111224", "189853" ]
-, [ 38, "F714DD27-518C-4739-9FC7-3591F5DDA549", 38, 1408639010, "881967", 1408639010, "881967", null, "Jan-14", "1092965", "1567", "23581", "12634", "1884707", "203037", "124704", "204878" ]
-, [ 39, "EF7AA6E9-C37A-48E9-A4BE-5A29F98B42F9", 39, 1408639010, "881967", 1408639010, "881967", null, "Feb-14", "1382040", "1777", "30149", "14010", "1719801", "191618", "115649", "187467" ]
-, [ 40, "0882D7AA-9931-4508-834D-C78683A9A8C5", 40, 1408639010, "881967", 1408639010, "881967", null, "Mar-14", "1074797", "1937", "34520", "14222", "1872711", "209336", "123734", "198843" ]
-, [ 41, "E2478D24-A856-43DB-ADDE-70A41CF24117", 41, 1408639010, "881967", 1408639010, "881967", null, "Apr-14", "1458097", "1856", "31844", "14925", "1892885", "195307", "124598", "208705" ]
-, [ 42, "BAFC1FC4-3960-4659-B2C7-65F480A59C25", 42, 1408639010, "881967", 1408639010, "881967", null, "May-14", "1203901", "1788", "25104", "12614", "1805172", "240236", "127051", "198479" ]
-, [ 43, "839B9DB1-BD1D-4FD7-A5EC-AF7FF7062A5B", 43, 1408639010, "881967", 1408639010, "881967", null, "Jun-14", "1261943", "2214", "47273", "17264", "1852979", "211622", "118378", "193129" ]
-, [ 44, "3EA085A7-90BF-499D-89ED-6D4DBB9DC4C2", 44, 1408639010, "881967", 1408639010, "881967", null, "Jul-14", "1255102", "2232", "50786", "19161", "2007823", "231678", "134943", "212291" ]
-, [ 45, "11812692-2923-48A2-B9BF-96DFA9F14566", 45, 1412122989, "881967", 1412122989, "881967", null, "Aug-14", "1306062", "1593", "25969", "12093", "1954808", "211662", "128653", "208538" ]
-, [ 46, "92E9C78D-BB2E-4ACA-914A-C51E1B5FB231", 46, 1412122990, "881967", 1412122990, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 47, "574985E0-C069-4828-9DAA-6127C1C1E854", 47, 1412122990, "881967", 1412122990, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 48, "7D188C33-9448-401B-BBC5-3990D827EE07", 48, 1412122990, "881967", 1412122990, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 49, "2B6DFB49-D62B-47B1-8853-F39DE17E5E86", 49, 1412122990, "881967", 1412122990, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 50, "8E8C03F3-C2B8-45E1-B4AA-D355A48C6E3F", 50, 1412122990, "881967", 1412122990, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 51, "9A6561C5-3879-4A4D-9FFC-EF2F75627ACE", 51, 1412122990, "881967", 1412122990, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 52, "4B72A89A-3A79-4B7D-8F9D-98DE48B23FA3", 52, 1412122990, "881967", 1412122990, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 53, "491341E4-13E8-4D04-BF1B-8B902824E6FE", 53, 1412122990, "881967", 1412122990, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 54, "9CE1CDAB-86AD-4343-BB7F-D7C8622EA22E", 54, 1412122990, "881967", 1412122990, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 55, "A689EF53-87BD-40FA-9192-ACCA57454044", 55, 1412122990, "881967", 1412122990, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 56, "1DF8031B-FCB3-4659-B2F2-FE78F580B573", 56, 1412122990, "881967", 1412122990, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 57, "6329FAC3-2A9E-4F2E-93AB-4C6AFFE724DE", 57, 1412122990, "881967", 1412122990, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 58, "1E6E33D7-A869-4247-B1CD-590C97399DBF", 58, 1412122990, "881967", 1412122990, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 59, "64E562F3-33D2-4D23-A186-2C142B54E473", 59, 1415397828, "881967", 1415397828, "881967", null, "Sep-14", "1327264", "1826", "26515", "11272", "1979410", "204958", "135488", "200605" ]
-, [ 60, "BAAB652C-017D-48D4-9B63-211507F9F96B", 60, 1415397828, "881967", 1415397828, "881967", null, "Oct-14", "1376021", "2087", "35116", "11248", "1959677", "219664", "132229", "206324" ]
-, [ 61, "066368F9-98CC-4D48-BBF6-D9DAA29C799B", 61, 1415397828, "881967", 1415397828, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 62, "28534DEC-AA95-4A1F-9D33-CCD889366A01", 62, 1415397828, "881967", 1415397828, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 63, "C58C5A0B-E3C3-4020-9CF7-D2BFB94A3C1D", 63, 1415397828, "881967", 1415397828, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 64, "5B5ED2BF-F817-4B6B-B311-B1BE90103137", 64, 1415397828, "881967", 1415397828, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 65, "EA36A80B-89AD-4FAA-BEAF-1CE371B4411E", 65, 1415397828, "881967", 1415397828, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 66, "5A4C8A88-4C91-4B1D-85B1-3077B99CFD62", 66, 1415397828, "881967", 1415397828, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 67, "69F065AC-9E45-4221-8AFD-9A4A22BA140D", 67, 1415397828, "881967", 1415397828, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 68, "441009E3-BFBD-4E70-9852-A03283C21773", 68, 1415397828, "881967", 1415397828, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 69, "FE2C6C6C-4126-4602-863D-D911953E9756", 69, 1415397828, "881967", 1415397828, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 70, "C720668F-9BC8-4BC0-ACD5-FE0B16E954FE", 70, 1415397828, "881967", 1415397828, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 71, "AB5E6EA4-D69A-4727-978C-40BCE71B531A", 71, 1415397828, "881967", 1415397828, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 72, "FEB3BE92-8E6E-4DF5-A943-0CE119A28C1B", 72, 1415397828, "881967", 1415397828, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 73, "527D34B0-8921-4C01-9C2B-AF480B2F3FFD", 73, 1415397828, "881967", 1415397828, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 74, "16F8E22A-41A5-4051-AAB5-A01E7DA983BB", 74, 1415397828, "881967", 1415397828, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 75, "BDEC0C1A-5EAA-41D0-8547-2E3F02E7F715", 75, 1415397828, "881967", 1415397828, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 76, "11F08D67-7E5A-414E-846F-7B33A81E4C3C", 76, 1415397828, "881967", 1415397828, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 77, "E9276FD2-9776-4025-87A4-4C5A29A52E0B", 77, 1415397828, "881967", 1415397828, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 78, "4D7FAD9D-D6E2-4998-9BA9-CABF1C17819E", 78, 1415397828, "881967", 1415397828, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 79, "EB8D6831-7C0C-4C49-BAC5-AB4A2EAA6648", 79, 1415397828, "881967", 1415397828, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 80, "B2447AE2-C062-442E-A41B-9D1B9D2CE830", 80, 1415397828, "881967", 1415397828, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 81, "283F460F-1FD6-4EEB-B9D8-73E3D6510D9B", 81, 1415397828, "881967", 1415397828, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 82, "44FAF140-3C2B-455B-9695-B1A9C322D010", 82, 1415397828, "881967", 1415397828, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 83, "EA1180B0-7B82-4947-90C0-57CBDE6D06AD", 83, 1415397828, "881967", 1415397828, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 84, "7A3FE5F9-010F-4726-99D4-C8E1C8DAF6AE", 84, 1415397828, "881967", 1415397828, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 85, "FA4C5B8E-DD1F-47FD-928D-6BE439516E43", 85, 1415397828, "881967", 1415397828, "881967", null, null, null, null, null, null, null, null, null, null ]
-, [ 86, "81AAF96B-1964-4397-90AA-A4BEE7782156", 86, 1418254213, "881967", 1418254213, "881967", null, "14-Nov", "1035787", "1591", "25910", "12058", "1732749", "292080", "106408", "170383" ]
+  "data" : [ [ 123, "BBA24DB7-9C04-48D8-A4BF-23596770DBEC", 123, 1421194179, "881967", 1424385292, "882515", null, "2013-07-31T00:00:00", "Jul-13", "1279061", "2138", "51955", "18876", "2026211", "171332", "102743", "233626", null ]
+, [ 124, "702D639E-0251-402D-8701-5FE0859B8D8D", 124, 1421194179, "881967", 1424385289, "882515", null, "2013-08-31T00:00:00", "Aug-13", "1223571", "1534", "29875", "14415", "1991667", "180508", "133975", "237780", null ]
+, [ 125, "EAC22660-4034-42E7-99E7-2526AB19BF81", 125, 1421194179, "881967", 1424385286, "882515", null, "2013-09-30T00:00:00", "Sep-13", "1282431", "1556", "27211", "13282", "1840740", "171245", "130248", "211232", null ]
+, [ 126, "56C322D4-948A-4DE3-B1B8-739E6F7D5303", 126, 1421194179, "881967", 1424385282, "882515", null, "2013-10-31T00:00:00", "Oct-13", "1272628", "1805", "44336", "14633", "1826659", "180297", "132142", "198666", null ]
+, [ 127, "DBCBCA6A-D771-4549-BABE-57A4BCD553B9", 127, 1421194179, "881967", 1424385341, "882515", null, "2013-11-30T00:00:00", "Nov-13", "1055041", "1535", "28068", "12905", "1684896", "159134", "115380", "189724", null ]
+, [ 128, "A17C1F53-833D-4587-B8FA-20D5A72E9F86", 128, 1421194179, "881967", 1424385345, "882515", null, "2013-12-31T00:00:00", "Dec-13", "997687", "1312", "22564", "10798", "1624957", "178994", "111224", "189853", "1138105" ]
+, [ 129, "E437988A-E081-4AF6-9C21-533D90459D13", 129, 1421194179, "881967", 1424385338, "882515", null, "2014-01-31T00:00:00", "Jan-14", "1092965", "1567", "23581", "12634", "1884707", "203037", "124704", "204878", "1111441" ]
+, [ 130, "8C24A200-6D30-4A88-A08B-2C1172FFB1D7", 130, 1421194179, "881967", 1424385287, "882515", null, "2014-02-28T00:00:00", "Feb-14", "1382040", "1777", "30149", "14010", "1719801", "191618", "115649", "187467", "1112200" ]
+, [ 131, "F45BC305-6474-42E6-AEF2-2D94BF130B4B", 131, 1421194179, "881967", 1424385763, "883849", null, "2014-03-31T00:00:00", "Mar-14", "1074797", "1937", "34520", "14222", "1872711", "209336", "123734", "198843", "1098559" ]
+, [ 132, "6AB082F3-9888-407C-88FB-F975C0E53935", 132, 1421194179, "881967", 1424385279, "882515", null, "2014-04-30T00:00:00", "Apr-14", "1458097", "1856", "31844", "14925", "1892885", "195307", "124598", "208705", "1113767" ]
+, [ 133, "2813CAE2-C908-45E0-9720-77EC721CE07A", 133, 1421194179, "881967", 1424385277, "882515", null, "2014-05-31T00:00:00", "May-14", "1203901", "1788", "25104", "12614", "1805172", "240236", "127051", "198479", "1128767" ]
+, [ 134, "2587506C-3D42-4837-8946-B82A2E24D829", 134, 1421194179, "881967", 1424385274, "882515", null, "2014-06-30T00:00:00", "Jun-14", "1261943", "2214", "47273", "17264", "1852979", "211622", "118378", "193129", "1141782" ]
+, [ 135, "C33CF72C-4508-4EBC-80D6-F749F9F3A4D5", 135, 1421194179, "881967", 1424385270, "882515", null, "2014-07-31T00:00:00", "Jul-14", "1255102", "2232", "50786", "19161", "2007823", "231678", "134943", "212291", "1148250" ]
+, [ 136, "0BA5BFF3-66C4-42D0-B397-0FDE45973D83", 136, 1421194179, "881967", 1424385770, "883849", null, "2014-08-31T00:00:00", "Aug-14", "1306062", "1593", "25969", "12093", "1954802", "205864", "128653", "208538", "1163551" ]
+, [ 137, "F397F7EB-B02F-4DCC-A669-A67EBFDD95D8", 137, 1421194179, "881967", 1424385780, "883849", null, "2014-09-30T00:00:00", "Sep-14", "1327264", "1826", "26515", "11272", "1979410", "204958", "135488", "200605", "1172464" ]
+, [ 138, "5DFAF526-90AC-424E-9928-AD484C851715", 138, 1421194179, "881967", 1424385268, "882515", null, "2014-10-31T00:00:00", "Oct-14", "1376021", "2087", "35116", "11248", "1959677", "219664", "132229", "206324", "1180699" ]
+, [ 139, "C2D49CFA-B5B9-45D2-B535-E62C8B6CDD06", 139, 1421194179, "881967", 1424385263, "882515", null, "2014-11-30T00:00:00", "Nov-14", "1035787", "1591", "25910", "9855", "1732749", "292080", "106408", "170383", "1182562" ]
+, [ 140, "37948248-D2A6-45C4-A5DA-54D9E3D6771C", 140, 1421194179, "881967", 1424385252, "882515", null, "2014-12-31T00:00:00", "Dec-14", "1082258", "1630", "21346", "11715", "1741088", "309385", "111224", "179491", "1184005" ]
+, [ 141, "04C1025B-F7A4-4571-B7C0-6BBAA644D412", 141, 1424300351, "882515", 1424385246, "882515", null, "2015-01-31T00:00:00", "Jan-15", "1141020", "1689", "24212", "12483", "1932694", "337842", "124704", "183942", "1185678" ]
  ]
 }

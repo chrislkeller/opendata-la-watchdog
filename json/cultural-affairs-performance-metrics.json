@@ -9,7 +9,7 @@
       "createdAt" : 1409073183,
       "description" : "This dataset contains metrics that measure the operational performance of the Department of Cultural Affairs. These metrics are used on a regular basis by the department and the Mayor to evaluate progress and inform decision making.  Performance management forms the foundation of a data-driven culture of innovation and excellence in the City of Los Angeles.",
       "displayType" : "table",
-      "downloadCount" : 10,
+      "downloadCount" : 15,
       "indexUpdatedAt" : 1414613080,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -22,7 +22,7 @@
       "rowsUpdatedBy" : "tyhz-nfmm",
       "tableId" : 1697090,
       "totalTimesRated" : 0,
-      "viewCount" : 46,
+      "viewCount" : 61,
       "viewLastModified" : 1409074054,
       "viewType" : "tabular",
       "columns" : [ {

@@ -9,7 +9,7 @@
       "createdAt" : 1395690091,
       "description" : "Port of Los Angeles - Historic Tonage Data Short Ton(1920-1970)",
       "displayType" : "table",
-      "downloadCount" : 2,
+      "downloadCount" : 9,
       "indexUpdatedAt" : 1414616967,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -23,7 +23,7 @@
       "rowsUpdatedBy" : "2ib6-ssvz",
       "tableId" : 1521913,
       "totalTimesRated" : 0,
-      "viewCount" : 39,
+      "viewCount" : 45,
       "viewLastModified" : 1401396174,
       "viewType" : "tabular",
       "columns" : [ {

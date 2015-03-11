@@ -1,0 +1,569 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "uzyn-z273",
+      "name" : "All HACLA Properties",
+      "averageRating" : 0,
+      "category" : "A Prosperous City",
+      "createdAt" : 1421348359,
+      "description" : "List of Properties owned by the Housing Authority of the City of Los Angeles. Updated January 2015.",
+      "displayType" : "table",
+      "downloadCount" : 10,
+      "iconUrl" : "fileId:Z2U8VT2zO27d3szZJBj15J026Fw1mb3vlCXxm29w_Po",
+      "indexUpdatedAt" : 1422316486,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 10029366,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1422316064,
+      "publicationGroup" : 2109554,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1422309260,
+      "rowsUpdatedBy" : "ihg6-62bp",
+      "tableId" : 2155196,
+      "totalTimesRated" : 0,
+      "viewCount" : 72,
+      "viewLastModified" : 1422316409,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 186388886,
+        "name" : "GROUP",
+        "dataTypeName" : "text",
+        "fieldName" : "liph",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 24005938,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 110,
+          "smallest" : "LIPH",
+          "null" : 0,
+          "largest" : "UaFAM",
+          "top" : [ {
+            "count" : 20,
+            "item" : "LIPH"
+          }, {
+            "count" : 19,
+            "item" : "MKMFH"
+          }, {
+            "count" : 18,
+            "item" : "PrivPH"
+          }, {
+            "count" : 17,
+            "item" : "ScaSite"
+          }, {
+            "count" : 16,
+            "item" : "SrAFF"
+          }, {
+            "count" : 15,
+            "item" : "SrNCS8"
+          }, {
+            "count" : 14,
+            "item" : "SrPBS8"
+          }, {
+            "count" : 13,
+            "item" : "SrPH"
+          }, {
+            "count" : 12,
+            "item" : "UaFAM"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 186388887,
+        "name" : "SITE NAME",
+        "dataTypeName" : "text",
+        "fieldName" : "ramona_gardens",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 24005939,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 110,
+          "smallest" : "120th. STREET",
+          "null" : 0,
+          "largest" : "WILMINGTON TOWNHOMES",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Former PH"
+          }, {
+            "count" : 19,
+            "item" : "INDEPENDENT SQUARE"
+          }, {
+            "count" : 18,
+            "item" : "CALIFORNIA APARTMENTS"
+          }, {
+            "count" : 17,
+            "item" : "GIBSON MANOR"
+          }, {
+            "count" : 16,
+            "item" : "WESTSIDE MANOR"
+          }, {
+            "count" : 15,
+            "item" : "SIMPSON-SATICOY"
+          }, {
+            "count" : 14,
+            "item" : "ARTHUR SNYDER/YOSEMITE"
+          }, {
+            "count" : 13,
+            "item" : "LANKERSHIM"
+          }, {
+            "count" : 12,
+            "item" : "87TH STREET"
+          }, {
+            "count" : 11,
+            "item" : "DEL REY SQUARE"
+          }, {
+            "count" : 10,
+            "item" : "DANA APARTMENTS"
+          }, {
+            "count" : 9,
+            "item" : "SYLMAR AVE."
+          }, {
+            "count" : 8,
+            "item" : "120th. STREET"
+          }, {
+            "count" : 7,
+            "item" : "Victoria AVE."
+          }, {
+            "count" : 6,
+            "item" : "LACONIA"
+          }, {
+            "count" : 5,
+            "item" : "MCDONALD"
+          }, {
+            "count" : 4,
+            "item" : "BELLA VISTA "
+          }, {
+            "count" : 3,
+            "item" : "LAVETTA TERRACE "
+          }, {
+            "count" : 2,
+            "item" : "HARBOR RIVERA"
+          }, {
+            "count" : 1,
+            "item" : "JEFFERSON VILLAS (CHFA)"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 186388888,
+        "name" : "ADDRESS",
+        "dataTypeName" : "location",
+        "fieldName" : "_2830_lancaster_los_angeles_ca_90033",
+        "position" : 3,
+        "renderTypeName" : "location",
+        "tableColumnId" : 24005940,
+        "width" : 544,
+        "cachedContents" : {
+          "non_null" : 110,
+          "smallest" : {
+            "longitude" : "-118.467316171",
+            "latitude" : "34.25314123000004",
+            "human_address" : "{\"address\":\"10050 SEPULVEDA BLVD\",\"city\":\"MISSION HILLS\",\"state\":\"CA\",\"zip\":\"91345\"}"
+          },
+          "null" : 0,
+          "largest" : {
+            "longitude" : "-118.23674688399996",
+            "latitude" : "33.94711131200006",
+            "human_address" : "{\"address\":\"9800 GRAPE ST\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90002\"}"
+          },
+          "top" : [ {
+            "count" : 20,
+            "item" : {
+              "longitude" : "-118.31133293399995",
+              "latitude" : "34.03286066800007",
+              "human_address" : "{\"address\":\"2455 SOUTH ST ANDREWS PL\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90018\"}"
+            }
+          }, {
+            "count" : 19,
+            "item" : {
+              "longitude" : "-118.46544486499994",
+              "latitude" : "33.99159860900005",
+              "human_address" : "{\"address\":\"609 CALIFORNIA AVENUE\",\"city\":\"VENICE\",\"state\":\"CA\",\"zip\":\"90291\"}"
+            }
+          }, {
+            "count" : 18,
+            "item" : {
+              "longitude" : "-118.24749997799995",
+              "latitude" : "33.94571820300007",
+              "human_address" : "{\"address\":\"1501 E CENTURY BLVD\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90002\"}"
+            }
+          }, {
+            "count" : 17,
+            "item" : {
+              "longitude" : "-118.32335123299998",
+              "latitude" : "34.04856626900005",
+              "human_address" : "{\"address\":\"1224 S NORTON\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90019\"}"
+            }
+          }, {
+            "count" : 16,
+            "item" : {
+              "longitude" : "-118.38902668699996",
+              "latitude" : "34.20755004800003",
+              "human_address" : "{\"address\":\"7540 SIMPSON AVE\",\"city\":\"NORTH HOLLYWOOD\",\"state\":\"CA\",\"zip\":\"91605\"}"
+            }
+          }, {
+            "count" : 15,
+            "item" : {
+              "longitude" : "-118.19957081599995",
+              "latitude" : "34.13286259800003",
+              "human_address" : "{\"address\":\"1536 YOSEMITE DR\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90041\"}"
+            }
+          }, {
+            "count" : 14,
+            "item" : {
+              "longitude" : "-118.38622203299997",
+              "latitude" : "34.184147204000055",
+              "human_address" : "{\"address\":\"6240 NORTH LANKERSHIM BLVD\",\"city\":\"NORTH HOLLYWOOD\",\"state\":\"CA\",\"zip\":\"91606\"}"
+            }
+          }, {
+            "count" : 13,
+            "item" : {
+              "longitude" : "-118.28235995999995",
+              "latitude" : "33.95876779500003",
+              "human_address" : "{\"address\":\"461 WEST 87TH STREET\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90003\"}"
+            }
+          }, {
+            "count" : 12,
+            "item" : {
+              "longitude" : "-118.41754566199995",
+              "latitude" : "33.99511191600004",
+              "human_address" : "{\"address\":\"11976 CULVER BLVD\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90066\"}"
+            }
+          }, {
+            "count" : 11,
+            "item" : {
+              "longitude" : "-118.29345988999995",
+              "latitude" : "34.031608138000024",
+              "human_address" : "{\"address\":\"1461 DANA STREET\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90007\"}"
+            }
+          }, {
+            "count" : 10,
+            "item" : {
+              "longitude" : "-118.44720424399998",
+              "latitude" : "34.24054218100002",
+              "human_address" : "{\"address\":\"9363 Sylmar Ave\",\"city\":\"Panorama City\",\"state\":\"CA\",\"zip\":\"91402\"}"
+            }
+          }, {
+            "count" : 9,
+            "item" : {
+              "longitude" : "-118.27248951399997",
+              "latitude" : "33.92369348900007",
+              "human_address" : "{\"address\":\"136 E 120th STREET\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90061\"}"
+            }
+          }, {
+            "count" : 8,
+            "item" : {
+              "longitude" : "-118.25994729899998",
+              "latitude" : "33.92375134900004",
+              "human_address" : "{\"address\":\"819 E 120TH STREET\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90061\"}"
+            }
+          }, {
+            "count" : 7,
+            "item" : {
+              "longitude" : "-118.27229938699998",
+              "latitude" : "33.92369348900007",
+              "human_address" : "{\"address\":\"140 E 120th STREET\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90061\"}"
+            }
+          }, {
+            "count" : 6,
+            "item" : {
+              "longitude" : "-118.27877981999995",
+              "latitude" : "33.92371307800005",
+              "human_address" : "{\"address\":\"312 W 120th STREET\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90061\"}"
+            }
+          }, {
+            "count" : 5,
+            "item" : {
+              "longitude" : "-118.33227680799996",
+              "latitude" : "33.98423091900003",
+              "human_address" : "{\"address\":\"6108 Victoria AVE\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90043\"}"
+            }
+          }, {
+            "count" : 4,
+            "item" : {
+              "longitude" : "-118.28816054599997",
+              "latitude" : "33.91758409100004",
+              "human_address" : "{\"address\":\"732 LACONIA STREET\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90044\"}"
+            }
+          }, {
+            "count" : 3,
+            "item" : {
+              "longitude" : "-118.27105261799994",
+              "latitude" : "33.772468023000044",
+              "human_address" : "{\"address\":\"303 MCDONALD\",\"city\":\"WILMINGTON\",\"state\":\"CA\",\"zip\":\"90744\"}"
+            }
+          }, {
+            "count" : 2,
+            "item" : {
+              "longitude" : "-118.39641166099995",
+              "latitude" : "34.23729735500007",
+              "human_address" : "{\"address\":\"12100 SHELDON STREET\",\"city\":\"SUN VALLEY\",\"state\":\"CA\",\"zip\":\"91352\"}"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "longitude" : "-118.25800550999998",
+              "latitude" : "34.06996365700007",
+              "human_address" : "{\"address\":\"666 LAVETTA TERRACE\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90025\"}"
+            }
+          } ]
+        },
+        "format" : {
+          "view" : "address_coords",
+          "align" : "left"
+        },
+        "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Committed Update Frequency" : {
+            "Refresh rate" : "Annual"
+          },
+          "Data Owner" : {
+            "Housing Authority" : "YES"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "jsonQuery" : {
+          "order" : [ {
+            "ascending" : false,
+            "columnFieldName" : "liph"
+          } ]
+        },
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "c4gd-54mz",
+        "displayName" : "HACLA",
+        "roleName" : "editor",
+        "screenName" : "HACLA",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+        "orderBys" : [ {
+          "ascending" : false,
+          "expression" : {
+            "columnId" : 186388886,
+            "type" : "column"
+          }
+        } ]
+      },
+      "rights" : [ "read" ],
+      "sortBys" : [ {
+        "id" : 0,
+        "viewColumnId" : 186388886
+      } ],
+      "tableAuthor" : {
+        "id" : "c4gd-54mz",
+        "displayName" : "HACLA",
+        "roleName" : "editor",
+        "screenName" : "HACLA",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "housing", "hacla", "housing authority", "public housing" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 101, "5C262C69-6168-4F32-8923-7972B9906719", 101, 1421348365, "904409", 1421348386, "904409", "{\n}", "UaFAM", "BELLA VISTA ", [ "{\"address\":\"12100 SHELDON STREET\",\"city\":\"SUN VALLEY\",\"state\":\"CA\",\"zip\":\"91352\"}", "34.23729735500007", "-118.39641166099995", null, false ] ]
+, [ 109, "9303ED71-4337-4941-8EA3-030BC8336B02", 109, 1421348365, "904409", 1421348386, "904409", "{\n}", "UaFAM", "SIMPSON VILLAS (CHFA)", [ "{\"address\":\"6927 SIMPSON AVE\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"91605\"}", "34.19665061400008", "-118.38897252999999", null, false ] ]
+, [ 93, "077294FC-4956-4DCB-9D44-C2D243AB750E", 93, 1421348365, "904409", 1421348386, "904409", "{\n}", "UaFAM", "SYLMAR AVE.", [ "{\"address\":\"9363 Sylmar Ave\",\"city\":\"Panorama City\",\"state\":\"CA\",\"zip\":\"91402\"}", "34.24054218100002", "-118.44720424399998", null, false ] ]
+, [ 108, "25372234-D548-45C7-8E36-4327F201E225", 108, 1421348365, "904409", 1421348386, "904409", "{\n}", "UaFAM", "JUANITA APTS. (CHFA)", [ "{\"address\":\"624 NORTH JUANITA AVE\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90004\"}", "34.08275101400005", "-118.29047663299997", null, false ] ]
+, [ 92, "92C90DB0-F327-41B5-8FC2-2F931AA50189", 92, 1421348365, "904409", 1421348386, "904409", "{\n}", "UaFAM", "DANA APARTMENTS", [ "{\"address\":\"1461 DANA STREET\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90007\"}", "34.031608138000024", "-118.29345988999995", null, false ] ]
+, [ 106, "8C5306CB-BA80-453C-B6A9-5027DEBEB6B2", 106, 1421348365, "904409", 1421348386, "904409", "{\n}", "UaFAM", "BROWNING APARTMENTS (CHFA)", [ "{\"address\":\"1104 BROWNING BLVD\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90037\"}", "34.01208272200006", "-118.29426994399995", null, false ] ]
+, [ 102, "C9944C92-28D2-48D3-8C98-79CF9B752004", 102, 1421348365, "904409", 1421348386, "904409", "{\n}", "UaFAM", "LAVETTA TERRACE ", [ "{\"address\":\"666 LAVETTA TERRACE\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90025\"}", "34.06996365700007", "-118.25800550999998", null, false ] ]
+, [ 107, "849121A2-1E56-48AE-9E53-002A325E8476", 107, 1421348365, "904409", 1421348386, "904409", "{\n}", "UaFAM", "CORONADO VILLAS (CHFA)", [ "{\"address\":\"1640 NORTH CORONADO ST\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90026\"}", "34.086558902000036", "-118.26371230099994", null, false ] ]
+, [ 94, "2BE50A17-7540-4E36-8F98-BE7D3CE81547", 94, 1421348365, "904409", 1421348386, "904409", "{\n}", "UaFAM", "120th. STREET", [ "{\"address\":\"136 E 120th STREET\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90061\"}", "33.92369348900007", "-118.27248951399997", null, false ] ]
+, [ 105, "027B77B5-9429-43C6-8ADD-B6DB9B59880F", 105, 1421348365, "904409", 1421348386, "904409", "{\n}", "UaFAM", "MANHATTAN GARDENS (CHFA)", [ "{\"address\":\"1424 S MANHATTAN PL\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90019\"}", "34.04560029600003", "-118.31012649499996", null, false ] ]
+, [ 95, "C49B504A-B96E-47AB-84A4-43E2D0C0C7BC", 95, 1421348365, "904409", 1421348386, "904409", "{\n}", "UaFAM", "120th. STREET", [ "{\"address\":\"819 E 120TH STREET\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90061\"}", "33.92375134900004", "-118.25994729899998", null, false ] ]
+, [ 97, "B9220FEE-F778-495B-B1E0-67CB3F3B6A2D", 97, 1421348365, "904409", 1421348386, "904409", "{\n}", "UaFAM", "120th. STREET", [ "{\"address\":\"312 W 120th STREET\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90061\"}", "33.92371307800005", "-118.27877981999995", null, false ] ]
+, [ 99, "A05CF5BB-74CF-4CF7-B66C-A8A59E65A0F2", 99, 1421348365, "904409", 1421348386, "904409", "{\n}", "UaFAM", "LACONIA", [ "{\"address\":\"732 LACONIA STREET\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90044\"}", "33.91758409100004", "-118.28816054599997", null, false ] ]
+, [ 96, "9FAA5E3F-9F72-439A-8E9E-2E661DADBDF8", 96, 1421348365, "904409", 1421348386, "904409", "{\n}", "UaFAM", "120th. STREET", [ "{\"address\":\"140 E 120th STREET\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90061\"}", "33.92369348900007", "-118.27229938699998", null, false ] ]
+, [ 104, "50F01278-9264-4FD0-B87B-764DB39C4B48", 104, 1421348365, "904409", 1421348386, "904409", "{\n}", "UaFAM", "JEFFERSON VILLAS (CHFA)", [ "{\"address\":\"1288 W JEFFERSON BLVD\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90007\"}", "34.025492978000045", "-118.29415932499995", null, false ] ]
+, [ 100, "9E762C5F-7CDD-469E-8E7A-C6FC8188B3E5", 100, 1421348365, "904409", 1421348386, "904409", "{\n}", "UaFAM", "MCDONALD", [ "{\"address\":\"303 MCDONALD\",\"city\":\"WILMINGTON\",\"state\":\"CA\",\"zip\":\"90744\"}", "33.772468023000044", "-118.27105261799994", null, false ] ]
+, [ 110, "9A98935E-4CA3-4488-A335-71726018AB84", 110, 1421348365, "904409", 1421348386, "904409", "{\n}", "UaFAM", "APPERSON APARTMENTS (CHFA)", [ "{\"address\":\"7418 APPERSON\",\"city\":\"TUJUNGA\",\"state\":\"CA\",\"zip\":\"91042\"}", "34.255933209000034", "-118.29420887399999", null, false ] ]
+, [ 98, "5B591674-7787-4A1A-B50E-7E7739CD805A", 98, 1421348365, "904409", 1421348386, "904409", "{\n}", "UaFAM", "Victoria AVE.", [ "{\"address\":\"6108 Victoria AVE\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90043\"}", "33.98423091900003", "-118.33227680799996", null, false ] ]
+, [ 103, "D4F73F01-AE5C-489F-8750-308F87816DDF", 103, 1421348365, "904409", 1421348386, "904409", "{\n}", "UaFAM", "HARBOR RIVERA", [ "{\"address\":\"222 S CABRILLO STREET\",\"city\":\"SAN PEDRO\",\"state\":\"CA\",\"zip\":\"90731\"}", "33.74174934300004", "-118.29450616199995", null, false ] ]
+, [ 90, "818E806E-95B7-4258-B4B3-50F0FBD0E369", 90, 1421348365, "904409", 1421348386, "904409", "{\n}", "SrPH", "87TH STREET", [ "{\"address\":\"461 WEST 87TH STREET\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90003\"}", "33.95876779500003", "-118.28235995999995", null, false ] ]
+, [ 91, "670673D8-5B96-4900-94B7-EB5BFEB148D8", 91, 1421348365, "904409", 1421348386, "904409", "{\n}", "SrPH", "DEL REY SQUARE", [ "{\"address\":\"11976 CULVER BLVD\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90066\"}", "33.99511191600004", "-118.41754566199995", null, false ] ]
+, [ 89, "7C9E5DF0-6DF4-4F40-9376-CE8B04C2E8E1", 89, 1421348365, "904409", 1421348386, "904409", "{\n}", "SrPH", "LANKERSHIM", [ "{\"address\":\"6240 NORTH LANKERSHIM BLVD\",\"city\":\"NORTH HOLLYWOOD\",\"state\":\"CA\",\"zip\":\"91606\"}", "34.184147204000055", "-118.38622203299997", null, false ] ]
+, [ 87, "954535B2-B41F-4D5B-8489-B03E4BBE44A4", 87, 1421348365, "904409", 1421348386, "904409", "{\n}", "SrPBS8", "SIMPSON-SATICOY", [ "{\"address\":\"7540 SIMPSON AVE\",\"city\":\"NORTH HOLLYWOOD\",\"state\":\"CA\",\"zip\":\"91605\"}", "34.20755004800003", "-118.38902668699996", null, false ] ]
+, [ 88, "FBAB2B8A-294A-45C3-9368-093C781CCCD2", 88, 1421348365, "904409", 1421348386, "904409", "{\n}", "SrPBS8", "ARTHUR SNYDER/YOSEMITE", [ "{\"address\":\"1536 YOSEMITE DR\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90041\"}", "34.13286259800003", "-118.19957081599995", null, false ] ]
+, [ 84, "D36F8A76-73FE-44F8-984E-0B389FD75837", 84, 1421348365, "904409", 1421348386, "904409", "{\n}", "SrPBS8", "CALIFORNIA APARTMENTS", [ "{\"address\":\"609 CALIFORNIA AVENUE\",\"city\":\"VENICE\",\"state\":\"CA\",\"zip\":\"90291\"}", "33.99159860900005", "-118.46544486499994", null, false ] ]
+, [ 86, "7D693063-25C7-4C36-BB82-F1B11396C77B", 86, 1421348365, "904409", 1421348386, "904409", "{\n}", "SrPBS8", "WESTSIDE MANOR", [ "{\"address\":\"1224 S NORTON\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90019\"}", "34.04856626900005", "-118.32335123299998", null, false ] ]
+, [ 85, "1C55E330-7C82-43C5-A9D5-8A60CD3D416B", 85, 1421348365, "904409", 1421348386, "904409", "{\n}", "SrPBS8", "GIBSON MANOR", [ "{\"address\":\"1501 E CENTURY BLVD\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90002\"}", "33.94571820300007", "-118.24749997799995", null, false ] ]
+, [ 83, "04749642-1609-4396-B3F9-F0CCB859DA8D", 83, 1421348365, "904409", 1421348386, "904409", "{\n}", "SrPBS8", "INDEPENDENT SQUARE", [ "{\"address\":\"2455 SOUTH ST ANDREWS PL\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90018\"}", "34.03286066800007", "-118.31133293399995", null, false ] ]
+, [ 79, "8B9C8830-A2F8-48DB-B305-12FD2A8FBB50", 79, 1421348365, "904409", 1421348386, "904409", "{\n}", "SrNCS8", "LAS PALMAS GARDENS", [ "{\"address\":\"1776 NORTH LAS PALMAS AVE\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90028\"}", "34.10413045100006", "-118.33609662199996", null, false ] ]
+, [ 77, "36977E39-224F-45E1-AC5F-0EF2D30FD329", 77, 1421348365, "904409", 1421348386, "904409", "{\n}", "SrNCS8", "UNION TOWER", [ "{\"address\":\"455 S UNION AVE\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90017\"}", "34.05894717600006", "-118.26887595799997", null, false ] ]
+, [ 82, "141C091D-0502-4C7C-B9DE-CA869653D98F", 82, 1421348365, "904409", 1421348386, "904409", "{\n}", "SrNCS8", "RESEDA MANOR ", [ "{\"address\":\"7725 RESEDA BLVD\",\"city\":\"RESEDA\",\"state\":\"CA\",\"zip\":\"91335\"}", "34.21110022800008", "-118.53609241499998", null, false ] ]
+, [ 78, "EAD29E3F-4375-494D-B0A3-86E2CD19187F", 78, 1421348365, "904409", 1421348386, "904409", "{\n}", "SrNCS8", "OWENSMOUTH GARDENS", [ "{\"address\":\"6300 OWENSMOUTH AVE\",\"city\":\"WOODLAND HILLS\",\"state\":\"CA\",\"zip\":\"91367\"}", "34.185011416000066", "-118.60147634199996", null, false ] ]
+, [ 81, "2041623B-E13D-49C7-B61D-AFD020DC1B46", 81, 1421348365, "904409", 1421348386, "904409", "{\n}", "SrNCS8", "RESEDA EAST ", [ "{\"address\":\"18450 INGOMAR ST\",\"city\":\"RESEDA\",\"state\":\"CA\",\"zip\":\"91335\"}", "34.211993247000066", "-118.53525931599995", null, false ] ]
+, [ 80, "A62BCA55-B778-4F62-A7BE-5B7A9A849786", 80, 1421348365, "904409", 1421348386, "904409", "{\n}", "SrNCS8", "CLEMSON/CORBETT", [ "{\"address\":\"5600 CLEMSON\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90016\"}", "34.023823322000055", "-118.36748016999996", null, false ] ]
+, [ 75, "D83768DE-7467-4510-9D9D-AB0B87DBF2D6", 75, 1421348365, "904409", 1421348386, "904409", "{\n}", "SrAFF", "REFLECTIONS @ WYANDOTTE", [ "{\"address\":\"19424 WYANDOTTE ST\",\"city\":\"RESEDA\",\"state\":\"CA\",\"zip\":\"91335\"}", "34.20289367700008", "-118.55681966099996", null, false ] ]
+, [ 73, "80B15EA7-85F7-4C58-B747-960C4824CD61", 73, 1421348365, "904409", 1421348386, "904409", "{\n}", "SrAFF", "REFLECTIONS @ GLENALBYN", [ "{\"address\":\"4122 GLENALBYN DR\",\"city\":\"MT WASHINGTON\",\"state\":\"CA\",\"zip\":\"90065\"}", "34.09512306400006", "-118.21190138299994", null, false ] ]
+, [ 74, "9F4566FA-4C83-404F-9656-D80B857AA568", 74, 1421348365, "904409", 1421348386, "904409", "{\n}", "SrAFF", "REFLECTIONS @ SEPULVEDA", [ "{\"address\":\"10050 SEPULVEDA BLVD\",\"city\":\"MISSION HILLS\",\"state\":\"CA\",\"zip\":\"91345\"}", "34.25314123000004", "-118.467316171", null, false ] ]
+, [ 71, "8978895C-6FFA-4DAE-BC07-720184B19A54", 71, 1421348365, "904409", 1421348386, "904409", "{\n}", "SrAFF", "REFLECTIONS @ BARBARA ANN", [ "{\"address\":\"13131 BARBARA\",\"city\":\"N HOLLYWOOD\",\"state\":\"CA\",\"zip\":\"91606\"}", "34.186731132000034", "-118.38680620899999", null, false ] ]
+, [ 76, "7C42682E-3D04-4EEA-A60B-BCFCEA2F4576", 76, 1421348365, "904409", 1421348386, "904409", "{\n}", "SrAFF", "REFLECTIONS @ YOSEMITE", [ "{\"address\":\"1560 YOSEMITE DR\",\"city\":\"EAGLE ROCK\",\"state\":\"CA\",\"zip\":\"90041\"}", "34.132883339000045", "-118.20025987999998", null, false ] ]
+, [ 72, "8C3537BE-3A7A-463F-A509-3E03C510AD97", 72, 1421348365, "904409", 1421348386, "904409", "{\n}", "SrAFF", "REFLECTIONS @ BRITTANIA", [ "{\"address\":\"1030 BRITTANIA ST\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90033\"}", "34.055736919000026", "-118.20918084599998", null, false ] ]
+, [ 64, "685C3828-00B8-4550-85EE-7C4EFA8373F5", 64, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"1714 E 111TH PL\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90059\"}", "33.933888403000026", "-118.24275823199997", null, false ] ]
+, [ 52, "0A288B63-FBFF-4E13-9359-6D4D285DD3F2", 52, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"4331 HONDURAS ST\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90011\"}", "34.004549104000034", "-118.24403276199996", null, false ] ]
+, [ 28, "11963657-0183-4E5A-B22E-B87E57EE9A4C", 28, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"1416 S CRENSHAW\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90019\"}", "34.046201489000055", "-118.32755353699997", null, false ] ]
+, [ 43, "14F61A8C-EF83-4F41-ACC9-ED7C10D0586F", 43, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"8325 PENFIELD AVE\",\"city\":\"CANOGA PARK\",\"state\":\"CA\",\"zip\":\"91306\"}", "34.221081293000054", "-118.56890248799999", null, false ] ]
+, [ 48, "2473A479-01AE-4DE3-9E17-942D8AF33854", 48, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"145 E 54TH ST\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90011\"}", "33.993368513000064", "-118.27227979799994", null, false ] ]
+, [ 41, "28A3CB12-9B65-487D-8A2A-70338183F632", 41, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"6923 SIMPSON AVE\",\"city\":\"N HOLLYWOOD\",\"state\":\"CA\",\"zip\":\"91605\"}", "34.19649044700003", "-118.38897252999999", null, false ] ]
+, [ 55, "309944E6-C06E-43B0-8A27-823B1772EC42", 55, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"1100 E 112TH ST\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90059\"}", "33.93277347000003", "-118.25647970999995", null, false ] ]
+, [ 34, "3BD18236-6298-4898-B880-95E324632251", 34, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"11218 EMELITA ST\",\"city\":\"N HOLLYWOOD\",\"state\":\"CA\",\"zip\":\"91601\"}", "34.17666313400008", "-118.37531914299996", null, false ] ]
+, [ 59, "4045FAF0-0793-4A6E-9C04-2E50DE56A0C2", 59, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"1539 E 57TH ST\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90011\"}", "33.991207985000074", "-118.24640876699999", null, false ] ]
+, [ 46, "4670B37B-FA84-42A7-BD22-3B5DCCF3680E", 46, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"6530 VINELAND AVE\",\"city\":\"N HOLLYWOOD\",\"state\":\"CA\",\"zip\":\"91606\"}", "34.189444329000025", "-118.37028803299995", null, false ] ]
+, [ 62, "4B7549F1-2FFE-4CF8-81CC-F751C9A23DC7", 62, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "AVALON SCATTERED", [ "{\"address\":\"339 E 107TH ST\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90003\"}", "33.93931843000007", "-118.26813964999997", null, false ] ]
+, [ 47, "4BD244D0-57D8-4A9F-9176-DBFEC95A91DB", 47, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"1158 E ADAMS BLVD\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90011\"}", "34.017894832000025", "-118.25310121999996", null, false ] ]
+, [ 38, "50742706-CD1F-4E49-95A6-2E5AEE15B840", 38, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"11818 VANOWEN AVE\",\"city\":\"N HOLLYWOOD\",\"state\":\"CA\",\"zip\":\"91605\"}", "34.19391279300004", "-118.39055922199998", null, false ] ]
+, [ 32, "5B7F1C15-8B10-47F4-9881-2FAAA22F04D5", 32, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"14311 HAYNES ST\",\"city\":\"VAN NUYS\",\"state\":\"CA\",\"zip\":\"91401\"}", "34.18970811600008", "-118.44485934999994", null, false ] ]
+, [ 49, "6D4DFEAC-06E0-437F-9FC8-6400E0715D7B", 49, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"1059 E 48TH ST\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90011\"}", "34.00031241800008", "-118.25698589099994", null, false ] ]
+, [ 36, "6E247288-F8BC-4E9D-810D-25C4F2025EF3", 36, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"5737 KLUMP AVE\",\"city\":\"N HOLLYWOOD\",\"state\":\"CA\",\"zip\":\"91601\"}", "34.17515018800003", "-118.37526268099998", null, false ] ]
+, [ 33, "71044CBE-12C5-49DD-B313-10C475770A50", 33, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"6114 HAZELHURST PL\",\"city\":\"N HOLLYWOOD\",\"state\":\"CA\",\"zip\":\"91606\"}", "34.18159720500006", "-118.38686270199997", null, false ] ]
+, [ 37, "7148AB77-BF80-4E1E-88C9-7AEB7374CF9C", 37, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"6900 MORELLA AVE\",\"city\":\"N HOLLYWOOD\",\"state\":\"CA\",\"zip\":\"91605\"}", "34.19590052600006", "-118.38998387599997", null, false ] ]
+, [ 70, "73EA703B-4119-425A-8A53-2E79106F02CE", 70, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"744 N TULAROSA DR\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90023\"}", "34.08211768500007", "-118.28059609699994", null, false ] ]
+, [ 61, "977338CB-7D44-477D-A3A6-C7FF21BB081D", 61, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"354 E 105TH ST\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90003\"}", "33.94099269600002", "-118.26760959999996", null, false ] ]
+, [ 67, "9790BA76-72D9-40EC-A556-3227B2016BFA", 67, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"563 W 92ND ST\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90044\"}", "33.95283815300007", "-118.284459417", null, false ] ]
+, [ 40, "9F3EE772-48DA-4695-9A5E-5B6F564C1C82", 40, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"11737 HART ST\",\"city\":\"N HOLLYWOOD\",\"state\":\"CA\",\"zip\":\"91605\"}", "34.19756783100007", "-118.38900940299999", null, false ] ]
+, [ 51, "A7F65E9F-809B-4318-91BB-E1C385B68E03", 51, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"685 E 43RD ST\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90011\"}", "34.00571751800004", "-118.26359965899996", null, false ] ]
+, [ 54, "AEC237D9-2CC0-4A4C-91DD-580832196660", 54, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"210 W 91ST ST\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90003\"}", "33.953693146000035", "-118.27638883499998", null, false ] ]
+, [ 35, "AEFE3A2F-140B-41AD-A4D2-7C73B870E8CD", 35, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"11442 EMELITA ST\",\"city\":\"N HOLLYWOOD\",\"state\":\"CA\",\"zip\":\"91601\"}", "34.17665276300005", "-118.38047906099996", null, false ] ]
+, [ 42, "AF432C07-0C5E-404A-B67E-E0BDFB2D3D08", 42, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"11913 RUNNYMEDE\",\"city\":\"N HOLLYWOOD\",\"state\":\"CA\",\"zip\":\"91605\"}", "34.20574787900006", "-118.39277966899999", null, false ] ]
+, [ 56, "B78CC5C9-602E-4093-81EA-8D6E3AE2B448", 56, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"1613 E 41ST PL\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90011\"}", "34.007418286000075", "-118.24514586599997", null, false ] ]
+, [ 57, "BD14B95D-1C97-4225-8A0C-BF163BB53C4F", 57, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"110 E 94TH ST\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90011\"}", "33.95104730200006", "-118.27323787899996", null, false ] ]
+, [ 30, "C66F7718-A7DD-42B1-90D5-1DC30E646FC8", 30, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"14753 DELANO ST\",\"city\":\"VAN NUYS\",\"state\":\"CA\",\"zip\":\"91411\"}", "34.18266767500006", "-118.45490955199995", null, false ] ]
+, [ 53, "C8742855-FDAC-4139-90AB-9E03916BE60D", 53, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"3206 NAOMI AVE\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90011\"}", "34.014148764000026", "-118.25408642099995", null, false ] ]
+, [ 29, "C8A16341-D9CF-4F9F-BC9F-BF69561ABA4D", 29, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"2927 PARTRIDGE\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90039\"}", "34.105381829000066", "-118.24624168599996", null, false ] ]
+, [ 65, "CF4E4B0F-7817-489F-8EBC-F051E99E50B3", 65, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"1330 W 57TH ST\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90037\"}", "33.990913001000024", "-118.29905997999998", null, false ] ]
+, [ 66, "D1D88A68-BC05-47B8-9271-1EC502A85AEA", 66, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"2326 RIDGELEY ST\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90016\"}", "34.028881427000044", "-118.35308896599997", null, false ] ]
+, [ 60, "D2B974D6-E449-4B82-BF89-D2DE517A4CA4", 60, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"216 E 87TH PL\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90003\"}", "33.958032639000066", "-118.27098924299997", null, false ] ]
+, [ 45, "D7724A3C-617D-48C2-AA3B-6C345734F20D", 45, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"6615 LEMP AVE\",\"city\":\"N HOLLYWOOD\",\"state\":\"CA\",\"zip\":\"91606\"}", "34.19086039800004", "-118.38454315899997", null, false ] ]
+, [ 31, "D88D95E6-FCC2-4992-B4C3-25E027119746", 31, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"14743 FRIAR ST\",\"city\":\"VAN NUYS\",\"state\":\"CA\",\"zip\":\"91411\"}", "34.18569817600007", "-118.45457999999996", null, false ] ]
+, [ 63, "E1902846-4579-40A4-B569-E3DEC5145C13", 63, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"1565 E 43RD ST\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90011\"}", "34.005697929000064", "-118.24586604199999", null, false ] ]
+, [ 58, "E41E7B1F-3FEB-4621-AD92-B87A72D00B2B", 58, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"245 W 102ND ST\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90003\"}", "33.94379850200005", "-118.27006972199996", null, false ] ]
+, [ 69, "F581E425-463E-4A62-9BE7-E6DF11487661", 69, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"3910 MONTCLAIR ST\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90018\"}", "34.02972415700003", "-118.32861946499997", null, false ] ]
+, [ 39, "F657D32F-6D8D-400C-B3C6-0BDE6EE13E3A", 39, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"11736 HART ST\",\"city\":\"N HOLLYWOOD\",\"state\":\"CA\",\"zip\":\"91605\"}", "34.19751657900008", "-118.38877052499998", null, false ] ]
+, [ 44, "F83EAC20-CA04-4EF3-8F3D-7CBB27F21C8C", 44, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"14145 CALVERT St\",\"city\":\"VAN NUYS\",\"state\":\"CA\",\"zip\":\"91401\"}", "34.18167786400005", "-118.44150966699999", null, false ] ]
+, [ 68, "FC29C1B1-EE58-4AE2-B9EC-C20BBC88436B", 68, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"205 OPP ST\",\"city\":\"WILMINGTON\",\"state\":\"CA\",\"zip\":\"90744\"}", "33.78303790500007", "-118.26085031499997", null, false ] ]
+, [ 50, "FD8E4478-97B1-4F92-9BC1-DC5F6AF8A88F", 50, 1421348365, "904409", 1421348386, "904409", "{\n}", "ScaSite", "Former PH", [ "{\"address\":\"215 E 93RD ST\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90003\"}", "33.951948591000075", "-118.27112982099999", null, false ] ]
+, [ 24, "239E8F58-08B1-47A4-A599-CF3D2DC091E0", 24, 1421348365, "904409", 1421348386, "904409", "{\n}", "PrivPH", "PUEBLO DEL SOL PHASE I ", [ "{\"address\":\"1400 GABRIEL GARCIA MARQUEZ STREET\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90033\"}", "34.050423747000025", "-118.22502702599996", null, false ] ]
+, [ 26, "56AF67FD-5BD7-4221-9AB1-ED2ABBD79469", 26, 1421348365, "904409", 1421348386, "904409", "{\n}", "PrivPH", "HARBOR VIEW", [ "{\"address\":\"326 KING AVENUE\",\"city\":\"WILMINGTON\",\"state\":\"CA\",\"zip\":\"90744\"}", "33.773132890000056", "-118.27486667099998", null, false ] ]
+, [ 27, "07F160EF-73D4-41F4-ACFB-D0A9A4518F11", 27, 1421348365, "904409", 1421348386, "904409", "{\n}", "PrivPH", "WILMINGTON TOWNHOMES", [ "{\"address\":\"450 KING AVENUE\",\"city\":\"WILMINGTON\",\"state\":\"CA\",\"zip\":\"90745\"}", "33.77421782700003", "-118.27494618399999", null, false ] ]
+, [ 25, "EFEEB767-0FE0-4EF1-BCD6-55DFB998684F", 25, 1421348365, "904409", 1421348386, "904409", "{\n}", "PrivPH", "PUEBLO DEL SOL PHASE II", [ "{\"address\":\"1400 GABRIEL GARCIA MARQUEZ STREET\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90033\"}", "34.050423747000025", "-118.22502702599996", null, false ] ]
+, [ 17, "254375FA-EACE-4399-B45E-E651290EAE06", 17, 1421348365, "904409", 1421348386, "904409", "{\n}", "MKMFH", "PARK VIEW EAST", [ "{\"address\":\"528 S PARK VIEW ST\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90057\"}", "34.06198343900007", "-118.27726341699997", null, false ] ]
+, [ 21, "704A6AB2-E115-4E58-BDA3-CC43D0ED7C4B", 21, 1421348365, "904409", 1421348386, "904409", "{\n}", "MKMFH", "HUNTINGTON RIDGE APTS.", [ "{\"address\":\"5161 HUNGTINGTON DR N\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90032\"}", "34.081512479000025", "-118.17678602299998", null, false ] ]
+, [ 19, "EB630616-67DB-4D95-9C0D-3C972AAA4A92", 19, 1421348365, "904409", 1421348386, "904409", "{\n}", "MKMFH", "LEEWARD PLACE APTS.", [ "{\"address\":\"3056 LEEWARD AVE\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90005\"}", "34.058683304000056", "-118.29066906399999", null, false ] ]
+, [ 18, "9A1A38CF-2F46-475F-A553-11C4CA110466", 18, 1421348365, "904409", 1421348386, "904409", "{\n}", "MKMFH", "PARK VIEW WEST", [ "{\"address\":\"531 S PARK VIEW ST\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90057\"}", "34.061867058000075", "-118.27741551799994", null, false ] ]
+, [ 20, "4E1CF549-782F-46B8-8A44-AB139A1DA053", 20, 1421348365, "904409", 1421348386, "904409", "{\n}", "MKMFH", "SAN MARINO APARTMENTS", [ "{\"address\":\"2780 SAN\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90005\"}", "34.05907052600003", "-118.30301712299996", null, false ] ]
+, [ 16, "04892FF4-20D1-435E-A15D-BBDFB2E8C610", 16, 1421348365, "904409", 1421348386, "904409", "{\n}", "MKMFH", "PARTHENIA", [ "{\"address\":\"15520 PARTHENIA ST\",\"city\":\"SEPULVEDA\",\"state\":\"CA\",\"zip\":\"91343\"}", "34.228263466000044", "-118.47063935099999", null, false ] ]
+, [ 15, "F8DE0BC3-40FD-4EE2-A528-B12A98EA3440", 15, 1421348365, "904409", 1421348386, "904409", "{\n}", "MKMFH", "CLEMSON MARKET", [ "{\"address\":\"5736 CLEMSON AVE\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90016\"}", "34.024062996000055", "-118.37036202599995", null, false ] ]
+, [ 23, "B07EED16-5D90-46A5-9285-B8182376984A", 23, 1421348365, "904409", 1421348386, "904409", "{\n}", "MKMFH", "GIBRALTAR APARTMENTS", [ "{\"address\":\"3907 GIBRALTAR AVE\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90008\"}", "34.016629626000054", "-118.35481198299999", null, false ] ]
+, [ 22, "4799BADA-8DF6-455C-8C28-487FBDB55A11", 22, 1421348365, "904409", 1421348386, "904409", "{\n}", "MKMFH", "CRESCENT COURT", [ "{\"address\":\"1412 W 12TH ST\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90015\"}", "34.045335271000056", "-118.27414073299997", null, false ] ]
+, [ 5, "6F796CE1-26E7-4C81-A71C-6A511003B2BA", 5, 1421348365, "904409", 1421348386, "904409", "{\n}", "LIPH", "ESTRADA COURTS & EXTENSION", [ "{\"address\":\"3232 ESTRADA ST\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90023\"}", "34.02195547300005", "-118.20801243199998", null, false ] ]
+, [ 14, "7902B8B6-64A7-4B96-B195-38174C3EA72F", 14, 1421348365, "904409", 1421348386, "904409", "{\n}", "LIPH", "PICO REBUILT & LAS CASITAS", [ "{\"address\":\"1526 E 4TH ST\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90033\"}", "34.04286362600004", "-118.22298287799998", null, false ] ]
+, [ 2, "53BFF811-EF09-4A2C-A58C-FC9D185C10CA", 2, 1421348365, "904409", 1421348386, "904409", "{\n}", "LIPH", "PUEBLO DEL RIO & EXTENSION", [ "{\"address\":\"1801 E 53RD ST\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90058\"}", "33.994665750000024", "-118.24102914599996", null, false ] ]
+, [ 13, "4F877A48-08BC-4190-A9DA-F53450B4E999", 13, 1421348365, "904409", 1421348386, "904409", "{\n}", "LIPH", "SAN FERNANDO GARDENS", [ "{\"address\":\"10995 LEHIGH AVE\",\"city\":\"PACOIMA\",\"state\":\"CA\",\"zip\":\"91331\"}", "34.26922938900003", "-118.41689001399999", null, false ] ]
+, [ 7, "41530BE4-CFB7-44D8-BC36-99475508E699", 7, 1421348365, "904409", 1421348386, "904409", "{\n}", "LIPH", "AVALON GARDENS", [ "{\"address\":\"701 E 88TH PL\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90002\"}", "33.95650817000006", "-118.26193000299997", null, false ] ]
+, [ 1, "A22FE226-5DD6-47DB-9220-041B6ADA1911", 1, 1421348365, "904409", 1421348386, "904409", "{\n}", "LIPH", "RAMONA GARDENS", [ "{\"address\":\"2830 LANCASTER\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90033\"}", "34.05746684600007", "-118.19390349799994", null, false ] ]
+, [ 12, "4C91135C-E1EF-486B-90A0-47548D0BC1C3", 12, 1421348365, "904409", 1421348386, "904409", "{\n}", "LIPH", "MAR VISTA GARDENS", [ "{\"address\":\"11965 ALLIN ST\",\"city\":\"CULVER CITY\",\"state\":\"CA\",\"zip\":\"90230\"}", "33.99168272500003", "-118.41293768699995", null, false ] ]
+, [ 9, "013EFCB0-B82C-48EA-84BD-602681E3571A", 9, 1421348365, "904409", 1421348386, "904409", "{\n}", "LIPH", "NICKERSON GARDENS", [ "{\"address\":\"1590 114TH ST\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90059\"}", "33.931087181000066", "-118.24652602499998", null, false ] ]
+, [ 8, "616C43F0-F90F-4EE1-8B79-0DCFD8BFAD12", 8, 1421348365, "904409", 1421348386, "904409", "{\n}", "LIPH", "GONZAQUE  VILLAGE", [ "{\"address\":\"1515 EAST 105TH ST\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90002\"}", "33.94059127000003", "-118.24749550499996", null, false ] ]
+, [ 3, "2BBD0BEC-7024-4C5F-AEBE-EC59A6573AA3", 3, 1421348365, "904409", 1421348386, "904409", "{\n}", "LIPH", "RANCHO SAN PEDRO & EXTENSION", [ "{\"address\":\"275 WEST FIRST ST\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90731\"}", "33.74327698400003", "-118.28301723599998", null, false ] ]
+, [ 10, "20C32D9C-58D0-46D6-8B6C-70236DF949C8", 10, 1421348365, "904409", 1421348386, "904409", "{\n}", "LIPH", "JORDAN DOWNS & OTHERS", [ "{\"address\":\"9800 GRAPE ST\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90002\"}", "33.94711131200006", "-118.23674688399996", null, false ] ]
+, [ 6, "ADEC1E70-0625-4549-AAC8-3E43F14C3F16", 6, 1421348365, "904409", 1421348386, "904409", "{\n}", "LIPH", "ROSE HILL COURTS", [ "{\"address\":\"4466 FLORIZEL ST\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90032\"}", "34.08707322300006", "-118.19175949699996", null, false ] ]
+, [ 11, "59FA5AB6-9383-469B-8FCA-0FAFDECC0713", 11, 1421348365, "904409", 1421348386, "904409", "{\n}", "LIPH", "IMPERIAL COURTS", [ "{\"address\":\"11541 CROESUS AVE\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90059\"}", "33.929582485000026", "-118.233580615", null, false ] ]
+, [ 4, "9BFC28E6-D307-4481-8068-206B3DEDD968", 4, 1421348365, "904409", 1421348386, "904409", "{\n}", "LIPH", "WILLIAM MEAD HOMES", [ "{\"address\":\"1300 NORTH CARDINAL\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"90012\"}", "34.05948330100006", "-118.24204800499996", null, false ] ]
+ ]
+}

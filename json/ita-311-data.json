@@ -7,7 +7,7 @@
       "createdAt" : 1401485582,
       "description" : "This data shows the source of 311 requests and the wait time to speak to an agent when dialing 311.",
       "displayType" : "table",
-      "downloadCount" : 12,
+      "downloadCount" : 20,
       "indexUpdatedAt" : 1414617007,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -20,7 +20,7 @@
       "rowsUpdatedBy" : "tyhz-nfmm",
       "tableId" : 1600562,
       "totalTimesRated" : 0,
-      "viewCount" : 101,
+      "viewCount" : 129,
       "viewLastModified" : 1402586427,
       "viewType" : "tabular",
       "columns" : [ {

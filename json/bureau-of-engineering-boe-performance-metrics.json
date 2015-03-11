@@ -1,0 +1,1030 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "qscb-w9cg",
+      "name" : "Bureau of Engineering (BOE) - Performance Metrics",
+      "attribution" : "Bureau of Engineering",
+      "averageRating" : 0,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1406761541,
+      "description" : "This dataset contains metrics that measure the operational performance of the Bureau of Engineering. These metrics are used on a regular basis by the department and the Mayor to evaluate progress and inform decision making. Performance management forms the foundation of a data-driven culture of innovation and excellence in the City of Los Angeles.",
+      "displayType" : "table",
+      "downloadCount" : 22,
+      "indexUpdatedAt" : 1420598445,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 9846265,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1420598412,
+      "publicationGroup" : 1666461,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1420598407,
+      "rowsUpdatedBy" : "u8tq-3dir",
+      "tableId" : 2072884,
+      "totalTimesRated" : 0,
+      "viewCount" : 107,
+      "viewLastModified" : 1420598412,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 183347582,
+        "name" : "Date Value",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date_value",
+        "position" : 1,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 21098582,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 30,
+          "smallest" : "1997-06-30T00:00:00",
+          "null" : 0,
+          "largest" : "2015-06-30T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1997-06-30T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2000-06-30T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2010-06-30T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2011-06-30T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2012-06-30T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2013-06-30T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2013-07-31T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2013-08-31T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2013-09-30T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2013-10-31T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2013-11-30T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2013-12-31T00:00:00"
+          }, {
+            "count" : 8,
+            "item" : "2014-01-31T00:00:00"
+          }, {
+            "count" : 7,
+            "item" : "2014-02-28T00:00:00"
+          }, {
+            "count" : 6,
+            "item" : "2014-03-31T00:00:00"
+          }, {
+            "count" : 5,
+            "item" : "2014-04-30T00:00:00"
+          }, {
+            "count" : 4,
+            "item" : "2014-05-31T00:00:00"
+          }, {
+            "count" : 3,
+            "item" : "2014-06-30T00:00:00"
+          }, {
+            "count" : 2,
+            "item" : "2014-07-31T00:00:00"
+          }, {
+            "count" : 1,
+            "item" : "2014-08-31T00:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 183347583,
+        "name" : "Month-Year",
+        "dataTypeName" : "text",
+        "fieldName" : "month_year",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21098583,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 30,
+          "smallest" : "Apr-14",
+          "null" : 0,
+          "largest" : "Sep-14",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Jun-97"
+          }, {
+            "count" : 19,
+            "item" : "Jun-00"
+          }, {
+            "count" : 18,
+            "item" : "Jun-10"
+          }, {
+            "count" : 17,
+            "item" : "Jun-11"
+          }, {
+            "count" : 16,
+            "item" : "Jun-12"
+          }, {
+            "count" : 15,
+            "item" : "Jun-13"
+          }, {
+            "count" : 14,
+            "item" : "Jul-13"
+          }, {
+            "count" : 13,
+            "item" : "Aug-13"
+          }, {
+            "count" : 12,
+            "item" : "Sep-13"
+          }, {
+            "count" : 11,
+            "item" : "Oct-13"
+          }, {
+            "count" : 10,
+            "item" : "Nov-13"
+          }, {
+            "count" : 9,
+            "item" : "Dec-13"
+          }, {
+            "count" : 8,
+            "item" : "Jan-14"
+          }, {
+            "count" : 7,
+            "item" : "Feb-14"
+          }, {
+            "count" : 6,
+            "item" : "Mar-14"
+          }, {
+            "count" : 5,
+            "item" : "Apr-14"
+          }, {
+            "count" : 4,
+            "item" : "May-14"
+          }, {
+            "count" : 3,
+            "item" : "Jun-14"
+          }, {
+            "count" : 2,
+            "item" : "Jul-14"
+          }, {
+            "count" : 1,
+            "item" : "Aug-14"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 183347584,
+        "name" : "Quarter-FY",
+        "dataTypeName" : "text",
+        "fieldName" : "quarter_fy",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21098584,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 14,
+          "smallest" : "Q1 FY14",
+          "null" : 16,
+          "largest" : "Q4 FY97",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Q4 FY97"
+          }, {
+            "count" : 19,
+            "item" : "Q4 FY00"
+          }, {
+            "count" : 18,
+            "item" : "Q4 FY10"
+          }, {
+            "count" : 17,
+            "item" : "Q4 FY11"
+          }, {
+            "count" : 16,
+            "item" : "Q4 FY12"
+          }, {
+            "count" : 15,
+            "item" : "Q4 FY13"
+          }, {
+            "count" : 14,
+            "item" : "Q1 FY14"
+          }, {
+            "count" : 13,
+            "item" : "Q2 FY14"
+          }, {
+            "count" : 12,
+            "item" : "Q3 FY14"
+          }, {
+            "count" : 11,
+            "item" : "Q4 FY14"
+          }, {
+            "count" : 10,
+            "item" : "Q1 FY15"
+          }, {
+            "count" : 9,
+            "item" : "Q2 FY15"
+          }, {
+            "count" : 8,
+            "item" : "Q3 FY15"
+          }, {
+            "count" : 7,
+            "item" : "Q4 FY15"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 183347585,
+        "name" : "Annual-FY",
+        "dataTypeName" : "text",
+        "fieldName" : "annual_fy",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21098585,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "FY 1997",
+          "null" : 22,
+          "largest" : "FY 2015",
+          "top" : [ {
+            "count" : 20,
+            "item" : "FY 1997"
+          }, {
+            "count" : 19,
+            "item" : "FY 2000"
+          }, {
+            "count" : 18,
+            "item" : "FY 2010"
+          }, {
+            "count" : 17,
+            "item" : "FY 2011"
+          }, {
+            "count" : 16,
+            "item" : "FY 2012"
+          }, {
+            "count" : 15,
+            "item" : "FY 2013"
+          }, {
+            "count" : 14,
+            "item" : "FY 2014"
+          }, {
+            "count" : 13,
+            "item" : "FY 2015"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 183347586,
+        "name" : "# of completed clean water capital projects (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "of_completed_clean_water_capital_projects_annual_fy",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21098586,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 11,
+          "smallest" : "14",
+          "sum" : "476",
+          "null" : 19,
+          "average" : "43.27272727272727",
+          "largest" : "77",
+          "top" : [ {
+            "count" : 20,
+            "item" : "61"
+          }, {
+            "count" : 19,
+            "item" : "65"
+          }, {
+            "count" : 18,
+            "item" : "51"
+          }, {
+            "count" : 17,
+            "item" : "58"
+          }, {
+            "count" : 16,
+            "item" : "77"
+          }, {
+            "count" : 15,
+            "item" : "14"
+          }, {
+            "count" : 14,
+            "item" : "20"
+          }, {
+            "count" : 13,
+            "item" : "27"
+          }, {
+            "count" : 12,
+            "item" : "32"
+          }, {
+            "count" : 11,
+            "item" : "34"
+          }, {
+            "count" : 10,
+            "item" : "37"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "false"
+        }
+      }, {
+        "id" : 183347587,
+        "name" : "PROJECTED: # of completed clean water capital projects (Monthly)",
+        "dataTypeName" : "number",
+        "fieldName" : "projected_of_completed_clean_water_capital_projects_annual_fy",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21098587,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 13,
+          "smallest" : "11",
+          "sum" : "407",
+          "null" : 17,
+          "average" : "31.30769230769231",
+          "largest" : "55",
+          "top" : [ {
+            "count" : 20,
+            "item" : "34"
+          }, {
+            "count" : 19,
+            "item" : "11"
+          }, {
+            "count" : 18,
+            "item" : "15"
+          }, {
+            "count" : 17,
+            "item" : "18"
+          }, {
+            "count" : 16,
+            "item" : "21"
+          }, {
+            "count" : 15,
+            "item" : "27"
+          }, {
+            "count" : 14,
+            "item" : "31"
+          }, {
+            "count" : 13,
+            "item" : "38"
+          }, {
+            "count" : 12,
+            "item" : "41"
+          }, {
+            "count" : 11,
+            "item" : "48"
+          }, {
+            "count" : 10,
+            "item" : "53"
+          }, {
+            "count" : 9,
+            "item" : "55"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      }, {
+        "id" : 183347588,
+        "name" : "% of A- Permits in under 60 minutes (Annual FY)",
+        "dataTypeName" : "percent",
+        "fieldName" : "of_a_permits_in_under_60_minutes_annual_fy",
+        "position" : 7,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21098588,
+        "width" : 664,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "97",
+          "sum" : "487",
+          "null" : 25,
+          "average" : "97.4",
+          "largest" : "98",
+          "top" : [ {
+            "count" : 20,
+            "item" : "97"
+          }, {
+            "count" : 19,
+            "item" : "98"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 183347589,
+        "name" : "PROJECTED: % of A- Permits in under 60 minutes (Annual FY)",
+        "dataTypeName" : "percent",
+        "fieldName" : "projected_of_a_permits_in_under_60_minutes_annual_fy",
+        "position" : 8,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21098589,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "90",
+          "sum" : "188",
+          "null" : 28,
+          "average" : "94",
+          "largest" : "98",
+          "top" : [ {
+            "count" : 20,
+            "item" : "98"
+          }, {
+            "count" : 19,
+            "item" : "90"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 183347590,
+        "name" : "% of A- Permits in under 60 minutes (Monthly)",
+        "dataTypeName" : "percent",
+        "fieldName" : "of_a_permits_in_under_60_minutes_monthly",
+        "position" : 9,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21098590,
+        "width" : 640,
+        "cachedContents" : {
+          "non_null" : 18,
+          "smallest" : "95",
+          "sum" : "1755",
+          "null" : 12,
+          "average" : "97.5",
+          "largest" : "99",
+          "top" : [ {
+            "count" : 20,
+            "item" : "97"
+          }, {
+            "count" : 19,
+            "item" : "96"
+          }, {
+            "count" : 18,
+            "item" : "98"
+          }, {
+            "count" : 17,
+            "item" : "99"
+          }, {
+            "count" : 16,
+            "item" : "95"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 183347591,
+        "name" : "PROJECTED: % of A- Permits in under 60 minutes (Monthly)",
+        "dataTypeName" : "percent",
+        "fieldName" : "projected_of_a_permits_in_under_60_minutes_monthly",
+        "position" : 10,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21098591,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 18,
+          "smallest" : "90",
+          "sum" : "1620",
+          "null" : 12,
+          "average" : "90",
+          "largest" : "90",
+          "top" : [ {
+            "count" : 20,
+            "item" : "90"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 183347592,
+        "name" : "% S-permits issued within 60 minutes (Annually FY)",
+        "dataTypeName" : "percent",
+        "fieldName" : "s_permits_issued_within_60_minutes_annually_fy",
+        "position" : 11,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21098592,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 5,
+          "smallest" : "91",
+          "sum" : "468",
+          "null" : 25,
+          "average" : "93.6",
+          "largest" : "95",
+          "top" : [ {
+            "count" : 20,
+            "item" : "95"
+          }, {
+            "count" : 19,
+            "item" : "92"
+          }, {
+            "count" : 18,
+            "item" : "91"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 183347593,
+        "name" : "PROJECTED: % S-permits issued within 60 minutes (Annually)",
+        "dataTypeName" : "percent",
+        "fieldName" : "projected_s_permits_issued_within_60_minutes_annually",
+        "position" : 12,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 21098593,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 2,
+          "smallest" : "90",
+          "sum" : "185",
+          "null" : 28,
+          "average" : "92.5",
+          "largest" : "95",
+          "top" : [ {
+            "count" : 20,
+            "item" : "95"
+          }, {
+            "count" : 19,
+            "item" : "90"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 183347594,
+        "name" : "% S-permits issued within 60 minutes (Monthly)",
+        "dataTypeName" : "percent",
+        "fieldName" : "s_permits_issued_within_60_minutes_monthly",
+        "position" : 13,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 22112132,
+        "width" : 284,
+        "cachedContents" : {
+          "non_null" : 6,
+          "smallest" : "90",
+          "sum" : "561",
+          "null" : 24,
+          "average" : "93.5",
+          "largest" : "98",
+          "top" : [ {
+            "count" : 20,
+            "item" : "90"
+          }, {
+            "count" : 19,
+            "item" : "97"
+          }, {
+            "count" : 18,
+            "item" : "93"
+          }, {
+            "count" : 17,
+            "item" : "98"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 183347595,
+        "name" : "PROJECTED: % S-permits issued within 60 minutes (Monthly)",
+        "dataTypeName" : "percent",
+        "fieldName" : "projected_s_permits_issued_within_60_minutes_monthly",
+        "position" : 14,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 22112173,
+        "width" : 357,
+        "cachedContents" : {
+          "non_null" : 1,
+          "smallest" : "90",
+          "sum" : "90",
+          "null" : 29,
+          "average" : "90",
+          "largest" : "90",
+          "top" : [ {
+            "count" : 20,
+            "item" : "90"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 183347596,
+        "name" : "# of completed mobility capital projects (Annually FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "of_completed_mobility_capital_projects_annually_fy",
+        "position" : 15,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21098594,
+        "width" : 423,
+        "cachedContents" : {
+          "non_null" : 11,
+          "smallest" : "4",
+          "sum" : "156",
+          "null" : 19,
+          "average" : "14.18181818181818",
+          "largest" : "21",
+          "top" : [ {
+            "count" : 20,
+            "item" : "16"
+          }, {
+            "count" : 19,
+            "item" : "10"
+          }, {
+            "count" : 18,
+            "item" : "18"
+          }, {
+            "count" : 17,
+            "item" : "21"
+          }, {
+            "count" : 16,
+            "item" : "17"
+          }, {
+            "count" : 15,
+            "item" : "4"
+          }, {
+            "count" : 14,
+            "item" : "9"
+          }, {
+            "count" : 13,
+            "item" : "14"
+          }, {
+            "count" : 12,
+            "item" : "15"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 183347597,
+        "name" : "PROJECTED: # of completed mobility capital projects (Annually FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "projected_of_completed_mobility_capital_projects_annually_fy",
+        "position" : 16,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21098595,
+        "width" : 488,
+        "cachedContents" : {
+          "non_null" : 13,
+          "smallest" : "4",
+          "sum" : "183",
+          "null" : 17,
+          "average" : "14.07692307692308",
+          "largest" : "20",
+          "top" : [ {
+            "count" : 20,
+            "item" : "9"
+          }, {
+            "count" : 19,
+            "item" : "4"
+          }, {
+            "count" : 18,
+            "item" : "8"
+          }, {
+            "count" : 17,
+            "item" : "11"
+          }, {
+            "count" : 16,
+            "item" : "14"
+          }, {
+            "count" : 15,
+            "item" : "15"
+          }, {
+            "count" : 14,
+            "item" : "16"
+          }, {
+            "count" : 13,
+            "item" : "17"
+          }, {
+            "count" : 12,
+            "item" : "19"
+          }, {
+            "count" : 11,
+            "item" : "20"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 183347598,
+        "name" : "# of completed public building and open spaces capital projects (Annually FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "of_completed_building_and_open_spaces_capital_projects_annually_fy",
+        "position" : 17,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21098596,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 11,
+          "smallest" : "2",
+          "sum" : "223",
+          "null" : 19,
+          "average" : "20.27272727272727",
+          "largest" : "47",
+          "top" : [ {
+            "count" : 20,
+            "item" : "47"
+          }, {
+            "count" : 19,
+            "item" : "43"
+          }, {
+            "count" : 18,
+            "item" : "23"
+          }, {
+            "count" : 17,
+            "item" : "37"
+          }, {
+            "count" : 16,
+            "item" : "30"
+          }, {
+            "count" : 15,
+            "item" : "2"
+          }, {
+            "count" : 14,
+            "item" : "5"
+          }, {
+            "count" : 13,
+            "item" : "8"
+          }, {
+            "count" : 12,
+            "item" : "10"
+          }, {
+            "count" : 11,
+            "item" : "16"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      }, {
+        "id" : 183347599,
+        "name" : "PROJECTED: # of completed public building and open spaces captial projects (Annually FY)",
+        "dataTypeName" : "number",
+        "fieldName" : "projected_of_completed_mobility_and_open_spaces_captial_projects_annually_fy",
+        "position" : 18,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21098597,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 13,
+          "smallest" : "2",
+          "sum" : "195",
+          "null" : 17,
+          "average" : "15",
+          "largest" : "25",
+          "top" : [ {
+            "count" : 20,
+            "item" : "21"
+          }, {
+            "count" : 19,
+            "item" : "2"
+          }, {
+            "count" : 18,
+            "item" : "3"
+          }, {
+            "count" : 17,
+            "item" : "8"
+          }, {
+            "count" : 16,
+            "item" : "12"
+          }, {
+            "count" : 15,
+            "item" : "15"
+          }, {
+            "count" : 14,
+            "item" : "18"
+          }, {
+            "count" : 13,
+            "item" : "23"
+          }, {
+            "count" : 12,
+            "item" : "24"
+          }, {
+            "count" : 11,
+            "item" : "25"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Board of Public Works" : "",
+            "LAPD" : "",
+            "City Administrative Officer" : "",
+            "Personnel " : "",
+            "Bureau of Engineering" : "",
+            "City Attorney" : "",
+            "Employee Relations Board" : "",
+            "Transportation" : "",
+            "Housing and Community Investment" : "",
+            "Library" : "",
+            "Recreation and Parks " : "",
+            "Neighborhood Empowerment" : "",
+            "Controller's Office" : "",
+            "El Pueblo" : "",
+            "Other" : "",
+            "Bureau of Sanitation" : "",
+            "Disability, Department on" : "",
+            "LACERS" : "",
+            "Cultural Affairs" : "",
+            "Information Technology" : "",
+            "Fire and Police Pensions" : "",
+            "Emergency Management" : "",
+            "General Services" : "",
+            "Council District 12" : "",
+            "Council District 13" : "",
+            "Council District 14" : "",
+            "Project Restore" : "",
+            "Council District 15" : "",
+            "Council District 10" : "",
+            "Council District 11" : "",
+            "Aging" : "",
+            "Bureau of Street Lighting" : "",
+            "City Clerk" : "",
+            "Bureau of Contract Administration" : "",
+            "Planning" : "",
+            "Harbor " : "",
+            "LAWA" : "",
+            "Public Accountability, The Office of" : "",
+            "Office of Finance" : "",
+            "Council District 03" : "",
+            "Council District 04" : "",
+            "Council District 01" : "",
+            "Council District 02" : "",
+            "Bureau of Street Services" : "",
+            "Zoo" : "",
+            "Council District 09" : "",
+            "Council District 07" : "",
+            "Council District 08" : "",
+            "Council District 05" : "",
+            "Council District 06" : "",
+            "Economic and Workforce Development" : "",
+            "LAFD" : "",
+            "Animal Services" : "",
+            "Ethics Commission" : "",
+            "Mayor's Office" : "",
+            "Housing Authority" : "",
+            "Building and Safety" : "",
+            "LADWP" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "tgn6-4379",
+        "displayName" : "Mayor's Office OpenData",
+        "profileImageUrlLarge" : "/images/profile/5324/8362/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5324/8362/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5324/8362/_City_Seal_tiny.jpg",
+        "roleName" : "administrator",
+        "screenName" : "Mayor's Office OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "tgn6-4379",
+        "displayName" : "Mayor's Office OpenData",
+        "profileImageUrlLarge" : "/images/profile/5324/8362/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5324/8362/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5324/8362/_City_Seal_tiny.jpg",
+        "roleName" : "administrator",
+        "screenName" : "Mayor's Office OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "tags" : [ "bureau of engineering", "boe", "performance", "metrics" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "B4EB13B5-758C-4AEE-8450-D488D19118EE", 1, 1411593004, "865572", 1411593004, "865572", "{\n}", "1997-06-30T00:00:00", "Jun-97", "Q4 FY97", "FY 1997", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 2, "A528224D-3A93-4C23-A637-C3361C06776E", 2, 1411593004, "865572", 1411593004, "865572", "{\n}", "2000-06-30T00:00:00", "Jun-00", "Q4 FY00", "FY 2000", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 3, "28986F82-E586-4FC3-946E-A93946A3A125", 3, 1411593004, "865572", 1411593004, "865572", "{\n}", "2010-06-30T00:00:00", "Jun-10", "Q4 FY10", "FY 2010", "61", null, "97", null, null, null, "95", null, null, null, "16", null, "47", null ]
+, [ 4, "2F90A41E-8F09-4285-A68E-A3F660EDE642", 4, 1411593004, "865572", 1411593004, "865572", "{\n}", "2011-06-30T00:00:00", "Jun-11", "Q4 FY11", "FY 2011", "65", null, "97", null, null, null, "92", null, null, null, "10", null, "43", null ]
+, [ 5, "1EF27A1A-E8F5-45A9-AB40-ED92F4812851", 5, 1411593004, "865572", 1411593004, "865572", "{\n}", "2012-06-30T00:00:00", "Jun-12", "Q4 FY12", "FY 2012", "51", null, "97", null, null, null, "95", null, null, null, "18", null, "23", null ]
+, [ 6, "8E7B1784-8FDB-41AF-9FC8-64FF4CCF76E1", 6, 1411593004, "865572", 1411593004, "865572", "{\n}", "2013-06-30T00:00:00", "Jun-13", "Q4 FY13", "FY 2013", "58", null, "98", null, null, null, "95", null, null, null, "21", null, "37", null ]
+, [ 7, "640081FF-383E-49E7-90AF-1C16B5377B03", 7, 1411593004, "865572", 1411593004, "865572", "{\n}", "2013-07-31T00:00:00", "Jul-13", null, null, null, null, null, null, "97", null, null, null, null, null, null, null, null, null ]
+, [ 8, "E3471F07-CF92-445C-A5CF-1BBC39ADEA3B", 8, 1411593004, "865572", 1411593004, "865572", "{\n}", "2013-08-31T00:00:00", "Aug-13", null, null, null, null, null, null, "96", "90", null, null, null, null, null, null, null, null ]
+, [ 9, "00EE45C1-EB33-425B-8960-1FA463107488", 9, 1411593004, "865572", 1411593004, "865572", "{\n}", "2013-09-30T00:00:00", "Sep-13", "Q1 FY14", null, null, null, null, null, "98", "90", null, null, null, null, null, null, null, null ]
+, [ 10, "75EF6380-8248-4729-885E-DE1F96EB3F9D", 10, 1411593004, "865572", 1411593004, "865572", "{\n}", "2013-10-31T00:00:00", "Oct-13", null, null, null, null, null, null, "98", "90", null, null, null, null, null, null, null, null ]
+, [ 11, "EA0A1A7C-7DE0-46E1-AA30-6719B3EB447A", 11, 1411593004, "865572", 1411593004, "865572", "{\n}", "2013-11-30T00:00:00", "Nov-13", null, null, null, null, null, null, "99", "90", null, null, null, null, null, null, null, null ]
+, [ 12, "AE834230-C789-49CF-AA0C-AF377138DE68", 12, 1411593004, "865572", 1411593004, "865572", "{\n}", "2013-12-31T00:00:00", "Dec-13", "Q2 FY14", null, null, null, null, null, "96", "90", null, null, null, null, null, null, null, null ]
+, [ 13, "807E3CB3-B241-4BA1-B6A4-25AC602ADB22", 13, 1411593004, "865572", 1411593004, "865572", "{\n}", "2014-01-31T00:00:00", "Jan-14", null, null, null, null, null, null, "98", "90", null, null, null, null, null, null, null, null ]
+, [ 14, "20166DDF-A6AA-42ED-BE4A-DD75F6FD69CD", 14, 1411593004, "865572", 1411593004, "865572", "{\n}", "2014-02-28T00:00:00", "Feb-14", null, null, null, null, null, null, "97", "90", null, null, null, null, null, null, null, null ]
+, [ 15, "DA40CA45-4AF6-4027-93A9-575ED707E483", 15, 1411593004, "865572", 1411593004, "865572", "{\n}", "2014-03-31T00:00:00", "Mar-14", "Q3 FY14", null, null, null, null, null, "97", "90", null, null, null, null, null, null, null, null ]
+, [ 16, "D16883E2-40A2-4292-A350-C6C17290FF63", 16, 1411593004, "865572", 1411593004, "865572", "{\n}", "2014-04-30T00:00:00", "Apr-14", null, null, null, null, null, null, "98", "90", null, null, null, null, null, null, null, null ]
+, [ 17, "E8A7C2F0-15BD-4C5A-8A69-3A85E8C0F0C3", 17, 1411593004, "865572", 1411593004, "865572", "{\n}", "2014-05-31T00:00:00", "May-14", null, null, null, null, null, null, "98", "90", null, null, null, null, null, null, null, null ]
+, [ 18, "855E8D7E-B267-4971-877B-6010D728C316", 18, 1411593004, "865572", 1411593004, "865572", "{\n}", "2014-06-30T00:00:00", "Jun-14", "Q4 FY14", "FY 2014", "77", "34", "98", "98", "99", "90", "91", "95", null, null, "17", "9", "30", "21" ]
+, [ 19, "C4712FD3-9995-44B2-983F-1C6C9CFA9B7F", 19, 1411593004, "865572", 1420598406, "882515", null, "2014-07-31T00:00:00", "Jul-14", null, null, "14", "11", null, null, "96", "90", null, null, "90", null, "4", "4", "2", "2" ]
+, [ 20, "4F3F16ED-F00C-45E9-B5D6-81D9F5C9845D", 20, 1411593004, "865572", 1420598403, "882515", null, "2014-08-31T00:00:00", "Aug-14", null, null, "20", "15", null, null, "99", "90", null, null, "97", null, "9", "8", "2", "2" ]
+, [ 21, "DCD9D090-3282-4B65-BA7F-B7B4F7A7D830", 21, 1411593004, "865572", 1420598400, "882515", null, "2014-09-30T00:00:00", "Sep-14", "Q1 FY15", null, "27", "15", null, null, "98", "90", null, null, "93", null, "14", "11", "5", "3" ]
+, [ 22, "BF0D39FE-7184-448D-B491-F5E11078AB8F", 22, 1411593004, "865572", 1420598392, "882515", null, "2014-10-31T00:00:00", "Oct-14", null, null, "32", "18", null, null, "98", "90", null, null, "98", null, "15", "14", "8", "8" ]
+, [ 23, "1066C394-851A-4DEB-954D-259FDA7E702D", 23, 1411593004, "865572", 1420598389, "882515", null, "2014-11-30T00:00:00", "Nov-14", null, null, "34", "21", null, null, "95", "90", null, null, "90", null, "16", "14", "10", "12" ]
+, [ 24, "70F2E7E0-A79F-4096-A735-31977225C4A3", 24, 1411593004, "865572", 1420598384, "882515", null, "2014-12-31T00:00:00", "Dec-14", "Q2 FY15", null, "37", "27", null, null, "98", "90", null, null, "93", null, "16", "15", "16", "15" ]
+, [ 25, "DA7818E7-977D-4636-93BA-60C3C83693E9", 25, 1411593004, "865572", 1420598382, "882515", null, "2015-01-31T00:00:00", "Jan-15", null, null, null, "31", null, null, null, null, null, null, null, null, null, "16", null, "18" ]
+, [ 26, "2872D91B-D964-4A9F-BC39-B34B4AC50257", 26, 1411593004, "865572", 1420598378, "882515", null, "2015-02-28T00:00:00", "Feb-15", null, null, null, "38", null, null, null, null, null, null, null, null, null, "16", null, "21" ]
+, [ 27, "620BBEAF-2BBB-4253-8FE9-CB1DD8BE2BC0", 27, 1411593004, "865572", 1420598376, "882515", null, "2015-03-31T00:00:00", "Mar-15", "Q3 FY15", null, null, "41", null, null, null, null, null, null, null, null, null, "17", null, "21" ]
+, [ 28, "68303B05-9ACB-436C-9207-7494050A9895", 28, 1411593004, "865572", 1420598373, "882515", null, "2015-04-30T00:00:00", "Apr-15", null, null, null, "48", null, null, null, null, null, null, null, null, null, "19", null, "23" ]
+, [ 29, "9947CED9-E88D-4893-BEA7-F6379F0FD756", 29, 1411593004, "865572", 1420598369, "882515", null, "2015-05-31T00:00:00", "May-15", null, null, null, "53", null, null, null, null, null, null, null, null, null, "20", null, "24" ]
+, [ 30, "20DA2080-3C52-43D1-BA30-5C7083D7FB1E", 30, 1411593004, "865572", 1420598337, "882515", null, "2015-06-30T00:00:00", "Jun-15", "Q4 FY15", "FY 2015", null, "55", null, "90", null, "90", null, "90", null, "90", null, "20", null, "25" ]
+ ]
+}

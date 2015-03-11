@@ -8,7 +8,7 @@
       "createdAt" : 1401403148,
       "description" : "LADOT automated and manual traffic count summary data for intersections throughout Los Angeles. Manual counts (\"MAN\" under the \"Type\" column) are generally 6-hr counts which have been expanded  using a conversion factor.",
       "displayType" : "table",
-      "downloadCount" : 23,
+      "downloadCount" : 45,
       "indexUpdatedAt" : 1414612933,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -21,7 +21,7 @@
       "rowsUpdatedBy" : "tgn6-4379",
       "tableId" : 1599339,
       "totalTimesRated" : 0,
-      "viewCount" : 239,
+      "viewCount" : 340,
       "viewLastModified" : 1401407261,
       "viewType" : "tabular",
       "columns" : [ {

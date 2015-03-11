@@ -9,7 +9,7 @@
       "createdAt" : 1395689667,
       "description" : "Port of Los Angeles - Historical TEU Statistics: A \"TEU\" is a \"twenty-foot equivalent unit,\" which is a standard measurement of shipping cargo based on a twenty-foot long shipping container.",
       "displayType" : "table",
-      "downloadCount" : 2,
+      "downloadCount" : 15,
       "indexUpdatedAt" : 1414616127,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -24,7 +24,7 @@
       "rowsUpdatedBy" : "2ib6-ssvz",
       "tableId" : 1599099,
       "totalTimesRated" : 0,
-      "viewCount" : 59,
+      "viewCount" : 72,
       "viewLastModified" : 1401401187,
       "viewType" : "tabular",
       "columns" : [ {

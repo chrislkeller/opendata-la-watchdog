@@ -9,7 +9,7 @@
       "createdAt" : 1397075194,
       "description" : "Air quality by Elemental Carbon (EC) measure.",
       "displayType" : "table",
-      "downloadCount" : 1,
+      "downloadCount" : 10,
       "iconUrl" : "fileId:eTSdpgyxo5pVASMDk7gHw7XcK3FA4l3cj5FbZyvkw_U",
       "indexUpdatedAt" : 1414614319,
       "newBackend" : false,
@@ -25,7 +25,7 @@
       "rowsUpdatedBy" : "g9i9-z6y7",
       "tableId" : 1587585,
       "totalTimesRated" : 0,
-      "viewCount" : 56,
+      "viewCount" : 95,
       "viewLastModified" : 1401292879,
       "viewType" : "tabular",
       "columns" : [ {

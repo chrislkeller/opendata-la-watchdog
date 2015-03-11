@@ -1,0 +1,928 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "h5yg-d6j7",
+      "name" : "Vacant Properties and Animal Shelters",
+      "averageRating" : 0,
+      "category" : "A Well Run City",
+      "createdAt" : 1419376634,
+      "displayType" : "table",
+      "downloadCount" : 3,
+      "indexUpdatedAt" : 1419376744,
+      "licenseId" : "PUBLIC_DOMAIN",
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 9716317,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1419376725,
+      "publicationGroup" : 2013093,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1419376719,
+      "rowsUpdatedBy" : "7t2j-pb28",
+      "tableId" : 2013093,
+      "totalTimesRated" : 0,
+      "viewCount" : 11,
+      "viewLastModified" : 1419376725,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 181362802,
+        "name" : "Address",
+        "dataTypeName" : "text",
+        "fieldName" : "address",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 23518738,
+        "width" : 184,
+        "cachedContents" : {
+          "non_null" : 27,
+          "smallest" : "10241 Balboa Blvd., Granada Hills",
+          "null" : 0,
+          "largest" : "San Fernando Rd./Figueroa St.",
+          "top" : [ {
+            "count" : 20,
+            "item" : "San Fernando Rd./Figueroa St."
+          }, {
+            "count" : 19,
+            "item" : "1206 South Vermont Ave., Pico Heights"
+          }, {
+            "count" : 18,
+            "item" : "5340 Canoga Ave., Woodland Hills"
+          }, {
+            "count" : 17,
+            "item" : "8455 W. Grand View Dr. Los Angeles, CA 90046"
+          }, {
+            "count" : 16,
+            "item" : "5001 Balboa Blvd., Encino"
+          }, {
+            "count" : 15,
+            "item" : "8642 N. Sunland Blvd. Los Angeles, CA 91352"
+          }, {
+            "count" : 14,
+            "item" : "8943 Glenoaks Blvd., Sun Valley"
+          }, {
+            "count" : 13,
+            "item" : "6000 S. St. Andrews Pl. Los Angeles, CA 90047"
+          }, {
+            "count" : 12,
+            "item" : "3631 Centinela Ave., Mar Vista"
+          }, {
+            "count" : 11,
+            "item" : "10241 Balboa Blvd., Granada Hills"
+          }, {
+            "count" : 10,
+            "item" : "5637 W. La Mirada Ave. Los Angeles, CA 90038"
+          }, {
+            "count" : 9,
+            "item" : "La Mirada Ave./Wilton Pl."
+          }, {
+            "count" : 8,
+            "item" : "5636 Fountain Ave."
+          }, {
+            "count" : 7,
+            "item" : "1700 N. Cherokee Ave. Los Angeles, CA 90028"
+          }, {
+            "count" : 6,
+            "item" : "Huntington Dr./Rosemead Ave."
+          }, {
+            "count" : 5,
+            "item" : "10620 S. Graham Ave. Los Angeles, CA 90002"
+          }, {
+            "count" : 4,
+            "item" : "1525 E. 103rd Street"
+          }, {
+            "count" : 3,
+            "item" : "1803 S. Arlington Ave., Los Angeles, 90019"
+          }, {
+            "count" : 2,
+            "item" : "6621 West Manchester Ave., Westchester"
+          }, {
+            "count" : 1,
+            "item" : "11950 Missouri Ave., West Los Angeles, 90025"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 181362803,
+        "name" : "INTERSECTION",
+        "dataTypeName" : "text",
+        "fieldName" : "intersection",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 23518739,
+        "width" : 244,
+        "cachedContents" : {
+          "non_null" : 27,
+          "smallest" : "103rd St./Compton Ave.",
+          "null" : 0,
+          "largest" : "Vermont Ave./Pico Blvd.",
+          "top" : [ {
+            "count" : 20,
+            "item" : "San Fernando Rd./Figueroa St."
+          }, {
+            "count" : 19,
+            "item" : "Vermont Ave./Pico Blvd."
+          }, {
+            "count" : 18,
+            "item" : "Canoga Ave./Costanso St."
+          }, {
+            "count" : 17,
+            "item" : "Grand View Dr./Cole Crest Dr."
+          }, {
+            "count" : 16,
+            "item" : "Balboa Blvd./Addison St."
+          }, {
+            "count" : 15,
+            "item" : "Sunland Blvd./Olinda St."
+          }, {
+            "count" : 14,
+            "item" : "Glenoaks Blvd./Penrose St."
+          }, {
+            "count" : 13,
+            "item" : "St. Andrews Pl./60th St."
+          }, {
+            "count" : 12,
+            "item" : "Centinela Ave./Windward Ave."
+          }, {
+            "count" : 11,
+            "item" : "Balboa Blvd./Devonshire St."
+          }, {
+            "count" : 10,
+            "item" : "La Mirada Ave./Wilton Pl."
+          }, {
+            "count" : 9,
+            "item" : "Fountain Ave./Wilton Pl."
+          }, {
+            "count" : 8,
+            "item" : "Cherokee Ave./Hollywood Blvd."
+          }, {
+            "count" : 7,
+            "item" : "Huntington Dr./Rosemead Ave."
+          }, {
+            "count" : 6,
+            "item" : "Graham St./107th Ave."
+          }, {
+            "count" : 5,
+            "item" : "103rd St./Compton Ave."
+          }, {
+            "count" : 4,
+            "item" : "Arlington Ave./18th St."
+          }, {
+            "count" : 3,
+            "item" : "Manchester Ave./Emerson Ave."
+          }, {
+            "count" : 2,
+            "item" : "Missouri Ave. & Bundy Dr."
+          }, {
+            "count" : 1,
+            "item" : "Vanowen St. & Sylmar Ave."
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 181362804,
+        "name" : "LAND AREA",
+        "dataTypeName" : "number",
+        "fieldName" : "land_area",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 23518740,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 27,
+          "smallest" : "3125",
+          "sum" : "1149073.775",
+          "null" : 0,
+          "average" : "42558.28796296296",
+          "largest" : "149960.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "13623.437"
+          }, {
+            "count" : 19,
+            "item" : "9496"
+          }, {
+            "count" : 18,
+            "item" : "12267"
+          }, {
+            "count" : 17,
+            "item" : "4293.027"
+          }, {
+            "count" : 16,
+            "item" : "15943"
+          }, {
+            "count" : 15,
+            "item" : "19358.278"
+          }, {
+            "count" : 14,
+            "item" : "7903"
+          }, {
+            "count" : 13,
+            "item" : "115168"
+          }, {
+            "count" : 12,
+            "item" : "14985"
+          }, {
+            "count" : 11,
+            "item" : "12197"
+          }, {
+            "count" : 10,
+            "item" : "7767.236"
+          }, {
+            "count" : 9,
+            "item" : "7205.141"
+          }, {
+            "count" : 8,
+            "item" : "37499.407"
+          }, {
+            "count" : 7,
+            "item" : "18908.149"
+          }, {
+            "count" : 6,
+            "item" : "15000"
+          }, {
+            "count" : 5,
+            "item" : "3125"
+          }, {
+            "count" : 4,
+            "item" : "23513"
+          }, {
+            "count" : 3,
+            "item" : "11726"
+          }, {
+            "count" : 2,
+            "item" : "19500.50"
+          }, {
+            "count" : 1,
+            "item" : "32641.60"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 181362805,
+        "name" : "ACCESS",
+        "dataTypeName" : "text",
+        "fieldName" : "access",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 23518741,
+        "width" : 172,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : "Yes",
+          "null" : 1,
+          "largest" : "Yes",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Yes"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 181362806,
+        "name" : "THOMAS_BRO",
+        "dataTypeName" : "text",
+        "fieldName" : "thomas_bro",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 23518742,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 27,
+          "smallest" : "500-C6",
+          "null" : 0,
+          "largest" : "824-B3",
+          "top" : [ {
+            "count" : 20,
+            "item" : "594-J7"
+          }, {
+            "count" : 19,
+            "item" : "634-A4"
+          }, {
+            "count" : 18,
+            "item" : "560-B2"
+          }, {
+            "count" : 17,
+            "item" : "593-A4"
+          }, {
+            "count" : 16,
+            "item" : "561-D3"
+          }, {
+            "count" : 15,
+            "item" : "533-A1"
+          }, {
+            "count" : 14,
+            "item" : "503-A7"
+          }, {
+            "count" : 13,
+            "item" : "673-H6"
+          }, {
+            "count" : 12,
+            "item" : "672-C3"
+          }, {
+            "count" : 11,
+            "item" : "501-C4"
+          }, {
+            "count" : 10,
+            "item" : "593-H5"
+          }, {
+            "count" : 9,
+            "item" : "593-E4"
+          }, {
+            "count" : 8,
+            "item" : "595-E5"
+          }, {
+            "count" : 7,
+            "item" : "704-G5"
+          }, {
+            "count" : 6,
+            "item" : "704-F5"
+          }, {
+            "count" : 5,
+            "item" : "633-G5"
+          }, {
+            "count" : 4,
+            "item" : "702-F3"
+          }, {
+            "count" : 3,
+            "item" : "631-J6"
+          }, {
+            "count" : 2,
+            "item" : "532-A5"
+          }, {
+            "count" : 1,
+            "item" : "824-B3"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 181362807,
+        "name" : "TOPOGRAPHY",
+        "dataTypeName" : "text",
+        "fieldName" : "topography",
+        "position" : 7,
+        "renderTypeName" : "text",
+        "tableColumnId" : 23518743,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 12,
+          "smallest" : "Hillside",
+          "null" : 15,
+          "largest" : "Level",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Level"
+          }, {
+            "count" : 19,
+            "item" : "Hillside"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 181362808,
+        "name" : "TRACT",
+        "dataTypeName" : "text",
+        "fieldName" : "tract",
+        "position" : 8,
+        "renderTypeName" : "text",
+        "tableColumnId" : 23518744,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 19,
+          "smallest" : "DAYTON AVENUE HOME TRACT",
+          "null" : 8,
+          "largest" : "West Jefferson",
+          "top" : [ {
+            "count" : 20,
+            "item" : "DAYTON AVENUE HOME TRACT"
+          }, {
+            "count" : 19,
+            "item" : "TR 798"
+          }, {
+            "count" : 18,
+            "item" : "TR 482"
+          }, {
+            "count" : 17,
+            "item" : "TR 5999"
+          }, {
+            "count" : 16,
+            "item" : "LA PALOMA TRACT"
+          }, {
+            "count" : 15,
+            "item" : "HOLLYWOOD OCEAN VIEW TRACT"
+          }, {
+            "count" : 14,
+            "item" : "NEWTON PARK"
+          }, {
+            "count" : 13,
+            "item" : "FARRIS TRACT"
+          }, {
+            "count" : 12,
+            "item" : "Sec25T2SR15W"
+          }, {
+            "count" : 11,
+            "item" : "Pacific Farms"
+          }, {
+            "count" : 10,
+            "item" : "TR 23958"
+          }, {
+            "count" : 9,
+            "item" : "TR 2024"
+          }, {
+            "count" : 8,
+            "item" : "Griffin TR"
+          }, {
+            "count" : 7,
+            "item" : "Ex Mission"
+          }, {
+            "count" : 6,
+            "item" : "West Jefferson"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 181362809,
+        "name" : "ZONING",
+        "dataTypeName" : "text",
+        "fieldName" : "zoning",
+        "position" : 9,
+        "renderTypeName" : "text",
+        "tableColumnId" : 23518745,
+        "width" : 172,
+        "cachedContents" : {
+          "non_null" : 21,
+          "smallest" : "(Q)RD1.5-1",
+          "null" : 6,
+          "largest" : "RD1.5-1-O",
+          "top" : [ {
+            "count" : 20,
+            "item" : "PF-1"
+          }, {
+            "count" : 19,
+            "item" : "C2-1"
+          }, {
+            "count" : 18,
+            "item" : "R2-1"
+          }, {
+            "count" : 17,
+            "item" : "R1-1"
+          }, {
+            "count" : 16,
+            "item" : "A2-1VL"
+          }, {
+            "count" : 15,
+            "item" : "(T)(Q)R3-1VL"
+          }, {
+            "count" : 14,
+            "item" : "C2-1VL"
+          }, {
+            "count" : 13,
+            "item" : "M2-1"
+          }, {
+            "count" : 12,
+            "item" : "(Q)RD1.5-1"
+          }, {
+            "count" : 11,
+            "item" : "R3-1"
+          }, {
+            "count" : 10,
+            "item" : "C4-2D"
+          }, {
+            "count" : 9,
+            "item" : "OS-1XL"
+          }, {
+            "count" : 8,
+            "item" : "RD1.5-1-O"
+          }, {
+            "count" : 7,
+            "item" : "C2-1L"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 181362810,
+        "name" : "STATUS",
+        "dataTypeName" : "text",
+        "fieldName" : "status",
+        "position" : 10,
+        "renderTypeName" : "text",
+        "tableColumnId" : 23518746,
+        "width" : 172,
+        "cachedContents" : {
+          "non_null" : 27,
+          "smallest" : " Animal Shelter",
+          "null" : 0,
+          "largest" : "Warehouse",
+          "top" : [ {
+            "count" : 20,
+            "item" : "City Yard"
+          }, {
+            "count" : 19,
+            "item" : "Old Fire Station# 13"
+          }, {
+            "count" : 18,
+            "item" : "Old Fire Station# 84"
+          }, {
+            "count" : 17,
+            "item" : "Structure and trees"
+          }, {
+            "count" : 16,
+            "item" : "Old Firestation #83"
+          }, {
+            "count" : 15,
+            "item" : "Structure on property"
+          }, {
+            "count" : 14,
+            "item" : "Old Firestation #77"
+          }, {
+            "count" : 13,
+            "item" : "Warehouse"
+          }, {
+            "count" : 12,
+            "item" : "Old Firstation #62"
+          }, {
+            "count" : 11,
+            "item" : "Old Firstation #87"
+          }, {
+            "count" : 10,
+            "item" : "Under construction"
+          }, {
+            "count" : 9,
+            "item" : "under construction"
+          }, {
+            "count" : 8,
+            "item" : "Structures"
+          }, {
+            "count" : 7,
+            "item" : "Building"
+          }, {
+            "count" : 6,
+            "item" : "See Coments"
+          }, {
+            "count" : 5,
+            "item" : "Old Firestation #65"
+          }, {
+            "count" : 4,
+            "item" : "Old Library"
+          }, {
+            "count" : 3,
+            "item" : "Old Firestation #5"
+          }, {
+            "count" : 2,
+            "item" : "Old Animal Shelter"
+          }, {
+            "count" : 1,
+            "item" : " Animal Shelter"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 181362811,
+        "name" : "Location 1",
+        "dataTypeName" : "location",
+        "fieldName" : "location_1",
+        "position" : 11,
+        "renderTypeName" : "location",
+        "tableColumnId" : 23518747,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 18,
+          "smallest" : {
+            "longitude" : "-118.2256824",
+            "latitude" : "34.0813976"
+          },
+          "null" : 9,
+          "largest" : {
+            "longitude" : "-118.4565048",
+            "latitude" : "34.0352746"
+          },
+          "top" : [ {
+            "count" : 20,
+            "item" : {
+              "longitude" : "-118.2256824",
+              "latitude" : "34.0813976"
+            }
+          }, {
+            "count" : 19,
+            "item" : {
+              "longitude" : "-118.5974414",
+              "latitude" : "34.1669972"
+            }
+          }, {
+            "count" : 18,
+            "item" : {
+              "longitude" : "-118.3752715",
+              "latitude" : "34.1026437"
+            }
+          }, {
+            "count" : 17,
+            "item" : {
+              "longitude" : "-118.5010967",
+              "latitude" : "34.1617181"
+            }
+          }, {
+            "count" : 16,
+            "item" : {
+              "longitude" : "-118.365678",
+              "latitude" : "34.227165"
+            }
+          }, {
+            "count" : 15,
+            "item" : {
+              "longitude" : "-118.3676599",
+              "latitude" : "34.2310323"
+            }
+          }, {
+            "count" : 14,
+            "item" : {
+              "longitude" : "-118.4365235",
+              "latitude" : "34.0075395"
+            }
+          }, {
+            "count" : 13,
+            "item" : {
+              "longitude" : "-118.5023608",
+              "latitude" : "34.2565435"
+            }
+          }, {
+            "count" : 12,
+            "item" : {
+              "longitude" : "-118.3125126",
+              "latitude" : "34.0938549"
+            }
+          }, {
+            "count" : 11,
+            "item" : {
+              "longitude" : "-118.3135582",
+              "latitude" : "34.0937659"
+            }
+          }, {
+            "count" : 10,
+            "item" : {
+              "longitude" : "-118.3122458",
+              "latitude" : "34.0947321"
+            }
+          }, {
+            "count" : 9,
+            "item" : {
+              "longitude" : "-118.3347305",
+              "latitude" : "34.1015714"
+            }
+          }, {
+            "count" : 8,
+            "item" : {
+              "longitude" : "-118.175984",
+              "latitude" : "34.0872239"
+            }
+          }, {
+            "count" : 7,
+            "item" : {
+              "longitude" : "-118.2426762",
+              "latitude" : "33.9400162"
+            }
+          }, {
+            "count" : 6,
+            "item" : {
+              "longitude" : "-118.2477548",
+              "latitude" : "33.9432936"
+            }
+          }, {
+            "count" : 5,
+            "item" : {
+              "longitude" : "-118.318018",
+              "latitude" : "34.0406989"
+            }
+          }, {
+            "count" : 4,
+            "item" : {
+              "longitude" : "-118.405163",
+              "latitude" : "33.960142"
+            }
+          }, {
+            "count" : 3,
+            "item" : {
+              "longitude" : "-118.4565048",
+              "latitude" : "34.0352746"
+            }
+          } ]
+        },
+        "format" : {
+        },
+        "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Public Domain"
+      },
+      "metadata" : {
+        "custom_fields" : {
+          "Committed Update Frequency" : {
+            "Refresh rate" : "Annual"
+          },
+          "Data Owner" : {
+            "Board of Public Works" : "",
+            "LAPD" : "",
+            "City Administrative Officer" : "",
+            "Personnel " : "",
+            "Bureau of Engineering" : "",
+            "City Attorney" : "",
+            "Employee Relations Board" : "",
+            "Transportation" : "",
+            "Housing and Community Investment" : "",
+            "Library" : "",
+            "Recreation and Parks " : "",
+            "Neighborhood Empowerment" : "",
+            "Controller's Office" : "",
+            "El Pueblo" : "",
+            "Other" : "",
+            "Bureau of Sanitation" : "",
+            "Disability, Department on" : "",
+            "LACERS" : "",
+            "Cultural Affairs" : "",
+            "Information Technology" : "",
+            "Fire and Police Pensions" : "",
+            "Emergency Management" : "",
+            "General Services" : "General Services",
+            "Council District 12" : "",
+            "Council District 13" : "",
+            "Council District 14" : "",
+            "Project Restore" : "",
+            "Council District 15" : "",
+            "Council District 10" : "",
+            "Council District 11" : "",
+            "Aging" : "",
+            "Bureau of Street Lighting" : "",
+            "City Clerk" : "",
+            "Bureau of Contract Administration" : "",
+            "Planning" : "",
+            "Harbor " : "",
+            "LAWA" : "",
+            "Public Accountability, The Office of" : "",
+            "Office of Finance" : "",
+            "Council District 03" : "",
+            "Council District 04" : "",
+            "Council District 01" : "",
+            "Council District 02" : "",
+            "Bureau of Street Services" : "",
+            "Zoo" : "",
+            "Council District 09" : "",
+            "Council District 07" : "",
+            "Council District 08" : "",
+            "Council District 05" : "",
+            "Council District 06" : "",
+            "Economic and Workforce Development" : "",
+            "LAFD" : "",
+            "Animal Services" : "",
+            "Ethics Commission" : "",
+            "Mayor's Office" : "",
+            "Housing Authority" : "",
+            "Building and Safety" : "",
+            "LADWP" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "7t2j-pb28",
+        "displayName" : "Abhi Nemani",
+        "profileImageUrlLarge" : "/images/profile/5853/8870/22a_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5853/8870/22a_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5853/8870/22a_tiny.jpg",
+        "roleName" : "administrator",
+        "screenName" : "Abhi Nemani",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "7t2j-pb28",
+        "displayName" : "Abhi Nemani",
+        "profileImageUrlLarge" : "/images/profile/5853/8870/22a_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5853/8870/22a_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5853/8870/22a_tiny.jpg",
+        "roleName" : "administrator",
+        "screenName" : "Abhi Nemani",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "D052BBA1-40F1-4B60-89A5-614DF67F1301", 1, 1419376637, "892567", 1419376637, "892567", "{\n}", "San Fernando Rd./Figueroa St.", "San Fernando Rd./Figueroa St.", "13623.437", "Yes", "594-J7", "Level", "DAYTON AVENUE HOME TRACT", "PF-1", "City Yard", [ null, "34.0813976", "-118.2256824", null, false ] ]
+, [ 2, "FF1EDF9D-E555-4A8C-8194-766843B3EB53", 2, 1419376637, "892567", 1419376637, "892567", "{\n  \"invalidCells\" : {\n    \"23518747\" : \"{\\\"latitude\\\":\\\"\\\",\\\"longitude\\\":\\\"\\\",\\\"human_address\\\":{}}\"\n  }\n}", "1206 South Vermont Ave., Pico Heights", "Vermont Ave./Pico Blvd.", "9496", null, "634-A4", null, null, "C2-1", "Old Fire Station# 13", [ null, null, null, null, null ] ]
+, [ 3, "0588DDFF-9C70-4ABC-95F1-04D5169D77A8", 3, 1419376637, "892567", 1419376637, "892567", "{\n}", "5340 Canoga Ave., Woodland Hills", "Canoga Ave./Costanso St.", "12267", "Yes", "560-B2", null, null, "R2-1", "Old Fire Station# 84", [ null, "34.1669972", "-118.5974414", null, false ] ]
+, [ 4, "F932D819-D292-4777-A178-80AEDC0A3816", 4, 1419376637, "892567", 1419376637, "892567", "{\n}", "8455 W. Grand View Dr. Los Angeles, CA 90046", "Grand View Dr./Cole Crest Dr.", "4293.027", "Yes", "593-A4", "Hillside", "TR 798", "R1-1", "Structure and trees", [ null, "34.1026437", "-118.3752715", null, false ] ]
+, [ 5, "2D89C64E-42A0-4C4C-97FA-727BA7B7A959", 5, 1419376637, "892567", 1419376637, "892567", "{\n}", "5001 Balboa Blvd., Encino", "Balboa Blvd./Addison St.", "15943", "Yes", "561-D3", null, null, "A2-1VL", "Old Firestation #83", [ null, "34.1617181", "-118.5010967", null, false ] ]
+, [ 6, "AADE78C3-7523-452B-9816-3C44E790FD7F", 6, 1419376637, "892567", 1419376637, "892567", "{\n}", "8642 N. Sunland Blvd. Los Angeles, CA 91352", "Sunland Blvd./Olinda St.", "19358.278", "Yes", "533-A1", "Level", "TR 482", "(T)(Q)R3-1VL", "Structure on property", [ null, "34.227165", "-118.365678", null, false ] ]
+, [ 7, "3C06427E-E27B-430F-871F-D346C4572B84", 7, 1419376637, "892567", 1419376637, "892567", "{\n}", "8943 Glenoaks Blvd., Sun Valley", "Glenoaks Blvd./Penrose St.", "7903", "Yes", "503-A7", null, null, "C2-1VL", "Old Firestation #77", [ null, "34.2310323", "-118.3676599", null, false ] ]
+, [ 8, "4854E024-DA79-4E4C-859F-F426F69119D4", 8, 1419376637, "892567", 1419376637, "892567", "{\n  \"invalidCells\" : {\n    \"23518747\" : \"{\\\"latitude\\\":\\\"\\\",\\\"longitude\\\":\\\"\\\",\\\"human_address\\\":{}}\"\n  }\n}", "6000 S. St. Andrews Pl. Los Angeles, CA 90047", "St. Andrews Pl./60th St.", "115168", "Yes", "673-H6", "Level", "TR 5999", "M2-1", "Warehouse", [ null, null, null, null, null ] ]
+, [ 9, "C2B8A069-39B2-4E4C-8C54-DA1CCEE314FB", 9, 1419376637, "892567", 1419376637, "892567", "{\n}", "3631 Centinela Ave., Mar Vista", "Centinela Ave./Windward Ave.", "14985", "Yes", "672-C3", null, null, "(Q)RD1.5-1", "Old Firstation #62", [ null, "34.0075395", "-118.4365235", null, false ] ]
+, [ 10, "2FE74523-A126-4E1B-8EF9-922A78580CAF", 10, 1419376637, "892567", 1419376637, "892567", "{\n}", "10241 Balboa Blvd., Granada Hills", "Balboa Blvd./Devonshire St.", "12197", "Yes", "501-C4", null, null, "A2-1VL", "Old Firstation #87", [ null, "34.2565435", "-118.5023608", null, false ] ]
+, [ 11, "9253F8D0-EF28-45C9-A686-E3A07AEDF28F", 11, 1419376637, "892567", 1419376637, "892567", "{\n}", "5637 W. La Mirada Ave. Los Angeles, CA 90038", "La Mirada Ave./Wilton Pl.", "7767.236", "Yes", "593-H5", "Level", "LA PALOMA TRACT", "R3-1", "Under construction", [ null, "34.0938549", "-118.3125126", null, false ] ]
+, [ 12, "698FAC20-58E0-4E2C-BDF0-461D63D9BBB6", 12, 1419376637, "892567", 1419376637, "892567", "{\n}", "La Mirada Ave./Wilton Pl.", "La Mirada Ave./Wilton Pl.", "7205.141", "Yes", "593-H5", "Level", "LA PALOMA TRACT", "R3-1", "under construction", [ null, "34.0937659", "-118.3135582", null, false ] ]
+, [ 13, "AFCA72C8-E307-41BE-BCE1-AA8EB9EF83A7", 13, 1419376637, "892567", 1419376637, "892567", "{\n}", "5636 Fountain Ave.", "Fountain Ave./Wilton Pl.", "37499.407", "Yes", "593-H5", "Level", "LA PALOMA TRACT", "R3-1", "Structures", [ null, "34.0947321", "-118.3122458", null, false ] ]
+, [ 14, "5306A8BC-DD05-477F-B83D-FAC95202033C", 14, 1419376637, "892567", 1419376637, "892567", "{\n}", "1700 N. Cherokee Ave. Los Angeles, CA 90028", "Cherokee Ave./Hollywood Blvd.", "18908.149", "Yes", "593-E4", "Hillside", "HOLLYWOOD OCEAN VIEW TRACT", "C4-2D", "Building", [ null, "34.1015714", "-118.3347305", null, false ] ]
+, [ 15, "D4A3F2D4-1C17-40F1-8A99-A3F25BD66BD1", 15, 1419376637, "892567", 1419376637, "892567", "{\n}", "Huntington Dr./Rosemead Ave.", "Huntington Dr./Rosemead Ave.", "15000", "Yes", "595-E5", "Level", "NEWTON PARK", "PF-1", "Building", [ null, "34.0872239", "-118.175984", null, false ] ]
+, [ 16, "20627380-444E-4C8C-B8F3-F2427E6512C3", 16, 1419376637, "892567", 1419376637, "892567", "{\n}", "10620 S. Graham Ave. Los Angeles, CA 90002", "Graham St./107th Ave.", "3125", "Yes", "704-G5", "Level", "FARRIS TRACT", "OS-1XL", "See Coments", [ null, "33.9400162", "-118.2426762", null, false ] ]
+, [ 17, "2A2A68A4-0574-44FB-B4CC-D3E3D5DDA95F", 17, 1419376637, "892567", 1419376637, "892567", "{\n}", "1525 E. 103rd Street", "103rd St./Compton Ave.", "23513", "Yes", "704-F5", null, null, "PF-1", "Old Firestation #65", [ null, "33.9432936", "-118.2477548", null, false ] ]
+, [ 18, "342BF5AB-0C22-4C39-8D5B-EB6D5BA12553", 18, 1419376637, "892567", 1419376637, "892567", "{\n}", "1803 S. Arlington Ave., Los Angeles, 90019", "Arlington Ave./18th St.", "11726", "Yes", "633-G5", "Level", null, "RD1.5-1-O", "Old Library", [ null, "34.0406989", "-118.318018", null, false ] ]
+, [ 19, "E57564E6-ECB2-4D52-B143-79904097B71D", 19, 1419376637, "892567", 1419376637, "892567", "{\n}", "6621 West Manchester Ave., Westchester", "Manchester Ave./Emerson Ave.", "19500.50", "Yes", "702-F3", "Level", "Sec25T2SR15W", "R1-1", "Old Firestation #5", [ null, "33.960142", "-118.405163", null, false ] ]
+, [ 20, "26AD1852-9CD0-4875-8D19-4D2083F93C10", 20, 1419376637, "892567", 1419376637, "892567", "{\n}", "11950 Missouri Ave., West Los Angeles, 90025", "Missouri Ave. & Bundy Dr.", "32641.60", "Yes", "631-J6", null, "Pacific Farms", "M2-1", "Old Animal Shelter", [ null, "34.0352746", "-118.4565048", null, false ] ]
+, [ 21, "AF4B3D4B-5072-4A77-A4F0-0529786091D7", 21, 1419376637, "892567", 1419376637, "892567", "{\n  \"invalidCells\" : {\n    \"23518747\" : \"{\\\"latitude\\\":\\\"\\\",\\\"longitude\\\":\\\"\\\",\\\"human_address\\\":{}}\"\n  }\n}", "14403-09 W. Vanowen St., Sherman Oaks, 91405", "Vanowen St. & Sylmar Ave.", "149960.00", "Yes", "532-A5", null, "TR 23958", "C2-1L", " Animal Shelter", [ null, null, null, null, null ] ]
+, [ 22, "7FF2FCD2-3644-493C-AF1A-CF9C54629B38", 22, 1419376637, "892567", 1419376637, "892567", "{\n  \"invalidCells\" : {\n    \"23518747\" : \"{\\\"latitude\\\":\\\"\\\",\\\"longitude\\\":\\\"\\\",\\\"human_address\\\":{}}\"\n  }\n}", "957 N. Gaffey St., San Pedro, 90731", "Gaffey St. & Shields Dr.", "78000.00", "Yes", "824-B3", null, "TR 2024", null, " Animal Shelter", [ null, null, null, null, null ] ]
+, [ 23, "785F33E7-B2C4-4B9F-95A4-ED2C75C564D6", 23, 1419376637, "892567", 1419376718, "892567", "{\"invalidCells\":{\"location_1\":\"{, \"}}", "3201 Lacy St., Los Angeles, 90031", "Lacy St. & Avenue 26", "140698.00", "Yes", "594-J6", null, "Griffin TR", null, " Animal Shelter", [ null, null, null, null, null ] ]
+, [ 24, "BFFAC4B2-D4F3-458B-9934-76B4E1391F69", 24, 1419376637, "892567", 1419376637, "892567", "{\n  \"invalidCells\" : {\n    \"23518747\" : \"{\\\"latitude\\\":\\\"\\\",\\\"longitude\\\":\\\"\\\",\\\"human_address\\\":{}}\"\n  }\n}", "1850 W. 60th St., SLA, 90047", "60th St. & St. Andrews Pl.", "114998.40", "Yes", "673-H6", null, "TR 5999", null, " Animal Shelter", [ null, null, null, null, null ] ]
+, [ 25, "1F20A78E-E9A2-45FB-9FC7-6C834DBD656C", 25, 1419376637, "892567", 1419376637, "892567", "{\n  \"invalidCells\" : {\n    \"23518747\" : \"{\\\"latitude\\\":\\\"\\\",\\\"longitude\\\":\\\"\\\",\\\"human_address\\\":{}}\"\n  }\n}", "11361 W. Pico Blvd., WLA, 90064", "Pico Blvd. & Purdue Ave.", "83030.60", "Yes", "632-B6", null, "Pacific Farms", null, " Animal Shelter", [ null, null, null, null, null ] ]
+, [ 26, "B7551C53-05DC-4D22-8971-A6C1C77C7A11", 26, 1419376637, "892567", 1419376637, "892567", "{\n  \"invalidCells\" : {\n    \"23518747\" : \"{\\\"latitude\\\":\\\"\\\",\\\"longitude\\\":\\\"\\\",\\\"human_address\\\":{}}\"\n  }\n}", "20655 W. Plummer St., Chatsworth, 91311", "Plummer St. & Lurline Ave.", "145467", "Yes", "500-C6", null, "Ex Mission", null, " Animal Shelter", [ null, null, null, null, null ] ]
+, [ 27, "E5F8DFA8-B630-4CB8-B31E-FF9DCBB96AD4", 27, 1419376637, "892567", 1419376637, "892567", "{\n  \"invalidCells\" : {\n    \"23518747\" : \"{\\\"latitude\\\":\\\"\\\",\\\"longitude\\\":\\\"\\\",\\\"human_address\\\":{}}\"\n  }\n}", "3612 S. 11th Ave., SLA, 90018", "11th Ave.  & 36th St.", "34800", "Yes", "673-F1", null, "West Jefferson", null, "Old Animal Shelter", [ null, null, null, null, null ] ]
+ ]
+}

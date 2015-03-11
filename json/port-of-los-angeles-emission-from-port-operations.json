@@ -8,7 +8,7 @@
       "createdAt" : 1395679325,
       "description" : "Port of Los Angeles - Emission from Port Operations",
       "displayType" : "table",
-      "downloadCount" : 8,
+      "downloadCount" : 12,
       "indexUpdatedAt" : 1414613782,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -21,7 +21,7 @@
       "rowsUpdatedBy" : "tgn6-4379",
       "tableId" : 1598919,
       "totalTimesRated" : 0,
-      "viewCount" : 24,
+      "viewCount" : 29,
       "viewLastModified" : 1401387334,
       "viewType" : "tabular",
       "columns" : [ {

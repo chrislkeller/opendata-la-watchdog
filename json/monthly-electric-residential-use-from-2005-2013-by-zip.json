@@ -9,7 +9,7 @@
       "createdAt" : 1401395289,
       "description" : "Monthly residential energy use by zip code. Numbers represent kilowatt hour (kWh) usage.",
       "displayType" : "table",
-      "downloadCount" : 16,
+      "downloadCount" : 28,
       "indexUpdatedAt" : 1414613664,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -22,7 +22,7 @@
       "rowsUpdatedBy" : "7q7s-tyf3",
       "tableId" : 1599084,
       "totalTimesRated" : 0,
-      "viewCount" : 43,
+      "viewCount" : 59,
       "viewLastModified" : 1401395635,
       "viewType" : "tabular",
       "columns" : [ {

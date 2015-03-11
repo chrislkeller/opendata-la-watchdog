@@ -8,8 +8,8 @@
       "createdAt" : 1401382657,
       "description" : "Number of Flights That Occurred at the Airport",
       "displayType" : "table",
-      "downloadCount" : 16,
-      "indexUpdatedAt" : 1416067724,
+      "downloadCount" : 33,
+      "indexUpdatedAt" : 1424016683,
       "newBackend" : false,
       "numberOfComments" : 0,
       "oid" : 8098296,
@@ -17,12 +17,12 @@
       "publicationDate" : 1401383828,
       "publicationGroup" : 1598811,
       "publicationStage" : "published",
-      "rowsUpdatedAt" : 1416067575,
+      "rowsUpdatedAt" : 1424016302,
       "rowsUpdatedBy" : "gudt-ccne",
       "state" : "normal",
       "tableId" : 1598811,
       "totalTimesRated" : 0,
-      "viewCount" : 39,
+      "viewCount" : 48,
       "viewLastModified" : 1405723128,
       "viewType" : "tabular",
       "columns" : [ {
@@ -107,10 +107,10 @@
         "tableColumnId" : 19996356,
         "width" : 280,
         "cachedContents" : {
-          "non_null" : 671,
+          "non_null" : 693,
           "smallest" : "2014-05-01T00:00:00",
           "null" : 0,
-          "largest" : "2014-11-15T08:00:12",
+          "largest" : "2015-02-15T08:00:17",
           "top" : [ {
             "count" : 20,
             "item" : "2014-05-01T00:00:00"
@@ -129,6 +129,15 @@
           }, {
             "count" : 15,
             "item" : "2014-11-15T08:00:12"
+          }, {
+            "count" : 14,
+            "item" : "2014-12-15T08:00:10"
+          }, {
+            "count" : 13,
+            "item" : "2015-01-15T08:00:16"
+          }, {
+            "count" : 12,
+            "item" : "2015-02-15T08:00:17"
           } ]
         },
         "format" : {
@@ -143,70 +152,70 @@
         "tableColumnId" : 19996357,
         "width" : 244,
         "cachedContents" : {
-          "non_null" : 671,
+          "non_null" : 693,
           "smallest" : "2008-01-01T00:00:00",
           "null" : 0,
-          "largest" : "2014-09-01T00:00:00",
+          "largest" : "2014-12-01T00:00:00",
           "top" : [ {
             "count" : 20,
-            "item" : "2011-06-01T00:00:00"
-          }, {
-            "count" : 19,
-            "item" : "2011-07-01T00:00:00"
-          }, {
-            "count" : 18,
-            "item" : "2011-08-01T00:00:00"
-          }, {
-            "count" : 17,
             "item" : "2011-09-01T00:00:00"
           }, {
-            "count" : 16,
+            "count" : 19,
             "item" : "2011-10-01T00:00:00"
           }, {
-            "count" : 15,
+            "count" : 18,
             "item" : "2011-11-01T00:00:00"
           }, {
-            "count" : 14,
+            "count" : 17,
             "item" : "2011-12-01T00:00:00"
           }, {
-            "count" : 13,
+            "count" : 16,
             "item" : "2012-01-01T00:00:00"
           }, {
-            "count" : 12,
+            "count" : 15,
             "item" : "2012-02-01T00:00:00"
           }, {
-            "count" : 11,
+            "count" : 14,
             "item" : "2012-03-01T00:00:00"
           }, {
-            "count" : 10,
+            "count" : 13,
             "item" : "2012-04-01T00:00:00"
           }, {
-            "count" : 9,
+            "count" : 12,
             "item" : "2012-05-01T00:00:00"
           }, {
-            "count" : 8,
+            "count" : 11,
             "item" : "2012-06-01T00:00:00"
           }, {
-            "count" : 7,
+            "count" : 10,
             "item" : "2012-07-01T00:00:00"
           }, {
-            "count" : 6,
+            "count" : 9,
             "item" : "2012-08-01T00:00:00"
           }, {
-            "count" : 5,
+            "count" : 8,
             "item" : "2012-09-01T00:00:00"
           }, {
-            "count" : 4,
+            "count" : 7,
             "item" : "2012-10-01T00:00:00"
           }, {
-            "count" : 3,
+            "count" : 6,
             "item" : "2012-11-01T00:00:00"
           }, {
-            "count" : 2,
+            "count" : 5,
             "item" : "2012-12-01T00:00:00"
           }, {
-            "count" : 1,
+            "count" : 4,
             "item" : "2013-01-01T00:00:00"
+          }, {
+            "count" : 3,
+            "item" : "2013-02-01T00:00:00"
+          }, {
+            "count" : 2,
+            "item" : "2013-03-01T00:00:00"
+          }, {
+            "count" : 1,
+            "item" : "2013-04-01T00:00:00"
           } ]
         },
         "format" : {
@@ -221,7 +230,7 @@
         "tableColumnId" : 19996358,
         "width" : 220,
         "cachedContents" : {
-          "non_null" : 671,
+          "non_null" : 693,
           "smallest" : "Charter",
           "null" : 0,
           "largest" : "Scheduled",
@@ -248,7 +257,7 @@
         "tableColumnId" : 19996359,
         "width" : 304,
         "cachedContents" : {
-          "non_null" : 671,
+          "non_null" : 693,
           "smallest" : "Arrival",
           "null" : 0,
           "largest" : "Departure",
@@ -272,7 +281,7 @@
         "tableColumnId" : 19996360,
         "width" : 364,
         "cachedContents" : {
-          "non_null" : 671,
+          "non_null" : 693,
           "smallest" : "Domestic",
           "null" : 0,
           "largest" : "International",
@@ -296,11 +305,11 @@
         "tableColumnId" : 19996361,
         "width" : 268,
         "cachedContents" : {
-          "non_null" : 671,
+          "non_null" : 693,
           "smallest" : "0",
-          "sum" : "356151",
+          "sum" : "366683",
           "null" : 0,
-          "average" : "530.7764530551416",
+          "average" : "529.1240981240981",
           "largest" : "3416",
           "top" : [ {
             "count" : 20,
@@ -1083,5 +1092,27 @@
 , [ 670, "BDC2683E-9F73-4781-87C6-46ABB48EF389", 670, 1416067575, "883844", 1416067575, "883844", null, "2014-11-15T08:00:12", "2014-09-01T00:00:00", "Scheduled", "Arrival", "International", "29" ]
 , [ 671, "71FB3E5C-F3B3-4939-822B-6E98468ABCFB", 671, 1416067575, "883844", 1416067575, "883844", null, "2014-11-15T08:00:12", "2014-09-01T00:00:00", "Scheduled", "Departure", "Domestic", "1437" ]
 , [ 672, "2564A452-C23B-4A7D-8AB2-CABBD7F826F6", 672, 1416067575, "883844", 1416067575, "883844", null, "2014-11-15T08:00:12", "2014-09-01T00:00:00", "Scheduled", "Departure", "International", "30" ]
+, [ 673, "F9DA4F40-AF63-4663-8E45-8B5DAE9B2F9E", 673, 1418659592, "883844", 1418659592, "883844", null, "2014-12-15T08:00:10", "2014-10-01T00:00:00", "Charter", "Arrival", "Domestic", "8" ]
+, [ 674, "DE1CE1CE-A29E-4DDD-9681-1B08A1B2D806", 674, 1418659592, "883844", 1418659592, "883844", null, "2014-12-15T08:00:10", "2014-10-01T00:00:00", "Charter", "Departure", "Domestic", "4" ]
+, [ 675, "4DDE5C70-B4F3-4B3A-9389-BCAD870DB5E3", 675, 1418659592, "883844", 1418659592, "883844", null, "2014-12-15T08:00:10", "2014-10-01T00:00:00", "Commuter", "Arrival", "Domestic", "292" ]
+, [ 676, "A752BFC6-C7BB-4D52-8671-D595C69BE43F", 676, 1418659592, "883844", 1418659592, "883844", null, "2014-12-15T08:00:10", "2014-10-01T00:00:00", "Commuter", "Departure", "Domestic", "292" ]
+, [ 677, "015FCBF3-63A4-4E6C-90AA-9175368D1B0D", 677, 1418659592, "883844", 1418659592, "883844", null, "2014-12-15T08:00:10", "2014-10-01T00:00:00", "Scheduled", "Arrival", "Domestic", "1498" ]
+, [ 678, "3AECE887-ED5F-4C8B-A382-B8B1CC72250E", 678, 1418659592, "883844", 1418659592, "883844", null, "2014-12-15T08:00:10", "2014-10-01T00:00:00", "Scheduled", "Arrival", "International", "31" ]
+, [ 679, "CD10E659-2B71-4F66-8211-30EBA0AF6667", 679, 1418659592, "883844", 1418659592, "883844", null, "2014-12-15T08:00:10", "2014-10-01T00:00:00", "Scheduled", "Departure", "Domestic", "1498" ]
+, [ 680, "7E50877F-F323-4BA1-81A6-42EB984BB258", 680, 1418659592, "883844", 1418659592, "883844", null, "2014-12-15T08:00:10", "2014-10-01T00:00:00", "Scheduled", "Departure", "International", "29" ]
+, [ 681, "CD647A5A-C819-440B-81B2-F6A088CF80EE", 681, 1421338007, "883844", 1421338007, "883844", null, "2015-01-15T08:00:16", "2014-11-01T00:00:00", "Charter", "Arrival", "Domestic", "6" ]
+, [ 682, "12225BDC-7406-47B7-9E88-3580DC668FF1", 682, 1421338007, "883844", 1421338007, "883844", null, "2015-01-15T08:00:16", "2014-11-01T00:00:00", "Charter", "Arrival", "International", "1" ]
+, [ 683, "399FEA00-A986-4B26-925C-52DE5A675C7A", 683, 1421338007, "883844", 1421338007, "883844", null, "2015-01-15T08:00:16", "2014-11-01T00:00:00", "Charter", "Departure", "Domestic", "6" ]
+, [ 684, "E1527C36-FBFB-4B00-B16B-39E32E8D7136", 684, 1421338007, "883844", 1421338007, "883844", null, "2015-01-15T08:00:16", "2014-11-01T00:00:00", "Charter", "Departure", "International", "1" ]
+, [ 685, "3761F3E8-4A31-4466-BD84-4A635B5BCB4C", 685, 1421338007, "883844", 1421338007, "883844", null, "2015-01-15T08:00:16", "2014-11-01T00:00:00", "Commuter", "Arrival", "Domestic", "269" ]
+, [ 686, "56D49587-291B-4042-8768-ACB4F7120A2C", 686, 1421338007, "883844", 1421338007, "883844", null, "2015-01-15T08:00:16", "2014-11-01T00:00:00", "Commuter", "Departure", "Domestic", "269" ]
+, [ 687, "563B88EC-3258-47CD-B6F8-70869F5988F6", 687, 1421338007, "883844", 1421338007, "883844", null, "2015-01-15T08:00:16", "2014-11-01T00:00:00", "Scheduled", "Arrival", "Domestic", "1399" ]
+, [ 688, "DCED639A-0A0B-4926-BE00-3B3D2CD4A432", 688, 1421338007, "883844", 1421338007, "883844", null, "2015-01-15T08:00:16", "2014-11-01T00:00:00", "Scheduled", "Arrival", "International", "31" ]
+, [ 689, "4D33A7FF-40FB-4424-BE70-E9A5148B8791", 689, 1421338007, "883844", 1421338007, "883844", null, "2015-01-15T08:00:16", "2014-11-01T00:00:00", "Scheduled", "Departure", "Domestic", "1395" ]
+, [ 690, "F8120852-E05D-4895-8BCA-9CDFD194939E", 690, 1421338007, "883844", 1421338007, "883844", null, "2015-01-15T08:00:16", "2014-11-01T00:00:00", "Scheduled", "Departure", "International", "31" ]
+, [ 691, "BFBCA53C-7D1A-4014-B2FF-295C01BBA9E8", 691, 1424016302, "883844", 1424016302, "883844", null, "2015-02-15T08:00:17", "2014-12-01T00:00:00", "Scheduled", "Arrival", "Domestic", "1696" ]
+, [ 692, "10B55F48-1226-4090-9282-78A3BC367A52", 692, 1424016302, "883844", 1424016302, "883844", null, "2015-02-15T08:00:17", "2014-12-01T00:00:00", "Scheduled", "Arrival", "International", "40" ]
+, [ 693, "4B6C6F6B-F747-4CDA-9BC0-F54B86322CF7", 693, 1424016302, "883844", 1424016302, "883844", null, "2015-02-15T08:00:17", "2014-12-01T00:00:00", "Scheduled", "Departure", "Domestic", "1697" ]
+, [ 694, "8CF91B79-8E86-43BE-AC2B-DA42929E860C", 694, 1424016302, "883844", 1424016302, "883844", null, "2015-02-15T08:00:17", "2014-12-01T00:00:00", "Scheduled", "Departure", "International", "39" ]
  ]
 }

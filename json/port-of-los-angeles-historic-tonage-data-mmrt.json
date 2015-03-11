@@ -9,7 +9,7 @@
       "createdAt" : 1395696563,
       "description" : "Port of Los Angeles - Historic Tonage Data MMRT",
       "displayType" : "table",
-      "downloadCount" : 4,
+      "downloadCount" : 12,
       "indexUpdatedAt" : 1414616902,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -22,7 +22,7 @@
       "rowsUpdatedBy" : "2ib6-ssvz",
       "tableId" : 1599091,
       "totalTimesRated" : 0,
-      "viewCount" : 37,
+      "viewCount" : 45,
       "viewLastModified" : 1401395780,
       "viewType" : "tabular",
       "columns" : [ {

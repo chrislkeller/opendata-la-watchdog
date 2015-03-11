@@ -9,7 +9,7 @@
       "createdAt" : 1400887303,
       "description" : "LADWP's capacity for stormwater and actual stormwater collected",
       "displayType" : "table",
-      "downloadCount" : 4,
+      "downloadCount" : 10,
       "indexUpdatedAt" : 1414616940,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -22,7 +22,7 @@
       "rowsUpdatedBy" : "7q7s-tyf3",
       "tableId" : 1593201,
       "totalTimesRated" : 0,
-      "viewCount" : 34,
+      "viewCount" : 42,
       "viewLastModified" : 1401233566,
       "viewType" : "tabular",
       "columns" : [ {

@@ -10,7 +10,7 @@
       "createdAt" : 1390280864,
       "description" : "CAFR Page 344.\r\n\r\nTax Rate Area No. 4(a). Last Ten Fiscal Years.\r\n(a) Tax Rate Area # 4 is used to illustrate the breakdown of a tax rate within the City and applies to most properties within the City of Los Angeles. Since each property is subject to taxation by a number of taxing entities, the County groups all properties subject to taxation by the same entities into Tax Rate Areas (TRAs). There are over 274 TRAs in the City.",
       "displayType" : "table",
-      "downloadCount" : 73,
+      "downloadCount" : 96,
       "indexUpdatedAt" : 1414613871,
       "licenseId" : "PUBLIC_DOMAIN",
       "newBackend" : false,
@@ -25,7 +25,7 @@
       "rowsUpdatedBy" : "7c7a-resi",
       "tableId" : 1492316,
       "totalTimesRated" : 0,
-      "viewCount" : 217,
+      "viewCount" : 295,
       "viewLastModified" : 1410242729,
       "viewType" : "tabular",
       "columns" : [ {
@@ -326,6 +326,9 @@
       "owner" : {
         "id" : "7c7a-resi",
         "displayName" : "Controller's Office",
+        "profileImageUrlLarge" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_tiny.jpg",
         "roleName" : "administrator",
         "screenName" : "Controller's Office",
         "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
@@ -336,6 +339,9 @@
       "tableAuthor" : {
         "id" : "7c7a-resi",
         "displayName" : "Controller's Office",
+        "profileImageUrlLarge" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_tiny.jpg",
         "roleName" : "administrator",
         "screenName" : "Controller's Office",
         "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]

@@ -1,0 +1,643 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "msv5-mj8x",
+      "name" : "Location of FY 2014 Bus Pads Installed",
+      "averageRating" : 0,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1400784571,
+      "description" : "Locations for concrete bus pads and bus landings installed to date for fiscal year 2014.",
+      "displayType" : "table",
+      "downloadCount" : 17,
+      "iconUrl" : "fileId:iK3e7o-M9lAdfrkX7nVVFzfndK4_fuAd700f4XU4f80",
+      "indexUpdatedAt" : 1421451780,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8090582,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1401308710,
+      "publicationGroup" : 1591615,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1401308440,
+      "rowsUpdatedBy" : "awhe-qmys",
+      "tableId" : 1597733,
+      "totalTimesRated" : 0,
+      "viewCount" : 119,
+      "viewLastModified" : 1421451707,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 150292911,
+        "name" : "Intersection",
+        "dataTypeName" : "location",
+        "fieldName" : "intersection",
+        "position" : 1,
+        "rdfProperties" : "",
+        "renderTypeName" : "location",
+        "tableColumnId" : 19889652,
+        "width" : 280,
+        "cachedContents" : {
+          "non_null" : 137,
+          "smallest" : {
+            "longitude" : "-118.20701744399969",
+            "latitude" : "34.02257051300046",
+            "human_address" : "{\"address\":\"8TH ST and CONCORD ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}"
+          },
+          "null" : 0,
+          "largest" : {
+            "longitude" : "-118.17982695499973",
+            "latitude" : "34.11384021600048",
+            "human_address" : "{\"address\":\"YORK BLVD and AVENUE 66\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}"
+          },
+          "top" : [ {
+            "count" : 20,
+            "item" : {
+              "longitude" : "-118.15540865599968",
+              "latitude" : "34.09857102900048",
+              "human_address" : "{\"address\":\"HUNTINGTON DR and KENDALL AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 19,
+            "item" : {
+              "longitude" : "-118.2748386719997",
+              "latitude" : "34.08542305500049",
+              "human_address" : "{\"address\":\"SUNSET BLVD and DESCANSO DR\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 18,
+            "item" : {
+              "longitude" : "-118.24415858899971",
+              "latitude" : "34.03204290000048",
+              "human_address" : "{\"address\":\"OLYMPIC BLVD and CENTRAL AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 17,
+            "item" : {
+              "longitude" : "-118.30912791499969",
+              "latitude" : "34.08351440600046",
+              "human_address" : "{\"address\":\"WESTERN AVE and MELROSE AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 16,
+            "item" : {
+              "longitude" : "-118.3666486409997",
+              "latitude" : "34.05150137000044",
+              "human_address" : "{\"address\":\"FAIRFAX AVE and PICO BLVD\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 15,
+            "item" : {
+              "longitude" : "-118.32840924899972",
+              "latitude" : "34.04470374800047",
+              "human_address" : "{\"address\":\"VENICE BLVD and CRENSHAW BLVD\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 14,
+            "item" : {
+              "longitude" : "-118.24531669099969",
+              "latitude" : "34.05349076500045",
+              "human_address" : "{\"address\":\"WESTERN AVE and MELROSE AVE CD 4\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 13,
+            "item" : {
+              "longitude" : "-118.26060573499967",
+              "latitude" : "34.04303423400046",
+              "human_address" : "{\"address\":\"OLYMPIC BLVD and GRAND AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 12,
+            "item" : {
+              "longitude" : "-118.19370561799968",
+              "latitude" : "34.118870899000456",
+              "human_address" : "{\"address\":\"YORK BLVD and AVENUE 57\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 11,
+            "item" : {
+              "longitude" : "-118.2334861009997",
+              "latitude" : "34.13387438100045",
+              "human_address" : "{\"address\":\"VERDUGO ROAD and PALMER DR\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 10,
+            "item" : {
+              "longitude" : "-118.23288826399971",
+              "latitude" : "34.130871913000476",
+              "human_address" : "{\"address\":\"VERDUGO ROAD and SHASTA CIR NORTH\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 9,
+            "item" : {
+              "longitude" : "-118.23214871799968",
+              "latitude" : "34.127134328000466",
+              "human_address" : "{\"address\":\"VERDUGO ROAD and WAWONA ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 8,
+            "item" : {
+              "longitude" : "-118.4542471849997",
+              "latitude" : "34.257201404000455",
+              "human_address" : "{\"address\":\"DEVONSHIRE ST and WOODMAN AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 7,
+            "item" : {
+              "longitude" : "-118.4554959999997",
+              "latitude" : "34.296313195000494",
+              "human_address" : "{\"address\":\"SAN FERNANDO ROAD and ASTORIA ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          } ]
+        },
+        "format" : {
+          "rdf" : "",
+          "view" : "address_coords",
+          "align" : "left"
+        },
+        "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+      }, {
+        "id" : 150292912,
+        "name" : "Corner Pad",
+        "dataTypeName" : "text",
+        "fieldName" : "cornerp",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19889648,
+        "width" : 184,
+        "cachedContents" : {
+          "non_null" : 60,
+          "smallest" : "NE CORNER",
+          "null" : 77,
+          "largest" : "SW CORNER",
+          "top" : [ {
+            "count" : 20,
+            "item" : "NE CORNER"
+          }, {
+            "count" : 19,
+            "item" : "SW CORNER"
+          }, {
+            "count" : 18,
+            "item" : "SE CORNER"
+          }, {
+            "count" : 17,
+            "item" : "NW CORNER"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 150292913,
+        "name" : "Pad Date Completed",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "datecompletedp",
+        "position" : 3,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 19889649,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 60,
+          "smallest" : "2013-07-13T00:00:00",
+          "null" : 77,
+          "largest" : "2014-05-03T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2014-04-19T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2014-04-24T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2014-04-16T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2014-05-03T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2014-04-26T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2013-07-27T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2013-07-28T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2013-08-04T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2013-07-31T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2013-08-03T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2013-08-27T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2013-08-24T00:00:00"
+          }, {
+            "count" : 8,
+            "item" : "2013-09-21T00:00:00"
+          }, {
+            "count" : 7,
+            "item" : "2013-09-28T00:00:00"
+          }, {
+            "count" : 6,
+            "item" : "2013-10-19T00:00:00"
+          }, {
+            "count" : 5,
+            "item" : "2014-02-08T00:00:00"
+          }, {
+            "count" : 4,
+            "item" : "2014-03-22T00:00:00"
+          }, {
+            "count" : 3,
+            "item" : "2014-03-29T00:00:00"
+          } ]
+        },
+        "format" : {
+          "view" : "date",
+          "align" : "left"
+        }
+      }, {
+        "id" : 150292914,
+        "name" : "Corner Landing",
+        "dataTypeName" : "text",
+        "fieldName" : "cornerl",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19889650,
+        "width" : 184,
+        "cachedContents" : {
+          "non_null" : 82,
+          "smallest" : "NE CORNER",
+          "null" : 55,
+          "largest" : "SW CORNER",
+          "top" : [ {
+            "count" : 20,
+            "item" : "NE CORNER"
+          }, {
+            "count" : 19,
+            "item" : "SW CORNER"
+          }, {
+            "count" : 18,
+            "item" : "NW CORNER"
+          }, {
+            "count" : 17,
+            "item" : "SE CORNER"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 150292915,
+        "name" : "Landing Date Completed",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "datecompletedl",
+        "position" : 5,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 19889651,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 82,
+          "smallest" : "2013-07-12T00:00:00",
+          "null" : 55,
+          "largest" : "2014-05-02T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2014-04-07T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2014-04-02T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2014-04-18T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2014-04-11T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2014-04-10T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2014-04-21T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2014-04-24T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2014-04-25T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2014-04-28T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2014-04-29T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2014-04-30T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2014-05-02T00:00:00"
+          }, {
+            "count" : 8,
+            "item" : "2013-07-24T00:00:00"
+          }, {
+            "count" : 7,
+            "item" : "2013-07-26T00:00:00"
+          }, {
+            "count" : 6,
+            "item" : "2013-07-30T00:00:00"
+          }, {
+            "count" : 5,
+            "item" : "2013-10-02T00:00:00"
+          }, {
+            "count" : 4,
+            "item" : "2013-10-03T00:00:00"
+          }, {
+            "count" : 3,
+            "item" : "2013-09-27T00:00:00"
+          }, {
+            "count" : 2,
+            "item" : "2013-11-01T00:00:00"
+          }, {
+            "count" : 1,
+            "item" : "2013-12-03T00:00:00"
+          } ]
+        },
+        "format" : {
+          "view" : "date",
+          "align" : "left"
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Committed Update Frequency" : {
+            "Refresh rate" : "Semi-annual"
+          },
+          "Data Owner" : {
+            "Data Owner" : "Bureau of Street Services"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "jsonQuery" : {
+          "order" : [ {
+            "ascending" : false,
+            "columnFieldName" : "datecompletedl"
+          } ]
+        },
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "awhe-qmys",
+        "displayName" : "CJ",
+        "screenName" : "CJ"
+      },
+      "query" : {
+        "orderBys" : [ {
+          "ascending" : false,
+          "expression" : {
+            "columnId" : 150292915,
+            "type" : "column"
+          }
+        } ]
+      },
+      "rights" : [ "read" ],
+      "sortBys" : [ {
+        "id" : 0,
+        "viewColumnId" : 150292915
+      } ],
+      "tableAuthor" : {
+        "id" : "awhe-qmys",
+        "displayName" : "CJ",
+        "screenName" : "CJ"
+      },
+      "tags" : [ "bus", "pad", "pads", "landing", "landings", "street", "services", "bss", "concrete" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 51, "6FA7884F-88C3-4EA2-B280-B5511260DF00", 51, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"SATICOY ST and LURLINE AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.20834266400044", "-118.5840972689997", null, false ], null, null, "SE CORNER", "2014-05-02T00:00:00" ]
+, [ 50, "7005AAE8-3845-40FA-994E-784C46669A79", 50, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"SATICOY ST and LURLINE AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.20834266400044", "-118.5840972689997", null, false ], null, null, "NW CORNER", "2014-05-02T00:00:00" ]
+, [ 43, "6D3249C1-1B10-4327-94B8-31AD15621840", 43, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"SATICOY ST and DE SOTO AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.208333807000486", "-118.58847697399972", null, false ], null, null, "NE CORNER", "2014-04-30T00:00:00" ]
+, [ 44, "E6A10218-3058-42B9-BBA0-0B3DBCB614A6", 44, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"SATICOY ST and DE SOTO AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.208333807000486", "-118.58847697399972", null, false ], null, null, "NW CORNER", "2014-04-30T00:00:00" ]
+, [ 41, "0C5C04B3-728F-4B26-A061-638FBD52238C", 41, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"SATICOY ST and VARIEL AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.208333807000486", "-118.59286996599968", null, false ], null, null, "NE CORNER", "2014-04-29T00:00:00" ]
+, [ 40, "D6E9AA81-1749-4160-81BE-43132BE5A22A", 40, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"SATICOY ST and VARIEL AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.208333807000486", "-118.59286996599968", null, false ], null, null, "SW CORNER", "2014-04-29T00:00:00" ]
+, [ 46, "9D2F9377-D919-45E9-AEE8-E60C7271ABEF", 46, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"ALVARADO ST and 12TH ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.04878232100049", "-118.28171600499968", null, false ], "NW CORNER", "2014-05-01T00:00:00", "NW CORNER", "2014-04-28T00:00:00" ]
+, [ 39, "1825255B-23DF-4290-955D-8FD281CE398E", 39, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"ROSCOE BLVD and VARIEL AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.219931835000466", "-118.5928876799997", null, false ], null, null, "SW CORNER", "2014-04-28T00:00:00" ]
+, [ 37, "BB4321DE-2A87-45FB-B683-1D24AEE04DEA", 37, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"DE SOTO AVE and PARTHENIA ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.22821297700045", "-118.58852568699967", null, false ], null, null, "NE CORNER", "2014-04-25T00:00:00" ]
+, [ 38, "DAE28B91-D5D5-47CD-8349-48A67A82CCCE", 38, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"DE SOTO AVE and PARTHENIA ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.22821297700045", "-118.58852568699967", null, false ], null, null, "NW CORNER", "2014-04-25T00:00:00" ]
+, [ 36, "EB78C108-62B3-408B-82E4-3E0735CF6379", 36, 1400784577, "881741", 1400784592, "881741", "{\n}", [ "{\"address\":\"DE SOTO AVE and STRATHERN ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.21556098600047", "-118.58848583199972", null, false ], null, null, "SW CORNER", "2014-04-24T00:00:00" ]
+, [ 35, "B8E4D9C2-312E-4185-B680-DB3B4FCEAF82", 35, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"DE SOTO AVE and STRATHERN ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.21556098600047", "-118.58848583199972", null, false ], null, null, "NE CORNER", "2014-04-24T00:00:00" ]
+, [ 34, "4561935D-2D64-4590-9A4B-F30C8A367A08", 34, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"SHERMAN WAY and VANALDEN AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.201031345000445", "-118.54912604899971", null, false ], null, null, "SW CORNER", "2014-04-23T00:00:00" ]
+, [ 28, "51F00E0D-CE94-49DB-88E2-3D4A202287B6", 28, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"SHERMAN WAY and LURLINE AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.201111057000446", "-118.5841371249997", null, false ], null, null, "SE CORNER", "2014-04-22T00:00:00" ]
+, [ 27, "9054EF3C-38B5-4594-86C2-086A550F2872", 27, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"8TH ST and CONCORD ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.02257051300046", "-118.20701744399969", null, false ], null, null, "SW CORNER", "2014-04-21T00:00:00" ]
+, [ 29, "922686C8-F473-4D54-B3D5-595B29C7EAC2", 29, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"SHERMAN WAY and OSO AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.20102248800049", "-118.57534671399969", null, false ], null, null, "NW CORNER", "2014-04-21T00:00:00" ]
+, [ 19, "96C919CF-E179-4C5B-AB45-4E1E005731AF", 19, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"SHERMAN WAY and OAKDALE AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.20102248800049", "-118.56663601499969", null, false ], null, null, "SW CORNER", "2014-04-18T00:00:00" ]
+, [ 26, "9D0476DE-7BCB-449D-958A-4ECB841E39D4", 26, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"8TH ST and CONCORD ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.02257051300046", "-118.20701744399969", null, false ], null, null, "NW CORNER", "2014-04-18T00:00:00" ]
+, [ 20, "27D7AEC0-FD55-4586-A12F-96EEB8D6E394", 20, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"SHERMAN WAY and ENFIELD AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.20120405400047", "-118.52407891499968", null, false ], null, null, "NW CORNER", "2014-04-17T00:00:00" ]
+, [ 17, "6AC9337C-7B7A-426A-BB52-136E2772F391", 17, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"SHERMAN WAY and JAMIESON AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.20108005800046", "-118.52184699199972", null, false ], null, null, "NE CORNER", "2014-04-16T00:00:00" ]
+, [ 18, "A1014F2F-0019-4F41-93D4-CEB202B272F0", 18, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"VICTORY BLVD and BIRMINGHAM HIGH SCHOOL WAY\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.186630128000445", "-118.50548841499972", null, false ], null, null, "SE CORNER", "2014-04-15T00:00:00" ]
+, [ 30, "8584261F-84CE-47E6-9802-0E984E42A203", 30, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"8TH ST and SPENCE ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.02052015500044", "-118.20241631799968", null, false ], "NE CORNER", "2014-04-24T00:00:00", "NE CORNER", "2014-04-11T00:00:00" ]
+, [ 32, "00901AA0-A28D-41FA-AF16-03FCCDCF159B", 32, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"8TH ST and SPENCE ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.02052015500044", "-118.20241631799968", null, false ], "SW CORNER", "2014-04-16T00:00:00", "NE CORNER", "2014-04-11T00:00:00" ]
+, [ 22, "6B95CEDF-15BF-44EA-A55F-AD5CD40C1931", 22, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"SHERMAN WAY and SHIRLEY AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.201040202000456", "-118.55786774599972", null, false ], null, null, "SE CORNER", "2014-04-11T00:00:00" ]
+, [ 21, "7E890E98-49D7-4448-9A39-32E624A9942A", 21, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"SHERMAN WAY and SHIRLEY AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.201040202000456", "-118.55786774599972", null, false ], null, null, "NW CORNER", "2014-04-11T00:00:00" ]
+, [ 33, "55DAB1AB-D33B-4388-8883-D12DA9D0C6A7", 33, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"8TH ST and SPENCE ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.02052015500044", "-118.20241631799968", null, false ], "SW CORNER", "2014-04-16T00:00:00", "SW CORNER", "2014-04-10T00:00:00" ]
+, [ 31, "E9AE6554-007F-401B-B3A8-671D2448ED3A", 31, 1400784577, "881741", 1400784592, "881741", "{\n}", [ "{\"address\":\"8TH ST and SPENCE ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.02052015500044", "-118.20241631799968", null, false ], "NE CORNER", "2014-04-24T00:00:00", "SW CORNER", "2014-04-10T00:00:00" ]
+, [ 23, "8C39BD95-A547-475D-A9B1-D70073BC37B1", 23, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"DE SOTO AVE and INGOMAR ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.21191196900048", "-118.58847697399972", null, false ], null, null, "SW CORNER", "2014-04-10T00:00:00" ]
+, [ 11, "4A0E75A8-A305-4B5C-BA2E-257585B65659", 11, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"DE SOTO AVE and VALERIO ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.204671505000476", "-118.5884592599997", null, false ], null, null, "SW CORNER", "2014-04-09T00:00:00" ]
+, [ 5, "9C21A041-0017-47CD-90F6-44D708E388BD", 5, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"SATICOY ST and ROYER AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.20825409600047", "-118.62776590199968", null, false ], null, null, "SW CORNER", "2014-04-07T00:00:00" ]
+, [ 4, "30ED0176-EC9E-4847-AA3E-ED182508FF0E", 4, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"SATICOY ST and ROYER AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.20825409600047", "-118.62776590199968", null, false ], null, null, "NW CORNER", "2014-04-07T00:00:00" ]
+, [ 3, "D48F1733-F7FC-46DD-A2D6-60A7C5A92F4C", 3, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"SATICOY ST and SALE AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.20828066600046", "-118.6190374899997", null, false ], null, null, "SW CORNER", "2014-04-04T00:00:00" ]
+, [ 6, "A167D39D-5997-4093-AE3B-3906299D0AB4", 6, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"ROSCOE BLVD and FARRALONE AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.21958198900046", "-118.61037993199972", null, false ], null, null, "SW CORNER", "2014-04-03T00:00:00" ]
+, [ 9, "2BA43253-ED9F-4D97-84D7-1E2A5C1C7068", 9, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"ROSCOE BLVD and SHOUP AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.21951113500046", "-118.6147064969997", null, false ], null, null, "NE CORNER", "2014-04-02T00:00:00" ]
+, [ 10, "3D9DD3E5-FD7E-4267-8EC7-7A5C65F915B3", 10, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"ROSCOE BLVD and SHOUP AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.21951113500046", "-118.6147064969997", null, false ], null, null, "SW CORNER", "2014-04-02T00:00:00" ]
+, [ 2, "F337B3B2-2CF1-41C2-9CBD-61EEC191A297", 2, 1400784577, "881741", 1400784592, "881741", "{\n}", [ "{\"address\":\"OLYMPIC BLVD and CAMULOS ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.02247308800048", "-118.21564843099969", null, false ], null, null, "NE CORNER", "2014-03-29T00:00:00" ]
+, [ 132, "2D898368-D166-4B49-B99D-42FAEA4733CB", 132, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"YORK BLVD and AVENUE 57\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.118870899000456", "-118.19370561799968", null, false ], null, null, "SW CORNER", "2014-03-12T00:00:00" ]
+, [ 134, "8BBD0326-8550-4BF5-B7D6-88A7254A1A96", 134, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"VERDUGO ROAD and SHASTA CIR NORTH\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.130871913000476", "-118.23288826399971", null, false ], null, null, "NW CORNER", "2014-03-07T00:00:00" ]
+, [ 135, "E4AE6F88-527E-4F54-AF61-700B6E56F665", 135, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"VERDUGO ROAD and WAWONA ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.127134328000466", "-118.23214871799968", null, false ], null, null, "SE CORNER", "2014-02-27T00:00:00" ]
+, [ 133, "77F72AF1-145A-43E5-B308-B442FE9A559D", 133, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"VERDUGO ROAD and PALMER DR\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.13387438100045", "-118.2334861009997", null, false ], null, null, "SE CORNER", "2014-02-27T00:00:00" ]
+, [ 131, "996287F1-B40E-4F1D-A12B-19C2EAF97B7A", 131, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"OLYMPIC BLVD and GRAND AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.04303423400046", "-118.26060573499967", null, false ], null, null, "SW CORNER", "2014-02-25T00:00:00" ]
+, [ 129, "8C9B1A29-9F33-40A4-AD6A-5B0832EECA3D", 129, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"VENICE BLVD and CRENSHAW BLVD\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.04470374800047", "-118.32840924899972", null, false ], null, null, "SW CORNER", "2014-02-21T00:00:00" ]
+, [ 130, "2312C95B-1325-42F2-92EA-BC36C4DC0406", 130, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"WESTERN AVE and MELROSE AVE CD 4\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.05349076500045", "-118.24531669099969", null, false ], null, null, "SW CORNER", "2014-02-19T00:00:00" ]
+, [ 125, "8EB81C3E-79DB-4D1F-94E6-952F0E366788", 125, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"SUNSET BLVD and DESCANSO DR\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.08542305500049", "-118.2748386719997", null, false ], null, null, "NW CORNER", "2014-02-04T00:00:00" ]
+, [ 126, "7B9708BF-BFDD-401F-A956-46667EE2F913", 126, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"OLYMPIC BLVD and CENTRAL AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.03204290000048", "-118.24415858899971", null, false ], null, null, "NE CORNER", "2014-02-03T00:00:00" ]
+, [ 128, "FE42CF41-D695-4C86-9CC0-C1BD253CE6C5", 128, 1400784577, "881741", 1400784592, "881741", "{\n}", [ "{\"address\":\"FAIRFAX AVE and PICO BLVD\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.05150137000044", "-118.3666486409997", null, false ], null, null, "SW CORNER", "2014-01-29T00:00:00" ]
+, [ 124, "25EC0B13-BF02-4B6B-8C82-E44A28872AC9", 124, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"HUNTINGTON DR and KENDALL AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.09857102900048", "-118.15540865599968", null, false ], null, null, "SW CORNER", "2014-01-27T00:00:00" ]
+, [ 123, "74BBC78E-EAD9-46A8-B034-B1F3BD955CD6", 123, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"GAGE AVE and VERMONT AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "33.98191320400048", "-118.29153823699971", null, false ], null, null, "SW CORNER", "2014-01-09T00:00:00" ]
+, [ 121, "62C31B5C-8B93-4283-8884-442F009768F6", 121, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"FALLBROOK AVE and RUNNYMEDE ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.20499035100045", "-118.6234393369997", null, false ], null, null, "NE CORNER", "2013-12-06T00:00:00" ]
+, [ 122, "0853F710-8C6D-4AB1-AB43-370640BFC0B2", 122, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"FALLBROOK AVE and RUNNYMEDE ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.20499035100045", "-118.6234393369997", null, false ], null, null, "SW CORNER", "2013-12-06T00:00:00" ]
+, [ 118, "9F913237-4315-4E0B-9E7F-B36175506F0D", 118, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"FALLBROOK AVE and INGOMAR ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.21186325700046", "-118.6234393369997", null, false ], null, null, "SW CORNER", "2013-12-05T00:00:00" ]
+, [ 120, "A920880E-7EED-4668-A338-71B83E0A1888", 120, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"FALLBROOK AVE and STRATHERN ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.21549013100048", "-118.6234393369997", null, false ], null, null, "NW CORNER", "2013-12-03T00:00:00" ]
+, [ 119, "077B6EC4-2FFE-41DA-ACE8-468781D9A338", 119, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"FALLBROOK AVE and STRATHERN ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.21549013100048", "-118.6234393369997", null, false ], null, null, "NE CORNER", "2013-12-03T00:00:00" ]
+, [ 117, "BEFC84BC-2F6D-4940-9597-18D0C4C328E9", 117, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"FALLBROOK AVE and ROSCOE BLVD\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.21939156800045", "-118.62349690699972", null, false ], null, null, "SW CORNER", "2013-12-03T00:00:00" ]
+, [ 116, "1C8D2A96-E6F8-467E-90D8-7A6F5DA451A9", 116, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"ROSCOE BLVD and SALE AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.21945356500049", "-118.6190684879997", null, false ], null, null, "SW CORNER", "2013-11-22T00:00:00" ]
+, [ 115, "7C8C34D3-FF0A-43E0-84F3-CFC636CB447E", 115, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"HILL ST and 5TH ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.04876017900045", "-118.25179761099969", null, false ], null, null, "NW CORNER", "2013-11-16T00:00:00" ]
+, [ 111, "50F037A1-DBD3-49B0-B5DB-F1020E854C90", 111, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"YORK BLVD and AVENUE 66\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.11384021600048", "-118.17982695499973", null, false ], null, null, "SW CORNER", "2013-11-08T00:00:00" ]
+, [ 114, "2C6382D3-3704-45BF-B790-1591F65009F7", 114, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"FALLBROOK AVE and SHERMAN WAY\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.20095163400049", "-118.62341719499972", null, false ], null, null, "SW CORNER", "2013-11-01T00:00:00" ]
+, [ 113, "B448FB64-EEDD-483B-B932-92E97943110E", 113, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"FALLBROOK AVE and SHERMAN WAY\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.20095163400049", "-118.62341719499972", null, false ], null, null, "NE CORNER", "2013-11-01T00:00:00" ]
+, [ 112, "E09528B1-EDA1-4327-8127-42DFF91DCFC4", 112, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"CESAR E CHAVEZ AVE and NORTH SPRING ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.05828127900048", "-118.23956631899972", null, false ], null, null, "SE CORNER", "2013-10-31T00:00:00" ]
+, [ 109, "3269216B-198D-4DA5-944A-F73C888B3D1E", 109, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"SATICOY ST and OWENSMOUTH AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.20832052100047", "-118.60157623599969", null, false ], null, null, "NW CORNER", "2013-10-15T00:00:00" ]
+, [ 103, "D4A13B2E-4449-4727-94A6-BB3C8884E02B", 103, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"FALLBROOK AVE and ERWIN ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.182790689000456", "-118.6233684829997", null, false ], null, null, "NE CORNER", "2013-10-03T00:00:00" ]
+, [ 104, "80079918-47B9-4C98-97F3-78D08873DBB9", 104, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"FALLBROOK AVE and ERWIN ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.182790689000456", "-118.6233684829997", null, false ], null, null, "NW CORNER", "2013-10-03T00:00:00" ]
+, [ 105, "B417C8B8-2C59-4B06-BD97-BDBB14B6A276", 105, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"FALLBROOK AVE and HATTERAS ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.17584250100049", "-118.6233286269997", null, false ], null, null, "SE CORNER", "2013-10-02T00:00:00" ]
+, [ 101, "DB42804C-09A5-42BE-9B76-44B8E6456193", 101, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"WESTERN AVE and 60TH ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "33.98524337500049", "-118.30895963499972", null, false ], null, null, "NW CORNER", "2013-10-02T00:00:00" ]
+, [ 106, "84C7C9A6-EB12-47B1-879D-110279408BCA", 106, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"FIGUEROA ST and YORK BLVD\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.11550087200044", "-118.1843395139997", null, false ], null, null, "SE CORNER", "2013-09-27T00:00:00" ]
+, [ 107, "D7953DE6-16A7-4985-A62B-14D1C43401DB", 107, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"CESAR E CHAVEZ AVE and STATE ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.05009313300047", "-118.2151258779997", null, false ], null, null, "NW CORNER", "2013-09-27T00:00:00" ]
+, [ 96, "849845E1-5D79-4DC7-9448-55ECF2309016", 96, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"SAN FERNANDO ROAD and EDWARD AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.110532187000445", "-118.24297620099969", null, false ], null, null, "NE CORNER", "2013-09-17T00:00:00" ]
+, [ 85, "48BE6907-F100-4D25-8B9F-A52BF0D3BD94", 85, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"BEVERLY BLVD and BENTON WAY\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.06987045000045", "-118.2776595739997", null, false ], "SW CORNER", "2013-08-27T00:00:00", "SW CORNER", "2013-08-22T00:00:00" ]
+, [ 80, "C0CE30CE-54AA-4954-B6CC-1405985CB45C", 80, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"FLETCHER DR and LACLEDE AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.11242312200045", "-118.2491671299997", null, false ], null, null, "NW CORNER", "2013-08-14T00:00:00" ]
+, [ 76, "B9518E0F-C307-4710-984B-E7933BF7DF03", 76, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"SEPULVEDA BLVD and PARTHENIA ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.22827054700048", "-118.46765643599969", null, false ], "SE CORNER", "2013-08-01T00:00:00", "SE CORNER", "2013-08-01T00:00:00" ]
+, [ 77, "D9F8C7AD-6413-41EB-B17B-F23A061BA8A9", 77, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"SEPULVEDA BLVD and VALERIO ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.204844214000445", "-118.46620834299972", null, false ], "NW CORNER", "2013-07-25T00:00:00", "NW CORNER", "2013-07-30T00:00:00" ]
+, [ 68, "0E7185A5-8C1F-47AB-8374-9D687C373DA6", 68, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"NORMANDIE AVE and 46TH ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.001650665000454", "-118.30018693799968", null, false ], null, null, "SE CORNER", "2013-07-30T00:00:00" ]
+, [ 67, "4B27D41F-8F2A-47E2-BB5F-3AA35C51C59B", 67, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"NORMANDIE AVE and 76TH ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "33.970983868000474", "-118.3003065049997", null, false ], null, null, "SE CORNER", "2013-07-26T00:00:00" ]
+, [ 66, "9D99C926-0ABD-415B-BDF7-FA81C92CA1CE", 66, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"NORMANDIE AVE and GAGE AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "33.98235161700046", "-118.30025779299967", null, false ], null, null, "SE CORNER", "2013-07-26T00:00:00" ]
+, [ 69, "9D072DD1-A283-4BD5-8462-137779A591CA", 69, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"SUNSET BLVD and INNES AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.071322971000484", "-118.25057979599967", null, false ], "SW CORNER", "2013-07-31T00:00:00", "SW CORNER", "2013-07-24T00:00:00" ]
+, [ 61, "44E39D1A-77B9-48FB-8674-B792C17F29FD", 61, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"OLYMPIC BLVD CD 10 and WINDSOR BLVD CD 10\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.05349076500045", "-118.24531669099969", null, false ], null, null, "SW CORNER", "2013-07-24T00:00:00" ]
+, [ 60, "38CE330F-DD01-424C-8744-6746E615BF73", 60, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"OLYMPIC BLVD CD 4 and WINDSOR BLVD CD 4\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.05349076500045", "-118.24531669099969", null, false ], null, null, "NE CORNER", "2013-07-24T00:00:00" ]
+, [ 82, "83390D48-BB67-496D-87F9-B734E06B26FB", 82, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"VAN NUYS BLVD and KESWICK ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.21027345400046", "-118.44876923199968", null, false ], "SE CORNER", "2013-07-23T00:00:00", "SE CORNER", "2013-07-23T00:00:00" ]
+, [ 58, "A505D960-C559-4244-ACC1-64BF8649D75E", 58, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"OLYMPIC BLVD and LUCERNE BLVD\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.05528324000045", "-118.32790883699971", null, false ], null, null, "NE CORNER", "2013-07-19T00:00:00" ]
+, [ 56, "28F084C1-241B-49C5-9DED-011440675CC2", 56, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"IROLO ST and JAMES M WOOD BLVD\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.05589436100047", "-118.30088662799972", null, false ], null, null, "NW CORNER", "2013-07-18T00:00:00" ]
+, [ 57, "070855B5-02F1-4037-B134-ACD4AEFC93D7", 57, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"WESTERN AVE and N/O LEMON GROVE AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.05349076500045", "-118.24531669099969", null, false ], null, null, "NE CORNER", "2013-07-12T00:00:00" ]
+, [ 72, "B1F47990-24CF-492E-A9A6-0579CF4452F5", 72, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"VENTURA BLVD and CEDROS AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.15164119500048", "-118.4530470839997", null, false ], "SE CORNER", "2013-07-27T00:00:00", null, null ]
+, [ 59, "B66CB9CF-1FAA-487D-B4AF-DC57C1BF43BF", 59, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"VENICE BLVD and NEW HAMPSHIRE AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.04425204900048", "-118.2923973499997", null, false ], "SE CORNER", "2013-07-21T00:00:00", null, null ]
+, [ 73, "139B7730-C112-4DA4-8BEC-AE01F81D2A5B", 73, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"VENTURA BLVD and WILLIS AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.15200432600045", "-118.45528786299968", null, false ], "NW CORNER", "2013-07-28T00:00:00", null, null ]
+, [ 108, "120460F0-67DC-402D-B629-DD5A09B58291", 108, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"MONTE VISTA ST and AVENUE 59\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.11278182400048", "-118.19237709299972", null, false ], "NE CORNER", "2013-10-11T00:00:00", null, null ]
+, [ 16, "C3F808AD-DDF4-44A2-8879-F93FCBFB840C", 16, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"MARENGO ST and STATE ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.05784286600044", "-118.2101970489997", null, false ], "NE CORNER", "2014-04-19T00:00:00", null, null ]
+, [ 63, "1156BBE0-8AAD-4E9D-B5AF-DB6EAE07BC69", 63, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"VENTURA BLVD and NOBLE AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.15308043100049", "-118.46179763799972", null, false ], "NW CORNER", "2013-07-28T00:00:00", null, null ]
+, [ 91, "D76FD2A3-9EF2-46CA-8481-4EC01FF571C3", 91, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"VENTURA BLVD and WHITE OAK AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.16242439300049", "-118.5185478199997", null, false ], "SW CORNER", "2013-09-07T00:00:00", null, null ]
+, [ 136, "0D9DFFB8-8217-4672-82FB-060500488EA9", 136, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"DEVONSHIRE ST and WOODMAN AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.257201404000455", "-118.4542471849997", null, false ], "SE CORNER", "2014-03-22T00:00:00", null, null ]
+, [ 79, "DCBDB632-4BD6-4570-84E6-B544DC06C7C2", 79, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"VANOWEN ST and LANKERSHIM BLVD\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.19394144700044", "-118.38779876699971", null, false ], "NW CORNER", "2013-08-10T00:00:00", null, null ]
+, [ 55, "DEE8A188-6B1D-484C-88FB-A389DBC3D644", 55, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"WILMINGTON BLVD and D ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "33.77352069200049", "-118.27367842599972", null, false ], "NW CORNER", "2013-07-13T00:00:00", null, null ]
+, [ 100, "E35B6EEB-1EEF-487D-B945-CF4F3A93D34E", 100, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"OLIVE ST and 5TH ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.04947315500044", "-118.25283828899973", null, false ], "NE CORNER", "2013-09-28T00:00:00", null, null ]
+, [ 97, "08B140F9-8FE8-44CC-B4AD-1077AECF95A9", 97, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"MONTANA ST and ALVARADO ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.080560652000486", "-118.2616774119997", null, false ], "SE CORNER", "2013-09-21T00:00:00", null, null ]
+, [ 110, "E744DAD0-B50E-4DA1-8FCB-B166BA88F91A", 110, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"VERMONT AVE and 3RD ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.06905119200047", "-118.2916489479997", null, false ], "NE CORNER", "2013-10-19T00:00:00", null, null ]
+, [ 127, "E77CFA11-2269-4579-ACF9-1CF82CBA83B1", 127, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"WESTERN AVE and MELROSE AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.08351440600046", "-118.30912791499969", null, false ], "SW CORNER", "2014-02-08T00:00:00", null, null ]
+, [ 64, "E8AB3FA9-011E-4B15-978D-504276C67E9F", 64, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"VENTURA BLVD and NOBLE AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.15308043100049", "-118.46179763799972", null, false ], "SE CORNER", "2013-08-04T00:00:00", null, null ]
+, [ 102, "041EA41F-CB12-4555-847D-B33F53D878DC", 102, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"OLIVE ST and 1ST ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.05500424900049", "-118.2476880379997", null, false ], "SE CORNER", "2013-10-05T00:00:00", null, null ]
+, [ 93, "F499CE6C-B28E-4691-95AE-A3C8D22BA901", 93, 1400784577, "881741", 1400784592, "881741", "{\n}", [ "{\"address\":\"SUNSET BLVD and DOUGLAS ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.07419258600049", "-118.25197917599968", null, false ], "SW CORNER", "2013-09-14T00:00:00", null, null ]
+, [ 81, "FAD179BA-6760-4948-B71F-C619F0848D90", 81, 1400784577, "881741", 1400784592, "881741", "{\n}", [ "{\"address\":\"WINNETKA AVE and SATICOY ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.20837366200044", "-118.57099800699967", null, false ], "SE CORNER", "2013-08-15T00:00:00", null, null ]
+, [ 62, "FD306E8A-3059-4021-AC37-8AC5CF5E6A80", 62, 1400784577, "881741", 1400784592, "881741", "{\n}", [ "{\"address\":\"VENTURA BLVD and KESTER AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.15235417000048", "-118.45742678899973", null, false ], "SE CORNER", "2013-07-27T00:00:00", null, null ]
+, [ 137, "03AEEF43-115A-4969-AE04-09920CBD8369", 137, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"SAN FERNANDO ROAD and ASTORIA ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.296313195000494", "-118.4554959999997", null, false ], "SE CORNER", "2014-03-29T00:00:00", null, null ]
+, [ 71, "4E7C643B-981B-402F-A82B-4BD82B92CA71", 71, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"VENTURA BLVD and CEDROS AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.15164119500048", "-118.4530470839997", null, false ], "NW CORNER", "2013-08-03T00:00:00", null, null ]
+, [ 45, "4D169966-9B9F-4669-804A-116ABCE161B0", 45, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"CENTRAL AVE and 112TH ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "33.93312089000045", "-118.25423766899968", null, false ], "NE CORNER", "2014-04-26T00:00:00", null, null ]
+, [ 75, "5B5ED7B6-ADC9-4C39-B737-1AE770136BCF", 75, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"VENTURA BLVD and SEPULVEDA BLVD\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.15383326200049", "-118.46619948599971", null, false ], "NE CORNER", "2013-08-03T00:00:00", null, null ]
+, [ 7, "63EDC9BC-9907-4918-BE7F-A1653D483FAD", 7, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"VAN NUYS BLVD and BRADLEY AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.26889242800047", "-118.41827957099969", null, false ], "NE CORNER", "2014-04-06T00:00:00", null, null ]
+, [ 65, "655AE0FA-DEF5-48B7-9390-D61C9DF208F4", 65, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"MELROSE AVE and LA BREA AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.08345240900047", "-118.34406813599969", null, false ], "SW CORNER", "2013-07-20T00:00:00", null, null ]
+, [ 48, "65E5FD09-602E-4E26-9966-5E6E4F272671", 48, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"WOODLEY AVE and NORDHOFF ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.23564386300046", "-118.48506897699968", null, false ], "SE CORNER", "2014-05-03T00:00:00", null, null ]
+, [ 78, "67DA84CF-3E17-47CC-9810-2F93351D989F", 78, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"DEVONSHIRE ST and SEPULVEDA BLVD\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.257312114000456", "-118.46746601399968", null, false ], "SE CORNER", "2013-08-07T00:00:00", null, null ]
+, [ 15, "6B851D01-DC3E-4743-A4AA-EBB8873D85CE", 15, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"PICO BLVD and HAUSER BLVD\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.048702610000475", "-118.35686626499972", null, false ], null, null, null, null ]
+, [ 88, "4A18B03F-EF32-426A-BA97-7F01FB2E35D1", 88, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"VINELAND AVE and CHANDLER BLVD\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.168101626000464", "-118.37042608199971", null, false ], "NE CORNER", "2013-08-23T00:00:00", null, null ]
+, [ 25, "6F733529-6C17-4EC5-9854-D3D133D0623F", 25, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"PICO BLVD and NORTON AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.04757336300048", "-118.32383912099971", null, false ], "SW CORNER", "2014-04-19T00:00:00", null, null ]
+, [ 42, "3FC54D02-1B4D-4BCF-803E-B25DE3DD7BF1", 42, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"VINELAND AVE and VANOWEN ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.19395030400045", "-118.37029765799969", null, false ], "SW CORNER", "2014-05-03T00:00:00", null, null ]
+, [ 49, "38B14F92-5197-4D03-9E05-B4C092878AB0", 49, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"RESEDA BLVD and RAYEN ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.23189299200044", "-118.53608878499972", null, false ], "NW CORNER", "2014-04-12T00:00:00", null, null ]
+, [ 86, "7D5D1145-F9E9-4702-ADEC-D18AAF169504", 86, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"FIGUEROA ST and AVENUE 60\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.111072454000464", "-118.18977761199972", null, false ], "NE CORNER", "2013-08-24T00:00:00", null, null ]
+, [ 52, "33CC0D57-02E2-4AD6-BFC8-4DCC26020C53", 52, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"PICO BLVD and CRENSHAW BLVD\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.04783021100047", "-118.3266998789997", null, false ], "SE CORNER", "2014-05-03T00:00:00", null, null ]
+, [ 13, "7F552536-B1E6-417D-AE22-03384D6B7C13", 13, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"CRENSHAW BLVD and 71ST ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "33.975660277000486", "-118.33088916299971", null, false ], null, null, null, null ]
+, [ 14, "7FE26FAF-5FA2-47B0-B593-C8B8EDEE86EC", 14, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"ANAHEIM ST and MCFARLAND AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "33.78051316400047", "-118.25253715699972", null, false ], "NE CORNER", "2014-04-13T00:00:00", null, null ]
+, [ 12, "84083915-709A-4357-AD84-569337C42920", 12, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"FIGUEROA ST and COLDEN AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "33.94916062200048", "-118.28269911399968", null, false ], null, null, null, null ]
+, [ 83, "8558C918-13FE-43A1-B536-62BFF764CEB1", 83, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"WESTWOOD BLVD and WEYBURN AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.06257241600048", "-118.44543906099972", null, false ], "NW CORNER", "2013-08-17T00:00:00", null, null ]
+, [ 95, "881CB82B-E80A-4044-9FFB-BF882156262D", 95, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"SATICOY ST and ETIWANDA AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.208400234000464", "-118.53171793599972", null, false ], "SW CORNER", "2013-09-11T00:00:00", null, null ]
+, [ 92, "2CA6A956-D9AC-4D67-9EEE-730144B0402D", 92, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"LAUREL CANYON BLVD and STAGG ST CD 02\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.05349076500045", "-118.24531669099969", null, false ], "NW CORNER", "2013-08-28T00:00:00", null, null ]
+, [ 53, "647CCF1E-79C0-49D5-8644-7D1DA4B0FD9D", 53, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"OXNARD ST and VAN NUYS BLVD\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.17940295000045", "-118.44873823299969", null, false ], null, null, null, null ]
+, [ 94, "8DF7B548-245D-47F9-B61E-228875D9253C", 94, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"VAN NUYS BLVD and PLUMMER ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.24268062000044", "-118.45022618099972", null, false ], "NE CORNER", "2013-09-13T00:00:00", null, null ]
+, [ 74, "2B333F33-56B1-495E-AB7B-6D6AE987EB48", 74, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"VENTURA BLVD and WILLIS AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.15200432600045", "-118.45528786299968", null, false ], "SE CORNER", "2013-08-04T00:00:00", null, null ]
+, [ 90, "8F1A1286-DF33-4C49-8042-42CCA451FECA", 90, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"LAUREL CANYON BLVD and STAGG ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.21209353400047", "-118.3965094669997", null, false ], "SE CORNER", "2013-08-27T00:00:00", null, null ]
+, [ 54, "29ED10F8-04C5-4EDE-939E-3EC11E1E5C26", 54, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"SEPULVEDA BLVD and VICTORY BLVD\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.18666112800048", "-118.46616848699972", null, false ], null, null, null, null ]
+, [ 47, "91F572E9-5D98-42C8-ADF8-8C1273C6B224", 47, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"VINELAND AVE and VICTORY BLVD\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.18669212700047", "-118.3703065149997", null, false ], "NE CORNER", "2014-04-26T00:00:00", null, null ]
+, [ 84, "25700245-C1ED-450F-B16E-CB20055B4656", 84, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"BEVERLY GLEN BLVD and WILKINS AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.06118189300048", "-118.4252587579997", null, false ], "SW CORNER", "2013-08-25T00:00:00", null, null ]
+, [ 8, "254A2301-04AD-4172-8133-2009492A239E", 8, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"VANOWEN ST and LURLINE AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.19377316700047", "-118.5838359919997", null, false ], "SW CORNER", "2014-04-05T00:00:00", null, null ]
+, [ 70, "231F01CC-DF5B-41AC-92FB-2E240B4AC95C", 70, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"VAN NUYS BLVD and VALERIO ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.20483092800049", "-118.44874708899971", null, false ], "SE CORNER", "2013-07-31T00:00:00", null, null ]
+, [ 24, "1ECF42B2-5AFC-4D96-B965-CCE32B9D9034", 24, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"BROADWAY and SLAUSON AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "33.98918023800047", "-118.2782972659997", null, false ], "SE CORNER", "2014-04-10T00:00:00", null, null ]
+, [ 89, "A0882BE2-0C7C-4DFD-BED4-6B58FB71047C", 89, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"SATICOY ST and WHITE OAK AVE\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.20841351800044", "-118.51859653299971", null, false ], "SW CORNER", "2013-08-21T00:00:00", null, null ]
+, [ 87, "1A6CAC79-32C8-453A-A9DB-FD5C4447E65D", 87, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"WESTERN AVE and 3RD ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.06897148000047", "-118.30911905799968", null, false ], "SW CORNER", "2013-08-24T00:00:00", null, null ]
+, [ 1, "A640FEF3-72F4-4C27-A135-2B464B2D7B05", 1, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"DE SOTO AVE and LASSEN ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.24998308200048", "-118.58856997099969", null, false ], "NE CORNER", "2014-03-30T00:00:00", null, null ]
+, [ 98, "A9CA0BC3-A06C-48EA-8325-503E80A8109E", 98, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"LA BREA AVE and 2ND ST\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.07102183800049", "-118.3440371369997", null, false ], "SE CORNER", "2013-09-21T00:00:00", null, null ]
+, [ 99, "B023F247-B93A-490C-9559-CB0ADC5A124D", 99, 1400784577, "881741", 1400784591, "881741", "{\n}", [ "{\"address\":\"VERMONT AVE and OLYMPIC BLVD\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"\"}", "34.05255090600048", "-118.29161794899971", null, false ], "SW CORNER", "2013-09-28T00:00:00", null, null ]
+ ]
+}

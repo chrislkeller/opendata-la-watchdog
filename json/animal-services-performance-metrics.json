@@ -9,7 +9,7 @@
       "createdAt" : 1407172502,
       "description" : "This dataset contains metrics that measure the operational performance of the Department of Animal Services. These metrics are used on a regular basis by the department and the Mayor to evaluate progress and inform decision making. Performance management forms the foundation of a data-driven culture of innovation and excellence in the City of Los Angeles.",
       "displayType" : "table",
-      "downloadCount" : 3,
+      "downloadCount" : 17,
       "indexUpdatedAt" : 1414612892,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -22,7 +22,7 @@
       "rowsUpdatedBy" : "anbw-drra",
       "tableId" : 1772769,
       "totalTimesRated" : 0,
-      "viewCount" : 68,
+      "viewCount" : 84,
       "viewLastModified" : 1412779457,
       "viewType" : "tabular",
       "columns" : [ {

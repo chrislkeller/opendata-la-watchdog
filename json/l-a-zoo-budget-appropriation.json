@@ -7,7 +7,7 @@
       "createdAt" : 1401469297,
       "description" : "L.A. Zoo budget appropriation for the last 5 years.",
       "displayType" : "table",
-      "downloadCount" : 4,
+      "downloadCount" : 12,
       "indexUpdatedAt" : 1414616114,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -20,7 +20,7 @@
       "rowsUpdatedBy" : "uypn-9feh",
       "tableId" : 1600569,
       "totalTimesRated" : 0,
-      "viewCount" : 63,
+      "viewCount" : 68,
       "viewLastModified" : 1401486403,
       "viewType" : "tabular",
       "columns" : [ {

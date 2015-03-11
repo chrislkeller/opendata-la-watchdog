@@ -1,0 +1,897 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "2in3-5b7t",
+      "name" : "Immigration Workshops",
+      "averageRating" : 0,
+      "category" : "A Well Run City",
+      "createdAt" : 1422565832,
+      "description" : "Immigration Workshops around the City of Los Angeles.",
+      "displayType" : "table",
+      "downloadCount" : 3,
+      "indexUpdatedAt" : 1425943049,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 10543185,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1425930270,
+      "publicationGroup" : 2167810,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1425930003,
+      "rowsUpdatedBy" : "ihg6-62bp",
+      "tableId" : 2448255,
+      "totalTimesRated" : 0,
+      "viewCount" : 70,
+      "viewLastModified" : 1425931478,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 193887786,
+        "name" : "Date of event",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date_of_event",
+        "position" : 1,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 24252798,
+        "width" : 256,
+        "cachedContents" : {
+          "non_null" : 32,
+          "smallest" : "2015-01-27T00:00:00",
+          "null" : 6,
+          "largest" : "2015-03-07T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2015-01-27T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2015-02-11T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2015-02-07T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2015-02-28T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2015-01-29T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2015-02-04T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2015-02-06T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2015-02-10T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2015-02-12T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2015-02-17T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2015-02-18T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2015-02-19T00:00:00"
+          }, {
+            "count" : 8,
+            "item" : "2015-02-21T00:00:00"
+          }, {
+            "count" : 7,
+            "item" : "2015-03-01T00:00:00"
+          }, {
+            "count" : 6,
+            "item" : "2015-02-05T00:00:00"
+          }, {
+            "count" : 5,
+            "item" : "2015-03-07T00:00:00"
+          }, {
+            "count" : 4,
+            "item" : "2015-03-03T00:00:00"
+          }, {
+            "count" : 3,
+            "item" : "2015-03-04T00:00:00"
+          }, {
+            "count" : 2,
+            "item" : "2015-03-06T00:00:00"
+          } ]
+        },
+        "format" : {
+          "view" : "date",
+          "align" : "left"
+        }
+      }, {
+        "id" : 193887787,
+        "name" : "Organization",
+        "dataTypeName" : "text",
+        "fieldName" : "organization",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 24252799,
+        "width" : 244,
+        "cachedContents" : {
+          "non_null" : 38,
+          "smallest" : "Asian Americans Advancing Justice-Los Angeles",
+          "null" : 0,
+          "largest" : "Los Angeles Public Library",
+          "top" : [ {
+            "count" : 20,
+            "item" : "DACA 100% Task Force"
+          }, {
+            "count" : 19,
+            "item" : "Long Beach Immigrant Rights Coalition"
+          }, {
+            "count" : 18,
+            "item" : "CHIRLA"
+          }, {
+            "count" : 17,
+            "item" : "CARECEN"
+          }, {
+            "count" : 16,
+            "item" : "Asian Americans Advancing Justice-Los Angeles"
+          }, {
+            "count" : 15,
+            "item" : "Los Angeles Public Library"
+          }, {
+            "count" : 14,
+            "item" : "LA Voice"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 193887788,
+        "name" : "Site Name",
+        "dataTypeName" : "text",
+        "fieldName" : "site_name",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 24252800,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 34,
+          "smallest" : "AB60 Centro Vida Victoriosa Church",
+          "null" : 4,
+          "largest" : "코리안 복지 센터 (Korean Community Services)",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Utah Elementary School"
+          }, {
+            "count" : 19,
+            "item" : "Venice High School"
+          }, {
+            "count" : 18,
+            "item" : "Arleta High School"
+          }, {
+            "count" : 17,
+            "item" : "St.Luke's Episcopal Church"
+          }, {
+            "count" : 16,
+            "item" : "SEIU Local 721"
+          }, {
+            "count" : 15,
+            "item" : "SEIU"
+          }, {
+            "count" : 14,
+            "item" : "NEW Academy of Science and Arts"
+          }, {
+            "count" : 13,
+            "item" : "CARECEN"
+          }, {
+            "count" : 12,
+            "item" : "Hawaiian Gardens City Hall"
+          }, {
+            "count" : 11,
+            "item" : "DAPA/DACA Forum with Congresswoman Linda Sanchez, Wray Theatre, Rio Hondo College"
+          }, {
+            "count" : 10,
+            "item" : "CLEAN Car Wash Campaign"
+          }, {
+            "count" : 9,
+            "item" : "DAPA/DACA talk for musicians’ union (AFL/CIO)"
+          }, {
+            "count" : 8,
+            "item" : "DAPA/DACA talk for Belize Consulate, Fire Station #94 "
+          }, {
+            "count" : 7,
+            "item" : "DAPA/DACA talk for Seventh-Day Adventist Church, "
+          }, {
+            "count" : 6,
+            "item" : "AB60 Study Circle, CARECEN"
+          }, {
+            "count" : 5,
+            "item" : "Belmont High School"
+          }, {
+            "count" : 4,
+            "item" : "Asian Americans Advancing Justice-Los Angeles"
+          }, {
+            "count" : 3,
+            "item" : "코리안 복지 센터 (Korean Community Services)"
+          }, {
+            "count" : 2,
+            "item" : "First Baptist Church of Alhambra"
+          }, {
+            "count" : 1,
+            "item" : "Felipe de Neve Branch Library"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 193887789,
+        "name" : "Location",
+        "dataTypeName" : "location",
+        "fieldName" : "location",
+        "position" : 4,
+        "renderTypeName" : "location",
+        "tableColumnId" : 24252801,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 38,
+          "smallest" : {
+            "longitude" : "-118.13464925799997",
+            "latitude" : "34.09030225600003",
+            "human_address" : "{\"address\":\"101 South Atlantic Boulevard\",\"city\":\"Alhambra\",\"state\":\"CA\",\"zip\":\"91801\"}"
+          },
+          "null" : 0,
+          "largest" : {
+            "longitude" : "-118.00724921899996",
+            "latitude" : "33.85891335800005",
+            "human_address" : "{\"address\":\"7212 Orangethorpe Ave\",\"city\":\"Buena Park\",\"state\":\"CA\",\"zip\":\"90621\"}"
+          },
+          "top" : [ {
+            "count" : 20,
+            "item" : {
+              "longitude" : "-118.22397268799995",
+              "latitude" : "34.049250725000036",
+              "human_address" : "{\"address\":\"255 Gabriel Garcia Marquez St\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90033\"}"
+            }
+          }, {
+            "count" : 19,
+            "item" : {
+              "longitude" : "-118.44252713199995",
+              "latitude" : "33.99907461300006",
+              "human_address" : "{\"address\":\"13000 Venice Blvd\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90066\"}"
+            }
+          }, {
+            "count" : 18,
+            "item" : {
+              "longitude" : "-118.44276488599996",
+              "latitude" : "34.25099079700004",
+              "human_address" : "{\"address\":\"14200 Van Nuys Blvd\",\"city\":\"Arleta\",\"state\":\"CA\",\"zip\":\"91331\"}"
+            }
+          }, {
+            "count" : 17,
+            "item" : {
+              "longitude" : "-118.19864898999998",
+              "latitude" : "33.77538790600005",
+              "human_address" : "{\"address\":\"525 E 7th St Long Beach\",\"city\":\"\",\"state\":\"\",\"zip\":\"90813\"}"
+            }
+          }, {
+            "count" : 16,
+            "item" : {
+              "longitude" : "-118.27751691899999",
+              "latitude" : "34.06538612700007",
+              "human_address" : "{\"address\":\"2533 W 3rd Street\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90057\"}"
+            }
+          }, {
+            "count" : 15,
+            "item" : {
+              "longitude" : "-118.26970790499996",
+              "latitude" : "34.055216088000066",
+              "human_address" : "{\"address\":\"1545 Wilshire Dr\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90017\"}"
+            }
+          }, {
+            "count" : 14,
+            "item" : {
+              "longitude" : "-117.84544004599996",
+              "latitude" : "33.748147963000065",
+              "human_address" : "{\"address\":\"1651 East 4th Street\",\"city\":\"Santa Ana\",\"state\":\"CA\",\"zip\":\"92701\"}"
+            }
+          }, {
+            "count" : 13,
+            "item" : {
+              "longitude" : "-118.26673386599998",
+              "latitude" : "34.05870865400004",
+              "human_address" : "{\"address\":\"379 Loma Drive\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90017\"}"
+            }
+          }, {
+            "count" : 12,
+            "item" : {
+              "longitude" : "-118.28550914599998",
+              "latitude" : "34.05983789000004",
+              "human_address" : "{\"address\":\"2845 W 7th St\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90005\"}"
+            }
+          }, {
+            "count" : 11,
+            "item" : {
+              "longitude" : "-118.08186429499995",
+              "latitude" : "33.83009069800005",
+              "human_address" : "{\"address\":\"21815 Pioneer Blvd Room B Hawaiian Gardens\",\"city\":\"CA\",\"state\":\"\",\"zip\":\"90716\"}"
+            }
+          }, {
+            "count" : 10,
+            "item" : {
+              "longitude" : "-118.03812461099994",
+              "latitude" : "34.01944234600006",
+              "human_address" : "{\"address\":\"3600 Workman Mill Road\",\"city\":\"Whittier\",\"state\":\"CA\",\"zip\":\"90601\"}"
+            }
+          }, {
+            "count" : 9,
+            "item" : {
+              "longitude" : "-118.28349822099995",
+              "latitude" : "34.003713910000045",
+              "human_address" : "{\"address\":\"516 W Vernon Ave\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90037\"}"
+            }
+          }, {
+            "count" : 8,
+            "item" : {
+              "longitude" : "-118.22007266299994",
+              "latitude" : "34.04727321800004",
+              "human_address" : "{\"address\":\"1783 1st Street\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90033\"}"
+            }
+          }, {
+            "count" : 7,
+            "item" : {
+              "longitude" : "-118.34558796699997",
+              "latitude" : "34.01779919200004",
+              "human_address" : "{\"address\":\"4470 Coliseum Street\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90016\"}"
+            }
+          }, {
+            "count" : 6,
+            "item" : {
+              "longitude" : "-117.26125362199997",
+              "latitude" : "34.052259262000064",
+              "human_address" : "{\"address\":\"11057 Hill Dr\",\"city\":\"Loma Linda\",\"state\":\"CA\",\"zip\":\"92354\"}"
+            }
+          }, {
+            "count" : 5,
+            "item" : {
+              "longitude" : "-118.26370912599998",
+              "latitude" : "34.06129783100005",
+              "human_address" : "{\"address\":\"1575 W 2nd Street\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90026\"}"
+            }
+          }, {
+            "count" : 4,
+            "item" : {
+              "longitude" : "-118.26450880999994",
+              "latitude" : "34.052876955000045",
+              "human_address" : "{\"address\":\"1145 Wilshire Blvd\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90017\"}"
+            }
+          }, {
+            "count" : 3,
+            "item" : {
+              "longitude" : "-118.00724921899996",
+              "latitude" : "33.85891335800005",
+              "human_address" : "{\"address\":\"7212 Orangethorpe Ave\",\"city\":\"Buena Park\",\"state\":\"CA\",\"zip\":\"90621\"}"
+            }
+          }, {
+            "count" : 2,
+            "item" : {
+              "longitude" : "-118.13464925799997",
+              "latitude" : "34.09030225600003",
+              "human_address" : "{\"address\":\"101 South Atlantic Boulevard\",\"city\":\"Alhambra\",\"state\":\"CA\",\"zip\":\"91801\"}"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "longitude" : "-118.28415751899996",
+              "latitude" : "34.06364387700006",
+              "human_address" : "{\"address\":\"2820 W 6th St\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90057\"}"
+            }
+          } ]
+        },
+        "format" : {
+        },
+        "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+      }, {
+        "id" : 193887790,
+        "name" : "Start Time",
+        "dataTypeName" : "text",
+        "fieldName" : "start_time",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 24252802,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 38,
+          "smallest" : "1:00 PM",
+          "null" : 0,
+          "largest" : "9:30 AM",
+          "top" : [ {
+            "count" : 20,
+            "item" : "4:00 PM"
+          }, {
+            "count" : 19,
+            "item" : "9:00 AM"
+          }, {
+            "count" : 18,
+            "item" : "10:00 AM"
+          }, {
+            "count" : 17,
+            "item" : "11:00 AM"
+          }, {
+            "count" : 16,
+            "item" : "5:30 PM"
+          }, {
+            "count" : 15,
+            "item" : "3:00 PM"
+          }, {
+            "count" : 14,
+            "item" : "6:30 PM"
+          }, {
+            "count" : 13,
+            "item" : "8:30 AM"
+          }, {
+            "count" : 12,
+            "item" : "6:00 PM"
+          }, {
+            "count" : 11,
+            "item" : "9:30 AM"
+          }, {
+            "count" : 10,
+            "item" : "12:00 PM"
+          }, {
+            "count" : 9,
+            "item" : "1:00 PM"
+          }, {
+            "count" : 8,
+            "item" : "7:00 PM"
+          }, {
+            "count" : 7,
+            "item" : "1:30 PM"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 193887791,
+        "name" : "End Time",
+        "dataTypeName" : "text",
+        "fieldName" : "end_time",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 24252803,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 38,
+          "smallest" : "1:00 PM",
+          "null" : 0,
+          "largest" : "9:00 PM",
+          "top" : [ {
+            "count" : 20,
+            "item" : "8:00 PM"
+          }, {
+            "count" : 19,
+            "item" : "7:00 PM"
+          }, {
+            "count" : 18,
+            "item" : "11:00 AM"
+          }, {
+            "count" : 17,
+            "item" : "2:00 PM"
+          }, {
+            "count" : 16,
+            "item" : "12:00 PM"
+          }, {
+            "count" : 15,
+            "item" : "6:30 PM"
+          }, {
+            "count" : 14,
+            "item" : "4:00 PM"
+          }, {
+            "count" : 13,
+            "item" : "8:30 PM"
+          }, {
+            "count" : 12,
+            "item" : "10:30 AM"
+          }, {
+            "count" : 11,
+            "item" : "11:30 AM"
+          }, {
+            "count" : 10,
+            "item" : "3:00 PM"
+          }, {
+            "count" : 9,
+            "item" : "1:00 PM"
+          }, {
+            "count" : 8,
+            "item" : "10:00 AM"
+          }, {
+            "count" : 7,
+            "item" : "1:30 PM"
+          }, {
+            "count" : 6,
+            "item" : "6:00 PM"
+          }, {
+            "count" : 5,
+            "item" : "9:00 PM"
+          }, {
+            "count" : 4,
+            "item" : "5:00 PM"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 193887792,
+        "name" : "DACA",
+        "dataTypeName" : "text",
+        "fieldName" : "daca",
+        "position" : 7,
+        "renderTypeName" : "text",
+        "tableColumnId" : 24252804,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : "x",
+          "null" : 12,
+          "largest" : "X",
+          "top" : [ {
+            "count" : 20,
+            "item" : "X"
+          }, {
+            "count" : 19,
+            "item" : "x"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 193887793,
+        "name" : "DAPA",
+        "dataTypeName" : "text",
+        "fieldName" : "dapa",
+        "position" : 8,
+        "renderTypeName" : "text",
+        "tableColumnId" : 24252805,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 25,
+          "smallest" : "X",
+          "null" : 13,
+          "largest" : "X",
+          "top" : [ {
+            "count" : 20,
+            "item" : "X"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 193887794,
+        "name" : "Language",
+        "dataTypeName" : "text",
+        "fieldName" : "language",
+        "position" : 9,
+        "renderTypeName" : "text",
+        "tableColumnId" : 24252806,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 38,
+          "smallest" : "English",
+          "null" : 0,
+          "largest" : "Spanish and English",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Spanish and English"
+          }, {
+            "count" : 19,
+            "item" : "Spanish"
+          }, {
+            "count" : 18,
+            "item" : "English"
+          }, {
+            "count" : 17,
+            "item" : "English, Spanish, Mandarin, Cantonese"
+          }, {
+            "count" : 16,
+            "item" : "Korean, English"
+          }, {
+            "count" : 15,
+            "item" : "English, Spanish, Mandarin, Cantonese, Korean (possibly more API languages)"
+          }, {
+            "count" : 14,
+            "item" : "English,\nSpanish"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 193887795,
+        "name" : "Notes",
+        "dataTypeName" : "text",
+        "fieldName" : "notes",
+        "position" : 10,
+        "renderTypeName" : "text",
+        "tableColumnId" : 24252807,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 38,
+          "smallest" : "AB 60, DACA, DAPA Information Session",
+          "null" : 0,
+          "largest" : "Free DACA Information Workshop. General info on AB60 DL, DACA Expansion & DAPA.",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Free DACA Application Assistance Workshop including Pro Bono. General info on AB60 DL, DACA Expansion & DAPA."
+          }, {
+            "count" : 19,
+            "item" : "Free DACA Information Workshop. General info on AB60 DL, DACA Expansion & DAPA."
+          }, {
+            "count" : 18,
+            "item" : "DACA and General Immigration Legal Clinic. Screeners and attorneys will be present. Info on AB60, Health4All, and DAPA will be available."
+          }, {
+            "count" : 17,
+            "item" : "AB 60, DACA, DAPA Information Session"
+          }, {
+            "count" : 16,
+            "item" : "DAPA/DACA and AB60 info session"
+          }, {
+            "count" : 15,
+            "item" : "AB60 Study Session with practice tests"
+          }, {
+            "count" : 14,
+            "item" : "AB60 info session"
+          }, {
+            "count" : 13,
+            "item" : "DACA/DAPA Eligibility Screening (every 2nd anf 4th Thursday of the month)"
+          }, {
+            "count" : 12,
+            "item" : "DACA Workshop"
+          }, {
+            "count" : 11,
+            "item" : "DACA/DAPA Eligibility Screening"
+          }, {
+            "count" : 10,
+            "item" : "AB60 Information Session"
+          }, {
+            "count" : 9,
+            "item" : "DAPA/DACA Informational and implementation Forum."
+          }, {
+            "count" : 8,
+            "item" : "AB60 study Session with practice tests"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 193887796,
+        "name" : "Free",
+        "dataTypeName" : "text",
+        "fieldName" : "free",
+        "position" : 11,
+        "renderTypeName" : "text",
+        "tableColumnId" : 24252808,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 38,
+          "smallest" : "Free / Open to the public",
+          "null" : 0,
+          "largest" : "Open to Belmont parents",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Free / Open to the public"
+          }, {
+            "count" : 19,
+            "item" : "Free and open to the public"
+          }, {
+            "count" : 18,
+            "item" : "Free and open to the public, limited space"
+          }, {
+            "count" : 17,
+            "item" : "Open to Belmont parents"
+          }, {
+            "count" : 16,
+            "item" : "Free and open to the public "
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 193887797,
+        "name" : "Contact",
+        "dataTypeName" : "text",
+        "fieldName" : "contact",
+        "position" : 12,
+        "renderTypeName" : "text",
+        "tableColumnId" : 24252809,
+        "width" : 184,
+        "cachedContents" : {
+          "non_null" : 38,
+          "smallest" : "Alicia Morales (562)200-8284",
+          "null" : 0,
+          "largest" : "Tessie Borden 213-385-7800 x168 tborden@carecen-la.org",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Norma Castaneda\n626-975-2730"
+          }, {
+            "count" : 19,
+            "item" : "Alicia Morales (562)200-8284"
+          }, {
+            "count" : 18,
+            "item" : "Miriam Mesa 213-353-1333 mmesa@chirla.org"
+          }, {
+            "count" : 17,
+            "item" : "Tessie Borden 213-385-7800 x168 tborden@carecen-la.org"
+          }, {
+            "count" : 16,
+            "item" : "Michelle Saucedo 213-977-7500 x 886 or Tiffany Panlilio 213-977-7500 x 885"
+          }, {
+            "count" : 15,
+            "item" : "Felipe de Neve Branch Library\n213-384-7676"
+          }, {
+            "count" : 14,
+            "item" : "Alma Morales 323-793-5470   almalavoice@gmail.com"
+          }, {
+            "count" : 13,
+            "item" : "Fr. Isidro Lepes SJ, 323-881-0039 ilepesj@gmail.com"
+          }, {
+            "count" : 12,
+            "item" : "Isabel Salas, 323-483-1016, isabelsalas1@live.com"
+          }, {
+            "count" : 11,
+            "item" : "Pastor Carlos Rincon,(213) 977-0905 "
+          }, {
+            "count" : 10,
+            "item" : "Sandra Garcia, 323-603-1502, lasoledad@sbcglobal.net"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Committed Update Frequency" : {
+            "Refresh rate" : "Monthly"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "ihg6-62bp",
+        "displayName" : "Rodd Talebi",
+        "roleName" : "administrator",
+        "screenName" : "Rodd Talebi",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "ihg6-62bp",
+        "displayName" : "Rodd Talebi",
+        "roleName" : "administrator",
+        "screenName" : "Rodd Talebi",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "tags" : [ "daca", "dapa", "immigration", "workshops", "ab60", "drivers", "license", "citizenship", "driver" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "DED10269-3749-44FE-ACF0-3882CB83BB8E", 1, 1422565834, "898335", 1422565886, "898335", "{\n}", "2015-01-27T00:00:00", "DACA 100% Task Force", "Utah Elementary School", [ "{\"address\":\"255 Gabriel Garcia Marquez St\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90033\"}", "34.049250725000036", "-118.22397268799995", null, false ], "4:00 PM", "8:00 PM", "X", "X", "Spanish and English", "Free DACA Application Assistance Workshop including Pro Bono. General info on AB60 DL, DACA Expansion & DAPA.", "Free / Open to the public", "Norma Castaneda\n626-975-2730" ]
+, [ 2, "554EE18A-1AC3-46AC-B584-BBDCF1C727F6", 2, 1422565834, "898335", 1422565886, "898335", "{\n}", "2015-02-11T00:00:00", "DACA 100% Task Force", "Venice High School", [ "{\"address\":\"13000 Venice Blvd\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90066\"}", "33.99907461300006", "-118.44252713199995", null, false ], "4:00 PM", "7:00 PM", "X", "X", "Spanish and English", "Free DACA Application Assistance Workshop including Pro Bono. General info on AB60 DL, DACA Expansion & DAPA.", "Free / Open to the public", "Norma Castaneda\n626-975-2730" ]
+, [ 3, "97A09C22-8C55-41F1-AB89-F2C712B0DA92", 3, 1422565834, "898335", 1422565886, "898335", "{\n}", "2015-02-07T00:00:00", "DACA 100% Task Force", "Arleta High School", [ "{\"address\":\"14200 Van Nuys Blvd\",\"city\":\"Arleta\",\"state\":\"CA\",\"zip\":\"91331\"}", "34.25099079700004", "-118.44276488599996", null, false ], "9:00 AM", "11:00 AM", "X", "X", "Spanish and English", "Free DACA Information Workshop. General info on AB60 DL, DACA Expansion & DAPA.", "Free / Open to the public", "Norma Castaneda\n626-975-2730" ]
+, [ 4, "DB7BB6AB-D503-4536-8945-C62A8520E0BA", 4, 1422565834, "898335", 1422565886, "898335", "{\n}", "2015-02-28T00:00:00", "DACA 100% Task Force", "Arleta High School", [ "{\"address\":\"14200 Van Nuys Blvd\",\"city\":\"Arleta\",\"state\":\"CA\",\"zip\":\"91331\"}", "34.25099079700004", "-118.44276488599996", null, false ], "10:00 AM", "2:00 PM", "X", "X", "Spanish and English", "Free DACA Application Assistance Workshop including Pro Bono. General info on AB60 DL, DACA Expansion & DAPA.", "Free / Open to the public", "Norma Castaneda\n626-975-2730" ]
+, [ 5, "4228CA55-46E2-4ECC-B03F-0C5282F5275B", 5, 1422565834, "898335", 1422565886, "898335", "{\n}", "2015-02-07T00:00:00", "Long Beach Immigrant Rights Coalition", "St.Luke's Episcopal Church", [ "{\"address\":\"525 E 7th St Long Beach\",\"city\":\"\",\"state\":\"\",\"zip\":\"90813\"}", "33.77538790600005", "-118.19864898999998", null, false ], "10:00 AM", "2:00 PM", "x", "X", "Spanish and English", "DACA and General Immigration Legal Clinic. Screeners and attorneys will be present. Info on AB60, Health4All, and DAPA will be available.", "Free and open to the public", "Alicia Morales (562)200-8284" ]
+, [ 6, "63CE07D6-B7A5-43E9-966B-FFD9D848C08E", 6, 1422565834, "898335", 1422565886, "898335", "{\n  \"invalidCells\" : {\n    \"24252798\" : \"Every Tues\"\n  }\n}", null, "CHIRLA", null, [ "{\"address\":\"2533 W 3rd Street\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90057\"}", "34.06538612700007", "-118.27751691899999", null, false ], "11:00 AM", "12:00 PM", "x", "X", "Spanish and English", "AB 60, DACA, DAPA Information Session", "Free and open to the public", "Miriam Mesa 213-353-1333 mmesa@chirla.org" ]
+, [ 7, "724E2261-D7F1-42B3-8190-FA29FDD4B8B8", 7, 1422565834, "898335", 1422565886, "898335", "{\n  \"invalidCells\" : {\n    \"24252798\" : \"Every Tues\"\n  }\n}", null, "CHIRLA", null, [ "{\"address\":\"2533 W 3rd Street\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90057\"}", "34.06538612700007", "-118.27751691899999", null, false ], "5:30 PM", "6:30 PM", "x", "X", "Spanish and English", "AB 60, DACA, DAPA Information Session", "Free and open to the public", "Miriam Mesa 213-353-1333 mmesa@chirla.org" ]
+, [ 8, "D3042238-66F0-46CA-99C3-2B669A997BF2", 8, 1422565834, "898335", 1422565886, "898335", "{\n  \"invalidCells\" : {\n    \"24252798\" : \"Every Thurs\"\n  }\n}", null, "CHIRLA", null, [ "{\"address\":\"2533 W 3rd Street\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90057\"}", "34.06538612700007", "-118.27751691899999", null, false ], "11:00 AM", "12:00 PM", "x", "X", "Spanish and English", "AB 60, DACA, DAPA Information Session", "Free and open to the public", "Miriam Mesa 213-353-1333 mmesa@chirla.org" ]
+, [ 9, "654B2AD9-4949-4F04-B29F-C4FB5C335ECD", 9, 1422565834, "898335", 1422565886, "898335", "{\n  \"invalidCells\" : {\n    \"24252798\" : \"Every Thursday\"\n  }\n}", null, "CHIRLA", null, [ "{\"address\":\"2533 W 3rd Street\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90057\"}", "34.06538612700007", "-118.27751691899999", null, false ], "3:00 PM", "4:00 PM", "X", "X", "Spanish and English", "AB 60, DACA, DAPA Information Session", "Free and open to the public", "Miriam Mesa 213-353-1333 mmesa@chirla.org" ]
+, [ 10, "676BCA4D-1188-49E1-86DC-53B7FE9A6543", 10, 1422565834, "898335", 1422565886, "898335", "{\n}", "2015-01-29T00:00:00", "CARECEN", "SEIU Local 721", [ "{\"address\":\"1545 Wilshire Dr\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90017\"}", "34.055216088000066", "-118.26970790499996", null, false ], "6:30 PM", "8:30 PM", "X", "X", "Spanish", "DAPA/DACA and AB60 info session", "Free and open to the public", "Tessie Borden 213-385-7800 x168 tborden@carecen-la.org" ]
+, [ 11, "28A80DE0-66DC-4F65-89DB-0B971D0A033D", 11, 1422565834, "898335", 1422565886, "898335", "{\n}", "2015-02-04T00:00:00", "CARECEN", "SEIU", [ "{\"address\":\"1651 East 4th Street\",\"city\":\"Santa Ana\",\"state\":\"CA\",\"zip\":\"92701\"}", "33.748147963000065", "-117.84544004599996", null, false ], "6:30 PM", "8:30 PM", "X", "X", "Spanish", "DAPA/DACA and AB60 info session", "Free and open to the public", "Tessie Borden 213-385-7800 x168 tborden@carecen-la.org" ]
+, [ 12, "E1C94A1D-BCC1-425C-AB17-10A399EFED78", 12, 1422565834, "898335", 1422565886, "898335", "{\n}", "2015-02-06T00:00:00", "CARECEN", "NEW Academy of Science and Arts", [ "{\"address\":\"379 Loma Drive\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90017\"}", "34.05870865400004", "-118.26673386599998", null, false ], "8:30 AM", "10:30 AM", "X", "X", "Spanish", "DAPA/DACA and AB60 info session", "Free and open to the public", "Tessie Borden 213-385-7800 x168 tborden@carecen-la.org" ]
+, [ 13, "B0BBBCA9-00A1-4FF1-87D6-3A37E26D56B4", 13, 1422565834, "898335", 1422565886, "898335", "{\n}", "2015-02-10T00:00:00", "CARECEN", "CARECEN", [ "{\"address\":\"2845 W 7th St\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90005\"}", "34.05983789000004", "-118.28550914599998", null, false ], "6:00 PM", "8:00 PM", "X", "X", "Spanish", "DAPA/DACA and AB60 info session", "Free and open to the public", "Tessie Borden 213-385-7800 x168 tborden@carecen-la.org" ]
+, [ 14, "9F350F5D-45DB-44C1-AB82-67BE611838A0", 14, 1422565834, "898335", 1422565886, "898335", "{\n}", "2015-02-12T00:00:00", "CARECEN", "Hawaiian Gardens City Hall", [ "{\"address\":\"21815 Pioneer Blvd Room B Hawaiian Gardens\",\"city\":\"CA\",\"state\":\"\",\"zip\":\"90716\"}", "33.83009069800005", "-118.08186429499995", null, false ], "9:30 AM", "11:30 AM", "X", "X", "Spanish", "DAPA/DACA and AB60 info session", "Free and open to the public", "Tessie Borden 213-385-7800 x168 tborden@carecen-la.org" ]
+, [ 15, "B53EDE71-EAE3-44C1-94F5-47168629DD4F", 15, 1422565834, "898335", 1422565886, "898335", "{\n}", "2015-02-17T00:00:00", "CARECEN", "DAPA/DACA Forum with Congresswoman Linda Sanchez, Wray Theatre, Rio Hondo College", [ "{\"address\":\"3600 Workman Mill Road\",\"city\":\"Whittier\",\"state\":\"CA\",\"zip\":\"90601\"}", "34.01944234600006", "-118.03812461099994", null, false ], "6:00 PM", "8:00 PM", "X", "X", "Spanish", "DAPA/DACA and AB60 info session", "Free and open to the public", "Tessie Borden 213-385-7800 x168 tborden@carecen-la.org" ]
+, [ 16, "6EFF8FB0-FF69-475A-B092-D9146AB1D2D3", 16, 1422565834, "898335", 1422565886, "898335", "{\n}", "2015-02-18T00:00:00", "CARECEN", "CLEAN Car Wash Campaign", [ "{\"address\":\"516 W Vernon Ave\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90037\"}", "34.003713910000045", "-118.28349822099995", null, false ], "6:30 PM", "8:30 PM", "X", "X", "Spanish", "DAPA/DACA and AB60 info session", "Free and open to the public", "Tessie Borden 213-385-7800 x168 tborden@carecen-la.org" ]
+, [ 17, "453FF522-F3ED-490F-89EB-CBC1E4C01F54", 17, 1422565834, "898335", 1422565886, "898335", "{\n}", "2015-02-19T00:00:00", "CARECEN", "DAPA/DACA talk for musicians’ union (AFL/CIO)", [ "{\"address\":\"1783 1st Street\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90033\"}", "34.04727321800004", "-118.22007266299994", null, false ], "12:00 PM", "2:00 PM", "X", "X", "Spanish", "DAPA/DACA and AB60 info session", "Free and open to the public", "Tessie Borden 213-385-7800 x168 tborden@carecen-la.org" ]
+, [ 18, "2E40B21A-EB68-4F27-87F7-B463076238D7", 18, 1422565834, "898335", 1422565886, "898335", "{\n}", "2015-02-21T00:00:00", "CARECEN", "DAPA/DACA talk for Belize Consulate, Fire Station #94 ", [ "{\"address\":\"4470 Coliseum Street\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90016\"}", "34.01779919200004", "-118.34558796699997", null, false ], "1:00 PM", "3:00 PM", "X", "X", "English", "DAPA/DACA and AB60 info session", "Free and open to the public", "Tessie Borden 213-385-7800 x168 tborden@carecen-la.org" ]
+, [ 19, "CD9474D2-C8B4-4484-A566-9985A8E555DF", 19, 1422565834, "898335", 1422565886, "898335", "{\n}", "2015-03-01T00:00:00", "CARECEN", "DAPA/DACA talk for Seventh-Day Adventist Church, ", [ "{\"address\":\"11057 Hill Dr\",\"city\":\"Loma Linda\",\"state\":\"CA\",\"zip\":\"92354\"}", "34.052259262000064", "-117.26125362199997", null, false ], "11:00 AM", "1:00 PM", "X", "X", "Spanish", "DAPA/DACA and AB60 info session", "Free and open to the public", "Tessie Borden 213-385-7800 x168 tborden@carecen-la.org" ]
+, [ 20, "43561253-A83A-4273-B1FE-CF5244403FF1", 20, 1422565834, "898335", 1422565886, "898335", "{\n}", "2015-01-29T00:00:00", "CARECEN", "AB60 Study Circle, CARECEN", [ "{\"address\":\"2845 W 7th St\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90005\"}", "34.05983789000004", "-118.28550914599998", null, false ], "6:00 PM", "8:00 PM", null, null, "Spanish", "AB60 Study Session with practice tests", "Free and open to the public, limited space", "Tessie Borden 213-385-7800 x168 tborden@carecen-la.org" ]
+, [ 21, "D1F1427F-D824-41F6-B157-5A6EDCEF1293", 21, 1422565834, "898335", 1422565886, "898335", "{\n}", "2015-02-05T00:00:00", "CARECEN", "Belmont High School", [ "{\"address\":\"1575 W 2nd Street\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90026\"}", "34.06129783100005", "-118.26370912599998", null, false ], "9:00 AM", "10:00 AM", null, null, "Spanish", "AB60 info session", "Open to Belmont parents", "Tessie Borden 213-385-7800 x168 tborden@carecen-la.org" ]
+, [ 22, "54E26EDD-B616-48F6-8EC4-9F2162D815E0", 22, 1422565834, "898335", 1422565886, "898335", "{\n}", "2015-02-07T00:00:00", "CARECEN", "CARECEN", [ "{\"address\":\"2845 W 7th St\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90005\"}", "34.05983789000004", "-118.28550914599998", null, false ], "10:00 AM", "1:30 PM", null, null, "Spanish", "AB60 info session", "Free and open to the public", "Tessie Borden 213-385-7800 x168 tborden@carecen-la.org" ]
+, [ 23, "A0E947F5-FC3A-4BDD-B987-B03D4715584C", 23, 1422565834, "898335", 1422565886, "898335", "{\n}", "2015-02-05T00:00:00", "CARECEN", "AB60 Study Circle, CARECEN", [ "{\"address\":\"2845 W 7th St\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90005\"}", "34.05983789000004", "-118.28550914599998", null, false ], "6:00 PM", "8:00 PM", null, null, "Spanish", "AB60 Study Session with practice tests", "Free and open to the public, limited space", "Tessie Borden 213-385-7800 x168 tborden@carecen-la.org" ]
+, [ 24, "AC58066C-8DBE-4502-AD0D-BC08DCAF3085", 24, 1422565834, "898335", 1422565886, "898335", "{\n}", "2015-02-12T00:00:00", "CARECEN", "AB60 Study Circle, CARECEN", [ "{\"address\":\"2845 W 7th St\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90005\"}", "34.05983789000004", "-118.28550914599998", null, false ], "6:00 PM", "8:00 PM", null, null, "Spanish", "AB60 Study Session with practice tests", "Free and open to the public, limited space", "Tessie Borden 213-385-7800 x168 tborden@carecen-la.org" ]
+, [ 25, "8D7F5D20-9A7D-45FC-953D-C2CFE42A0885", 25, 1422565834, "898335", 1422565886, "898335", "{\n}", "2015-02-21T00:00:00", "CARECEN", "AB60 Study Circle, CARECEN", [ "{\"address\":\"2845 W 7th St\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90005\"}", "34.05983789000004", "-118.28550914599998", null, false ], "9:30 AM", "11:30 AM", null, null, "Spanish", "AB60 Study Session with practice tests", "Free and open to the public, limited space", "Tessie Borden 213-385-7800 x168 tborden@carecen-la.org" ]
+, [ 26, "3AD7AA08-D3F1-43E2-85FB-080931224776", 26, 1422565834, "898335", 1422565886, "898335", "{\n}", "2015-02-28T00:00:00", "CARECEN", "AB60 Study Circle, CARECEN", [ "{\"address\":\"2845 W 7th St\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90005\"}", "34.05983789000004", "-118.28550914599998", null, false ], "9:30 AM", "11:30 AM", null, null, "Spanish", "AB60 Study Session with practice tests", "Free and open to the public, limited space", "Tessie Borden 213-385-7800 x168 tborden@carecen-la.org" ]
+, [ 27, "76EC5411-9C4A-4122-8CD7-372FBC641AB9", 27, 1422565834, "898335", 1422565886, "898335", "{\n}", "2015-03-07T00:00:00", "CARECEN", "AB60 Study Circle, CARECEN", [ "{\"address\":\"2845 W 7th St\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90005\"}", "34.05983789000004", "-118.28550914599998", null, false ], "9:30 AM", "11:30 AM", null, null, "Spanish", "AB60 Study Session with practice tests", "Free and open to the public, limited space", "Tessie Borden 213-385-7800 x168 tborden@carecen-la.org" ]
+, [ 28, "1696C4F3-EC75-4DF3-BCF1-C390F63DC325", 28, 1422565834, "898335", 1422565886, "898335", "{\n  \"invalidCells\" : {\n    \"24252798\" : \"Every 2nd and 4th Thursday\"\n  }\n}", null, "Asian Americans Advancing Justice-Los Angeles", "Asian Americans Advancing Justice-Los Angeles", [ "{\"address\":\"1145 Wilshire Blvd\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90017\"}", "34.052876955000045", "-118.26450880999994", null, false ], "3:00 PM", "6:00 PM", "X", "X", "English, Spanish, Mandarin, Cantonese", "DACA/DAPA Eligibility Screening (every 2nd anf 4th Thursday of the month)", "Free and open to the public", "Michelle Saucedo 213-977-7500 x 886 or Tiffany Panlilio 213-977-7500 x 885" ]
+, [ 29, "1F916B2F-5655-4581-B1C3-99B7DD60B2F9", 29, 1422565834, "898335", 1422565886, "898335", "{\n  \"invalidCells\" : {\n    \"24252798\" : \"Every 1st and 3rd Thursday\"\n  }\n}", null, "Asian Americans Advancing Justice-Los Angeles", "Asian Americans Advancing Justice-Los Angeles", [ "{\"address\":\"1145 Wilshire Blvd\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90017\"}", "34.052876955000045", "-118.26450880999994", null, false ], "3:00 PM", "6:00 PM", "X", null, "English, Spanish, Mandarin, Cantonese", "DACA Workshop", "Free and open to the public", "Michelle Saucedo 213-977-7500 x 886 or Tiffany Panlilio 213-977-7500 x 885" ]
+, [ 30, "77B30331-4A3C-4B57-AC6B-E480A7179306", 30, 1422565834, "898335", 1422565886, "898335", "{\n}", "2015-02-28T00:00:00", "Asian Americans Advancing Justice-Los Angeles", "코리안 복지 센터 (Korean Community Services)", [ "{\"address\":\"7212 Orangethorpe Ave\",\"city\":\"Buena Park\",\"state\":\"CA\",\"zip\":\"90621\"}", "33.85891335800005", "-118.00724921899996", null, false ], "10:00 AM", "1:00 PM", "X", "X", "Korean, English", "DACA/DAPA Eligibility Screening", "Free and open to the public", "Michelle Saucedo 213-977-7500 x 886 or Tiffany Panlilio 213-977-7500 x 885" ]
+, [ 31, "CA83CE05-2E25-4AA7-8092-1EDDFB867F3E", 31, 1422565834, "898335", 1422565886, "898335", "{\n}", "2015-03-07T00:00:00", "Asian Americans Advancing Justice-Los Angeles", "First Baptist Church of Alhambra", [ "{\"address\":\"101 South Atlantic Boulevard\",\"city\":\"Alhambra\",\"state\":\"CA\",\"zip\":\"91801\"}", "34.09030225600003", "-118.13464925799997", null, false ], "10:00 AM", "1:00 PM", "X", "X", "English, Spanish, Mandarin, Cantonese, Korean (possibly more API languages)", "DACA/DAPA Eligibility Screening", "Free and open to the public", "Michelle Saucedo 213-977-7500 x 886 or Tiffany Panlilio 213-977-7500 x 885" ]
+, [ 33, "8681FD17-31C6-4784-B54A-14EE1AEDE56F", 33, 1425082496, "898335", 1425082497, "898335", "{\n}", "2015-03-03T00:00:00", "Los Angeles Public Library", "Felipe de Neve Branch Library", [ "{\"address\":\"2820 W 6th St\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90057\"}", "34.06364387700006", "-118.28415751899996", null, false ], "6:00 PM", "7:00 PM", null, null, "English,\nSpanish", "AB60 Information Session", "Free and open to the public", "Felipe de Neve Branch Library\n213-384-7676" ]
+, [ 34, "3FEF8281-9FAD-4E6B-8003-7387956CC18F", 34, 1425082496, "898335", 1425082497, "898335", "{\n}", "2015-03-04T00:00:00", "LA Voice", "AB60 St. Teresita Catholic Church,", [ "{\"address\":\"2646 Zonal Av\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90033\"}", "34.05715537800006", "-118.19779284499998", null, false ], "6:00 PM", "8:00 PM", null, null, "Spanish", "AB60 Study Session with practice tests", "Free and open to the public", "Alma Morales 323-793-5470   almalavoice@gmail.com" ]
+, [ 35, "B01A767B-FB22-4709-B87F-D021EF07DF40", 35, 1425082496, "898335", 1425082497, "898335", "{\n}", "2015-03-04T00:00:00", "LA Voice", "DAPA/DACA Forum Dolores Mission Catholic Church", [ "{\"address\":\"170 S Gless Street\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90033\"}", "34.04554729100005", "-118.22303703499995", null, false ], "6:00 PM", "8:00 PM", "X", "X", "Spanish", "DAPA/DACA Informational and implementation Forum.", "Free and open to the public", "Fr. Isidro Lepes SJ, 323-881-0039 ilepesj@gmail.com" ]
+, [ 36, "F30AB25F-A150-446B-821C-1AD4003888C1", 36, 1425082496, "898335", 1425082497, "898335", "{\n}", "2015-03-06T00:00:00", "LA Voice", "DAPA/DACA Forum Our Lady of Talpa", [ "{\"address\":\"2914 E 4th Street\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90033\"}", "34.03734534900008", "-118.20454060699996", null, false ], "7:00 PM", "9:00 PM", "X", "X", "Spanish", "DAPA/DACA Informational and implementation Forum.", "Free and open to the public", "Isabel Salas, 323-483-1016, isabelsalas1@live.com" ]
+, [ 37, "E9B02C32-EE71-49BF-88A2-E404E509A8E5", 37, 1425082496, "898335", 1425082497, "898335", "{\n}", "2015-03-07T00:00:00", "Asian Americans Advancing Justice-Los Angeles", "First Baptist Church of Alhambra", [ "{\"address\":\"101 South Atlantic Boulevard\",\"city\":\"Alhambra\",\"state\":\"CA\",\"zip\":\"91801\"}", "34.09030225600003", "-118.13464925799997", null, false ], "10:00 AM", "1:00 PM", "X", "X", "English, Spanish, Mandarin, Cantonese, Korean (possibly more API languages)", "DACA/DAPA Eligibility Screening", "Free and open to the public", "Michelle Saucedo 213-977-7500 x 886 or Tiffany Panlilio 213-977-7500 x 885" ]
+, [ 38, "B8A19966-4FA4-405C-ADD7-C45E6CE164A0", 38, 1425082496, "898335", 1425082497, "898335", "{\n}", "2015-03-07T00:00:00", "LA Voice", "AB60 Centro Vida Victoriosa Church", [ "{\"address\":\"715 Brady Ave\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90022\"}", "34.01835455500003", "-118.13752665999999", null, false ], "1:30 PM", "5:00 PM", null, null, "Spanish", "AB60 study Session with practice tests", "Free and open to the public ", "Pastor Carlos Rincon,(213) 977-0905 " ]
+, [ 39, "661953A6-9216-400F-8C07-23BCF2171B00", 39, 1425082496, "898335", 1425082497, "898335", "{\n}", "2015-03-07T00:00:00", "LA Voice", "AB60 La Soledad Catholic Church", [ "{\"address\":\"4562 E Cesar\",\"city\":\"Los Angeles\",\"state\":\"CA\",\"zip\":\"90022\"}", "34.02358052100004", "-118.15511747999994", null, false ], "7:00 PM", "9:00 PM", null, null, "Spanish", "AB60 study Session with practice tests", "Free and open to the public", "Sandra Garcia, 323-603-1502, lasoledad@sbcglobal.net" ]
+ ]
+}

@@ -9,7 +9,7 @@
       "createdAt" : 1395690314,
       "description" : "Port of Los Angeles - Cruise Passenger",
       "displayType" : "table",
-      "downloadCount" : 7,
+      "downloadCount" : 21,
       "indexUpdatedAt" : 1414612917,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -24,7 +24,7 @@
       "state" : "normal",
       "tableId" : 1521920,
       "totalTimesRated" : 0,
-      "viewCount" : 45,
+      "viewCount" : 62,
       "viewLastModified" : 1400089127,
       "viewType" : "tabular",
       "columns" : [ {

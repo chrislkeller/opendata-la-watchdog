@@ -9,9 +9,9 @@
       "createdAt" : 1399570086,
       "description" : "Motor sweeping program: route #s, boundaries and times for posted routes only. Maps are available as downloadable PDFs under the Attachments section of the About tab.",
       "displayType" : "table",
-      "downloadCount" : 11,
+      "downloadCount" : 21,
       "iconUrl" : "fileId:iK3e7o-M9lAdfrkX7nVVFzfndK4_fuAd700f4XU4f80",
-      "indexUpdatedAt" : 1414614324,
+      "indexUpdatedAt" : 1419288998,
       "newBackend" : false,
       "numberOfComments" : 0,
       "oid" : 8091392,
@@ -23,7 +23,7 @@
       "rowsUpdatedBy" : "awhe-qmys",
       "tableId" : 1597908,
       "totalTimesRated" : 0,
-      "viewCount" : 178,
+      "viewCount" : 203,
       "viewLastModified" : 1401393801,
       "viewType" : "tabular",
       "columns" : [ {
@@ -502,9 +502,7 @@
       "owner" : {
         "id" : "awhe-qmys",
         "displayName" : "CJ",
-        "roleName" : "editor",
-        "screenName" : "CJ",
-        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+        "screenName" : "CJ"
       },
       "query" : {
       },
@@ -512,9 +510,7 @@
       "tableAuthor" : {
         "id" : "awhe-qmys",
         "displayName" : "CJ",
-        "roleName" : "editor",
-        "screenName" : "CJ",
-        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+        "screenName" : "CJ"
       },
       "tags" : [ "street", "services", "sweeping", "routes", "route", "cd", "council", "district", "maintenance", "area", "boundary", "boundaries", "parking" ],
       "flags" : [ "default" ]

@@ -9,7 +9,7 @@
       "createdAt" : 1400260787,
       "description" : "Port of Los Angeles Single Audit report details (Federal grant usage).",
       "displayType" : "table",
-      "downloadCount" : 9,
+      "downloadCount" : 15,
       "indexUpdatedAt" : 1414613691,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -23,7 +23,7 @@
       "rowsUpdatedBy" : "g9i9-z6y7",
       "tableId" : 1587617,
       "totalTimesRated" : 0,
-      "viewCount" : 216,
+      "viewCount" : 246,
       "viewLastModified" : 1401234714,
       "viewType" : "tabular",
       "columns" : [ {

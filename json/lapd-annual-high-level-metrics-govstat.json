@@ -9,7 +9,7 @@
       "createdAt" : 1401337549,
       "description" : "Contains rolled up annual",
       "displayType" : "table",
-      "downloadCount" : 12,
+      "downloadCount" : 14,
       "indexUpdatedAt" : 1414613842,
       "licenseId" : "PUBLIC_DOMAIN",
       "newBackend" : false,
@@ -23,7 +23,7 @@
       "rowsUpdatedBy" : "anbw-drra",
       "tableId" : 1599452,
       "totalTimesRated" : 0,
-      "viewCount" : 254,
+      "viewCount" : 283,
       "viewLastModified" : 1401510463,
       "viewType" : "tabular",
       "columns" : [ {

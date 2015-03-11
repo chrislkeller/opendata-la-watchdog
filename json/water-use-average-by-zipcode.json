@@ -9,7 +9,7 @@
       "createdAt" : 1401320211,
       "description" : "Residential water use by month averaged for fiscal year.  Numbers represent Hundred Cubic Feet (HCF) of water use.",
       "displayType" : "table",
-      "downloadCount" : 24,
+      "downloadCount" : 45,
       "indexUpdatedAt" : 1414613942,
       "newBackend" : false,
       "numberOfComments" : 2,
@@ -22,7 +22,7 @@
       "rowsUpdatedBy" : "7q7s-tyf3",
       "tableId" : 1597944,
       "totalTimesRated" : 0,
-      "viewCount" : 582,
+      "viewCount" : 743,
       "viewLastModified" : 1401384679,
       "viewType" : "tabular",
       "columns" : [ {

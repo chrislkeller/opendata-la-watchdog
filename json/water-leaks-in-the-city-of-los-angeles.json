@@ -8,7 +8,7 @@
       "createdAt" : 1399936532,
       "description" : "Number of recorded water leaks by months in the City of Los Angeles",
       "displayType" : "table",
-      "downloadCount" : 8,
+      "downloadCount" : 18,
       "indexUpdatedAt" : 1414613844,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -21,7 +21,7 @@
       "rowsUpdatedBy" : "g9i9-z6y7",
       "tableId" : 1587406,
       "totalTimesRated" : 0,
-      "viewCount" : 145,
+      "viewCount" : 173,
       "viewLastModified" : 1401232382,
       "viewType" : "tabular",
       "columns" : [ {

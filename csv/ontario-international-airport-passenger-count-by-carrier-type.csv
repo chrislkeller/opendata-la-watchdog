@@ -659,3 +659,24 @@ DataExtractDate,ReportPeriod,Arrival_Departure,Domestic_International,FlightType
 11/15/2014 08:00:12 AM,09/01/2014 12:00:00 AM,Departure,Domestic,Commuter,13257
 11/15/2014 08:00:12 AM,09/01/2014 12:00:00 AM,Departure,Domestic,Scheduled Carriers,150770
 11/15/2014 08:00:12 AM,09/01/2014 12:00:00 AM,Departure,International,Scheduled Carriers,3890
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Arrival,Domestic,Charter,572
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Arrival,Domestic,Commuter,14770
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,162175
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Arrival,International,Scheduled Carriers,3600
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Departure,Domestic,Charter,209
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Departure,Domestic,Commuter,14785
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Departure,Domestic,Scheduled Carriers,160534
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Departure,International,Scheduled Carriers,3611
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Arrival,Domestic,Charter,277
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Arrival,Domestic,Commuter,0
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,168946
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Arrival,International,Charter,53
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Arrival,International,Scheduled Carriers,3721
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Departure,Domestic,Charter,204
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Departure,Domestic,Commuter,0
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Departure,Domestic,Scheduled Carriers,168013
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Departure,International,Scheduled Carriers,4360
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,174553
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Arrival,International,Scheduled Carriers,5004
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Departure,Domestic,Scheduled Carriers,173735
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Departure,International,Scheduled Carriers,5888

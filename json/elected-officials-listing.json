@@ -8,7 +8,7 @@
       "createdAt" : 1394388862,
       "description" : "List of elected officials and their offices.",
       "displayType" : "table",
-      "downloadCount" : 13,
+      "downloadCount" : 20,
       "indexUpdatedAt" : 1414613706,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -22,7 +22,7 @@
       "rowsUpdatedBy" : "ujkb-kbnj",
       "tableId" : 1503367,
       "totalTimesRated" : 0,
-      "viewCount" : 156,
+      "viewCount" : 162,
       "viewLastModified" : 1401471518,
       "viewType" : "tabular",
       "columns" : [ {

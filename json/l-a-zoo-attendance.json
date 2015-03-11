@@ -8,7 +8,7 @@
       "createdAt" : 1401468802,
       "description" : "L.A. Zoo attendance for the last 5 years.",
       "displayType" : "table",
-      "downloadCount" : 14,
+      "downloadCount" : 27,
       "indexUpdatedAt" : 1414613952,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -21,7 +21,7 @@
       "rowsUpdatedBy" : "uypn-9feh",
       "tableId" : 1600490,
       "totalTimesRated" : 0,
-      "viewCount" : 92,
+      "viewCount" : 116,
       "viewLastModified" : 1401482915,
       "viewType" : "tabular",
       "columns" : [ {

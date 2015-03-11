@@ -9,7 +9,7 @@
       "createdAt" : 1400886951,
       "description" : "The average amount of days to interconnect solar panels",
       "displayType" : "table",
-      "downloadCount" : 10,
+      "downloadCount" : 20,
       "indexUpdatedAt" : 1414615123,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -22,7 +22,7 @@
       "rowsUpdatedBy" : "7q7s-tyf3",
       "tableId" : 1593194,
       "totalTimesRated" : 0,
-      "viewCount" : 40,
+      "viewCount" : 57,
       "viewLastModified" : 1401233273,
       "viewType" : "tabular",
       "columns" : [ {

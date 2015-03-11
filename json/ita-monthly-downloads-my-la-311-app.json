@@ -6,7 +6,7 @@
       "averageRating" : 0,
       "createdAt" : 1401488567,
       "displayType" : "table",
-      "downloadCount" : 4,
+      "downloadCount" : 10,
       "indexUpdatedAt" : 1414617037,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -19,7 +19,7 @@
       "rowsUpdatedBy" : "tyhz-nfmm",
       "tableId" : 1600634,
       "totalTimesRated" : 0,
-      "viewCount" : 45,
+      "viewCount" : 48,
       "viewLastModified" : 1402586280,
       "viewType" : "tabular",
       "columns" : [ {

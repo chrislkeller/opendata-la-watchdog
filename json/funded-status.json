@@ -8,7 +8,7 @@
       "createdAt" : 1400885067,
       "description" : "Funded Status",
       "displayType" : "table",
-      "downloadCount" : 1,
+      "downloadCount" : 10,
       "indexUpdatedAt" : 1414615346,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -22,7 +22,7 @@
       "rowsUpdatedBy" : "sgjw-6a7f",
       "tableId" : 1593167,
       "totalTimesRated" : 0,
-      "viewCount" : 30,
+      "viewCount" : 45,
       "viewLastModified" : 1404149078,
       "viewType" : "tabular",
       "columns" : [ {

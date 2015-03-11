@@ -6,7 +6,7 @@
       "averageRating" : 0,
       "createdAt" : 1396390368,
       "displayType" : "table",
-      "downloadCount" : 2,
+      "downloadCount" : 5,
       "indexUpdatedAt" : 1401419217,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -19,7 +19,7 @@
       "rowsUpdatedBy" : "vcvp-yass",
       "tableId" : 1599285,
       "totalTimesRated" : 0,
-      "viewCount" : 58,
+      "viewCount" : 73,
       "viewLastModified" : 1401403590,
       "viewType" : "tabular",
       "columns" : [ {

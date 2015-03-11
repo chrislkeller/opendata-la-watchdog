@@ -1,0 +1,330 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "bwqa-7qhk",
+      "name" : "2015 City of Los Angeles Holiday Calendar",
+      "attribution" : "Personnel Department",
+      "averageRating" : 0,
+      "category" : "A Well Run City",
+      "createdAt" : 1418421343,
+      "description" : "Official holidays for city employees for the City of Los Angeles",
+      "displayType" : "table",
+      "downloadCount" : 22,
+      "indexUpdatedAt" : 1418421452,
+      "licenseId" : "PUBLIC_DOMAIN",
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 9608853,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1418421444,
+      "publicationGroup" : 1968864,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1418421349,
+      "rowsUpdatedBy" : "7t2j-pb28",
+      "tableId" : 1968864,
+      "totalTimesRated" : 0,
+      "viewCount" : 354,
+      "viewLastModified" : 1418421444,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 179511038,
+        "name" : "Date",
+        "dataTypeName" : "text",
+        "fieldName" : "date",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 23329707,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 12,
+          "smallest" : "Friday, December 25, 2015",
+          "null" : 0,
+          "largest" : "Wednesday, November 11, 2015",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Thursday, January 1, 2015"
+          }, {
+            "count" : 19,
+            "item" : "Monday, January 19, 2015"
+          }, {
+            "count" : 18,
+            "item" : "Monday, February 16, 2015"
+          }, {
+            "count" : 17,
+            "item" : "Monday, March 30, 2015"
+          }, {
+            "count" : 16,
+            "item" : "Monday, May 25, 2015"
+          }, {
+            "count" : 15,
+            "item" : "Friday, July 3, 2015"
+          }, {
+            "count" : 14,
+            "item" : "Monday, September 7, 2015"
+          }, {
+            "count" : 13,
+            "item" : "Monday, October 12, 2015"
+          }, {
+            "count" : 12,
+            "item" : "Wednesday, November 11, 2015"
+          }, {
+            "count" : 11,
+            "item" : "Thursday, November 26, 2015"
+          }, {
+            "count" : 10,
+            "item" : "Friday, November 27, 2015"
+          }, {
+            "count" : 9,
+            "item" : "Friday, December 25, 2015"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 179511039,
+        "name" : "Holiday",
+        "dataTypeName" : "text",
+        "fieldName" : "holiday",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 23329708,
+        "width" : 184,
+        "cachedContents" : {
+          "non_null" : 12,
+          "smallest" : "César E. Chávez' Birthday",
+          "null" : 0,
+          "largest" : "Veteran's Day",
+          "top" : [ {
+            "count" : 20,
+            "item" : "New Year's Day"
+          }, {
+            "count" : 19,
+            "item" : "Martin Luther King, Jr's Birthday"
+          }, {
+            "count" : 18,
+            "item" : "President's Day"
+          }, {
+            "count" : 17,
+            "item" : "César E. Chávez' Birthday"
+          }, {
+            "count" : 16,
+            "item" : "Memorial Day"
+          }, {
+            "count" : 15,
+            "item" : "Independence Day Observed"
+          }, {
+            "count" : 14,
+            "item" : "Labor Day"
+          }, {
+            "count" : 13,
+            "item" : "Columbus Day"
+          }, {
+            "count" : 12,
+            "item" : "Veteran's Day"
+          }, {
+            "count" : 11,
+            "item" : "Thanksgiving Day"
+          }, {
+            "count" : 10,
+            "item" : "The Friday After Thanksgiving Day"
+          }, {
+            "count" : 9,
+            "item" : "Christmas Day"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Public Domain"
+      },
+      "metadata" : {
+        "custom_fields" : {
+          "Committed Update Frequency" : {
+            "Refresh rate" : "Annual"
+          },
+          "Data Owner" : {
+            "Board of Public Works" : "",
+            "LAPD" : "",
+            "City Administrative Officer" : "",
+            "Personnel " : "X",
+            "Bureau of Engineering" : "",
+            "City Attorney" : "",
+            "Employee Relations Board" : "",
+            "Transportation" : "",
+            "Housing and Community Investment" : "",
+            "Library" : "",
+            "Recreation and Parks " : "",
+            "Neighborhood Empowerment" : "",
+            "Controller's Office" : "",
+            "El Pueblo" : "",
+            "Other" : "",
+            "Bureau of Sanitation" : "",
+            "Disability, Department on" : "",
+            "LACERS" : "",
+            "Cultural Affairs" : "",
+            "Information Technology" : "",
+            "Fire and Police Pensions" : "",
+            "Emergency Management" : "",
+            "General Services" : "",
+            "Council District 12" : "",
+            "Council District 13" : "",
+            "Council District 14" : "",
+            "Project Restore" : "",
+            "Council District 15" : "",
+            "Council District 10" : "",
+            "Council District 11" : "",
+            "Aging" : "",
+            "Bureau of Street Lighting" : "",
+            "City Clerk" : "",
+            "Bureau of Contract Administration" : "",
+            "Planning" : "",
+            "Harbor " : "",
+            "LAWA" : "",
+            "Public Accountability, The Office of" : "",
+            "Office of Finance" : "",
+            "Council District 03" : "",
+            "Council District 04" : "",
+            "Council District 01" : "",
+            "Council District 02" : "",
+            "Bureau of Street Services" : "",
+            "Zoo" : "",
+            "Council District 09" : "",
+            "Council District 07" : "",
+            "Council District 08" : "",
+            "Council District 05" : "",
+            "Council District 06" : "",
+            "Economic and Workforce Development" : "",
+            "LAFD" : "",
+            "Animal Services" : "",
+            "Ethics Commission" : "",
+            "Mayor's Office" : "",
+            "Housing Authority" : "",
+            "Building and Safety" : "",
+            "LADWP" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "7t2j-pb28",
+        "displayName" : "Abhi Nemani",
+        "profileImageUrlLarge" : "/images/profile/5853/8870/22a_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5853/8870/22a_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5853/8870/22a_tiny.jpg",
+        "roleName" : "administrator",
+        "screenName" : "Abhi Nemani",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "7t2j-pb28",
+        "displayName" : "Abhi Nemani",
+        "profileImageUrlLarge" : "/images/profile/5853/8870/22a_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5853/8870/22a_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5853/8870/22a_tiny.jpg",
+        "roleName" : "administrator",
+        "screenName" : "Abhi Nemani",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "DA42B014-15BD-4E72-A818-2F441612D750", 1, 1418421346, "892567", 1418421346, "892567", "{\n}", "Thursday, January 1, 2015", "New Year's Day" ]
+, [ 2, "2B93B90B-6CA7-4FD4-8CDD-76C307F954A6", 2, 1418421346, "892567", 1418421346, "892567", "{\n}", "Monday, January 19, 2015", "Martin Luther King, Jr's Birthday" ]
+, [ 3, "43C14C1A-74DD-4BD2-9E47-8C504E4CF7C7", 3, 1418421346, "892567", 1418421346, "892567", "{\n}", "Monday, February 16, 2015", "President's Day" ]
+, [ 4, "939E41C7-92C2-454D-BA41-EB338450287C", 4, 1418421346, "892567", 1418421346, "892567", "{\n}", "Monday, March 30, 2015", "César E. Chávez' Birthday" ]
+, [ 5, "2E84A86E-CD1B-4023-8519-19B839C6023E", 5, 1418421346, "892567", 1418421346, "892567", "{\n}", "Monday, May 25, 2015", "Memorial Day" ]
+, [ 6, "DB045068-D360-456C-B736-C7B9DE106AD7", 6, 1418421346, "892567", 1418421346, "892567", "{\n}", "Friday, July 3, 2015", "Independence Day Observed" ]
+, [ 7, "EEB4FADA-EB3D-4CA5-B2C0-0EF13AAB4703", 7, 1418421346, "892567", 1418421346, "892567", "{\n}", "Monday, September 7, 2015", "Labor Day" ]
+, [ 8, "233487BB-4810-4CF2-99C2-666A81E1B101", 8, 1418421346, "892567", 1418421346, "892567", "{\n}", "Monday, October 12, 2015", "Columbus Day" ]
+, [ 9, "0F5B302D-EBA8-4E94-BF93-85C100D20A31", 9, 1418421346, "892567", 1418421346, "892567", "{\n}", "Wednesday, November 11, 2015", "Veteran's Day" ]
+, [ 10, "8DA0C7AD-C97C-4EEC-BF63-12B45A30225B", 10, 1418421346, "892567", 1418421346, "892567", "{\n}", "Thursday, November 26, 2015", "Thanksgiving Day" ]
+, [ 11, "0EADDEA7-D4D9-47E1-B67A-D8840ED7060E", 11, 1418421346, "892567", 1418421346, "892567", "{\n}", "Friday, November 27, 2015", "The Friday After Thanksgiving Day" ]
+, [ 12, "4788C894-E695-4BFA-8396-D041686058E7", 12, 1418421346, "892567", 1418421346, "892567", "{\n}", "Friday, December 25, 2015", "Christmas Day" ]
+ ]
+}

@@ -10,7 +10,7 @@
       "createdAt" : 1390695323,
       "description" : "CAFR Pages 378-381.\r\n\r\n(1)\tIn fiscal year 2010, DWP took over possession, management and control over majority of the assets.\r\n(2)\tData changed to Department-owned generating units beginning fiscal year 2007.  The increase in generating units is due to renewables.\r\n(3)\tThe Airports operate LAX, ONT, VNY and PMD.  However, PMD is not currently certificated by the FAA.",
       "displayType" : "table",
-      "downloadCount" : 64,
+      "downloadCount" : 75,
       "indexUpdatedAt" : 1414613497,
       "licenseId" : "PUBLIC_DOMAIN",
       "newBackend" : false,
@@ -25,7 +25,7 @@
       "rowsUpdatedBy" : "7c7a-resi",
       "tableId" : 1492323,
       "totalTimesRated" : 0,
-      "viewCount" : 132,
+      "viewCount" : 161,
       "viewLastModified" : 1412744547,
       "viewType" : "tabular",
       "columns" : [ {
@@ -395,6 +395,9 @@
       "owner" : {
         "id" : "7c7a-resi",
         "displayName" : "Controller's Office",
+        "profileImageUrlLarge" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_tiny.jpg",
         "roleName" : "administrator",
         "screenName" : "Controller's Office",
         "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
@@ -416,6 +419,9 @@
       "tableAuthor" : {
         "id" : "7c7a-resi",
         "displayName" : "Controller's Office",
+        "profileImageUrlLarge" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_tiny.jpg",
         "roleName" : "administrator",
         "screenName" : "Controller's Office",
         "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]

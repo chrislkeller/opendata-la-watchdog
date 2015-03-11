@@ -9,7 +9,7 @@
       "createdAt" : 1401486389,
       "description" : "Monthly figures for total square feet of graffiti removal and response times for requests through 311 or online.",
       "displayType" : "table",
-      "downloadCount" : 7,
+      "downloadCount" : 21,
       "indexUpdatedAt" : 1414615571,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -23,7 +23,7 @@
       "rowsUpdatedBy" : "tyhz-nfmm",
       "tableId" : 1600577,
       "totalTimesRated" : 0,
-      "viewCount" : 55,
+      "viewCount" : 66,
       "viewLastModified" : 1403288515,
       "viewType" : "tabular",
       "columns" : [ {

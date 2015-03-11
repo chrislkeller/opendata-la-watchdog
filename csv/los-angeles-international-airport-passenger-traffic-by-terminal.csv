@@ -3846,3 +3846,111 @@ DataExtractDate,ReportPeriod,Terminal,Arrival_Departure,Domestic_International,P
 11/15/2014 08:00:12 AM,09/01/2014 12:00:00 AM,Tom Bradley International Terminal,Arrival,International,472484
 11/15/2014 08:00:12 AM,09/01/2014 12:00:00 AM,Tom Bradley International Terminal,Departure,Domestic,9517
 11/15/2014 08:00:12 AM,09/01/2014 12:00:00 AM,Tom Bradley International Terminal,Departure,International,420921
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Misc. Terminal,Arrival,Domestic,50328
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Misc. Terminal,Arrival,International,21
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Misc. Terminal,Departure,Domestic,49277
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Misc. Terminal,Departure,International,2
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Terminal 1,Arrival,Domestic,354318
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Terminal 1,Departure,Domestic,347209
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Terminal 2,Arrival,Domestic,37270
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Terminal 2,Arrival,International,179743
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Terminal 2,Departure,Domestic,38683
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Terminal 2,Departure,International,187262
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Terminal 3,Arrival,Domestic,326752
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Terminal 3,Departure,Domestic,326120
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Terminal 3,Departure,International,2286
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Terminal 4,Arrival,Domestic,389591
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Terminal 4,Arrival,International,7582
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Terminal 4,Departure,Domestic,381300
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Terminal 4,Departure,International,36360
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Terminal 5,Arrival,Domestic,334386
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Terminal 5,Arrival,International,44966
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Terminal 5,Departure,Domestic,357852
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Terminal 5,Departure,International,48543
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Terminal 6,Arrival,Domestic,300256
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Terminal 6,Departure,Domestic,245768
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Terminal 6,Departure,International,51727
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Terminal 7,Arrival,Domestic,264281
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Terminal 7,Arrival,International,57126
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Terminal 7,Departure,Domestic,267094
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Terminal 7,Departure,International,34726
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Terminal 8,Arrival,Domestic,114528
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Terminal 8,Arrival,International,2362
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Terminal 8,Departure,Domestic,114277
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Terminal 8,Departure,International,3431
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Tom Bradley International Terminal,Arrival,Domestic,13311
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Tom Bradley International Terminal,Arrival,International,448937
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Tom Bradley International Terminal,Departure,Domestic,8704
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Tom Bradley International Terminal,Departure,International,439507
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Imperial Terminal,Departure,International,119
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Misc. Terminal,Arrival,Domestic,46662
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Misc. Terminal,Arrival,International,9
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Misc. Terminal,Departure,Domestic,45643
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Terminal 1,Arrival,Domestic,339455
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Terminal 1,Departure,Domestic,339329
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Terminal 2,Arrival,Domestic,34152
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Terminal 2,Arrival,International,158459
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Terminal 2,Departure,Domestic,36030
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Terminal 2,Departure,International,169511
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Terminal 3,Arrival,Domestic,228992
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Terminal 3,Departure,Domestic,230955
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Terminal 3,Departure,International,2362
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Terminal 4,Arrival,Domestic,333493
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Terminal 4,Arrival,International,2609
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Terminal 4,Departure,Domestic,336852
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Terminal 4,Departure,International,30066
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Terminal 5,Arrival,Domestic,293539
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Terminal 5,Arrival,International,51689
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Terminal 5,Departure,Domestic,302379
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Terminal 5,Departure,International,53570
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Terminal 6,Arrival,Domestic,271520
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Terminal 6,Arrival,International,274
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Terminal 6,Departure,Domestic,249209
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Terminal 6,Departure,International,56134
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Terminal 7,Arrival,Domestic,290965
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Terminal 7,Arrival,International,68679
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Terminal 7,Departure,Domestic,297046
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Terminal 7,Departure,International,37090
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Terminal 8,Arrival,Domestic,139916
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Terminal 8,Arrival,International,4599
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Terminal 8,Departure,Domestic,134986
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Terminal 8,Departure,International,8926
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Tom Bradley International Terminal,Arrival,Domestic,11513
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Tom Bradley International Terminal,Arrival,International,398341
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Tom Bradley International Terminal,Departure,Domestic,6415
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Tom Bradley International Terminal,Departure,International,368957
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Misc. Terminal,Arrival,Domestic,49360
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Misc. Terminal,Departure,Domestic,46931
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Terminal 1,Arrival,Domestic,370330
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Terminal 1,Departure,Domestic,361469
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Terminal 2,Arrival,Domestic,42001
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Terminal 2,Arrival,International,158425
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Terminal 2,Departure,Domestic,44715
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Terminal 2,Departure,International,164065
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Terminal 3,Arrival,Domestic,240312
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Terminal 3,Departure,Domestic,234102
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Terminal 3,Departure,International,2315
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Terminal 4,Arrival,Domestic,361706
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Terminal 4,Arrival,International,15034
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Terminal 4,Departure,Domestic,355378
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Terminal 4,Departure,International,33932
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Terminal 5,Arrival,Domestic,321257
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Terminal 5,Arrival,International,63535
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Terminal 5,Departure,Domestic,331623
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Terminal 5,Departure,International,69195
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Terminal 6,Arrival,Domestic,320796
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Terminal 6,Arrival,International,236
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Terminal 6,Departure,Domestic,290271
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Terminal 6,Departure,International,62145
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Terminal 7,Arrival,Domestic,320845
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Terminal 7,Arrival,International,75025
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Terminal 7,Departure,Domestic,325034
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Terminal 7,Departure,International,43585
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Terminal 8,Arrival,Domestic,154498
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Terminal 8,Arrival,International,5652
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Terminal 8,Departure,Domestic,148404
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Terminal 8,Departure,International,9736
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Tom Bradley International Terminal,Arrival,Domestic,11797
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Tom Bradley International Terminal,Arrival,International,452981
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Tom Bradley International Terminal,Departure,Domestic,8182
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Tom Bradley International Terminal,Departure,International,426684

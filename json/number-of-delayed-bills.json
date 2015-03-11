@@ -9,7 +9,7 @@
       "createdAt" : 1400885238,
       "description" : "Number of delayed LADWP bills and revenue in millions from delayed bills.",
       "displayType" : "table",
-      "downloadCount" : 6,
+      "downloadCount" : 14,
       "indexUpdatedAt" : 1414613645,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -22,7 +22,7 @@
       "rowsUpdatedBy" : "7q7s-tyf3",
       "tableId" : 1593173,
       "totalTimesRated" : 0,
-      "viewCount" : 30,
+      "viewCount" : 55,
       "viewLastModified" : 1401231246,
       "viewType" : "tabular",
       "columns" : [ {

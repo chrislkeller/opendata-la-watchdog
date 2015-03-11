@@ -8,7 +8,7 @@
       "createdAt" : 1401474702,
       "description" : "Upcoming Events for Older Americans",
       "displayType" : "table",
-      "downloadCount" : 10,
+      "downloadCount" : 20,
       "indexUpdatedAt" : 1414612805,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -21,7 +21,7 @@
       "rowsUpdatedBy" : "hhg6-ygkh",
       "tableId" : 1600345,
       "totalTimesRated" : 0,
-      "viewCount" : 50,
+      "viewCount" : 71,
       "viewLastModified" : 1401478485,
       "viewType" : "tabular",
       "columns" : [ {

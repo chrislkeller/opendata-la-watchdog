@@ -10,7 +10,7 @@
       "createdAt" : 1390248975,
       "description" : "CAFR Pages 338-339.\r\n\r\nThis data set shows the balance of Governmental Funds by Fiscal Year, Fund Type and Fund Restriction. A Fund is a fiscal entity with revenues and expenditures that are segregated for carrying out a specific purpose or activity. This data is based on the following parameters: Accrual Basis of Accounting, Last Ten Fiscal Years and (amounts expressed in thousands).",
       "displayType" : "table",
-      "downloadCount" : 69,
+      "downloadCount" : 86,
       "indexUpdatedAt" : 1414612999,
       "licenseId" : "PUBLIC_DOMAIN",
       "newBackend" : false,
@@ -25,7 +25,7 @@
       "rowsUpdatedBy" : "7c7a-resi",
       "tableId" : 1472307,
       "totalTimesRated" : 0,
-      "viewCount" : 96,
+      "viewCount" : 103,
       "viewLastModified" : 1410242135,
       "viewType" : "tabular",
       "columns" : [ {
@@ -325,6 +325,9 @@
       "owner" : {
         "id" : "7c7a-resi",
         "displayName" : "Controller's Office",
+        "profileImageUrlLarge" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_tiny.jpg",
         "roleName" : "administrator",
         "screenName" : "Controller's Office",
         "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
@@ -335,6 +338,9 @@
       "tableAuthor" : {
         "id" : "7c7a-resi",
         "displayName" : "Controller's Office",
+        "profileImageUrlLarge" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_tiny.jpg",
         "roleName" : "administrator",
         "screenName" : "Controller's Office",
         "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]

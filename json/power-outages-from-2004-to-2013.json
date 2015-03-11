@@ -9,7 +9,7 @@
       "createdAt" : 1401398120,
       "description" : "Power outages From 2004 To 2013 Excluding Consumer Caused Outages.  Location represent the LADWP facility that responded to the power outage.",
       "displayType" : "table",
-      "downloadCount" : 3,
+      "downloadCount" : 11,
       "indexUpdatedAt" : 1414613702,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -22,7 +22,7 @@
       "rowsUpdatedBy" : "7q7s-tyf3",
       "tableId" : 1599143,
       "totalTimesRated" : 0,
-      "viewCount" : 52,
+      "viewCount" : 61,
       "viewLastModified" : 1401398267,
       "viewType" : "tabular",
       "columns" : [ {

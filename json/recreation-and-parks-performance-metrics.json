@@ -7,21 +7,21 @@
       "category" : "A Livable and Sustainable City",
       "createdAt" : 1409068726,
       "displayType" : "table",
-      "downloadCount" : 2,
-      "indexUpdatedAt" : 1414612944,
+      "downloadCount" : 7,
+      "indexUpdatedAt" : 1421893572,
       "newBackend" : false,
       "numberOfComments" : 0,
-      "oid" : 8734846,
+      "oid" : 9985834,
       "publicationAppendEnabled" : false,
-      "publicationDate" : 1409069004,
+      "publicationDate" : 1421892584,
       "publicationGroup" : 1697007,
       "publicationStage" : "published",
-      "rowsUpdatedAt" : 1409068746,
-      "rowsUpdatedBy" : "tyhz-nfmm",
-      "tableId" : 1697007,
+      "rowsUpdatedAt" : 1421892580,
+      "rowsUpdatedBy" : "u8tq-3dir",
+      "tableId" : 2135277,
       "totalTimesRated" : 0,
-      "viewCount" : 21,
-      "viewLastModified" : 1409069004,
+      "viewCount" : 47,
+      "viewLastModified" : 1421892584,
       "viewType" : "tabular",
       "columns" : [ {
         "id" : -1,
@@ -96,7 +96,7 @@
         "format" : {
         }
       }, {
-        "id" : 163992705,
+        "id" : 185669017,
         "name" : "Date Value",
         "dataTypeName" : "calendar_date",
         "fieldName" : "date_value",
@@ -174,7 +174,7 @@
         "format" : {
         }
       }, {
-        "id" : 163992706,
+        "id" : 185669018,
         "name" : "Month-Year",
         "dataTypeName" : "text",
         "fieldName" : "month_year",
@@ -252,7 +252,7 @@
         "format" : {
         }
       }, {
-        "id" : 163992707,
+        "id" : 185669019,
         "name" : "Quarter-FY",
         "dataTypeName" : "text",
         "fieldName" : "quarter_fy",
@@ -330,7 +330,7 @@
         "format" : {
         }
       }, {
-        "id" : 163992708,
+        "id" : 185669020,
         "name" : "Annual-FY",
         "dataTypeName" : "text",
         "fieldName" : "annual_fy",
@@ -366,7 +366,7 @@
         "format" : {
         }
       }, {
-        "id" : 163992709,
+        "id" : 185669021,
         "name" : "Total visitors to museums (excluding Griffith Observatory) (Annually-FY)",
         "dataTypeName" : "number",
         "fieldName" : "total_visitors_to_museums_excluding_griffith_observatory_annually_fy",
@@ -395,7 +395,7 @@
         "format" : {
         }
       }, {
-        "id" : 163992710,
+        "id" : 185669024,
         "name" : "TARGET: Total visitors to museums (excluding Griffith Observatory) (Annually-FY)",
         "dataTypeName" : "number",
         "fieldName" : "target_total_visitors_to_museums_excluding_griffith_observatory_annually_fy",
@@ -421,7 +421,7 @@
         "format" : {
         }
       }, {
-        "id" : 163992711,
+        "id" : 185669027,
         "name" : "Number of visitors to Griffith Observatory (Annually FY)",
         "dataTypeName" : "number",
         "fieldName" : "number_of_visitors_to_griffith_observatory_annually_fy",
@@ -450,7 +450,7 @@
         "format" : {
         }
       }, {
-        "id" : 163992712,
+        "id" : 185669030,
         "name" : "TARGET: Number of visitors to Griffith Observatory (Annually FY)",
         "dataTypeName" : "number",
         "fieldName" : "target_number_of_visitors_to_griffith_observatory_annually_fy",
@@ -476,7 +476,7 @@
         "format" : {
         }
       }, {
-        "id" : 163992713,
+        "id" : 185669032,
         "name" : "Number of Cultural Program and Class Registrations(Quarterly)",
         "dataTypeName" : "number",
         "fieldName" : "number_of_cultural_program_and_class_registrations_quarterly",
@@ -485,12 +485,12 @@
         "tableColumnId" : 21620088,
         "width" : 700,
         "cachedContents" : {
-          "non_null" : 4,
-          "smallest" : "12300",
-          "sum" : "104024",
-          "null" : 57,
-          "average" : "26006",
-          "largest" : "33301",
+          "non_null" : 6,
+          "smallest" : "27278",
+          "sum" : "249594",
+          "null" : 55,
+          "average" : "41599",
+          "largest" : "69079",
           "top" : [ {
             "count" : 20,
             "item" : "31145"
@@ -502,13 +502,19 @@
             "item" : "27278"
           }, {
             "count" : 17,
-            "item" : "12300"
+            "item" : "42418"
+          }, {
+            "count" : 16,
+            "item" : "69079"
+          }, {
+            "count" : 15,
+            "item" : "46373"
           } ]
         },
         "format" : {
         }
       }, {
-        "id" : 163992714,
+        "id" : 185669033,
         "name" : "TARGET: Number of Cultural Program and Class Registrations(Quarterly)",
         "dataTypeName" : "number",
         "fieldName" : "target_number_of_cultural_program_and_class_registrations_quarterly",
@@ -517,14 +523,24 @@
         "tableColumnId" : 21620089,
         "width" : 700,
         "cachedContents" : {
-          "non_null" : 0,
-          "sum" : "0",
-          "null" : 61
+          "non_null" : 4,
+          "smallest" : "35000",
+          "sum" : "150000",
+          "null" : 57,
+          "average" : "37500",
+          "largest" : "45000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "35000"
+          }, {
+            "count" : 19,
+            "item" : "45000"
+          } ]
         },
         "format" : {
         }
       }, {
-        "id" : 163992715,
+        "id" : 185669034,
         "name" : "Number of Cultural Program and Class Participants (Quarterly)",
         "dataTypeName" : "number",
         "fieldName" : "number_of_cultural_program_and_class_participants_quarterly",
@@ -533,12 +549,12 @@
         "tableColumnId" : 21620090,
         "width" : 700,
         "cachedContents" : {
-          "non_null" : 4,
+          "non_null" : 6,
           "smallest" : "586798",
-          "sum" : "2592066",
-          "null" : 57,
-          "average" : "648016.5",
-          "largest" : "715101",
+          "sum" : "4691624",
+          "null" : 55,
+          "average" : "781937.3333333333",
+          "largest" : "1037263",
           "top" : [ {
             "count" : 20,
             "item" : "612922"
@@ -550,13 +566,19 @@
             "item" : "586798"
           }, {
             "count" : 17,
-            "item" : "715101"
+            "item" : "857225"
+          }, {
+            "count" : 16,
+            "item" : "920171"
+          }, {
+            "count" : 15,
+            "item" : "1037263"
           } ]
         },
         "format" : {
         }
       }, {
-        "id" : 163992716,
+        "id" : 185669035,
         "name" : "TARGET: Number of Cultural Program and Class Participants (Quarterly)",
         "dataTypeName" : "number",
         "fieldName" : "target_number_of_cultural_program_and_class_participants_quarterly",
@@ -565,14 +587,24 @@
         "tableColumnId" : 21620091,
         "width" : 700,
         "cachedContents" : {
-          "non_null" : 0,
-          "sum" : "0",
-          "null" : 61
+          "non_null" : 4,
+          "smallest" : "650000",
+          "sum" : "2800000",
+          "null" : 57,
+          "average" : "700000",
+          "largest" : "850000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "650000"
+          }, {
+            "count" : 19,
+            "item" : "850000"
+          } ]
         },
         "format" : {
         }
       }, {
-        "id" : 163992717,
+        "id" : 185669036,
         "name" : "Number of Youth and Adult Sport Registrations(Quarterly)",
         "dataTypeName" : "number",
         "fieldName" : "number_of_youth_and_adult_sport_registrations_quarterly",
@@ -581,12 +613,12 @@
         "tableColumnId" : 21620092,
         "width" : 700,
         "cachedContents" : {
-          "non_null" : 4,
+          "non_null" : 6,
           "smallest" : "17766",
-          "sum" : "81959",
-          "null" : 57,
-          "average" : "20489.75",
-          "largest" : "25685",
+          "sum" : "250489",
+          "null" : 55,
+          "average" : "41748.16666666667",
+          "largest" : "87265",
           "top" : [ {
             "count" : 20,
             "item" : "25685"
@@ -599,12 +631,18 @@
           }, {
             "count" : 17,
             "item" : "20202"
+          }, {
+            "count" : 16,
+            "item" : "87265"
+          }, {
+            "count" : 15,
+            "item" : "81265"
           } ]
         },
         "format" : {
         }
       }, {
-        "id" : 163992718,
+        "id" : 185669037,
         "name" : "TARGET: Number of Youth and Adult Sport Registrations (Quarterly)",
         "dataTypeName" : "number",
         "fieldName" : "target_number_of_youth_and_adult_sport_registrations_quarterly",
@@ -613,14 +651,24 @@
         "tableColumnId" : 21620093,
         "width" : 700,
         "cachedContents" : {
-          "non_null" : 0,
-          "sum" : "0",
-          "null" : 61
+          "non_null" : 4,
+          "smallest" : "20000",
+          "sum" : "85000",
+          "null" : 57,
+          "average" : "21250",
+          "largest" : "25000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "25000"
+          }, {
+            "count" : 19,
+            "item" : "20000"
+          } ]
         },
         "format" : {
         }
       }, {
-        "id" : 163992719,
+        "id" : 185669038,
         "name" : "Number of Youth and Adult Sport Participants (Quarterly)",
         "dataTypeName" : "number",
         "fieldName" : "number_of_youth_and_adult_sport_participants_quarterly",
@@ -629,12 +677,12 @@
         "tableColumnId" : 21620094,
         "width" : 700,
         "cachedContents" : {
-          "non_null" : 4,
-          "smallest" : "299224",
-          "sum" : "1837209",
-          "null" : 57,
-          "average" : "459302.25",
-          "largest" : "620612",
+          "non_null" : 6,
+          "smallest" : "431429",
+          "sum" : "3899494",
+          "null" : 55,
+          "average" : "649915.6666666667",
+          "largest" : "1134753",
           "top" : [ {
             "count" : 20,
             "item" : "620612"
@@ -646,13 +694,19 @@
             "item" : "454795"
           }, {
             "count" : 17,
-            "item" : "299224"
+            "item" : "431429"
+          }, {
+            "count" : 16,
+            "item" : "795327"
+          }, {
+            "count" : 15,
+            "item" : "1134753"
           } ]
         },
         "format" : {
         }
       }, {
-        "id" : 163992720,
+        "id" : 185669039,
         "name" : "TARGET: Number of Youth and Adult Sport Participants (Quarterly)",
         "dataTypeName" : "number",
         "fieldName" : "target_number_of_youth_and_adult_sport_participants_quarterly",
@@ -661,14 +715,24 @@
         "tableColumnId" : 21620095,
         "width" : 700,
         "cachedContents" : {
-          "non_null" : 0,
-          "sum" : "0",
-          "null" : 61
+          "non_null" : 4,
+          "smallest" : "500000",
+          "sum" : "2150000",
+          "null" : 57,
+          "average" : "537500",
+          "largest" : "650000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "650000"
+          }, {
+            "count" : 19,
+            "item" : "500000"
+          } ]
         },
         "format" : {
         }
       }, {
-        "id" : 163992721,
+        "id" : 185669040,
         "name" : "Number of Golf Rounds Played (Quarterly)",
         "dataTypeName" : "number",
         "fieldName" : "number_of_golf_rounds_played_quarterly",
@@ -677,11 +741,11 @@
         "tableColumnId" : 21620096,
         "width" : 580,
         "cachedContents" : {
-          "non_null" : 4,
-          "smallest" : "197735",
-          "sum" : "876236",
-          "null" : 57,
-          "average" : "219059",
+          "non_null" : 6,
+          "smallest" : "183000",
+          "sum" : "1288436",
+          "null" : 55,
+          "average" : "214739.3333333333",
           "largest" : "252401",
           "top" : [ {
             "count" : 20,
@@ -695,12 +759,18 @@
           }, {
             "count" : 17,
             "item" : "225900"
+          }, {
+            "count" : 16,
+            "item" : "229200"
+          }, {
+            "count" : 15,
+            "item" : "183000"
           } ]
         },
         "format" : {
         }
       }, {
-        "id" : 163992722,
+        "id" : 185669041,
         "name" : "TARGET: Number of Golf Rounds Played (Quarterly)",
         "dataTypeName" : "number",
         "fieldName" : "target_number_of_golf_rounds_played_quarterly",
@@ -709,14 +779,30 @@
         "tableColumnId" : 21620097,
         "width" : 676,
         "cachedContents" : {
-          "non_null" : 0,
-          "sum" : "0",
-          "null" : 61
+          "non_null" : 4,
+          "smallest" : "200000",
+          "sum" : "880000",
+          "null" : 57,
+          "average" : "220000",
+          "largest" : "240000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "240000"
+          }, {
+            "count" : 19,
+            "item" : "200000"
+          }, {
+            "count" : 18,
+            "item" : "210000"
+          }, {
+            "count" : 17,
+            "item" : "230000"
+          } ]
         },
         "format" : {
         }
       }, {
-        "id" : 163992723,
+        "id" : 185669042,
         "name" : "Total attendance at City aquatic facilities (Annually)",
         "dataTypeName" : "number",
         "fieldName" : "total_attendance_at_city_aquatic_facilities_annually",
@@ -725,24 +811,30 @@
         "tableColumnId" : 21620098,
         "width" : 700,
         "cachedContents" : {
-          "non_null" : 3,
-          "smallest" : "1301763",
-          "sum" : "3961763",
-          "null" : 58,
-          "average" : "1320587.666666667",
+          "non_null" : 5,
+          "smallest" : "125946",
+          "sum" : "4704141",
+          "null" : 56,
+          "average" : "940828.2",
           "largest" : "1330000",
           "top" : [ {
             "count" : 20,
             "item" : "1330000"
           }, {
             "count" : 19,
-            "item" : "1301763"
+            "item" : "1320933"
+          }, {
+            "count" : 18,
+            "item" : "597262"
+          }, {
+            "count" : 17,
+            "item" : "125946"
           } ]
         },
         "format" : {
         }
       }, {
-        "id" : 163992724,
+        "id" : 185669043,
         "name" : "TARGET: Total attendance at City aquatic facilities (Annually)",
         "dataTypeName" : "number",
         "fieldName" : "target_total_attendance_at_city_aquatic_facilities_annually",
@@ -911,18 +1003,18 @@
 , [ 46, "5D3BA7A6-3659-423B-B188-A199B60297D1", 46, 1409068730, "865572", 1409068730, "865572", "{\n}", "2014-03-31T00:00:00", "41712", "Q3 FY14", null, null, null, null, null, "27278", null, "586798", null, "18306", null, "454795", null, "200200", null, null, null ]
 , [ 47, "EB8654CC-CC28-42FF-8F6F-57FD02688C9E", 47, 1409068730, "865572", 1409068730, "865572", "{\n}", "2014-04-30T00:00:00", "41743", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
 , [ 48, "CAEC7D3A-F5A2-4BC7-A879-70E35CB7D926", 48, 1409068730, "865572", 1409068730, "865572", "{\n}", "2014-05-31T00:00:00", "41773", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
-, [ 49, "3C2A4F1E-65BE-497A-BB87-00DE8FA71B4C", 49, 1409068730, "865572", 1409068730, "865572", "{\n}", "2014-06-30T00:00:00", "41804", "Q4 FY14", "FY 2014", "536357", "315000", "1155104", "1040000", "12300", null, "715101", null, "20202", null, "299224", null, "225900", null, "1301763", "1330000" ]
+, [ 49, "3C2A4F1E-65BE-497A-BB87-00DE8FA71B4C", 49, 1409068730, "865572", 1418769393, "882515", null, "2014-06-30T00:00:00", "41804", "Q4 FY14", "FY 2014", "536357", "315000", "1155104", "1040000", "42418", null, "857225", null, "20202", null, "431429", null, "225900", null, "1320933", "1330000" ]
 , [ 50, "8B5832DF-A750-4D0F-8AE4-A9BED5B3C076", 50, 1409068730, "865572", 1409068730, "865572", "{\n}", "2014-07-31T00:00:00", "41834", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
 , [ 51, "BDADF446-F973-408D-B58B-84A5D80D2282", 51, 1409068730, "865572", 1409068730, "865572", "{\n}", "2014-08-31T00:00:00", "41865", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
-, [ 52, "41B1DC48-1945-4F4C-AE74-E3A48C9099EB", 52, 1409068730, "865572", 1409068730, "865572", "{\n}", "2014-09-30T00:00:00", "41896", "Q1 FY15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 52, "41B1DC48-1945-4F4C-AE74-E3A48C9099EB", 52, 1409068730, "865572", 1418769403, "882515", null, "2014-09-30T00:00:00", "41896", "Q1 FY15", null, null, null, null, null, "69079", "35000", "920171", "650000", "87265", "25000", "795327", "650000", "229200", "240000", "597262", null ]
 , [ 53, "90AD3933-EF0F-48E2-A5B9-797249FB7E3D", 53, 1409068730, "865572", 1409068730, "865572", "{\n}", "2014-10-31T00:00:00", "41926", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
 , [ 54, "D44BD6DD-A233-4538-8E55-C5E8FA033695", 54, 1409068730, "865572", 1409068730, "865572", "{\n}", "2014-11-30T00:00:00", "41957", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
-, [ 55, "8A408B1B-4235-4998-8E45-84FC876D2510", 55, 1409068730, "865572", 1409068730, "865572", "{\n}", "2014-12-31T00:00:00", "41987", "Q2 FY15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 55, "8A408B1B-4235-4998-8E45-84FC876D2510", 55, 1409068730, "865572", 1421892577, "882515", null, "2014-12-31T00:00:00", "41987", "Q2 FY15", null, null, null, null, null, "46373", "35000", "1037263", "650000", "81265", "20000", "1134753", "500000", "183000", "200000", "125946", null ]
 , [ 56, "1C0F61B1-67AD-4FF2-8CC2-307F7556541C", 56, 1409068730, "865572", 1409068730, "865572", "{\n}", "2015-01-31T00:00:00", "41654", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
 , [ 57, "FC2AF1A6-25BE-4F95-89FC-59CBAAC9EFC8", 57, 1409068730, "865572", 1409068730, "865572", "{\n}", "2015-02-28T00:00:00", "41685", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
-, [ 58, "C994D217-F3F7-4578-BF11-62E5DF2B6F47", 58, 1409068730, "865572", 1409068730, "865572", "{\n}", "2015-03-31T00:00:00", "41713", "Q3 FY15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 58, "C994D217-F3F7-4578-BF11-62E5DF2B6F47", 58, 1409068730, "865572", 1418769357, "882515", null, "2015-03-31T00:00:00", "41713", "Q3 FY15", null, null, null, null, null, null, "35000", null, "650000", null, "20000", null, "500000", null, "210000", null, null ]
 , [ 59, "273DCF6E-E197-4122-8B36-A8BF2DE89E9F", 59, 1409068730, "865572", 1409068730, "865572", "{\n}", "2015-04-30T00:00:00", "41744", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
 , [ 60, "5F70B6FE-7CC6-4AF8-85A2-F85273548661", 60, 1409068730, "865572", 1409068730, "865572", "{\n}", "2015-05-31T00:00:00", "41774", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
-, [ 61, "29FF6F56-D40E-4376-B596-D10CE8325AC5", 61, 1409068730, "865572", 1409068730, "865572", "{\n}", "2015-06-30T00:00:00", "41805", "Q4 FY15", "FY 2015", null, "330000", null, "1060000", null, null, null, null, null, null, null, null, null, null, null, "1360000" ]
+, [ 61, "29FF6F56-D40E-4376-B596-D10CE8325AC5", 61, 1409068730, "865572", 1418769361, "882515", null, "2015-06-30T00:00:00", "41805", "Q4 FY15", "FY 2015", null, "330000", null, "1060000", null, "45000", null, "850000", null, "20000", null, "500000", null, "230000", null, "1360000" ]
  ]
 }

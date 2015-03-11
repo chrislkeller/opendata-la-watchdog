@@ -7,7 +7,7 @@
       "createdAt" : 1401488245,
       "description" : "This metric measures the average total daily water use in Los Angeles, divided by the total number of residents. As this figure includes commercial, industrial, and institutional water use, this figure does not represent the average personal daily use of an individual Angeleno.",
       "displayType" : "table",
-      "downloadCount" : 5,
+      "downloadCount" : 16,
       "indexUpdatedAt" : 1414615923,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -20,7 +20,7 @@
       "rowsUpdatedBy" : "ddg3-br68",
       "tableId" : 1600628,
       "totalTimesRated" : 0,
-      "viewCount" : 49,
+      "viewCount" : 68,
       "viewLastModified" : 1402589445,
       "viewType" : "tabular",
       "columns" : [ {

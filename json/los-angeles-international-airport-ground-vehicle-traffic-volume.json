@@ -8,8 +8,8 @@
       "createdAt" : 1401378207,
       "description" : "Ground Vehicle Statistic that entered and exited LAX's Central Terminal Area",
       "displayType" : "table",
-      "downloadCount" : 5,
-      "indexUpdatedAt" : 1416067827,
+      "downloadCount" : 16,
+      "indexUpdatedAt" : 1424190892,
       "newBackend" : false,
       "numberOfComments" : 0,
       "oid" : 8097731,
@@ -18,12 +18,12 @@
       "publicationGroup" : 1598721,
       "publicationStage" : "published",
       "rowClass" : "",
-      "rowsUpdatedAt" : 1416067823,
+      "rowsUpdatedAt" : 1424190704,
       "rowsUpdatedBy" : "gudt-ccne",
       "state" : "normal",
       "tableId" : 1598721,
       "totalTimesRated" : 0,
-      "viewCount" : 96,
+      "viewCount" : 113,
       "viewLastModified" : 1405949803,
       "viewType" : "tabular",
       "columns" : [ {
@@ -108,10 +108,10 @@
         "tableColumnId" : 19995242,
         "width" : 268,
         "cachedContents" : {
-          "non_null" : 76,
+          "non_null" : 88,
           "smallest" : "2013-05-01T00:00:00",
           "null" : 0,
-          "largest" : "2014-10-01T00:00:00",
+          "largest" : "2015-01-01T00:00:00",
           "top" : [ {
             "count" : 20,
             "item" : "2014-06-01T00:00:00"
@@ -166,6 +166,12 @@
           }, {
             "count" : 3,
             "item" : "2014-10-01T00:00:00"
+          }, {
+            "count" : 2,
+            "item" : "2014-11-01T00:00:00"
+          }, {
+            "count" : 1,
+            "item" : "2014-12-01T00:00:00"
           } ]
         },
         "format" : {
@@ -180,7 +186,7 @@
         "tableColumnId" : 19995243,
         "width" : 208,
         "cachedContents" : {
-          "non_null" : 76,
+          "non_null" : 88,
           "smallest" : "Entry",
           "null" : 0,
           "largest" : "Exit",
@@ -204,7 +210,7 @@
         "tableColumnId" : 19995244,
         "width" : 220,
         "cachedContents" : {
-          "non_null" : 76,
+          "non_null" : 88,
           "smallest" : "Lower Level",
           "null" : 0,
           "largest" : "Upper Level",
@@ -228,72 +234,30 @@
         "tableColumnId" : 19995245,
         "width" : 268,
         "cachedContents" : {
-          "non_null" : 76,
+          "non_null" : 88,
           "smallest" : "520894",
-          "sum" : "88763829",
+          "sum" : "103001290",
           "null" : 0,
-          "average" : "1167945.118421053",
+          "average" : "1170469.204545455",
           "largest" : "1900933",
           "top" : [ {
             "count" : 20,
-            "item" : "1181556"
+            "item" : "1845590"
           }, {
             "count" : 19,
-            "item" : "1027606"
+            "item" : "768645"
           }, {
             "count" : 18,
-            "item" : "667872"
+            "item" : "1078071"
           }, {
             "count" : 17,
-            "item" : "1691869"
+            "item" : "1186116"
           }, {
             "count" : 16,
-            "item" : "1808899"
+            "item" : "1722462"
           }, {
             "count" : 15,
-            "item" : "720653"
-          }, {
-            "count" : 14,
-            "item" : "1122657"
-          }, {
-            "count" : 13,
-            "item" : "1266198"
-          }, {
-            "count" : 12,
-            "item" : "1797155"
-          }, {
-            "count" : 11,
-            "item" : "720737"
-          }, {
-            "count" : 10,
-            "item" : "1128363"
-          }, {
-            "count" : 9,
-            "item" : "1083029"
-          }, {
-            "count" : 8,
-            "item" : "719880"
-          }, {
-            "count" : 7,
-            "item" : "1688181"
-          }, {
-            "count" : 6,
-            "item" : "1250703"
-          }, {
-            "count" : 5,
-            "item" : "1187877"
-          }, {
-            "count" : 4,
-            "item" : "1053332"
-          }, {
-            "count" : 3,
-            "item" : "1628153"
-          }, {
-            "count" : 2,
-            "item" : "693932"
-          }, {
-            "count" : 1,
-            "item" : "1200360"
+            "item" : "682468"
           } ]
         },
         "format" : {
@@ -423,5 +387,17 @@
 , [ 147, "EA8177E4-ABFC-4344-A796-F8B3FB65CFFF", 147, 1416067823, "883844", 1416067823, "883844", null, "2014-10-01T00:00:00", "Entry", "Upper Level", "1219739" ]
 , [ 148, "75EC52CB-D1E9-45C4-89D0-C95635EF3575", 148, 1416067823, "883844", 1416067823, "883844", null, "2014-10-01T00:00:00", "Exit", "Lower Level", "1698399" ]
 , [ 149, "A31F69AD-4A04-40F6-A2B7-7A303AA02FB5", 149, 1416067823, "883844", 1416067823, "883844", null, "2014-10-01T00:00:00", "Exit", "Upper Level", "709198" ]
+, [ 150, "BA1A7808-1F33-4971-94FB-8E492B3031AB", 150, 1418659818, "883844", 1418659818, "883844", null, "2014-11-01T00:00:00", "Entry", "Lower Level", "1043220" ]
+, [ 151, "A096EFD7-6AE3-4591-A550-4B2AC9D6BB6C", 151, 1418659818, "883844", 1418659818, "883844", null, "2014-11-01T00:00:00", "Entry", "Upper Level", "1193273" ]
+, [ 152, "F74039DB-156C-4A4B-BB94-EB6B5588580B", 152, 1418659818, "883844", 1418659818, "883844", null, "2014-11-01T00:00:00", "Exit", "Lower Level", "1605745" ]
+, [ 153, "087ADCAE-A1FE-4944-8C06-F7F77059C274", 153, 1418659818, "883844", 1418659818, "883844", null, "2014-11-01T00:00:00", "Exit", "Upper Level", "696737" ]
+, [ 154, "97EA9DC3-8CCD-485E-88B7-8DDD79D43EC1", 154, 1424016622, "883844", 1424016622, "883844", null, "2014-12-01T00:00:00", "Entry", "Lower Level", "1142758" ]
+, [ 155, "E5AD3550-FE1A-4A58-8A58-F9A82E3DD5C9", 155, 1424016622, "883844", 1424016622, "883844", null, "2014-12-01T00:00:00", "Entry", "Upper Level", "1272376" ]
+, [ 156, "C7AAE2F5-0B28-4F10-948E-2B6305B7A65D", 156, 1424016622, "883844", 1424016622, "883844", null, "2014-12-01T00:00:00", "Exit", "Lower Level", "1845590" ]
+, [ 157, "6F5AF457-974E-454F-B552-EBDE3C709B2B", 157, 1424016622, "883844", 1424016622, "883844", null, "2014-12-01T00:00:00", "Exit", "Upper Level", "768645" ]
+, [ 158, "C0EBF094-F727-46A0-942D-CB4518A0837F", 158, 1424190704, "883844", 1424190704, "883844", null, "2015-01-01T00:00:00", "Entry", "Lower Level", "1078071" ]
+, [ 159, "5CC146B0-E304-441D-8E62-DDD2F6E7F0AC", 159, 1424190704, "883844", 1424190704, "883844", null, "2015-01-01T00:00:00", "Entry", "Upper Level", "1186116" ]
+, [ 160, "DF1C2374-EB5B-4A3C-8048-032D02DCC804", 160, 1424190704, "883844", 1424190704, "883844", null, "2015-01-01T00:00:00", "Exit", "Lower Level", "1722462" ]
+, [ 161, "8D2BE1DB-9538-4BB2-B2EF-3140A48FAEF2", 161, 1424190704, "883844", 1424190704, "883844", null, "2015-01-01T00:00:00", "Exit", "Upper Level", "682468" ]
  ]
 }

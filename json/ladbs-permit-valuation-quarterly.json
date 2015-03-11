@@ -8,7 +8,7 @@
       "createdAt" : 1401484376,
       "description" : "LADBS Permit Valuation, an estimate of the value of all work and capital associated with new applications for development permits",
       "displayType" : "table",
-      "downloadCount" : 3,
+      "downloadCount" : 15,
       "indexUpdatedAt" : 1414613191,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -22,7 +22,7 @@
       "rowsUpdatedBy" : "anbw-drra",
       "tableId" : 1600723,
       "totalTimesRated" : 0,
-      "viewCount" : 59,
+      "viewCount" : 75,
       "viewLastModified" : 1402609692,
       "viewType" : "tabular",
       "columns" : [ {

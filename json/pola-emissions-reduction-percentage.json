@@ -7,7 +7,7 @@
       "createdAt" : 1401488573,
       "description" : "This table reports emissions from Port operations in oxides of nitrogen (NOx), Oxides of Sulfur (SOx), and Diesel Particulate Matter (DPM); emissions impact health and quality of life in the Port-adjacent communities. Source: POLA Annual emissions inventory (for Port reductions)",
       "displayType" : "table",
-      "downloadCount" : 0,
+      "downloadCount" : 9,
       "indexUpdatedAt" : 1414612801,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -20,7 +20,7 @@
       "rowsUpdatedBy" : "ddg3-br68",
       "tableId" : 1600635,
       "totalTimesRated" : 0,
-      "viewCount" : 12,
+      "viewCount" : 17,
       "viewLastModified" : 1402585886,
       "viewType" : "tabular",
       "columns" : [ {

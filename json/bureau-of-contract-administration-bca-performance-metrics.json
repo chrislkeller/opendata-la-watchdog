@@ -9,21 +9,21 @@
       "createdAt" : 1407174578,
       "description" : "This dataset contains metrics that measure the operational performance of the Bureau of Contract Administration. These metrics are used on a regular basis by the department and the Mayor to evaluate progress and inform decision making. Performance management forms the foundation of a data-driven culture of innovation and excellence in the City of Los Angeles.",
       "displayType" : "table",
-      "downloadCount" : 5,
-      "indexUpdatedAt" : 1415926042,
+      "downloadCount" : 16,
+      "indexUpdatedAt" : 1420591692,
       "newBackend" : false,
       "numberOfComments" : 0,
-      "oid" : 9375175,
+      "oid" : 9845914,
       "publicationAppendEnabled" : false,
-      "publicationDate" : 1415925993,
+      "publicationDate" : 1420591670,
       "publicationGroup" : 1671982,
       "publicationStage" : "published",
-      "rowsUpdatedAt" : 1415925831,
+      "rowsUpdatedAt" : 1420591655,
       "rowsUpdatedBy" : "u8tq-3dir",
-      "tableId" : 1881268,
+      "tableId" : 2072575,
       "totalTimesRated" : 0,
-      "viewCount" : 89,
-      "viewLastModified" : 1415925993,
+      "viewCount" : 115,
+      "viewLastModified" : 1420591670,
       "viewType" : "tabular",
       "columns" : [ {
         "id" : -1,
@@ -98,7 +98,7 @@
         "format" : {
         }
       }, {
-        "id" : 175484259,
+        "id" : 183345515,
         "name" : "Date Value",
         "dataTypeName" : "calendar_date",
         "fieldName" : "date_value",
@@ -176,7 +176,7 @@
         "format" : {
         }
       }, {
-        "id" : 175484260,
+        "id" : 183345516,
         "name" : "Month-Year",
         "dataTypeName" : "text",
         "fieldName" : "month_year",
@@ -254,7 +254,7 @@
         "format" : {
         }
       }, {
-        "id" : 175484261,
+        "id" : 183345517,
         "name" : "Quarter-FY",
         "dataTypeName" : "text",
         "fieldName" : "quarter_fy",
@@ -317,7 +317,7 @@
         "format" : {
         }
       }, {
-        "id" : 175484262,
+        "id" : 183345518,
         "name" : "Annual-FY",
         "dataTypeName" : "text",
         "fieldName" : "annual_fy",
@@ -353,7 +353,7 @@
         "format" : {
         }
       }, {
-        "id" : 175484263,
+        "id" : 183345519,
         "name" : "Average number of days for payments to be processed and forwarded (Quarterly)",
         "dataTypeName" : "number",
         "fieldName" : "average_number_of_days_for_payments_to_be_processed_and_forwarded_quarterly",
@@ -391,7 +391,7 @@
         "format" : {
         }
       }, {
-        "id" : 175484264,
+        "id" : 183345520,
         "name" : "TARGET: Average number of days for payments to be processed and forwarded (Quarterly)",
         "dataTypeName" : "number",
         "fieldName" : "target_average_number_of_days_for_payments_to_be_processed_and_forwarded_quarterly",
@@ -414,7 +414,7 @@
         "format" : {
         }
       }, {
-        "id" : 175484265,
+        "id" : 183345521,
         "name" : "Average number of days for final retention requests to be processed (Quarterly)",
         "dataTypeName" : "number",
         "fieldName" : "average_number_of_days_for_final_retention_requests_to_be_processed_quarterly",
@@ -458,7 +458,7 @@
         "format" : {
         }
       }, {
-        "id" : 175484266,
+        "id" : 183345522,
         "name" : "TARGET: Average number of days for final retention requests to be processed (Quarterly)",
         "dataTypeName" : "number",
         "fieldName" : "target_average_number_of_days_for_final_retention_requests_to_be_processed_quarterly",
@@ -481,7 +481,7 @@
         "format" : {
         }
       }, {
-        "id" : 175484267,
+        "id" : 183345523,
         "name" : "Average number of days for bond release authorizations to be processed, after final field acceptance (Quarterly)",
         "dataTypeName" : "number",
         "fieldName" : "average_number_of_days_for_bond_release_authorizations_to_be_processed_after_final_field_acceptance_quarterly",
@@ -525,7 +525,7 @@
         "format" : {
         }
       }, {
-        "id" : 175484268,
+        "id" : 183345524,
         "name" : "TARGET: Average number of days for bond release authorizations to be processed, after final field acceptance (Quarterly)",
         "dataTypeName" : "number",
         "fieldName" : "target_average_number_of_days_for_bond_release_authorizations_to_be_processed_after_final_field_acceptance_quarterly",
@@ -548,7 +548,7 @@
         "format" : {
         }
       }, {
-        "id" : 175484269,
+        "id" : 183345525,
         "name" : "Number of private development inspections",
         "dataTypeName" : "number",
         "fieldName" : "number_of_private_development_inspections",
@@ -577,7 +577,7 @@
         "format" : {
         }
       }, {
-        "id" : 175484270,
+        "id" : 183345526,
         "name" : "PROJECTED: Number of private development inspections",
         "dataTypeName" : "number",
         "fieldName" : "projected_number_of_private_development_inspections",
@@ -603,7 +603,7 @@
         "format" : {
         }
       }, {
-        "id" : 175484271,
+        "id" : 183345527,
         "name" : "Miles of streets patrolled via Peak Hours Grid (Monthly)",
         "dataTypeName" : "number",
         "fieldName" : "miles_of_streets_patrolled_via_peak_hours_grid_monthly",
@@ -612,11 +612,11 @@
         "tableColumnId" : 21196821,
         "width" : 700,
         "cachedContents" : {
-          "non_null" : 16,
+          "non_null" : 18,
           "smallest" : "0",
-          "sum" : "44177",
-          "null" : 23,
-          "average" : "2761.0625",
+          "sum" : "48762",
+          "null" : 21,
+          "average" : "2709",
           "largest" : "4752",
           "top" : [ {
             "count" : 20,
@@ -663,12 +663,18 @@
           }, {
             "count" : 6,
             "item" : "3145"
+          }, {
+            "count" : 5,
+            "item" : "2166"
+          }, {
+            "count" : 4,
+            "item" : "2419"
           } ]
         },
         "format" : {
         }
       }, {
-        "id" : 175484272,
+        "id" : 183345528,
         "name" : "TARGET: Miles of streets patrolled via Peak Hours Grid (Monthly)",
         "dataTypeName" : "number",
         "fieldName" : "target_miles_of_streets_patrolled_via_peak_hours_grid_monthly",
@@ -677,10 +683,10 @@
         "tableColumnId" : 21196822,
         "width" : 700,
         "cachedContents" : {
-          "non_null" : 16,
+          "non_null" : 18,
           "smallest" : "1000",
-          "sum" : "16000",
-          "null" : 23,
+          "sum" : "18000",
+          "null" : 21,
           "average" : "1000",
           "largest" : "1000",
           "top" : [ {
@@ -691,7 +697,7 @@
         "format" : {
         }
       }, {
-        "id" : 175484273,
+        "id" : 183345529,
         "name" : "PLA construction hours - local hire (%) (Quarterly)",
         "dataTypeName" : "percent",
         "fieldName" : "pla_construction_hours_local_hire_quarterly",
@@ -700,11 +706,11 @@
         "tableColumnId" : 21196823,
         "width" : 700,
         "cachedContents" : {
-          "non_null" : 9,
+          "non_null" : 10,
           "smallest" : "36.00",
-          "sum" : "373.00",
-          "null" : 30,
-          "average" : "41.44444444444444",
+          "sum" : "415.00",
+          "null" : 29,
+          "average" : "41.50",
           "largest" : "46.00",
           "top" : [ {
             "count" : 20,
@@ -727,12 +733,15 @@
           }, {
             "count" : 14,
             "item" : "40.00"
+          }, {
+            "count" : 13,
+            "item" : "42"
           } ]
         },
         "format" : {
         }
       }, {
-        "id" : 175484274,
+        "id" : 183345530,
         "name" : "TARGET: PLA construction hours - local hire (%) (Quarterly)",
         "dataTypeName" : "percent",
         "fieldName" : "target_pla_construction_hours_local_hire_quarterly",
@@ -741,21 +750,24 @@
         "tableColumnId" : 21196824,
         "width" : 700,
         "cachedContents" : {
-          "non_null" : 9,
+          "non_null" : 10,
           "smallest" : "30.00",
-          "sum" : "270.00",
-          "null" : 30,
+          "sum" : "300.00",
+          "null" : 29,
           "average" : "30.00",
           "largest" : "30.00",
           "top" : [ {
             "count" : 20,
             "item" : "30.00"
+          }, {
+            "count" : 19,
+            "item" : "30"
           } ]
         },
         "format" : {
         }
       }, {
-        "id" : 175484275,
+        "id" : 183345531,
         "name" : "PLA construction hours - local apprentices (%) (Quarterly)",
         "dataTypeName" : "percent",
         "fieldName" : "pla_construction_hours_local_apprentices_quarterly",
@@ -764,11 +776,11 @@
         "tableColumnId" : 21196825,
         "width" : 700,
         "cachedContents" : {
-          "non_null" : 9,
+          "non_null" : 10,
           "smallest" : "51.00",
-          "sum" : "612.00",
-          "null" : 30,
-          "average" : "68.00",
+          "sum" : "683.00",
+          "null" : 29,
+          "average" : "68.30",
           "largest" : "83.00",
           "top" : [ {
             "count" : 20,
@@ -797,12 +809,15 @@
           }, {
             "count" : 12,
             "item" : "54.00"
+          }, {
+            "count" : 11,
+            "item" : "71"
           } ]
         },
         "format" : {
         }
       }, {
-        "id" : 175484276,
+        "id" : 183345532,
         "name" : "TARGET: PLA construction hours - local apprentices (%) (Quarterly)",
         "dataTypeName" : "percent",
         "fieldName" : "target_pla_construction_hours_local_apprentices_quarterly",
@@ -811,21 +826,24 @@
         "tableColumnId" : 21196826,
         "width" : 700,
         "cachedContents" : {
-          "non_null" : 9,
+          "non_null" : 10,
           "smallest" : "50.00",
-          "sum" : "450.00",
-          "null" : 30,
+          "sum" : "500.00",
+          "null" : 29,
           "average" : "50.00",
           "largest" : "50.00",
           "top" : [ {
             "count" : 20,
             "item" : "50.00"
+          }, {
+            "count" : 19,
+            "item" : "50"
           } ]
         },
         "format" : {
         }
       }, {
-        "id" : 175484277,
+        "id" : 183345533,
         "name" : "PLA construction hours - disadvantaged hire (%) (Quarterly)",
         "dataTypeName" : "percent",
         "fieldName" : "pla_construction_hours_disadvantaged_hire_quarterly",
@@ -834,11 +852,11 @@
         "tableColumnId" : 21196827,
         "width" : 700,
         "cachedContents" : {
-          "non_null" : 9,
+          "non_null" : 10,
           "smallest" : "14.00",
-          "sum" : "177.00",
-          "null" : 30,
-          "average" : "19.66666666666667",
+          "sum" : "198.00",
+          "null" : 29,
+          "average" : "19.80",
           "largest" : "26.00",
           "top" : [ {
             "count" : 20,
@@ -864,12 +882,15 @@
           }, {
             "count" : 13,
             "item" : "16.00"
+          }, {
+            "count" : 12,
+            "item" : "21"
           } ]
         },
         "format" : {
         }
       }, {
-        "id" : 175484278,
+        "id" : 183345534,
         "name" : "TARGET: PLA construction hours - disadvantaged hire (%) (Quarterly)",
         "dataTypeName" : "percent",
         "fieldName" : "target_pla_construction_hours_disadvantaged_hire_quarterly",
@@ -878,10 +899,10 @@
         "tableColumnId" : 21196828,
         "width" : 700,
         "cachedContents" : {
-          "non_null" : 10,
+          "non_null" : 11,
           "smallest" : "10",
-          "sum" : "100",
-          "null" : 29,
+          "sum" : "110",
+          "null" : 28,
           "average" : "10",
           "largest" : "10",
           "top" : [ {
@@ -892,7 +913,7 @@
         "format" : {
         }
       }, {
-        "id" : 175484279,
+        "id" : 183345535,
         "name" : "Backlog of unprocessed (D/M/WBE) Application Files (Quarterly)",
         "dataTypeName" : "number",
         "fieldName" : "backlog_of_unprocessed_d_m_wbe_application_files_quarterly",
@@ -901,11 +922,11 @@
         "tableColumnId" : 21196829,
         "width" : 700,
         "cachedContents" : {
-          "non_null" : 9,
-          "smallest" : "156",
-          "sum" : "3238",
-          "null" : 30,
-          "average" : "359.7777777777778",
+          "non_null" : 10,
+          "smallest" : "76",
+          "sum" : "3314",
+          "null" : 29,
+          "average" : "331.4",
           "largest" : "451",
           "top" : [ {
             "count" : 20,
@@ -934,12 +955,15 @@
           }, {
             "count" : 12,
             "item" : "156"
+          }, {
+            "count" : 11,
+            "item" : "76"
           } ]
         },
         "format" : {
         }
       }, {
-        "id" : 175484280,
+        "id" : 183345536,
         "name" : "TARGET: Backlog of unprocessed (D/M/WBE) Application Files (Quarterly)",
         "dataTypeName" : "number",
         "fieldName" : "target_backlog_of_unprocessed_d_m_wbe_application_files_quarterly",
@@ -948,10 +972,10 @@
         "tableColumnId" : 21196830,
         "width" : 700,
         "cachedContents" : {
-          "non_null" : 8,
+          "non_null" : 9,
           "smallest" : "0",
           "sum" : "0",
-          "null" : 31,
+          "null" : 30,
           "average" : "0",
           "largest" : "0",
           "top" : [ {
@@ -962,7 +986,7 @@
         "format" : {
         }
       }, {
-        "id" : 175484281,
+        "id" : 183345537,
         "name" : "Prevailing Wage restitution collected for employees (Quarterly)",
         "dataTypeName" : "money",
         "fieldName" : "prevailing_wage_restitution_collected_for_employees_quarterly",
@@ -1006,7 +1030,7 @@
         "format" : {
         }
       }, {
-        "id" : 175484282,
+        "id" : 183345538,
         "name" : "PROJECTED: Prevailing Wage restitution collected for employees (Annual FY)",
         "dataTypeName" : "money",
         "fieldName" : "projected_prevailing_wage_restitution_collected_for_employees_annual_fy",
@@ -1022,7 +1046,7 @@
         "format" : {
         }
       }, {
-        "id" : 175484283,
+        "id" : 183345539,
         "name" : "Prevailing wage restitution collected (Annual FY)",
         "dataTypeName" : "money",
         "fieldName" : "prevailing_wage_restitution_collected_annual_fy",
@@ -1057,7 +1081,7 @@
         "format" : {
         }
       }, {
-        "id" : 175484284,
+        "id" : 183345540,
         "name" : "PROJECTED: Prevailing wage restitution collected (Annually FY)",
         "dataTypeName" : "money",
         "fieldName" : "projected_prevailing_wage_restitution_collected_annually_fy",
@@ -1083,7 +1107,7 @@
         "format" : {
         }
       }, {
-        "id" : 175484285,
+        "id" : 183345541,
         "name" : "Average # of days to Process Business Inclusion Reviews (Quarterly)",
         "dataTypeName" : "number",
         "fieldName" : "average_of_days_to_process_business_inclusion_reviews_quarterly",
@@ -1092,11 +1116,11 @@
         "tableColumnId" : 21196835,
         "width" : 700,
         "cachedContents" : {
-          "non_null" : 7,
+          "non_null" : 8,
           "smallest" : "16.60",
-          "sum" : "238.77",
-          "null" : 32,
-          "average" : "34.11",
+          "sum" : "257.30",
+          "null" : 31,
+          "average" : "32.1625",
           "largest" : "66.10",
           "top" : [ {
             "count" : 20,
@@ -1118,13 +1142,16 @@
             "item" : "19.40"
           }, {
             "count" : 14,
-            "item" : "18.77"
+            "item" : "17.7"
+          }, {
+            "count" : 13,
+            "item" : "19.6"
           } ]
         },
         "format" : {
         }
       }, {
-        "id" : 175484286,
+        "id" : 183345542,
         "name" : "TARGET: Average # of days to Process Business Inclusion Reviews (Quarterly)",
         "dataTypeName" : "number",
         "fieldName" : "target_average_of_days_to_process_business_inclusion_reviews_quarterly",
@@ -1133,15 +1160,18 @@
         "tableColumnId" : 21196836,
         "width" : 700,
         "cachedContents" : {
-          "non_null" : 7,
+          "non_null" : 8,
           "smallest" : "40.00",
-          "sum" : "280.00",
-          "null" : 32,
+          "sum" : "320.00",
+          "null" : 31,
           "average" : "40.00",
           "largest" : "40.00",
           "top" : [ {
             "count" : 20,
             "item" : "40.00"
+          }, {
+            "count" : 19,
+            "item" : "40"
           } ]
         },
         "format" : {
@@ -1217,10 +1247,10 @@
 , [ 27, "AEB489BA-79CF-4551-8278-DFBB9D0D05D5", 27, 1415925796, "882515", 1415925796, "882515", "{\n}", "2014-06-30T00:00:00", "Jun-14", "Q4 FY14", "FY 2014", "1.60", "3.00", "2.40", "30.00", "2.70", "10.00", "8925", "5213", "2805", "1000", "40.00", "30.00", "51.00", "50.00", "18.00", "10", "200", "0", "542532.00", null, "1749678.00", "920000.00", "19.40", "40.00" ]
 , [ 28, "78FE6A71-E79E-4796-A1C5-70DA6E3EF46B", 28, 1415925796, "882515", 1415925796, "882515", "{\n}", "2014-07-31T00:00:00", "Jul-14", null, null, null, null, null, null, null, null, null, null, "3426", "1000", null, null, null, null, null, "10", null, null, null, null, null, null, null, null ]
 , [ 29, "BC6F7C58-9FAE-4660-A89E-ABBE216ADAF2", 29, 1415925796, "882515", 1415925796, "882515", "{\n}", "2014-08-31T00:00:00", "Aug-14", null, null, null, null, null, null, null, null, null, null, "2814", "1000", null, null, null, null, null, "10", null, null, null, null, null, null, null, null ]
-, [ 30, "117BE2AF-5C20-4C42-B2FB-D28EAE96837D", 30, 1415925796, "882515", 1415925796, "882515", "{\n}", "2014-09-30T00:00:00", "Sep-14", "Q1 FY15", null, "1.40", "3.00", "3.10", "30.00", "3.00", "10.00", null, null, "3389", "1000", "36.00", "30.00", "54.00", "50.00", "16.00", "10", "156", "0", "194355.69", null, null, null, "18.77", "40.00" ]
+, [ 30, "117BE2AF-5C20-4C42-B2FB-D28EAE96837D", 30, 1415925796, "882515", 1420591636, "882515", null, "2014-09-30T00:00:00", "Sep-14", "Q1 FY15", null, "1.40", "3.00", "3.10", "30.00", "3.00", "10.00", null, null, "3389", "1000", "36.00", "30.00", "54.00", "50.00", "16.00", "10", "156", "0", "194355.69", null, null, null, "17.7", "40.00" ]
 , [ 31, "4119ED50-42DA-4701-A564-FAB9637F279B", 31, 1415925796, "882515", 1415925796, "882515", "{\n}", "2014-10-31T00:00:00", "Oct-14", null, null, null, null, null, null, null, null, null, null, "3145", "1000", null, null, null, null, null, "10", null, null, null, null, null, null, null, null ]
-, [ 32, "A4F17898-0A57-4A3E-A0BC-2EB6CDD7BF03", 32, 1415925796, "882515", 1415925796, "882515", "{\n}", "2014-11-30T00:00:00", "Nov-14", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
-, [ 33, "8E91792D-D145-4ECD-8D1E-28C7CE279A7E", 33, 1415925796, "882515", 1415925796, "882515", "{\n}", "2014-12-31T00:00:00", "Dec-14", "Q2 FY15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 32, "A4F17898-0A57-4A3E-A0BC-2EB6CDD7BF03", 32, 1415925796, "882515", 1420591511, "882515", null, "2014-11-30T00:00:00", "Nov-14", null, null, null, null, null, null, null, null, null, null, "2166", "1000", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 33, "8E91792D-D145-4ECD-8D1E-28C7CE279A7E", 33, 1415925796, "882515", 1420591651, "882515", null, "2014-12-31T00:00:00", "Dec-14", "Q2 FY15", null, null, null, null, null, null, null, null, null, "2419", "1000", "42", "30", "71", "50", "21", "10", "76", "0", null, null, null, null, "19.6", "40" ]
 , [ 34, "B3D9E925-4F42-4291-96DB-906C945194EA", 34, 1415925796, "882515", 1415925796, "882515", "{\n}", "2015-01-31T00:00:00", "Jan-15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
 , [ 35, "7FBA969F-0E9B-49FA-B010-680A1640A537", 35, 1415925796, "882515", 1415925796, "882515", "{\n}", "2015-02-28T00:00:00", "Feb-15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
 , [ 36, "F26108B0-ADE5-4F15-BA26-BD3C6F2CD62B", 36, 1415925796, "882515", 1415925796, "882515", "{\n}", "2015-03-31T00:00:00", "Mar-15", "Q3 FY15", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]

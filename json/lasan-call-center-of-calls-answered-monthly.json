@@ -1,0 +1,400 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "fnwi-ztfe",
+      "name" : "LASAN:  Call Center % of Calls Answered Monthly",
+      "averageRating" : 0,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1423525873,
+      "description" : "LA Sanitation Call Center Metric measures % of calls answered prior to disconnect or dropped calls.",
+      "displayType" : "table",
+      "downloadCount" : 5,
+      "indexUpdatedAt" : 1425944389,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 10164140,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1423526082,
+      "publicationGroup" : 2216252,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1425932857,
+      "rowsUpdatedBy" : "mc98-5kjj",
+      "state" : "normal",
+      "tableId" : 2216252,
+      "totalTimesRated" : 0,
+      "viewCount" : 32,
+      "viewLastModified" : 1425932854,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 188559256,
+        "name" : "Month",
+        "dataTypeName" : "text",
+        "fieldName" : "month",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 24522963,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "Aug",
+          "null" : 0,
+          "largest" : "Sep",
+          "top" : [ {
+            "count" : 20,
+            "item" : "July"
+          }, {
+            "count" : 19,
+            "item" : "Aug"
+          }, {
+            "count" : 18,
+            "item" : "Sep"
+          }, {
+            "count" : 17,
+            "item" : "Oct"
+          }, {
+            "count" : 16,
+            "item" : "Nov"
+          }, {
+            "count" : 15,
+            "item" : "Dec"
+          }, {
+            "count" : 14,
+            "item" : "Jan"
+          }, {
+            "count" : 13,
+            "item" : "Feb"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 188559257,
+        "name" : "FiscalYr",
+        "dataTypeName" : "number",
+        "fieldName" : "fiscalyr",
+        "position" : 2,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24522964,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "2015",
+          "sum" : "16120",
+          "null" : 0,
+          "average" : "2015",
+          "largest" : "2015",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2015"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "true",
+          "align" : "right"
+        }
+      }, {
+        "id" : 188559258,
+        "name" : "MonthNo",
+        "dataTypeName" : "number",
+        "fieldName" : "monthno",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24522965,
+        "width" : 184,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "1",
+          "sum" : "36",
+          "null" : 0,
+          "average" : "4.5",
+          "largest" : "8",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          }, {
+            "count" : 19,
+            "item" : "2"
+          }, {
+            "count" : 18,
+            "item" : "3"
+          }, {
+            "count" : 17,
+            "item" : "4"
+          }, {
+            "count" : 16,
+            "item" : "5"
+          }, {
+            "count" : 15,
+            "item" : "6"
+          }, {
+            "count" : 14,
+            "item" : "7"
+          }, {
+            "count" : 13,
+            "item" : "8"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 188559259,
+        "name" : "TotalCalls",
+        "dataTypeName" : "number",
+        "fieldName" : "totalcalls",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24522966,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "47437",
+          "sum" : "450925",
+          "null" : 0,
+          "average" : "56365.625",
+          "largest" : "61625",
+          "top" : [ {
+            "count" : 20,
+            "item" : "61625"
+          }, {
+            "count" : 19,
+            "item" : "59681"
+          }, {
+            "count" : 18,
+            "item" : "59811"
+          }, {
+            "count" : 17,
+            "item" : "59316"
+          }, {
+            "count" : 16,
+            "item" : "47437"
+          }, {
+            "count" : 15,
+            "item" : "55090"
+          }, {
+            "count" : 14,
+            "item" : "59440"
+          }, {
+            "count" : 13,
+            "item" : "48525"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 188559260,
+        "name" : "CallsAnswered",
+        "dataTypeName" : "number",
+        "fieldName" : "callsanswered",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24522967,
+        "width" : 256,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "41225",
+          "sum" : "391699",
+          "null" : 0,
+          "average" : "48962.375",
+          "largest" : "55062",
+          "top" : [ {
+            "count" : 20,
+            "item" : "55062"
+          }, {
+            "count" : 19,
+            "item" : "50829"
+          }, {
+            "count" : 18,
+            "item" : "51520"
+          }, {
+            "count" : 17,
+            "item" : "49800"
+          }, {
+            "count" : 16,
+            "item" : "41367"
+          }, {
+            "count" : 15,
+            "item" : "48291"
+          }, {
+            "count" : 14,
+            "item" : "53605"
+          }, {
+            "count" : 13,
+            "item" : "41225"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 188559261,
+        "name" : "%Answered",
+        "dataTypeName" : "percent",
+        "fieldName" : "answered",
+        "position" : 6,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 24522968,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "84",
+          "sum" : "694",
+          "null" : 0,
+          "average" : "86.75",
+          "largest" : "90",
+          "top" : [ {
+            "count" : 20,
+            "item" : "89"
+          }, {
+            "count" : 19,
+            "item" : "85"
+          }, {
+            "count" : 18,
+            "item" : "86"
+          }, {
+            "count" : 17,
+            "item" : "84"
+          }, {
+            "count" : 16,
+            "item" : "87"
+          }, {
+            "count" : 15,
+            "item" : "88"
+          }, {
+            "count" : 14,
+            "item" : "90"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Committed Update Frequency" : {
+            "Refresh rate" : "Monthly"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "jwvk-b9mh",
+        "displayName" : "Public Works: Sanitation OpenData",
+        "profileImageUrlLarge" : "/images/profile/2352/4407/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/2352/4407/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/2352/4407/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Public Works: Sanitation OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "jwvk-b9mh",
+        "displayName" : "Public Works: Sanitation OpenData",
+        "profileImageUrlLarge" : "/images/profile/2352/4407/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/2352/4407/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/2352/4407/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Public Works: Sanitation OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "lasan", "la sanitation", "bureau of sanitation", "call center", "calls answered" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 9, "04478136-8C74-4511-B97B-5035962766E0", 9, 1425932854, "875560", 1425932854, "875560", null, "July", "2015", "1", "61625", "55062", "89" ]
+, [ 10, "03AE350B-A96F-4617-8167-F0EF7701FC7C", 10, 1425932854, "875560", 1425932854, "875560", null, "Aug", "2015", "2", "59681", "50829", "85" ]
+, [ 11, "D9DA2C20-CA2A-403C-A529-D855056858A7", 11, 1425932854, "875560", 1425932854, "875560", null, "Sep", "2015", "3", "59811", "51520", "86" ]
+, [ 12, "BE2FF65C-51FE-4C02-B6FB-B5C05CF0D2DC", 12, 1425932854, "875560", 1425932854, "875560", null, "Oct", "2015", "4", "59316", "49800", "84" ]
+, [ 13, "5C5A04E1-317A-4134-B695-2F6845FA51DB", 13, 1425932854, "875560", 1425932854, "875560", null, "Nov", "2015", "5", "47437", "41367", "87" ]
+, [ 14, "54F19D27-D398-4FBF-B261-AAC7AEB788AE", 14, 1425932854, "875560", 1425932854, "875560", null, "Dec", "2015", "6", "55090", "48291", "88" ]
+, [ 15, "3681FCB0-A9CB-4679-BB86-AA89556C3C06", 15, 1425932854, "875560", 1425932854, "875560", null, "Jan", "2015", "7", "59440", "53605", "90" ]
+, [ 16, "44BD5545-4451-4E08-ABC7-010497FB5E2D", 16, 1425932854, "875560", 1425932854, "875560", null, "Feb", "2015", "8", "48525", "41225", "85" ]
+ ]
+}

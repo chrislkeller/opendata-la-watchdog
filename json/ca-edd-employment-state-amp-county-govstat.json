@@ -8,7 +8,7 @@
       "createdAt" : 1399415593,
       "description" : "Seasonally adjusted, monthly employment data for the state and for LA County",
       "displayType" : "table",
-      "downloadCount" : 6,
+      "downloadCount" : 7,
       "indexUpdatedAt" : 1414613177,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -22,7 +22,7 @@
       "rowsUpdatedBy" : "g9i9-z6y7",
       "tableId" : 1581440,
       "totalTimesRated" : 0,
-      "viewCount" : 98,
+      "viewCount" : 118,
       "viewLastModified" : 1403288910,
       "viewType" : "tabular",
       "columns" : [ {

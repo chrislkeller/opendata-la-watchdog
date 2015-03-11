@@ -8,7 +8,7 @@
       "createdAt" : 1401461117,
       "description" : "Candidate Names, Races and Measures",
       "displayType" : "table",
-      "downloadCount" : 1,
+      "downloadCount" : 7,
       "indexUpdatedAt" : 1414614504,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -22,7 +22,7 @@
       "rowsUpdatedBy" : "ika6-27vg",
       "tableId" : 1600077,
       "totalTimesRated" : 0,
-      "viewCount" : 34,
+      "viewCount" : 42,
       "viewLastModified" : 1401488712,
       "viewType" : "tabular",
       "columns" : [ {
@@ -99,7 +99,7 @@
         }
       }, {
         "id" : 150590842,
-        "name" : "﻿Race",
+        "name" : "Race",
         "dataTypeName" : "text",
         "fieldName" : "race",
         "position" : 2,

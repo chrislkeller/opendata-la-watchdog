@@ -8,7 +8,7 @@
       "createdAt" : 1401464041,
       "description" : "Identifies EWDD YouthSource Centers along with related agency, location, and contact information.",
       "displayType" : "table",
-      "downloadCount" : 3,
+      "downloadCount" : 19,
       "indexUpdatedAt" : 1414612789,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -21,7 +21,7 @@
       "rowsUpdatedBy" : "utpt-bj92",
       "tableId" : 1600176,
       "totalTimesRated" : 0,
-      "viewCount" : 28,
+      "viewCount" : 38,
       "viewLastModified" : 1401464179,
       "viewType" : "tabular",
       "columns" : [ {

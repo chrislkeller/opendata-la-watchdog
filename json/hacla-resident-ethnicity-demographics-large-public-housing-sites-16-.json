@@ -1,0 +1,638 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "f88n-w5b8",
+      "name" : "HACLA Resident Ethnicity Demographics - Large Public Housing Sites (16)",
+      "averageRating" : 0,
+      "category" : "A Prosperous City",
+      "createdAt" : 1421354155,
+      "description" : "Ethnicity breakdown for large public housing sites owned by the Housing Authority of the City of Los Angeles. Updated 2015.",
+      "displayType" : "table",
+      "downloadCount" : 3,
+      "iconUrl" : "fileId:Z2U8VT2zO27d3szZJBj15J026Fw1mb3vlCXxm29w_Po",
+      "indexUpdatedAt" : 1422316961,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 10029880,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1422315846,
+      "publicationGroup" : 2109881,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1422315631,
+      "rowsUpdatedBy" : "c4gd-54mz",
+      "tableId" : 2155515,
+      "totalTimesRated" : 0,
+      "viewCount" : 36,
+      "viewLastModified" : 1422316896,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 186394395,
+        "name" : "Categories",
+        "dataTypeName" : "text",
+        "fieldName" : "categories",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 24007526,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 17,
+          "smallest" : "Avalon Gardens",
+          "null" : 0,
+          "largest" : "William Mead Homes",
+          "top" : [ {
+            "count" : 20,
+            "item" : "William Mead Homes"
+          }, {
+            "count" : 19,
+            "item" : "Rose Hill Courts"
+          }, {
+            "count" : 18,
+            "item" : "Ramona Gardens"
+          }, {
+            "count" : 17,
+            "item" : "Pueblo Del Sol"
+          }, {
+            "count" : 16,
+            "item" : "New Pico & Las Casitas"
+          }, {
+            "count" : 15,
+            "item" : "Estrada Courts"
+          }, {
+            "count" : 14,
+            "item" : "Dana Harbor View & Wilmington"
+          }, {
+            "count" : 13,
+            "item" : "Rancho San Pedro"
+          }, {
+            "count" : 12,
+            "item" : "Pueblo Del Rio"
+          }, {
+            "count" : 11,
+            "item" : "Mar Vista Gardens"
+          }, {
+            "count" : 10,
+            "item" : "San Fernando Gardens"
+          }, {
+            "count" : 9,
+            "item" : "Avalon Gardens"
+          }, {
+            "count" : 8,
+            "item" : "Jordan Downs"
+          }, {
+            "count" : 7,
+            "item" : "Gonzaque Village"
+          }, {
+            "count" : 6,
+            "item" : "Nickerson Gardens"
+          }, {
+            "count" : 5,
+            "item" : "Imperial Courts"
+          }, {
+            "count" : 4,
+            "item" : "TOTAL COUNT"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 186394396,
+        "name" : "Hispanic        ",
+        "dataTypeName" : "number",
+        "fieldName" : "hispanic",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24007528,
+        "width" : 292,
+        "cachedContents" : {
+          "non_null" : 17,
+          "smallest" : "210",
+          "sum" : "34154",
+          "null" : 0,
+          "average" : "2009.058823529412",
+          "largest" : "17077",
+          "top" : [ {
+            "count" : 20,
+            "item" : "940"
+          }, {
+            "count" : 19,
+            "item" : "210"
+          }, {
+            "count" : 18,
+            "item" : "1677"
+          }, {
+            "count" : 17,
+            "item" : "768"
+          }, {
+            "count" : 16,
+            "item" : "906"
+          }, {
+            "count" : 15,
+            "item" : "1126"
+          }, {
+            "count" : 14,
+            "item" : "308"
+          }, {
+            "count" : 13,
+            "item" : "1045"
+          }, {
+            "count" : 12,
+            "item" : "1527"
+          }, {
+            "count" : 11,
+            "item" : "1604"
+          }, {
+            "count" : 10,
+            "item" : "1594"
+          }, {
+            "count" : 9,
+            "item" : "1897"
+          }, {
+            "count" : 8,
+            "item" : "284"
+          }, {
+            "count" : 7,
+            "item" : "1972"
+          }, {
+            "count" : 6,
+            "item" : "911"
+          }, {
+            "count" : 5,
+            "item" : "17077"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 186394397,
+        "name" : "Black",
+        "dataTypeName" : "number",
+        "fieldName" : "black",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24007529,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 17,
+          "smallest" : "2",
+          "sum" : "7814",
+          "null" : 0,
+          "average" : "459.6470588235294",
+          "largest" : "3907",
+          "top" : [ {
+            "count" : 20,
+            "item" : "94"
+          }, {
+            "count" : 19,
+            "item" : "12"
+          }, {
+            "count" : 18,
+            "item" : "78"
+          }, {
+            "count" : 17,
+            "item" : "2"
+          }, {
+            "count" : 16,
+            "item" : "31"
+          }, {
+            "count" : 15,
+            "item" : "39"
+          }, {
+            "count" : 14,
+            "item" : "60"
+          }, {
+            "count" : 13,
+            "item" : "280"
+          }, {
+            "count" : 12,
+            "item" : "329"
+          }, {
+            "count" : 11,
+            "item" : "198"
+          }, {
+            "count" : 10,
+            "item" : "79"
+          }, {
+            "count" : 9,
+            "item" : "131"
+          }, {
+            "count" : 8,
+            "item" : "697"
+          }, {
+            "count" : 7,
+            "item" : "151"
+          }, {
+            "count" : 6,
+            "item" : "1198"
+          }, {
+            "count" : 5,
+            "item" : "528"
+          }, {
+            "count" : 4,
+            "item" : "3907"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 186394398,
+        "name" : "Asian",
+        "dataTypeName" : "number",
+        "fieldName" : "asian",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24007530,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 17,
+          "smallest" : "0",
+          "sum" : "932",
+          "null" : 0,
+          "average" : "54.82352941176471",
+          "largest" : "466",
+          "top" : [ {
+            "count" : 20,
+            "item" : "94"
+          }, {
+            "count" : 19,
+            "item" : "16"
+          }, {
+            "count" : 18,
+            "item" : "20"
+          }, {
+            "count" : 17,
+            "item" : "84"
+          }, {
+            "count" : 16,
+            "item" : "4"
+          }, {
+            "count" : 15,
+            "item" : "19"
+          }, {
+            "count" : 14,
+            "item" : "15"
+          }, {
+            "count" : 13,
+            "item" : "122"
+          }, {
+            "count" : 12,
+            "item" : "69"
+          }, {
+            "count" : 11,
+            "item" : "6"
+          }, {
+            "count" : 10,
+            "item" : "2"
+          }, {
+            "count" : 9,
+            "item" : "5"
+          }, {
+            "count" : 8,
+            "item" : "0"
+          }, {
+            "count" : 7,
+            "item" : "1"
+          }, {
+            "count" : 6,
+            "item" : "466"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 186394399,
+        "name" : "Native American",
+        "dataTypeName" : "number",
+        "fieldName" : "native_american",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24007531,
+        "width" : 280,
+        "cachedContents" : {
+          "non_null" : 17,
+          "smallest" : "0",
+          "sum" : "14",
+          "null" : 0,
+          "average" : "0.8235294117647059",
+          "largest" : "7",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0"
+          }, {
+            "count" : 19,
+            "item" : "3"
+          }, {
+            "count" : 18,
+            "item" : "1"
+          }, {
+            "count" : 17,
+            "item" : "7"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 186394400,
+        "name" : "Caucasian",
+        "dataTypeName" : "number",
+        "fieldName" : "caucasian",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24007532,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 17,
+          "smallest" : "0",
+          "sum" : "542",
+          "null" : 0,
+          "average" : "31.88235294117647",
+          "largest" : "271",
+          "top" : [ {
+            "count" : 20,
+            "item" : "24"
+          }, {
+            "count" : 19,
+            "item" : "0"
+          }, {
+            "count" : 18,
+            "item" : "16"
+          }, {
+            "count" : 17,
+            "item" : "2"
+          }, {
+            "count" : 16,
+            "item" : "8"
+          }, {
+            "count" : 15,
+            "item" : "10"
+          }, {
+            "count" : 14,
+            "item" : "12"
+          }, {
+            "count" : 13,
+            "item" : "26"
+          }, {
+            "count" : 12,
+            "item" : "50"
+          }, {
+            "count" : 11,
+            "item" : "13"
+          }, {
+            "count" : 10,
+            "item" : "20"
+          }, {
+            "count" : 9,
+            "item" : "6"
+          }, {
+            "count" : 8,
+            "item" : "42"
+          }, {
+            "count" : 7,
+            "item" : "14"
+          }, {
+            "count" : 6,
+            "item" : "271"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 186394401,
+        "name" : "Other",
+        "dataTypeName" : "number",
+        "fieldName" : "other",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24007533,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 17,
+          "smallest" : "0",
+          "sum" : "10",
+          "null" : 0,
+          "average" : "0.5882352941176471",
+          "largest" : "5",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0"
+          }, {
+            "count" : 19,
+            "item" : "4"
+          }, {
+            "count" : 18,
+            "item" : "1"
+          }, {
+            "count" : 17,
+            "item" : "5"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 186394402,
+        "name" : "Total",
+        "dataTypeName" : "number",
+        "fieldName" : "total",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24007534,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 17,
+          "smallest" : "242",
+          "sum" : "43466",
+          "null" : 0,
+          "average" : "2556.823529411765",
+          "largest" : "21733",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1152"
+          }, {
+            "count" : 19,
+            "item" : "242"
+          }, {
+            "count" : 18,
+            "item" : "1791"
+          }, {
+            "count" : 17,
+            "item" : "856"
+          }, {
+            "count" : 16,
+            "item" : "952"
+          }, {
+            "count" : 15,
+            "item" : "1195"
+          }, {
+            "count" : 14,
+            "item" : "384"
+          }, {
+            "count" : 13,
+            "item" : "1367"
+          }, {
+            "count" : 12,
+            "item" : "2005"
+          }, {
+            "count" : 11,
+            "item" : "1922"
+          }, {
+            "count" : 10,
+            "item" : "1692"
+          }, {
+            "count" : 9,
+            "item" : "443"
+          }, {
+            "count" : 8,
+            "item" : "2620"
+          }, {
+            "count" : 7,
+            "item" : "441"
+          }, {
+            "count" : 6,
+            "item" : "3217"
+          }, {
+            "count" : 5,
+            "item" : "1454"
+          }, {
+            "count" : 4,
+            "item" : "21733"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Committed Update Frequency" : {
+            "Refresh rate" : "Annual"
+          },
+          "Data Owner" : {
+            "Housing Authority" : "YES"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "c4gd-54mz",
+        "displayName" : "HACLA",
+        "roleName" : "editor",
+        "screenName" : "HACLA",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "c4gd-54mz",
+        "displayName" : "HACLA",
+        "roleName" : "editor",
+        "screenName" : "HACLA",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "housing", "hacla", "housing authority", "public housing" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "E290F025-CBC2-443D-837A-906CFB48C402", 1, 1421354166, "904409", 1421354166, "904409", "{\n}", "William Mead Homes", "940", "94", "94", "0", "24", "0", "1152" ]
+, [ 2, "8707818F-E430-4E7D-B056-F8F1BEC4AAE7", 2, 1421354166, "904409", 1421354166, "904409", "{\n}", "Rose Hill Courts", "210", "12", "16", "0", "0", "4", "242" ]
+, [ 3, "E0657A97-1063-47B2-AF1A-268095837A7E", 3, 1421354166, "904409", 1421354166, "904409", "{\n}", "Ramona Gardens", "1677", "78", "20", "0", "16", "0", "1791" ]
+, [ 4, "54F280F6-C126-4C47-9B1B-379744C15FCC", 4, 1421354166, "904409", 1421354166, "904409", "{\n}", "Pueblo Del Sol", "768", "2", "84", "0", "2", "0", "856" ]
+, [ 5, "123AC398-BBEF-4D23-82FD-4DF9D8DA895C", 5, 1421354166, "904409", 1421354166, "904409", "{\n}", "New Pico & Las Casitas", "906", "31", "4", "3", "8", "0", "952" ]
+, [ 6, "EB710D99-8DEB-4038-B3FB-C52045782290", 6, 1421354166, "904409", 1421354166, "904409", "{\n}", "Estrada Courts", "1126", "39", "19", "0", "10", "1", "1195" ]
+, [ 7, "1A5FACA2-931B-4871-A965-F476C9C2B601", 7, 1421354166, "904409", 1421354166, "904409", "{\n}", "Dana Harbor View & Wilmington", "308", "60", "4", "0", "12", "0", "384" ]
+, [ 8, "934281B2-5B0B-4969-8D89-4A3C978F42F3", 8, 1421354166, "904409", 1421354166, "904409", "{\n}", "Rancho San Pedro", "1045", "280", "15", "1", "26", "0", "1367" ]
+, [ 9, "98BBEC0A-C5BC-4AEA-ADF2-8BDE0DFFAD8F", 9, 1421354166, "904409", 1421354166, "904409", "{\n}", "Pueblo Del Rio", "1527", "329", "122", "1", "26", "0", "2005" ]
+, [ 10, "D5B6CCE2-AC7A-42F7-9412-9F0662D9C2A7", 10, 1421354166, "904409", 1421354166, "904409", "{\n}", "Mar Vista Gardens", "1604", "198", "69", "1", "50", "0", "1922" ]
+, [ 11, "128D23FB-F748-4B1F-A00A-909BC8ADED14", 11, 1421354166, "904409", 1421354166, "904409", "{\n}", "San Fernando Gardens", "1594", "79", "6", "0", "13", "0", "1692" ]
+, [ 12, "C682CBC9-AEBE-4B0E-9BAB-0646023CE497", 12, 1421354166, "904409", 1421354166, "904409", "{\n}", "Avalon Gardens", "308", "131", "2", "0", "2", "0", "443" ]
+, [ 13, "C8A51C3B-D72E-4C5C-954C-151580E7ED60", 13, 1421354166, "904409", 1421354166, "904409", "{\n}", "Jordan Downs", "1897", "697", "5", "1", "20", "0", "2620" ]
+, [ 14, "595B4C2D-9763-42CA-A2C5-375BFA7B75FA", 14, 1421354166, "904409", 1421354166, "904409", "{\n}", "Gonzaque Village", "284", "151", "0", "0", "6", "0", "441" ]
+, [ 15, "34B25C9A-15A6-407C-8D93-85D66E0B0E94", 15, 1421354166, "904409", 1421354166, "904409", "{\n}", "Nickerson Gardens", "1972", "1198", "5", "0", "42", "0", "3217" ]
+, [ 16, "1238A65D-443C-4344-8A90-46FA90302445", 16, 1421354166, "904409", 1421354166, "904409", "{\n}", "Imperial Courts", "911", "528", "1", "0", "14", "0", "1454" ]
+, [ 17, "CB7D2895-9DCC-4D2B-B14E-C8007E498483", 17, 1421354166, "904409", 1421354166, "904409", "{\n}", "TOTAL COUNT", "17077", "3907", "466", "7", "271", "5", "21733" ]
+ ]
+}

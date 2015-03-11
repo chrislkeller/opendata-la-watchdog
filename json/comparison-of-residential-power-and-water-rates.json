@@ -8,7 +8,7 @@
       "createdAt" : 1400117169,
       "description" : "Comparison of LADWP Residential Power and Water Rates. Bills compare a typical monthly bill (500kWh/month of power and 12 HCF of water). Data is from Summer of 2013.",
       "displayType" : "table",
-      "downloadCount" : 14,
+      "downloadCount" : 31,
       "indexUpdatedAt" : 1414613840,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -22,7 +22,7 @@
       "rowsUpdatedBy" : "7q7s-tyf3",
       "tableId" : 1587616,
       "totalTimesRated" : 0,
-      "viewCount" : 60,
+      "viewCount" : 75,
       "viewLastModified" : 1401229570,
       "viewType" : "tabular",
       "columns" : [ {

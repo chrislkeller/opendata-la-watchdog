@@ -9,7 +9,7 @@
       "createdAt" : 1400115380,
       "description" : "LADWP CO2 Generation in Metric Tons",
       "displayType" : "table",
-      "downloadCount" : 14,
+      "downloadCount" : 28,
       "indexUpdatedAt" : 1414615540,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -22,7 +22,7 @@
       "rowsUpdatedBy" : "7q7s-tyf3",
       "tableId" : 1587630,
       "totalTimesRated" : 0,
-      "viewCount" : 40,
+      "viewCount" : 50,
       "viewLastModified" : 1401235252,
       "viewType" : "tabular",
       "columns" : [ {

@@ -1,0 +1,322 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "vfw2-zehe",
+      "name" : "LASAN:  Number Of Catch Basins Cleaned Activity",
+      "averageRating" : 0,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1410457778,
+      "description" : "Number of catch basins cleaned reported monthly by LA Sanitation.  Fiscal year runs July - June.",
+      "displayType" : "table",
+      "downloadCount" : 8,
+      "indexUpdatedAt" : 1424361485,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8846683,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1410458114,
+      "publicationGroup" : 1715400,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1415398953,
+      "rowsUpdatedBy" : "mc98-5kjj",
+      "state" : "normal",
+      "tableId" : 1715400,
+      "totalTimesRated" : 0,
+      "viewCount" : 105,
+      "viewLastModified" : 1424361200,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 166352481,
+        "name" : "FY",
+        "dataTypeName" : "number",
+        "fieldName" : "fy",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21930754,
+        "width" : 124,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "2014",
+          "sum" : "32228",
+          "null" : 0,
+          "average" : "2014.25",
+          "largest" : "2015",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2014"
+          }, {
+            "count" : 19,
+            "item" : "2015"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "true",
+          "align" : "right"
+        }
+      }, {
+        "id" : 166352482,
+        "name" : "Month",
+        "dataTypeName" : "text",
+        "fieldName" : "month",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21930755,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "APRIL",
+          "null" : 0,
+          "largest" : "SEPTEMBER",
+          "top" : [ {
+            "count" : 20,
+            "item" : "JULY"
+          }, {
+            "count" : 19,
+            "item" : "AUGUST"
+          }, {
+            "count" : 18,
+            "item" : "SEPTEMBER"
+          }, {
+            "count" : 17,
+            "item" : "OCTOBER"
+          }, {
+            "count" : 16,
+            "item" : "NOVEMBER"
+          }, {
+            "count" : 15,
+            "item" : "DECEMBER"
+          }, {
+            "count" : 14,
+            "item" : "JANUARY"
+          }, {
+            "count" : 13,
+            "item" : "FEBRUARY"
+          }, {
+            "count" : 12,
+            "item" : "MARCH"
+          }, {
+            "count" : 11,
+            "item" : "APRIL"
+          }, {
+            "count" : 10,
+            "item" : "MAY"
+          }, {
+            "count" : 9,
+            "item" : "JUNE"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 166352483,
+        "name" : "FYMonth",
+        "dataTypeName" : "number",
+        "fieldName" : "fymonth",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21930756,
+        "width" : 184,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "1",
+          "sum" : "88",
+          "null" : 0,
+          "average" : "5.5",
+          "largest" : "12",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          }, {
+            "count" : 19,
+            "item" : "2"
+          }, {
+            "count" : 18,
+            "item" : "3"
+          }, {
+            "count" : 17,
+            "item" : "4"
+          }, {
+            "count" : 16,
+            "item" : "5"
+          }, {
+            "count" : 15,
+            "item" : "6"
+          }, {
+            "count" : 14,
+            "item" : "7"
+          }, {
+            "count" : 13,
+            "item" : "8"
+          }, {
+            "count" : 12,
+            "item" : "9"
+          }, {
+            "count" : 11,
+            "item" : "10"
+          }, {
+            "count" : 10,
+            "item" : "11"
+          }, {
+            "count" : 9,
+            "item" : "12"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 166352484,
+        "name" : "NUMBER OF CATCH BASIN CLEANED ",
+        "dataTypeName" : "number",
+        "fieldName" : "number_of_catch_basin_cleaned",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21930757,
+        "width" : 460,
+        "cachedContents" : {
+          "non_null" : 0,
+          "sum" : "0",
+          "null" : 16
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Committed Update Frequency" : {
+            "Refresh rate" : "Quarterly"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "jwvk-b9mh",
+        "displayName" : "Public Works: Sanitation OpenData",
+        "profileImageUrlLarge" : "/images/profile/2352/4407/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/2352/4407/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/2352/4407/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Public Works: Sanitation OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "jwvk-b9mh",
+        "displayName" : "Public Works: Sanitation OpenData",
+        "profileImageUrlLarge" : "/images/profile/2352/4407/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/2352/4407/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/2352/4407/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Public Works: Sanitation OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "lasan", "sanitation", "la sanitation", "catch basins", "storm drains", "sewers", "bureau of sanitation" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 107, "C0BA04BF-05B3-4B25-805A-B12406C032A4", 107, 1415398950, "875560", 1415398950, "875560", null, "2014", "JULY", "1", null ]
+, [ 108, "E2FD3011-B673-48DD-9BE1-1B2CABCD9E20", 108, 1415398950, "875560", 1415398950, "875560", null, "2014", "AUGUST", "2", null ]
+, [ 109, "FE426287-9506-42DD-9712-BC89CAED9C9E", 109, 1415398950, "875560", 1415398950, "875560", null, "2014", "SEPTEMBER", "3", null ]
+, [ 110, "DDA8769C-9CE5-4FB3-BBDA-A291A3AEC56C", 110, 1415398950, "875560", 1415398950, "875560", null, "2014", "OCTOBER", "4", null ]
+, [ 111, "4ACE0224-A9C3-4BDF-9A99-2923FA64D6A5", 111, 1415398950, "875560", 1415398950, "875560", null, "2014", "NOVEMBER", "5", null ]
+, [ 112, "CBEACD01-68B0-4D31-A37A-84DE041ED02A", 112, 1415398950, "875560", 1415398950, "875560", null, "2014", "DECEMBER", "6", null ]
+, [ 113, "8619ACD5-ED6E-402C-8B3C-9EE4CAB4641B", 113, 1415398950, "875560", 1415398950, "875560", null, "2014", "JANUARY", "7", null ]
+, [ 114, "E78495BA-99E6-4B74-B81D-FE3394FFE5B1", 114, 1415398950, "875560", 1415398950, "875560", null, "2014", "FEBRUARY", "8", null ]
+, [ 115, "0ED3BB0E-CDAB-4C8B-B0DA-BF1996130DA1", 115, 1415398950, "875560", 1415398950, "875560", null, "2014", "MARCH", "9", null ]
+, [ 116, "165DD51A-CA3A-495A-A752-7597F498181A", 116, 1415398950, "875560", 1415398950, "875560", null, "2014", "APRIL", "10", null ]
+, [ 117, "B267FA6D-BE5E-42D8-ACF6-265541939A3B", 117, 1415398950, "875560", 1415398950, "875560", null, "2014", "MAY", "11", null ]
+, [ 118, "0A144E62-97FE-4A25-BDD8-3AB457E8702C", 118, 1415398950, "875560", 1415398950, "875560", null, "2014", "JUNE", "12", null ]
+, [ 119, "FB66CE4A-507E-4BAF-AC0E-98E0FE276889", 119, 1415398950, "875560", 1415398950, "875560", null, "2015", "JULY", "1", null ]
+, [ 120, "D7E79B9F-0EBD-4D03-82D4-82527365968C", 120, 1415398950, "875560", 1415398950, "875560", null, "2015", "AUGUST", "2", null ]
+, [ 121, "4F0AF061-BC8E-4742-BF6F-BA34C02C7A3B", 121, 1415398950, "875560", 1415398950, "875560", null, "2015", "SEPTEMBER", "3", null ]
+, [ 122, "22A12E4A-DCA3-4829-B1B0-DF5808B5EFCE", 122, 1415398950, "875560", 1415398950, "875560", null, "2015", "OCTOBER", "4", null ]
+ ]
+}

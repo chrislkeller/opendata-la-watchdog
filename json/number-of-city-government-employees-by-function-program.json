@@ -10,7 +10,7 @@
       "createdAt" : 1390692965,
       "description" : "CAFR Pages 362-365.\r\n\r\nFull-Time Equivalent. Last Ten Fiscal Years.\r\n\r\n(1) In fiscal year 2011, Environmental Affairs Department was eliminated.  Its resources and functions were transferred to the Department of Public Works Bureau of Sanitation, Building and Safety, and Transportation.\r\n(2) The Department of Neighborhood Empowerment was created by Ordinance in fiscal year 2000 .\r\n(3) The Treasurer was transferred out of Finance and restored as its own department in fiscal year 2004. Both departments were consolidated in fiscal year 2012.\r\n(4) Emergency Preparedness was created as a separate department in fiscal year 2001.  In November 2007, name changed to Emergency Management Department.\r\n(5) In fiscal year 2002, Public Works- Accounting and Management Employee Services were consolidated.  In fiscal year 2005, their resources and functions were transferred to the Board of Public Works Commissioners.\r\n(6) In fiscal year 2010, Commission on the Status of Women, Commission for Children, Youth and Familiess and Human Relations Commission were consolidated.\r\n(7) Certain changes were made to conform to the FY2013 presentation.",
       "displayType" : "table",
-      "downloadCount" : 51,
+      "downloadCount" : 64,
       "indexUpdatedAt" : 1414613869,
       "licenseId" : "PUBLIC_DOMAIN",
       "newBackend" : false,
@@ -25,7 +25,7 @@
       "rowsUpdatedBy" : "7c7a-resi",
       "tableId" : 1492324,
       "totalTimesRated" : 0,
-      "viewCount" : 145,
+      "viewCount" : 171,
       "viewLastModified" : 1412744379,
       "viewType" : "tabular",
       "columns" : [ {
@@ -377,6 +377,9 @@
       "owner" : {
         "id" : "7c7a-resi",
         "displayName" : "Controller's Office",
+        "profileImageUrlLarge" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_tiny.jpg",
         "roleName" : "administrator",
         "screenName" : "Controller's Office",
         "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
@@ -387,6 +390,9 @@
       "tableAuthor" : {
         "id" : "7c7a-resi",
         "displayName" : "Controller's Office",
+        "profileImageUrlLarge" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_tiny.jpg",
         "roleName" : "administrator",
         "screenName" : "Controller's Office",
         "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]

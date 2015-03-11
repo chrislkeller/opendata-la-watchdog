@@ -9,7 +9,7 @@
       "createdAt" : 1400887919,
       "description" : "Number of bills LADWP estimates versus total bills issued",
       "displayType" : "table",
-      "downloadCount" : 2,
+      "downloadCount" : 4,
       "indexUpdatedAt" : 1414614308,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -22,7 +22,7 @@
       "rowsUpdatedBy" : "7q7s-tyf3",
       "tableId" : 1593209,
       "totalTimesRated" : 0,
-      "viewCount" : 52,
+      "viewCount" : 69,
       "viewLastModified" : 1401231210,
       "viewType" : "tabular",
       "columns" : [ {

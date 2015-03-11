@@ -9,7 +9,7 @@
       "createdAt" : 1407787260,
       "description" : "This dataset contains metrics that measure the operational performance of the Department of Transportation. These metrics are used on a regular basis by the department and the Mayor to evaluate progress and inform decision making. Performance management forms the foundation of a data-driven culture of innovation and excellence in the City of Los Angeles.",
       "displayType" : "table",
-      "downloadCount" : 5,
+      "downloadCount" : 23,
       "indexUpdatedAt" : 1414614323,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -23,7 +23,7 @@
       "rowsUpdatedBy" : "tyhz-nfmm",
       "tableId" : 1680398,
       "totalTimesRated" : 0,
-      "viewCount" : 39,
+      "viewCount" : 73,
       "viewLastModified" : 1407787525,
       "viewType" : "tabular",
       "columns" : [ {

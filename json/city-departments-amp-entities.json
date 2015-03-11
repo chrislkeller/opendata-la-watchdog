@@ -8,7 +8,7 @@
       "createdAt" : 1394386729,
       "description" : "Listing of City departments and entities",
       "displayType" : "table",
-      "downloadCount" : 14,
+      "downloadCount" : 31,
       "indexUpdatedAt" : 1414613699,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -22,7 +22,7 @@
       "rowsUpdatedBy" : "ujkb-kbnj",
       "tableId" : 1503247,
       "totalTimesRated" : 0,
-      "viewCount" : 116,
+      "viewCount" : 134,
       "viewLastModified" : 1401471550,
       "viewType" : "tabular",
       "columns" : [ {

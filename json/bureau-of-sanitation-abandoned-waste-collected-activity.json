@@ -9,22 +9,21 @@
       "createdAt" : 1407425525,
       "description" : "Abandoned waste collected is reported monthly by fiscal year",
       "displayType" : "table",
-      "downloadCount" : 8,
-      "indexUpdatedAt" : 1415747818,
+      "downloadCount" : 22,
+      "indexUpdatedAt" : 1420666270,
       "newBackend" : false,
       "numberOfComments" : 0,
-      "oid" : 8853444,
+      "oid" : 9854543,
       "publicationAppendEnabled" : false,
-      "publicationDate" : 1410554642,
+      "publicationDate" : 1420666256,
       "publicationGroup" : 1675716,
       "publicationStage" : "published",
-      "rowsUpdatedAt" : 1415650816,
-      "rowsUpdatedBy" : "3qey-3zpp",
-      "state" : "normal",
-      "tableId" : 1716856,
+      "rowsUpdatedAt" : 1420666252,
+      "rowsUpdatedBy" : "u8tq-3dir",
+      "tableId" : 2076229,
       "totalTimesRated" : 0,
-      "viewCount" : 82,
-      "viewLastModified" : 1410802934,
+      "viewCount" : 107,
+      "viewLastModified" : 1420666256,
       "viewType" : "tabular",
       "columns" : [ {
         "id" : -1,
@@ -99,7 +98,7 @@
         "format" : {
         }
       }, {
-        "id" : 166493605,
+        "id" : 183488481,
         "name" : "Fiscal Year",
         "dataTypeName" : "text",
         "fieldName" : "fiscal_year",
@@ -108,7 +107,7 @@
         "tableColumnId" : 21263175,
         "width" : 232,
         "cachedContents" : {
-          "non_null" : 16,
+          "non_null" : 18,
           "smallest" : "2014",
           "null" : 0,
           "largest" : "2015",
@@ -123,7 +122,7 @@
         "format" : {
         }
       }, {
-        "id" : 166493606,
+        "id" : 183488482,
         "name" : "Month",
         "dataTypeName" : "text",
         "fieldName" : "month",
@@ -132,7 +131,7 @@
         "tableColumnId" : 21263176,
         "width" : 160,
         "cachedContents" : {
-          "non_null" : 16,
+          "non_null" : 18,
           "smallest" : "Apr",
           "null" : 0,
           "largest" : "Sept",
@@ -177,7 +176,7 @@
         "format" : {
         }
       }, {
-        "id" : 166493607,
+        "id" : 183488483,
         "name" : "FYMonth",
         "dataTypeName" : "number",
         "fieldName" : "fymonth",
@@ -186,9 +185,9 @@
         "tableColumnId" : 21263177,
         "width" : 184,
         "cachedContents" : {
-          "non_null" : 16,
+          "non_null" : 18,
           "smallest" : "1",
-          "sum" : "88",
+          "sum" : "99",
           "null" : 0,
           "average" : "5.5",
           "largest" : "12",
@@ -233,7 +232,7 @@
         "format" : {
         }
       }, {
-        "id" : 166493608,
+        "id" : 183488484,
         "name" : "Count of Abandoned Waste Collected within 48 hrs",
         "dataTypeName" : "number",
         "fieldName" : "count_of_abandoned_waste_collected_within_48_hrs",
@@ -242,11 +241,11 @@
         "tableColumnId" : 21263178,
         "width" : 688,
         "cachedContents" : {
-          "non_null" : 16,
+          "non_null" : 18,
           "smallest" : "370",
-          "sum" : "12331",
+          "sum" : "14144",
           "null" : 0,
-          "average" : "770.6875",
+          "average" : "785.7777777777778",
           "largest" : "1219",
           "top" : [ {
             "count" : 20,
@@ -296,15 +295,21 @@
           }, {
             "count" : 5,
             "item" : "1095"
+          }, {
+            "count" : 4,
+            "item" : "877"
+          }, {
+            "count" : 3,
+            "item" : "936"
           } ]
         },
         "format" : {
           "precisionStyle" : "standard",
-          "noCommas" : "false",
-          "align" : "right"
+          "align" : "right",
+          "noCommas" : "false"
         }
       }, {
-        "id" : 166493609,
+        "id" : 183488485,
         "name" : "Total Abandoned Waste Calls",
         "dataTypeName" : "number",
         "fieldName" : "total_abandoned_waste_calls",
@@ -313,11 +318,11 @@
         "tableColumnId" : 21263179,
         "width" : 424,
         "cachedContents" : {
-          "non_null" : 16,
+          "non_null" : 18,
           "smallest" : "747",
-          "sum" : "26019",
+          "sum" : "28389",
           "null" : 0,
-          "average" : "1626.1875",
+          "average" : "1577.166666666667",
           "largest" : "2321",
           "top" : [ {
             "count" : 20,
@@ -367,6 +372,12 @@
           }, {
             "count" : 5,
             "item" : "1716"
+          }, {
+            "count" : 4,
+            "item" : "1144"
+          }, {
+            "count" : 3,
+            "item" : "1226"
           } ]
         },
         "format" : {
@@ -490,5 +501,7 @@
 , [ 42, "F8478B79-02CF-47A8-BEDA-9638511D402F", 42, 1414441639, "875560", 1414441639, "875560", null, "2015", "Aug", "2", "1064", "1524" ]
 , [ 43, "48102F61-7217-4D9E-8414-8DB1D6751B77", 43, 1414441639, "875560", 1414441639, "875560", null, "2015", "Sept", "3", "1105", "1582" ]
 , [ 44, "B12E92CF-1DC7-452C-90CA-7BE6AB0A8F52", 44, 1415650814, "875544", 1415650814, "875544", null, "2015", "Oct", "4", "1095", "1716" ]
+, [ 45, "03F689BD-2324-4F04-9A38-CF9DD6EB1E4E", 45, 1420666199, "882515", 1420666225, "882515", null, "2015", "Nov", "5", "877", "1144" ]
+, [ 46, "8F2A83F8-118E-47DC-ACD3-A17ABE58AD13", 46, 1420666230, "882515", 1420666252, "882515", null, "2015", "Dec", "6", "936", "1226" ]
  ]
 }

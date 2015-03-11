@@ -9,7 +9,7 @@
       "createdAt" : 1401402664,
       "description" : "Monthly residential water usage use by zip code. Numbers represent Hundered Cubic Feet (HCF) usage",
       "displayType" : "table",
-      "downloadCount" : 11,
+      "downloadCount" : 21,
       "indexUpdatedAt" : 1414613163,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -23,7 +23,7 @@
       "rowsUpdatedBy" : "7q7s-tyf3",
       "tableId" : 1599261,
       "totalTimesRated" : 0,
-      "viewCount" : 60,
+      "viewCount" : 75,
       "viewLastModified" : 1401405634,
       "viewType" : "tabular",
       "columns" : [ {

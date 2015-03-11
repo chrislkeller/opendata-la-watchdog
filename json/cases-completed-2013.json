@@ -10,7 +10,7 @@
       "createdAt" : 1400795199,
       "description" : "Total Cases Completed by the Department of City Planning for the Year 2013.",
       "displayType" : "table",
-      "downloadCount" : 8,
+      "downloadCount" : 19,
       "indexUpdatedAt" : 1414613598,
       "licenseId" : "PUBLIC_DOMAIN",
       "newBackend" : false,
@@ -24,7 +24,7 @@
       "rowsUpdatedBy" : "9jxz-e3ru",
       "tableId" : 1591845,
       "totalTimesRated" : 0,
-      "viewCount" : 38,
+      "viewCount" : 48,
       "viewLastModified" : 1401395205,
       "viewType" : "tabular",
       "columns" : [ {

@@ -9,7 +9,7 @@
       "createdAt" : 1401836573,
       "description" : "Annual Outages.  Each listed area is the LADWP facility that responded to the outages.",
       "displayType" : "table",
-      "downloadCount" : 5,
+      "downloadCount" : 12,
       "indexUpdatedAt" : 1414613790,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -22,7 +22,7 @@
       "rowsUpdatedBy" : "7q7s-tyf3",
       "tableId" : 1605050,
       "totalTimesRated" : 0,
-      "viewCount" : 9,
+      "viewCount" : 17,
       "viewLastModified" : 1402096222,
       "viewType" : "tabular",
       "columns" : [ {

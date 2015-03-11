@@ -1,0 +1,330 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "fc3u-86zh",
+      "name" : "BSL- Percent Of Streetlight Outages Repaired Within 10 Business Days",
+      "averageRating" : 0,
+      "createdAt" : 1401487914,
+      "displayType" : "table",
+      "downloadCount" : 3,
+      "iconUrl" : "fileId:chDGQ4HdaP8hCFbvVLeXIKhKI_hj1u54rAuLIls1KM4",
+      "indexUpdatedAt" : 1416344505,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 9414548,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1416344471,
+      "publicationGroup" : 1600617,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1416344435,
+      "rowsUpdatedBy" : "kmuv-58sk",
+      "tableId" : 1894635,
+      "totalTimesRated" : 0,
+      "viewCount" : 62,
+      "viewLastModified" : 1416344471,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 176182744,
+        "name" : "Date Name",
+        "dataTypeName" : "text",
+        "fieldName" : "date_name",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20022216,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "Apr-14",
+          "null" : 0,
+          "largest" : "Sep-14",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Aug-13"
+          }, {
+            "count" : 19,
+            "item" : "Sep-13"
+          }, {
+            "count" : 18,
+            "item" : "Oct-13"
+          }, {
+            "count" : 17,
+            "item" : "Nov-13"
+          }, {
+            "count" : 16,
+            "item" : "Dec-13"
+          }, {
+            "count" : 15,
+            "item" : "Jan-14"
+          }, {
+            "count" : 14,
+            "item" : "Feb-14"
+          }, {
+            "count" : 13,
+            "item" : "Mar-14"
+          }, {
+            "count" : 12,
+            "item" : "Apr-14"
+          }, {
+            "count" : 11,
+            "item" : "May-14"
+          }, {
+            "count" : 10,
+            "item" : "Jun-14"
+          }, {
+            "count" : 9,
+            "item" : "Jul-14"
+          }, {
+            "count" : 8,
+            "item" : "Aug-14"
+          }, {
+            "count" : 7,
+            "item" : "Sep-14"
+          }, {
+            "count" : 6,
+            "item" : "Oct-14"
+          }, {
+            "count" : 5,
+            "item" : "Nov-14"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176182788,
+        "name" : "Date Value",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date_value",
+        "position" : 3,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 20022217,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "2013-08-01T00:00:00",
+          "null" : 0,
+          "largest" : "2014-11-01T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2013-08-01T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2013-09-01T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2013-10-01T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2013-11-01T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2013-12-01T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2014-01-01T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2014-02-01T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2014-03-01T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2014-04-01T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2014-05-01T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2014-06-01T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2014-07-01T00:00:00"
+          }, {
+            "count" : 8,
+            "item" : "2014-08-01T00:00:00"
+          }, {
+            "count" : 7,
+            "item" : "2014-09-01T00:00:00"
+          }, {
+            "count" : 6,
+            "item" : "2014-10-01T00:00:00"
+          }, {
+            "count" : 5,
+            "item" : "2014-11-01T00:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 176182854,
+        "name" : "% outages repaired within 10 business days",
+        "dataTypeName" : "percent",
+        "fieldName" : "outages_repaired_within_10_business_days",
+        "position" : 4,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 20022218,
+        "width" : 604,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "87",
+          "sum" : "1517",
+          "null" : 0,
+          "average" : "94.8125",
+          "largest" : "98",
+          "top" : [ {
+            "count" : 20,
+            "item" : "96"
+          }, {
+            "count" : 19,
+            "item" : "91"
+          }, {
+            "count" : 18,
+            "item" : "95"
+          }, {
+            "count" : 17,
+            "item" : "87"
+          }, {
+            "count" : 16,
+            "item" : "93"
+          }, {
+            "count" : 15,
+            "item" : "98"
+          }, {
+            "count" : 14,
+            "item" : "97"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0"
+      },
+      "owner" : {
+        "id" : "kmuv-58sk",
+        "displayName" : "Public Works: Street Lighting OpenData",
+        "profileImageUrlLarge" : "/images/profile/9117/4682/bsllogo2res350_large.gif",
+        "profileImageUrlMedium" : "/images/profile/9117/4682/bsllogo2res350_thumb.gif",
+        "profileImageUrlSmall" : "/images/profile/9117/4682/bsllogo2res350_tiny.gif",
+        "roleName" : "editor",
+        "screenName" : "Public Works: Street Lighting OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "kmuv-58sk",
+        "displayName" : "Public Works: Street Lighting OpenData",
+        "profileImageUrlLarge" : "/images/profile/9117/4682/bsllogo2res350_large.gif",
+        "profileImageUrlMedium" : "/images/profile/9117/4682/bsllogo2res350_thumb.gif",
+        "profileImageUrlSmall" : "/images/profile/9117/4682/bsllogo2res350_tiny.gif",
+        "roleName" : "editor",
+        "screenName" : "Public Works: Street Lighting OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "street lighting", "customer service", "streetlight" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "D00E1D28-0AA1-4BF8-8BD5-B5C61FB7A094", 1, 1401487917, "865572", 1401487917, "865572", "{\n}", "Aug-13", "2013-08-01T00:00:00", "96" ]
+, [ 2, "2131899B-F3CB-4973-9511-397B202DCC6C", 2, 1401487917, "865572", 1401487917, "865572", "{\n}", "Sep-13", "2013-09-01T00:00:00", "96" ]
+, [ 3, "BA26589F-E180-4D6A-A9DA-0B4F72FFACB9", 3, 1401487917, "865572", 1401487917, "865572", "{\n}", "Oct-13", "2013-10-01T00:00:00", "91" ]
+, [ 4, "D6066604-6AEE-4F52-931E-D5177F111D71", 4, 1401487917, "865572", 1401487917, "865572", "{\n}", "Nov-13", "2013-11-01T00:00:00", "95" ]
+, [ 5, "018E075D-306E-4F1F-A24D-48CBB7BDA3E7", 5, 1401487917, "865572", 1401487917, "865572", "{\n}", "Dec-13", "2013-12-01T00:00:00", "87" ]
+, [ 6, "FBCC8BA2-A05F-406A-AAFF-E332614878A0", 6, 1401487917, "865572", 1401487917, "865572", "{\n}", "Jan-14", "2014-01-01T00:00:00", "93" ]
+, [ 7, "3958ED95-6DC0-4729-9D65-23A44B7654D9", 7, 1401487917, "865572", 1401487917, "865572", "{\n}", "Feb-14", "2014-02-01T00:00:00", "96" ]
+, [ 8, "15553678-D01B-4045-8AF0-AC4B1C047C1A", 8, 1401487917, "865572", 1401487917, "865572", "{\n}", "Mar-14", "2014-03-01T00:00:00", "96" ]
+, [ 9, "7CCDB44D-EDD9-4D20-803C-0B539E44A487", 9, 1401487917, "865572", 1401487917, "865572", "{\n}", "Apr-14", "2014-04-01T00:00:00", "91" ]
+, [ 10, "906AEF1D-53E2-40AB-A91A-1B440BCB36BE", 10, 1401487917, "865572", 1401487917, "865572", "{\n}", "May-14", "2014-05-01T00:00:00", "96" ]
+, [ 12, "AAC6B442-D428-48D2-BFE1-E16DCCBC12F1", 12, 1407270311, "883854", 1407270435, "883854", null, "Jun-14", "2014-06-01T00:00:00", "98" ]
+, [ 13, "D164029F-8EBF-4212-A158-59015C0C6E00", 13, 1407270354, "883854", 1407270440, "883854", null, "Jul-14", "2014-07-01T00:00:00", "97" ]
+, [ 14, "D3789392-AC6F-4684-8755-6CF5000D0633", 14, 1415117278, "883854", 1415117333, "883854", null, "Aug-14", "2014-08-01T00:00:00", "96" ]
+, [ 15, "6DF93474-3605-41A9-AF58-DEF04B49C009", 15, 1415117282, "883854", 1415117357, "883854", null, "Sep-14", "2014-09-01T00:00:00", "96" ]
+, [ 16, "C851D15B-28BB-4FEC-908C-A77F41656EB7", 16, 1415117360, "883854", 1415117369, "883854", null, "Oct-14", "2014-10-01T00:00:00", "97" ]
+, [ 17, "9847332A-B1EC-4A81-A684-F8D4D9D26C71", 17, 1416344426, "883854", 1416344435, "883854", null, "Nov-14", "2014-11-01T00:00:00", "96" ]
+ ]
+}

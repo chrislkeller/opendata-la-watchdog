@@ -10,7 +10,7 @@
       "createdAt" : 1401486364,
       "description" : "Monthly and cumulative calendar year to date (CYTD) figures for total TEU counts. TEU (Twenty-foot Equivalent Unit) is a unit of measure commonly used in the logistics sector to represent shipping containers -- the large boxes used to hold goods during travel by land or sea. This metric reflects the total amount of freight passing through the Port of Los Angeles.",
       "displayType" : "table",
-      "downloadCount" : 3,
+      "downloadCount" : 11,
       "indexUpdatedAt" : 1414617028,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -23,7 +23,7 @@
       "rowsUpdatedBy" : "anbw-drra",
       "tableId" : 1600575,
       "totalTimesRated" : 0,
-      "viewCount" : 36,
+      "viewCount" : 47,
       "viewLastModified" : 1401495694,
       "viewType" : "tabular",
       "columns" : [ {

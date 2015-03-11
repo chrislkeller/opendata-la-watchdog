@@ -6,7 +6,7 @@
       "averageRating" : 0,
       "createdAt" : 1401484352,
       "displayType" : "table",
-      "downloadCount" : 4,
+      "downloadCount" : 10,
       "iconUrl" : "fileId:chDGQ4HdaP8hCFbvVLeXIKhKI_hj1u54rAuLIls1KM4",
       "indexUpdatedAt" : 1414613591,
       "newBackend" : false,
@@ -21,7 +21,7 @@
       "rowsUpdatedBy" : "ddg3-br68",
       "tableId" : 1600530,
       "totalTimesRated" : 0,
-      "viewCount" : 45,
+      "viewCount" : 57,
       "viewLastModified" : 1401750363,
       "viewType" : "tabular",
       "columns" : [ {

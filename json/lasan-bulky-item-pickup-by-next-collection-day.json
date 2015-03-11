@@ -1,0 +1,486 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "3jba-aaeq",
+      "name" : "LASAN:  Bulky Item Pickup by Next Collection Day",
+      "attribution" : "Bureau of Sanitation",
+      "averageRating" : 0,
+      "category" : "A Livable and Sustainable City",
+      "createdAt" : 1407365467,
+      "description" : "Bulky item pickup data reported each month per fiscal year by LA Sanitation.",
+      "displayType" : "table",
+      "downloadCount" : 20,
+      "indexUpdatedAt" : 1425947333,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 9854666,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1420666437,
+      "publicationGroup" : 1674830,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1425933509,
+      "rowsUpdatedBy" : "mc98-5kjj",
+      "state" : "normal",
+      "tableId" : 2076328,
+      "totalTimesRated" : 0,
+      "viewCount" : 127,
+      "viewLastModified" : 1424408403,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 183489817,
+        "name" : "Fiscal Year",
+        "dataTypeName" : "text",
+        "fieldName" : "fiscal_year",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21246504,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 20,
+          "smallest" : "2014",
+          "null" : 0,
+          "largest" : "2015",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2014"
+          }, {
+            "count" : 19,
+            "item" : "2015"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 183489818,
+        "name" : "Month",
+        "dataTypeName" : "text",
+        "fieldName" : "month",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21246505,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 20,
+          "smallest" : "Apr",
+          "null" : 0,
+          "largest" : "Sept",
+          "top" : [ {
+            "count" : 20,
+            "item" : "July"
+          }, {
+            "count" : 19,
+            "item" : "Aug"
+          }, {
+            "count" : 18,
+            "item" : "Sept"
+          }, {
+            "count" : 17,
+            "item" : "Oct"
+          }, {
+            "count" : 16,
+            "item" : "Nov"
+          }, {
+            "count" : 15,
+            "item" : "Dec"
+          }, {
+            "count" : 14,
+            "item" : "Jan"
+          }, {
+            "count" : 13,
+            "item" : "Feb"
+          }, {
+            "count" : 12,
+            "item" : "Mar"
+          }, {
+            "count" : 11,
+            "item" : "Apr"
+          }, {
+            "count" : 10,
+            "item" : "May"
+          }, {
+            "count" : 9,
+            "item" : "June"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 183489819,
+        "name" : "FYMonth",
+        "dataTypeName" : "number",
+        "fieldName" : "fymonth",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21246506,
+        "width" : 184,
+        "cachedContents" : {
+          "non_null" : 20,
+          "smallest" : "1",
+          "sum" : "114",
+          "null" : 0,
+          "average" : "5.7",
+          "largest" : "12",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          }, {
+            "count" : 19,
+            "item" : "2"
+          }, {
+            "count" : 18,
+            "item" : "3"
+          }, {
+            "count" : 17,
+            "item" : "4"
+          }, {
+            "count" : 16,
+            "item" : "5"
+          }, {
+            "count" : 15,
+            "item" : "6"
+          }, {
+            "count" : 14,
+            "item" : "7"
+          }, {
+            "count" : 13,
+            "item" : "8"
+          }, {
+            "count" : 12,
+            "item" : "9"
+          }, {
+            "count" : 11,
+            "item" : "10"
+          }, {
+            "count" : 10,
+            "item" : "11"
+          }, {
+            "count" : 9,
+            "item" : "12"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 183489820,
+        "name" : "Bulky Item Pickup Completed by Next Collection Day",
+        "dataTypeName" : "number",
+        "fieldName" : "bulky_item_pickup_completed_by_next_collection_day",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21246507,
+        "width" : 528,
+        "cachedContents" : {
+          "non_null" : 20,
+          "smallest" : "14729",
+          "sum" : "523312",
+          "null" : 0,
+          "average" : "26165.6",
+          "largest" : "37271",
+          "top" : [ {
+            "count" : 20,
+            "item" : "25400"
+          }, {
+            "count" : 19,
+            "item" : "25697"
+          }, {
+            "count" : 18,
+            "item" : "20313"
+          }, {
+            "count" : 17,
+            "item" : "22200"
+          }, {
+            "count" : 16,
+            "item" : "14729"
+          }, {
+            "count" : 15,
+            "item" : "17764"
+          }, {
+            "count" : 14,
+            "item" : "20847"
+          }, {
+            "count" : 13,
+            "item" : "18758"
+          }, {
+            "count" : 12,
+            "item" : "23029"
+          }, {
+            "count" : 11,
+            "item" : "24901"
+          }, {
+            "count" : 10,
+            "item" : "25579"
+          }, {
+            "count" : 9,
+            "item" : "31813"
+          }, {
+            "count" : 8,
+            "item" : "37271"
+          }, {
+            "count" : 7,
+            "item" : "33953"
+          }, {
+            "count" : 6,
+            "item" : "33401"
+          }, {
+            "count" : 5,
+            "item" : "35640"
+          }, {
+            "count" : 4,
+            "item" : "26889"
+          }, {
+            "count" : 3,
+            "item" : "29201"
+          }, {
+            "count" : 2,
+            "item" : "30395"
+          }, {
+            "count" : 1,
+            "item" : "25532"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "false"
+        }
+      }, {
+        "id" : 183489821,
+        "name" : "Total Bulky Item Pickup Calls",
+        "dataTypeName" : "number",
+        "fieldName" : "total_bulky_item_pickup_calls",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21246508,
+        "width" : 448,
+        "cachedContents" : {
+          "non_null" : 20,
+          "smallest" : "20315",
+          "sum" : "574278",
+          "null" : 0,
+          "average" : "28713.9",
+          "largest" : "38732",
+          "top" : [ {
+            "count" : 20,
+            "item" : "27485"
+          }, {
+            "count" : 19,
+            "item" : "28079"
+          }, {
+            "count" : 18,
+            "item" : "24020"
+          }, {
+            "count" : 17,
+            "item" : "24371"
+          }, {
+            "count" : 16,
+            "item" : "21377"
+          }, {
+            "count" : 15,
+            "item" : "20315"
+          }, {
+            "count" : 14,
+            "item" : "25073"
+          }, {
+            "count" : 13,
+            "item" : "22980"
+          }, {
+            "count" : 12,
+            "item" : "27109"
+          }, {
+            "count" : 11,
+            "item" : "28388"
+          }, {
+            "count" : 10,
+            "item" : "28717"
+          }, {
+            "count" : 9,
+            "item" : "32999"
+          }, {
+            "count" : 8,
+            "item" : "38732"
+          }, {
+            "count" : 7,
+            "item" : "35673"
+          }, {
+            "count" : 6,
+            "item" : "34899"
+          }, {
+            "count" : 5,
+            "item" : "36815"
+          }, {
+            "count" : 4,
+            "item" : "27935"
+          }, {
+            "count" : 3,
+            "item" : "29720"
+          }, {
+            "count" : 2,
+            "item" : "32116"
+          }, {
+            "count" : 1,
+            "item" : "27475"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Committed Update Frequency" : {
+            "Refresh rate" : "Quarterly"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "jsonQuery" : {
+          "order" : [ {
+            "ascending" : true,
+            "columnFieldName" : "fiscal_year"
+          } ]
+        },
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "jwvk-b9mh",
+        "displayName" : "Public Works: Sanitation OpenData",
+        "profileImageUrlLarge" : "/images/profile/2352/4407/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/2352/4407/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/2352/4407/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Public Works: Sanitation OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+        "orderBys" : [ {
+          "ascending" : true,
+          "expression" : {
+            "columnId" : 183489817,
+            "type" : "column"
+          }
+        } ]
+      },
+      "rights" : [ "read" ],
+      "sortBys" : [ {
+        "id" : 0,
+        "viewColumnId" : 183489817,
+        "flags" : [ "asc" ]
+      } ],
+      "tableAuthor" : {
+        "id" : "jwvk-b9mh",
+        "displayName" : "Public Works: Sanitation OpenData",
+        "profileImageUrlLarge" : "/images/profile/2352/4407/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/2352/4407/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/2352/4407/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "Public Works: Sanitation OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 137, "8126A91B-2576-482F-B04F-DC3AFEC0AAA0", 137, 1425933505, "875560", 1425933505, "875560", null, "2014", "July", "1", "25400", "27485" ]
+, [ 138, "2FB1EF67-4118-44B3-AE05-1180F0704266", 138, 1425933505, "875560", 1425933505, "875560", null, "2014", "Aug", "2", "25697", "28079" ]
+, [ 139, "8C3ADB0A-86C4-42D2-9DC7-A39E440CFA9D", 139, 1425933505, "875560", 1425933505, "875560", null, "2014", "Sept", "3", "20313", "24020" ]
+, [ 140, "43623F1A-0ED3-4250-A365-C3C51B491BC6", 140, 1425933505, "875560", 1425933505, "875560", null, "2014", "Oct", "4", "22200", "24371" ]
+, [ 141, "73926989-36C5-4078-B859-BEA794771F84", 141, 1425933505, "875560", 1425933505, "875560", null, "2014", "Nov", "5", "14729", "21377" ]
+, [ 142, "8E98FBF9-DA66-4F9B-AA45-4D55DE9B52B0", 142, 1425933505, "875560", 1425933505, "875560", null, "2014", "Dec", "6", "17764", "20315" ]
+, [ 143, "EF8C8E30-2572-4AA4-BA6F-0C61BDAE1AE2", 143, 1425933505, "875560", 1425933505, "875560", null, "2014", "Jan", "7", "20847", "25073" ]
+, [ 144, "27996849-C458-4328-B4D9-538B24FF384D", 144, 1425933505, "875560", 1425933505, "875560", null, "2014", "Feb", "8", "18758", "22980" ]
+, [ 145, "D227032B-3B59-4E0D-8C88-C1C73DB710DE", 145, 1425933505, "875560", 1425933505, "875560", null, "2014", "Mar", "9", "23029", "27109" ]
+, [ 146, "0BD7A979-CCA0-4F31-96AD-B6BBDDD1BF00", 146, 1425933505, "875560", 1425933505, "875560", null, "2014", "Apr", "10", "24901", "28388" ]
+, [ 147, "F4D136F9-9FC1-4CFC-BC9F-31F155AC45F2", 147, 1425933505, "875560", 1425933505, "875560", null, "2014", "May", "11", "25579", "28717" ]
+, [ 148, "0B03E129-2714-4878-B7D3-5495FC4899CD", 148, 1425933505, "875560", 1425933505, "875560", null, "2014", "June", "12", "31813", "32999" ]
+, [ 149, "33DCBC03-12CD-4992-9131-57385AFEA079", 149, 1425933505, "875560", 1425933505, "875560", null, "2015", "July", "1", "37271", "38732" ]
+, [ 150, "37A46420-0D15-41B5-9DB6-FC15EC8C98C1", 150, 1425933505, "875560", 1425933505, "875560", null, "2015", "Aug", "2", "33953", "35673" ]
+, [ 151, "DF8308D2-BFB0-42EF-8713-571D1442996B", 151, 1425933505, "875560", 1425933505, "875560", null, "2015", "Sept", "3", "33401", "34899" ]
+, [ 152, "699CC5EB-6401-465A-958E-CF20533119C2", 152, 1425933505, "875560", 1425933505, "875560", null, "2015", "Oct", "4", "35640", "36815" ]
+, [ 153, "B14F710A-901E-4504-80E7-7A7819065676", 153, 1425933505, "875560", 1425933505, "875560", null, "2015", "Nov", "5", "26889", "27935" ]
+, [ 154, "1FB499BA-3EF8-4130-9B1D-92F7489E291E", 154, 1425933505, "875560", 1425933505, "875560", null, "2015", "Dec", "6", "29201", "29720" ]
+, [ 155, "E468CFE8-4D7F-49C8-A450-6B2A5F3CD8C6", 155, 1425933505, "875560", 1425933505, "875560", null, "2015", "Jan", "7", "30395", "32116" ]
+, [ 156, "ABB4ACDE-1313-45CE-9966-8CA6387F63D6", 156, 1425933505, "875560", 1425933505, "875560", null, "2015", "Feb", "8", "25532", "27475" ]
+ ]
+}

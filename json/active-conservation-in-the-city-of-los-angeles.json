@@ -9,7 +9,7 @@
       "createdAt" : 1399935855,
       "description" : "Active Water Conservation by Acre Feet in the City of Los Angeles. An Acre Foot is a unit of volume equal to one foot water in depth spread across one Acre (325,853.38 gallons).",
       "displayType" : "table",
-      "downloadCount" : 10,
+      "downloadCount" : 23,
       "indexUpdatedAt" : 1414614302,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -22,7 +22,7 @@
       "rowsUpdatedBy" : "g9i9-z6y7",
       "tableId" : 1587576,
       "totalTimesRated" : 0,
-      "viewCount" : 44,
+      "viewCount" : 51,
       "viewLastModified" : 1401233355,
       "viewType" : "tabular",
       "columns" : [ {

@@ -9,7 +9,7 @@
       "createdAt" : 1401218474,
       "description" : "Name, Location, Council District, Phone Number and Email Address for all 72 library branches.",
       "displayType" : "table",
-      "downloadCount" : 7,
+      "downloadCount" : 14,
       "indexUpdatedAt" : 1414613667,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -23,7 +23,7 @@
       "rowsUpdatedBy" : "ysts-hp3n",
       "tableId" : 1596377,
       "totalTimesRated" : 0,
-      "viewCount" : 48,
+      "viewCount" : 70,
       "viewLastModified" : 1401404129,
       "viewType" : "tabular",
       "columns" : [ {

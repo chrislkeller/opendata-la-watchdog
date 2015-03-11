@@ -9,7 +9,7 @@
       "createdAt" : 1401492807,
       "description" : "Recently completed and planned Power Infrastructure Replacements for the current fiscal year. \"C\" indicates completed projects \"X\" indicate planned projects. \"Other\" refers to upgrades outside the PRP program. For more information please visit LADWP's PRP webpage: http://134.201.250.86/Default.aspx.",
       "displayType" : "table",
-      "downloadCount" : 8,
+      "downloadCount" : 16,
       "indexUpdatedAt" : 1414616952,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -23,7 +23,7 @@
       "rowsUpdatedBy" : "7q7s-tyf3",
       "tableId" : 1600693,
       "totalTimesRated" : 0,
-      "viewCount" : 25,
+      "viewCount" : 35,
       "viewLastModified" : 1401496758,
       "viewType" : "tabular",
       "columns" : [ {

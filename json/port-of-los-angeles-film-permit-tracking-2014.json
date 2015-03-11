@@ -9,7 +9,7 @@
       "createdAt" : 1395678422,
       "description" : "Port of Los Angeles - Film Permit Tracking 2014",
       "displayType" : "table",
-      "downloadCount" : 7,
+      "downloadCount" : 17,
       "indexUpdatedAt" : 1414613231,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -23,7 +23,7 @@
       "rowsUpdatedBy" : "2ib6-ssvz",
       "tableId" : 1521709,
       "totalTimesRated" : 0,
-      "viewCount" : 46,
+      "viewCount" : 64,
       "viewLastModified" : 1401387213,
       "viewType" : "tabular",
       "columns" : [ {

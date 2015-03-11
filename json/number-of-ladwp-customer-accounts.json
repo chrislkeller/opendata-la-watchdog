@@ -9,7 +9,7 @@
       "createdAt" : 1400881881,
       "description" : "Total number of Customer Accounts at LADWP from year to year.",
       "displayType" : "table",
-      "downloadCount" : 12,
+      "downloadCount" : 21,
       "indexUpdatedAt" : 1414613948,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -22,7 +22,7 @@
       "rowsUpdatedBy" : "7q7s-tyf3",
       "tableId" : 1593098,
       "totalTimesRated" : 0,
-      "viewCount" : 56,
+      "viewCount" : 70,
       "viewLastModified" : 1400881992,
       "viewType" : "tabular",
       "columns" : [ {

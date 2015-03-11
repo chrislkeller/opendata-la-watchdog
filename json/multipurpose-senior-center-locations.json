@@ -9,7 +9,7 @@
       "createdAt" : 1401472778,
       "description" : "Location of Multipurpose Senior Centers in the City of Los Angeles",
       "displayType" : "table",
-      "downloadCount" : 11,
+      "downloadCount" : 23,
       "indexUpdatedAt" : 1414614293,
       "licenseId" : "PUBLIC_DOMAIN",
       "newBackend" : false,
@@ -23,7 +23,7 @@
       "rowsUpdatedBy" : "hhg6-ygkh",
       "tableId" : 1600431,
       "totalTimesRated" : 0,
-      "viewCount" : 67,
+      "viewCount" : 82,
       "viewLastModified" : 1401479571,
       "viewType" : "tabular",
       "columns" : [ {

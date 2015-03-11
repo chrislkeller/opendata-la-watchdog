@@ -8,7 +8,7 @@
       "createdAt" : 1401460651,
       "description" : "Statement of Votes Cast of the Election Results",
       "displayType" : "table",
-      "downloadCount" : 3,
+      "downloadCount" : 9,
       "indexUpdatedAt" : 1414612816,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -22,7 +22,7 @@
       "rowsUpdatedBy" : "ika6-27vg",
       "tableId" : 1600053,
       "totalTimesRated" : 0,
-      "viewCount" : 50,
+      "viewCount" : 60,
       "viewLastModified" : 1401480727,
       "viewType" : "tabular",
       "columns" : [ {
@@ -99,7 +99,7 @@
         }
       }, {
         "id" : 150583490,
-        "name" : "﻿PRECINCT",
+        "name" : "PRECINCT",
         "dataTypeName" : "text",
         "fieldName" : "precinct",
         "position" : 2,

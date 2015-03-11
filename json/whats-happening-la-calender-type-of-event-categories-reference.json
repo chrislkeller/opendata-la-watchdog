@@ -9,7 +9,7 @@
       "createdAt" : 1399047930,
       "description" : "Reference data set for type of event",
       "displayType" : "table",
-      "downloadCount" : 13,
+      "downloadCount" : 21,
       "indexUpdatedAt" : 1414615283,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -22,7 +22,7 @@
       "rowsUpdatedBy" : "ujkb-kbnj",
       "tableId" : 1599128,
       "totalTimesRated" : 0,
-      "viewCount" : 112,
+      "viewCount" : 142,
       "viewLastModified" : 1401397513,
       "viewType" : "tabular",
       "columns" : [ {

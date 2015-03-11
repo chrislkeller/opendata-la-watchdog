@@ -9,7 +9,7 @@
       "createdAt" : 1400025686,
       "description" : "Installed Capacity from Solar Incentive Program in Quarter Years (Kilowatts)",
       "displayType" : "table",
-      "downloadCount" : 6,
+      "downloadCount" : 10,
       "indexUpdatedAt" : 1414612786,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -22,7 +22,7 @@
       "rowsUpdatedBy" : "g9i9-z6y7",
       "tableId" : 1587582,
       "totalTimesRated" : 0,
-      "viewCount" : 229,
+      "viewCount" : 274,
       "viewLastModified" : 1401233296,
       "viewType" : "tabular",
       "columns" : [ {

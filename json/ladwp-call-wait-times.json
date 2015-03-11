@@ -1,0 +1,363 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "2ep2-m9eh",
+      "name" : "LADWP Call Wait Times",
+      "attribution" : "LADWP",
+      "averageRating" : 0,
+      "category" : "A Well Run City",
+      "createdAt" : 1400880738,
+      "description" : "Average call wait time for LADWP Customers.",
+      "displayType" : "table",
+      "downloadCount" : 18,
+      "indexUpdatedAt" : 1415829239,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 9349979,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1415828688,
+      "publicationGroup" : 1593070,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1415828669,
+      "rowsUpdatedBy" : "7q7s-tyf3",
+      "tableId" : 1872783,
+      "totalTimesRated" : 0,
+      "viewCount" : 264,
+      "viewLastModified" : 1415828688,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 175050006,
+        "name" : "Months",
+        "dataTypeName" : "text",
+        "fieldName" : "months",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 19908937,
+        "width" : 172,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "Apr-14",
+          "null" : 0,
+          "largest" : "Sep-14",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Jul-13"
+          }, {
+            "count" : 19,
+            "item" : "Aug-13"
+          }, {
+            "count" : 18,
+            "item" : "Sep-13"
+          }, {
+            "count" : 17,
+            "item" : "Oct-13"
+          }, {
+            "count" : 16,
+            "item" : "Nov-13"
+          }, {
+            "count" : 15,
+            "item" : "Dec-13"
+          }, {
+            "count" : 14,
+            "item" : "Jan-14"
+          }, {
+            "count" : 13,
+            "item" : "Feb-14"
+          }, {
+            "count" : 12,
+            "item" : "Mar-14"
+          }, {
+            "count" : 11,
+            "item" : "Apr-14"
+          }, {
+            "count" : 10,
+            "item" : "May-14"
+          }, {
+            "count" : 9,
+            "item" : "Jun-14"
+          }, {
+            "count" : 8,
+            "item" : "Jul-14"
+          }, {
+            "count" : 7,
+            "item" : "Aug-14"
+          }, {
+            "count" : 6,
+            "item" : "Sep-14"
+          }, {
+            "count" : 5,
+            "item" : "Oct-14"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 175050007,
+        "name" : "Date",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date",
+        "position" : 2,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 20004390,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "2013-07-31T00:00:00",
+          "null" : 0,
+          "largest" : "2014-10-31T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2013-07-31T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2013-08-31T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2013-09-30T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2013-10-31T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2013-11-30T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2013-12-31T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2014-01-31T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2014-02-28T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2014-03-31T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2014-04-30T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2014-05-30T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2014-06-30T00:00:00"
+          }, {
+            "count" : 8,
+            "item" : "2014-07-31T00:00:00"
+          }, {
+            "count" : 7,
+            "item" : "2014-08-31T00:00:00"
+          }, {
+            "count" : 6,
+            "item" : "2014-09-30T00:00:00"
+          }, {
+            "count" : 5,
+            "item" : "2014-10-31T00:00:00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 175050008,
+        "name" : "Call Wait Times in Minutes",
+        "dataTypeName" : "number",
+        "fieldName" : "call_wait_times_in_minutes",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19908938,
+        "width" : 246,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "6.08",
+          "sum" : "374.29",
+          "null" : 0,
+          "average" : "23.393125",
+          "largest" : "40.43",
+          "top" : [ {
+            "count" : 20,
+            "item" : "6.08"
+          }, {
+            "count" : 19,
+            "item" : "14.55"
+          }, {
+            "count" : 18,
+            "item" : "17.34"
+          }, {
+            "count" : 17,
+            "item" : "25.89"
+          }, {
+            "count" : 16,
+            "item" : "31.58"
+          }, {
+            "count" : 15,
+            "item" : "16.91"
+          }, {
+            "count" : 14,
+            "item" : "20.09"
+          }, {
+            "count" : 13,
+            "item" : "31.59"
+          }, {
+            "count" : 12,
+            "item" : "33.52"
+          }, {
+            "count" : 11,
+            "item" : "21.01"
+          }, {
+            "count" : 10,
+            "item" : "18.31"
+          }, {
+            "count" : 9,
+            "item" : "32.9"
+          }, {
+            "count" : 8,
+            "item" : "40.43"
+          }, {
+            "count" : 7,
+            "item" : "39.65"
+          }, {
+            "count" : 6,
+            "item" : "15.66"
+          }, {
+            "count" : 5,
+            "item" : "8.78"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Data Owner" : "LADWP"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "hb8e-gdsp",
+        "displayName" : "LA DWP OpenData",
+        "profileImageUrlLarge" : "/images/profile/5225/6660/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5225/6660/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5225/6660/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LA DWP OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "hb8e-gdsp",
+        "displayName" : "LA DWP OpenData",
+        "profileImageUrlLarge" : "/images/profile/5225/6660/_City_Seal_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5225/6660/_City_Seal_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5225/6660/_City_Seal_tiny.jpg",
+        "roleName" : "editor",
+        "screenName" : "LA DWP OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "customer call wait time" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "7E1C2917-31D7-4345-B290-E5AD8B035539", 1, 1400880741, "877550", 1411083829, "877550", null, "Jul-13", "2013-07-31T00:00:00", "6.08" ]
+, [ 2, "3D78973D-B33C-4C0E-B422-6E600ECD195F", 2, 1400880741, "877550", 1411083836, "877550", null, "Aug-13", "2013-08-31T00:00:00", "14.55" ]
+, [ 3, "D3025FA2-0709-4FC3-A63E-690682415CBC", 3, 1400880741, "877550", 1411083848, "877550", null, "Sep-13", "2013-09-30T00:00:00", "17.34" ]
+, [ 4, "DE8D82AD-5F5D-4008-92B1-FBBA72E3E05F", 4, 1400880741, "877550", 1411083854, "877550", null, "Oct-13", "2013-10-31T00:00:00", "25.89" ]
+, [ 5, "6D497C8C-FE74-42F0-A501-2AE7F2687414", 5, 1400880741, "877550", 1411083859, "877550", null, "Nov-13", "2013-11-30T00:00:00", "31.58" ]
+, [ 6, "9E60954C-A523-4062-81BB-EC00901B3177", 6, 1400880741, "877550", 1411083865, "877550", null, "Dec-13", "2013-12-31T00:00:00", "16.91" ]
+, [ 7, "F81DB610-8E86-4249-9EAE-98A31B1D03F5", 7, 1400880741, "877550", 1411083869, "877550", null, "Jan-14", "2014-01-31T00:00:00", "20.09" ]
+, [ 8, "367076B7-D819-4429-A871-BAE5B942455C", 8, 1400880741, "877550", 1411083873, "877550", null, "Feb-14", "2014-02-28T00:00:00", "31.59" ]
+, [ 9, "7E8F62F9-E2FB-426F-B652-2A6E8899AD61", 9, 1400880741, "877550", 1411083878, "877550", null, "Mar-14", "2014-03-31T00:00:00", "33.52" ]
+, [ 10, "D7AA703C-591B-47C5-9AF6-A96804F0CDDB", 10, 1400880741, "877550", 1411083883, "877550", null, "Apr-14", "2014-04-30T00:00:00", "21.01" ]
+, [ 12, "D3C194C6-40BB-4D4A-A8E6-23102AC18B6B", 12, 1411083891, "877550", 1411083929, "877550", null, "May-14", "2014-05-30T00:00:00", "18.31" ]
+, [ 13, "50EE1492-CD05-4CD1-80E9-1F499CA1CC5C", 13, 1411083937, "877550", 1411083987, "877550", null, "Jun-14", "2014-06-30T00:00:00", "32.9" ]
+, [ 14, "98F75276-07CE-4892-B891-C7951DEF57A3", 14, 1411083952, "877550", 1411083993, "877550", null, "Jul-14", "2014-07-31T00:00:00", "40.43" ]
+, [ 15, "3C40514A-7C91-4F4C-ACBA-F545FAF97B58", 15, 1411083967, "877550", 1411083998, "877550", null, "Aug-14", "2014-08-31T00:00:00", "39.65" ]
+, [ 16, "37E8B97C-ACA5-4D17-BA5A-947EB62ECDE5", 16, 1415828615, "877550", 1415828652, "877550", null, "Sep-14", "2014-09-30T00:00:00", "15.66" ]
+, [ 17, "3AC7A328-5E30-424E-91AF-88CD10546CDA", 17, 1415828647, "877550", 1415828669, "877550", null, "Oct-14", "2014-10-31T00:00:00", "8.78" ]
+ ]
+}

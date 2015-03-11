@@ -1,0 +1,912 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "9rf7-dm83",
+      "name" : "HACLA Large Public Housing Sites (16)",
+      "averageRating" : 0,
+      "category" : "A Prosperous City",
+      "createdAt" : 1421352802,
+      "description" : "Information on the large public housing sites owned by the Housing Authority of the City of Los Angeles. Updated 2015.",
+      "displayType" : "table",
+      "downloadCount" : 7,
+      "iconUrl" : "fileId:Z2U8VT2zO27d3szZJBj15J026Fw1mb3vlCXxm29w_Po",
+      "indexUpdatedAt" : 1422317150,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 10028940,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1422315921,
+      "publicationGroup" : 2109801,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1422302966,
+      "rowsUpdatedBy" : "c4gd-54mz",
+      "tableId" : 2154888,
+      "totalTimesRated" : 0,
+      "viewCount" : 42,
+      "viewLastModified" : 1422317022,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 186384897,
+        "name" : "Site Name",
+        "dataTypeName" : "text",
+        "fieldName" : "site_name",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 24007109,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 17,
+          "smallest" : "Avalon Gardens",
+          "null" : 0,
+          "largest" : "William Mead Homes",
+          "top" : [ {
+            "count" : 20,
+            "item" : "William Mead Homes"
+          }, {
+            "count" : 19,
+            "item" : "Rose Hill Courts"
+          }, {
+            "count" : 18,
+            "item" : "Ramona Gardens"
+          }, {
+            "count" : 17,
+            "item" : "Pueblo Del Sol"
+          }, {
+            "count" : 16,
+            "item" : "New Pico & Las Casitas"
+          }, {
+            "count" : 15,
+            "item" : "Estrada Courts"
+          }, {
+            "count" : 14,
+            "item" : "Dana Harbor View & Wilmington"
+          }, {
+            "count" : 13,
+            "item" : "Rancho San Pedro"
+          }, {
+            "count" : 12,
+            "item" : "Pueblo Del Rio"
+          }, {
+            "count" : 11,
+            "item" : "Mar Vista Gardens"
+          }, {
+            "count" : 10,
+            "item" : "San Fernando Gardens"
+          }, {
+            "count" : 9,
+            "item" : "Avalon Gardens"
+          }, {
+            "count" : 8,
+            "item" : "Jordan Downs"
+          }, {
+            "count" : 7,
+            "item" : "Gonzaque Village"
+          }, {
+            "count" : 6,
+            "item" : "Nickerson Gardens"
+          }, {
+            "count" : 5,
+            "item" : "Imperial Courts"
+          }, {
+            "count" : 4,
+            "item" : "Total/Ave."
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 186384898,
+        "name" : "Property No.",
+        "dataTypeName" : "text",
+        "fieldName" : "property_no",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 24007110,
+        "width" : 244,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "4001",
+          "null" : 1,
+          "largest" : "4228 & 4234",
+          "top" : [ {
+            "count" : 20,
+            "item" : "4006"
+          }, {
+            "count" : 19,
+            "item" : "4008"
+          }, {
+            "count" : 18,
+            "item" : "4001"
+          }, {
+            "count" : 17,
+            "item" : "4222 & 4227"
+          }, {
+            "count" : 16,
+            "item" : "4223 & 4224"
+          }, {
+            "count" : 15,
+            "item" : "4007 & 4020"
+          }, {
+            "count" : 14,
+            "item" : "4228 & 4234"
+          }, {
+            "count" : 13,
+            "item" : "4004 & 4017"
+          }, {
+            "count" : 12,
+            "item" : "4003 & 4015"
+          }, {
+            "count" : 11,
+            "item" : "4021"
+          }, {
+            "count" : 10,
+            "item" : "4022"
+          }, {
+            "count" : 9,
+            "item" : "4009"
+          }, {
+            "count" : 8,
+            "item" : "4016"
+          }, {
+            "count" : 7,
+            "item" : "4010"
+          }, {
+            "count" : 6,
+            "item" : "4013"
+          }, {
+            "count" : 5,
+            "item" : "4019"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 186384899,
+        "name" : "Acres",
+        "dataTypeName" : "number",
+        "fieldName" : "acres",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24007111,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 17,
+          "smallest" : "5.2",
+          "sum" : "912.759999999999995",
+          "null" : 0,
+          "average" : "53.69176470588235",
+          "largest" : "456.4",
+          "top" : [ {
+            "count" : 20,
+            "item" : "15.2"
+          }, {
+            "count" : 19,
+            "item" : "5.2"
+          }, {
+            "count" : 18,
+            "item" : "32.0"
+          }, {
+            "count" : 17,
+            "item" : "34.3"
+          }, {
+            "count" : 16,
+            "item" : "18.4"
+          }, {
+            "count" : 15,
+            "item" : "20.6"
+          }, {
+            "count" : 14,
+            "item" : "11.96"
+          }, {
+            "count" : 13,
+            "item" : "21.2"
+          }, {
+            "count" : 12,
+            "item" : "34.1"
+          }, {
+            "count" : 11,
+            "item" : "43.2"
+          }, {
+            "count" : 10,
+            "item" : "33.5"
+          }, {
+            "count" : 9,
+            "item" : "14.9"
+          }, {
+            "count" : 8,
+            "item" : "49.5"
+          }, {
+            "count" : 7,
+            "item" : "17.600000000000001"
+          }, {
+            "count" : 6,
+            "item" : "68.599999999999994"
+          }, {
+            "count" : 5,
+            "item" : "36.1"
+          }, {
+            "count" : 4,
+            "item" : "456.4"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 186384900,
+        "name" : "Actual Units",
+        "dataTypeName" : "number",
+        "fieldName" : "actual_units",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24007112,
+        "width" : 244,
+        "cachedContents" : {
+          "non_null" : 17,
+          "smallest" : "94",
+          "sum" : "13754",
+          "null" : 0,
+          "average" : "809.0588235294118",
+          "largest" : "6877",
+          "top" : [ {
+            "count" : 20,
+            "item" : "415"
+          }, {
+            "count" : 19,
+            "item" : "100"
+          }, {
+            "count" : 18,
+            "item" : "498"
+          }, {
+            "count" : 17,
+            "item" : "242"
+          }, {
+            "count" : 16,
+            "item" : "296"
+          }, {
+            "count" : 15,
+            "item" : "414"
+          }, {
+            "count" : 14,
+            "item" : "94"
+          }, {
+            "count" : 13,
+            "item" : "478"
+          }, {
+            "count" : 12,
+            "item" : "660"
+          }, {
+            "count" : 11,
+            "item" : "601"
+          }, {
+            "count" : 10,
+            "item" : "448"
+          }, {
+            "count" : 9,
+            "item" : "164"
+          }, {
+            "count" : 8,
+            "item" : "727"
+          }, {
+            "count" : 7,
+            "item" : "184"
+          }, {
+            "count" : 6,
+            "item" : "1066"
+          }, {
+            "count" : 5,
+            "item" : "490"
+          }, {
+            "count" : 4,
+            "item" : "6877"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 186384901,
+        "name" : "Occupied Units",
+        "dataTypeName" : "number",
+        "fieldName" : "occupied_units",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24007113,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 17,
+          "smallest" : "94",
+          "sum" : "13516",
+          "null" : 0,
+          "average" : "795.0588235294118",
+          "largest" : "6758",
+          "top" : [ {
+            "count" : 20,
+            "item" : "412"
+          }, {
+            "count" : 19,
+            "item" : "94"
+          }, {
+            "count" : 18,
+            "item" : "493"
+          }, {
+            "count" : 17,
+            "item" : "242"
+          }, {
+            "count" : 16,
+            "item" : "296"
+          }, {
+            "count" : 15,
+            "item" : "413"
+          }, {
+            "count" : 14,
+            "item" : "470"
+          }, {
+            "count" : 13,
+            "item" : "654"
+          }, {
+            "count" : 12,
+            "item" : "597"
+          }, {
+            "count" : 11,
+            "item" : "445"
+          }, {
+            "count" : 10,
+            "item" : "162"
+          }, {
+            "count" : 9,
+            "item" : "720"
+          }, {
+            "count" : 8,
+            "item" : "179"
+          }, {
+            "count" : 7,
+            "item" : "1029"
+          }, {
+            "count" : 6,
+            "item" : "458"
+          }, {
+            "count" : 5,
+            "item" : "6758"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 186384902,
+        "name" : "Rate of Occupied Units",
+        "dataTypeName" : "percent",
+        "fieldName" : "rate_of_occupied_units",
+        "position" : 7,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 24007114,
+        "width" : 364,
+        "cachedContents" : {
+          "non_null" : 17,
+          "smallest" : "93.5",
+          "sum" : "1671.5",
+          "null" : 0,
+          "average" : "98.32352941176471",
+          "largest" : "100.0",
+          "top" : [ {
+            "count" : 20,
+            "item" : "99.3"
+          }, {
+            "count" : 19,
+            "item" : "94.0"
+          }, {
+            "count" : 18,
+            "item" : "99.0"
+          }, {
+            "count" : 17,
+            "item" : "100.0"
+          }, {
+            "count" : 16,
+            "item" : "99.8"
+          }, {
+            "count" : 15,
+            "item" : "98.3"
+          }, {
+            "count" : 14,
+            "item" : "99.1"
+          }, {
+            "count" : 13,
+            "item" : "98.8"
+          }, {
+            "count" : 12,
+            "item" : "97.3"
+          }, {
+            "count" : 11,
+            "item" : "96.5"
+          }, {
+            "count" : 10,
+            "item" : "93.5"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 186384903,
+        "name" : "No. of Resident",
+        "dataTypeName" : "number",
+        "fieldName" : "no_of_resident",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24007115,
+        "width" : 280,
+        "cachedContents" : {
+          "non_null" : 17,
+          "smallest" : "242",
+          "sum" : "43466",
+          "null" : 0,
+          "average" : "2556.823529411765",
+          "largest" : "21733",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1152"
+          }, {
+            "count" : 19,
+            "item" : "242"
+          }, {
+            "count" : 18,
+            "item" : "1791"
+          }, {
+            "count" : 17,
+            "item" : "856"
+          }, {
+            "count" : 16,
+            "item" : "952"
+          }, {
+            "count" : 15,
+            "item" : "1195"
+          }, {
+            "count" : 14,
+            "item" : "384"
+          }, {
+            "count" : 13,
+            "item" : "1367"
+          }, {
+            "count" : 12,
+            "item" : "2005"
+          }, {
+            "count" : 11,
+            "item" : "1922"
+          }, {
+            "count" : 10,
+            "item" : "1692"
+          }, {
+            "count" : 9,
+            "item" : "443"
+          }, {
+            "count" : 8,
+            "item" : "2620"
+          }, {
+            "count" : 7,
+            "item" : "441"
+          }, {
+            "count" : 6,
+            "item" : "3217"
+          }, {
+            "count" : 5,
+            "item" : "1454"
+          }, {
+            "count" : 4,
+            "item" : "21733"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 186384904,
+        "name" : "Average Rent Per Month",
+        "dataTypeName" : "money",
+        "fieldName" : "average_rent_per_month",
+        "position" : 9,
+        "renderTypeName" : "money",
+        "tableColumnId" : 24007116,
+        "width" : 364,
+        "cachedContents" : {
+          "non_null" : 17,
+          "smallest" : "284.00",
+          "sum" : "6255.00",
+          "null" : 0,
+          "average" : "367.9411764705882",
+          "largest" : "489.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "354.00"
+          }, {
+            "count" : 19,
+            "item" : "325.00"
+          }, {
+            "count" : 18,
+            "item" : "408.00"
+          }, {
+            "count" : 17,
+            "item" : "489.00"
+          }, {
+            "count" : 16,
+            "item" : "437.00"
+          }, {
+            "count" : 15,
+            "item" : "423.00"
+          }, {
+            "count" : 14,
+            "item" : "360.00"
+          }, {
+            "count" : 13,
+            "item" : "365.00"
+          }, {
+            "count" : 12,
+            "item" : "340.00"
+          }, {
+            "count" : 11,
+            "item" : "435.00"
+          }, {
+            "count" : 10,
+            "item" : "318.00"
+          }, {
+            "count" : 9,
+            "item" : "341.00"
+          }, {
+            "count" : 8,
+            "item" : "305.00"
+          }, {
+            "count" : 7,
+            "item" : "286.00"
+          }, {
+            "count" : 6,
+            "item" : "284.00"
+          }, {
+            "count" : 5,
+            "item" : "362.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 186384905,
+        "name" : "Average Monthly Income Per Family",
+        "dataTypeName" : "money",
+        "fieldName" : "average_monthly_income_per_family",
+        "position" : 10,
+        "renderTypeName" : "money",
+        "tableColumnId" : 24007117,
+        "width" : 496,
+        "cachedContents" : {
+          "non_null" : 17,
+          "smallest" : "1193.00",
+          "sum" : "27414.00",
+          "null" : 0,
+          "average" : "1612.588235294118",
+          "largest" : "2097.00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1610.00"
+          }, {
+            "count" : 19,
+            "item" : "1675.00"
+          }, {
+            "count" : 18,
+            "item" : "1812.00"
+          }, {
+            "count" : 17,
+            "item" : "1966.00"
+          }, {
+            "count" : 16,
+            "item" : "2097.00"
+          }, {
+            "count" : 15,
+            "item" : "1828.00"
+          }, {
+            "count" : 14,
+            "item" : "1380.00"
+          }, {
+            "count" : 13,
+            "item" : "1621.00"
+          }, {
+            "count" : 12,
+            "item" : "1456.00"
+          }, {
+            "count" : 11,
+            "item" : "1863.00"
+          }, {
+            "count" : 10,
+            "item" : "1507.00"
+          }, {
+            "count" : 9,
+            "item" : "1412.00"
+          }, {
+            "count" : 8,
+            "item" : "1417.00"
+          }, {
+            "count" : 7,
+            "item" : "1194.00"
+          }, {
+            "count" : 6,
+            "item" : "1193.00"
+          }, {
+            "count" : 5,
+            "item" : "1571.00"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 186384906,
+        "name" : "Location 1",
+        "dataTypeName" : "location",
+        "fieldName" : "location_1",
+        "position" : 11,
+        "renderTypeName" : "location",
+        "tableColumnId" : 24007118,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 17,
+          "smallest" : {
+            "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+          },
+          "null" : 0,
+          "largest" : {
+            "longitude" : "-118.23674688399996",
+            "latitude" : "33.94711131200006",
+            "human_address" : "{\"address\":\"9800 Grape St.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90002\"}"
+          },
+          "top" : [ {
+            "count" : 20,
+            "item" : {
+              "longitude" : "-118.23126529599995",
+              "latitude" : "34.06340691100007",
+              "human_address" : "{\"address\":\"1300 N. Cardinal St.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90012\"}"
+            }
+          }, {
+            "count" : 19,
+            "item" : {
+              "longitude" : "-118.19175949699996",
+              "latitude" : "34.08707322300006",
+              "human_address" : "{\"address\":\"4466 Florizel St.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90032\"}"
+            }
+          }, {
+            "count" : 18,
+            "item" : {
+              "longitude" : "-118.19390349799994",
+              "latitude" : "34.05746684600007",
+              "human_address" : "{\"address\":\"2830 Lancaster Ave.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90033\"}"
+            }
+          }, {
+            "count" : 17,
+            "item" : {
+              "longitude" : "-118.22685419899994",
+              "latitude" : "34.05098669400007",
+              "human_address" : "{\"address\":\"1201 Gabriel Garcia Marquez\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90033\"}"
+            }
+          }, {
+            "count" : 16,
+            "item" : {
+              "longitude" : "-118.22325495499996",
+              "latitude" : "34.042790223000054",
+              "human_address" : "{\"address\":\"1526 E 4th St.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90023\"}"
+            }
+          }, {
+            "count" : 15,
+            "item" : {
+              "longitude" : "-118.20801243199998",
+              "latitude" : "34.02195547300005",
+              "human_address" : "{\"address\":\"3232 Estrada St.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90023\"}"
+            }
+          }, {
+            "count" : 14,
+            "item" : {
+              "longitude" : "-118.27637270299999",
+              "latitude" : "33.77368829000005",
+              "human_address" : "{\"address\":\"401 Hawaiian Ave.\",\"city\":\"Wilmington\",\"state\":\"\",\"zip\":\"90744\"}"
+            }
+          }, {
+            "count" : 13,
+            "item" : {
+              "longitude" : "-118.28301723599998",
+              "latitude" : "33.74327698400003",
+              "human_address" : "{\"address\":\"275 W 1 St.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"9073\"}"
+            }
+          }, {
+            "count" : 12,
+            "item" : {
+              "longitude" : "-118.24102914599996",
+              "latitude" : "33.994665750000024",
+              "human_address" : "{\"address\":\"1801 E 53rd St.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90058\"}"
+            }
+          }, {
+            "count" : 11,
+            "item" : {
+              "longitude" : "-118.41293768699995",
+              "latitude" : "33.99168272500003",
+              "human_address" : "{\"address\":\"11965 Allin St.\",\"city\":\"Culber City\",\"state\":\"\",\"zip\":\"90230\"}"
+            }
+          }, {
+            "count" : 10,
+            "item" : {
+              "longitude" : "-118.41689001399999",
+              "latitude" : "34.26922938900003",
+              "human_address" : "{\"address\":\"10995 Lehigh St.\",\"city\":\"Pacoima\",\"state\":\"\",\"zip\":\"91331\"}"
+            }
+          }, {
+            "count" : 9,
+            "item" : {
+              "longitude" : "-118.26193000299997",
+              "latitude" : "33.95650817000006",
+              "human_address" : "{\"address\":\"701 E 88th Pl.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90002\"}"
+            }
+          }, {
+            "count" : 8,
+            "item" : {
+              "longitude" : "-118.23674688399996",
+              "latitude" : "33.94711131200006",
+              "human_address" : "{\"address\":\"9800 Grape St.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90002\"}"
+            }
+          }, {
+            "count" : 7,
+            "item" : {
+              "longitude" : "-118.24749550499996",
+              "latitude" : "33.94059127000003",
+              "human_address" : "{\"address\":\"1515 105 St.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90002\"}"
+            }
+          }, {
+            "count" : 6,
+            "item" : {
+              "longitude" : "-118.24652602499998",
+              "latitude" : "33.931087181000066",
+              "human_address" : "{\"address\":\"1590 E 114th St.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90059\"}"
+            }
+          }, {
+            "count" : 5,
+            "item" : {
+              "longitude" : "-118.233580615",
+              "latitude" : "33.929582485000026",
+              "human_address" : "{\"address\":\"11541 Croesus St.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90059\"}"
+            }
+          }, {
+            "count" : 4,
+            "item" : {
+              "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+            }
+          } ]
+        },
+        "format" : {
+        },
+        "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Housing Authority" : "YES"
+          },
+          "Committed Update Frequency" : {
+            "Refresh rate" : "Annual"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "c4gd-54mz",
+        "displayName" : "HACLA",
+        "roleName" : "editor",
+        "screenName" : "HACLA",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "c4gd-54mz",
+        "displayName" : "HACLA",
+        "roleName" : "editor",
+        "screenName" : "HACLA",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards" ]
+      },
+      "tags" : [ "public housing", "hacla", "housing authority" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "A839728C-ADF2-4B26-A34D-1435A8E2AB50", 1, 1421352805, "904409", 1421352823, "904409", "{\n}", "William Mead Homes", "4006", "15.2", "415", "412", "99.3", "1152", "354.00", "1610.00", [ "{\"address\":\"1300 N. Cardinal St.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90012\"}", "34.06340691100007", "-118.23126529599995", null, false ] ]
+, [ 2, "51093C89-B5E1-4BB0-8EBC-32E711D5FD89", 2, 1421352805, "904409", 1421352823, "904409", "{\n}", "Rose Hill Courts", "4008", "5.2", "100", "94", "94.0", "242", "325.00", "1675.00", [ "{\"address\":\"4466 Florizel St.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90032\"}", "34.08707322300006", "-118.19175949699996", null, false ] ]
+, [ 3, "2CC0C920-0F93-40DD-957B-F37B431EE1E6", 3, 1421352805, "904409", 1421352823, "904409", "{\n}", "Ramona Gardens", "4001", "32.0", "498", "493", "99.0", "1791", "408.00", "1812.00", [ "{\"address\":\"2830 Lancaster Ave.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90033\"}", "34.05746684600007", "-118.19390349799994", null, false ] ]
+, [ 4, "408D010D-7993-41D7-B18F-E70385694581", 4, 1421352805, "904409", 1421352823, "904409", "{\n}", "Pueblo Del Sol", "4222 & 4227", "34.3", "242", "242", "100.0", "856", "489.00", "1966.00", [ "{\"address\":\"1201 Gabriel Garcia Marquez\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90033\"}", "34.05098669400007", "-118.22685419899994", null, false ] ]
+, [ 5, "C8D2FA3E-8BA8-4D00-B726-86133C77D66A", 5, 1421352805, "904409", 1421352823, "904409", "{\n}", "New Pico & Las Casitas", "4223 & 4224", "18.4", "296", "296", "100.0", "952", "437.00", "2097.00", [ "{\"address\":\"1526 E 4th St.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90023\"}", "34.042790223000054", "-118.22325495499996", null, false ] ]
+, [ 6, "6C8AC62E-EF26-4686-A064-77629CE5EB1A", 6, 1421352805, "904409", 1421352823, "904409", "{\n}", "Estrada Courts", "4007 & 4020", "20.6", "414", "413", "99.8", "1195", "423.00", "1828.00", [ "{\"address\":\"3232 Estrada St.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90023\"}", "34.02195547300005", "-118.20801243199998", null, false ] ]
+, [ 7, "DEA8C554-6540-4401-9150-2813353C4804", 7, 1421352805, "904409", 1421352823, "904409", "{\n}", "Dana Harbor View & Wilmington", "4228 & 4234", "11.96", "94", "94", "100.0", "384", "360.00", "1380.00", [ "{\"address\":\"401 Hawaiian Ave.\",\"city\":\"Wilmington\",\"state\":\"\",\"zip\":\"90744\"}", "33.77368829000005", "-118.27637270299999", null, false ] ]
+, [ 8, "7251B05A-9FD3-4492-AE76-B599A75AF3D0", 8, 1421352805, "904409", 1421352823, "904409", "{\n}", "Rancho San Pedro", "4004 & 4017", "21.2", "478", "470", "98.3", "1367", "365.00", "1621.00", [ "{\"address\":\"275 W 1 St.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"9073\"}", "33.74327698400003", "-118.28301723599998", null, false ] ]
+, [ 9, "64972327-A1F9-4739-8A0E-F0D75B4259E1", 9, 1421352805, "904409", 1421352823, "904409", "{\n}", "Pueblo Del Rio", "4003 & 4015", "34.1", "660", "654", "99.1", "2005", "340.00", "1456.00", [ "{\"address\":\"1801 E 53rd St.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90058\"}", "33.994665750000024", "-118.24102914599996", null, false ] ]
+, [ 10, "2F1D132B-7BD7-498D-8CDC-F178E3948610", 10, 1421352805, "904409", 1421352823, "904409", "{\n}", "Mar Vista Gardens", "4021", "43.2", "601", "597", "99.3", "1922", "423.00", "1863.00", [ "{\"address\":\"11965 Allin St.\",\"city\":\"Culber City\",\"state\":\"\",\"zip\":\"90230\"}", "33.99168272500003", "-118.41293768699995", null, false ] ]
+, [ 11, "C2C5A9A0-0983-4631-9E77-9DF49E490BAB", 11, 1421352805, "904409", 1421352823, "904409", "{\n}", "San Fernando Gardens", "4022", "33.5", "448", "445", "99.3", "1692", "435.00", "1812.00", [ "{\"address\":\"10995 Lehigh St.\",\"city\":\"Pacoima\",\"state\":\"\",\"zip\":\"91331\"}", "34.26922938900003", "-118.41689001399999", null, false ] ]
+, [ 12, "1787B1BD-2B5E-4662-9630-CFA4819CDB19", 12, 1421352805, "904409", 1421352823, "904409", "{\n}", "Avalon Gardens", "4009", "14.9", "164", "162", "98.8", "443", "318.00", "1507.00", [ "{\"address\":\"701 E 88th Pl.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90002\"}", "33.95650817000006", "-118.26193000299997", null, false ] ]
+, [ 13, "CB6A09D4-211E-4389-8D7A-A4D16E7A95DC", 13, 1421352805, "904409", 1421352823, "904409", "{\n}", "Jordan Downs", "4016", "49.5", "727", "720", "99.0", "2620", "341.00", "1412.00", [ "{\"address\":\"9800 Grape St.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90002\"}", "33.94711131200006", "-118.23674688399996", null, false ] ]
+, [ 14, "A1274D50-7584-406C-BA94-1B1B63A90738", 14, 1421352805, "904409", 1421352823, "904409", "{\n}", "Gonzaque Village", "4010", "17.600000000000001", "184", "179", "97.3", "441", "305.00", "1417.00", [ "{\"address\":\"1515 105 St.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90002\"}", "33.94059127000003", "-118.24749550499996", null, false ] ]
+, [ 15, "5D416649-066C-4A6F-9914-E7F33E1B940B", 15, 1421352805, "904409", 1421352823, "904409", "{\n}", "Nickerson Gardens", "4013", "68.599999999999994", "1066", "1029", "96.5", "3217", "286.00", "1194.00", [ "{\"address\":\"1590 E 114th St.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90059\"}", "33.931087181000066", "-118.24652602499998", null, false ] ]
+, [ 16, "3F667618-01A6-447B-AF4B-8D6CEE8FC468", 16, 1421352805, "904409", 1421352823, "904409", "{\n}", "Imperial Courts", "4019", "36.1", "490", "458", "93.5", "1454", "284.00", "1193.00", [ "{\"address\":\"11541 Croesus St.\",\"city\":\"Los Angeles\",\"state\":\"\",\"zip\":\"90059\"}", "33.929582485000026", "-118.233580615", null, false ] ]
+, [ 17, "F7495EFE-B760-4A3E-AA3B-7804387C64F0", 17, 1421352805, "904409", 1421352805, "904409", "{\n}", "Total/Ave.", null, "456.4", "6877", "6758", "98.3", "21733", "362.00", "1571.00", [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", null, null, null, true ] ]
+ ]
+}

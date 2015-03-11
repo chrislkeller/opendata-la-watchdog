@@ -10,7 +10,7 @@
       "createdAt" : 1386083062,
       "description" : "Reference table to converting zoning nomenclature in ZONING (GIS Data) to zone.",
       "displayType" : "table",
-      "downloadCount" : 12,
+      "downloadCount" : 23,
       "indexUpdatedAt" : 1417739519,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -25,7 +25,7 @@
       "state" : "normal",
       "tableId" : 1385241,
       "totalTimesRated" : 0,
-      "viewCount" : 125,
+      "viewCount" : 168,
       "viewLastModified" : 1417739490,
       "viewType" : "tabular",
       "columns" : [ {

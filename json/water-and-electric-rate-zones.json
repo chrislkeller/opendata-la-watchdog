@@ -9,7 +9,7 @@
       "createdAt" : 1401491634,
       "description" : "These temperature zones by zip code impact water and electric rates.",
       "displayType" : "table",
-      "downloadCount" : 6,
+      "downloadCount" : 14,
       "indexUpdatedAt" : 1414616292,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -22,7 +22,7 @@
       "rowsUpdatedBy" : "7q7s-tyf3",
       "tableId" : 1600672,
       "totalTimesRated" : 0,
-      "viewCount" : 27,
+      "viewCount" : 37,
       "viewLastModified" : 1401491789,
       "viewType" : "tabular",
       "columns" : [ {

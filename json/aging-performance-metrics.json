@@ -9,7 +9,7 @@
       "createdAt" : 1409076027,
       "description" : "This dataset contains metrics that measure the operational performance of the Department of Aging. These metrics are used on a regular basis by the department and the Mayor to evaluate progress and inform decision making.  Performance management forms the foundation of a data-driven culture of innovation and excellence in the City of Los Angeles.",
       "displayType" : "table",
-      "downloadCount" : 7,
+      "downloadCount" : 20,
       "indexUpdatedAt" : 1414613948,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -22,7 +22,7 @@
       "rowsUpdatedBy" : "anbw-drra",
       "tableId" : 1771321,
       "totalTimesRated" : 0,
-      "viewCount" : 19,
+      "viewCount" : 43,
       "viewLastModified" : 1412745369,
       "viewType" : "tabular",
       "columns" : [ {

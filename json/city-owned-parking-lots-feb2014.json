@@ -9,7 +9,7 @@
       "createdAt" : 1392252117,
       "description" : "City Owned Parking Lots - LADOT",
       "displayType" : "table",
-      "downloadCount" : 20,
+      "downloadCount" : 33,
       "indexUpdatedAt" : 1414612932,
       "newBackend" : false,
       "numberOfComments" : 4,
@@ -23,7 +23,7 @@
       "rowsUpdatedBy" : "epkx-23qu",
       "tableId" : 1497339,
       "totalTimesRated" : 0,
-      "viewCount" : 257,
+      "viewCount" : 288,
       "viewLastModified" : 1401397361,
       "viewType" : "tabular",
       "columns" : [ {

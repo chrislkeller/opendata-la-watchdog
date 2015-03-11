@@ -10,7 +10,7 @@
       "createdAt" : 1384368127,
       "description" : "Payroll Calendar for the City of Los Angeles, 2013-2016.",
       "displayType" : "table",
-      "downloadCount" : 515,
+      "downloadCount" : 525,
       "indexUpdatedAt" : 1414613048,
       "licenseId" : "PUBLIC_DOMAIN",
       "newBackend" : false,
@@ -25,7 +25,7 @@
       "rowsUpdatedBy" : "vcvp-yass",
       "tableId" : 1420249,
       "totalTimesRated" : 0,
-      "viewCount" : 1472,
+      "viewCount" : 1835,
       "viewLastModified" : 1410242985,
       "viewType" : "tabular",
       "columns" : [ {

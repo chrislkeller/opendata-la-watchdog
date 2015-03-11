@@ -1224,3 +1224,37 @@ DataExtractDate,ReportPeriod,Arrival_Departure,Domestic_International,FlightType
 11/15/2014 08:00:12 AM,09/01/2014 12:00:00 AM,Departure,International,Charter,10
 11/15/2014 08:00:12 AM,09/01/2014 12:00:00 AM,Departure,International,Commuter,2918
 11/15/2014 08:00:12 AM,09/01/2014 12:00:00 AM,Departure,International,Scheduled Carriers,759196
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Arrival,Domestic,Charter,1715
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Arrival,Domestic,Commuter,84604
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,2098702
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Arrival,International,Charter,21
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Arrival,International,Commuter,2362
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Arrival,International,Scheduled Carriers,738354
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Departure,Domestic,Charter,1619
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Departure,Domestic,Commuter,82775
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Departure,Domestic,Scheduled Carriers,2051890
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Departure,International,Charter,2
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Departure,International,Commuter,2561
+12/15/2014 08:00:10 AM,10/01/2014 12:00:00 AM,Departure,International,Scheduled Carriers,801281
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Arrival,Domestic,Charter,1302
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Arrival,Domestic,Commuter,0
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,1988905
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Arrival,International,Charter,231
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Arrival,International,Commuter,0
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Arrival,International,Scheduled Carriers,684428
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Departure,Domestic,Charter,1526
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Departure,Domestic,Commuter,0
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Departure,Domestic,Scheduled Carriers,1977318
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Departure,International,Charter,167
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Departure,International,Commuter,0
+01/15/2015 08:00:16 AM,11/01/2014 12:00:00 AM,Departure,International,Scheduled Carriers,726568
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Arrival,Domestic,Charter,1711
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Arrival,Domestic,Commuter,372
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Arrival,Domestic,Scheduled Carriers,2190819
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Arrival,International,Charter,126
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Arrival,International,Scheduled Carriers,770762
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Departure,Domestic,Charter,1105
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Departure,Domestic,Commuter,705
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Departure,Domestic,Scheduled Carriers,2144299
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Departure,International,Charter,99
+02/15/2015 08:00:17 AM,12/01/2014 12:00:00 AM,Departure,International,Scheduled Carriers,811558

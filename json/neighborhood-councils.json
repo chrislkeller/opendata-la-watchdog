@@ -8,7 +8,7 @@
       "createdAt" : 1394384345,
       "description" : "Neighborhood Council Roster, with meeting locations and dates",
       "displayType" : "table",
-      "downloadCount" : 10,
+      "downloadCount" : 17,
       "indexUpdatedAt" : 1414616942,
       "newBackend" : false,
       "numberOfComments" : 9,
@@ -22,7 +22,7 @@
       "rowsUpdatedBy" : "ujkb-kbnj",
       "tableId" : 1507699,
       "totalTimesRated" : 0,
-      "viewCount" : 190,
+      "viewCount" : 211,
       "viewLastModified" : 1401814805,
       "viewType" : "tabular",
       "columns" : [ {

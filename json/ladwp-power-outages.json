@@ -9,7 +9,7 @@
       "createdAt" : 1400117809,
       "description" : "Annual recorded number of Power Outages at LADWP",
       "displayType" : "table",
-      "downloadCount" : 2,
+      "downloadCount" : 8,
       "indexUpdatedAt" : 1414616198,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -23,7 +23,7 @@
       "rowsUpdatedBy" : "g9i9-z6y7",
       "tableId" : 1587403,
       "totalTimesRated" : 0,
-      "viewCount" : 45,
+      "viewCount" : 69,
       "viewLastModified" : 1401235327,
       "viewType" : "tabular",
       "columns" : [ {

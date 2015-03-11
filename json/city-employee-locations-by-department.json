@@ -10,7 +10,7 @@
       "createdAt" : 1402352818,
       "description" : "A listing of the number of City employees in each zip code, by Department. Data current as of December 31, 2013, and reflects addresses provided by employees to the City's Payroll system. Employee-entered zip codes flagged as errors are set by default to coordinates (39.52368635500045, -99.11415045099966).",
       "displayType" : "table",
-      "downloadCount" : 12,
+      "downloadCount" : 17,
       "indexUpdatedAt" : 1414614613,
       "licenseId" : "PUBLIC_DOMAIN",
       "newBackend" : false,
@@ -25,7 +25,7 @@
       "rowsUpdatedBy" : "mnkj-bu52",
       "tableId" : 1611261,
       "totalTimesRated" : 0,
-      "viewCount" : 95,
+      "viewCount" : 123,
       "viewLastModified" : 1410240488,
       "viewType" : "tabular",
       "columns" : [ {

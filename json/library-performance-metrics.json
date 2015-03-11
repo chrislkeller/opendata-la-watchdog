@@ -9,21 +9,21 @@
       "createdAt" : 1406832934,
       "description" : "This dataset contains metrics that measure the operational performance of the Library. These metrics are used on a regular basis by the department and the Mayor to evaluate progress and inform decision making. Performance management forms the foundation of a data-driven culture of innovation and excellence in the City of Los Angeles.",
       "displayType" : "table",
-      "downloadCount" : 4,
-      "indexUpdatedAt" : 1414613157,
+      "downloadCount" : 13,
+      "indexUpdatedAt" : 1418775935,
       "newBackend" : false,
       "numberOfComments" : 0,
-      "oid" : 9045354,
+      "oid" : 9646212,
       "publicationAppendEnabled" : false,
-      "publicationDate" : 1412644667,
+      "publicationDate" : 1418775900,
       "publicationGroup" : 1667568,
       "publicationStage" : "published",
-      "rowsUpdatedAt" : 1412644663,
-      "rowsUpdatedBy" : "tyhz-nfmm",
-      "tableId" : 1766786,
+      "rowsUpdatedAt" : 1418775895,
+      "rowsUpdatedBy" : "u8tq-3dir",
+      "tableId" : 1984827,
       "totalTimesRated" : 0,
-      "viewCount" : 54,
-      "viewLastModified" : 1412644691,
+      "viewCount" : 86,
+      "viewLastModified" : 1418775900,
       "viewType" : "tabular",
       "columns" : [ {
         "id" : -1,
@@ -98,7 +98,7 @@
         "format" : {
         }
       }, {
-        "id" : 170005648,
+        "id" : 180118741,
         "name" : "Date Value",
         "dataTypeName" : "calendar_date",
         "fieldName" : "date_value",
@@ -176,7 +176,7 @@
         "format" : {
         }
       }, {
-        "id" : 170005649,
+        "id" : 180118742,
         "name" : "Month-Year",
         "dataTypeName" : "text",
         "fieldName" : "month_year",
@@ -254,7 +254,7 @@
         "format" : {
         }
       }, {
-        "id" : 170005650,
+        "id" : 180118743,
         "name" : "Quarter-FY",
         "dataTypeName" : "text",
         "fieldName" : "quarter_fy",
@@ -320,7 +320,7 @@
         "format" : {
         }
       }, {
-        "id" : 170005651,
+        "id" : 180118744,
         "name" : "Annual-FY",
         "dataTypeName" : "text",
         "fieldName" : "annual_fy",
@@ -359,7 +359,7 @@
         "format" : {
         }
       }, {
-        "id" : 170005652,
+        "id" : 180118745,
         "name" : "# of visitors to branch libraries in millions (Annually FY)",
         "dataTypeName" : "number",
         "fieldName" : "of_visitors_to_branch_libraries_in_millions_annually_fy",
@@ -391,7 +391,7 @@
         "format" : {
         }
       }, {
-        "id" : 170005653,
+        "id" : 180118746,
         "name" : "PROJECTED: # of visitors to branch libraries (Annually FY)",
         "dataTypeName" : "number",
         "fieldName" : "projected_of_visitors_to_branch_libraries_annually_fy",
@@ -417,7 +417,7 @@
         "format" : {
         }
       }, {
-        "id" : 170005654,
+        "id" : 180118747,
         "name" : "# of visitors to the Central Library in millions (Annually FY)",
         "dataTypeName" : "number",
         "fieldName" : "of_visitors_to_the_central_library_in_millions_annually_fy",
@@ -446,7 +446,7 @@
         "format" : {
         }
       }, {
-        "id" : 170005655,
+        "id" : 180118748,
         "name" : "PROJECTED: # of visitors to the Central Library in millions (Annually FY)",
         "dataTypeName" : "number",
         "fieldName" : "projected_of_visitors_to_the_central_library_in_millions_annually_fy",
@@ -472,7 +472,7 @@
         "format" : {
         }
       }, {
-        "id" : 170005656,
+        "id" : 180118749,
         "name" : "Circulation of E-media (Monthly)",
         "dataTypeName" : "number",
         "fieldName" : "circulation_of_e_media_monthly",
@@ -481,12 +481,12 @@
         "tableColumnId" : 21117548,
         "width" : 50,
         "cachedContents" : {
-          "non_null" : 26,
+          "non_null" : 29,
           "smallest" : "123993",
-          "sum" : "4497866",
-          "null" : 14,
-          "average" : "172994.8461538462",
-          "largest" : "240236",
+          "sum" : "5214568",
+          "null" : 11,
+          "average" : "179812.6896551724",
+          "largest" : "292080",
           "top" : [ {
             "count" : 20,
             "item" : "159549"
@@ -552,7 +552,7 @@
         "format" : {
         }
       }, {
-        "id" : 170005657,
+        "id" : 180118750,
         "name" : "TARGET: Circulation of E-media (Monthly)",
         "dataTypeName" : "number",
         "fieldName" : "target_circulation_of_e_media_monthly",
@@ -568,7 +568,7 @@
         "format" : {
         }
       }, {
-        "id" : 170005658,
+        "id" : 180118751,
         "name" : "Library Circulation (Annually FY)",
         "dataTypeName" : "number",
         "fieldName" : "library_circulation_annually_fy",
@@ -606,7 +606,7 @@
         "format" : {
         }
       }, {
-        "id" : 170005659,
+        "id" : 180118752,
         "name" : "TARGET: Library Circulation (Annually FY)",
         "dataTypeName" : "number",
         "fieldName" : "target_library_circulation_annually_fy",
@@ -717,7 +717,7 @@
         "orderBys" : [ {
           "ascending" : true,
           "expression" : {
-            "columnId" : 170005648,
+            "columnId" : 180118741,
             "type" : "column"
           }
         } ]
@@ -725,7 +725,7 @@
       "rights" : [ "read" ],
       "sortBys" : [ {
         "id" : 0,
-        "viewColumnId" : 170005648,
+        "viewColumnId" : 180118741,
         "flags" : [ "asc" ]
       } ],
       "tableAuthor" : {
@@ -772,9 +772,9 @@
 , [ 28, "4DEE8BC2-E417-4991-9570-8B5675CA9CE1", 28, 1406832937, "865572", 1409249092, "882515", null, "2014-06-30T00:00:00", "Jun-14", "Q4 FY14", "FY 2014", "12.9", "12.8", "1.73", "1.77", "211622", null, "15086605", null ]
 , [ 29, "A1470FCA-7286-42DC-BE10-14BBF7FFDA11", 29, 1406832937, "865572", 1409011488, "865572", null, "2014-07-31T00:00:00", "Jul-14", null, null, null, null, null, null, "231678", null, null, null ]
 , [ 30, "E95D4F0D-0FE2-46FF-A731-6B7434741D38", 30, 1406832937, "865572", 1412644663, "865572", "{}", "2014-08-31T00:00:00", "Aug-14", null, null, null, null, null, null, "205864", null, null, null ]
-, [ 31, "45C06411-7C27-4FE1-B540-5197C5EB91BC", 31, 1406832937, "865572", 1412644659, "865572", null, "2014-09-30T00:00:00", "Sep-14", "Q1 FY15", null, null, null, null, null, null, null, null, null ]
-, [ 32, "C7513B80-F46B-469C-AB21-2FFE2738C29A", 32, 1406832937, "865572", 1406832937, "865572", "{\n}", "2014-10-31T00:00:00", "Oct-14", null, null, null, null, null, null, null, null, null, null ]
-, [ 33, "95726A6D-2671-4B65-97B5-D02BCB4B245D", 33, 1406832937, "865572", 1406832937, "865572", "{\n}", "2014-11-30T00:00:00", "Nov-14", null, null, null, null, null, null, null, null, null, null ]
+, [ 31, "45C06411-7C27-4FE1-B540-5197C5EB91BC", 31, 1406832937, "865572", 1418775884, "882515", null, "2014-09-30T00:00:00", "Sep-14", "Q1 FY15", null, null, null, null, null, "204958", null, null, null ]
+, [ 32, "C7513B80-F46B-469C-AB21-2FFE2738C29A", 32, 1406832937, "865572", 1418775889, "882515", null, "2014-10-31T00:00:00", "Oct-14", null, null, null, null, null, null, "219664", null, null, null ]
+, [ 33, "95726A6D-2671-4B65-97B5-D02BCB4B245D", 33, 1406832937, "865572", 1418775895, "882515", null, "2014-11-30T00:00:00", "Nov-14", null, null, null, null, null, null, "292080", null, null, null ]
 , [ 34, "CFF5F973-52ED-4664-8055-C3B86AEC5599", 34, 1406832937, "865572", 1406832937, "865572", "{\n}", "2014-12-31T00:00:00", "Dec-14", "Q2 FY15", null, null, null, null, null, null, null, null, null ]
 , [ 35, "8CAB2239-B6E0-4BCE-8109-FAD4C53DFA39", 35, 1406832937, "865572", 1406832937, "865572", "{\n}", "2015-01-31T00:00:00", "Jan-15", null, null, null, null, null, null, null, null, null, null ]
 , [ 36, "F8508FF0-FB7D-4683-A6D5-7769FBDD5308", 36, 1406832937, "865572", 1406832937, "865572", "{\n}", "2015-02-28T00:00:00", "Feb-15", null, null, null, null, null, null, null, null, null, null ]

@@ -1,0 +1,793 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "wwyy-9beb",
+      "name" : "Outstanding City Bonds",
+      "attribution" : "Controller",
+      "attributionLink" : "http://controller.lacity.org",
+      "averageRating" : 0,
+      "category" : "Liabilities and Assets",
+      "createdAt" : 1405397466,
+      "description" : "Current as of June 30, 2014. This dataset does not include the City's proprietary departments (Airports, Department of Water and Power, and Harbor).",
+      "displayType" : "table",
+      "downloadCount" : 10,
+      "indexUpdatedAt" : 1414613494,
+      "licenseId" : "PUBLIC_DOMAIN",
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8846728,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1410458864,
+      "publicationGroup" : 1649506,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1410459227,
+      "rowsUpdatedBy" : "7c7a-resi",
+      "state" : "normal",
+      "tableId" : 1715420,
+      "totalTimesRated" : 0,
+      "viewCount" : 110,
+      "viewLastModified" : 1412800516,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 166353110,
+        "name" : "Description",
+        "dataTypeName" : "text",
+        "fieldName" : "description",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20816845,
+        "width" : 249,
+        "cachedContents" : {
+          "non_null" : 72,
+          "smallest" : "2000-A MRCA LAWRYS PROJECT",
+          "null" : 0,
+          "largest" : "WASTEWATER SYSTEM, Sub 2013-A REF",
+          "top" : [ {
+            "count" : 20,
+            "item" : "SOLID WASTE RESOURCE 2009-B SERIES"
+          }, {
+            "count" : 19,
+            "item" : "MICLA 2008-A"
+          }, {
+            "count" : 18,
+            "item" : "MICLA 2010-D"
+          }, {
+            "count" : 17,
+            "item" : "SANITATION EQUIPMENT CHARGE 2005-A SERIES"
+          }, {
+            "count" : 16,
+            "item" : "GENERAL OBLIGATION BOND 2008-A"
+          }, {
+            "count" : 15,
+            "item" : "2000-A MRCA LAWRYS PROJECT"
+          }, {
+            "count" : 14,
+            "item" : "WASTEWATER SYSTEM, Sub 2012-C REF"
+          }, {
+            "count" : 13,
+            "item" : "MICLA 2009-A"
+          }, {
+            "count" : 12,
+            "item" : "WASTEWATER SYSTEM, 2002-A REF"
+          }, {
+            "count" : 11,
+            "item" : "MICLA 2007-B2"
+          }, {
+            "count" : 10,
+            "item" : "MICLA 2013-D"
+          }, {
+            "count" : 9,
+            "item" : "MICLA - 2006-A"
+          }, {
+            "count" : 8,
+            "item" : "CASCADES BUSINESS PARK & GOLF COURSE"
+          }, {
+            "count" : 7,
+            "item" : "MICLA AY Ref S, U, W, 2H, AA, 3H"
+          }, {
+            "count" : 6,
+            "item" : "WASTEWATER SYSTEM, 2010-A"
+          }, {
+            "count" : 5,
+            "item" : "MICLA - AS REF M"
+          }, {
+            "count" : 4,
+            "item" : "WASTEWATER SYSTEM, 2012-A REF"
+          }, {
+            "count" : 3,
+            "item" : "MICLA 2009-C"
+          }, {
+            "count" : 2,
+            "item" : "GENERAL OBLIGATION BOND, 2012-A"
+          }, {
+            "count" : 1,
+            "item" : "MICLA 2012-C"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 166353111,
+        "name" : "Issue Date",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "issue_date",
+        "position" : 2,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 20816846,
+        "width" : 102,
+        "cachedContents" : {
+          "non_null" : 72,
+          "smallest" : "1997-10-02T00:00:00",
+          "null" : 0,
+          "largest" : "2013-09-09T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2007-08-08T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2004-06-30T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2009-08-18T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2005-08-16T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2013-02-12T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2012-05-10T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2009-12-23T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2011-07-28T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2010-11-23T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2002-08-20T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2009-04-23T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2005-05-17T00:00:00"
+          }, {
+            "count" : 8,
+            "item" : "2010-10-21T00:00:00"
+          }, {
+            "count" : 7,
+            "item" : "2002-04-02T00:00:00"
+          }, {
+            "count" : 6,
+            "item" : "2012-05-24T00:00:00"
+          }, {
+            "count" : 5,
+            "item" : "2009-12-10T00:00:00"
+          }, {
+            "count" : 4,
+            "item" : "2012-05-02T00:00:00"
+          }, {
+            "count" : 3,
+            "item" : "2013-06-18T00:00:00"
+          }, {
+            "count" : 2,
+            "item" : "2012-04-26T00:00:00"
+          }, {
+            "count" : 1,
+            "item" : "2003-04-02T00:00:00"
+          } ]
+        },
+        "format" : {
+          "view" : "date",
+          "align" : "left"
+        }
+      }, {
+        "id" : 166353112,
+        "name" : "Maturity Date",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "maturity_date",
+        "position" : 3,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 20816847,
+        "width" : 105,
+        "cachedContents" : {
+          "non_null" : 72,
+          "smallest" : "2005-09-01T00:00:00",
+          "null" : 0,
+          "largest" : "2043-06-01T00:00:00",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2023-09-01T00:00:00"
+          }, {
+            "count" : 19,
+            "item" : "2020-06-01T00:00:00"
+          }, {
+            "count" : 18,
+            "item" : "2026-09-01T00:00:00"
+          }, {
+            "count" : 17,
+            "item" : "2035-06-01T00:00:00"
+          }, {
+            "count" : 16,
+            "item" : "2022-03-01T00:00:00"
+          }, {
+            "count" : 15,
+            "item" : "2031-09-01T00:00:00"
+          }, {
+            "count" : 14,
+            "item" : "2027-06-01T00:00:00"
+          }, {
+            "count" : 13,
+            "item" : "2019-04-01T00:00:00"
+          }, {
+            "count" : 12,
+            "item" : "2032-06-01T00:00:00"
+          }, {
+            "count" : 11,
+            "item" : "2020-08-01T00:00:00"
+          }, {
+            "count" : 10,
+            "item" : "2021-06-01T00:00:00"
+          }, {
+            "count" : 9,
+            "item" : "2037-01-01T00:00:00"
+          }, {
+            "count" : 8,
+            "item" : "2022-09-01T00:00:00"
+          }, {
+            "count" : 7,
+            "item" : "2014-12-01T00:00:00"
+          }, {
+            "count" : 6,
+            "item" : "2039-06-01T00:00:00"
+          }, {
+            "count" : 5,
+            "item" : "2022-10-01T00:00:00"
+          }, {
+            "count" : 4,
+            "item" : "2024-06-01T00:00:00"
+          }, {
+            "count" : 3,
+            "item" : "2019-09-01T00:00:00"
+          }, {
+            "count" : 2,
+            "item" : "2025-09-01T00:00:00"
+          }, {
+            "count" : 1,
+            "item" : "2032-03-01T00:00:00"
+          } ]
+        },
+        "format" : {
+          "view" : "date",
+          "align" : "left"
+        }
+      }, {
+        "id" : 166353113,
+        "name" : "Issue Amount",
+        "dataTypeName" : "money",
+        "fieldName" : "issue_amount",
+        "position" : 4,
+        "renderTypeName" : "money",
+        "tableColumnId" : 20816848,
+        "width" : 139,
+        "cachedContents" : {
+          "non_null" : 72,
+          "smallest" : "1305000",
+          "sum" : "7752878478.78",
+          "null" : 0,
+          "average" : "107678867.7608333",
+          "largest" : "454785000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "49485000"
+          }, {
+            "count" : 19,
+            "item" : "105090000"
+          }, {
+            "count" : 18,
+            "item" : "18705000"
+          }, {
+            "count" : 17,
+            "item" : "45750000"
+          }, {
+            "count" : 16,
+            "item" : "101000000"
+          }, {
+            "count" : 15,
+            "item" : "1305000"
+          }, {
+            "count" : 14,
+            "item" : "133715000"
+          }, {
+            "count" : 13,
+            "item" : "57930000"
+          }, {
+            "count" : 12,
+            "item" : "102850000"
+          }, {
+            "count" : 11,
+            "item" : "52085000"
+          }, {
+            "count" : 10,
+            "item" : "39795478.78"
+          }, {
+            "count" : 9,
+            "item" : "448595000"
+          }, {
+            "count" : 8,
+            "item" : "11750000"
+          }, {
+            "count" : 7,
+            "item" : "46395000"
+          }, {
+            "count" : 6,
+            "item" : "177420000"
+          }, {
+            "count" : 5,
+            "item" : "7655000"
+          }, {
+            "count" : 4,
+            "item" : "49650000"
+          }, {
+            "count" : 3,
+            "item" : "40095000"
+          }, {
+            "count" : 2,
+            "item" : "225850000"
+          }, {
+            "count" : 1,
+            "item" : "109730000"
+          } ]
+        },
+        "format" : {
+          "aggregate" : "sum",
+          "humane" : "false",
+          "currency" : "USD",
+          "align" : "right"
+        }
+      }, {
+        "id" : 166353114,
+        "name" : "Interest Rate",
+        "dataTypeName" : "text",
+        "fieldName" : "interest_rate",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 20816849,
+        "width" : 139,
+        "cachedContents" : {
+          "non_null" : 70,
+          "smallest" : "1.000%-5.000%",
+          "null" : 2,
+          "largest" : "Variable Rates",
+          "top" : [ {
+            "count" : 20,
+            "item" : "4.000%-5.000%"
+          }, {
+            "count" : 19,
+            "item" : "3.000%-5.000%"
+          }, {
+            "count" : 18,
+            "item" : "2.000%-5.000%"
+          }, {
+            "count" : 17,
+            "item" : "3.750%-5.000%"
+          }, {
+            "count" : 16,
+            "item" : "5.000%-5.000%"
+          }, {
+            "count" : 15,
+            "item" : "5.00%"
+          }, {
+            "count" : 14,
+            "item" : "5.81%"
+          }, {
+            "count" : 13,
+            "item" : "4.625%-6.000%"
+          }, {
+            "count" : 12,
+            "item" : "3.000%-5.250%"
+          }, {
+            "count" : 11,
+            "item" : "4.700%-5.650%"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 166353115,
+        "name" : "Outstanding Principal",
+        "dataTypeName" : "money",
+        "fieldName" : "outstanding_principal",
+        "position" : 6,
+        "renderTypeName" : "money",
+        "tableColumnId" : 20816850,
+        "width" : 165,
+        "cachedContents" : {
+          "non_null" : 72,
+          "smallest" : "45000",
+          "sum" : "5583708886.58",
+          "null" : 0,
+          "average" : "77551512.31361111",
+          "largest" : "407655000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "28755000"
+          }, {
+            "count" : 19,
+            "item" : "83365000"
+          }, {
+            "count" : 18,
+            "item" : "5575000"
+          }, {
+            "count" : 17,
+            "item" : "25520000"
+          }, {
+            "count" : 16,
+            "item" : "75750000"
+          }, {
+            "count" : 15,
+            "item" : "300000"
+          }, {
+            "count" : 14,
+            "item" : "131100000"
+          }, {
+            "count" : 13,
+            "item" : "31690000"
+          }, {
+            "count" : 12,
+            "item" : "37110000"
+          }, {
+            "count" : 11,
+            "item" : "30745000"
+          }, {
+            "count" : 10,
+            "item" : "34672886.58"
+          }, {
+            "count" : 9,
+            "item" : "407655000"
+          }, {
+            "count" : 8,
+            "item" : "6590000"
+          }, {
+            "count" : 7,
+            "item" : "45000"
+          }, {
+            "count" : 6,
+            "item" : "177420000"
+          }, {
+            "count" : 5,
+            "item" : "3275000"
+          }, {
+            "count" : 4,
+            "item" : "49650000"
+          }, {
+            "count" : 3,
+            "item" : "25675000"
+          }, {
+            "count" : 2,
+            "item" : "225850000"
+          }, {
+            "count" : 1,
+            "item" : "98135000"
+          } ]
+        },
+        "format" : {
+          "aggregate" : "sum",
+          "humane" : "false",
+          "currency" : "USD",
+          "align" : "right"
+        }
+      }, {
+        "id" : 166353116,
+        "name" : "Outstanding Interest",
+        "dataTypeName" : "money",
+        "fieldName" : "outstanding_interest",
+        "position" : 7,
+        "renderTypeName" : "money",
+        "tableColumnId" : 20816851,
+        "width" : 156,
+        "cachedContents" : {
+          "non_null" : 72,
+          "smallest" : "787.5",
+          "sum" : "2949759054.39",
+          "null" : 0,
+          "average" : "40968875.75541667",
+          "largest" : "255472862",
+          "top" : [ {
+            "count" : 20,
+            "item" : "4623375"
+          }, {
+            "count" : 19,
+            "item" : "29078777.5"
+          }, {
+            "count" : 18,
+            "item" : "253375"
+          }, {
+            "count" : 17,
+            "item" : "4398250"
+          }, {
+            "count" : 16,
+            "item" : "24745000"
+          }, {
+            "count" : 15,
+            "item" : "24169.8"
+          }, {
+            "count" : 14,
+            "item" : "57007750"
+          }, {
+            "count" : 13,
+            "item" : "4903012.5"
+          }, {
+            "count" : 12,
+            "item" : "15679200"
+          }, {
+            "count" : 11,
+            "item" : "5803213"
+          }, {
+            "count" : 10,
+            "item" : "3205444.1"
+          }, {
+            "count" : 9,
+            "item" : "255472862"
+          }, {
+            "count" : 8,
+            "item" : "2070720"
+          }, {
+            "count" : 7,
+            "item" : "787.5"
+          }, {
+            "count" : 6,
+            "item" : "235968609.42"
+          }, {
+            "count" : 5,
+            "item" : "636839"
+          }, {
+            "count" : 4,
+            "item" : "24825000"
+          }, {
+            "count" : 3,
+            "item" : "3521775"
+          }, {
+            "count" : 2,
+            "item" : "69160100"
+          }, {
+            "count" : 1,
+            "item" : "38979878"
+          } ]
+        },
+        "format" : {
+          "aggregate" : "sum",
+          "humane" : "false",
+          "currency" : "USD",
+          "align" : "right"
+        }
+      }, {
+        "id" : 166353117,
+        "name" : "Type",
+        "dataTypeName" : "text",
+        "fieldName" : "type",
+        "position" : 8,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21930961,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 72,
+          "smallest" : "City Bond Obligations",
+          "null" : 0,
+          "largest" : "City Bond Obligations",
+          "top" : [ {
+            "count" : 20,
+            "item" : "City Bond Obligations"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Public Domain"
+      },
+      "metadata" : {
+        "custom_fields" : {
+          "Department" : {
+            "Division" : "GAAP",
+            "Department" : "Controller",
+            "System" : "CAFR"
+          },
+          "Update Information" : {
+            "Update Cycle" : "Annual"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "7c7a-resi",
+        "displayName" : "Controller's Office",
+        "profileImageUrlLarge" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_tiny.jpg",
+        "roleName" : "administrator",
+        "screenName" : "Controller's Office",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "7c7a-resi",
+        "displayName" : "Controller's Office",
+        "profileImageUrlLarge" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/0925/4461/CONTROLLER_CITY_SEAL_large_tiny.jpg",
+        "roleName" : "administrator",
+        "screenName" : "Controller's Office",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "tags" : [ "bonds", "debt" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 74, "F47CF705-93E1-4014-B16E-AD7CDD055745", 74, 1410459226, "862121", 1410459226, "862121", null, "MICLA 2007-A", "2007-08-08T00:00:00", "2014-08-01T00:00:00", "106900000", "3.625%-5.000%", "17435000", "399368.75", "City Bond Obligations" ]
+, [ 75, "CE9F4EC3-F44F-4432-86B7-9F86C54FD0BA", 75, 1410459226, "862121", 1410459226, "862121", null, "2004-A MIDTOWN", "2004-06-30T00:00:00", "2024-08-01T00:00:00", "7000000", null, "6486000", "3002357.3", "City Bond Obligations" ]
+, [ 76, "968624DD-7050-4B21-9FF2-6B4D566D05AC", 76, 1410459226, "862121", 1410459226, "862121", null, "GENERAL OBLIGATION BOND, 2009-A", "2009-08-18T00:00:00", "2023-09-01T00:00:00", "123550000", "1.500%-4.000%", "88250000", "16690281.25", "City Bond Obligations" ]
+, [ 77, "29AB8ACD-4BE8-455E-81FB-6DD375C73679", 77, 1410459226, "862121", 1410459226, "862121", null, "MICLA - AW", "2003-06-17T00:00:00", "2033-06-01T00:00:00", "36220000", "2.000%-4.250%", "27335000", "14982850", "City Bond Obligations" ]
+, [ 78, "CD0FE0D0-556D-4547-B6F1-1812BEC36F36", 78, 1410459226, "862121", 1410459226, "862121", null, "JUDGEMENT OBLIGATION BOND, 2010-A", "2010-06-29T00:00:00", "2020-06-01T00:00:00", "50875000", "4.000%-5.000%", "33310000", "5649250", "City Bond Obligations" ]
+, [ 79, "9B1E4409-5069-4114-8BD9-D347343678A0", 79, 1410459226, "862121", 1410459226, "862121", null, "GENERAL OBLIGATION BOND 2006-A", "2006-08-30T00:00:00", "2026-09-01T00:00:00", "71023000", "4%-5%", "45630000", "13853531.25", "City Bond Obligations" ]
+, [ 80, "AC14A0CD-3B66-4101-B98C-54EECFD9F666", 80, 1410459226, "862121", 1410459226, "862121", null, "GENERAL OBLIGATION BOND, 2009-B", "2009-08-18T00:00:00", "2029-09-01T00:00:00", "52950000", "5.500%-5.650%", "52950000", "38435081.25", "City Bond Obligations" ]
+, [ 81, "39A8BF0A-E64B-4F3D-BC65-DE438B255DEE", 81, 1410459226, "862121", 1410459226, "862121", null, "WASTEWATER SYSTEM, 2009-A REF", "2009-03-26T00:00:00", "2039-06-01T00:00:00", "454785000", "1.60%-5.75%", "365720000", "251592518.84", "City Bond Obligations" ]
+, [ 82, "15D22DB5-DA56-4409-A8F2-32790B047DFA", 82, 1410459226, "862121", 1410459226, "862121", null, "GENERAL OBLIGATION BOND 2005-B REF", "2005-08-16T00:00:00", "2020-09-01T00:00:00", "73080000", "3.000%-5.000%", "72275000", "9965625", "City Bond Obligations" ]
+, [ 83, "53B97896-BCF7-4687-A503-7ECAF04D2DD0", 83, 1410459226, "862121", 1410459226, "862121", null, "MICLA - AT REF O", "2002-04-30T00:00:00", "2020-06-01T00:00:00", "30305000", "3.000%-5.500%", "28520000", "6406135", "City Bond Obligations" ]
+, [ 84, "BBE7A100-234C-4267-A24E-72C70879DE1D", 84, 1410459226, "862121", 1410459226, "862121", null, "SOLID WASTE RESOURCE Refunding 2013-B", "2013-02-12T00:00:00", "2029-02-01T00:00:00", "78780000", "2.000%-5.000%", "66600000", "10746962.5", "City Bond Obligations" ]
+, [ 85, "787725D3-27BF-4F22-A9DB-65179EFE4375", 85, 1410459226, "862121", 1410459226, "862121", null, "SOLID WASTE RESOURCE 2013-A", "2013-02-12T00:00:00", "2027-02-01T00:00:00", "73665000", "2.000%-5.000%", "67665000", "16495900", "City Bond Obligations" ]
+, [ 86, "221335E7-F634-4612-9E9C-F65C77B3FAEE", 86, 1410459226, "862121", 1410459226, "862121", null, "MICLA 2011-A", "2011-10-26T00:00:00", "2028-10-01T00:00:00", "11920000", "4.26%", "9990000", "3338552.34", "City Bond Obligations" ]
+, [ 87, "9DFB0A0D-B034-4D9D-B8AE-D294594843F3", 87, 1410459226, "862121", 1410459226, "862121", null, "WASTEWATER SYSTEM, Sub 2013-A REF", "2013-05-23T00:00:00", "2035-06-01T00:00:00", "349505000", "2.000%-5.000%", "336720000", "215363200", "City Bond Obligations" ]
+, [ 88, "E6E66355-8DDB-4C53-86A8-7FED76356D8F", 88, 1410459226, "862121", 1410459226, "862121", null, "CONVENTION CENTER 1998 SERIES A", "1998-04-14T00:00:00", "2024-08-15T00:00:00", "45580000", "6.500%-7.125%", "29125000", "12782809.46", "City Bond Obligations" ]
+, [ 89, "534621D1-09A4-47D0-92FD-A97D058C95A1", 89, 1410459226, "862121", 1410459226, "862121", null, "MICLA 2012-A", "2012-05-10T00:00:00", "2022-03-01T00:00:00", "92635000", "4.000%-5.000%", "80625000", "18998550", "City Bond Obligations" ]
+, [ 90, "C88073BA-B4C7-4ED6-8C63-06832DC3CD5E", 90, 1410459226, "862121", 1410459226, "862121", null, "MICLA 2009-D", "2009-12-10T00:00:00", "2039-09-01T00:00:00", "21300000", "6.490%-7.757%", "19695000", "23280967.73", "City Bond Obligations" ]
+, [ 91, "BC19BBFA-0CF2-41AE-9FEA-72479D72D2E4", 91, 1410459226, "862121", 1410459226, "862121", null, "LANDSCAPING & LIGHTING 2002 SERIES", "2002-07-11T00:00:00", "2022-03-01T00:00:00", "19630000", "3.750%-5.000%", "9825000", "2301280", "City Bond Obligations" ]
+, [ 92, "72012AAA-9BB7-4ADE-B257-EFB601E1D7BD", 92, 1410459226, "862121", 1410459226, "862121", null, "2004-A MIDTOWN & CHESTERFIELD", "2004-06-30T00:00:00", "2016-08-01T00:00:00", "4700000", null, "1110000", "69635", "City Bond Obligations" ]
+, [ 93, "BF00EA73-8EB7-425B-B577-A3A8E7996F04", 93, 1410459226, "862121", 1410459226, "862121", null, "MICLA 2007-B1", "2007-08-08T00:00:00", "2037-08-01T00:00:00", "169050000", "5.000%-5.000%", "162550000", "127972012.5", "City Bond Obligations" ]
+, [ 94, "E1CD1818-524F-4633-8906-D51CBC752559", 94, 1410459226, "862121", 1410459226, "862121", null, "SOLID WASTE RESOURCE 2009-A SERIES", "2009-12-23T00:00:00", "2022-02-01T00:00:00", "65020000", "2.000%-5.000%", "50335000", "11830800", "City Bond Obligations" ]
+, [ 95, "95D30CC1-A891-4419-B704-B01B6B8701BB", 95, 1410459226, "862121", 1410459226, "862121", null, "GENERAL OBLIGATION BOND 1998-A REF", "1998-09-01T00:00:00", "2015-09-01T00:00:00", "119990000", "4.000%-5.250%", "21440000", "1120612.5", "City Bond Obligations" ]
+, [ 96, "07236D86-84F2-4893-8B0D-A92D35CBB778", 96, 1410459226, "862121", 1410459226, "862121", null, "WASTEWATER SYSTEM, 2005-A REF", "2005-12-13T00:00:00", "2035-06-01T00:00:00", "300655000", "4.000%-5.000%", "52455000", "44650125", "City Bond Obligations" ]
+, [ 97, "43CE9799-9148-403F-938E-570EE122CC6B", 97, 1410459226, "862121", 1410459226, "862121", null, "GENERAL OBLIGATION BOND, 2011-B", "2011-07-28T00:00:00", "2023-09-01T00:00:00", "259660000", "2.000% - 5.000%", "253250000", "62555300", "City Bond Obligations" ]
+, [ 98, "C98A90A3-5B3E-4D95-A03F-57D0B7890A3B", 98, 1410459226, "862121", 1410459226, "862121", null, "MICLA - AK", "1999-05-10T00:00:00", "2029-04-01T00:00:00", "43210000", "5.800%-7.250%", "32370000", "21778922.5", "City Bond Obligations" ]
+, [ 99, "99A5A86E-4E20-423F-A39D-4A083528CA4A", 99, 1410459226, "862121", 1410459226, "862121", null, "SOLID WASTE RESOURCE 2006-A SERIES", "2006-09-26T00:00:00", "2024-02-01T00:00:00", "58370000", "3.750%~4.500%", "44770000", "11074793.82", "City Bond Obligations" ]
+, [ 100, "B2802A28-21C9-4650-AA2D-558E81E79906", 100, 1410459227, "862121", 1410459227, "862121", null, "WASTEWATER SYSTEM, Sub 2012-D REF", "2012-12-18T00:00:00", "2032-06-01T00:00:00", "280860000", "Variable Rates", "280860000", "179099835.72", "City Bond Obligations" ]
+, [ 101, "18D66C47-0FC4-40F2-894D-B6F73BEE72C9", 101, 1410459227, "862121", 1410459227, "862121", null, "MICLA 2010-C", "2010-11-23T00:00:00", "2040-11-01T00:00:00", "18170000", "1.647%-7.842%", "17495000", "24034223.13", "City Bond Obligations" ]
+, [ 102, "0B232287-F9BA-4FBF-A12F-7454507B1442", 102, 1410459227, "862121", 1410459227, "862121", null, "MICLA 2012-B", "2012-05-10T00:00:00", "2042-03-01T00:00:00", "33975000", "4.000%-5.000%", "32485000", "26040820", "City Bond Obligations" ]
+, [ 103, "6F842BFD-AEFB-4641-B853-288FBB25C60F", 103, 1410459227, "862121", 1410459227, "862121", null, "PLAYA VISTA - PHASE I", "2003-04-03T00:00:00", "2031-09-01T00:00:00", "135000000", "2.000%-4.750%", "119100000", "60908348", "City Bond Obligations" ]
+, [ 104, "5A6A5A8E-E717-4732-B166-36818261C99D", 104, 1410459227, "862121", 1410459227, "862121", null, "JUDGEMENT OBLIGATION BOND, 2009-A", "2009-06-30T00:00:00", "2019-06-01T00:00:00", "20600000", "2.00%-5.00%", "11265000", "1417175", "City Bond Obligations" ]
+, [ 105, "1BE7EB66-2C55-48CC-8CB9-E204F7D696E8", 105, 1410459227, "862121", 1410459227, "862121", null, "GENERAL OBLIGATION BOND 2002-B REF", "2002-08-20T00:00:00", "2014-09-01T00:00:00", "79055000", "2.000%-5.000%", "7430000", "185750", "City Bond Obligations" ]
+, [ 106, "3C4F17CD-FAC9-46C5-9456-03F7EAA58410", 106, 1410459227, "862121", 1410459227, "862121", null, "GENERAL OBLIGATION BOND 2005-A", "2005-08-16T00:00:00", "2005-09-01T00:00:00", "126800000", "3.000%-5.000%", "12680000", "507200", "City Bond Obligations" ]
+, [ 107, "E2612C40-4436-4620-83BE-D8C7F487DBDD", 107, 1410459227, "862121", 1410459227, "862121", null, "GENERAL OBLIGATION BOND 2002-A", "2002-08-20T00:00:00", "2022-09-01T00:00:00", "262200000", "2.500%-5.250%", "13110000", "344138", "City Bond Obligations" ]
+, [ 108, "CB55C7EC-CF75-4E62-B5CD-65F5537C9751", 108, 1410459227, "862121", 1410459227, "862121", null, "MICLA 2010-B", "2010-11-23T00:00:00", "2020-11-01T00:00:00", "49315000", "1.647%-6.165%", "36575000", "7633742.03", "City Bond Obligations" ]
+, [ 109, "C4479595-46F2-4806-9A3B-C9B019A7E72F", 109, 1410459227, "862121", 1410459227, "862121", null, "MICLA 2009-B", "2009-04-23T00:00:00", "2039-04-01T00:00:00", "52065000", "3.00%-5.50%", "47325000", "39968262.5", "City Bond Obligations" ]
+, [ 110, "74C03348-C0A5-446C-BD11-605EE8DEDFAC", 110, 1410459227, "862121", 1410459227, "862121", null, "GENERAL OBLIGATION BOND, 2011-A", "2011-07-28T00:00:00", "2031-09-01T00:00:00", "117000000", "1.500% - 5.000%", "105300000", "46010250", "City Bond Obligations" ]
+, [ 111, "BEAC8FC9-99E9-4E58-882A-F36502F5A9AB", 111, 1410459227, "862121", 1410459227, "862121", null, "WASTEWATER SYSTEM, Sub 2012-B REF", "2012-05-30T00:00:00", "2024-06-01T00:00:00", "253880000", "2.000%-5.000%", "252510000", "154144975", "City Bond Obligations" ]
+, [ 112, "95A83CE7-02C1-4D49-ABDB-71B2C218AE51", 112, 1410459227, "862121", 1410459227, "862121", null, "LANDSCAPING & LIGHTING 2001 SERIES", "2001-04-10T00:00:00", "2021-03-01T00:00:00", "10305000", "4.000%-7.000%", "4660000", "948040", "City Bond Obligations" ]
+, [ 113, "0A3490DA-CB98-4E84-998E-EDC411AF88D4", 113, 1410459227, "862121", 1410459227, "862121", null, "GENERAL OBLIGATION BOND 2004-A", "2004-08-10T00:00:00", "2024-09-01T00:00:00", "360540000", "3.000%-5.000%", "18025000", "450625", "City Bond Obligations" ]
+, [ 114, "0C815A55-6F06-46ED-A8B4-4B18DE5F648E", 114, 1410459227, "862121", 1410459227, "862121", null, "CONVENTION CENTER 2008-A REF", "2008-10-15T00:00:00", "2022-08-15T00:00:00", "253060000", "4.250%-5.125%", "253060000", "67078446.95", "City Bond Obligations" ]
+, [ 115, "783DE2F2-6953-45B0-AB32-AD18ED373E12", 115, 1410459227, "862121", 1410459227, "862121", null, "SOLID WASTE RESOURCE 2009-B SERIES", "2009-12-23T00:00:00", "2020-02-01T00:00:00", "49485000", "2.000%-5.000%", "28755000", "4623375", "City Bond Obligations" ]
+, [ 116, "8BE1A0ED-6F9B-4587-A3BB-E90A159E2787", 116, 1410459227, "862121", 1410459227, "862121", null, "MICLA 2008-A", "2008-08-28T00:00:00", "2026-09-01T00:00:00", "105090000", "3.500%-5.000%", "83365000", "29078777.5", "City Bond Obligations" ]
+, [ 117, "29CE7328-A665-40C9-92EA-763FB8104A75", 117, 1410459227, "862121", 1410459227, "862121", null, "MICLA 2010-D", "2010-11-23T00:00:00", "2015-11-01T00:00:00", "18705000", "3.000%-5.000%", "5575000", "253375", "City Bond Obligations" ]
+, [ 118, "AC0D1D35-D4A2-457C-A304-EA6BEF76D9AB", 118, 1410459227, "862121", 1410459227, "862121", null, "SANITATION EQUIPMENT CHARGE 2005-A SERIES", "2005-07-07T00:00:00", "2019-02-01T00:00:00", "45750000", "5.000%-5.000%", "25520000", "4398250", "City Bond Obligations" ]
+, [ 119, "550BD50A-6680-4974-9A0E-95516B4BEDF9", 119, 1410459227, "862121", 1410459227, "862121", null, "GENERAL OBLIGATION BOND 2008-A", "2008-08-20T00:00:00", "2028-09-01T00:00:00", "101000000", "3.750%-5.000%", "75750000", "24745000", "City Bond Obligations" ]
+, [ 120, "C059766D-B3D9-4C97-BE32-9111C3D65072", 120, 1410459227, "862121", 1410459227, "862121", null, "2000-A MRCA LAWRYS PROJECT", "2000-06-14T00:00:00", "2015-08-01T00:00:00", "1305000", "5.50%", "300000", "24169.8", "City Bond Obligations" ]
+, [ 121, "1292CC21-E36E-4932-9923-B54ED4945DFA", 121, 1410459227, "862121", 1410459227, "862121", null, "WASTEWATER SYSTEM, Sub 2012-C REF", "2012-05-24T00:00:00", "2027-06-01T00:00:00", "133715000", "4.000%-5.000%", "131100000", "57007750", "City Bond Obligations" ]
+, [ 122, "3A323632-F3C0-4A3B-9876-1AA232FFA932", 122, 1410459227, "862121", 1410459227, "862121", null, "MICLA 2009-A", "2009-04-23T00:00:00", "2019-04-01T00:00:00", "57930000", "3.00%-5.25%", "31690000", "4903012.5", "City Bond Obligations" ]
+, [ 123, "B04F8AD2-AF77-47E0-811A-628D2476DE3E", 123, 1410459227, "862121", 1410459227, "862121", null, "WASTEWATER SYSTEM, 2002-A REF", "2002-05-01T00:00:00", "2032-06-01T00:00:00", "102850000", "4.000%-6.000%", "37110000", "15679200", "City Bond Obligations" ]
+, [ 124, "000AC2F9-0C33-47DA-8478-C5B65B835F43", 124, 1410459227, "862121", 1410459227, "862121", null, "MICLA 2007-B2", "2007-08-08T00:00:00", "2020-08-01T00:00:00", "52085000", "5.080%-5.710%", "30745000", "5803213", "City Bond Obligations" ]
+, [ 125, "3911B344-47A7-4C4F-96D3-9CC64B7B2F8D", 125, 1410459227, "862121", 1410459227, "862121", null, "MICLA 2013-D", "2013-09-09T00:00:00", "2021-06-01T00:00:00", "39795478.78", "2.79%", "34672886.58", "3205444.1", "City Bond Obligations" ]
+, [ 126, "6D116A56-DC94-4748-8A2B-C8A856703586", 126, 1410459227, "862121", 1410459227, "862121", null, "MICLA - 2006-A", "2006-12-14T00:00:00", "2037-01-01T00:00:00", "448595000", "3.000%~5.000%", "407655000", "255472862", "City Bond Obligations" ]
+, [ 127, "ED2FFB46-CD46-41B6-9C1E-E6173FF02852", 127, 1410459227, "862121", 1410459227, "862121", null, "CASCADES BUSINESS PARK & GOLF COURSE", "1997-10-02T00:00:00", "2022-09-01T00:00:00", "11750000", "4.500%-6.200%", "6590000", "2070720", "City Bond Obligations" ]
+, [ 128, "AF686B04-A9F1-42E1-97F3-77DBE6F2F53F", 128, 1410459227, "862121", 1410459227, "862121", null, "MICLA AY Ref S, U, W, 2H, AA, 3H", "2005-05-17T00:00:00", "2014-12-01T00:00:00", "46395000", "2.750%-5.000%", "45000", "787.5", "City Bond Obligations" ]
+, [ 129, "FAA225AB-DEFC-4117-A892-3C1A378F0A0C", 129, 1410459227, "862121", 1410459227, "862121", null, "WASTEWATER SYSTEM, 2010-A", "2010-10-21T00:00:00", "2039-06-01T00:00:00", "177420000", "5.71%", "177420000", "235968609.42", "City Bond Obligations" ]
+, [ 130, "2D9DCDAE-3002-48ED-9534-5F9854B9E8E9", 130, 1410459227, "862121", 1410459227, "862121", null, "MICLA - AS REF M", "2002-04-02T00:00:00", "2022-10-01T00:00:00", "7655000", "3.000%-5.000%", "3275000", "636839", "City Bond Obligations" ]
+, [ 131, "7CD8DCC4-8F69-4630-9FA5-DF58AEBF1979", 131, 1410459227, "862121", 1410459227, "862121", null, "WASTEWATER SYSTEM, 2012-A REF", "2012-05-24T00:00:00", "2024-06-01T00:00:00", "49650000", "5.00%", "49650000", "24825000", "City Bond Obligations" ]
+, [ 132, "A567FE13-F2FD-4BA1-A46D-5A4BA11929A5", 132, 1410459227, "862121", 1410459227, "862121", null, "MICLA 2009-C", "2009-12-10T00:00:00", "2019-09-01T00:00:00", "40095000", "2.000%-5.000%", "25675000", "3521775", "City Bond Obligations" ]
+, [ 133, "05ECF131-AAFF-4B5A-AD42-6F60C4367DFD", 133, 1410459227, "862121", 1410459227, "862121", null, "GENERAL OBLIGATION BOND, 2012-A", "2012-05-02T00:00:00", "2025-09-01T00:00:00", "225850000", "3.000%-5.000%", "225850000", "69160100", "City Bond Obligations" ]
+, [ 134, "37E2C5BE-983B-48A1-81AF-1BA82DC15627", 134, 1410459227, "862121", 1410459227, "862121", null, "MICLA 2012-C", "2012-05-10T00:00:00", "2032-03-01T00:00:00", "109730000", "4.000%-5.000%", "98135000", "38979878", "City Bond Obligations" ]
+, [ 135, "E8212F77-D1DF-45E2-8FC8-2F49121B33F0", 135, 1410459227, "862121", 1410459227, "862121", null, "MICLA 2010-A", "2010-11-23T00:00:00", "2020-11-01T00:00:00", "30355000", "3.000%-5.000%", "22415000", "3822925", "City Bond Obligations" ]
+, [ 136, "7E169DEB-C8DF-416C-9CDF-D4E345A9A8E2", 136, 1410459227, "862121", 1410459227, "862121", null, "WASTEWATER SYSTEM, 2013-A", "2013-06-18T00:00:00", "2043-06-01T00:00:00", "149980000", "5.00%", "149980000", "207320000", "City Bond Obligations" ]
+, [ 137, "BB4FFE68-BF72-4557-B61A-BADE44E34759", 137, 1410459227, "862121", 1410459227, "862121", null, "WASTEWATER SYSTEM, Sub 2012-A REF", "2012-04-26T00:00:00", "2024-06-01T00:00:00", "157055000", "1.000%-5.000%", "153850000", "38149231.32", "City Bond Obligations" ]
+, [ 138, "B5781C18-3455-41FD-B37F-6F0C5FE9884F", 138, 1410459227, "862121", 1410459227, "862121", null, "WASTEWATER SYSTEM, 2010-B", "2010-10-21T00:00:00", "2040-06-01T00:00:00", "89600000", "5.81%", "89600000", "133538270.56", "City Bond Obligations" ]
+, [ 139, "7353909D-218B-485D-BCE4-E9A6DFA58B78", 139, 1410459227, "862121", 1410459227, "862121", null, "WASTEWATER SYSTEM, SUB 2010-A", "2010-10-21T00:00:00", "2032-06-01T00:00:00", "199790000", "2.000%-5.000%", "195740000", "83604950", "City Bond Obligations" ]
+, [ 140, "524A14BA-D4ED-47AB-8FC9-ABF004CD75B1", 140, 1410459227, "862121", 1410459227, "862121", null, "MICLA 2009-E", "2009-12-10T00:00:00", "2039-09-01T00:00:00", "56665000", "4.625%-6.000%", "53160000", "48844200.08", "City Bond Obligations" ]
+, [ 141, "4B419FDD-BFBE-49D2-B4C7-796E9B0F401B", 141, 1410459227, "862121", 1410459227, "862121", null, "WASTEWATER SYSTEM, 2013-B REF", "2013-06-18T00:00:00", "2035-06-01T00:00:00", "143880000", "2.000%-5.000%", "134815000", "67206300", "City Bond Obligations" ]
+, [ 142, "6F46A6C3-A41C-419E-AC0A-8922140685BC", 142, 1410459227, "862121", 1410459227, "862121", null, "MICLA - AV REF R", "2003-04-02T00:00:00", "2015-06-01T00:00:00", "43330000", "3.000%-5.250%", "4610000", "242025", "City Bond Obligations" ]
+, [ 143, "2C9E2A57-DB86-4AE2-BA36-EFA33340FA6F", 143, 1410459227, "862121", 1410459227, "862121", null, "CONVENTION CENTER 2003- A REF", "2003-06-04T00:00:00", "2015-08-15T00:00:00", "226045000", "2.000%-5.000%", "68815000", "2560318.75", "City Bond Obligations" ]
+, [ 144, "3A5A9929-8C04-4981-ABF5-7F12F8188347", 144, 1410459227, "862121", 1410459227, "862121", null, "MICLA 2008-B", "2008-08-28T00:00:00", "2038-09-01T00:00:00", "43790000", "3.000%-5.000%", "39835000", "29248345", "City Bond Obligations" ]
+, [ 145, "55A6CA08-7689-411A-8D90-86A42CD10AC8", 145, 1410459227, "862121", 1410459227, "862121", null, "LANDSCAPING & LIGHTING 2000 SERIES", "2000-03-29T00:00:00", "2020-09-01T00:00:00", "14355000", "4.700%-5.650%", "3695000", "755097.54", "City Bond Obligations" ]
+ ]
+}

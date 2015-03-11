@@ -9,7 +9,7 @@
       "createdAt" : 1400697407,
       "description" : "Locations of offices associated with the Los Angeles Housing and Community Investment Department which provide services to city residents.",
       "displayType" : "table",
-      "downloadCount" : 16,
+      "downloadCount" : 42,
       "indexUpdatedAt" : 1414613836,
       "newBackend" : false,
       "numberOfComments" : 0,
@@ -22,7 +22,7 @@
       "rowsUpdatedBy" : "ikc2-ace3",
       "tableId" : 1591909,
       "totalTimesRated" : 0,
-      "viewCount" : 139,
+      "viewCount" : 173,
       "viewLastModified" : 1401468032,
       "viewType" : "tabular",
       "columns" : [ {

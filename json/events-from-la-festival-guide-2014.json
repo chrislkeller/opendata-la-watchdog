@@ -10,7 +10,7 @@
       "createdAt" : 1410300085,
       "description" : "The LA Festival Guide is a calendar of festival events published by City of Los Angeles Department of Cultural Affairs. This dataset is extracted from the Festival Guide Website [http://lafestivalguide.org/]",
       "displayType" : "table",
-      "downloadCount" : 11,
+      "downloadCount" : 39,
       "indexUpdatedAt" : 1414614332,
       "licenseId" : "CC_30_BY",
       "newBackend" : false,
@@ -25,7 +25,7 @@
       "rowsUpdatedBy" : "93kv-3i4e",
       "tableId" : 1713027,
       "totalTimesRated" : 0,
-      "viewCount" : 127,
+      "viewCount" : 213,
       "viewLastModified" : 1410375756,
       "viewType" : "tabular",
       "columns" : [ {

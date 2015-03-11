@@ -10,7 +10,7 @@
       "createdAt" : 1414794806,
       "description" : "Google Analytics data for LACity.org for Pages 20140901-20140930",
       "displayType" : "table",
-      "downloadCount" : 2,
+      "downloadCount" : 16,
       "indexUpdatedAt" : 1415038875,
       "licenseId" : "PUBLIC_DOMAIN",
       "newBackend" : false,
@@ -24,7 +24,7 @@
       "rowsUpdatedBy" : "7t2j-pb28",
       "tableId" : 1847105,
       "totalTimesRated" : 0,
-      "viewCount" : 38,
+      "viewCount" : 123,
       "viewLastModified" : 1415038773,
       "viewType" : "tabular",
       "columns" : [ {
@@ -740,9 +740,9 @@
       "owner" : {
         "id" : "7t2j-pb28",
         "displayName" : "Abhi Nemani",
-        "profileImageUrlLarge" : "/images/profile/5853/8870/headshot_large.jpg",
-        "profileImageUrlMedium" : "/images/profile/5853/8870/headshot_thumb.jpg",
-        "profileImageUrlSmall" : "/images/profile/5853/8870/headshot_tiny.jpg",
+        "profileImageUrlLarge" : "/images/profile/5853/8870/22a_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5853/8870/22a_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5853/8870/22a_tiny.jpg",
         "roleName" : "administrator",
         "screenName" : "Abhi Nemani",
         "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
@@ -753,9 +753,9 @@
       "tableAuthor" : {
         "id" : "7t2j-pb28",
         "displayName" : "Abhi Nemani",
-        "profileImageUrlLarge" : "/images/profile/5853/8870/headshot_large.jpg",
-        "profileImageUrlMedium" : "/images/profile/5853/8870/headshot_thumb.jpg",
-        "profileImageUrlSmall" : "/images/profile/5853/8870/headshot_tiny.jpg",
+        "profileImageUrlLarge" : "/images/profile/5853/8870/22a_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5853/8870/22a_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5853/8870/22a_tiny.jpg",
         "roleName" : "administrator",
         "screenName" : "Abhi Nemani",
         "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
